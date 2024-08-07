@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_crypt_knight" type="external">
-  <Key key="_npc_Halt__in_the_King_s_name__Stat" value="Halt, a nombre del rey.Indique su propósito." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
-  <Key key="_npc_This_place_is_under_the_watch_" value="Este lugar está bajo el reloj de los tantos.¿Por qué estás aquí?" voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
-  <Key key="_npc_Walk_no_further__What_is_today" value="Camina no más.¿Cuál es la contraseña de hoy?" voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
-  <Key key="_npc_This_place_is_guarded_by_the_L" value="Este lugar está custodiado por los tibadores." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
-  <Key key="_npc_In_the_name_of_the_King__halt_" value="En nombre del rey, detenido.Manos de tu arma si quieres vivir." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
-</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_collector3" type="external">
+  <Key key="_goal_find_artefact" value="Trouvez l'artefact épique" />
+  <Key key="_QuestActionAddToJournal_K53V" value="Trouvez un artefact comme celui-ci" />
+  <Key key="_goalVoice_NxjO" value="Find an artifact like this" voice="Male" />
+  <Key key="_goal_end_quest" value="Apportez l'artefact épique au chasseur d'artefact" />
+  <Key key="_QuestActionAddToJournal_W6rP" value="Donnez l'artefact au collectionneur" />
+  <Key key="_QuestActionAddToJournal_OTn4" value="Remettre un artefact épique" />
+  <Key key="_npc_Prinesi_artefakt" value="Eh bien, comme je vous l'ai dit, cet artefact sera assez difficile à trouver.Mais comme je ne suis pas pressé de le faire rapidement, vous prenez votre temps, d'accord?" voice="Male" />
+  <Key key="_npc_O_da__davay_mne" value="Eh bien, c'est ce que j'appelle un travail honnête.Voici votre salaire, et Heeeere est ma beauté.Tu as bien fait." voice="Male" />
+</Node>

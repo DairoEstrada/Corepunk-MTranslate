@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_windstone_long_grey_hair" type="external">
+  <Key key="_npc_My_name_is_Gregory___Gregory_T" value="Je m'appelle Gregory.&quot;Gregory the Farmer&quot; Ils m'appellent.Il h.C'est parce que je suis l'agriculteur le plus prospère du territoire.Ils me regardent tous.C'est un honneur." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_The_reason_I_m_so_successful_i" value="La raison pour laquelle je suis si réussi, c'est parce que je collectionne des artefacts et je sais comment les utiliser.Si cela aide la ferme, je le garde." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_If_it_s_dangerous__I_give_it_t" value="Si c'est dangereux, je le donne à une censure ou je le remets dans le sol." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_m_not_greedy__neither__I_sha" value="Je ne suis pas gourmand, non plus.Je partage ma bonne fortune avec mes voisins.C'est pourquoi nous sommes si prospères ici.Nous nous occupons les uns des autres." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Have_you_met_my_sons_yet__They" value="Avez-vous déjà rencontré mes fils?Ils sont ma fierté et ma douleur.Je les aime tous les deux, mais ce sont tous les deux des douleurs dans mon cul." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_have_to_straighten_them_out_" value="Je dois les redresser avant de mourir, ou il y aura des problèmes." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_m_an_old_a_blind_Brownie_far" value="Je suis un vieux agriculteur de brownie aveugle." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_My_back_lets_me_know_when_it_s" value="Mon dos me fait savoir quand il va pleuvoir, et je n'ai pas plaisanté les miss depuis 4 ans.Je suis vieux." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Well__it_s_been_a_good_life__I" value="Eh bien, ça a été une bonne vie.Je n'ai aucune plainte." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Eric_my_son_will_inherit_this_" value="Eric mon fils héritera de cette ferme quand je vais.Il devra travailler avec Eddie, mon autre fils ou l'endroit ira à Blazes." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_d_like_to_leave_a_successful" value="I'd like to leave a successful enterprise when I leave, but that's out of my hands now." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_This_is_the_family_farm_" value="Ceci est la ferme familiale." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_It_s_the_biggest_and_most_succ" value="C'est le plus grand et le plus réussi du territoire." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_My_son_Eric_is_my_legal_heir__" value="Mon fils Eric est mon héritier légal.J'aimerais qu'il ne soit pas unyabout, mais je ne peux rien faire." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_If_you_need_anything__go_to_Ed" value="Si vous avez besoin de quelque chose, allez à Eddie, mon fils adoptif.C'est un CUSS sournois, mais il connaît l'entreprise." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Thank_you_kindly__I_ve_been_he" value="Merci de bien vouloir.Je suis impuissant depuis que ma vue est allée." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_hate_asking_a_stranger__but_" value="Je déteste demander à un étranger, mais vous avez une voix honnête." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_could_use_a_hand__thankee_" value="Je pourrais utiliser une main, Thankee." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Yes__I_could__Come_close__Let_" value="Oui je peux.Se rapprocher.Parlons de type privé." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_No_thanks__My_sons_do_everythi" value="Non merci.Mes fils font tout ce dont j'ai besoin.Finalement." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Not_now__It_s_time_for_my_nap_" value="Pas maintenant.Il est temps pour ma sieste." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_can_t_think_of_anything_at_t" value="Je ne peux penser à rien en ce moment, mais merci." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Sure__No_wait__never_mind_" value="Bien sûr!Pas d'attente, tant pis." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+</Node>

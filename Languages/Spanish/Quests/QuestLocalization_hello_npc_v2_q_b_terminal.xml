@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_npc_v2_q_b_terminal" type="external">
+  <Key key="_npc_Elanien_Post_Service__Making_y" value="Servicio Postal de Elanien.Haciendo tu vida más fácil." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

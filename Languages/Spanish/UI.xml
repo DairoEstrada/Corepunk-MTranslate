@@ -1,0 +1,1064 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="UI" description="">
+  <Node name="Settings">
+    <Key key="SVMaster" value="Maestro" />
+    <Key key="SVMusic" value="Música" />
+    <Key key="SVAmbience" value="Ambiente" />
+    <Key key="SVEffects" value="Efectos" />
+    <Key key="SVDialogue" value="Diálogo" />
+    <Key key="SVInterface" value="Interfaz" />
+    <Key key="SVFootsteps" value="Pisadas" />
+    <Key key="GSSSR" value="SSR" />
+    <Key key="GSCaustic" value="Caústico" />
+    <Key key="GSGeneralInteraction" value="Interacción" />
+    <Key key="GSGeneralWetness" value="Humedad" />
+    <Key key="GSGeneralRipple" value="Ondulación" />
+    <Key key="GSGeneralFlow" value="Flujo" />
+    <Key key="GSGeneralContactBlending" value="Mezcla de Contacto" />
+    <Key key="GSGeneralGadientClarification" value="Aclaración de Gradiente" />
+    <Key key="GSGeneralParallax" value="Paralaje" />
+    <Key key="GSGeneralTriplanarTexturing" value="Texturización Triplanar" />
+    <Key key="GSGeneralGlass" value="Vidrio" />
+    <Key key="Back_to_lobby" value="Volver al Lobby" />
+    <Key key="GSAntialiasing" value="Antialiasing" />
+    <Key key="Exit_game" value="Salir del juego" />
+    <Key key="Back_to_game" value="Volver" />
+    <Key key="In_game_settings" value="Ajustes" />
+    <Key key="Time_to_exit" value="Tiempo para salir: {values} seg" />
+    <Key key="Exit" value="Salir" />
+    <Key key="Video_settings" value="VIDEO" />
+    <Key key="Sound_settings" value="SONIDO" />
+    <Key key="General_settings" value="GENERAL" />
+    <Key key="Advanced_settings" value="AVANZADO" />
+    <Key key="Windows_mode" value="Modo ventana" />
+    <Key key="Full_screen" value="Pantalla completa" />
+    <Key key="Resolution" value="Resolución" />
+    <Key key="Textures" value="Texturas" />
+    <Key key="Fps_settings" value="FPS" />
+    <Key key="Keyboard_Other_CameraDown" value="Bajar cámara" />
+    <Key key="Low" value="Bajo" />
+    <Key key="Medium" value="Medio" />
+    <Key key="High" value="Alto" />
+    <Key key="Fantastic" value="Fantástico" />
+    <Key key="Fast" value="Rápido" />
+    <Key key="Simple" value="Simple" />
+    <Key key="Good" value="Bueno" />
+    <Key key="Beautiful" value="Hermoso" />
+    <Key key="Apply_settings" value="Aplicar" />
+    <Key key="Cancel_settings" value="Cancelar" />
+    <Key key="Fastest" value="Más rápido" />
+    <Key key="vSync" value="Sincronización vertical" />
+    <Key key="GSSurfaceScattering" value="Dispersión Superficial" />
+    <Key key="GSUseAdditionalReflection" value="Agregar reflexión" />
+    <Key key="Lock_actionbars" value="Bloquear barras de acción" />
+    <Key key="Reset_to_default" value="Restablecer valores" />
+    <Key key="Graphics" value="Gráficos" />
+    <Key key="Sound" value="Sonido" />
+    <Key key="GamePlay" value="Jugabilidad" />
+    <Key key="KeyBoard" value="Teclado" />
+    <Key key="Displaymode" value="Modo de pantalla" />
+    <Key key="KeyBoard_Ability" value="Habilidad" />
+    <Key key="KeyBoard_Main" value="Principal" />
+    <Key key="KeyBoard_Interface" value="Interfaz" />
+    <Key key="KeyBoard_Other" value="Otro" />
+    <Key key="DisplayMode_Windowed" value="Ventana" />
+    <Key key="DisplayMode_Fullscreen" value="Pantalla completa" />
+    <Key key="DisplayMode_WindowedFullscreen" value="Ventana en pantalla completa" />
+    <Key key="Cursor_restrictions" value="Restricciones del cursor" />
+    <Key key="Texture_quality" value="Calidad gráfica" />
+    <Key key="Fps" value="FPS" />
+    <Key key="Water_quality" value="Calidad del agua" />
+    <Key key="Animated_Portraits_quality" value="Calidad de retratos animados" />
+    <Key key="Vertical_sync" value="Sincronización vertical" />
+    <Key key="Antialias" value="Antialias" />
+    <Key key="AdvancedSettings" value="Configuración avanzada" />
+    <Key key="Object_Interaction_Level" value="Nivel de interacción" />
+    <Key key="AdvancedSettings_ContactBlending" value="Mezcla de Contacto" />
+    <Key key="AdvancedSettings_Flow" value="Flujo" />
+    <Key key="AdvancedSettings_GadientClarification" value="Aclaración de Gradiente" />
+    <Key key="AdvancedSettings_Glass" value="Vidrio" />
+    <Key key="AdvancedSettings_Parallax" value="Paralaje" />
+    <Key key="AdvancedSettings_Ripple" value="Ondulación" />
+    <Key key="AdvancedSettings_TriplanarTexturing" value="Texturización Triplanar" />
+    <Key key="AdvancedSettings_Wetness" value="Humedad" />
+    <Key key="AdvancedSettings_Scattering" value="Dispersión" />
+    <Key key="AdvancedSettings_AdditionalReflection" value="Reflexión adicional" />
+    <Key key="AdvancedSettings_AmbientOcclusion" value="Oclusión ambiental" />
+    <Key key="Sound_TurnOffAllSounds" value="Apagar todos los sonidos" />
+    <Key key="Music_Master" value="Maestro" />
+    <Key key="Music" value="Música" />
+    <Key key="Music_Ambience" value="Ambiente" />
+    <Key key="Music_Effects" value="Efectos" />
+    <Key key="Music_Dialogue" value="Diálogo" />
+    <Key key="Music_Interface" value="Interfaz" />
+    <Key key="Music_Footsteps" value="Pisadas" />
+    <Key key="Gameplay_ShowPing" value="Mostrar Ping" />
+    <Key key="Gameplay_Damage" value="Daño" />
+    <Key key="Gameplay_EnemyNames" value="Nombres de enemigos" />
+    <Key key="Gameplay_GuildName" value="Nombre de la guild" />
+    <Key key="Gameplay_AllyGuildName" value="Nombre de la guild aliada" />
+    <Key key="Gameplay_CharacterNames " value="Nombres de personajes " />
+    <Key key="Gameplay_PetNames" value="Nombres de mascotas" />
+    <Key key="Gameplay_AllyNames" value="Nombres de aliados" />
+    <Key key="Gameplay_Character" value="Personaje" />
+    <Key key="Gameplay_Ally" value="Aliado" />
+    <Key key="Gameplay_Enemy" value="Enemigo" />
+    <Key key="Gameplay_AllyGuild" value="Guild aliada" />
+    <Key key="Gameplay_Pet" value="Mascota" />
+    <Key key="Gameplay_AttackNearestEnemy" value="Atacar al enemigo más cercano" />
+    <Key key="Gameplay_AttackNearestToCursorEnemy" value="Atacar al enemigo más cercano al cursor" />
+    <Key key="Gameplay_SmartCast" value="Lanzamiento inteligente" />
+    <Key key="Keyboard_Ability_UseAbility1" value="Usar habilidad 1" />
+    <Key key="Keyboard_Ability_UseAbility2" value="Usar habilidad 2" />
+    <Key key="Keyboard_Ability_UseAbility3" value="Usar habilidad 3" />
+    <Key key="Keyboard_Ability_UseAbility4" value="Usar habilidad 4" />
+    <Key key="Keyboard_Ability_UseAbility5" value="Usar habilidad 5" />
+    <Key key="Keyboard_Ability_UseUniversalAbility1" value="Usar habilidad universal 1" />
+    <Key key="Keyboard_Ability_UseUniversalAbility2" value="Usar habilidad universal 2" />
+    <Key key="Keyboard_Main_RMB" value="Botón derecho del ratón" />
+    <Key key="Keyboard_Main_LMB" value="Botón izquierdo del ratón" />
+    <Key key="Keyboard_Main_Stop" value="Detener/cancelar acción" />
+    <Key key="Keyboard_Main_BattleState" value="Cambiar entre modo combate y pacífico" />
+    <Key key="Keyboard_Main_RunState" value="Caminar/correr" />
+    <Key key="Keyboard_Interface_OpenMainMenu" value="Menú principal" />
+    <Key key="Keyboard_Interface_OpenInventory" value="Inventario" />
+    <Key key="Keyboard_Interface_OpenTalent" value="Talentos" />
+    <Key key="Keyboard_Interface_OpenCharacter" value="Ventana de personaje" />
+    <Key key="Keyboard_Interface_OpenGuild" value="Ventana de guild" />
+    <Key key="Keyboard_Other_CameraBind" value="Desvincular cámara del héroe" />
+    <Key key="Keyboard_Other_CameraToCenter" value="Centrar la cámara" />
+    <Key key="Keyboard_Other_CameraUp" value="Subir cámara" />
+    <Key key="Keyboard_Other_CameraLeft" value="Mover cámara a la izquierda" />
+    <Key key="Keyboard_Other_CameraRight" value="Mover cámara a la derecha" />
+    <Key key="GamePlay_ShowInformation" value="Mostrar información" />
+    <Key key="GamePlay_ShowHealth" value="Mostrar salud" />
+    <Key key="GamePlay_MovementSettings" value="Configuración de movimiento" />
+    <Key key="ResetSettingsTitle" value="Restablecer configuración" />
+    <Key key="ResetSettingsInfo" value="¿Desea restablecer la configuración a los valores predeterminados?" />
+    <Key key="Close_settings" value="Cerrar" />
+    <Key key="Shadows" value="Sombras" />
+    <Key key="Shadows_Resolution" value="Resolución de sombras" />
+    <Key key="Texture_Quality" value="Calidad de textura" />
+    <Key key="Soft_Particles" value="Partículas suaves" />
+    <Key key="Bloom" value="Floración" />
+    <Key key="Color_Grading" value="Calificación de color" />
+    <Key key="Other_Post_Effects" value="Otros efectos posteriores" />
+    <Key key="Antialiasing" value="Antialiasing" />
+    <Key key="AlertTitle" value="Alerta" />
+    <Key key="AlertInfo" value="El control {0} está actualmente asignado a {1} \n ¿Desea asignarlo en su lugar?" />
+    <Key key="ChangeSettingsTitle" value="Cambiar configuración" />
+    <Key key="ChangeSettingsInfo" value="¿Desea aceptar el último cambio? &#xA;Se restablecerán automáticamente después de 15 segundos" />
+    <Key key="CloseSettingsTitle" value="Cerrar ventana" />
+    <Key key="CloseSettingsInfo" value="Se descartarán todos los cambios no guardados. ¿Cerrar la ventana?" />
+    <Key key="Anisotropic_Textures" value="Texturas anisotrópicas" />
+    <Key key="Additional_Reflections_Quality" value="Calidad de reflexiones adicionales" />
+    <Key key="Interface" value="Interfaz" />
+    <Key key="Map_Opacity" value="Opacidad del mapa" />
+    <Key key="Minimap_Opacity" value="Opacidad del minimapa" />
+    <Key key="Hud_Opacity" value="Opacidad del HUD" />
+    <Key key="Chat_Opacity" value="Opacidad del chat" />
+    <Key key="ModalWindows_Opacity" value="Opacidad de ventanas modales" />
+    <Key key="MainInterface_Opacity" value="Opacidad de la interfaz principal" />
+    <Key key="Gameplay_ShowFps" value="Mostrar FPS" />
+    <Key key="AdvancedSettings_Destructables" value="Destructibles" />
+    <Key key="Terrain_Contact_Blending" value="Mezcla de terreno" />
+    <Key key="Gameplay_ForceMoveActions" value="Forzar acciones de movimiento" />
+    <Key key="Tooltips_Opacity" value="Opacidad de tooltips" />
+    <Key key="Reflections" value="Reflejos" />
+  </Node>
+  <Node name="Chat">
+    <Key key="See" value="Ves" />
+    <Key key="Say" value="Dijiste" />
+    <Key key="Main_channel" value="Principal" />
+    <Key key="Combat_log" value="Registro de combate" />
+    <Key key="Enter_text" value="Introduce texto.." />
+    <Key key="Cannot_write" value="¡No puedes escribir en esta ventana!" />
+    <Key key="Battle_history" value="En este chat estará tu historial de batallas" />
+    <Key key="DuelVictory" value="{value1} derrotó a {value2} en un duelo!" />
+    <Key key="DuelEscape" value="{value1} escapó de un duelo con {value2}!" />
+    <Key key="HeroNewHome" value="El {value1} es ahora tu hogar" />
+    <Key key="Danger" value="{value1} señala que tengas cuidado." />
+    <Key key="AssistMe" value="{value1} está pidiendo ayuda." />
+    <Key key="OnMyWay" value="{value1} está en camino." />
+    <Key key="ReceiveReputation" value="La reputación con {value1} aumentó en {value2}." />
+    <Key key="QuestDone" value="Misión &quot;{value1}&quot; completada." />
+    <Key key="ExperienceReceived" value="Obtienes {value1} experiencia." />
+    <Key key="CurrencyReceived" value="Obtienes: {value1} clúster, {value2} verhexen, {value1} segmento." />
+    <Key key="ItemReceived" value="Obtienes el objeto: {value1}." />
+    <Key key="SendMessagesTooOften" value="¡Estás enviando mensajes con demasiada frecuencia!" />
+  </Node>
+  <Node name="Dialog">
+    <Key key="Quest" value="Misión" />
+    <Key key="GoAway" value="Salir" />
+  </Node>
+  <Node name="ZoneChanging" />
+  <Node name="InviteToParty">
+    <Key key="Key" value="Invitar a grupo" />
+  </Node>
+  <Node name="Whisper">
+    <Key key="Key" value="Susurrar" />
+  </Node>
+  <Node name="Preview">
+    <Key key="Key" value="Previsualizar" />
+  </Node>
+  <Node name="Exchange">
+    <Key key="Key" value="Intercambiar" />
+  </Node>
+  <Node name="Follow">
+    <Key key="Key" value="Seguir" />
+  </Node>
+  <Node name="Duel">
+    <Key key="Key" value="Duelo" />
+  </Node>
+  <Node name="FromParty">
+    <Key key="Key" value="te invita a un grupo" />
+  </Node>
+  <Node name="ToParty">
+    <Key key="Key" value="te invita a un grupo" />
+  </Node>
+  <Node name="ToExchange">
+    <Key key="Key" value="te ofrece un intercambio" />
+  </Node>
+  <Node name="Attention">
+    <Key key="Key" value="Ping" />
+  </Node>
+  <Node name="Danger">
+    <Key key="Key" value="Peligro" />
+  </Node>
+  <Node name="AssistMe">
+    <Key key="Key" value="Ayúdame" />
+  </Node>
+  <Node name="OnMyWay">
+    <Key key="Key" value="En camino" />
+  </Node>
+  <Node name="SellPrice">
+    <Key key="Key" value="Precio de venta:" />
+  </Node>
+  <Node name="Bagcells">
+    <Key key="Key" value="{values} Ranura de bolsa" />
+  </Node>
+  <Node name="BOP">
+    <Key key="Key" value="Se liga al recogerlo" />
+  </Node>
+  <Node name="BOE">
+    <Key key="Key" value="Se liga al equiparlo" />
+  </Node>
+  <Node name="Soulbound">
+    <Key key="Key" value="Ligado al alma" />
+  </Node>
+  <Node name="NeedLevel">
+    <Key key="Key" value="Requiere nivel: " />
+  </Node>
+  <Node name="NeedProfession">
+    <Key key="Key" value="Requiere:" />
+  </Node>
+  <Node name="NeedProfessionLevel">
+    <Key key="Key" value="nivel" />
+  </Node>
+  <Node name="Reward">
+    <Key key="Label" value="Recompensas" />
+  </Node>
+  <Node name="Currency">
+    <Key key="Key" value="Teck" />
+  </Node>
+  <Node name="Exp">
+    <Key key="Key" value="Experiencia" />
+  </Node>
+  <Node name="AbilityTableValues">
+    <Key key="One" value="{{v1}}{{m}}" />
+    <Key key="Zero" value="{{v1}}{{m}}" />
+    <Key key="Two" value="{{v1}}{{m}} / {{v2}}{{m}}" />
+  </Node>
+  <Node name="Inventory">
+    <Key key="bags" value="BOLSAS" />
+    <Key key="Extra_backpack" value="Extra" />
+    <Key key="Resource_backpack" value="Recursos" />
+    <Key key="BagsLevel" value="nivel." />
+  </Node>
+  <Node name="Pick_up_all">
+    <Key key="Key" value="Recoger todo" />
+  </Node>
+  <Node name="Trade">
+    <Key key="Key" value="Comerciar" />
+  </Node>
+  <Node name="Buyout">
+    <Key key="Key" value="Comprar" />
+  </Node>
+  <Node name="Okey">
+    <Key key="Key" value="OK" />
+  </Node>
+  <Node name="Cancel">
+    <Key key="Key" value="CANCELAR" />
+  </Node>
+  <Node name="NotLearned">
+    <Key key="Key" value="No aprendido" />
+  </Node>
+  <Node name="Received">
+    <Key key="Key" value="recibido :" />
+  </Node>
+  <Node name="You">
+    <Key key="Key" value="Tú" />
+  </Node>
+  <Node name="Master">
+    <Key key="Key" value="Maestro" />
+  </Node>
+  <Node name="Expert">
+    <Key key="Key" value="Experto" />
+  </Node>
+  <Node name="Craftsman">
+    <Key key="Key" value="Artesano" />
+  </Node>
+  <Node name="Journeyman">
+    <Key key="Key" value="Oficial" />
+  </Node>
+  <Node name="Pupil">
+    <Key key="Key" value="Principiante" />
+  </Node>
+  <Node name="Destroy">
+    <Key key="Key" value="Destruir: {values}?" />
+  </Node>
+  <Node name="Abilities">
+    <Key key="Key" value="Habilidades:" />
+  </Node>
+  <Node name="Biography">
+    <Key key="Key" value="Descripción:" />
+  </Node>
+  <Node name="Honor">
+    <Key key="Key" value="Honor" />
+  </Node>
+  <Node name="PlaceForProk">
+    <Key key="Key" value="Lugar para consumibles" />
+  </Node>
+  <Node name="Create">
+    <Key key="Key" value="Crear" />
+  </Node>
+  <Node name="CreateAll">
+    <Key key="Key" value="Crear todo" />
+  </Node>
+  <Node name="Accept">
+    <Key key="Key" value="Aceptar" />
+  </Node>
+  <Node name="Main">
+    <Key key="Key" value="Principal" />
+  </Node>
+  <Node name="Additional">
+    <Key key="Key" value="Adicional" />
+  </Node>
+  <Node name="Profession">
+    <Key key="Key" value="Profesión" />
+  </Node>
+  <Node name="Learned">
+    <Key key="Key" value="Aprendido" />
+  </Node>
+  <Node name="CanCreate">
+    <Key key="Key" value="Se puede crear" />
+  </Node>
+  <Node name="CanUse">
+    <Key key="Key" value="Se puede usar" />
+  </Node>
+  <Node name="ForgetProfession">
+    <Key key="Key" value="¿Quieres olvidar la profesión {values}?&#xD;&#xA;Todo el progreso se perderá" />
+  </Node>
+  <Node name="Filter">
+    <Key key="Key" value="Filtrar" />
+  </Node>
+  <Node name="Loot">
+    <Key key="Key" value="Botín" />
+  </Node>
+  <Node name="QueueLoot">
+    <Key key="Key" value="En turno" />
+  </Node>
+  <Node name="GroupLoot">
+    <Key key="Key" value="Grupo" />
+  </Node>
+  <Node name="LeaderLoot">
+    <Key key="Key" value="Botín del líder" />
+  </Node>
+  <Node name="RandomLoot">
+    <Key key="Key" value="Aleatorio" />
+  </Node>
+  <Node name="Uncommon">
+    <Key key="Key" value="Poco común" />
+  </Node>
+  <Node name="Rare">
+    <Key key="Key" value="Raro" />
+  </Node>
+  <Node name="Epic">
+    <Key key="Key" value="Épico" />
+  </Node>
+  <Node name="Legendary">
+    <Key key="Key" value="Legendario" />
+  </Node>
+  <Node name="Kick_from_party">
+    <Key key="Key" value="Expulsar" />
+  </Node>
+  <Node name="Change_party_leader">
+    <Key key="Key" value="Cambiar líder" />
+  </Node>
+  <Node name="Set_role">
+    <Key key="Key" value="Asignar un rol" />
+  </Node>
+  <Node name="Prewiew">
+    <Key key="Key" value="Inspeccionar" />
+  </Node>
+  <Node name="Report">
+    <Key key="Key" value="Reportar" />
+  </Node>
+  <Node name="Remove_from_party">
+    <Key key="Key" value="Expulsar" />
+  </Node>
+  <Node name="Leave_from_party">
+    <Key key="Key" value="Dejar grupo" />
+  </Node>
+  <Node name="Lose_connection">
+    <Key key="Key" value="Conexión perdida" />
+  </Node>
+  <Node name="Back_to_login">
+    <Key key="Key" value="Reconectar" />
+  </Node>
+  <Node name="Battle_mode_condition">
+    <Key key="Key" value="No disponible en combate" />
+  </Node>
+  <Node name="Profession_condition">
+    <Key key="Key" value="Requiere profesión {value1}" />
+  </Node>
+  <Node name="Profession_lvl_condition">
+    <Key key="Key" value="Requiere profesión {value1} nivel {value2}" />
+  </Node>
+  <Node name="Ability_lvl_condition">
+    <Key key="Key" value="Habilidad no aprendida" />
+  </Node>
+  <Node name="Harvest_free_condition">
+    <Key key="Key" value="Recurso ocupado" />
+  </Node>
+  <Node name="Not_corpse_condition">
+    <Key key="Key" value="Estás muerto" />
+  </Node>
+  <Node name="Not_ghost_condition">
+    <Key key="Key" value="Eres un fantasma" />
+  </Node>
+  <Node name="Not_resource_condition">
+    <Key key="Key" value="No hay suficiente {value1}." />
+  </Node>
+<Node name="Invite">
+    <Key key="ToGroup" value="{values} te invita a un grupo" />
+    <Key key="ToExchange" value="{values} te ofrece un intercambio" />
+    <Key key="ToDuel" value="te reta a un duelo!" />
+    <Key key="RequestGroup" value="{values} quiere unirse a tu grupo" />
+</Node>
+<Node name="Physical_attack">
+    <Key key="Key" value="Físico" />
+</Node>
+<Node name="Magical_attack">
+    <Key key="Key" value="Mágico" />
+</Node>
+<Node name="Gear_score">
+    <Key key="Key" value="Puntuación de equipo" />
+</Node>
+<Node name="Defense">
+    <Key key="Key" value="Defensa" />
+</Node>
+<Node name="Heal">
+    <Key key="Key" value="Curación" />
+</Node>
+<Node name="Resource">
+    <Key key="Key" value="Recursos" />
+</Node>
+<Node name="NeedWeaponSpec">
+    <Key key="Key" value="Requiere:" />
+</Node>
+<Node name="Item_level_need">
+    <Key key="Key" value="El objeto no coincide con el nivel" />
+</Node>
+<Node name="Pvp_true">
+    <Key key="Key" value="PvP activado" />
+</Node>
+<Node name="Pvp_false">
+    <Key key="Key" value="PvP desactivado" />
+</Node>
+<Node name="Leaving_body">
+    <Key key="Key" value="{Values} min antes de dejar el cuerpo" />
+</Node>
+<Node name="Resurrect_debuff">
+    <Key key="Key" value="¿Resucitar cerca del Guardián del Alma? Recibirás una penalización" />
+</Node>
+<Node name="NoTalentPoint">
+    <Key key="Key" value="No hay suficientes puntos de talento." />
+</Node>
+<Node name="Friend">
+    <Key key="Key" value="Amigo" />
+</Node>
+<Node name="Aggressor">
+    <Key key="Key" value="Agresor" />
+</Node>
+<Node name="Defender">
+    <Key key="Key" value="Defensor" />
+</Node>
+  <Node name="Enemy">
+    <Key key="Key" value="Enemigo" />
+</Node>
+<Node name="War">
+    <Key key="Key" value="Enemigo de la guild" />
+</Node>
+<Node name="Neutral">
+    <Key key="Key" value="Neutral" />
+</Node>
+<Node name="Weakling">
+    <Key key="Key" value="Débil" />
+</Node>
+<Node name="Params">
+    <Key key="Key" value="Atributos" />
+</Node>
+<Node name="Open_settings">
+    <Key key="Key" value="Ajustes" />
+</Node>
+<Node name="Open_map">
+    <Key key="Key" value="Mapa" />
+</Node>
+<Node name="Open_talents">
+    <Key key="Key" value="Talentos" />
+</Node>
+<Node name="Open_inventory">
+    <Key key="Key" value="Inventario" />
+</Node>
+<Node name="Open_character">
+    <Key key="Key" value="Personaje" />
+</Node>
+<Node name="Login">
+    <Key key="Exit_lobby" value="Salir del lobby" />
+    <Key key="Registration" value="Registro" />
+    <Key key="Account" value="Mi cuenta" />
+    <Key key="Website" value="Sitio web oficial" />
+    <Key key="User_name" value="Nombre de usuario" />
+    <Key key="Password" value="Contraseña" />
+    <Key key="Remember_me" value="Recordarme" />
+    <Key key="Play" value="Iniciar sesión" />
+    <Key key="Video" value="Vídeo" />
+    <Key key="Creators" value="Créditos" />
+    <Key key="Menu" value="Menú" />
+    <Key key="Choose_character" value="Elegir personaje" />
+    <Key key="Back_to_login" value="Volver" />
+    <Key key="Character_name" value="Nombre del personaje" />
+    <Key key="Enter_hero_name" value="Introduce el nombre del héroe" />
+    <Key key="Finish" value="Finalizar" />
+    <Key key="Abilities" value="Habilidades" />
+    <Key key="Biography" value="Descripción" />
+    <Key key="New_character" value="Nuevo héroe" />
+    <Key key="Delete_character" value="Eliminar personaje" />
+    <Key key="Enter_world_p1" value="Explorar" />
+    <Key key="Lobby_settings" value="Ajustes" />
+    <Key key="Enter_world_p2" value="Mundo" />
+    <Key key="Back_to_created_character" value="Volver" />
+    <Key key="Specialization" value="Maestría" />
+    <Key key="Choose_face" value="Personalizar cara" />
+    <Key key="Customization" value="Personalización" />
+    <Key key="Randomize" value="Aleatorizar" />
+    <Key key="Presets" value="Preajustes" />
+    <Key key="SkinColor" value="Color de piel" />
+    <Key key="Face" value="Cara" />
+    <Key key="Hair" value="Estilo de cabello" />
+    <Key key="HairColor" value="Color de cabello" />
+    <Key key="FacialFeatures" value="Rasgos faciales" />
+    <Key key="FacialFeaturesColor" value="Color de los rasgos faciales" />
+    <Key key="OutfitSet" value="Conjunto de atuendo" />
+    <Key key="OutfitColor" value="Color del atuendo" />
+    <Key key="Create" value="Crear" />
+    <Key key="EyesColor" value="Color de ojos" />
+    <Key key="LipsColor" value="Color de labios" />
+    <Key key="EyebrowsColor" value="Color de cejas y pestañas" />
+    <Key key="Show" value="Mostrar" />
+    <Key key="About" value="Descripción" />
+    <Key key="Credits" value="Créditos" />
+    <Key key="Confirm_password" value="Confirmar contraseña" />
+    <Key key="Confirm" value="Confirmar" />
+    <Key key="Logout" value="Cerrar sesión" />
+    <Key key="Cant_login" value="No puedo iniciar sesión" />
+    <Key key="Already_logged_in" value="Usuario ya conectado" />
+    <Key key="Incorrect_name" value="Nombre incorrecto" />
+    <Key key="Incorrect_password" value="Contraseña incorrecta" />
+    <Key key="DontHaveAnAccount" value="¿No tienes una cuenta? ¡Regístrate ahora!" />
+    <Key key="Registration_Fail" value="Error en el registro" />
+    <Key key="Invite_code" value="Código de invitación" />
+</Node>
+<Node name="Common">
+    <Key key="Key" value="Común" />
+</Node>
+<Node name="Binds_on_equip">
+    <Key key="Key" value="Se liga al equipar" />
+</Node>
+<Node name="Binds_on_pickup">
+    <Key key="Key" value="Se liga al recogerlo" />
+</Node>
+<Node name="Personal">
+    <Key key="Key" value="Personal" />
+</Node>
+<Node name="Learn_profession">
+    <Key key="Key" value="Profesión aprendida: {value1}" />
+</Node>
+<Node name="Skill_improved">
+    <Key key="Key" value="Tu habilidad {value1} ha aumentado a {value2}" />
+</Node>
+<Node name="Fogot_profession">
+    <Key key="Key" value="Olvidaste la profesión: {value1}" />
+</Node>
+<Node name="Improv_profession_level">
+    <Key key="Key" value="Mejoraste la profesión {value1} del nivel {value2} al nivel {value3}" />
+</Node>
+<Node name="Ping">
+    <Key key="Key" value="Ping:" />
+</Node>
+<Node name="FailByDistance">
+    <Key key="Key" value="Héroe demasiado lejos" />
+</Node>
+<Node name="FailByBattleMode">
+    <Key key="Key" value="Héroe en combate" />
+</Node>
+<Node name="FailByInDuel">
+    <Key key="Key" value="El héroe ya está en un duelo" />
+</Node>
+<Node name="ReturnToDuel">
+    <Key key="Key" value="Regresa a la zona de duelo, quedan {value1} seg" />
+</Node>
+<Node name="Talents">
+    <Key key="Locked_branch" value="BLOQUEADO" />
+    <Key key="Select_branch" value="ELIGE UNA MAESTRÍA" />
+    <Key key="Warrior" value="GUERRERO" />
+    <Key key="Mage" value="MAGO" />
+    <Key key="Tank" value="TANQUE" />
+    <Key key="Archer" value="CAZADOR" />
+    <Key key="Healer" value="MÉDICO" />
+    <Key key="Support" value="SOPORTE" />
+    <Key key="Pathfinder" value="EXPLORADOR" />
+    <Key key="Farmer" value="SAQUEADOR" />
+    <Key key="Assassin" value="ASESINO" />
+    <Key key="Required_level" value="NIVEL REQUERIDO" />
+    <Key key="Tank_bonus" value="+10% SALUD MÁXIMA" />
+    <Key key="Mage_bonus" value="+10% MANÁ MÁXIMO" />
+    <Key key="Assassin_bonus" value="+5% PROBABILIDAD DE CRÍTICO FÍSICO/MÁGICO" />
+    <Key key="Archer_bonus" value="+10% VELOCIDAD DE ATAQUE" />
+    <Key key="Healer_bonus" value="+10% PODER DE CURACIÓN Y ESCUDO" />
+    <Key key="Support_bonus" value="+5% VELOCIDAD DE MOVIMIENTO" />
+    <Key key="Pathfinder_bonus" value="+2% REGENERACIÓN DE SALUD SIN ALIADOS CERCA" />
+    <Key key="Warrior_bonus" value="+5% DAÑO" />
+    <Key key="Farmer_bonus" value="+10% EN RECOLECCIÓN Y PROBABILIDAD DE BOTÍN" />
+    <Key key="Talent_point_left" value="PUNTOS RESTANTES" />
+    <Key key="Talent_cancel" value="CANCELAR" />
+    <Key key="Talent_choose" value="ELEGIR" />
+    <Key key="Talent_reset" value="REINICIAR" />
+    <Key key="Talent_apply" value="APLICAR" />
+    <Key key="Crafter" value="ARTESANO" />
+    <Key key="Crafter_bonus" value="+10% EN PROBABILIDADES DE PROCESAMIENTO" />
+</Node>
+<Node name="Main_resume">
+    <Key key="Key" value="CONTINUAR" />
+</Node>
+<Node name="Main_settings">
+    <Key key="Key" value="AJUSTES" />
+</Node>
+<Node name="Main_back_to_lobby">
+    <Key key="Key" value="VOLVER AL LOBBY" />
+</Node>
+<Node name="Main_exit">
+    <Key key="Key" value="SALIR" />
+</Node>
+<Node name="Resurrect_spirit">
+    <Key key="Key" value="{value1} HASTA LIBERAR" />
+</Node>
+<Node name="Resurrect_now">
+    <Key key="Key" value="¿RESUCITAR AHORA?" />
+</Node>
+<Node name="Resurrect_reaper">
+    <Key key="Key" value="¿QUIERES RESUCITAR EN EL SEGADOR?" />
+</Node>
+<Node name="Resurrect_friend">
+    <Key key="Key" value="{value1} QUIERE RESUCITARTE" />
+</Node>
+<Node name="Realease_spirit">
+    <Key key="Key" value="LIBERAR ESPÍRITU" />
+</Node>
+<Node name="Use_soulstone">
+    <Key key="Key" value="USAR HEROKIT" />
+</Node>
+<Node name="Decline">
+    <Key key="Key" value="RECHAZAR" />
+</Node>
+<Node name="Get_debuffs">
+    <Key key="Key" value="Obtendrás debuffs" />
+</Node>
+<Node name="TargetNotValid">
+    <Key key="Key" value="El objetivo no es válido" />
+</Node>
+<Node name="Quest_free_condition">
+    <Key key="Key" value="Objeto ocupado" />
+</Node>
+<Node name="Not_enough_space">
+    <Key key="Key" value="No hay suficiente espacio" />
+</Node>
+<Node name="RequestParty">
+    <Key key="Key" value="Solicitud de grupo" />
+</Node>
+<Node name="New_home">
+    <Key key="Key" value="Quiero quedarme aquí." />
+</Node>
+<Node name="New_home_confirm">
+    <Key key="Key" value="¿Estás seguro de que quieres quedarte aquí?" />
+</Node>
+<Node name="New_home_confirm_ok">
+    <Key key="Key" value="Tu nuevo hogar está asignado." />
+</Node>
+<Node name="New_home_confirm_fail">
+    <Key key="Key" value="No se pudo asignar tu nuevo hogar." />
+</Node>
+<Node name="Mainhand">
+    <Key key="Key" value="Mano principal" />
+</Node>
+<Node name="Offhand">
+    <Key key="Key" value="Mano secundaria" />
+</Node>
+<Node name="Twohanded">
+    <Key key="Key" value="Dos manos" />
+</Node>
+<Node name="Onehanded">
+    <Key key="Key" value="Una mano" />
+</Node>
+<Node name="Mute_group_ping">
+    <Key key="Key" value="Silenciar ping del mapa" />
+</Node>
+<Node name="Unmute_group_ping">
+    <Key key="Key" value="Activar ping del mapa" />
+</Node>
+<Node name="NoResultsFound">
+    <Key key="Key" value="No se encontraron resultados." />
+</Node>
+<Node name="AuctionHelp">
+    <Key key="Key" value="Haz clic con el botón derecho en el objeto para crear un lote, o Shift + clic izquierdo para buscarlo en la subasta." />
+</Node>
+<Node name="AuctionBuyError">
+    <Key key="Key" value="El lote no es relevante." />
+</Node>
+<Node name="DepositNotRefunded">
+    <Key key="Key" value="¡Advertencia! Cuando se elimina un lote de la subasta, no se reembolsa el depósito." />
+</Node>
+<Node name="Gold">
+    <Key key="Key" value="Oro" />
+</Node>
+<Node name="Profession_limit">
+    <Key key="Key" value="Se ha alcanzado el límite para el estudio de profesiones." />
+</Node>
+<Node name="RandomLobby">
+    <Key key="Key" value="Aleatorio {value1}" />
+</Node>
+<Node name="DeleteCharacterPopup">
+    <Key key="DeleteCharacter_Title" value="¿QUIERES ELIMINAR?" />
+    <Key key="DeleteCharacter_Info" value="Escribe &lt;color=#984825ff&gt;“ELIMINAR”&lt;/color&gt; en el campo" />
+    <Key key="DeleteCharacter_Yes" value="SÍ" />
+    <Key key="DeleteCharacter_Cancel" value="Cancelar" />
+    <Key key="DeleteCharacter_LevelPostfix" value="NIVEL" />
+    <Key key="DeleteString" value="ELIMINAR" />
+</Node>
+<Node name="Exit">
+    <Key key="Key" value="SALIR" />
+</Node>
+<Node name="TimeExitLobby">
+    <Key key="Key" value="TIEMPO PARA SALIR AL LOBBY" />
+</Node>
+<Node name="TimeExit">
+    <Key key="Key" value="TIEMPO PARA SALIR" />
+</Node>
+<Node name="World">
+    <Key key="Key" value="KWALAT" />
+</Node>
+<Node name="LocationA">
+    <Key key="Key" value="Bosque denso" />
+</Node>
+<Node name="Goals">
+    <Key key="Key" value="OBJETIVOS" />
+</Node>
+<Node name="Journal">
+    <Key key="Key" value="DIARIO" />
+</Node>
+<Node name="Track">
+    <Key key="Key" value="SEGUIR" />
+</Node>
+<Node name="Abandon">
+    <Key key="Key" value="ABANDONAR" />
+</Node>
+<Node name="Untrack">
+    <Key key="Key" value="DEJAR DE SEGUIR" />
+</Node>
+<Node name="BankBuySlot">
+    <Key key="Key" value="¿Quieres comprar una ranura de bolsa más?" />
+</Node>
+<Node name="Price">
+    <Key key="Key" value="Precio:" />
+</Node>
+<Node name="SpecialAbility">
+    <Key key="Key" value="HABILIDAD ESPECIAL" />
+</Node>
+<Node name="HeroNameIsEmpty">
+    <Key key="Key" value="El nombre del héroe está vacío" />
+</Node>
+<Node name="HeroNameLength">
+    <Key key="Key" value="La longitud del nombre del héroe debe ser de al menos {0}" />
+</Node>
+<Node name="HeroNameIsOccupied">
+    <Key key="Key" value="El nombre del héroe está ocupado" />
+</Node>
+<Node name="FailCreateHero">
+    <Key key="Key" value="Error al crear el héroe" />
+</Node>
+<Node name="ShiftDescription">
+    <Key key="Key" value="Mantén SHIFT para obtener información extendida." />
+</Node>
+<Node name="NextUltimateUpgrade">
+    <Key key="Key" value="La siguiente mejora está disponible en: nivel {value1}" />
+</Node>
+<Node name="SkillUpgradeKey">
+    <Key key="Key" value="Haz clic o presiona {value1} para mejorar" />
+</Node>
+<Node name="HeroNotSelected">
+    <Key key="Key" value="NO SE HA SELECCIONADO EL HÉROE" />
+</Node>
+<Node name="PreloadingText">
+    <Key key="loading pub" value="Aprende a hacer fogatas con diferentes tipos de madera para mejorar tu eficiencia en la recuperación." />
+    <Key key="loading bionic implants" value="Disfruta de tus comidas cerca de una fogata para mejorar la digestión de los alimentos y recuperar energía más rápido." />
+    <Key key="loading quaddari friends" value="Explora y rebusca en los contenedores, rompe lo que puedas y recoge todo lo que encuentres. ¡Nunca pases por alto el botín que te espera!" />
+    <Key key="loading ghoul police" value="¿Te aventuras en el bosque profundo? Abastécete de consumibles de comida y fósforos." />
+    <Key key="loading witchhunter" value="Los refrigerios regulares ayudan a la recuperación sobre la marcha. Merienda mientras exploras para estar preparado para lo que venga." />
+    <Key key="loading ISAI-friendly" value="Utiliza el panel lateral para acceder rápidamente a los consumibles, asegurando una rápida recuperación durante tus aventuras." />
+    <Key key="loading valley of sins" value="Una comida cocinada repone significativamente más energía que su contraparte cruda. Cocina antes de consumir para mantenerte con energía." />
+    <Key key="loading mana gas station" value="No pases por alto a los pequeños animales en el bosque, cázalos para obtener un suministro de carne mientras recorres lo desconocido." />
+    <Key key="loading faiden adventure awaits" value="Mantén presionado el botón derecho del ratón para correr hacia el cursor. Usa este control junto con los saltos para llegar a lugares elevados o liberarte si te quedas atrapado." />
+    <Key key="loading yorner hardworking" value="Amplía tu libro de recetas con diversas recetas para ampliar tus opciones de raciones y mejorar la eficiencia de recuperación en tu viaje." />
+    <Key key="loading yorner honor" value="Utiliza el 'Retornador' de tu inventario para regresar rápidamente a tu lugar seguro cuando estés atrapado o en una situación difícil." />
+    <Key key="loading yorner mechanic" value="A veces, una botella olvidada puede esconder recetas raras. Písala para descubrir posibles tesoros culinarios." />
+</Node>
+<Node name="FPS">
+    <Key key="Key" value="FPS:" />
+</Node>
+<Node name="Ability_lvl">
+    <Key key="Key" value="lvl." />
+</Node>
+<Node name="Ability_tooltip">
+    <Key key="Key" value="Presiona {value1} para más información." />
+</Node>
+<Node name="Ability_learning">
+    <Key key="Key" value="Presiona {value1} para mejorar." />
+</Node>
+<Node name="Tutorial">
+    <Key key="Title1" value="Movimiento del personaje" />
+    <Key key="Text1" value="Usa el botón derecho del ratón para moverte. Presiona &quot;Espacio&quot; para saltar. Para despegar o fijar la cámara en tu personaje, presiona &quot;L&quot;." />
+    <Key key="Title2" value="Seguimiento de misiones" />
+    <Key key="Text2" value="Para seguir una misión, haz clic en el botón de la brújula en el panel lateral de misiones. Para escuchar tu objetivo actual, haz clic en &quot;Reproducir&quot;.&#xA;&#xD;&#xA;Haz doble clic en el nombre de una misión para abrir el diario." />
+    <Key key="Title3" value="Saqueo" />
+    <Key key="Text3" value="Para recoger el botín, haz clic derecho sobre él. Para abrir tu inventario, presiona &quot;I&quot;." />
+    <Key key="Title4" value="Navegación" />
+    <Key key="Text4" value="Los objetos importantes y los NPC están marcados en tu mini-mapa. &#xD;&#xA;&#xD;&#xA;La flecha en el mini-mapa muestra la dirección del objetivo seguido actual. &#xD;&#xA;&#xD;&#xA;Hay postes indicadores en muchos lugares que pueden ser útiles para navegar por el mundo." />
+    <Key key="Title5" value="Lucha" />
+    <Key key="Text5" value="Haz clic derecho sobre el enemigo para atacar. &#xD;&#xA;&#xD;&#xA;Para usar tus habilidades, presiona &quot;Q&quot;, &quot;W&quot;, &quot;E&quot; y &quot;R&quot;." />
+    <Key key="Title6" value="Aprendizaje de habilidades" />
+    <Key key="Text6" value="Para aprender una nueva habilidad (o para aumentar el poder de una ya aprendida), haz clic en &quot;+&quot; debajo del icono de la habilidad deseada. &#xD;&#xA;&#xD;&#xA;Para ver la información sobre una habilidad, pasa el cursor sobre ella. Presiona &quot;Shift&quot; para aprender más." />
+    <Key key="Title7" value="Mapa" />
+    <Key key="Text7" value="Para abrir el mapa, presiona &quot;M&quot;. Los puntos de interés se marcan en tu mapa cuando se descubren. &#xD;&#xA;&#xD;&#xA;Para abrir/cerrar el Diario de misiones, haz clic en el botón correspondiente en el lado derecho del mapa." />
+    <Key key="Title8" value="Profesiones y recolección" />
+    <Key key="Text8" value="Para abrir la ventana de Profesiones, presiona &quot;Y&quot;. &#xD;&#xA;&#xD;&#xA;Para recoger un recurso, simplemente haz clic derecho sobre él." />
+    <Key key="Title9" value="Colección de botines" />
+    <Key key="Text9" value="¿Necesitas revisar tu botín, guardar tus tesoros o simplemente admirar tu colección de cosas brillantes? Presiona “I” para abrir tu Inventario. No te preocupes, todo cabrá ahí... probablemente." />
+    <Key key="DontShow" value="no mostrar consejos" />
+    <Key key="Title10" value="Talentos desatados" />
+    <Key key="Text10" value="¿Listo para subir de nivel tus habilidades y volverte aún más increíble? Presiona “K” para abrir tu ventana de Talentos. Es como descubrir que tienes superpoderes ocultos, sin la picadura de una araña radioactiva." />
+    <Key key="Title11" value="Trabajando en habilidades comerciales" />
+    <Key key="Text11" value="Presiona 'Y' para abrir la ventana de habilidades comerciales. Tus tres habilidades de recolección principales son Herboristería, Tala y Minería. Recoger más recursos aumenta tu habilidad y desbloquea beneficios poderosos, como obtener dos golpes en un recurso. Solo puedes tener un total del 100% entre ellos. Si aumentas uno, el más bajo disminuirá." />
+    <Key key="Title12" value="Control de cámara" />
+    <Key key="Text12" value="¿Necesitas una perspectiva diferente? Presiona “L” para bloquear o desbloquear tu cámara. Porque a veces quieres ver el mundo, y a veces solo quieres ver tus zapatos. Empuja tu ratón a los lados de la pantalla para mover tu vista.&#xD;&#xD;&#xA;Mientras usas una cámara desbloqueada, puedes presionar y mantener presionada la “Barra espaciadora” para recentrar tu cámara sobre tu héroe." />
+    <Key key="Title13" value="Explora el mundo" />
+    <Key key="Text13" value="¿Listo para explorar el mundo? Haz clic alrededor con el botón derecho del ratón (RMB) para moverte. Es como señalar con el dedo y decir '¡Ve allí!', pero con más estilo y menos pies doloridos." />
+    <Key key="Title14" value="¡No hagas eso!" />
+    <Key key="Text14" value="¿Cambiaste de opinión? Presiona “S” para cancelar tu acción actual. Porque a veces está bien ser indeciso... solo no dejes que tus enemigos lo sepan." />
+    <Key key="Title15" value="Combate o Relájate" />
+    <Key key="Text15" value="¿Te sientes feroz o solo quieres relajarte? Presiona ”P” para cambiar entre el modo de Combate y el modo Pacífico. Ya sea que estés de humor para una pelea o un paseo, te tenemos cubierto." />
+    <Key key="Title16" value="Control de crucero" />
+    <Key key="Text16" value="¿Necesitas desacelerar y oler las rosas o acelerar el paso? Presiona “Barra invertida” para alternar entre caminar y correr. Perfecto para esas entradas dramáticas a cámara lenta." />
+    <Key key="Title17" value="Registro de misiones" />
+    <Key key="Text17" value="¿Perdiste la pista de tus misiones épicas? Presiona “J” para abrir tu Diario de misiones. Es como tu diario personal, pero con más aventuras y menos secretos embarazosos." />
+    <Key key="Title18" value="Perfil del héroe" />
+    <Key key="Text18" value="Revísate y equipa algo de equipo para cambiar tu apariencia presionando “H” para abrir tu ventana de Héroe. Porque a veces necesitas recordarte lo épico que eres." />
+    <Key key="Title19" value="Soy el mapa, soy el mapa" />
+    <Key key="Text19" value="¿Te sientes perdido? Presiona “M” para abrir tu Mapa. Es como un mapa del tesoro, pero con menos piratas y más puntos de referencia útiles." />
+    <Key key="Title20" value="¿Cuáles son tus especificaciones?" />
+    <Key key="Text20" value="A partir del nivel 6, puedes usar consumibles para acumular energía para tus Especializaciones de armas. Estas especializaciones son específicas de clase y reforzarán tus habilidades con pasivos y habilidades activas únicas para hacerte destacar entre tus compañeros. Estos consumibles (como los catalizadores) te dan los puntos necesarios para ganar puntos." />
+    <Key key="Title21" value="¿Te pusieron un chip?" />
+    <Key key="Text21" value="Presiona “Control + RMB” en tu arma para abrir la ventana de Chips. Encuentra el chip en tu inventario, haz clic en él y luego haz clic en la ranura vacía. Si coinciden, el chip se insertará en tu arma para un potente impulso." />
+    <Key key="Title22" value="Rápido y fácil" />
+    <Key key="Text22" value="Tu barra de acceso rápido es una excelente manera de acceder rápidamente a los elementos de tu inventario. Simplemente abre tu Inventario con “I”, haz clic en un elemento que te gustaría asignar a una tecla de acceso rápido y haz clic en una ranura vacía en tu barra de acceso rápido en la parte inferior derecha de tu pantalla. Ahora puedes quitarte los guantes de horno, no están realmente calientes." />
+    <Key key="Title23" value="La recolección forma el carácter" />
+    <Key key="Text23" value="Mientras recorres el mundo, cosecharás diferentes nodos. Los arbustos con flores coloridas destacan entre el follaje. Simplemente arrastra tu ratón sobre estos recursos y si están resaltados, se pueden cosechar. Haz clic derecho sobre ellos mientras estés cerca para recoger los materiales que contienen. Es un trabajo duro, pero alguien tiene que hacerlo." />
+    <Key key="Title24" value="Basura y..." />
+    <Key key="Text24" value="Encontrarás una tonelada de artículos en el mundo que querrás recoger. Nunca te pierdas nada más sosteniendo “Alt izquierdo” y resaltando todas esas dulces piezas de botín que quedan alrededor de enemigos, cajas o barriles." />
+    <Key key="Title25" value="Cultivar cultivos y tú" />
+    <Key key="Text25" value="Mientras corres por campos de jugosos tallos de maíz, puedes detenerte y preguntarte, “¿Por qué no puedo cosechar estos?” Simplemente correr por los cultivos puede hacer que caigan, así que asegúrate de sostener “Alt izquierdo” mientras corres, ¡puede que encuentres algo para la cena!" />
+    <Key key="Title26" value="Regeneración después de la batalla" />
+    <Key key="Text26" value="Después de una dura batalla, haz clic derecho en una fogata fabricada o comprada para colocarla, luego haz clic derecho nuevamente para sentarte y comenzar a regenerar salud. Algunas fogatas aumentan las tasas de regeneración de alimentos, otras mejoran las defensas. Usa diferentes fogatas para varios efectos, solo no te tropieces con una después de unas copas." />
+    <Key key="Title27" value="¡Mantente curioso!" />
+    <Key key="Text27" value="¡Estate atento a tu entorno! Pasa el ratón sobre objetos alrededor del mundo para descubrir historias y secretos sucios. Porque cada roca y objeto puede tener una historia, o un comentario sarcástico, esperándote." />
+    <Key key="Title28" value="Búsqueda del tesoro" />
+    <Key key="Text28" value="No olvides rebuscar en barriles, cajas y otros objetos alrededor del mundo en busca de artículos útiles. Piensa en ello como una búsqueda del tesoro, pero con menos pistas y más sorpresas." />
+    <Key key="Title29" value="¿Qué estaba haciendo?" />
+    <Key key="Text29" value="¿Perdiste el rumbo o olvidaste tu misión? Consulta los recordatorios en tu diario de misiones. Es como una lista de tareas, pero sin que tu cónyuge te grite al respecto. Asegúrate de leer cuidadosamente y asegúrate de saber lo que estás haciendo." />
+    <Key key="Title30" value="¡Gana tu fuerza!" />
+    <Key key="Text30" value="Tienes seis ranuras para estos chicos malos y puedes apilarlos. ¡Apila seis aumentos de salud, daño, o mezcla y combina! Estos te darán la ventaja que necesitas en el campo de batalla.&#xD;&#xA;Importante saber: Estos vienen en diferentes fortalezas cuando se fabrican. A veces, incluso aumentas la rareza general del artículo durante la fabricación." />
+    <Key key="Title31" value="Consigue un palo más grande" />
+    <Key key="Text31" value="Cuando subes de nivel, ganas más salud y estadísticas, lo que te permite equipar armas más grandes y mejores. Asegúrate de estar al día con lo que llevas. Ratchet, el armero, puede ayudarte a mantenerte al día, asegúrate de revisarlo con él." />
+    <Key key="Title32" value="Añadiendo runas a tu equipo" />
+    <Key key="Text32" value="Refuerza tu equipo con poderosos efectos. Simplemente haz clic derecho en una runa, luego haz clic derecho en tu artefacto. Boom, bebé. Ahora estás mejorado y tus enemigos no sabrán qué los golpeó. Increíblemente útil cuando intentas hacerte más fuerte." />
+    <Key key="Title33" value="¡Sanación en el calor de la batalla!" />
+    <Key key="Text33" value="Comer y beber alrededor de una fogata es una excelente manera de reponer tu fuerza. Pero, ¿qué hay del calor de la batalla? Ahí es donde entran las pociones y elixires fuertes (o incluso analgésicos falsificados). Usa estos elementos durante la batalla para recuperar salud y maná y permanecer en la pelea por más tiempo." />
+    <Key key="Title34" value="Oh, ¿tienes algo que decir?" />
+    <Key key="Text34" value="Este es un MMORPG, ya sabes. Comunícate con estos canales:&#xD;&#xA;'Susurro' para mensajes privados, 'Comercio' para comercio, 'Buscando Grupo' para encontrar miembros del grupo, 'Global' para anuncios mundiales, 'Área' para chat local (por ejemplo, Campo Dorado), y 'Sistema' para ver registros de artículos recibidos y misiones completadas." />
+    <Key key="Title35" value="¡Consigue los pines!" />
+    <Key key="Text35" value="Para marcar una ubicación, presiona 'M' y haz clic en el ícono del pin en la parte inferior izquierda. Colócalo en el mapa, nómbralo y presiona 'Enter'. Edita, elimina o cambia su color haciendo clic en él. Para compartir un pin, haz clic en el botón de compartir para enlazarlo en el chat." />
+    <Key key="Title36" value="Cómo usar el retornador" />
+    <Key key="Text36" value="Habrá un momento en que te pierdas en la naturaleza y desearás poder hacer clic en tus talones juntos para llegar a casa. ¡Puedes hacer esto una realidad! Habla con Martha y haz clic en 'Taberna' para vincular tu Retornador aquí. La próxima vez que quieras volver rápido, simplemente ve a tu inventario, encuentra tu Retornador y haz clic derecho en él." />
+    <Key key="Title37" value="¡Mucho trabajo!" />
+    <Key key="Text37" value="Muchos NPC en Kwalat tendrán múltiples misiones en las que necesitan ayuda. Asegúrate de volver con ellos después para ver qué necesitan. Solo no seas demasiado... molesto." />
+</Node>
+<Node name="no_valid_units_in_radius_condition">
+    <Key key="Key" value="No hay objetivos válidos alrededor" />
+</Node>
+<Node name="Cooldown_condition">
+    <Key key="Key" value="La habilidad no está lista todavía" />
+</Node>
+<Node name="Learn">
+    <Key key="Key" value="Aprender" />
+</Node>
+<Node name="LearnAlert">
+    <Key key="Key" value="La habilidad anterior será cancelada. ¿Quieres aprender una nueva habilidad?" />
+</Node>
+<Node name="Range">
+    <Key key="Key" value="Rango" />
+</Node>
+<Node name="Mana">
+    <Key key="Key" value="Maná" />
+</Node>
+<Node name="Measurements">
+    <Key key="seconds_short" value="s" />
+</Node>
+<Node name="ItemUseCooldown_condition">
+    <Key key="Key" value="¡Ese objeto no está listo todavía!" />
+</Node>
+<Node name="Recipes">
+    <Key key="learned" value="Has aprendido {value1}" />
+</Node>
+<Node name="DestroyItem">
+    <Key key="Key" value="Destruir" />
+</Node>
+<Node name="RecipeAlreadyLearned">
+    <Key key="Key" value="Receta ya aprendida" />
+</Node>
+<Node name="Return">
+    <Key key="Key" value="Volver" />
+</Node>
+<Node name="RequiredLevel">
+    <Key key="Key" value="Nivel requerido {values}" />
+</Node>
+<Node name="FailDeleteHero">
+    <Key key="Key" value="No puedes eliminar el héroe ahora. Inténtalo de nuevo en 1 minuto, por favor." />
+</Node>
+<Node name="FailByTempSpec">
+    <Key key="Key" value="¡Esta acción no está permitida ahora!" />
+</Node>
+<Node name="WeaponUseType">
+    <Key key="None" value="Ninguno" />
+    <Key key="OneHanded" value="Mano principal/Mano secundaria" />
+    <Key key="OneHandedRight" value="Mano principal" />
+    <Key key="OneHandedLeft" value="Mano secundaria" />
+    <Key key="TwoHanded" value="Dos manos" />
+</Node>
+<Node name="GearScore">
+    <Key key="Key" value="Puntuación de equipo" />
+</Node>
+<Node name="ChooseFilters">
+    <Key key="Key" value="Elegir filtros" />
+</Node>
+<Node name="Search">
+    <Key key="Key" value="Buscar" />
+</Node>
+<Node name="ClearAll">
+    <Key key="Key" value="Borrar todo" />
+</Node>
+<Node name="Choose">
+    <Key key="Key" value="Elegir" />
+</Node>
+<Node name="CraftbenchRequired">
+    <Key key="Key" value="Se requiere banco de trabajo" />
+</Node>
+<Node name="Craft">
+    <Key key="Key" value="Fabricar" />
+</Node>
+<Node name="Cube">
+    <Key key="Key" value="Cubo" />
+</Node>
+<Node name="FailProcessProfession">
+    <Key key="Key" value="El proceso ha fallado" />
+</Node>
+<Node name="InPvpZone_condition">
+    <Key key="Key" value="No puedes cambiar el modo PvP en esta zona" />
+</Node>
+<Node name="HeroChampionMale">
+    <Key key="Key" value="Campeón Masculino" />
+</Node>
+<Node name="HeroOrcMale">
+    <Key key="Key" value="Guerrero Masculino" />
+</Node>
+<Node name="HeroBomberMale">
+    <Key key="Key" value="Bombardero Masculino" />
+</Node>
+<Node name="Campfire_condition">
+    <Key key="Key" value="No se puede usar sin una fogata" />
+</Node>
+<Node name="NeedHonorLevel">
+    <Key key="Key" value="Rango PvP" />
+</Node>
+<Node name="Karma">
+    <Key key="Key" value="Karma" />
+</Node>
+<Node name="PvPRank">
+    <Key key="Key" value="Rango PvP" />
+</Node>
+<Node name="Newbie">
+    <Key key="Key" value="Novato" />
+</Node>
+<Node name="HeroChampionFemale">
+    <Key key="Key" value="Campeón Femenino" />
+</Node>
+<Node name="HeroBomberFemale">
+    <Key key="Key" value="Bombardero Femenino" />
+</Node>
+<Node name="HeroOrcFemale">
+    <Key key="Key" value="Guerrero Femenino" />
+</Node>
+<Node name="HeroNameInappropriate">
+    <Key key="Key" value="Nombre del héroe inapropiado" />
+</Node>
+<Node name="TurnInItems">
+    <Key key="Label" value="Entregar objetos" />
+</Node>
+<Node name="Not_selected_rewards_condition">
+    <Key key="Key" value="Recompensas no seleccionadas" />
+</Node>
+<Node name="ProfessionsFreeze_confirm">
+    <Key key="Key" value="¿Quieres bloquear la eficiencia de estas profesiones?" />
+</Node>
+<Node name="EfficiencyLock">
+    <Key key="Key" value="Bloqueo de eficiencia" />
+</Node>
+<Node name="EfficiencyUnlock">
+    <Key key="Key" value="Desbloqueo de eficiencia" />
+</Node>
+<Node name="Masterful">
+    <Key key="Key" value="Maestro" />
+</Node>
+<Node name="Effects_persist_after_death">
+    <Key key="Key" value="Los efectos persisten después de la muerte" />
+</Node>
+</Category>

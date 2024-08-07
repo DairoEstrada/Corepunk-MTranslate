@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_guarding_green" type="external">
+  <Key key="_npc_It_s_cool__dude__Just_remember" value="É legal, cara.Lembre -se de que o universo está contando conosco." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_talk_npc" value="Fale com Themis" />
+  <Key key="_npc_Whoa__bummer__man__They_might_" value="Whoa, chatice, cara.Eles podem destruir o planeta ou algo assim." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goalVoice_Hey__man__you_still_gotta_find" value="Ei, cara, você ainda tem que encontrar o deles.Esse cara está arrepiando o forte, totalmente sem noção do artefato.É sul na estrada.Então vá para o oeste para a curva.Não posso perder!Melhor se apressar - quem sabe o que diabos esses caras farão com isso." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Talk_to_Themis_again__He_s_a_s" value="Fale com Themis novamente.Ele é um cara doce e ingênuo realmente inocente.Ele pode ser nossa melhor chance de recuperá -lo sem barulho." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_m_totally_freaking_out_over_" value="Estou totalmente enlouquecendo aqui." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_The_fort_guards_have_the_last_" value="Os guardas do forte têm a última peça do artefato.É a parte mais crucial." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_You_gotta_help_with_this__it_s" value="Você tem que ajudar com isso, é super urgente, cara!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_The_artifact_s_vibe_needs_to_b" value="A vibração do artefato precisa ser protegida, você gosta?Vamos mantê -lo cósmico, cara." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Far_out__man__You_re_really__l" value="Muito longe, cara!Você é realmente, groovy por isso." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Oh__you_have_them__He_s_gonna_" value="Oh, you have them? He's gonna be happy." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_He_found_one_of_the_artifact_p" value="Ele encontrou uma das peças de artefato, mas uh ... os outros ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_QuestActionAddToJournal_Mary_Jane_Greenpuff_Windreach_" value="Mary Jane Greenpuff&#10;Windreach Woods, Road House&#10;&#10;Talk to Themis about the fifth piece of the artifact that the guards at the fort recovered." />
+  <Key key="_npc_No_biggie__but_like__peace_and" value="Não, Biggie, mas tipo, paz e amor, cara.A menos que o artefato nos mate." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_guess_my_dad_really_wanted_t" value="Eu acho que meu pai realmente queria aquele livro que você roubou." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh_geez__You_re_back__So__um__" value="Oh geez! You're back! So, um, you kinda got me in big trouble." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__Oh__uh__it_s_you__Um__so__" value="Oh!Oh, uh, é você!Hum, então você ... por que você está aqui?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+</Node>

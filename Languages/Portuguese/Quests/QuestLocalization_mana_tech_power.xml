@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mana_tech_power" type="external">
+  <Key key="_npc_Great__Let_s_get_started__I_m_" value="Ótimo!Vamos começar.Estou contando com você!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Hey__you_re_back__How_did_it_g" value="Ei, você está de volta!Como foi?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Excellent_work__You_found_the_" value="Excelente trabalho!Você encontrou a máscara de lobo." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_With_this__we_can_craft_those_" value="Com isso, podemos criar essas peças especiais com infusão de mana." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Here_s_your_reward__You_ve_ear" value="Aqui está a sua recompensa.Você ganhou!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Remember__this_weapon_will_be_" value="Lembre-se, esta arma será única graças aos seus esforços." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_G8X3" value="Máscara de lobo" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_TYuF" value="D'Eck&#10;Goldenfield, perto da oficina&#10;&#10;ASSISTE D'ECH na elaboração da arma definitiva, recuperando uma máscara de lobo única das ruínas perto de Goldenfield." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_GOSt" value="Não se esqueça, você precisa recuperar a máscara de lobo das ruínas em Goldenfield.A máscara detém o código especial de que precisamos.É crucial para a arma que estamos criando.Tome cuidado nas ruínas.Eles podem ser bastante perigosos." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+</Node>

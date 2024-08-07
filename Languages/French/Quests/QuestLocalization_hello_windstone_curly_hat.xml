@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_windstone_curly_hat" type="external">
+  <Key key="_npc_Yeah__I_m_busy__Who_are_you_an" value="Ouais?Je suis occupé.Qui es tu et que veux tu?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_m_the_Brownie_who_runs_this_" value="Je suis le brownie qui dirige cette ferme.Qui es-tu?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_Do_I_know_you__What_do_you_wan" value="Je vous connais?Que veux-tu?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_What_do_you_want__We_don_t_giv" value="Que veux-tu?Nous ne donnons pas de charité à chaque clochard qui veut un document." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+</Node>

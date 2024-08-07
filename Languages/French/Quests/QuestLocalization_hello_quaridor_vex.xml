@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_quaridor_vex" type="external">
+  <Key key="_npc_What_s_your_malfunction_" value="Quel est votre dysfonctionnement?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Think_you_re_clever__huh_" value="Vous pensez que vous êtes intelligent, hein?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Are_you_lost__or_just_stupid_" value="Êtes-vous perdu, ou tout simplement stupide?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Need_something__genius_" value="Besoin de quelque chose, génie?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Got_a_death_wish_" value="Vous avez un souhait de la mort?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Why_are_you_here_" value="Pourquoi es-tu ici?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Can_t_you_see_I_m_busy_" value="Can t you see I m busy?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_What_do_you_want_" value="Que veux-tu?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+</Node>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_jasper_wilde" type="external">
+  <Key key="_npc_Whoa__Never_thought_I_d_see_an" value="Whoa!Je n'ai jamais pensé voir un autre visage humain!" voice="Male" />
+  <Key key="_npc_Hey_there__I_come_in_peace_" value="Salut!Je viens en paix!" voice="Male" />
+  <Key key="_npc_Oh__hey__Here_to_explore_this_" value="Oh hey!Ici aussi pour explorer ce pays des merveilles exotiques, hein?" voice="Male" />
+</Node>

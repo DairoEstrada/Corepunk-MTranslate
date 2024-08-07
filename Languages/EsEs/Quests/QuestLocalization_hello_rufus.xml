@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_rufus" type="external">
-  <Key key="_npc_Bark__Bark_" value="¡Ladrar!¡Ladrar!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
-  <Key key="_npc_Woof_" value="¡Guau!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
-  <Key key="_npc_Ruff__Ruff_" value="¡Fallar!¡Fallar!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
-  <Key key="_npc_Grr___Hello___I_mean__woof_" value="Grr ... Hola ... quiero decir, ¡woof!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
-  <Key key="_npc_Arf__Arf_" value="¡ARF!¡ARF!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
-  <Key key="_npc_Woof__hello__Oh__whoops_" value="¡Woof, hola!¡Oh, vaya!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
-</Node>

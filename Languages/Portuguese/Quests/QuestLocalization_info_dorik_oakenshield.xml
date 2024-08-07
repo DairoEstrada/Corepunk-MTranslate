@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dorik_oakenshield" type="external">
+  <Key key="_npc_Try_ta__keep_it_down___the_spe" value="Tente 'mantê -lo baixo - os espectros podem nos ouvir!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_The_name_s_Dorik_Oakenshield__" value="The name's Dorik Oakenshield,." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Been_diggin__in_this_old_quarr" value="Estive escavando nesta velha pedreira pelo que parece ser séculos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Seen_enough_down_here_to_know_" value="Visto o suficiente aqui em baixo para saber que os sussurros da pedreira não são apenas ecos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Find_anything_odd_around_here_" value="Encontrar algo estranho por aqui?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_If_you_do__leave_me_the_hell_o" value="Se o fizer, deixe -me fora disso." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_A_bit_nervous__to_be_honest__F" value="A bit nervous, to be honest. Feels like the quarry s alive tonight." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Every_creak_could_be_a_ghoul_s" value="Todo rangido pode ser um ghoul se esgueirando." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_There_s_something_weird_happen" value="Há algo estranho acontecendo aqui - eu sei que existe!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Alex_s_worried_too__even_if_he" value="Alex também está preocupado, mesmo que ele não mostre." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Some_say_this_quarry_s_cursed_" value="Alguns dizem que a pedreira é amaldiçoada - e com isso, eu quero dizer eu." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_There_s_more_buried_here_than_" value="Há mais enterrado aqui do que apenas minérios preciosos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_The_walls_are_full_of_stories_" value="As paredes estão cheias de histórias e segredos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_We_re_standing_on_ancient__mys" value="Estamos em pé por motivos antigos e misteriosos.Pisar com cuidado." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Don_t_let_the_shadows_fool_ya_" value="Não deixe as sombras te enganarem." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Actually__yes__There_s_somethi" value="Na verdade sim.Há algo estranho acontecendo, e eu poderia usar a prova." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_I_ve_got_just_the_thing_for_ya" value="Eu tenho exatamente a coisa para você '." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Sure___maybe_it_ll_keep_my_min" value="Claro - talvez isso mantenha minha mente fora das coisas!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Aye___something_strange_is_hap" value="Sim - algo estranho está acontecendo '." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_I_m_good_laddie__but_thanks_" value="Estou bem, rapaz, mas obrigado." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_No_need___the_quarry_is_quiet_" value="Não há necessidade - a pedreira está quieta hoje." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Why_don_cha_go_ask_Alex_" value="Por que não vai perguntar a Alex?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Can_t_have_a_newbie_go_digging" value="Não posso ter um novato cavando por aí." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+</Node>

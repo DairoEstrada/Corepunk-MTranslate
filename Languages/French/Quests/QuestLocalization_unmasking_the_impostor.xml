@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_unmasking_the_impostor" type="external">
+  <Key key="_npc_Right_on__Get_to_the_pier__fin" value="Directement sur.Accédez à la jetée, trouvez le masque." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_varDescription_Collect_a_Cherry_Mobius_s_Mask" value="Collectez un masque de cerise Mobius" />
+  <Key key="_QuestActionAddToJournal_Bob_Thurkle_Riverrise__Scene__" value="Bob Thurkle&#10;Riverrise, Scene.&#10;&#10;Investigate Cherry Mobius's disappearance and recover his iconic mask for Bob Thurkle." />
+  <Key key="_goalVoice_Mask__Pier__End_of_story_" value="Mask. Pier. End of story." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_T_Money_s_been_a_real_pain__yo" value="T-Money a été une vraie douleur, tu sais?" voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_So_this_is_really_it__huh__Che" value="Alors c'est vraiment ça, hein?Cherry's Mask ... Je ne peux pas croire qu'il l'a simplement abandonné comme ça." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Something_s_gotta_be_really_wr" value="Quelque chose doit être vraiment mal." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_This_mask____Cherry_would_neve" value="This mask... Cherry would never be without it. It's like his soul, man. His dad made it for him." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_There_s_no_way_he_d_just_leave" value="Il n'y a aucun moyen qu'il ne le laisse.Nous plongeons dans des eaux profondes et sombres maintenant." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Soko_or_not__something_is_tear" value="Soko ou non, quelque chose déchire cerise à part l'intérieur." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Someone_s_twisted_this_whole_t" value="Quelqu'un a tordu tout ça.Accrochez-vous, nous allons exposer les mensonges." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_goal_talk_npc" value="Retournez Mobius Mask à Bob Thurkle" />
+  <Key key="_npc_Hey__Cherry_s_been_off__man__I" value="Hé, Cherry est parti, mec.Je pense que Soko a fait quelque chose." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Saw_them_at_the_pier__He_came_" value="Les a vus à la jetée.Il est revenu sans son masque, juste un sac.Bizarre, non?" voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Cherry_said_the_mask_was_broke" value="Cherry a dit que le masque était brisé.J'en doute." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Need_that_mask_from_the_pier__" value="Besoin de ce masque de la jetée.Prouver quelque chose de louche.Bob doit savoir." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Got_into_a_fight_and____let_s_" value="Je me suis battu et ... disons que Bob n'écoute pas la raison." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_npc_Alright__but_Soko_s_behind_thi" value="Très bien, mais Soko est derrière ça.Je peux le sentir." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_No_problem__Just_hope_Cherry_s" value="Aucun problème.J'espère juste que Cherry va bien." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Fine__But_the_band_s_finished_" value="Bien.Mais le groupe a terminé si vous vous trompez." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+</Node>

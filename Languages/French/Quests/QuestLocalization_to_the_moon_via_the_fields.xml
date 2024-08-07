@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_to_the_moon_via_the_fields" type="external">
+  <Key key="_npc_Great__Let_s_show_these_rats_w" value="Super!Montrons ces rats, nous voulons dire des affaires!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Keep_going__mate__Those_rats_c" value="Continuez, mec!Ces rats ne peuvent pas supporter l'occasion!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Remember__it_s_not_just_about_" value="N'oubliez pas, il ne s'agit pas seulement de tuer des rats.Il s'agit de sécuriser notre avenir!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Just_think_of_each_rat_as_a_ma" value="Considérez simplement chaque rat comme une baisse du marché.Squash les!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_You_really_did_it__The_rats_go" value="Vous l'avez vraiment fait!Les rats ont obtenu ce qu'ils méritaient." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_I_have_a_techie_s_sixth_sense_" value="J'ai un sixième sens du technicien.Je pense que ces mutations pourraient être le résultat de leur alimentation - mon blé génétiquement modifié." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Guess_blaming_the_portal_jumpe" value="Je suppose que blâmer les cavaliers du portail était ... une observation incorrecte.Je suis rarement incorrect." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Fortunately__mutant_wheat_can_" value="Heureusement, le blé mutant peut se vendre pour deux fois le prix!Voici une coupe des bénéfices pour vous." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Bring_back_some_tails_from_the" value="Ramenez des queues des rats que vous supprimez.Cela servira de preuve et me donnera une meilleure idée de ce à quoi nous avons affaire." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_goal_collect_items" value="Diminuer la population de rats mutés" />
+  <Key key="_QuestActionAddToJournal_Zoltar_Blipchain_Goldenfield__" value="Zoltar Blipchain&#10;Goldenfield, près de la tente de blé&#10;&#10;Aider Zoltar à freiner l'infestation des rats dans ses champs de blé." />
+  <Key key="_goalVoice_Kill_those_mutated_rats_in_the" value="Tuez ces rats mutés dans les champs de blé et ramenez quelques queues de rat comme preuve." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_varDescription_Rats_tails" value="Tails de rats" />
+  <Key key="_npc_No__Well__I_guess_I_ll_just_co" value="Non?Eh bien, je suppose que je vais continuer à combattre ces rats un par un." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Well__that_s_a_bummer__Guess_I" value="Eh bien, c'est une déception.Je suppose que je m'en tiendrai à combattre ces parasites moi-même." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_No_help__Ouch__I_ll_just_add_t" value="Pas d'aide?Aie.Je vais simplement ajouter cela à ma liste des accidents de marché et des infestations de rats." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_No__The_rats_came_from_your_po" value="Non?Les rats provenaient de votre portail." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_If_we_don_t_act_fast__I_fear_m" value="Si nous n'agissons pas rapidement, je crains que ma vision d'une révolution agricole décentralisée puisse s'effondrer." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_It_s_like_a_Ratocalypse_out_th" value="C'est comme une ratocalypse là-bas.Ils brillaient mon aventure révolutionnaire en blocs en justice dans ses traces." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_I_m_certain_they_came_from_a_p" value="Je suis certain qu'ils venaient d'un portail.C'est du sabotage!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Mutated_rats_are_running_amok_" value="Les rats mutés se diminuent dans mes champs, dévorant mon blé génétiquement amélioré!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+</Node>

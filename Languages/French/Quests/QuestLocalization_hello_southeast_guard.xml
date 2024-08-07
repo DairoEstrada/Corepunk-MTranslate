@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_southeast_guard" type="external">
+  <Key key="_npc_Oh__um__hello_" value="Oh, euh, bonjour!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Sorry__but_hi_" value="Désolé, mais salut!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Greetings__excuse_me_" value="Salutations, excusez-moi!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__hey_there__sorry_" value="Oh, hé, désolé." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Hello__if_I_may_" value="Bonjour, si je peux." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Er__good_day__sorry_" value="Euh, bonne journée, désolé." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Sorry_for_the_interruption__hi" value="Désolé pour l'interruption, salut!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Uh__greetings__citizen_" value="Euh, salutations, citoyen!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+</Node>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_logging_teacher" type="external">
+  <Key key="_npc_If_you_re_very_lucky__Neon_Mus" value="Si tienes mucha suerte?Hongos neón o miel de sangre.¡Ese es el tesoro!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Some_of_these_can_be_processed" value="Algunos de estos se pueden procesar en otras cosas como sílice o papel en el banco de artesanía." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_That_s_logging_for_you__Now_go" value="Eso está registrando para ti.¡Ahora ve a buscar madera!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Your_test_is_to_fetch_me_some_" value="Tu prueba es buscarme algunas raíces de los árboles.Son uno de los muchos recursos que tienen árboles secos." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Once_you_ve_got_Tree_Roots__th" value="Una vez que tenga raíces de los árboles, el banco lo ayudará a transformarlos en madera de joyería." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Not_the_most_exciting_task__bu" value="No es la tarea más emocionante, ¡pero cubre lo básico!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_But_remember__plenty_of_critte" value="Pero recuerde, muchas criaturas acechan no se tomará amablemente con usted cortando sus casas." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_As_a_novice__Skylight_Grasslan" value="Como novato, Skylight Grassland, Sunweave Glade y Dusktide Forest son su mejor opción para encontrar árboles secos." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_First_you_need_to_understand_t" value="Primero debes entender la naturaleza misma del bosque." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Tryin__to_learn_logging__outwo" value="¿Intentando aprender el registro, Outworlder?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_No_help_needed__friend__But_gr" value="No se necesita ayuda, amigo.Pero toma una cerveza, ¿por qué no?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Appreciate_the_offer__but_I_ve" value="Aprecio la oferta, pero la tengo cubierta." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_m_all_good_for_now__thank_yo" value="Estoy muy bien por ahora, gracias amablemente." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_could_use_a_hand__if_you_re_" value="Podría usar una mano, si no tienes miedo al trabajo duro." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Ready_to_get_your_hands_dirty_" value="¿Listo para ensuciarse las manos, ¿privado?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_wake_up__chop_some_morning_w" value="Me despierto, corte un poco de madera de la mañana, bebo una cerveza, pico más madera.Es una vida simple." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_ve_still_got_my_hands_full_w" value="Todavía tengo las manos llenas con enanos molestos y sus excavaciones sucias." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Ever_tried_arguing_with_a_dwar" value="¿Alguna vez has intentado discutir con un enano sobre la conservación ambiental?¡Es como hablar con un tocón!&#10;¡Y también parece uno!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Goldenfield__Ah__it_s_a_quaint" value="¿Goldenfield?Ah, es una pequeña ciudad pintoresca, consiguió todo un leñador que necesita." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Wood_to_chop__beer_to_drink__a" value="Madera para cortar, cerveza para beber y un enano para burlarse.¿Qué más podría pedir un hombre?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Just_keep_your_eyes_peeled_for" value="Simplemente mantenga los ojos bien abiertos para los portales.Nunca se sabe qué tipo de locura escupirán." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Sure_thing__I_ve_got_a_job_for" value="Claro, tengo un trabajo para ti." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Now__I_teach_outlanders_the_wo" value="Ahora, enseño a Outlanders la magia de la madera.Se trata de respetar sus dones." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Seen_more_combat_than_there_ar" value="Visto más combate que los árboles en el bosque.Encontró un cambio en la madera." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_m_Zogar__Former_soldier__cur" value="Soy ZOGAR.Ex soldado, Lumberjack actual.Vida más simple con menos disparos." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Ah__well__Back_to_my_one_man_l" value="Ah bueno.Volver a mi operación de registro de un solo hombre." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Some_folks_just_ain_t_cut_out_" value="Algunas personas simplemente no están cortadas para la vida de la madera." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Oh__never_mind__Bet_Thordal_go" value="Oh no importa.¡Apuesto a que te llegó a ti!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Logging_ain_t_just_about_swing" value="Registro no se trata solo de balancear un gran hacha.Se trata de saber qué cortar." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_When_you_re_green__aim_for_Dry" value="Cuando eres verde, apunta a los árboles secos.Los encontrarás en Windreach Woods y Dusktide Forest.A veces en los pastizales con tragaldas y el glade de Sunweave." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_When_you_re_hard_as_a_trunk__y" value="Cuando eres duro como un tronco, puedes manejar viejos árboles mágicos o árboles mágicos antiguos." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_And_trust_me__you_want_to_be_h" value="Y créeme, quieres ser duro cuando los cortes." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_On_an_average_day__you_ll_get_" value="En un día promedio, obtendrá raíces de árboles, madera, corteza de piedra o duramen." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_If_you_re_lucky__you_might_get" value="Si tienes suerte, puedes obtener resina de maná, ámbar, hojas transparentes o plumas gigantes." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_You_look_capable__How__bout_le" value="Te ves capaz.¿Qué tal llevar una mano?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Stand_tall_and_show_some_respe" value="Ponte de pie y muestre algo de respeto.Ahora vamos a trabajar soldado." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_If_this_were_10_years_ago_I_ma" value="¡Si esto fuera hace 10 años, podría haberlo derribado una clavija!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_The_Windreach_Woods_are_as_den" value="Los bosques de Windreach son tan densos como la formación de un ejército de duende." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+</Node>

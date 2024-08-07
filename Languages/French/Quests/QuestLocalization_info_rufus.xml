@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_rufus" type="external">
+  <Key key="_npc_Woof__I_m_just___a_stray_dog__" value="Trame!Je suis juste ... un chien errant, Ruff!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_I_mean____bark__Food_" value="Je veux dire ... Bark!Nourriture!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Ruff__Ruff__Life____g_ruff_" value="Fraise!Fraise!La vie ... G-Ruff." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Woof____good__No__woof_bad_" value="Woof ... bien?Non, woof mauvais!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Bark__Bark__This____place____b" value="Aboyer!Aboyer!Ce ... endroit ... boucherie." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Woof_woof__Smell_good_meat_" value="Woof Woof!Sentir la bonne viande!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Grr___no_help___" value="GRR ... pas d'aide ..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Bark__No_need_" value="Aboyer!Pas besoin." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Ruff__Not_now_" value="Fraise!Pas maintenant!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Grr____I_m_fine_" value="Grr ... je vais bien." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Woof_woof__Help__yes_" value="Woof Woof!Aide, oui!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Arf_arf__Yes__help_" value="Arf arf!Oui, aide!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Bark__Help_me__please_" value="Aboyer!Aidez-moi, s'il vous plaît!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Ruff_ruff__Oh_yes__help_" value="Ruff Ruff!Oh oui, aide!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+</Node>

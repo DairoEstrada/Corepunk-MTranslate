@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_electrichair_hood" type="external">
+  <Key key="_npc_Obadiah_Flint__the_man_the_lig" value="Obadiah Flint, l'homme que la foudre ne pouvait pas tuer." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Struck_me_once__then_again__bu" value="M'a frappé une fois, puis encore, mais cela ne m'a fait que me rendre plus fort.Curieux, n'est-ce pas?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Some_say_I_m_mad__others_say_I" value="Certains disent que je suis fou, d'autres disent que je suis choisi.La vérité est que j'aime juste une bonne secousse." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Funny_thing__Once_you_embrace_" value="Chose amusante.Une fois que vous avez embrassé la douleur, vous commencez à l'avoir envie." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Pain__pleasure__What_really_is" value="Douleur, plaisir?Quelle est vraiment la différence ..." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Shocking__I_know_" value="Choquant, je sais." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Oh__I_m_just_crackling_with_en" value="Oh, je fais juste craquer d'énergie, merci de demander." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Just_shocked_myself_on_the_cha" value="Je me suis choqué sur la chaise.L'électricité me maintient en forme et nourri!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_I_have_to_admit__it_s_a_bit_lo" value="Je dois admettre que c'est un peu seul.Cette chaise ne semble pas favoriser de nombreuses autres âmes." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_They_fried__you_see__They_re_a" value="Ils ont frit, vous voyez.Ils sont tous juste des enveloppes sans vie maintenant." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_But_one_day__I_will_find_the_o" value="Mais un jour, je trouverai les autres choisis par le choc!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_And_then_our_purpose_will_be_c" value="Et puis notre objectif sera clair." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_This_here_is_where_the_storm_s" value="C'est ici que la tempête m'a craché, juste à côté de cette beauté d'une chaise." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_This_chair_and_I__we_ve_become" value="Cette chaise et moi, nous sommes devenus tout à fait le couple." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_We_share_shocks_and_secrets__b" value="Nous partageons des chocs et des secrets, mais surtout des chocs." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Folks_around_here_say_it_s_cur" value="Les gens ici disent que c'est maudit, mais je l'appelle mon trône." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Care_to_give_it_a_try__I_d_lov" value="Care to give it a try? I'd love to see what happens to you..." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Oh__you_re_in_for_a_shocker_" value="Oh, tu es pour un choc!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Got_a_joltting_task_for_you_" value="Vous avez une tâche de secousse pour vous." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_I_could_use_a_spare_fuse_" value="Je pourrais utiliser un fusible de rechange." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_You_re_quite_the_live_wire_" value="Vous êtes tout à fait le fil en direct!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Maybe_you_can_find_others_for_" value="Vous pouvez peut-être en trouver d'autres pour le test ..." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Ain_t_needing_help__just_anoth" value="N'a pas besoin d'aide, juste un autre choc!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Keep_your_help__I_got_my_volts" value="Gardez votre aide, j'ai eu mes volts." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Help__Nah__I_m_just_here_for_t" value="Aide?Non, je suis juste là pour le zap." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Fuck_off__I_m_busy_communing_" value="Baise, je suis occupé à communiquer." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_No_thanks__I_m_basking_in_the_" value="Non merci, je me prélasse dans le baiser électrique." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Mind_your_own__I_m_wired_enoug" value="Attention, je suis assez câblé." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_No_need__I_m_already_juiced_" value="Pas besoin, je suis déjà jus." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Just_need_my_daily_dose_of_vol" value="J'ai juste besoin de ma dose quotidienne de volts." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Just_need_my_voltage_fix_" value="Il suffit de avoir besoin de mon correctif de tension." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_No_help_needed__just_my_chair_" value="Aucune aide nécessaire, juste ma chaise et une tempête." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Got_all_the_wattage_I_need_" value="J'ai toute la puissance dont j'ai besoin." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Not_now__still_savoring_the_la" value="Pas maintenant, savourant toujours la dernière secousse." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_I_m_all_juiced_up__thanks_" value="Je suis tout jus, merci." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Just_me_and_the_thunder__pal_" value="Juste moi et le Thunder, Pal." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Curse_your_help__I_need_the_pa" value="Maude votre aide, j'ai besoin de la douleur!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Nah__the_current_s_all_I_crave" value="Non, le courant est tout ce que j'ai envie." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Your_as_useless_as_a_dead_batt" value="Vous êtes aussi inutile qu'une batterie morte." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Voltage_is_my_only_friend_" value="La tension est mon seul ami." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+</Node>

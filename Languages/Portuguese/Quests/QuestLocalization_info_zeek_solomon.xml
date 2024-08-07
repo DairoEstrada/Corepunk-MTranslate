@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_zeek_solomon" type="external">
+  <Key key="_npc_Just__you_know__a_random_begga" value="Apenas, você sabe, um mendigo aleatório.Não é realmente um rosto que você precisa se lembrar." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Hey__how_about_I_do_you_a_favo" value="Ei, que tal eu fazer um favor em troca de algum dinheiro?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_I_can_turn_you_into_pretty_muc" value="Eu posso transformá -lo em praticamente qualquer animal, se você estiver disposto a confiar em mim." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Don_t_worry__no_funny_business" value="Não se preocupe, não há negócios engraçados.Eu prometo que não vou te comer ou ... fazer qualquer coisa estranha.Ou sexual." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Starving__honestly__Haven_t_ha" value="Faminto, honestamente.Não tenho uma refeição decente em dias." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Rufus_keeps_scavenging__but_it" value="Rufus continua eliminando, mas não é suficiente.Fizemos uma aposta que ele poderia conseguir mais folhetos como cachorro do que um homem, mas ..." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_It_s_not_looking_good___I_m_lo" value="Não está parecendo bom.Estou parecendo mais magro a cada minuto." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_You_know__hunger_does_funny_th" value="Você sabe, a fome faz coisas engraçadas para um homem.Até faz você olhar para o seu melhor amigo de maneira um pouco diferente." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Hate_to_admit_it__but_Rufus_is" value="Odeio admitir, mas Rufus está começando a parecer uma refeição.Tempos desesperados, certo?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Honestly__I_couldn_t_tell_you_" value="Honestamente, eu não poderia lhe dizer.Aparece aqui um dia, ainda tinha uma ressaca de bio-pation." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Everything_s_a_bit_of_a_blur__" value="Tudo está um pouco borrado, e as formas continuam mudando, sabe?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Could_be_a_dream__could_be_a_n" value="Pode ser um sonho, poderia ser um pesadelo ou apenas uma daquelas viagens interdimensionais." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_This_part_of_town_smells_prett" value="Essa parte da cidade cheira muito bem.Exceto quando não ..." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_No__too_hungry__might_end_up_h" value="Não, com muita fome, pode acabar ajudando Erwin a terminar Rufus." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Nah__can_t_focus_right_now__st" value="Não, não posso se concentrar agora, o estômago está gritando muito alto." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Not_in_this_state__hunger_s_ma" value="Não neste estado, a fome está me fazendo pensar em coisas loucas." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Too_hungry_to_help__head_s_ful" value="Muito faminto para ajudar, o chefe está cheio de pensamentos que eu não gosto." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Can_t_right_now__starvation_s_" value="Não posso agora, a fome me está fazendo ver Rufus como mais do que um amigo." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Absolutely__could_use_parts_fo" value="Absolutamente, poderia usar peças para uma poção de transformação." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Yes__if_you_ve_got_any_bio_com" value="Sim, se você tem algum biocomponente de sobra." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Definitely__I_m_in_desperate_n" value="Definitivamente, estou precisando desesperadamente de alguns suprimentos." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_For_sure__need_a_few_items_for" value="Com certeza, preciso de alguns itens para minha última mistura.Você entrou?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+</Node>

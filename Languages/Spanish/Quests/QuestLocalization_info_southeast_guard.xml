@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_southeast_guard" type="external">
+  <Key key="_npc_Oh__um__pardon_me__I_m_Stumpy_" value="Oh, um, perdóname, soy Stumpy Barris." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I__uh__used_to_be_a_farmer__bu" value="I, uh, used to be a farmer, but now I m... a guard here." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Sorry_for_the_confusion__I_m_j" value="Perdón por la confusión, solo estoy tratando de cumplir con mi deber." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_always_wanted_to_be__well__a" value="Siempre quise ser, bueno, un héroe, ya ves." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Not_very_good_at_it_yet__I_m_a" value="No es muy bueno en eso todavía, me temo, pero estoy haciendo mi mejor esfuerzo." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Apologies_for_the_mess__it_s_m" value="Disculpas por el desastre;Es mi primer día en el trabajo." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_know_I_don_t_look_like_much_" value="Sé que no me parece mucho, pero es un honor proteger este pueblo." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Sorry_if_I_m_in_your_way__but_" value="Lo siento si estoy en tu camino, pero, um, seguridad primero, ¿verdad?" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__uh__I_m____I_m_fine__thank" value="Oh, eh, estoy ... estoy bien, gracias por preguntar." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Just_trying_to_do_my_job_here_" value="Solo tratando de hacer mi trabajo aquí, vigilando, ¿sabes?" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_It_s_my_first_day_" value="Es mi primer día." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Apologies_if_I_seem_a_bit_jitt" value="Disculpas si parezco un poco nervioso;Es solo mi naturaleza." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_m_still_getting_used_to_this" value="Todavía me estoy acostumbrando a esto, um, proteger los negocios." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_really_want_to_do_a_good_job" value="I really want to do a good job, keep everyone safe." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_But__um__yes__I_m_doing_alrigh" value="Pero, um, sí, estoy bien.Gracias por tu preocupación." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__um__you_re_in_Windstone_Vi" value="Oh, Um, estás en la aldea de piedra de viento.Lo siento si es un poco, bueno, tranquilo." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_It_s_a_lovely_place__really__I" value="Es un lugar encantador, de verdad.Quiero decir, todo está tan bien guardado." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_We_have_hardworking_folks_here" value="Tenemos gente trabajadora aquí.Um, gente verdaderamente dedicada." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_It_s_safe_here__I_assure_you__" value="¡Es seguro aquí, te lo aseguro!Bueno, hago todo lo posible para mantenerlo así." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Uh__the_barrels__yes__they_nee" value="Uh, los barriles, sí, necesitan verificar a menudo.Solo para estar seguro, lo siento." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_The_brownies_and_dwarves__they" value="Los brownies y enanos, son ... muy amables.Y, um, resistente." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__um__yes__if_it_s_not_too_m" value="Oh, um, sí, si no tiene demasiados problemas." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Actually__yes__I_could_use_a_h" value="En realidad, sí, podría usar una mano, lamento molestarte." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Yes__please__if_you_have_a_mom" value="Sí, por favor, si tienes un momento.¡Gracias!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Uh__yes__there_is_something__I" value="Uh, sí, hay algo.Realmente apreciaría tu ayuda." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Yes__if_you_don_t_mind__I_mean" value="Sí, si no te importa.Quiero decir, estoy a cargo aquí, después de todo." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Absolutely__yes__Oh__and_thank" value="Absolutamente sí.Oh, y gracias de antemano, ¡lo siento!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__yes__that_would_be_wonderf" value="Oh, sí, eso sería maravilloso.Estoy, eh, tratando de manejar las cosas aquí." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Yes__indeed__I_m_quite_excited" value="¡Sí, de hecho!Estoy bastante emocionado por eso, ¡perdón por el problema!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__um__no_need_right_now__sor" value="Oh, um, no hay necesidad en este momento, ¡lo siento!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_think_I_ve_got_things_under_" value="Creo que tengo las cosas bajo control, pero gracias!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_No__no__thank_you__I_m__um__ma" value="No, no, gracias.Soy, um, manejando aquí." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Appreciate_the_offer__but_I_m_" value="Aprecio la oferta, pero estoy encima, espero." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__not_at_the_moment__but_tha" value="Oh, no en este momento, ¡pero muchas gracias!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_m_okay_for_now__but_I_apprec" value="Estoy bien por ahora, ¡pero agradezco que preguntes!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Not_right_now__sorry__But_than" value="No ahora, lo siento!¡Pero gracias por ofrecer!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_m_fine__I_think__Just_doing_" value="Estoy bien, creo.¡Solo haciendo mis rondas, ya sabes!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+</Node>

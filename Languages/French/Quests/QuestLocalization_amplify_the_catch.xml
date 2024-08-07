@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_amplify_the_catch" type="external">
+  <Key key="_npc_The_whispers_grow_ressstlesss_" value="Les chuchotements deviennent agités, mais faites comme vous devez.Méfiez-vous des ombres." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ahhh__declinessss_the_call_of_" value="Ahhh, déclare l'appel des profondeurs.Les pêcheurs pourraient ... ne pas être aussi indulgents." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_goalVoice_Ssswim_swiftly__adventurer____" value="SSSWIM rapidement, aventurier ... l'objectif vous attend sur le marché, Windsstone Village.Les dieux du poisson deviennent impassables.Apportez le microphone SSSstolen avant qu'ils ne sssin dans un sommeil maussade." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_You_must_ssssssteal__The_fisss" value="Vous devez SSSSSSteal.Les dieux Fissssh disent que c'est Jussst." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Annnnd_sssso_you_know___I_alre" value="Annnnd ssso vous savez - j'ai déjà assocaté.Pas pour ssssale." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_goal_collect_items" value="Recueillir un microphone amplifié" />
+  <Key key="_goal_talk_npc" value="Retour aux ol 'nages" />
+  <Key key="_npc_Fetch_this_deviccce_from_the_w" value="Retrouvez cet appareil du marché des armes et des armures à Windstone Village, et en retour, vous recevez des poissons frais.Et un autre tasssk." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_I_need_a_deviccce_called_a__mi" value="J'ai besoin d'une Devicce appelée un «microphone» pour amplifier l'anciennestorat.Peut-être une autre faveur après." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_The_ancient_fish_godssss_deman" value="Les anciens dieux du poisson exigent que leurs chuchotements atteignent les oreilles des villageois de loin." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_But__my_voice_is_muffled_by_th" value="Mais, ma voix est étouffée par le vent et les vagues." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Note_of____legal_consssent__Ss" value="Remarque de ... Conssente légale?Sssure." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Your_deedsss_shall_resound_in_" value="Vos actes résonneront dans les tales du profond.Mais pour votre SSSUMMONS légal, j'ai besoin d'un autre." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_CAN_YOU_HEAR_ME_NOW__Yessss_" value="PEUX TU M'ENTENDRE MAINTENANT?Oui." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_QuestActionAddToJournal_Ol__Fins_Windstone_Village__Wi" value="Ol 'nages&#10;Windstone Village, Windstone Lake's.&#10;&#10;Aidez les nageoires à attirer plus de villageois en lui apportant un microphone." />
+  <Key key="_npc_Turning_away__are_we__The_dept" value="Se détourner, sommes-nous?Les profondeurs se souviennent ... toujours." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ssssplendid__hero__Thisss_micr" value="SsssPlendid, héros.Ce microphone résonnera avec nos rimes anciennes." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ahhh____the_seeker_returnsss__" value="Ahhh ... le chercheur revient.Comment t'arrive-t-il?" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ahh__blessssed_catch__brave_ss" value="Ahh, Catch béni, courageux Ssssoul.Les dieux du poisson ... SSS seront passés." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+</Node>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dr_glimmiwop" type="external">
+  <Key key="_npc_I_m_Dr__Glimmiwop__esteemed_pl" value="Je suis le Dr Glimmiwop, chirurgien plasticien estimé de la renommée quaddari." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_They_say_I_ve_performed_the_mo" value="Ils disent que j'ai joué le plus ... des chirurgies transformatrices dans toute la galaxie." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_You_might_wonder_why_I_m_way_o" value="Vous vous demandez peut-être pourquoi je suis là dans cette ferme." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Zorbul_may_be_an_unfixable__hi" value="Zorbul est peut-être un gâchis hideux et illisible, mais il paie bien." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_You__on_the_other_hand__have_p" value="En revanche, vous avez du potentiel.Avez-vous déjà considéré un peu ... amélioration?" voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_An_extra_eyeball_here__a_nice_" value="Un globe oculaire supplémentaire ici, un joli tentacule là-bas ... oui, oui!" voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Quite_well__if_I_may_say___" value="Assez bien, si je peux dire ..." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Though_these_new_fillers_do_ma" value="Bien que ces nouveaux charges rendent le discours un peu difficile." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_But_beauty_comes_at_a_price__a" value="Mais la beauté a un prix, et un peu d'inconfort est un petit sacrifice." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Tell_me__do_my_lips_not_look_a" value="Dites-moi, mes lèvres ne semblent-elles pas absolument divines?" voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Zorbul_paid_me_to_come_out_her" value="Zorbul m'a payé pour venir ici, pauvre." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_It_s_laughable__really__He_thi" value="C'est risible, vraiment.Il pense qu'il peut être réparé." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_He_may_keep_me_busy_and_well_p" value="Il peut me tenir occupé et bien payé, mais rien ne peut récupérer ces looks." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_This_place_and_its_inhabitants" value="Cet endroit et ses habitants sont vraiment un tache sur mon record autrement parfait." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Ah__a_willing_assistant__Excel" value="Ah, un assistant volontaire.Excellent." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_If_it_keeps_me_from_Zorbul__ye" value="Si cela me tient de Zorbul, oui." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Indeed__I_have_a_task__if_you_" value="En effet, j'ai une tâche, si vous êtes capable." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Anything_to_spare_me_Zorbul_s_" value="Tout pour m'épargner le visage hideux de Zorbul." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Anything_to_keep_me_from_touch" value="Tout pour m'empêcher de toucher cet horrible Zorbul." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_A_delicate_matter__but_surely_" value="Une question délicate, mais vous êtes sûrement à la hauteur du défi." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Lend_a_hand_where_these_refine" value="Prêtez une main où ces doigts raffinés n'osent pas aller ..." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Ah__no__I_mustn_t_risk_disturb" value="Ah, non, je ne dois pas risquer de perturber mes récentes améliorations." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_No__my_flawless_face_needs_res" value="Non, mon visage impeccable a besoin de repos." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_My_beauty_regimen_demands_stil" value="Mon régime de beauté exige de l'immobilité." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Unfortunately_not__must_let_tr" value="Malheureusement non, doit laisser les traitements s'installer." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_I_can_t__must_maintain_this___" value="Je ne peux pas, je dois maintenir ce maître ..." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_No_tasks_for_now__perfection_t" value="Pas de tâches pour l'instant;La perfection prend grand soin." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_I_cannot__I_must_preserve_this" value="Je ne peux pas, je dois préserver ce vision de se déplacer." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+</Node>

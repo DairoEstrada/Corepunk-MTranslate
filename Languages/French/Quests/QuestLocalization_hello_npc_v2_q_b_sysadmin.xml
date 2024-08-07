@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_npc_v2_q_b_sysadmin" type="external">
+  <Key key="_npc_Urgh____Meh___" value="*Rot*" voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_npc_Burp_" value="Urgh ... meh ..." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+</Node>

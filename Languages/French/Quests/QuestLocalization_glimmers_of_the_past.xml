@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_glimmers_of_the_past" type="external">
+  <Key key="_npc_Alright__alright__alright_" value="Très bien, d'accord, d'accord." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_goal_collect_item" value="Récupérer le dossier de cigarettes perdues" />
+  <Key key="_npc_Suit_yourself__But_don_t_come_" value="Comme vous voudrez.Mais ne viens pas me pleurer plus tard." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Ah__no_problem__I_guess_it_s_n" value="Ah, pas de problème.Je suppose que ce n'est pas vraiment important après tout." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_goalVoice_Among_the_crystals__forest_s_g" value="Parmi les cristaux, la portée de la forêt se trouve ce que je cherche.Dossier de cigarettes, dans l'étreinte des bois, vous attend.Dépêchez-vous, Wanderer, le temps danse rapidement dans la forêt.J'essaye toujours ce truc de poésie.Ça ne va pas bien." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_If_you_can_venture_to_those_fo" value="Si vous pouvez vous aventurer sur ces cristaux de forêt et récupérer ce dossier pour moi, je remettrai la page dont vous avez besoin." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Look__I_appreciate_a_good_poem" value="Écoutez, j'apprécie un bon poème autant que le prochain gars, mais cette ancienne page?C'est important." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Mary_Jane_Greenpuff_gave_it_to" value="Mary Jane Greenpuff m'a donné pour noter certains versets, mais j'ai fini par le perdre dans un dossier de cigarettes près de certains cristaux de forêt au sud-ouest de nous." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_An_ancient_page__Oh____shit_" value="Une page ancienne?Oh merde." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_goal_talk_npc" value="Donner un dossier de cigarette à Draven" />
+  <Key key="_npc_Thanks_but_I_didn_t_sneeze_" value="Merci mais je n'ai pas éternue?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_And__of_course__some_gas_money" value="Et, bien sûr, de l'argent de gaz pour vos efforts.Très appréciée!" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Here_s_the_ancient_page__Told_" value="Voici l'ancienne page.Je vous ai dit que je tiendrais parole." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Hey__you_pulled_it_off_" value="Hé, tu l'as retiré!" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Did_you_find_my_cigarettes_" value="Avez-vous trouvé mes cigarettes?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_QuestActionAddToJournal_Draven_Torvik_Windreach_Woods_" value="Draven Torvik&#10;Windreach Woods, place de parking.&#10;&#10;Aidez Draven Torvik à récupérer son dossier de cigarettes perdues près des cristaux forestiers." />
+  <Key key="_npc_A_quest_begins_now_" value="Une quête commence maintenant." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Like_it__It_s_called_a_haiku_" value="J'aime ça?Ça s'appelle un haïku." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Gratitude_unfolds_" value="La gratitude se déroule." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Into_the_woods_you_stride_fort" value="Dans les bois, vous avancez." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+</Node>

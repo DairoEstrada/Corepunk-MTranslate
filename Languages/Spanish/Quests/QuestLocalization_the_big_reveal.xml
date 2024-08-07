@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_big_reveal" type="external">
+  <Key key="_goal_talk_npc" value="Regresa retumbando la olla verde a Alexander Stones" />
+  <Key key="_npc_Will_you_do_one_final_job_" value="¿Harás un trabajo final?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_goalVoice_Bring_pot_to_loud_man_on_radio" value="Trae la marihuana al hombre fuerte en la radio ... Alexander ... piedras ... es regalo." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Remember_we____I____tried_to_s" value="Recuerda que ... yo ... intenté salvarte." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_It_is____your_funeral_" value="Es ... tu funeral." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_You_do_not_want_to_hold_onto_p" value="No quieres aferrarte a la marihuana por mucho tiempo ..." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_You_will_make_Grommuk_so____so" value="Harás a Grommuk tan ... tan feliz." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Bring_special_pot__Is_present_" value="Trae una olla especial.Está presente ... yo soy ... el mayor fan." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Good____please____it_is_such_a" value="Bien ... por favor ... es un gran regalo ..." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_We_have_to_find_it____NOW_" value="We have to find it... NOW." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_But_why_would_they_be_after_th" value="Pero, ¿por qué estarían después de la cantera ... a menos que hubiera algún artefacto un poco poderoso debajo de él?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_There_really_is_an_invasion___" value="Realmente hay una invasión ... esto cambia jodidamente todo." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_It_tried_to_jump_on_me____it_s" value="Intentó saltar sobre mí ... ¡es un parásito!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_QuestActionAddToJournal_Grommuk_Ironhand_Westwind_Wood" value="Grommuk Ironhand&#10;Westwind Woods, Sawmill Center.&#10;&#10;Trae a Alexander Stones la extraña olla verde que recibiste de Grommuk." />
+  <Key key="_npc_Loud_man_on_radio____tells_sec" value="Huelvado hombre en la radio ... dice secretos ... y miente." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Sweet_ancients__There_s_some_k" value="¡Dulces antiguos!¡Aquí hay algún calamar de solo un maldito en los ojos!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Let_s_see_what_the_globalists_" value="Let's see what the globalists have been hiding..." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_This_is_the_moment_of_truth__l" value="Este es el momento de la verdad, veamos lo que tienes." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

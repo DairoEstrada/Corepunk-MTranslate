@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mysticism_lesson" type="external">
+  <Key key="_npc_I_appreciate_your_help__This_r" value="Aprecio tu ayuda.Esta runa podría ser clave para recordar mi vida pasada." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_You_will_need_to_gather_Powder" value="Deberá recoger relleno de polvo, hueso de joyería, madera de joyería, material compuesto, cerámica y diamante para elaborar la ruta de la cicatriz." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_How_is_the_rune_crafting_comin" value="¿Cómo va la elaboración de la runa?" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_I_hope_the_crafting_is_not_too" value="Espero que la elaboración no sea demasiado difícil." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_I_can_almost_remember_the_feel" value="Casi puedo recordar la sensación de la runa ..." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Thank_you__This_rune____it_bri" value="Gracias.Esta runa ... trae recuerdos.El toque, los símbolos ..." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_goal_collect_items" value="Trae cicatriz rúne a mortimer" />
+  <Key key="_QuestActionAddToJournal_G6fs" value="Mortimer Gloomsworth&#10;Goldenfield, cerca del cementerio&#10;&#10;Ayude a Mortimer a refrescar su memoria elaborando una cicatriz." />
+  <Key key="_goalVoice_Sm8W" value="Deberá recoger relleno de polvo, hueso de joyería, madera de joyería, material compuesto, cerámica y diamante para elaborar la ruta de la cicatriz." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_This_is_wonderful__Unfortunate" value="Esto es maravilloso.Desafortunadamente, no puedo decirte por qué." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Simply_take_this_reward__and_a" value="Simplemente tome esta recompensa y no haga más preguntas." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Drag_this_rune_onto_an_artifac" value="Arrastre esta runa en un artefacto para un poderoso impulso." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+</Node>

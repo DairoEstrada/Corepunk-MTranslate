@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_no_witnesses_to_glory" type="external">
+  <Key key="_goalVoice_Goldenfield_s_got_those_infern" value="Goldenfield a ces affiches infernales dispersées.Les tirez et les déchirer en lambeaux." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_There_are_five_of_those_wretch" value="Il y a cinq de ces misérables affiches éparpillées autour de Goldenfield.Soyez un cher et démolissez-les, allez-vous?Et gardez-le silencieux, pas besoin d'attention inutile." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Bloody_hell__You_daft_or_what_" value="Hellant sanglant!Vous stupide ou quoi?C'est important!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Oh__for_crying_out_loud__You_d" value="Oh pour pleurer fort!Vous ne savez pas ce qui vous manque!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_It_s_all_a_load_of_cobblers__r" value="C'est vraiment une charge de cordonniers.Mais ces imbéciles continuent de pousser leur nez, ne me causant aucune fin de problème." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_goal_talk_npc" value="Parler à Grizelda" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_Those_blasted_posters__claimin" value="Ces affiches explosées, affirmant que mes membres de culte bien-aimés sont «manquants».Ha!Ils ne manquent pas, ils ont «monté», bon sang!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Before_I_share_anything__you_l" value="Avant de partager quoi que ce soit, vous devrez m'aider avec un petit problème.Un problème que ces putains de bodges ont causé avec leurs affiches sanglantes!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_And_to_do_that__you_have_to_co" value="Et pour le faire, vous devez terminer ... euh ... nos tests d'initiation!Oui..." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Oh_dearie__you_want_to_know_my" value="Oh ma chérie, tu veux connaître mon secret pour les voyages interdimensionnels?Vous devrez rejoindre mon culte - euh, église - d'abord." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Here_s_your_well_deserved_rewa" value="Voici votre récompense bien méritée.Si vous voulez notre secret, vous devrez continuer à monter!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Consider_yourself_promoted__Yo" value="Considérez-vous promu!Vous êtes maintenant officiellement un «Minion de champignons, niveau un»!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_goal_collect_item_magic_mushroom" value="Collectez le champignon magique de Grizelda" />
+  <Key key="_QuestActionAddToJournal_Grizelda__Windreach_Woods__Woo" value="Grizelda&#10;Windreach Woods, maison de champignons en bois.&#10;&#10;Aidez Grizelda à retirer les 5 affiches de personnes disparues de ses membres cultes «ascensionnés» de Goldenfield." />
+  <Key key="_npc_Damn_it__Enjoy_living_your_bor" value="Bon sang!Profitez de vivre votre vie ennuyeuse et désemparée." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_varDescription_Collect_Missing_Persons_Poster" value="Collectez l'affiche des personnes disparues" />
+  <Key key="_npc_Well__bugger_me_sideways__You_" value="Eh bien, me fouille sur le côté!Vous l'avez fait!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_For_crying_out_loud__tell_me_y" value="Pour pleurer à haute voix, dites-moi que vous avez ces putains d'affiches!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Alright__love__you_re_in__Now_" value="Très bien, j'adore, tu es dedans!Maintenant, sortez et arrachez ces affiches sanglantes." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+</Node>

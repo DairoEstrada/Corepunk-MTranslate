@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_nutty_situation" type="external">
+  <Key key="_npc_Hell_yeah__let_s_show_that_pun" value="Enfer ouais, montrons ce punk qui est le vrai OG!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_goal_collect_blue_lotus" value=" " />
+  <Key key="_varDescription_Collect_a_Blue_Lotus" value="Récupérer un lotus bleu" />
+  <Key key="_QuestActionAddToJournal_Barkley_Beats_Riverrise__City_" value="Barkley bat&#10;Riverrise, centre-ville.&#10;&#10;Aidez Barkley à battre son rival de rap avec une dose sournoise de lotus bleus." />
+  <Key key="_goalVoice_Clock_s_ticking__dawg__Don_t_l" value="Horloge est coché, Dawg!Ne me laisse pas accrocher comme ça.Obtenez ces putains de lotus bleus, pronto!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Yo__you_back_already__Got_thos" value="Yo, tu reviens déjà?Vous avez ces lotus bleus ou quoi, punk?" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_varDescription_Blue_Lotus" value="Récupérer un lotus bleu" />
+  <Key key="_npc_Finally__about_time_you_came_t" value="Enfin, il est temps que vous ayez passé!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Damn__you_better_hope_this_wor" value="Merde, tu ferais mieux d'espérer que cela fonctionne.Sinon, tu seras le prochain, tu entends?" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Remember_who_s_the_alpha_aroun" value="Rappelez-vous qui est l'alpha ici.C'est Barkley Beats, je l'ai?" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Yo__listen_up__bitch__Barkley_" value="Yo, écoute, salope!Barkley bat n'est pas la merde pas d'une merde en herbe essayant de voler mon groove!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_That_newbie_s_been_barkin__up_" value="Ce débutant aboyait le mauvais arbre, et je suis pour leur montrer qui est le vrai chien de haut niveau." voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_I_need_you_to_fetch_me_5_Blue_" value="J'ai besoin que tu me récupéres 5 lotus bleus.Ouais, tu m'as bien entendu, salope, lotus bleus!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Those_flowers_ain_t_just_for_l" value="Ces fleurs ne sont pas juste pour avoir l'air bien, elles sont pour un retour sur place sournois." voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Yo__you_lettin__me_down_like_t" value="Yo, tu me laisse tomber comme ça?Il fait froid, mec." voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Fine__whatever__Guess_I_ll_han" value="OK peu importe.Je suppose que je vais gérer ce punk par moi-même." voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Really__You_re_just_gonna_leav" value="Vraiment?Tu vas juste me laisser accrocher?Pas cool, Dawg." voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Aight__I_see_how_it_is__Bet_yo" value="Aight, je vois comment c'est.Je parie que de quelque part comme la putain de vallée des péchés." voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Damn__thought_you_had_my_back_" value="Merde, je pensais que tu avais le dos.Maintenant, vous pourriez vous retrouver sur le vôtre." voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+</Node>

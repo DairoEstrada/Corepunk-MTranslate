@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fungal_phobia" type="external">
+  <Key key="_npc_We_just_need_to_get_Pastor_Faz" value="Só precisamos fazer com que o pastor Fazool fuja para que Lana possa comprar a terra." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_He_s_more_scared_of_fungus_tha" value="Ele tem mais medo de fungos do que um gato em uma sala cheia de cadeiras de balanço.Se o queremos sair daqui, precisamos de esporos e muitos deles." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Time_to_play_mushroom_hunter__" value="Hora de jogar caçador de cogumelos!Precisamos que você encontre cogumelos neon.Mira para cinco, tudo bem?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_He_can_t_give_you_any_interdim" value="Ele não pode lhe dar nenhum segredo interdimensional, mas se você precisar de um portal fixo ... talvez a LANA tenha alguma tecnologia Quaddari que possa fazer o trabalho." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Skipping_out__huh__Guess_Fazoo" value="Pulando, hein?Acho que Fazool vence nesta rodada.Espero que você goste dos sermões dele!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Seriously__You_re_scared_of_a_" value="Seriamente?Você tem medo de uma pequena caça ao fungo?Fazool provavelmente está rindo agora." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_goal_talk_npc" value="Fale com Lana Cartouche" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Fpyp" value="Colete cogumelos neon" />
+  <Key key="_npc_Oh_come_on__are_you_gonna_let_" value="Oh, vamos lá, você vai deixar Fazool continuar andando por aí como ele correu este lugar?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_QuestActionAddToJournal_Lingua__Reverie_Hollow__Freshw" value="Língua&#10;Deverie Hollow, água doce bem.&#10;&#10;Ajude a Lingua a assustar a Pastor Fazool, reunindo esporos de fungos e dando -os a Lana Cartouche." />
+  <Key key="_npc_Pastor_Fazool__Total_fraud_" value="Pastor Fazool?Fraude total." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_varDescription_Collect_Neon_Mushrooms" value="Colete cogumelos neon" />
+  <Key key="_goalVoice_Hey_mushroom_master__you_got_t" value="Ei, mestre de cogumelos, você já tem aqueles cogumelos neon?Você pode encontrá -los em árvores mágicas.Precisamos de cinco deles!Imagine o rosto de Fazool quando ele vê esses esporos crescendo.Impagável!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Bring_me_those_spores__and_we_" value="Traga -me esses esporos, e nós cultivaremos algum fungo primo que enviará a embalagem antiga da Fazool." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_This_Quaddari_Tech_Device_migh" value="Este dispositivo Tech Quaddari pode ser o que você precisa para reiniciar o portal de seu amigo.Diz -se que estabiliza portais irregulares." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Just____don_t_come_crying_to_m" value="Apenas ... não venha chorar para mim sobre o que sai disso." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_It_s_going_to_take_a_bit_for_t" value="Vai demorar um pouco para que esses esporos cresçam e se enraizem, mas quando o fizerem, Fazool desaparecerá em pouco tempo." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Ah__you_ve_returned__And_with_" value="Ah, você voltou.E com os cogumelos neon, nada menos." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_You_returned__I_assume_you_re_" value="Você voltou.Presumo que você seja o agente da Lingua." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Alright__let_s_make_Fazool_wis" value="Tudo bem, vamos fazer Fazool desejar que ele tenha mantido o cultivo de tomates!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+</Node>

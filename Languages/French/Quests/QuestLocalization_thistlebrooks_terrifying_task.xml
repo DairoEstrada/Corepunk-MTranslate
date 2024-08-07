@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_thistlebrooks_terrifying_task" type="external">
+  <Key key="_npc_Oh__this_is_bad__Really_bad__P" value="Oh, c'est mauvais!Vraiment mauvais!Pax et Ophelia Voss, ces enfants effrayants, ont dit qu'ils avaient vu comment je vais mourir!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Thank_you__Those_Voss_twins_sc" value="Merci!Ces jumeaux Voss me font peur, mais j'ai besoin de savoir ce qu'ils ont vu!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_And_now_they_re_holding_my_fat" value="Et maintenant, ils tiennent mon destin en otage à moins que je termine leurs putains de tâches!Cela me conduit à la pointe!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Please__you_have_to_help__I_ne" value="S'il vous plaît, vous devez aider!J'ai besoin de savoir comment et quand ça arrive!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_I_can_t_sleep__I_can_t_eat__it" value="Je ne peux pas dormir, je ne peux pas manger, c'est tout ce à quoi je peux penser.Allez découvrir ce qu'ils veulent, terminer leurs tâches et obtenir ces notes.J'ai besoin de connaître mon sort!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_You_can_t_leave_me_hanging_lik" value="Tu ne peux pas me laisser accrocher comme ça!Ces enfants sont terrifiants!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Please__don_t_do_this_to_me__I" value="S'il vous plaît, ne me faites pas ça.Je dois savoir comment je meurs!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_I_m_desperate_here__If_I_die__" value="Je suis désespéré ici!Si je meurs, c'est sur vos mains!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_You_don_t_understand__this_isn" value="Vous ne comprenez pas, ce n'est pas seulement une blague!C'est ma vie dont nous parlons!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_goal_talk_npc_pax_voss" value="Parlez à Pax Voss" />
+  <Key key="_goal_talk_npc_ophelia_voss" value="Parlez à Ophelia Voss" />
+  <Key key="_QuestActionAddToJournal_Thistlebrook_Riverrise__Bench_" value="Chardonbrook&#10;Riverrise, banc derrière l'alchimie.&#10;&#10;Aider le Thistlebrook frappé de la panique en effectuant des tâches pour les jumeaux psychiques Voss pour découvrir sa disparition prédireuse." />
+  <Key key="_goalVoice_Don_t_forget_about_Pax_and_Oph" value="N'oubliez pas Pax et Ophelia!J'ai besoin de savoir ce que ces enfants effrayants ont vu!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_goal_talk_npc" value="Retour à Thistlebrook" />
+  <Key key="_npc_Please_tell_me_you_found_somet" value="S'il vous plaît dites-moi que vous avez trouvé quelque chose!Ces enfants hantent toutes mes pensées!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_You_actually_got_the_notes__Th" value="Vous avez en fait les notes!Dieu merci, voyons maintenant ...!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Wait__what_s_this__Dying_from_" value="Attendez, qu'est-ce que c'est?Mourir d'une coupe en papier?Est-ce une blague tordue?" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_In_one_hour_too____I_NEED_TO_G" value="Dans une heure aussi ... j'ai besoin de m'éloigner du papier!Prenez tout mon argent, s'il vous plaît!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+</Node>

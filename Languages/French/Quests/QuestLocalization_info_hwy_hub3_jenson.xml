@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hwy_hub3_jenson" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Place__what_place__There__they" value="Lieu?quel endroit?Là, ils ... et s'ils le tuaient ..." voice="Male" />
+  <Key key="_npc_It_s_not_my_fault__you_need_to" value="Ce n'est pas de ma faute, vous devez comprendre ..." voice="Male" />
+  <Key key="_npc_I_ll_never_forgive_myself____n" value="Je ne me pardonnerai jamais ... Jamais ... ce que je vais faire maintenant?" voice="Male" />
+</Node>

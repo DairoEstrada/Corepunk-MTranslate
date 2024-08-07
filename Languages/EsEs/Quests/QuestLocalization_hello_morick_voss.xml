@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_morick_voss" type="external">
-  <Key key="_npc_Oh_crap__Who_are_you_____I_mea" value="Oh mierda.¿Quién eres? ... quiero decir ... ¡detenido!¿Cual es tu negocio?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
-  <Key key="_npc_Stand_at_attention_when_you_sp" value="¡Párate la atención cuando hables con un portador de luz, soldado!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
-  <Key key="_npc_What_brings_you_to_this_outpos" value="¿Qué te lleva a este puesto avanzado, civil?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
-  <Key key="_npc_Halt__in_the_name_of_the_King_" value="¡Halt, en nombre del rey!Uh, o quien dirige las cosas aquí, quiero decir." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
-</Node>

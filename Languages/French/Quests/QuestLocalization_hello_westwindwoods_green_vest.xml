@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_westwindwoods_green_vest" type="external">
+  <Key key="_npc_Looking_for_a__fixer_upper__" value="Vous cherchez un «fixateur-supérieur»?" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Prime_real_estate__slightly_ch" value="Prime immobilier, légèrement carbonisé!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Got_a_bargain_for_you_" value="J'ai une bonne affaire pour vous!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Fresh_ruins__just_in_" value="Des ruines fraîches, juste dedans!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Looking_for_a_fixer_upper_" value="Looking for a fixer-upper?" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Got_a_deal_for_you_" value="J'ai un accord pour vous!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Ruins_for_sale_" value="Ruines à vendre!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Bargain_on_charred_remnants_" value="Bargain sur les restes carbonisés!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+</Node>

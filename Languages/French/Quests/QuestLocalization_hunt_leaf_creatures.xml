@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hunt_leaf_creatures" type="external">
+  <Key key="_npc_Good_choice__Let_s_get_hunting" value="Bon choix!Passons à la chasse." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Remember___10_Leaf_creatures__" value="N'oubliez pas - 10 créatures de feuilles, directement des bois de Windreach." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_How_s_the_hunt_going_" value="Comment va la chasse?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Ah__you_ve_done_it__Excellent_" value="Ah, tu l'as fait!Excellent travail." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_So__truth_is__only_certain_arm" value="Donc, la vérité est que seule une certaine armure peut empêcher ces imps de brûler vos cajones." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Ain_t_going_to_give_you_mine__" value="Ain't going to give you mine, but you need a helmet with some fire grading." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Saw_Oswald_putting_some_gear_l" value="J'ai vu Oswald mettant de l'équipement comme ça dans le coffre-fort.En fait, j'en ai volé une partie." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Maybe_you_can_convince_him_to_" value="Vous pouvez peut-être le convaincre de vous en donner." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goal_kill_mobs" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Kill_Leaf_Creatures" value="Tuer les créatures à feuilles" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_5eSc" value="Butch O'Hara&#10;Goldenfield, près de la ferme porcine&#10;&#10;Butch dit aller chercher des créatures de feuilles dans Windreach Woods." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Remember__it_s_the_Leaf_creatu" value="N'oubliez pas que ce sont les créatures feuilles des bois de Windreach que nous recherchons.Ils ne se chasseront pas!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_gravedigger" type="external">
+  <Key key="_npc_Why_hello_there__Stranger__Min" value="Pourquoi bonjour, étranger!Attention à la tombe ouverte là-bas!" voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Watch_your_step__you_don_t_wan" value="Surveillez votre étape: vous ne voulez pas entrer dans une tombe avant que ce soit nécessaire!" voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Hello__Welcome_to_the_graveyar" value="Bonjour!Bienvenue dans le cimetière.Allez-vous rester longtemps?" voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Hello__Bringing_me_some_new_bu" value="Bonjour!M'apportant de nouvelles affaires, n'est-ce pas?" voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+</Node>

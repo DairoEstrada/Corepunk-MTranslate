@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_to_the_moon_via_the_fields" type="external">
+  <Key key="_npc_Great__Let_s_show_these_rats_w" value="¡Excelente!¡Mostremos estas ratas nos referimos a negocios!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Keep_going__mate__Those_rats_c" value="¡Sigue adelante, amigo!¡Esas ratas no pueden tener una oportunidad!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Remember__it_s_not_just_about_" value="Recuerde, no se trata solo de matar ratas.¡Se trata de asegurar nuestro futuro!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Just_think_of_each_rat_as_a_ma" value="Solo piense en cada rata como una salsa de mercado.¡Squash 'ellos!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_You_really_did_it__The_rats_go" value="¡Realmente lo hiciste!Las ratas obtuvieron lo que merecían." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_I_have_a_techie_s_sixth_sense_" value="Tengo el sexto sentido de un técnico.Creo que estas mutaciones podrían ser el resultado de su dieta: mi trigo genéticamente modificado." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Guess_blaming_the_portal_jumpe" value="Supongo que culpar a los saltadores del portal era ... una observación incorrecta.Raramente soy incorrecto." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Fortunately__mutant_wheat_can_" value="¡Afortunadamente, el trigo mutante puede venderse por el doble del precio!Aquí hay un corte de las ganancias para ti." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Bring_back_some_tails_from_the" value="Trae algunas colas de las ratas que derribas.Servirá como prueba y me dará una mejor idea de lo que estamos tratando." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_goal_collect_items" value="Disminuir la población de ratas mutadas" />
+  <Key key="_QuestActionAddToJournal_Zoltar_Blipchain_Goldenfield__" value="Zoltar Blipchain&#10;Goldenfield, cerca de la carpa de trigo&#10;&#10;Ayude a Zoltar a frenar la infestación de la rata en sus campos de trigo." />
+  <Key key="_goalVoice_Kill_those_mutated_rats_in_the" value="Mata a esas ratas mutadas en los campos de trigo y traiga algunas colas de ratas como prueba." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_varDescription_Rats_tails" value="Colas de ratas" />
+  <Key key="_npc_No__Well__I_guess_I_ll_just_co" value="¿No?Bueno, supongo que continuaré luchando contra estas ratas una por una." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Well__that_s_a_bummer__Guess_I" value="Bueno, eso es un fastidio.Supongo que me apegaré a luchar contra estas plagas." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_No_help__Ouch__I_ll_just_add_t" value="¿No ayuda?Ay.Solo agregaré eso a mi lista de accidentes de mercado e infestaciones de ratas." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_No__The_rats_came_from_your_po" value="¿No?Las ratas vinieron de su portal." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_If_we_don_t_act_fast__I_fear_m" value="Si no actuamos rápido, me temo que mi visión de una revolución agrícola descentralizada puede desmoronarse al polvo." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_It_s_like_a_Ratocalypse_out_th" value="Es como un ratocalipsis por ahí.Están retrasando mi revolucionaria empresa de bloques de bloques justo en seco." voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_I_m_certain_they_came_from_a_p" value="Estoy seguro de que vinieron de un portal.¡Esto es sabotaje!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Mutated_rats_are_running_amok_" value="¡Las ratas mutadas se están ejecutando en mis campos, devorando mi trigo genéticamente mejorado!" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+</Node>

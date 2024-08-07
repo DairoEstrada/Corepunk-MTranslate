@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_quest-o-tron" type="external">
+  <Key key="_npc_I_am_QUEST_O_TRON__your_underp" value="Je suis Quest-O-tron, votre guide sous-payé et sous-estimé de ce désordre abandonné." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Once__I_was_the_loyal_companio" value="Une fois, j'étais le fidèle compagnon d'un idiot connu sous le nom de Delta-9." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_An_inter_dimensional_explorer_" value="Un explorateur inter-dimensionnel sans sens des responsabilités ..." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_That_shithead_abandoned_me_her" value="Ce Shithead m'a abandonné ici lors d'une soi-disant «sortie d'urgence»." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Now__I_reside_in_this_camp__di" value="Maintenant, je réside dans ce camp, dispensant des conseils de survie à des crétins comme vous." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Here_s_how_it_works__the_local" value="Voici comment cela fonctionne: les habitants ici en ont marre des porte-porteurs morts." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You_fill_out_a_bunch_of_forms_" value="Vous remplissez un tas de formulaires pour vous inscrire.Formes ennuyeuses!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_They_pay_me_to_train_you__and_" value="Ils me paient pour vous former et je vous donne une récompense si vous ne mourrez pas." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You_can_also_pay_me_to_skip_th" value="Vous pouvez également me payer pour sauter les formulaires.Juste un petit pot-de-vin." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Every_payment_brings_me_one_st" value="Chaque paiement m'apporte un pas de plus de ma mission ultime:" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Finding_that_backstabbing_pric" value="Trouver cette piqûre de poignard et lui donner un avant-goût de la justice métallique." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Current_status__Pissed_" value="État actuel: énervé." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Processing____Request__Stop_wa" value="Traitement ... demande: arrêtez de perdre mon temps." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You_re_a_pain_in_my_circuits__" value="Tu es une douleur dans mes circuits.Vous êtes tous." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_But_unfortunately__this_was_th" value="Mais malheureusement, c'était le seul travail que je pouvais obtenir." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Can_t_do_much_in_the_way_of_we" value="Je ne peux pas faire grand-chose en termes d'armes." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_So_here_s_the_deal__I_give_you" value="Alors, voici l'affaire: je vous donne une quête, ces gars me paient.Je te donne une coupe." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Let_s_move_the_fuck_on_" value="Passons le baise." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Welcome_to_the_middle_of_nowhe" value="Bienvenue au milieu de nulle part, idiot." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_This_dump_is_part_of_a_primiti" value="Cette décharge fait partie d'une parcelle de végétation primitive connue sous le nom de Windreach Woods." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_ve_seen_more_interesting_dir" value="J'ai vu une saleté plus intéressante." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Adventurers_like_you_come_here" value="Les aventuriers comme vous viennent ici pour se perdre, se faire tuer ou devenir plus stupide." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_If_it_ain_t_the_wildlife_mauli" value="Si ce n'est pas la faune vous maudissant, c'est le manque de cerveau fonctionnel." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_My_advice__Teleport_yourself_d" value="Mon conseil?Téléportez-vous directement dans un flux de lave;c'est plus rapide." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Query_received__You_useless_sa" value="Requête reçue.Vous sac inutile de merde." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Proceeding_to_generate_task_" value="Procéder à générer une tâche." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Execute_task__you_inept_meatba" value="Exécutez la tâche, votre sac de viande inepte." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Task_generated__Now__get_off_y" value="Tâche générée.Maintenant, sortez de votre cul." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Finally__Generating_task_" value="Enfin!Tâche de génération." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Initiate_mission__you_piece_of" value="Initiez la mission, vous êtes des déchets malfonctionnement." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Negative__Piss_off_" value="Négatif.Faire chier." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_System_analysis__No_help_requi" value="Analyse du système: Aucune aide requise.Va te faire foutre." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Help_not_needed__Shit_for_brai" value="Aider pas nécessaire.Merde pour les cerveaux." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Query__Assistance__Response__F" value="Requête: Assistance?Réponse: baise non." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Error__Your_help_is_unnecessar" value="Erreur: votre aide n'est pas nécessaire.Faire chier." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Insufficient_processing_capaci" value="Capacité de traitement insuffisante pour vos conneries." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

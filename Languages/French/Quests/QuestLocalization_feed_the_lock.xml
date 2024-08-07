@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_feed_the_lock" type="external">
+  <Key key="_npc_Thank_you__dearie__My_chickens" value="Merci, ma chérie.Mes poulets et moi apprécions votre aide." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_My_chickens_are_clucking_with_" value="Mes poulets s'attaquent à l'anticipation." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Don_t_forget_the_corn__sweethe" value="N'oubliez pas le maïs, ma chérie." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Hope_you_didn_t_get_lost_in_th" value="J'espère que vous ne vous êtes pas perdu dans le champ de maïs." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Bless_your_heart__the_chickens" value="Bénissez votre cœur, les poulets s'accumuleront de joie." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_goal_collect_corn_bundles" value=" " />
+  <Key key="_QuestActionAddToJournal_5DOe" value="Granny Hilde&#10;Goldenfield, près de la ferme de poulet&#10;&#10;Récupérez dix paquets de maïs des champs de Goldenfield Town pour Granny Hilde." />
+  <Key key="_goalVoice_Don_t_forget__sweetheart__five" value="N'oubliez pas, chérie, cinq paquets de maïs pour mes poulets." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_varDescription_JLLe" value="Récupérer le maïs" />
+  <Key key="_varDescription_F9aT" value="Récupérer le maïs" />
+  <Key key="_npc_Don_t_forget__sweetheart__ten_" value="N'oubliez pas, chérie, dix paquets de maïs pour mes poulets." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_We_don_t_have_much__but_I_hope" value="Nous n'avons pas grand-chose, mais j'espère que cela fera l'affaire." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+</Node>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_shawna_turner" type="external">
+  <Key key="_npc_Name_s_Shawna_Turner__Used_to_" value="Le nom de Shawna Turner.J'étais sauvage, mais la vie m'a transformé en garde." />
+  <Key key="_npc_My_past__Let_s_just_say_I_had_" value="Mon passé?Disons simplement que j'avais un pinceau avec la mort.M'a changé pour toujours." />
+  <Key key="_npc_A_masked_killer_once_stalked_m" value="Un tueur masqué m'a traqué.Un vieil homme l'a tiré plusieurs fois, mais il a toujours disparu!" />
+  <Key key="_npc_Now__I_m_here_to_protect_my_co" value="Maintenant, je suis ici pour protéger mon cousin Tiffany.Elle ne comprend pas les dangers là-bas." />
+  <Key key="_npc_I_wish_Tiffany_would_quit_hook" value="Je souhaite que Tiffany cesse de s'accrocher et de s'éloigner de cet idiot de Guru!" />
+  <Key key="_npc_I_m_managing__still_haunted_by" value="Je gère, toujours hanté par mon passé." />
+  <Key key="_npc_Ever_since_that_masked_killer_" value="Depuis cet incident de tueur masqué, le sommeil n'est pas facile." />
+  <Key key="_npc_My_thoughts_often_drift_back_t" value="Mes pensées remontent souvent à cette nuit terrifiante.Je ne peux pas le secouer." />
+  <Key key="_npc_Tiffany_keeps_my_mind_occupied" value="Tiffany garde mon esprit occupé, cependant.Je veux qu'elle vienne vivre ici." />
+  <Key key="_npc_Every_day_is_a_fight_to_stay_v" value="Chaque jour est un combat pour rester vigilant, mais je ne laisserai pas mon passé me définir." />
+  <Key key="_npc_Reminders_of_that_trauma_fuel_" value="Les rappels de ce traumatisme alimentent ma détermination à protéger ceux qui me tiennent à cœur." />
+  <Key key="_npc_Riverrise__a_mix_of_life_and_d" value="Riverrise, un mélange de vie et de danger." />
+  <Key key="_npc_This_is_the_East_Pier_more_spe" value="Ceci est plus précisément la jetée est.Toujours animé d'activité, mais c'est aussi un terrain d'élevage pour les ennuis." />
+  <Key key="_npc_This_place_has_its_fair_share_" value="Cet endroit a sa juste part de risques, en particulier avec les voyageurs inter-universitaires qui se présentent." />
+  <Key key="_npc_I_keep_watch_here__making_sure" value="Je continue de regarder ici, en m'assurant que rien de l'ordinaire ne menace ceux qui me tiennent à cœur." />
+  <Key key="_npc_No_need_right_now__I_ve_got_th" value="Pas besoin pour le moment.J'ai des choses sous contrôle." />
+  <Key key="_npc_Appreciate_the_offer__but_I_m_" value="Appréciez l'offre, mais je gère bien les choses pour le moment." />
+  <Key key="_npc_Not_at_the_moment__but_thanks_" value="Pas pour le moment, mais merci de l'enregistrement." />
+  <Key key="_npc_All_good_here__Maybe_later_" value="Tout bien ici.Peut-être plus tard." />
+  <Key key="_npc_Actually__I_could_use_another_" value="En fait, je pourrais utiliser un autre ensemble d'yeux.Vous êtes en place?" />
+  <Key key="_npc_Glad_you_asked__There_s_always" value="Heureux que vous ayez demandé.Il y a toujours quelque chose qui nécessite une attention ici." />
+  <Key key="_npc_Yeah__there_s_a_task_I_ve_been" value="Ouais, il y a une tâche que je voulais arriver.Pourrait utiliser votre aide." />
+  <Key key="_npc_If_you_re_willing__I_ve_got_so" value="Si vous le souhaitez, j'ai quelque chose qui doit faire." />
+</Node>

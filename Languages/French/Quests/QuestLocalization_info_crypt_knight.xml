@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_crypt_knight" type="external">
+  <Key key="_npc_I_am_Captain_Mordrain_Schloss_" value="Je suis capitaine Mordrain Schloss.Je suis un porte-lumière et protecteur d'Elan." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_When_I_was_a_boy_I_entered_the" value="Quand j'étais un garçon, je suis entré dans le service du roi - mais je venais y penser, nous avions une reine à l'époque." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_I_have_been_in_the_Lightbearer" value="Je suis dans les porteurs légers depuis plus d'années que je ne tiens à raconter." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_The_Lightbearers_are_my_family" value="Les porteurs de lumière sont ma famille.Je n'ai besoin de aucune autre." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_My_present_assignment_is_to_gu" value="Ma mission actuelle est de garder cette crypte, en veillant à ce que rien de mal ne s'échappe." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_The_rest_of_my_squad_was_kille" value="Le reste de mon équipe a été tué pendant que je me soulageais.Parlez de «merde qui se passe», hein?" voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Okay__Not_that_funny__but_in_t" value="D'accord.Pas si drôle, mais dans le service, vous devez trouver de l'humour où vous pouvez." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_With_the_Light_s_blessings__I_" value="Avec les bénédictions de la lumière, je triomperai." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_I_am_guided_by_the_Light_and_m" value="Je suis guidé par la lumière et je me suis rendu ferme par mon devoir envers le roi." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Beyond_that_I_have_an_itch_in_" value="Au-delà, j'ai une démangeaison au milieu de mon dos qui me tourmente." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Got_a_thin_stick_I_can_borrow_" value="Vous avez un mince bâton que je peux emprunter?" voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Do_I_miss_my_squad_who_all_die" value="Est-ce que mon équipe me manque qui est décédée au combat l'autre jour?" voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Sure__but_they_knew_the_risks_" value="Bien sûr, mais ils connaissaient les risques." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_You_stand_at_the_entrance_to_t" value="Vous vous tenez à l'entrée de la crypte maître, un puissance des abominations.Ses secrets sont mieux laissés sans être perturbés." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Monsters_and_other_foul_creatu" value="Des monstres et d'autres créatures nauséabondes émergent de temps en temps.Je les tue, ou ils me tuent." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_What_s_inside__Graves__crypts_" value="Qu'est-ce qu'il y a à l'intérieur?Graves, cryptes, des choses séduisantes d'une puissance énorme qui transforment les faibles en créatures grossières à détruire." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_With_the_King_s_blessing_I_hop" value="Avec la bénédiction du roi, j'espère un jour pour diriger une expédition nettoyante à l'intérieur." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_I_do_" value="Je fais." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Yes__You_are_kind_to_ask_" value="Oui.Vous avez la gentillesse de demander." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_With_the_rest_of_the_squad_dea" value="Avec le reste de l'équipe morte, oui en effet." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Your_service_is_welcome_" value="Votre service est le bienvenu." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_No__My_love_for_the_King_is_al" value="Non. Mon amour pour le roi est tout ce dont j'ai besoin." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Not_at_the_moment__You_are_dis" value="Pas pour le moment. Vous êtes congédié." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_No__But_if_you_run_into_my_rel" value="Non. Mais si vous rencontrez mon équipe de secours, dites-leur que Mordrain dit de bouger leurs culs paresseux." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+  <Key key="_npc_Negative__I_have_things_well_i" value="Négatif.J'ai des choses bien en main." voiceSettingsId="AQBPGcBGPGF80t6YkPlQ" />
+</Node>

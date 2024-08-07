@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_developer_goldenfield" type="external">
+  <Key key="_npc_You_can_work_on_Cloth__Composi" value="Vous pouvez travailler sur le tissu, le matériau composite, le gel biologique et l'huile naturelle.Et, laissez-moi vous dire que l'huile naturelle est fantastique pour votre peau." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_You_wanna_get_fully_certified_" value="Vous voulez être entièrement certifié en herborisme?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Perfect__man__My_skin_is_screa" value="Homme parfait.Ma peau crie pour un masque facial à huile naturelle." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_You_can_find_Hazelnuts_hidden_" value="Vous pouvez trouver des noisettes cachées dans les buissons ici.Si vous pouviez en trouver et les transformer en huile naturelle, vous sauveriez vraiment ma journée!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Not_only_would_it_help_my_poor" value="Non seulement cela aiderait ma mauvaise peau, mais c'est aussi un excellent moyen de se renseigner sur l'herborisme." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Oh__that_s_a_bummer__But_it_s_" value="Oh, c'est une déception.Mais c'est cool, je comprends totalement." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_No_worries__Maybe_some_other_t" value="Pas de soucis.Peut-être un autre moment alors?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Nah__fully_operational_here_" value="Non, pleinement opérationnel ici." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_No_gigs_for_now__just_chilling" value="Pas de concerts pour l'instant, juste se détendre." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_All_good_in_the_hood__no_quest" value="Tout bien dans le capot, pas de quêtes pour vous." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Need_a_little_favor__if_you_re" value="Besoin d'un peu de faveur, si vous jouez." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Sure_thing__could_use_some_hel" value="Bien sûr, pourrait utiliser de l'aide." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Yeah__got_a_tiny_quest_for_you" value="Ouais, j'ai eu une petite quête pour toi." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_One_day_I_decided_I_d_had_enou" value="Un jour, j'ai décidé que j'avais assez des cabines stériles et des écrans artificiels.J'ai emballé mon ordinateur et attelé un tour vers Goldenfield et rencontré Maxwell." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Fresh_air__clean_code__and_ple" value="Air frais, code propre et beaucoup de joints des bonnes choses." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Goldenfield__It_s_paradise__ma" value="Goldenfield?C'est le paradis, mec!Surtout en regardant Maxwell." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_came_here_to_get_away_from_t" value="Je suis venu ici pour m'éloigner du quaddari, mais maintenant ils viennent directement vers moi." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Well__I_was___thanks_to_the_ar" value="Eh bien, j'étais - grâce aux artefacts qui apparaissent ici, les gens de partout apparaissent." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Living_the_dream__cowboy_" value="Vivre le rêve, Cowboy!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_So_how__bout_it__Up_for_a_litt" value="Alors, comment ça?Pour un peu d'aventure, Cowboy?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_That_s_where_this_plant__the_T" value="C'est là que cette plante, la feuille transparente, entre en jeu. Ce n'est pas seulement votre psychédélique moyen - il donne un boost de concentration de Helluva.Transforme la jungle en jardin zen." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_The_logic_s_all_entangled__lik" value="La logique est toutes enchevêtrée, comme des vignes dans une jungle.Ce qui le rend un peu excitant.Mais mon garçon, ai-je besoin d'un boost de mise au point pour le démêler." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_It_s_what_you_get_when_folks_d" value="C'est ce que vous obtenez lorsque les gens n'utilisent pas le développement axé sur les tests à partir de la sortie." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_ve_got_this_project__It_s_a_" value="J'ai ce projet.C'est un monstre de code spaghetti, une véritable hydra.Correction d'un bug et deux autres Spawn." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Oh__you_want_to_learn_herbalis" value="Oh, tu veux apprendre l'herborisme?Loin, mec." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Aye__it_s_the_wild_west_out_th" value="Oui, c'est le Far West là-bas." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_No_problemo__happy_trails_" value="Pas de problème, des sentiers heureux." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Bummer__guess_I_ll_keep_spacin" value="Bummer, je suppose que je vais continuer à espacer." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Now__about_fetchin__those_leav" value="Maintenant, à propos de la recherche de ces feuilles.Vous ne les trouverez pas dans votre pépinière de plante locale.J'entends dire qu'ils poussent sur des arbres rares dans les bois autour de ces parties." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Just_near_my_crib__you_ll_find" value="Juste près de mon berceau, vous trouverez un banc d'artisanat.C'est pourquoi j'ai choisi cet endroit, mec." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_There_are_lots_more_in_Windrea" value="Il y en a beaucoup plus dans les bois de Windreach et la forêt de Dusktide, mais je n'y vais pas - ces endroits me rendent nerveux." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_usually_search_bushes_in_Sky" value="Je cherche généralement des buissons dans les prairies de puits de lumière et la clairière de Sunweave." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Petrified_Spikes_are_really_ra" value="Les pointes pétrifiées sont vraiment rares!Ce sont de petits bougres épineux.Et si jamais vous rencontrez un escargot arc-en-ciel, ils sont super rares autour de ces parties." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Blue_Lotus__Six_leaf_Clovers__" value="Lotus bleu, trèfles à six feuilles, plantes carnivores et mes préférées personnelles - les mauvaises herbes magiques.Ils ne sont pas aussi courants, cependant." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_You_can_get_a_whole_lot_of_dif" value="Vous pouvez obtenir beaucoup de choses différentes - noisettes, jute, chenilles de ver à soie, racines parfumées ..." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_That_s_a_tip_for_dating_too__h" value="C'est aussi un conseil pour sortir ensemble, des trucs chauds." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_And_let_me_tell_you__the_older" value="Et permettez-moi de vous dire que plus la brousse est âgée et plus grande, plus les ressources qu'elle cache." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Bushes_come_in_three_tiers___T" value="Les buissons sont disponibles en trois niveaux - des buissons épais, de vieux buissons et vos mamans!Non, je plaisante.Buissons anciens." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_You_ll_be_dealing_with_stuff_f" value="Vous aurez affaire à des trucs à partir d'énormes buissons de Kwalat denses.Ces bébés sont comme des écosystèmes entiers." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_It_can_be_pretty_frustrating__" value="Cela peut être assez frustrant, mais les herbes spéciales de euh ici aident." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Seeing_that_you_re_new__I_shou" value="Voyant que vous êtes nouveau, je devrais partager quelque chose que j'ai découvert récemment - l'herborisme.C'est tellement cool, mec!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_And_the_best_part__I_do_it_whi" value="Et la meilleure partie?Je le fais tout en se prélquant sous le ciel ouvert, en montant haut sur la nature ... Cadeaux." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_still_code__more_out_of_love" value="Je code toujours, plus par amour que la nécessité.Je travaille à distance sur des projets fascinants, mais selon mes propres termes." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_traded_the_hum_of_servers_fo" value="J'ai échangé le bourdonnement des serveurs contre le murmure du vent, la réalité virtuelle contre la réalité verdoyante." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_ll_make_sure_your_efforts_ar" value="Je vais m'assurer que vos efforts sont bien récompensés!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_It_s_like_living_inside_a_Rob_" value="C'est comme vivre à l'intérieur d'une peinture Rob Boss tandis que Maxwell vit en moi." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Used_to_be_a_tiny_cog_in_the_g" value="Auparavant, un petit rouage dans la machine technique géante de Qaddari, en craquant du code jusqu'aux petites heures." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_They_call_me_Nia_Sundance_" value="Ils m'appellent Nia Sundance." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Not_your_thing__huh__That_s_al" value="Pas ton truc, hein?C'est d'accord.Paix!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_So_for_now__I_m_just_surfing_t" value="Donc pour l'instant, je surfais juste des vagues cosmiques du code et de la conscience." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_And_trust_me__Natural_Oil_is_p" value="Et croyez-moi, l'huile naturelle est de l'or pur.C'est comme une centaine de traitements de spa dans une petite bouteille!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_And_hey__dating_tip__the_older" value="Et bon, astuce de rencontres: plus la brousse est plus ancienne et plus grande, plus les ressources qu'elle cache.Demandez simplement à Maxwell." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+</Node>

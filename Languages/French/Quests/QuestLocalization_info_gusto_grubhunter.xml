@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_gusto_grubhunter" type="external">
+  <Key key="_npc_Brain_s_in_power_save_mode__Mu" value="Brain's in power-save mode. Must... eat." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Sorry____just_need____food_" value="Désolé ... juste besoin ... de la nourriture." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Too_busy_imagining_my_next_mea" value="Trop occupé à imaginer mon prochain repas.Pas maintenant." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Mind_s_blank__Need_munchies_no" value="L'esprit est vide.Besoin de Munchies maintenant!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_No__can_t____need_munchies____" value="Non, je ne peux pas ... besoin de fringales ... avant de m'évanouir." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Too_famished_to_think_straight" value="Trop affamé pour réfléchir directement.Peut-être plus tard." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Starving_here__can_t_focus__So" value="Farouvant ici, ne peut pas se concentrer.Désolé." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_HUNGRY__Mind_s_on_food__talk_l" value="AFFAMÉ!L'esprit est sur la nourriture, parlez plus tard!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Can_t_think____too_hungry_to_t" value="Je ne peux pas penser ... trop faim pour parler." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Just_stall_anyone_who_asks__I_" value="Il suffit de caler quiconque demande, j'ai besoin de descendre!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Fuckin__A_right_" value="Putain de droit!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Hell_yeah_" value="Enfer ouais!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Finally__someone_gets_it__Brin" value="Enfin, quelqu'un comprend!Apportez-moi des fringales?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Fuck_yeah__You_re_a_lifesaver_" value="Fuck yeah! You're a lifesaver!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Get_me_something_to_munch_on_" value="Procurez-moi quelque chose à grignoter!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Cover_my_patrol_and_I_ll_owe_y" value="Couvrez ma patrouille et je vous dois un grand temps!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Grab_me_that_snack__and_we_re_" value="Prenez-moi cette collation, et nous sommes copains pour la vie!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Hell_yes__Can_you_cover_my_shi" value="Oui bien sûr!Pouvez-vous couvrir mon quart de travail?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Just_know_this__you_come_to_Wi" value="Just know this: you come to Windstone, you ll never leave hungry. Trust me on that one." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_But_hey__who_am_I_kidding__Wou" value="Mais bon, qui je plaisante?Je ne voudrais pas que les villageois découvrent mes goûts particuliers." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Speaking_of_which__they_got_th" value="En parlant de cela, ils ont obtenu ces animaux de compagnie, non?Si bien nourri, ils ont l'air presque ... appétissants." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Everyone_s_too_busy_with_their" value="Tout le monde est trop occupé avec sa propre entreprise pour remarquer quelques friandises manquantes ..." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Folks_here_always_have_somethi" value="Les gens ici ont toujours quelque chose de cuisiner, et l'air est rempli d'odeurs alléchantes." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_It_s_a_small__bustling_town_kn" value="C'est une petite ville animée connue pour ses amis travailleurs et, euh, des amis comestibles." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_This_is_the_outskirts_of_Winds" value="C'est la périphérie de Windstone Village, non loin des prairies de puits de lumière." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Sometimes_I_think_about_just_s" value="Parfois, je pense à faire passer un peu de sa nourriture.Mâchant lentement pour que les autres pensent que je garde." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_But_hey__I_ain_t_here_to_ask_q" value="Mais bon, je suis ici pour poser des questions.Juste ici pour la prochaine assiette." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Rumor_has_it__some_bits_might_" value="La rumeur veut, certains bits pourraient être plus ... conscients que d'autres." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Some_folks_say_his_dishes_have" value="Certaines personnes disent que ses plats ont ... des ingrédients secrets.Je ne suis pas difficile, cependant." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Those_sizzling_roasts__those_p" value="Ces rôtis grésillants, ces steaks parfaitement carbonisés, ces tartes succulentes" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_You_know_Thorin_Toastbeard_s_c" value="Vous connaissez la cuisine de Thorin Toastbeard?Oui, c'est pratiquement la torture en être aussi proche." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Not_even_kidding__I_once_eyed_" value="Je ne plaisante même pas, j'ai regardé une fois un oiseau qui passe.Ressemblait à un repas décent." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Seriously__I_could_eat_anythin" value="Sérieusement, je pouvais manger n'importe quoi maintenant.J'ai essayé avant." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_They_always_give_me_the_munchi" value="Ils me donnent toujours les fringales ..." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_I_just_smoked_an_herbal_cigare" value="J'ai juste fumé une cigarette à base de plantes, et maintenant j'ai les fringales ..." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_HUNGRY__Oh_man__I_m_so_fucking" value="AFFAMÉ.Oh mec, j'ai tellement faim." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Don_t_worry__I_won_t_make_a_me" value="Ne t'inquiète pas, je ne ferais pas un repas à vous ... sauf si vous êtes vraiment en train de sortir." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_So__you_got_any_food_on_ya__I_" value="Alors, tu as de la nourriture sur toi?Je veux dire, je pourrais manger une putain de vache en ce moment." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Figured_guarding_this_place__I" value="Misté en gardant cet endroit, je recevrais les premiers dibs sur toutes les choses savoureuses." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_And_you__you_look_like_you_cou" value="Et vous, vous avez l'air de pouvoir avoir de bons conseils de grignotage, hein?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Now_I_m_just_tryin__to_find_th" value="Maintenant, j'essaie juste de trouver le prochain repas, tu sais?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_They_wouldn_t_let_me_eat_the_p" value="Ils ne me laisseraient pas manger les gens que j'ai attrapés ..." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Used_to_have_a_cushy_gig_as_a_" value="Auparavant, avoir un concert moelleux comme chasseur de primes, mais mec, ça est devenu vieux très vite." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Name_s_Gusto__pal__Gusto_Grubh" value="Nom's Gusto, Pal.Gusto Grubhunter." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+</Node>

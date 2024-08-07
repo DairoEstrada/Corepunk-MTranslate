@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_thelma_turtlebottom" type="external">
+  <Key key="_npc_I_m_Thelma_Turtlebottom__pleas" value="Je suis Thelma Turtlebottom, heureux de vous rencontrer!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Used_to_be_a_lowly_tavern_work" value="Auparavant, un travailleur de la taverne modeste, mais ces gens méchants se sont coupés de la ville." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Guess_it_s_just_karma__right__" value="Je suppose que c'est juste du karma, non?Le pasteur Fazool s'est présenté et BLAM!Les baiseurs sont partis." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Still_learning_about_Dagaron__" value="Apprenant toujours Dagaron, mais oh, c'est tellement excitant!Tout semble nouveau et plein de possibilités." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Never_felt_this_happy_before_" value="Je ne me suis jamais senti aussi heureux auparavant." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Oh__I_m_doing_alright__thanks_" value="Oh, je vais bien, merci d'avoir demandé." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Every_day_here_is_a_blessing__" value="Chaque jour, voici une bénédiction, même si mes parents me manquent parfois." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_They_fled_when_the_cult_showed" value="Ils ont fui lorsque le culte s'est présenté et nous nous sommes tous séparés." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Now__with_Dagaron_s_guidance__" value="Maintenant, avec les conseils de Dagaron, je me sens un peu perdu, mais aussi plein d'espoir." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Maybe_one_day__I_ll_find_my_pa" value="Peut-être qu'un jour, je retrouverai mes parents et nous pouvons être en sécurité ensemble." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_This_is_Reverie_Hollow___used_" value="C'est Reverie Hollow - auparavant un vieux village ennuyeux.Pure merde!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_I_hated_every_second_of_it__no" value="Je détestais chaque seconde, rien ne s'est jamais produit, et les jours se sont traînés." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_But_then_Dagaron_showed_up__an" value="Mais alors Dagaron s'est présenté, et tout a changé!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Now_there_s_cool_stuff_everywh" value="Maintenant, il y a des trucs cool partout, des reliques étranges et une ambiance totalement rad qui rend vos cheveux debout." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Oh__bless_you__but_Dagaron_s_g" value="Oh, vous bénisse, mais Dagaron a ça!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Thank_Dagaron__I_m_all_set_" value="Merci Dagaron, je suis tout réglé!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_No_need__darling__Dagaron_prov" value="Pas besoin, chérie, fournit Dagaron!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Sweet_of_you_to_ask__but_I_m_i" value="Doux de vous à demander, mais je suis entre les mains de Dagaron!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Thanks__but_Dagaron_s_light_gu" value="Merci, mais la lumière de Dagaron me guide!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Oh__yes__please__Maybe_you_can" value="Oh oui s'il te plait!Peut-être pouvez-vous m'en apprendre davantage sur Dagaron pendant que nous travaillons?" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Absolutely__I_could_use_some_h" value="Absolument!Je pourrais utiliser de l'aide et peut-être que nous pourrions également discuter de Dagaron?" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_That_would_be_amazing__Can_you" value="Ce serait génial!Pouvez-vous prêter un coup de main et partager une certaine sagesse sur Dagaron?" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Yes__please__I_d_love_to_hear_" value="Oui s'il vous plait!J'adore en savoir plus sur Dagaron pendant que nous faisons avancer les choses." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+</Node>

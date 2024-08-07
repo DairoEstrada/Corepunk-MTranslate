@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_confiscated_confections" type="external">
+  <Key key="_npc_Oh__duuude__that_s_like__a_maj" value="Oh, Duuude, c'est comme un major Buzzkill.Peut-être que le prochain voyage, ouais?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Whoa__bummer__man__Totally_mis" value="Whoa, Bummer, mec.A totalement manqué une chance de groover avec la nature." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_And_hey___I_ll_give_you_that_w" value="Et bon - je vais vous offrir ce livre bizarre en cadeau!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_The_herbs_will_wait__but_time_" value="Les herbes attendront, mais le temps est une chose délicate, mec." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Dude__if_you_could_take_a_jour" value="Mec, si tu pouvais faire un voyage pour consulter ces dossiers, nous pourrions simplement retrouver mes précieux verts." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Head_over_to_that_fort_thing_s" value="Rendez-vous sur cette chose de Fort au sud-ouest de nous et voyez si vous pouvez trouver ces papiers, et peut-être saisir quelques rouleaux!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goalVoice_Uh____what_did_I_send_you_to_d" value="Euh ... qu'est-ce que je t'ai envoyé faire?Oh, c'est vrai!Le livre!Non, les journaux!Mec, les notes du fort sont comme des registres cosmiques.Découvrez où sont mes verts là-dedans!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_talk_npc" value="Retour à Mary Jane Greenpuff" />
+  <Key key="_npc_I_m_pretty_sure_those_uptight_" value="Je suis à peu près sûr que ces folks de fort tendre gardent des notes de tout ce qu'ils confisquent." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_They_also_stole_this_weird_boo" value="Ils ont également volé ce livre étrange que j'ai trouvé enterré dans la forêt.J'ai perdu certaines pages certaines des pages.Les photos sont une ambiance totale, mec!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_They_re_more_than_just_plants_" value="Ce sont plus que de simples plantes, ils sont comme des vibrations essentielles pour notre bien-être collectif, vous savez?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Oh__man____those_guards_totall" value="Oh, mec ... ces gardes ont totalement durci mon moelleux en prenant ma cachette de goodies à base de plantes." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_It_says_here_the_captain_s_kid" value="Il dit ici que l'enfant du capitaine - Themis - devrait être quelque part autour de là en service.Commençons par là." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Far_out__This_log_is_exactly_w" value="Loin!Ce journal est exactement ce dont nous avions besoin.Il est temps de parler doux à ces gardes, mec." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Look_what_we_got_here___proof_" value="Regardez ce que nous avons obtenu ici - preuve que le capitaine demande des pots-de-vin des autres concessionnaires." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_QuestActionAddToJournal_Mary_Jane_Greenpuff_Windreach_" value="Mary Jane Greenpuff&#10;Windreach Woods, Road House.&#10;&#10;Aidez Mary Jane Greenpuff à récupérer ses herbes pharmaceutiques confisquées du fort à Windreach Woods." />
+  <Key key="_varDescription_Collect_Guard_s_Notes" value="Collectez les notes de Guard" />
+  <Key key="_npc_Whoa____hey__didn_t_I_tell_you" value="Whoa ... Hé, je ne t'ai pas dit de faire quelque chose pour moi?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Remember__Fort__logs__avoid_gu" value="N'oubliez pas: Fort, enregistre, évitez les gardes.Je ne me souviendrai pas, donc vous devez le faire." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Far_out__man__You_re_really_tu" value="Loin, mec!Vous êtes vraiment à l'écoute de l'univers." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

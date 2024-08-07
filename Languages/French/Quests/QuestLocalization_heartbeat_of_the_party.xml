@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_heartbeat_of_the_party" type="external">
+  <Key key="_QuestActionAddToJournal_Zibb__The_Zest__Throttlebreech" value="Zibb &quot;The Zest&quot; Throttlebreech&#10;Riverise, côté gauche de la cour du bar.&#10;&#10;Aidez Zibb 'The Zest' Throttlebreech à transformer un groupe kwalatien ordinaire en une rave interdimensionnelle en lui apportant 10 cœurs battant." />
+  <Key key="_npc_Alright__you_win__You_re_a_bit" value="Très bien, vous gagnez.Vous êtes un peu un monstre, mais un monstre dédié.Passons juste ... passez à autre chose et ne parlez plus jamais de cela." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_You_ve_really_misunderstood_me" value="Vous m'avez vraiment mal compris, mais c'est ... profondément impressionnant, d'une manière effrayante." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Okay__this_is____unsettling__I" value="D'accord, c'est ... troublant.Je ne pensais pas que vous iriez aussi loin." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_I_suppose_I_should_ve_been_cle" value="Je suppose que je devrais être plus clair.Je voulais dire l'énergie pulsante de la foule, pas des organes réels!" voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Uh____wow__You_actually_brough" value="Euh ... wow.Vous avez en fait apporté du vrai ... battre des cœurs?" voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Ah__the_rhythm_returns_to_our_" value="Ah, le rythme revient à notre rassemblement.Êtes-vous venu pour le relancer?" voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Here_s_your_reward__And__um__m" value="Voici votre récompense.Et, euh, peut-être que vous envisagez de voir quelqu'un sur ... cette tendance." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Ah__you_understand_the_rhythm_" value="Ah, vous comprenez le rythme du cosmos." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Envision_a_gathering_where_the" value="Envisagez un rassemblement où les énergies s'alignent, une symphonie d'âmes entrelacées dans les réjouissances.Pour y parvenir, j'ai besoin de 5 cœurs battant." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Yes__the_essence_of_life__the_" value="Oui, l'essence de la vie, le pouls de notre existence." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Retrieve_these_heartbeats_for_" value="Récupérez ces battements cardiaques pour moi, et ensemble, nous éleverons cette fête à l'extase céleste." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Your_role_will_be_that_of_the_" value="Votre rôle sera celui du maestro de la soirée." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_goal_collect_beating_heart" value=" " />
+  <Key key="_npc_The_pulse_of_the_party_dwindle" value="Le pouls du parti diminue sans votre contribution, mais c'est peut-être la voie de l'univers." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_No_pressure__we_are_but_notes_" value="Pas de pression, nous ne sommes que des notes dans la Grande Symphonie.Pourtant, sans votre pouls, peut-être que la fête disparaîtra dans le silence." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Denying_this_request__A_bold_c" value="Nier cette demande?Un choix audacieux, mais rappelez-vous, chaque cœur absent affaiblit la célébration.La danse peut cesser." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_varDescription_" value="Collectez le cœur battant" />
+  <Key key="_goalVoice_Seek_the_pulse_of_the_vibrant_" value="Cherchez le pouls du rythme vibrant, le rythme de la vie.Leur énergie doit nourrir notre célébration.La fête baisse sans le plus grand plaisir des animés.10 battements de coeurs.Ni plus ni moins." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_varDescription_Collect_Beating_Heart" value="Collectez le cœur battant" />
+</Node>

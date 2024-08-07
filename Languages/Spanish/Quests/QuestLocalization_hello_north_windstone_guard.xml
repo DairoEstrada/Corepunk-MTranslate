@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_north_windstone_guard" type="external">
+  <Key key="_npc_Oh__hi____please__don_t_hurt_m" value="Oh, hola ... ¡por favor, no me lastimes!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Um__hello__Is_it_safe_" value="¿UM Hola? ¿Es seguro?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__hello____mind_the_mud_" value="Oh, hola ... ¡MIENTA EL MUDO!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Um__hi_there____no_blood__righ" value="Um, hola ... sin sangre, ¿verdad?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh_dear__a_visitor_" value="¡Dios mío, un visitante!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__um__hi__Is_that_dirt__" value="¡Oh, um, hola!¿Es esa suciedad!?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Hi____oh__what_a_mess___" value="Hola ... Oh, que lío ..." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__hi_hi_" value="¡Oh, hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh_dear__hello_" value="¡Dios mío, hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Ah__a_butterfly__Sorry__hi_" value="¡Ah, una mariposa!¡Lo siento, hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh_no__I_um__hello_" value="Oh no, yo, hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__um__greetings_" value="¡Oh, um, saludos!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__um__hi_there_" value="¡Oh, um, hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Eek__Hello_" value="¡Eek!¡Hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__dear__Hi_" value="¡Oh querido!¡Hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Uh__oh__Hi_hello_" value="¡UH oh! ¡Hola hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Sorry__Hi_" value="¡Lo siento!¡Hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__goodness__hello_" value="¡Oh, Dios mío, hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Eep__Hi_there_" value="¡Eep!¡Hola!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+</Node>

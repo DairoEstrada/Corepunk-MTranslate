@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_astronaut_crew_member" type="external">
-  <Key key="_npc_Hey_there_" value="Ei!" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
-  <Key key="_npc_Houston__we_have_contact_" value="Houston, temos contato!" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
-  <Key key="_npc_What_s_cookin___good_lookin__" value="O que está cozinhando, boa aparência?" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
-  <Key key="_npc_Hey_there__space_cowboy_" value="Olá, Space Cowboy." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
-  <Key key="_npc_Seen_Dr__Bloom_" value="Viu o Dr. Bloom?" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
-</Node>

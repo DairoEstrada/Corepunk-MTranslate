@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_laid_lovers_locket" type="external">
+  <Key key="_npc_This_is_gonna_be_hotter_than_w" value="Ça va être plus chaud que nous ne le pensons!" voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_You_re_on_board__Great__let_s_" value="Vous êtes à bord?Super, faisons de la magie." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_No_way_dude__Just_in_time_" value="Aucun moyen mec!Juste à temps!" voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_Hot_damn__This_necklace_will_m" value="Damn hot!Ce collier la fera bondir." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_This_is_gonna_be_a_game_change" value="Ça va changer la donne.Merci une tonne, copain." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_Here_s_your_reward__And_if_Nia" value="Voici votre récompense.Et si Nia tombe amoureuse, vous pouvez vous attendre à un grand merci." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_goal_collect_resources_ruby" value=" " />
+  <Key key="_goal_collect_resources_jewelry" value=" " />
+  <Key key="_goal_collect_resources_thread" value=" " />
+  <Key key="_varDescription_Collect_Strong_Thread" value="Collectez un fil fort" />
+  <Key key="_varDescription_Collect_Ruby" value="Ruber" />
+  <Key key="_varDescription_Collect_Jewelry_Wood" value="Récupérer un bois de bijoux" />
+  <Key key="_npc_Alright__listen_up__I_ve_got_a" value="Très bien, écoutez.J'ai un peu .. Projet de cœur si vous voulez.C'est pour Nia." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_Anyway__here_s_the_plan__I_wan" value="Quoi qu'il en soit, voici le plan.Je veux lui faire un collier si glamour, que même les étoiles seraient jalouses.Mais je ne peux pas le faire seul." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_I_ll_need_you_to_gather_a_radi" value="J'aurai besoin que vous ramassiez un rubis rayonnant, du bois de bijoux et un fil fort.Croyez-moi, ça en vaudra la peine." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_I_get_laid__you_get_paid__Soun" value="Je suis entendu, vous êtes payé.Cela ressemble à un plan?" voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_QuestActionAddToJournal_Maxwell_Sterling_Dusktide_Fore" value="Maxwell Sterling&#10;Forest Dusktide, près de la tente.&#10;&#10;Aidez Maxwell à créer un collier pour séduire Nia Sundance.Rassemblez du rubis, du bois de bijoux et du fil fort." />
+  <Key key="_goalVoice_Don_t_forget__I_need_a_Ruby__J" value="N'oubliez pas, j'ai besoin d'un rubis, d'un bois de bijoux et d'un fil fort.Tu as ça!Cela peut vous prendre quelques veines pour trouver un rubis, mais n'abandonnez pas!Pensez à mes ... besoins.Vous savez certainement comment gérer le bois précieux et les pierres précieuses." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_varDescription_Collect_a_Ruby" value="Ruber" />
+  <Key key="_varDescription_Collect_a_Jewelry_Wood" value="Récupérer un bois de bijoux" />
+  <Key key="_varDescription_Collect_a_Strong_Thread" value="Collectez un fil fort" />
+  <Key key="_npc_Not_your_type__Fine__I_ll_find" value="Pas votre type?Très bien, je vais trouver une solution plus sexy." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_No_worries__I_ll_figure_someth" value="Pas de soucis, je vais comprendre autre chose." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_Maybe_next_time__Love_s_a_tric" value="Maybe next time. Love's a tricky game anyway." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+</Node>

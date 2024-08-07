@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_akira" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_I_uh____Du_rink_with_my_fu_ren" value="Je euh ... du-rink avec mon fu-Rendu Yugo.Mon Besuto Furendo." voice="Male" />
+  <Key key="_npc_Poorace__This_be_Upperu_Wirrag" value="Pauvre?Ce soit upperu wirrage." voice="Male" />
+  <Key key="_npc_Wakaranai__I_don_t_know_common" value="Wakaranai.Je ne connais pas la langue commune.Mon euh ... ma famine parle euh ... différente.Autre.Une autre langue.Je ne sais pas." voice="Male" />
+</Node>

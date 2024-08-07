@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_common_greetings5_m" type="external">
+  <Key key="_npc_T_was_better_here_till_you_out" value="Fue mejor aquí hasta que vinieran las salidas." voice="Male" />
+</Node>

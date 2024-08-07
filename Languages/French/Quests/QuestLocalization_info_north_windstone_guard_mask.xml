@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_north_windstone_guard_mask" type="external">
+  <Key key="_npc_Name_s_Mordo_Klake__guard_in_W" value="Nom's Mordo Klake, garde dans Windstone Village." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Used_to_be_a_top_military_stra" value="Auparavant, un stratège militaire de haut niveau avant d'être banni.Certaines personnes ne peuvent tout simplement pas gérer l'ambition." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Stumbled_into_this_world_throu" value="Trébuché dans ce monde à travers une faille.Maintenant, je m'assure que tout se passe bien." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Let_s_just_say__I_m_good_at_ke" value="Disons simplement, je suis bon pour garder un œil sur les choses et les gens.Ne sachez jamais qui pourrait avoir besoin ... une observation plus étroite." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Eddie_trusts_me_with_keeping_t" value="Eddie me fait confiance pour garder un œil sur certaines personnes.Pas grave, juste garder tout le monde en ligne." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_You_could_say_I_ve_got_a_knack" value="On pourrait dire que j'ai un talent pour obtenir des informations &quot;utiles&quot;.Est utile, si vous attrapez ma dérive." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Climbing_the_ranks_is_my_real_" value="Monter les rangs est mon véritable objectif.Un jour, je serai celui qui appelle les coups de feu, pas seulement en regardant depuis l'ombre." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Been_keeping_busy__Always_some" value="Je me suis occupé.Toujours quelque chose qui a besoin d'attention ici." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Took_some_interesting_notes_on" value="J'ai pris des notes intéressantes sur Dicey.Vous savez, il a un grave problème de jeu." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Figured_it_could_be_useful_inf" value="Pensé qu'il pourrait être des informations utiles sur la ligne.Je ne sais jamais quand un peu d'effet de levier pourrait être utile." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_And_then_there_s_our__vigilant" value="Et puis il y a notre collègue &quot;justicier&quot;.J'ai espiré la nuit, pensant que personne ne remarque." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Keeping_my_eye_on_his_every_mo" value="Garder mon œil sur chacun de ses mouvements.Un coup de feu, et bien, tout sera révélé." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Everything_needs_order__discip" value="Tout a besoin d'ordre, de discipline.Et je suis juste la personne pour l'assurer." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Life_s_a_chess_game__you_just_" value="La vie est un jeu d'échecs;Il vous suffit de comprendre les pièces.Et c'est mon travail de m'assurer qu'ils sont bien placés." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_The_village_is_all_picture_per" value="Le village est tous des maisons parfaites et une ignorance heureuse jusqu'à ce que vous sortez des portes." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Folks_here_have_a_twisted_sens" value="Les gens ici ont un sentiment de sécurité tordu.À l'intérieur, nous faisons des tartes et échangeons des ragots;À l'extérieur, ils échangent des balles et du sang." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Beyond_these_idyllic_cottages_" value="Au-delà de ces chalets idylliques se trouvent un monde de chaos pur et non filtré." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Around_here__we_pretend_the_bi" value="Ici, nous prétendons que le plus gros problème est un poulet qui échappe à son stylo, tandis que au-delà, il y a un bain de sang qui se produit." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_It_s_like_living_in_the_eye_of" value="C'est comme vivre dans l'œil d'un ouragan calme, serein, mais vous savez juste quelque chose d'horrible s brassage juste hors de vue." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Actually__I_could_use_someone_" value="En fait, je pourrais utiliser quelqu'un avec ... un certain ensemble de compétences." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_There_s_something_I_need_done_" value="Il y a quelque chose dont j'ai besoin, hors du disque." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_You_up_for_a_little_work_" value="Vous êtes un peu de travail?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Got_a_task_that_requires_discr" value="J'ai une tâche qui nécessite la discrétion.Intéressé?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_If_you_re_willing_to_get_your_" value="Si vous êtes prêt à vous salir les mains, j'ai une offre." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Let_s_just_say_there_s_a_job_t" value="Disons simplement qu'il y a un travail qui a besoin de subtilité.Vous dedans?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_I_have_a_favor_to_ask__but_it_" value="J'ai une faveur à demander, mais ce n'est pas exactement ... légal." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Ever_heard_of_a__favor_for_a_f" value="Avez-vous déjà entendu parler d'une &quot;faveur pour une faveur&quot;?Eh bien, j'ai besoin d'une faveur." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Got_a_little_side_project_that" value="J'ai un petit projet secondaire qui doit faire.Vous souciez d'aider?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_If_you_re_open_to_bending_the_" value="Si vous êtes ouvert à plier les règles, j'ai une proposition." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_I_m_busy__Move_along_" value="Je suis occupé. Avancer." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Not_interested__Find_someone_e" value="Pas intéressé. Trouver quelqu'un d'autre." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Can_t_you_see_I_m_occupied_" value="Tu ne vois pas que je suis occupé?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_No_time_for_distractions__Get_" value="Pas de temps pour les distractions.Aller se faire cuire un œuf." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_I_ve_got_more_important_things" value="J'ai des choses plus importantes à faire." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Do_I_look_like_I_need_help_" value="Ai-je l'air d'avoir besoin d'aide?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_You_re_wasting_my_time_" value="Tu perds mon temps." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Buzz_off_and_let_me_work_" value="Buzz et laissez-moi travailler." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+</Node>

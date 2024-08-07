@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_fenwick_fen_harrow" type="external">
+  <Key key="_npc_Oh__hello_there_" value="Oh, olá lá!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Have_we_met_before_" value="Já nos encontramos antes?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Oh__hi____again_" value="Oh, oi ... de novo?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Oh__hey____um___" value="Oh, ei ... hum ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Do_I_know_you_" value="Eu te conheço?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Greetings____I_think_" value="Saudações ... eu acho." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Hi__have_we_talked_" value="Oi, conversamos?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Oh__it_s_you_" value="Ah é você!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Hello____have_we_met_before_" value="Olá ... nós já nos conhecemos antes?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Hey_there__stranger_" value="Olá estranho." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_You_come_around_here_before_" value="You come around here before?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_How_are_you__Who_are_you_" value="Como vai você?Quem é você?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Oh__hi_there_" value="Oh, oi lá." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Wait__do_I_know_you_" value="Espere, eu te conheço?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Have_any_mushrooms_" value="Have any mushrooms?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Hey____do_I_know_you_" value="Oi, eu conheço você?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Oh__hello____what_s_your_name_" value="Oh, olá ... qual é o seu nome?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+</Node>

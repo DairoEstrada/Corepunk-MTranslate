@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_help" type="external">
+  <Key key="_npc_Privet" value="Hé.Je n'ai pas le temps de répondre à vos questions.Nous avons nos propres problèmes ici.Peut-être que tu veux aider?" voice="Male" />
+  <Key key="_goal_help_man" value="Nettoyez le désordre à la gare de mana" />
+  <Key key="_QuestActionAddToJournal_8d31" value="Помоги бригадиру" />
+  <Key key="_npc_Pomogi_s_pozharom" value="Tout d'abord, le feu.Prêt à y arriver?" voice="Male" />
+  <Key key="_npc_Mozhet_togda_s_medikom_" value="Maintenant, nous avons beaucoup de travailleurs blessés.Tu veux nous aider à traiter ces pauvres salauds?" voice="Male" />
+  <Key key="_npc_A_s_mana_bochkami_" value="Il y a aussi un problème avec la panne de courant ici.Vous devrez obtenir quelques conteneurs remplis de mana et les mettre dans les centrales électriques.Prêt?" voice="Male" />
+  <Key key="_npc_Nu_prikhodi_v_drugoy_raz" value="Eh bien, c'est tout ce dont nous avons besoin pour l'instant.Je vais répéter toutes ces tâches parmi lesquelles vous pouvez choisir." voice="Male" />
+  <Key key="_npc_eshche_paru" value="Vous avez réussi à nous aider avec les travailleurs blessés.Bien." voice="Male" />
+  <Key key="_npc_Spasibo_tebe_bol_shoe" value="Merci beaucoup mec." voice="Male" />
+  <Key key="_goalVoice_9GMb" value="Привет, поможеш?" voice="Male" />
+  <Key key="_npc_Super_davay_za_delo" value="Super.Maintenant, écoutez, j'ai trois problèmes majeurs ici après la dernière attaque.Ce sont l'incendie à la station, les travailleurs blessés et l'électricité manquante." voice="Male" />
+  <Key key="_npc_U_tebya_ostalos_" value="Donc, vous avez déjà éteint le feu.Mais il y a plus de choses que vous pouvez faire pour nous." voice="Male" />
+  <Key key="_npc_Pochti_vse" value="La crise de la centrale électrique est traitée.Merci à toi.Maintenant, il reste encore des choses avec lesquelles vous pouvez nous aider." voice="Male" />
+  <Key key="_npc_Nu_zadachi_takie_" value="Donc, j'ai les prochaines choses à faire." voice="Male" />
+  <Key key="_npc_1" value="D'accord, il y a encore des choses que vous pouvez faire pour nous." voice="Male" />
+</Node>

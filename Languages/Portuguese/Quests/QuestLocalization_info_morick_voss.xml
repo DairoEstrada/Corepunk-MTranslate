@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_morick_voss" type="external">
+  <Key key="_npc_I_am_Morick_Voss__obviously__A" value="Eu sou Morick Voss, obviamente.Um portador de luz.Por que você pergunta?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_am_heroically_protecting_the" value="Estou protegendo heroicamente o mundo dessa abominação!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_A_loyal_guardian_of_Elan__like" value="Um leal guardião de Elan, como Lyna, meu parceiro!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_There_is_nothing_we_enjoy_more" value="Não há nada que gostemos mais do que lutar contra bolhas de corrupção!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Fine__Very_happy_to_be_on_this" value="Multar!Muito feliz por estar neste post à beira do inferno!soluço!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_All_right__I_m_sick_of_all_the" value="Tudo bem!Estou cansado de todas as mentiras!Eu sou Morick Voss.Eu sou de outro mundo." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_was_blown_here__on_this_nigh" value="Fui soprado aqui, neste planeta pesadelo, há algumas semanas.Encontrei um homem de armadura, nos arbustos próximos.Ele estava extremamente morto." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_took_his_armor__okay__It_was" value="Eu peguei a armadura dele, ok?Era mais seguro do que o Labcoat que eu estava usando quando cheguei.E ele com certeza não precisava disso." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_noticed_that_he_looked_like_" value="Eu notei que ele se parecia comigo.Bastante.Então eu peguei a identidade dele.Morick Voss.Que nome, hein?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_ve_been_pretending_to_be_a_L" value="Eu tenho fingido ser um portador de luz desde então.Eu mantenho meu capacete ligado." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_My__partner___Lyna__doesn_t_kn" value="Meu &quot;parceiro&quot;, Lyna, não sabe nada.Eu não acho que ela conhecia o cara morto tão bem." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_And_if_you_rat_me_out_she_ll_c" value="E se você me deixar, ela cortará minha cabeça.E isso seria péssimo." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_You_re_at_the_edge_of_the_Vall" value="Você está na beira do vale dos pecados!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_It_is_filled_with_blobs_and_co" value="É preenchido com bolhas e seres corrompidos com sede de carne." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_It_s_a_remarkable_ecosystem__r" value="É um ecossistema notável, realmente, merecedor de estudos.Quero dizer, ho!Deve ser destruído!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_We_do_not_know_the_source_of_t" value="Não sabemos a fonte da corrupção.Um artefato, talvez?Tecnologia?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_It_looks_to_me_like_a_genetic_" value="Parece -me que um experimento genético deu errado - mas o que um simples portador de luz sabe dessas coisas?!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_We_Lightbearers_stop_the_corru" value="Nós, portadores de luz, impedem que a corrupção se espalhe pelo vale.Meu parceiro está muito entusiasmado e, é claro, estou!Ho!e tudo isso." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Hmm__I_mean__Ho__Perhaps_I_can" value="Hum.Quero dizer, ho!Talvez eu possa confiar em você." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_You_look_fairly_capable__But_a" value="Você parece bastante capaz.Mas você é confiável?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_That_depends__Can_you_keep_a_s" value="Depende. Você consegue guardar segredo?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Indeed__But_this_job_isn_t_for" value="De fato.Mas esse trabalho não é para os fracos de coração." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_have_a_task_that_demands_ski" value="Eu tenho uma tarefa que exige habilidade e sutileza, mas talvez você faça." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Not_right_now__Lyna_may_be_wat" value="Não agora!Lyna pode estar assistindo!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_The_Lightbearers_stand_alone__" value="Os portadores de luz estão sozinhos.Geralmente.Volte mais tarde." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Not_yet__I_need_to_gather_more" value="Ainda não.Eu preciso coletar mais dados." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_am_self_sufficient__like_any" value="Sou auto-suficiente, como qualquer portador de luz real." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+</Node>

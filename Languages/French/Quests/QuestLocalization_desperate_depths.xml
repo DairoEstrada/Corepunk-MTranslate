@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_desperate_depths" type="external">
+  <Key key="_npc_Refusal_comes_with_its_own_set" value="Le refus vient avec son propre ensemble de dangers, vous savez." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_goal_kill_mobs" value=" " />
+  <Key key="_npc_In_the_meantime__I_will_look_i" value="En attendant, je vais examiner votre problème d'artefact.Agréable?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Suit_yourself__It_s_not_just_y" value="Comme vous voudrez.Ce n'est pas seulement votre conscience qui vous hantera." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_goal_talk_npc" value="Retour à Varkus Drov" />
+  <Key key="_goalVoice_Don_t_forget_to_kill_those_imp" value="N'oubliez pas de tuer ces imps ... c'est une tâche grotesque, mais nécessaire pour ... des raisons." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_need_you_to_go_kill_a_bunch_" value="J'ai besoin que tu ailles en tuer un tas pour que je puisse lui arracher l'estomac.J'ai besoin de les rechercher pour ... des preuves." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_You_see__I_fear_the_imps_aroun" value="Vous voyez, je crains que les imps ici aient mangé ma chère femme alors qu'elle se promenait de la mine." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_We_may_be_the_perfect_people_t" value="Nous pouvons être les personnes parfaites pour résoudre les problèmes de chacun.Vous, un idiot bulbeux.Moi, un chasseur de trésors de génie." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_But_hey__now_that_you_proved_m" value="Mais bon, maintenant que vous avez prouvé mon innocence, vous pouvez peut-être m'aider avec une autre chose ..." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_am_so_busy_grieving__I_could" value="Je suis tellement occupé à pleurer, je ne pouvais même pas trouver votre artefact." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_At_least_we___I_mean__you___ki" value="Au moins, nous - je veux dire, vous - vous avez tué le reste des témoins - je veux dire, les auteurs!" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_varDescription_Kill_Imps" value="Tuez les imps" />
+  <Key key="_QuestActionAddToJournal_Varkus_Drov_Westwind_Woods__Ol" value="Varkus Drov&#10;Westwind Woods, Old Mine près de Sawmill.&#10;&#10;Aidez Varkus Drov à découvrir le sort de sa femme en tuant 10 imps près de l'ancienne mine." />
+  <Key key="_npc_Think_carefully__because_some_" value="Pensez attentivement, car certaines décisions sont irréversibles." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Oh__I_so_fear_the_worst__It_so" value="Oh, j'ai tellement peur du pire.Il est si clair que ces imps ont assassiné ma pauvre et pauvre épouse." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_It_appears_her_ring_was_in_one" value="Il semble que sa bague était dans son ventre!Nous l'avons tous les deux vu tomber - je ne l'ai certainement pas mis là." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_You_ve_been_busy__I_already_in" value="Vous avez été très occupé.J'ai déjà inspecté les IMP que vous avez tués." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Ah__a_wise_choice__my_naive_fr" value="Ah, un choix sage, mon ami naïf.Que votre lame soit aussi nette que mon esprit." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+</Node>

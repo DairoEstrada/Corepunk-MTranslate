@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_exo_repair" type="external">
+  <Key key="_npc_Oi_mate__who_the_hell_are_you_" value="Oi mate." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Oi_mate_" value="Ugh, un autre nouveau venu.Eh bien, au moins votre tête n'a pas encore explosé.Un bon signe déjà." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_You_want_something_" value="Vous voulez quelque chose?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Got_other_people_to_talk_to_" value="J'ai d'autres personnes à qui parler." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Damn_O_R_B_I_T_drones_" value="Putain de drones o.r.b.i.t ..." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Buzz_off_and_bother_Zugg_" value="Buzz et dérange Zugg." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+</Node>

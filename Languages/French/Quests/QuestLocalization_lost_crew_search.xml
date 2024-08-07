@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lost_crew_search" type="external">
+  <Key key="_npc_Aye__aye__captain__Let_s_find_" value="Oui, oui, capitaine!Trouvons mon équipage!" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Keep_your_eyes_peeled_for_any_" value="Keep your eyes peeled for any signs of the crew." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Remember__anything_can_be_a_cl" value="N'oubliez pas que tout peut être un indice." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_My_crew_s_out_there__somewhere" value="Mon équipage est là-bas, quelque part.Je peux le sentir." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Still__these_documents_are_eno" value="Pourtant, ces documents me suffisent à créer un contre-agent pour vous." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_had_hoped___well__never_mind" value="J'avais espéré ... eh bien, tant pis.Merci d'avoir ramené cela." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_So__you_only_found_some_notes_" value="Donc, vous n'avez trouvé que quelques notes, mais aucun signe des membres de l'équipage ... c'est ... c'est difficile." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_goal_collect_documents" value="Trouver d'autres astronautes" voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_IAiB" value="Documents des membres de l'équipage" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_DeOt" value="Ronny Lunar&#10;Windreach Woods, près du vaisseau spatial écrasé.&#10;&#10;Recherchez plus de l'équipage de Ronny." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Pnpt" value="Gardez un œil sur tous les signes d'autres astronautes." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Keep_an_eye_out_for_any_signs_" value="Gardez un œil sur tous les signes d'autres astronautes." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_If_I_can_t_help_them__maybe_I_" value="Si je ne peux pas les aider, je peux peut-être vous aider." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_ll_get_this_reagent_to_Marth" value="Je vais obtenir ce réactif à Martha, en ville.Elle prendra des choses d'ici." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+</Node>

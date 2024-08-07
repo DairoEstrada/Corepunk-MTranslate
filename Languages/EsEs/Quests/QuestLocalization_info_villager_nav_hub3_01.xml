@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_villager_nav_hub3_01" type="external">
-  <Key key="_npc_I_ve_heard_the_only_reason_for" value="He escuchado que la única razón por la que la estación de maná está allí es hacer drogas para la juventud de Leithania." voice="Male" />
-  <Key key="_npc_Wanna_get_some_for_yourself__h" value="¿Quieres conseguir algo para ti, eh?Bueno, es al norte.Puede llegar de manera segura a través del segundo centro." voice="Male" />
-  <Key key="_npc_But_don_t_even_think_about_it_" value="Pero ni siquiera lo pienses, amigo.Es un verdadero dolor en el culo obtener un permiso de entrada." voice="Male" />
-</Node>

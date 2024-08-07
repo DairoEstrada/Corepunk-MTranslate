@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lawsuit_of_the_lake" type="external">
+  <Key key="_npc_You_miss_out_artifact__Big_los" value="Vous manquez un artefact.Grosse perte pour vous." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_I_start_legal_thing_against_Wi" value="Je commence à être juridique contre Windstone Village.Ils ne me donnent pas ma nourriture préférée.Besoin d'aide d'autres monstres." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Get_complaint_notes_from_other" value="Obtenez des notes de plainte des autres monstres.Faire du village vendre des bébés pour des œufs de poisson dont ils ont envie." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Find_Seaonna__Mariel_Venomtail" value="Trouvez Seaonna, Mariel Venomtail, Ol 'Fins, Zorbul, Glimmiwop et Glubgrath.Les convaincre des notes de signe.Aidez-moi à gagner du procès." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_help_me__I_give_artifact_p" value="Vous m'aidez, je donne une pièce d'artefact.Très important, très puissant." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goalVoice_Don_t_forget_notes__Seaonna_an" value="N'oubliez pas les notes!Seaonna et Mariel Venomtail par le lac Mermaid.Ol 'Fin sur Windstone Lake Pier, Zorbul et Glimmiwop sur une ferme lointaine, Glubgrath près du lac Gemini.Obtenez des notes pour le grand drame juridique de Triton, vous obtenez un artefact brillant.Échange équitable!Pas de notes, pas d'artefact!Triton pas baby-sitter, trouvez-vous des bébés." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goal_collect_seaonnas_note" value="Recueillir la note de Seaonn" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_venomtails_note" value="Collectez la note de Venomtail" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_fins_note" value="Collectez la note d'Ol Fin" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_zorbuls_note" value="Collectez la note de Zorbul" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_glubgraths_note" value="Collectez la note de Glubgrath" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_glimmiwops_note" value="Collectez la note du Dr Glimmiwop" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_end_quest" value="Retour à Triton" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Triton_find_another__maybe_sma" value="Triton en trouve un autre, peut-être plus intelligent." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Need_real_babies__Authentic_ta" value="Besoin de vrais bébés.Goût authentique." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_No_quit_now__right_" value="Pas d'arrêt maintenant, non?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Me_give_artifact__me_promise__" value="Je donne un artefact, je promets!Vous êtes tellement proche." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Here_reward__ugly__Now_just_ne" value="Ici récompense, laid.Maintenant, vous avez juste besoin de vous faire une dernière faveur." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Haha__you_not_dead_yet__Compla" value="Haha, tu n'es pas encore mort!Plaintes bien, village condamné." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_QuestActionAddToJournal_Triton_Windreach_Woods__Lake_h" value="Triton&#10;Windreach Woods, Lake House.&#10;&#10;Aidez Triton à recueillir les notes de plainte de monstres locaux comme Seaonna, Mariel Venomtail, Ol 'Fins, Zorbul, le Dr Glimmiwop et Glubgrath pour son recours collectif." voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Fine__stay_hungry_like_fish_ou" value="Très bien, restez affamé comme le poisson hors de l'eau." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Ah__you_still_alive__You_bring" value="Ah, tu es toujours en vie!Vous portez des plaintes ou simplement des excuses?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Good_choice__you__Notes_for_la" value="Bon choix, vous!Notes pour le procès, artefact pour vous.Triton tient la promesse." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+</Node>

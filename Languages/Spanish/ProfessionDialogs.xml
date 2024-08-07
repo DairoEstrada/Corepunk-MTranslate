@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ProfessionDialogs" description="">
+  <Node name="2020.11.4@1671458764999" />
+  <Node name="2020.11.4@16779385893" />
+  <Node name="2020.11.4@167942528756" />
+  <Node name="2020.11.4@1671032636580" />
+  <Node name="2020.11.6@1453618635989" />
+  <Node name="2020.11.6@1453535176330" />
+  <Node name="2020.11.6@14531527473462" />
+  <Node name="2020.11.6@14531508881226" />
+  <Node name="2020.11.6@14532066903575" />
+  <Node name="2020.11.6@152434253654" />
+  <Node name="2020.11.6@1522077358593" />
+  <Node name="2020.11.6@1521258135132" />
+  <Node name="2020.11.6@1521307144294" />
+  <Node name="2020.11.6@1521402204016" />
+  <Node name="2020.11.6@15295030795" />
+  <Node name="2020.11.6@1521686787363" />
+  <Node name="2020.11.6@15211751830896">
+    <Key key="Phrase" value="Sorry, can't hear what you're saying. This mining job is not very good for your ears. And eyes. And lungs. And teeth. Wanna become a miner, by the way? For {value1} I'll teach you the basics." />
+  </Node>
+  <Node name="2020.11.6@1521653337124">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2020.11.6@1521577534629">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2020.11.6@15211533323879">
+    <Key key="Phrase" value="Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2020.11.6@1521640637299">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier." />
+  </Node>
+  <Node name="2020.11.6@15161712670112">
+    <Key key="Phrase" value="Did you know that you can assemble a plasmatron from nuclear waste and orange juice? It's not true. But I can teach you how to assemble real things, for the cost of just {value1}." />
+  </Node>
+  <Node name="2020.11.6@1516763567199">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2020.11.6@1516744656238">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2020.11.6@1516718121782">
+    <Key key="Phrase" value="Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2020.11.6@1516948077439">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier." />
+  </Node>
+  <Node name="2020.11.6@1545107299106">
+    <Key key="Phrase" value="Why do you want to learn collecting herbs? Are you going to make drugs from them? On the other hand, I don't care, I need money anyway. I'll teach you the basics for {value1}." />
+  </Node>
+  <Node name="2020.11.6@1545817954560">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2020.11.6@1545959519073">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2020.11.6@15451423122849">
+    <Key key="Phrase" value="Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2020.11.6@1545628856996">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier." />
+  </Node>
+  <Node name="2020.11.6@1512827205304">
+    <Key key="Phrase" value="Don't believe those who tell you all lumberjacks are simple. You gotta have smarts to fell down a tree. I can teach you this tree felling science for {value1}." />
+  </Node>
+  <Node name="2020.11.6@1512224594803">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2020.11.6@15121277672650">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2020.11.6@15121060873500">
+    <Key key="Phrase" value="Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2020.11.6@15121714934744">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier." />
+  </Node>
+  <Node name="2020.11.6@1535444322781">
+    <Key key="Phrase" value="You? Want to learn the ancient craft of weaponsmithing? You? Really? Okay, why not. It'll cost you {value1}." />
+  </Node>
+  <Node name="2020.11.6@1535169538633">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2020.11.6@1535553288515">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2020.11.6@15351171249325">
+    <Key key="Phrase" value="Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2020.11.6@1535553033464">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier." />
+  </Node>
+  <Node name="2020.11.6@15201200829125">
+    <Key key="Phrase" value="You want me to teach you the artifact crafting? I don't need competition, you know. On the other hand, if you can offer me a hefty sum, say, {value1}, I'll think about it." />
+  </Node>
+  <Node name="2020.11.6@1520724639186">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2020.11.6@15201669731172">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2020.11.6@15201617951313">
+    <Key key="Phrase" value="Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2020.11.6@1520415598910">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier." />
+  </Node>
+  <Node name="2020.11.6@15371407109551">
+    <Key key="Phrase" value="Shush! Don't be too loud near my reagents, if you value having your face on your head. I could teach you how to handle chemistry, if you put some {value1} on the table. Not on the table! In my hands." />
+  </Node>
+  <Node name="2020.11.6@1537793486493">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2020.11.6@1537385139430">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2020.11.6@15371169151742">
+    <Key key="Phrase" value=" Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2020.11.6@15372051687648">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier. " />
+  </Node>
+  <Node name="2020.11.6@1552547727913">
+    <Key key="Phrase" value="Oh, spirits of the dark, punish this mortal, eat his eyes and tongue! Nah, I'm just messin' with ya, I can't do such stuff. I can do many other cool things though. For {value1} I'll teach you as well." />
+  </Node>
+  <Node name="2020.11.6@1552539860081">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2020.11.6@15521378638692">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2020.11.6@15521894797648">
+    <Key key="Phrase" value="Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2020.11.6@15526084468">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier." />
+  </Node>
+  <Node name="2020.12.16@11501935510772" />
+  <Node name="2020.12.16@11501952676292" />
+  <Node name="2020.12.16@1150382715297" />
+  <Node name="2020.12.16@11501053165215" />
+  <Node name="2020.12.16@11501187237950" />
+  <Node name="2020.12.16@1122991544149">
+    <Key key="Phrase" value="Вай вай, братишка, ежжи!" />
+  </Node>
+  <Node name="2020.12.16@1122776227329">
+    <Key key="Phrase" value="Вах вах вах, маладец, ежжи!" />
+  </Node>
+  <Node name="2020.12.16@11222066847865">
+    <Key key="Phrase" value="Не могу тебя учить, ваще, брат, мамой клянусь!" />
+  </Node>
+  <Node name="2020.12.16@11221559904007">
+    <Key key="Phrase" value="Братишка, ты и так маладец, ежжи, братка, ваще!" />
+  </Node>
+  <Node name="2020.12.16@1757467149778">
+    <Key key="Phrase" value="Вай вай, братишка, ежжи!" />
+  </Node>
+  <Node name="2020.12.16@17571465020446">
+    <Key key="Phrase" value="Вах вах вах, маладец, ежжи!" />
+  </Node>
+  <Node name="2020.12.16@17571924276189">
+    <Key key="Phrase" value="Не могу тебя учить, ваще, брат, мамой клянусь!" />
+  </Node>
+  <Node name="2020.12.16@17571913631609">
+    <Key key="Phrase" value="Братишка, ты и так маладец, ежжи, братка, ваще!" />
+  </Node>
+  <Node name="2021.3.30@14541539878999">
+    <Key key="Phrase" value="The rule number one in fishing is: you don't open your beer until you catch your first fish. I'll teach you how to do that for just {value1}." />
+  </Node>
+  <Node name="2021.3.30@1454520131304">
+    <Key key="Phrase" value="I see, you already know something. But don't get too conceited. You still have a long way ahead. I'll teach you for {value1}." />
+  </Node>
+  <Node name="2021.3.30@1454851270634">
+    <Key key="Phrase" value="You seem, like you already have two professions. What are you, one man orchestra? You can't learn more than two." />
+  </Node>
+  <Node name="2021.3.30@1454425299118">
+    <Key key="Phrase" value="Not these amateurs again. See, you're not experienced enough in this field yet. Come back when you are." />
+  </Node>
+  <Node name="2021.3.30@14541157646496">
+    <Key key="Phrase" value="Wait, do you want me to teach you for free? Even mama won't give papa a kiss for free. Come back here, when your wallet is heavier." />
+  </Node>
+  <Node name="2021.3.31@15351075299992">
+    <Key key="Phrase" value="Do you want to learn herbalism?" />
+  </Node>
+  <Node name="2021.3.31@15351641240384">
+    <Key key="Phrase" value="Do you want to improve your herbalism skill?" />
+  </Node>
+  <Node name="2021.3.31@1535195196185" />
+  <Node name="2021.5.5@1051778595134" />
+  <Node name="2021.5.5@1051253575861" />
+  <Node name="2021.5.5@1051873254075" />
+  <Node name="2021.5.5@10511633954804" />
+  <Node name="2021.5.5@10511866750725" />
+  <Node name="2021.5.5@10101852928773">
+    <Key key="Phrase" value="Дай больше денег, и мобилу можно." />
+  </Node>
+  <Node name="2021.5.5@10101929427360">
+    <Key key="Phrase" value="Плохо обучаешься дружок" />
+  </Node>
+  <Node name="2021.5.5@10101527364768">
+    <Key key="Phrase" value="Слишком много профессий. Даже Цезарь не такой крутой." />
+  </Node>
+  <Node name="2021.5.5@1010466927482">
+    <Key key="Phrase" value="Do you want to create the best weapon in the world? But first you have to start from the bottom.&#xD;" />
+  </Node>
+  <Node name="2021.5.12@852294001755" />
+  <Node name="2021.5.12@8521046573711" />
+  <Node name="2021.5.12@8522141960723" />
+  <Node name="2021.5.12@852607360550" />
+  <Node name="2021.5.5@10101649081406" />
+  <Node name="2021.5.12@935731362610">
+    <Key key="Phrase" value="Хочешь научу тебя профессии сбора ресурсов?" />
+  </Node>
+  <Node name="2021.5.12@9351681007797">
+    <Key key="Phrase" value="Хочешь прокачать свой уровень владения профессией?" />
+  </Node>
+  <Node name="2021.5.12@935602406679">
+    <Key key="Phrase" value="У тебя уже есть больше двух профессий." />
+  </Node>
+  <Node name="2021.5.12@9351726064180">
+    <Key key="Phrase" value="У тебя недостаточно очков профессии для поднятия уровня" />
+  </Node>
+  <Node name="2021.5.12@9352041876494">
+    <Key key="Phrase" value="Маловато деньжат а изучить хочется? Есть один способ...Иди работай!" />
+  </Node>
+  <Node name="2021.8.12@10491344491564" />
+  <Node name="2021.8.12@10491327834227" />
+  <Node name="2021.8.12@1049263134813" />
+  <Node name="2021.8.12@10491692817473" />
+  <Node name="2021.8.12@10492113582423" />
+  <Node name="2021.5.31@16311490531272" />
+</Category>

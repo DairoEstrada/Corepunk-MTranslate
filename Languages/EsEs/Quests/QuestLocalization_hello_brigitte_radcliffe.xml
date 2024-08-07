@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_brigitte_radcliffe" type="external">
-  <Key key="_npc_Hey_" value="Ey." />
-  <Key key="_npc_Move_along_" value="Superar." />
-  <Key key="_npc_Captain_s_here_" value="Capitán está aquí." />
-  <Key key="_npc_State_your_business_" value="Declare su negocio." />
-  <Key key="_npc_Eyes_up_" value="Ojos arriba." />
-</Node>

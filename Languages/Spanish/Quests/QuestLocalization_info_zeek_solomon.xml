@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_zeek_solomon" type="external">
+  <Key key="_npc_Just__you_know__a_random_begga" value="Solo, ya sabes, un mendigo al azar.No es realmente una cara que debas recordar." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Hey__how_about_I_do_you_a_favo" value="Oye, ¿qué tal si te hago un favor a cambio de algo de efectivo?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_I_can_turn_you_into_pretty_muc" value="Puedo convertirte en casi cualquier animal, si estás dispuesto a confiar en mí." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Don_t_worry__no_funny_business" value="No te preocupes, no hay asuntos divertidos.Prometo que no te comeré o ... uh, haz algo extraño.O sexual." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Starving__honestly__Haven_t_ha" value="Hambriento, honestamente.No he tenido una comida decente en los días." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Rufus_keeps_scavenging__but_it" value="Rufus sigue buscando, pero no es suficiente.Hicimos una apuesta de que podría obtener más folletos como perro que un hombre, pero ..." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_It_s_not_looking_good___I_m_lo" value="No se ve bien.Me veo más delgado por el minuto." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_You_know__hunger_does_funny_th" value="Sabes, el hambre le hace cosas divertidas a un hombre.Incluso te hace mirar a tu mejor amigo un poco diferente." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Hate_to_admit_it__but_Rufus_is" value="Odio admitirlo, pero Rufus está empezando a parecer una comida.Tiempos desesperados, ¿verdad?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Honestly__I_couldn_t_tell_you_" value="Honestamente, no pude decirte.Aparece aquí un día, todavía tuve una resaca bio-poción." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Everything_s_a_bit_of_a_blur__" value="Todo es un poco borroso, y las formas siguen cambiando, ¿sabes?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Could_be_a_dream__could_be_a_n" value="Podría ser un sueño, podría ser una pesadilla, o solo uno de esos viajes interdimensionales." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_This_part_of_town_smells_prett" value="Sin embargo, esta parte de la ciudad huele bastante bien.Excepto cuando no ..." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_No__too_hungry__might_end_up_h" value="No, demasiado hambriento, podría terminar ayudando a Erwin a terminar Rufus." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Nah__can_t_focus_right_now__st" value="No, no puedo concentrarme en este momento, el estómago grita demasiado fuerte." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Not_in_this_state__hunger_s_ma" value="No en este estado, el hambre me hace pensar cosas locas." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Too_hungry_to_help__head_s_ful" value="Demasiado hambre para ayudar, la cabeza está llena de pensamientos que no me gustan." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Can_t_right_now__starvation_s_" value="Can't right now, starvation's making me see Rufus as more than a friend." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Absolutely__could_use_parts_fo" value="Absolutamente, podría usar piezas para una poción de transformación." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Yes__if_you_ve_got_any_bio_com" value="Sí, si tienes algún bio-componentes de sobra." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Definitely__I_m_in_desperate_n" value="Definitivamente, necesito desesperadamente algunos suministros." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_For_sure__need_a_few_items_for" value="Por supuesto, necesito algunos artículos para mi último brebaje.¿Te unes?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+</Node>

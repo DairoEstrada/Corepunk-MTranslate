@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub4_duel" type="external">
+  <Key key="_goal_go_duel" value="Vaincre le chat" />
+  <Key key="_QuestActionAddToJournal_8scN" value="Vaincre le chat" />
+  <Key key="_npc_Privet" value="Salut" voice="Female" />
+  <Key key="_goalVoice_dYOT" value="Parler à la chasseresse" voice="Female" />
+  <Key key="_goal_end_quest" value="Parler à la chasseresse" />
+  <Key key="_QuestActionAddToJournal_5PT2" value="Parler à la chasseresse" />
+  <Key key="_npc_Molodets" value="Bien joué" voice="Female" />
+  <Key key="_npc_Ty_ne_spravilsya__poprobuy_eshche_" value="Vous avez échoué, réessayez" voice="Female" />
+</Node>

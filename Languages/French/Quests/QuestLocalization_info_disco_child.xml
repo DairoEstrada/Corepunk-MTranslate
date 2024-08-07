@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_disco_child" type="external">
+  <Key key="_npc_My_name_s_Zelda_Choy__I_m_a_li" value="Je m'appelle Zelda Choy!Je suis un petit enfant!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_My_mom_sent_me_off_to_visit_gr" value="Ma mère m'a envoyé pour visiter Gramma.Je pense qu'elle voulait que je reste sur la route, mais je passe par les bois!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Mom_s_a_great_scientist__She_i" value="Maman est un grand scientifique!Elle invente des choses!Elle m'a donné un bouclier à bulles cool!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Monsters_and_stuff_just_bounce" value="Les monstres et les trucs rebondissent tout de suite!Allez-y, essayez de me manger!Je te défie!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Guess_what_I_found__This_creep" value="Devine ce que j'ai trouvé?Cette tente effrayante!Il y a une tête dessus!Ouah!Où en est le reste, pensez-vous?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_You_should_go_inside_and_see_w" value="Vous devriez entrer à l'intérieur et voir ce qu'il y a!Je ne suis pas autorisé à être étranger-danger!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_m_fine__How_are_you__That_s_" value="Je vais bien.Comment vas-tu?C'est ce que vous êtes censé dire, non?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_m_having_a_great_time_with_m" value="Je passe un bon moment avec mon bouclier à bulles!Quand je serai grand, je vais devenir un aventurier et tuer des monstres!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_ll_have_a_big_electro_sword_" value="J'aurai une grosse électro-sword et une armure comme des mA et peut-être des grenades en plein essor!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_But_I_gotta_get_to_gramma_s_ho" value="Mais je dois bientôt me rendre chez Gramma.Elle pagayera mon butin quand elle découvrira que j'ai traversé les bois." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_This__This_is_Windreach_Woods_" value="Ce?C'est Windreach Woods!Je ne sais pas exactement où." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_That_s_a_tent_I_m_not_allowed_" value="C'est une tente dans laquelle je ne suis pas autorisé à entrer parce que l'étranger-danger.Aussi une tête." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_That_s_all_I_know__I_m_a_kid_" value="C'est tout ce que je sais.Je suis un enfant." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_do__Wanna_hear_it_" value="Je fais!Tu veux l'entendre?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Are_you_strong_and_brave_and_s" value="Êtes-vous fort et courageux et tout?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_can_trust_you__Right_" value="Je peux te faire confiance.Droite?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Maybe__Are_you_a_good_guy_" value="Peut être.Êtes-vous un bon guy?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Stranger_danger__Stranger_dang" value="Étranger-danger!Étranger-danger!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_ain_t_supposed_to_talk_to_we" value="Je ne suis pas censé parler aux cinglés que je rencontre dans les bois." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_My_Ma_don_t_like_me_talking_to" value="Mon MA ne aime pas que je parle à des étrangers." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_No__I_m_self_reliant__I_have_a" value="Non. Je suis autonome!J'ai un bouclier à bulles!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+</Node>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_brownie_bow" type="external">
+  <Key key="_npc_Heard_ya_comin__" value="Entendu vous venir." voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Wanna_peek_too_" value="Tu veux jeter un œil aussi?" voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Enjoy_the_view_" value="Profite de la vue?" voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Jealous__are_ya_" value="Jaloux, êtes-vous?" voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Naughty__naughty_" value="Vilain vilain!" voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Don_t_tell_the_wife_" value="Ne dites pas à la femme." voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Got_any_secrets_" value="Vous avez des secrets?" voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Caught_me_red_handed_" value="M'a pris en flagrant délit." voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_See_somethin__ya_like_" value="Voir quelque chose que vous aimez?" voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Curious__aren_t_ya_" value="Curieux, n'est-ce pas?" voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+  <Key key="_npc_Oh__hello_there_" value="Oh bonjour là-bas!" voiceSettingsId="Kynk4SWZh8nr3b2Hz1YN" />
+</Node>

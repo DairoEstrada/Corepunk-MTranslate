@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mounting_evidence" type="external">
+  <Key key="_npc_A_hero_who_quits_before_the_fi" value="Un héros qui quitte avant le combat?Pathétique." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_goal_collect_item" value="Collectez le dispositif d'enregistrement" />
+  <Key key="_npc_Turning_down_justice__eh__Make" value="Refuser la justice, hein?Vous rend tout aussi coupable que Triton." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_goalVoice_Courage_is_looking_chaos_in_th" value="Le courage regarde le chaos dans les yeux, gamin.Parcourez ces filets et conteneurs du lac.Le dispositif d'enregistrement est là-bas, en attente." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Once_you_ve_got_it_in_your_han" value="Une fois que vous l'avez entre vos mains, allez voir Gusto Grubhunter.Le gars est un S.O.B paresseux, mais il pourrait renverser de la saleté sur Triton qui sera utile." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_need_you_to_dive_into_that_m" value="J'ai besoin que vous plongez dans ce gâchis, trouvez le dispositif d'enregistrement perdu.Sans cela, Windstone a perdu toute chance de justice." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_goal_talk_npc" value="Apporter à l'enthousiasme" />
+  <Key key="_npc_Now_that_recording_device_lies" value="Maintenant, cet dispositif d'enregistrement est oublié, quelque part sur la rive de Windstone Lake." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_had_the_smoking_gun__the_pro" value="J'ai eu le pistolet fumant, la preuve pour le faire tomber.Mais dans une bagarre de lac sale, il a glissé de ma portée." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_So__kid__you_wanna_play_hero__" value="Alors, gamin, tu veux jouer au héros?Triton est là-bas, se cachant dans l'ombre, sa trace de chaos résonnant à travers ces parties." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_uh__have_some_stories_about_" value="J'ai euh, j'ai aussi des histoires sur Triton.Peut-être qu'ils peuvent aider ..." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Darkspike_said_I_should_take_i" value="Darkspike a dit que je devrais le prendre et vous donner cela." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_QuestActionAddToJournal_Roderick__DarkSpike__Thinklatc" value="Roderick &quot;Darkspike&quot; Thinklatch&#10;Windstone Village, Guard's Place: East.&#10;&#10;Aidez Roderick 'Darkspike' ThinkLatch à rassembler son dispositif d'enregistrement manquant du Lakeshore et à le ramener à Gusto Grubhunter." />
+  <Key key="_npc_Walk_away_now__but_remember__d" value="Éloignez-vous maintenant, mais rappelez-vous, l'obscurité n'oublie jamais." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Oh__uh____Darkspike_told_me_yo" value="Oh, euh ... Darkspike m'a dit que tu pourrais venir." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Wow__you_really_found_that_rec" value="Wow, vous avez vraiment trouvé cet appareil d'enregistrement?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Welcome_to_the_shadows__kid__L" value="Bienvenue dans les ombres, gamin.Connaissons cet enculé." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_You_think_hiding_from_the_shad" value="Vous pensez que se cacher de l'ombre les fait disparaître?Idiot." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+</Node>

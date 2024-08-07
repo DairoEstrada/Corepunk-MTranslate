@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_guardmaster" type="external">
+  <Key key="_npc_Hey__everything_s_fine_" value="Ei, está tudo bem?" voice="Male" />
+</Node>

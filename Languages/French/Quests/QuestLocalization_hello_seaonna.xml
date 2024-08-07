@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_seaonna" type="external">
+  <Key key="_npc_Wish_I_had_legs____I_d_run_the" value="J'aimerais avoir des jambes ... je dirigerais le monde." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_What_s_kraken__good_lookin__" value="Qu'est-ce que Kraken, bon lookin '?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Want_to_catch_a__high__tide_wi" value="Vous voulez attraper une marée «haute» avec moi?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Wanna_dive_into_some_treble_" value="Tu veux plonger dans des aigus?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Know_any_good_herb_spots_" value="Connaissez-vous de bonnes taches d'herbes?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_I_don_t_have_legs__but_I_m_a_f" value="Je n'ai pas de jambes, mais je suis une danseuse au taste." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Quit_looking_at_my_scales__my_" value="Arrêtez de regarder ma balance, mes yeux sont ici." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Oopsie__I_forgot_my_shells_" value="Oopsie, j'ai oublié mes coquilles!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+</Node>

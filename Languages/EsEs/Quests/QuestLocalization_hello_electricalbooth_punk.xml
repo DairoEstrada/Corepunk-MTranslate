@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_electricalbooth_punk" type="external">
-  <Key key="_npc_Welcome_to_my_new_world_above_" value="¡Bienvenido a mi nuevo mundo sobre el suelo!" voiceSettingsId="edFem8hYClWDm3I0Ogh8" />
-  <Key key="_npc_I_like_my_coffee_like_I_like_m" value="Me gusta mi café como me gusta mi compañía, caliente." voiceSettingsId="edFem8hYClWDm3I0Ogh8" />
-  <Key key="_npc_Well__if_it_isn_t_a_new_visito" value="Bueno, si no es un nuevo visitante." voiceSettingsId="edFem8hYClWDm3I0Ogh8" />
-  <Key key="_npc_Ever_wonder_what_happens_when_" value="¿Alguna vez se preguntó qué sucede cuando un payaso se retira?Yo también." voiceSettingsId="edFem8hYClWDm3I0Ogh8" />
-  <Key key="_npc_Welcome_to_my_lair____I_mean__" value="Bienvenido a mi guarida ... quiero decir, la cafetería." voiceSettingsId="edFem8hYClWDm3I0Ogh8" />
-  <Key key="_npc_Boo__Just_kidding_" value="¡Abucheo!¡Es una broma!" voiceSettingsId="edFem8hYClWDm3I0Ogh8" />
-</Node>

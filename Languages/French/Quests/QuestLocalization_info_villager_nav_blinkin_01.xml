@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_villager_nav_blinkin_01" type="external">
+  <Key key="_npc_Haven_t_seen_you_here_before__" value="Je ne t'ai pas vu ici avant.Un autre exercice?" voice="Male" />
+  <Key key="_npc_That_s_what_I_thought__Must_be" value="C'est ce que je pensais.Doit être difficile pour votre genre." voice="Male" />
+  <Key key="_npc_Oh____Didn_t_know_our_village_" value="Oh ... je ne savais pas que notre village était une attraction touristique." voice="Male" />
+  <Key key="_npc_Nah__I_m_good__That__color__re" value="Non, ça va.Ce Rusty peut là-bas qui a besoin d'aide, d'après ce que je vois.Le voir?En bas de la route, près du jardin." voice="Male" />
+</Node>

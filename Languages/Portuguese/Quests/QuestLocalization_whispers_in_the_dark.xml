@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_whispers_in_the_dark" type="external">
+  <Key key="_npc_Think_twice_before_you_walk_aw" value="Pense duas vezes antes de ir embora.Estou ficando sem opções aqui." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_goal_talk_npc" value="Fale com Alexander Stones" />
+  <Key key="_npc_You_re_turning_your_back_on_ju" value="Você está dando as costas à justiça, amigo." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_You_ll_regret_not_doing_this__" value="Você se arrependerá de não fazer isso.Você vai ver." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_What_do_you_say__kid_" value="O que você diz, garoto?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Maybe_even_include_where_I_was" value="Talvez até inclua onde eu estava em algumas vezes e datas específicas ..." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_m_thinking_now_that_you_ve_p" value="Estou pensando agora que você provou que sou definitivamente completamente inocente, ele pode transmitir e selar o acordo." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_So_this_Alexander_Stones_guy__" value="Então, esse cara de Alexander Stones, ele tem um programa de rádio, certo?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Our_investigation_is_just_begi" value="Nossa investigação está apenas começando, verdadeira crente!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_WHICH_MEANS_HE_HAS_EVERYTHING_" value="O que significa que ele tem tudo a esconder!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_QuestActionAddToJournal_Varkus_Drov_Westwinds_Woods__O" value="Varkus Drov&#10;Westwinds Woods, mina velha perto de serração.&#10;&#10;Ajude Varkus Drov a provar sua inocência, convencendo Alexander Stones a transmitir a mensagem." />
+  <Key key="_goalVoice_Time_is_ticking__My_name_needs" value="O tempo está passando.Meu nome precisa de limpeza.Fale com Alexander ainda?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_This_guy_sure_cares_a_lot_abou" value="Esse cara com certeza se importa muito em provar sua inocência ..." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_re_alive___What_did_you_fi" value="Você está vivo!?O que você encontrou nessas minas?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Oh_thank_you__You_re_really_th" value="Oh obrigado!Você é realmente o herói aqui.Bem, eu estou, mas você estava por perto." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+</Node>

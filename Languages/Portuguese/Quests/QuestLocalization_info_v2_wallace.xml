@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_wallace" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_They_say_you_can_t_leave_this_" value="They say you can't leave this planet, right? But! There's a lifehack for you. Three grams of dried blue shrooms and... You travel through the whooole Universe! Here you go, free of charge. Advice of the higher wisdom." voice="Male" />
+  <Key key="_npc_What_do_you_mean_by_place__Wha" value="O que você quer dizer com lugar?O que você quer dizer com isso?O que você quer dizer com quê?Você conhece o significado dessas palavras?Eles querem que você pense que sim.Pense nisso!" voice="Male" />
+  <Key key="_npc_Well__I_am____I_am_Wallace_the" value="Bem, eu sou ... eu sou Wallace the Traveler.O roamer.O explorador.Eu exploro em minhas viagens." voice="Male" />
+</Node>

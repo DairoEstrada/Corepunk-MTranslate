@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_prank_too_far" type="external">
+  <Key key="_npc_You_re_no_fun_at_all__Lily_wou" value="Vous n'êtes pas du tout amusant.Lily ne laisserait jamais cette glissement." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Fine__Be_boring__see_if_I_care" value="Bien!Soyez ennuyeux, voyez si je m'en soucie." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_You_re_just_like_the_rest__nob" value="Tu es juste comme le reste, personne ne veut aider!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_goalVoice_Come_on__Are_you_just_sitting_" value="Allez!Êtes-vous juste assis?Le Hunter's Lodge a ces notes!Dois-je l'expliquer?Loge.Remarques.Loups.Lily devient morte.Le Hunter's Lodge est vers le centre de Westwind Forest, au sud de la célèbre épée!Laissons gooooooooooo." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_I_bet_the_Hunter_s_Lodge_in_th" value="Je parie que le Hunter's Lodge au milieu de Westwind Woods a quelques notes sur les loups.Si vous les obtenez pour moi, nous lui apprendrons une leçon!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Retour à Buck" />
+  <Key key="_npc_But_this_time__we_ll_show_her_" value="Mais cette fois, nous la montrerons!Si nous découvrons ce que les loups aiment manger, nous pouvons le cacher dans ses vêtements et la faire courir pour sa vie!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_It_s_not_fair__Lily_Baxter_put" value="Ce n'est pas juste!Lily Baxter m'a reproché, elle me trompe toujours!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Now_we_just_gotta_get_some_of_" value="Maintenant, nous devons juste obtenir quelques-uns de ces trucs et le jeter sur elle!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Great__Just_great__Guess_I_ll_" value="Super!Juste génial!Je suppose que je vais le gérer moi-même!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_QuestActionAddToJournal_Buck_Goldenfield__Violet_Weed_" value="mâle&#10;Goldenfield, Violet Weed Field&#10;&#10;Aidez à encadrer Lily Baxter en rassemblant 5 notes d'étude de loup du Hunter's Lodge." />
+  <Key key="_varDescription_Collect_Wolf_Study_Notes" value="Collecte des notes d'étude Wolf" />
+  <Key key="_npc_Finally__Took_you_long_enough_" value="Enfin!Ça t'a pris suffisamment longtemps.Maintenant, Lily va payer ..." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_I_m_waiting_here__Did_you_find" value="J'attends ici!Avez-vous trouvé ces notes?Donnez-vous!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Go_get_those_notes__We_re_gonn" value="Allez prendre ces notes!On va la faire désolé." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Yesss__We_re_gonna_show_Lily_s" value="Oui!Nous allons montrer à Lily qu'elle ne peut pas jouer avec moi!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+</Node>

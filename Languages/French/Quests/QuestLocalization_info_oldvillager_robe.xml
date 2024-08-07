@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_oldvillager_robe" type="external">
+  <Key key="_npc_I_m_Tobias_Crankshaw____just_a" value="Je suis Tobias Crankshaw ... juste un vieil homme au cœur brisé ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_once_lived_a_peaceful_life_h" value="J'ai vécu une fois une vie paisible ici avec ma chère épouse." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_But_she_tried_to_kill_me____ho" value="Mais elle a essayé de me tuer ... comment pourrait-elle ?!" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Now_she_s_gone__and_I____I_don" value="Maintenant, elle est partie, et je ... je ne sais pas quoi faire." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_ve_searched_everywhere__but_" value="J'ai cherché partout, mais elle a disparu." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_can_t_help_but_think_it_s_my" value="Je ne peux pas m'empêcher de penser que c'est de ma faute ... l'ai-je chassé?" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Oh__how_I_miss_her____her_smil" value="Oh, comme elle me manque ... son sourire, ses rires ... son harcèlement ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Her____other_characteristics_" value="Elle ... d'autres caractéristiques." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Please__if_you_see_her____come" value="S'il vous plaît, si vous la voyez ... venez me dire d'abord, et personne d'autre." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_How_am_I__Oh__it_s_just_awful_" value="Comment suis-je?Oh, c'est juste horrible ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Every_day_without_her_feels_li" value="Chaque jour sans elle, ressemble à un an." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_My_poor_heart_can_t_bear_this_" value="Mon pauvre cœur ne peut pas supporter cette solitude." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_wake_up_every_morning_hoping" value="Je me réveille chaque matin en espérant qu'elle reviendra." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_How_can_I_possibly_go_on_witho" value="Comment puis-je continuer sans être réveillé par son hurlement?" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_can_t_even_eat_or_sleep_prop" value="Je ne peux même pas manger ou dormir correctement, toujours m'inquiéter." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_After_all__her_burnt_cooking_k" value="Après tout, sa cuisine brûlée m'a fait avancer ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Sometimes_I_think_I_see_her_in" value="Parfois je pense que je la vois dans l'ombre ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_But_it_s_just_my_mind_playing_" value="Mais c'est juste mon esprit qui me joue cruel." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Please__if_you_find_her__tell_" value="S'il vous plaît, si vous la trouvez, dites-lui ... dites-lui que je lui pardonne." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_This_place____it_used_to_be_ou" value="Cet endroit ... c'était notre petit paradis." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_My_wife_and_I_chose_to_spend_o" value="Ma femme et moi avons choisi de passer nos dernières années ici." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_We_thought_we_could_find_peace" value="Nous pensions que nous pourrions trouver la paix, loin du monde." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_But_now____it_s_just_a_cruel_r" value="Mais maintenant ... c'est juste un rappel cruel de ma perte." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_spend_my_days_looking_for_he" value="Je passe mes journées à la chercher, creusant à travers des souvenirs." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_My_hands_are_dirty_because_I_v" value="Mes mains sont sales parce que j'ai cherché chaque pouce ... chaque tas de saleté." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_And_slightly_bloody_because_I_" value="Et légèrement sanglant parce que je saigne littéralement la tristesse!" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Please____don_t_investigate__d" value="S'il vous plaît ... n'enquêtez pas, ne suscitez pas des souvenirs douloureux." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_just_want_to_find_her_and_br" value="Je veux juste la retrouver et la ramener.Moi-même.Seul." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Oh_yes__please__I_need_your_he" value="Oh oui, s'il vous plaît, j'ai besoin de votre aide ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_m_just_so_heartbroken_withou" value="J'ai tellement le cœur brisé sans elle ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_m_too_lost_in_grief_to_keep_" value="Je suis trop perdu dans le chagrin pour garder la maison propre ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Every_tiny_task_reminds_me_of_" value="Chaque petite tâche me le rappelle ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Oh__yes____I_could_really_use_" value="Oh, oui ... je pourrais vraiment utiliser un sandwich ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_m_just_so_overwhelmed_withou" value="Je suis tellement dépassé sans elle ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_haven_t_had_a_proper_meal_si" value="Je n'ai pas eu de repas approprié depuis qu'elle ... est partie." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_m_just_too_heartbroken_to_co" value="Je suis juste trop le cœur brisé pour cuisiner pour moi ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Could_you_make_me_something_to" value="Pourriez-vous me faire quelque chose à manger, s'il vous plaît?" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_How_about_you_clean_my_house__" value="Et si vous nettoyez ma maison ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_She_left_me_all_the_chores___" value="Elle m'a laissé toutes les tâches ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_No__it_s_too_dangerous___" value="Non, c'est trop dangereux ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_can_t_ask_that_of_you_" value="I can't ask that of you." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_don_t_deserve_your_help___" value="Je ne mérite pas votre aide ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Please__just_look_far__far_awa" value="S'il vous plaît, regardez loin, loin ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_She_s_probably_miles_from_here" value="Elle est probablement à des kilomètres d'ici ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Please__don_t_risk_it____searc" value="S'il vous plaît, ne le risquez pas ... recherchez des endroits éloignés pour elle." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_m_afraid_I_can_t_bear_your_h" value="J'ai peur de ne pas pouvoir supporter votre aide ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_My_poor_heart_can_t_handle_you" value="Mon pauvre cœur ne peut pas gérer votre implication ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+</Node>

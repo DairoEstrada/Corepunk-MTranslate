@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_proffesor_papers" type="external">
+  <Key key="_npc_Ah__visitor_detected_" value="Ah, le visiteur détecté!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Eager_for_some_botany_" value="Désireux de la botanique?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Let_s_talk_plants_" value="Parlons des plantes!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Found_any_anomalies_" value="Vous avez trouvé des anomalies?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Up_for_science_" value="Pour la science?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Greetings__fellow_nerd_" value="Salutations, collègue nerd!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_On_a_botanical_quest_" value="Sur une quête botanique?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_What_s_growing__friend_" value="Qu'est-ce qui grandit, ami?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Specimen_spotted_" value="Spécimen repéré!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Ah__another_data_point_" value="Ah, un autre point de données!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Greetings__lab_partner_" value="Salutations, partenaire de laboratoire!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Hello__fellow_researcher_" value="Bonjour, collègue chercheur!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Science_awaits_" value="La science vous attend!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Eureka__a_visitor_" value="Eureka, un visiteur!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Calculating_your_presence_" value="Calcul de votre présence!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Data_entry__visitor_" value="Entrée des données: visiteur!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+</Node>

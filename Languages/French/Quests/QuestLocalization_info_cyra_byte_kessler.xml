@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_cyra_byte_kessler" type="external">
+  <Key key="_npc_Oh__it_s_not_that_important_wh" value="Oh, ce n'est pas si important qui je suis, vraiment." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_m_just_a_humble_shopkeeper_t" value="Je suis juste un humble commerçant essayant de joindre les deux bouts." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_But_I_ll_tell_you_something__I" value="Mais je vais vous dire quelque chose, je suis un grand fan des filles de Viper." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Those_ladies_are_legends__aren" value="Ces dames sont des légendes, n'est-ce pas?Si audacieux, si intelligent." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_If_you_got_any_juicy_stories_a" value="Si vous avez des histoires juteuses à leur sujet, je suis toutes des oreilles." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Come_on__spill_the_beans_what_" value="Allez, renversez les haricots Qu'avez-vous entendu parler des filles de Viper ces derniers temps?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Oh__just_fabulous__can_t_you_t" value="Oh, juste fabuleux, tu ne peux pas dire?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Got_another_one_of_my__masterp" value="J'ai un autre de mes «chefs-d'œuvre» sur le poêle." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Seriously__it_s_not_totally_bu" value="Sérieusement, ce n'est pas totalement brûlé, juste ... bien fait." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_But__hey__a_little_char_adds_c" value="Mais, hé, un petit char a ajoute du caractère, non?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_They_say_this_pier_has_seen_de" value="Ils disent que cette jetée a vu des offres qui pourraient incliner l'équilibre des mondes entiers." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Over_there__by_that_old_lamp_p" value="Là-bas, par ce vieux lampadaire?C'est là qu'un couple croisé en étoiles de différentes galaxies a fait ses adieux." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_And_that_worn_out_bench__Suppo" value="Et ce banc usé?Censé être là où un célèbre pirate a enterré un coffre de trésors inimaginables." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Pretty_good_stories__Bet_you_h" value="De très bonnes histoires.Je parie que vous avez aussi de très bonnes histoires ..." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_m_just_a_shopkeeper__Nothing" value="Je suis juste un commerçant.Rien de spécial ne se passe ici." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Nah__nothing_out_of_the_ordina" value="Non, rien de l'ordinaire ici, juste diriger ma petite boutique." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Appreciate_it__really__but_the" value="Appréciez-le, vraiment, mais il n'y a rien d'excitant ici." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Thanks__but_I_m_just_minding_m" value="Merci, mais je m'occupe de ma propre entreprise, rien de plus." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_No__just_your_typical_day_trad" value="Non, juste vos produits de trading de jours typiques.Rien ne vaut votre temps." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_You_seem_trustworthy__let_me_f" value="Vous semblez digne de confiance, permettez-moi de vous remplir." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_ve_got_a_secret_mission_if_y" value="J'ai une mission secrète si vous êtes prêt pour ça." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_could_really_use_someone_dis" value="Je pourrais vraiment utiliser quelqu'un discret.Intéressé?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_There_s_something_big_going_on" value="Il se passe quelque chose de grand.Vous voulez vous rejoindre?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_think_you_can_handle_this__L" value="Je pense que vous pouvez gérer cela.Parlons en privé." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+</Node>

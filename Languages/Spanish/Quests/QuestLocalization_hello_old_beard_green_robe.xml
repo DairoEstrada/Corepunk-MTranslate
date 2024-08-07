@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_old_beard_green_robe" type="external">
+  <Key key="_npc_You__Help__or_begone_" value="¡Tú!¡Ayuda, o le pide!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Another_idiot_approaches_" value="¡Otro idiota se acerca!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Finally__assistance_" value="Finalmente, ¿ayuda?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Don_t_just_stand_there_" value="¡No solo te quedes allí!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_m_busy_" value="I'm busy." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Are_you_from_the_House_of_Nova" value="¿Eres de la Casa de los Novadores?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Save_me__damn_you_" value="¡Sálvame, maldita sea!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Relieve_my_torment_" value="¡Aliviar mi tormento!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_You__do_something_" value="¡Tú, haz algo!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Ugh__What_do_you_want_" value="Puaj.¿Qué deseas?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+</Node>

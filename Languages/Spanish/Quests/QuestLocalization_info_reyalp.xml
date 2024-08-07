@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_reyalp" type="external">
+  <Key key="_npc_Who_am_I__I_m_you__or_should_I" value="¿Quién soy?Soy tú o debo decir, yo, del futuro." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_After_a_tragic_accident__we_st" value="Después de un trágico accidente, comenzamos a lucir así." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_I_saw_things__experienced_horr" value="Vi cosas, experimentaron horrores más allá de la imaginación." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_I_had_to_find_a_way_back_to_wa" value="Tuve que encontrar un camino de regreso para advertirte." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_My_mission_is_to_ensure_you_do" value="Mi misión es asegurarme de que no cometas los mismos errores." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Together__we_can_alter_the_cou" value="Together, we can alter the course of our destiny." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_How_am_I__Well__that_s_the_que" value="¿Como estoy?Bueno, esa es la pregunta, ¿no?" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_In_the_future__things_have_tak" value="En el futuro, las cosas han dado un giro oscuro." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_I_m_here_to_warn_you__to_help_" value="Estoy aquí para advertirte, para ayudarte a prepararte." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_I_m_managing__but_barely__I_ne" value="Estoy manejando, pero apenas.Necesito ayuda para evitar esta catástrofe." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_You_see__with_a_bit_of_your_he" value="Verá, con un poco de su ayuda, podemos cambiar nuestro destino." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_I_need____resources__Yes__reso" value="Necesito ... recursos.Sí, recursos para evitar el mal futuro." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Credit_card_numbers__gold__soc" value="Números de tarjeta de crédito, oro, números de seguro social.Lo que sea que, quiero decir, nosotros, tenemos." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Ah__a_test__Clever__Asking_me_" value="¡Ah, una prueba!¡Inteligente!Haciéndome una pregunta solo que lo sabríamos." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_This_is_Riverrise__of_course_" value="Esto es rivrise, por supuesto." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Nestled_in_Whisperwind_Isle__s" value="Ubicado en Whisperwind Isle, rodeado de campos y bosques, ¿verdad?" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Known_for_its_bustling_craftin" value="Conocido por su bullicioso barrio de artesanía y animado pueblo." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_It_s_where_we_er__you_often_co" value="Es donde estamos, a menudo vienes a comerciar y explorar." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_There_you_go__Proof_I_m_you_fr" value="Ahí tienes.¡Prueba, soy tú del futuro!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Not_just_yet__but_stay_close__" value="No todavía, pero mantente cerca, podría necesitarte pronto." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_No__no__not_now__But_keep_your" value="No, no, no ahora.¡Pero mantenga sus créditos listos!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Hold_on_to_your_wallet__I_m_st" value="Aférrate a tu billetera.Todavía estoy creando un plan." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Not_right_now__but_your_help_w" value="No en este momento, ¡pero su ayuda será esencial pronto!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Oh__you_re_interested__Excelle" value="Oh, ¿estás interesado?Excelente, ¡eres perfecto para esto!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Yes__I_mean__of_course__you_d_" value="¡Sí!Quiero decir, por supuesto, te ayudarías a ti mismo, ¿verdad?" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Fantastic__You_re_just_the_gul" value="¡Fantástico!Eres solo la gaviota uh, aliado que necesito." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Yes__yes__it_s_all_falling_int" value="Sí, sí, ¡todo está cayendo en su lugar ahora!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+</Node>

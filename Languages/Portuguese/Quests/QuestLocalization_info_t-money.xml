@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_t-money" type="external">
+  <Key key="_npc_Name_s_T_Money_" value="Nome é T-Money." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Drummer_from__The_Fuck_Bandits" value="Bateiro de &quot;The Fuck Bandits." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Not_important_to_know_me_" value="Não é importante me conhecer." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Easier_if_you_don_t_" value="Mais fácil se você não." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Means_no_sides_to_pick_" value="Significa que não há lados para escolher." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Just_a_beat_in_the_noise_" value="Apenas uma batida no barulho." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Seen_better_days_" value="Vi dias melhores." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Band_s_a_mess_" value="Banda é uma bagunça." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_No_one_believes_me_" value="No one believes me." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_There_s_a_conspiracy_here_" value="Há uma conspiração aqui." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Soko_Uno_s_up_to_something_" value="Soko Uno está tramando alguma coisa." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Just____trying_to_keep_it_toge" value="Apenas ... tentando mantê -lo juntos para os fãs." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_This_is_Riverrise_" value="Este é o rio." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Best_spot_on_Whisperwind_Isle_" value="Melhor local na Ilha Whisperwind." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Big_town__bigger_heart_" value="Grande cidade, coração maior." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_It_s_home_away_from_home_for_m" value="Está em casa longe de casa para mim." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Not_right_now__thanks_" value="Não agora, obrigado." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_We_re_good__move_along_" value="Nós somos bons, avançamos." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Nah__it_s_under_control_" value="Não, está sob controle." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Appreciate_it__no_need_" value="Agradeço, sem necessidade." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Just_keep_an_eye_out_instead_" value="Apenas fique de olho." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Yeah__I_could_use_a_hand_" value="Sim, eu poderia usar uma mão." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Glad_you_asked_" value="Que bom que você perguntou." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Perfect__you_re_in_" value="Perfeito, você está dentro." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Just_keep_it_quiet_" value="Just keep it quiet." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Great__but_nobody_tells_Soko_U" value="Great, but nobody tells Soko Uno." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+</Node>

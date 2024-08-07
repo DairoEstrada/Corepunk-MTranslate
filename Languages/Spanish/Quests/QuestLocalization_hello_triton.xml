@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_triton" type="external">
+  <Key key="_npc_Blub_blub_" value="¡BLUB BLUB!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Glurrrgle_" value="¡Glurrle!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Splashhh_" value="Splashhh!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Bloop_" value="¡Bloop!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Slippery_greetings_" value="¡Saludos resbaladizos!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Glub_glub_" value="Glub-Glub!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Fishy_hellos_" value="¡Helos a pescado!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_here_" value="¡Tritón aquí!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Babiezz__YUM_" value="¡Babiezz!¡Yum!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+</Node>

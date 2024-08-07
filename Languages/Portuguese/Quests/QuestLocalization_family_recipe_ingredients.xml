@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_family_recipe_ingredients" type="external">
+  <Key key="_npc_Fantastic__I_can_already_taste" value="Fantástico!Já posso provar as aves suculentas e deliciosas.Menos diarréia." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Any_luck_finding_those_poultry" value="Alguma sorte em encontrar essas pernas de aves?" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Can_t_wait_to_taste_that_roast" value="Mal posso esperar para provar aquela aves assadas novamente!" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Oh__you_re_the_best__Guess_not" value="Oh, você é o melhor!Acho que nem todo mundo vindo desse portal é um problema ..." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_goal_collect_ingredients_salt" value=" " />
+  <Key key="_QuestActionAddToJournal_gMf4" value="Berg Stonefoot&#10;Goldenfield, perto do campo florestal&#10;&#10;Ajuda Berg Stonefoot revive a famosa perna de aves assada de sua avó.Traga -lhe sal e 2 pernas de aves." />
+  <Key key="_goalVoice_Get_Salt__and_Poultry_Legs__Tu" value="Obtenha sal e pernas de aves.A Turquia tem um gosto melhor, mas eles estão principalmente na floresta.No entanto, você poderá arrebatar um frango ou um ganso dos habitantes locais se eles não notarem." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Get_Salt__and_Poultry_Legs__Tu" value="Obtenha sal e pernas de aves.A Turquia tem um gosto melhor, mas eles estão principalmente na floresta.No entanto, você poderá arrebatar um frango ou um ganso dos habitantes locais." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_varDescription_WPMT" value="Sal" />
+  <Key key="_goal_collect_ingredients_leg" value=" " />
+  <Key key="_varDescription_g4PR" value="Perna de aves" />
+  <Key key="_varDescription_UwK8" value="Sal" />
+  <Key key="_varDescription_dzZn" value="Perna de aves" />
+  <Key key="_npc_Of_course__you_re_buying__Righ" value="Claro, você está comprando.Certo?" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Oh__did_you_forget_the_bucket_" value="Oh, você esqueceu o balde?Acho que vou ter que ir para a viagem por em vez disso ..." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Remember__salt_and_poultry_leg" value="Lembre -se, as pernas de sal e aves!A vovó teria tido sua cabeça se você esquentasse um." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+</Node>

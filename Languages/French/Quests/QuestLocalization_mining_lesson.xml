@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mining_lesson" type="external">
+  <Key key="_npc_Impressive_work__outworlder__M" value="Travail impressionnant, outworlder!Peut-être que l'un de vos types a un potentiel." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goalVoice_ILEz" value="N'oubliez pas, extraire le cristal doux des veines cristallines douces et transformez-la en remplissage de poudre.Et attention aux bestioles." voice="Male" />
+  <Key key="_npc_Right_on__I_knew_you_had_it_in" value="Tout de suite!Je savais que vous l'aviez en vous." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Remember__extract_Soft_Crystal" value="N'oubliez pas, extraire le cristal doux des veines cristallines douces et transformez-la en remplissage de poudre.Et attention aux bestioles." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Quit_lollygagging_and_get_me_t" value="Quittez Lollygagging et obtenez-moi ce remplissage de poudre!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_collect_resources" value="Remplissage de poudre" />
+  <Key key="_QuestActionAddToJournal_JK6r" value="Ironveine thordonnée&#10;Goldenfield, près de la station-service&#10;&#10;Prouvez votre valeur en extraitant du cristal doux des veines de cristal doux et en la traitant en remplissage de poudre." />
+  <Key key="_npc_I_ve_seen_snails_move_faster_t" value="J'ai vu des escargots se déplacer plus vite que vous.Allez-y!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_What_s_taking_you_so_long__Get" value="Qu'est-ce qui vous mène si longtemps?Obtenez déjà ce remplissage de poudre." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Oh__and_one_more_thing__Alchem" value="Oh, et encore une chose.Les alchimistes ne peuvent pas en avoir assez de ces trucs de remplissage de poudre." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Beats_me_why__Maybe_they_snort" value="Me bat pourquoi!Peut-être qu'ils le reniflent ou le saupoudrent sur leurs mégots." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_All_I_know_is_they_pay_well_fo" value="Tout ce que je sais, c'est qu'ils paient bien pour ça.Alors laissez-moi vous donner une coupe des bénéfices ..." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_toast_to_enlightenment" type="external">
+  <Key key="_npc_Thank_you__kind_soul_" value="Gracias, alma amable." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_It_ll_be_hard_to_keep_chanting" value="Será difícil seguir cantando con una garganta seca ..." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Oh__about_time_" value="¡Oh, a punto de tiempo!" voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_You_did_it__You_found_the_whis" value="¡Lo hiciste!¡Encontraste el whisky!" voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Not_sure_I_could_do_another_me" value="No estoy seguro de poder hacer otra sesión de meditación sin ella." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Here_s_something_for_your_trou" value="Aquí está algo para tu problema.Tal vez te ayude en tu propio viaje." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_goal_collect_item" value="Recoge la botella de whisky en la cocina de bienestar" />
+  <Key key="_npc_You_know__these_ceremonies_can" value="Sabes, estas ceremonias pueden ser bastante ... largas." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_A_touch_of_whiskey_really_help" value="Un toque de whisky realmente ayuda a aliviar el viaje." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_It_s_not_officially_part_of_th" value="No es oficialmente parte del ritual, por lo que David no lo obtendrá para mí." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Think_you_can_snag_some__There" value="¿Crees que puedes enganchar un poco?Debe haber mucho en la cocina de la ciudad." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_It_s_not_stealing___it_s_part_" value="No está robando, ¡es parte de mi camino hacia la iluminación!" voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Some_worries__dude_" value="Algunas preocupaciones, amigo." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_If_you_change_your_mind__I_ll_" value="Si cambias de opinión, estaré aquí, meditando como siempre." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Pleeeease__Come_on__man_" value="¿Por favor?Vamos hombre." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Ugh__I_ll_manage_somehow_" value="Ugh, me las arreglaré de alguna manera." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_goalVoice_The_whiskey__remember__Just_go" value="El whisky, ¿recuerdas?Simplemente vaya a enganchar uno en la cocina de Wellfare de la ciudad.Todos allí estarán demasiado borrachos para notar." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_QuestActionAddToJournal_Cassidy_Goldenfield__Yoga_gard" value="Cassidy&#10;Goldenfield, rocas de jardín de yoga.&#10;&#10;Ayude a Cassidy a soportar su ceremonia de canto trayendo una botella de whisky." />
+</Node>

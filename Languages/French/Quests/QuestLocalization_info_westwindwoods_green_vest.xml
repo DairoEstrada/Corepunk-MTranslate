@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_westwindwoods_green_vest" type="external">
+  <Key key="_npc_I_m_Bernard__Bernie__McFeely__" value="Je suis Bernard 'Bernie' Mcfeely, le courageux gardien de ces demeures abandonnées." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Hero__villain__or_merely_a_mis" value="Héros, méchant ou simplement un visionnaire mal compris?La vérité se trouve quelque part dans ces cendres." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Picture_me_as_the_knight_erran" value="Imaginez-moi comme le chevalier errant de la remise en état des biens sans armure brillante, bien sûr." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_I_was_the_ruler_of_a_Homeowner" value="J'étais le souverain d'une association propriétaire;Maintenant, je vends des rêves construits sur les restes fumantes de réglementations." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Fancy_yourself_a_fixer_upper__" value="Envie de vous fixer un fixateur?Bienvenue dans le domaine du potentiel illimité.Assemblage requis." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Ever_dreamt_of_owning_a_piece_" value="Avez-vous déjà rêvé de posséder un morceau de paradis carbonisé?Je suis votre guide de l'avenir brûlé." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_In_my_kingdom__every_ruin_has_" value="Dans mon royaume, chaque ruine a une histoire.Et chaque histoire est à vendre!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_My_life_s_mission__To_revive_t" value="La mission de ma vie?Pour raviver ce charbon de bois en charmants cottages de campagne.Appelez ça mon Magnum Opus immobilier." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_A_man_s_home_is_his_castle__We" value="La maison d'un homme est son château?Eh bien, ici, c'est sa ruine brûlée.Mais avec un peu de vision ..." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Welcome_to_the_hottest_neighbo" value="Bienvenue dans le quartier le plus chaud de la ville littéralement!Prêt à acheter!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Just_finished_evicting_the_las" value="Je viens de terminer d'éviter le dernier squelette.Les maisons sont désormais sans corps et prêtes pour une grande tournée!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_You_know_what_they_say__ashes_" value="Vous savez ce qu'ils disent, cendres aux actifs!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_And_boy__do_I_have_some_prime_" value="Et mon garçon, ai-je des actifs de premier ordre pour vous aujourd'hui." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Prospective_buyers_like_you_ar" value="Les acheteurs potentiels comme vous sont le vent sous mes ailes en lambeaux." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Ah__this_charming_collection_o" value="Ah, cette charmante collection de charbon de bois et de débris?Ce sont les restes de ce que j'appelle «la grotte de Bernie»." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_My_neighbors_couldn_t_handle_t" value="Mes voisins ne pouvaient pas gérer la chaleur de mes réglementations HOA, alors ils se sont incendiés." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Honestly__they_were_slobs__Bur" value="Honnêtement, ils étaient des slobs.Brûlé leurs maisons en cendres et ces endroits sont moins en désordre qu'auparavant." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Sure__it_s_a_bit_crispy_now__b" value="Bien sûr, c'est un peu croustillant maintenant, mais avec une graisse de coude, vous pourriez avoir un morceau de biens immobiliers." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_These_charred_remains_won_t_cl" value="Ces restes carbonisés ne se nettoient pas." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Ever_tried_scrubbing_soot_" value="Avez-vous déjà essayé de nettoyer la suie?" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Please__take_a_rake_" value="S'il vous plaît, prenez un râteau." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Know_any_good_tips_for_getting" value="Connaissez-vous de bons conseils pour se débarrasser des taches de fumée?" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Ready_to_turn_soot_into_sparkl" value="Prêt à transformer la suie en éclat?" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Just_don_t_break_any_of_my_rul" value="Ne enfreignez rien de mes règles." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_I_m_busy_strategically_placing" value="Je suis occupé stratégiquement en plaçant des cendres pour ce look «vécu»." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Gotta_rearrange_debris_for_max" value="Gotta réorganise les débris pour un attrait de trottoir maximal." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Busy_turning_disaster_into_déc" value="Occupé à transformer la catastrophe en D cor.La prochaine fois peut-être!" voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Sorry___I_m_not_into_profit_sh" value="Désolé - je ne suis pas dans le partage des bénéfices." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Busy_placing__Do_Not_Disturb__" value="Béalement de placer des panneaux «Ne pas déranger» sur les cratères qui coulent." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+  <Key key="_npc_Need_to_glue_this_charred_door" value="Besoin de coller cette porte carbonisée sur ses charnières." voiceSettingsId="KvYz8X4t70y3SZ2Cjo0G" />
+</Node>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_npc_v2_q_b_debtor" type="external">
+  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Oh__fuck_off__Don_t_push_your_" value="Oh, foda -se!Não empurre sua sorte, porra de idiota!" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_I_m_not_an_inquiry_office__stu" value="Não sou um escritório de consulta, idiota estúpido.Querer saber?Tossir algum dinheiro." voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_You_re_gotta_be_shitting_me__Y" value="Você tem que estar me cagando.Você tem sorte de esquecer minhas juntas de bronze em casa, caso contrário, eu tocaria algum sentido em você." voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+</Node>

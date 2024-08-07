@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_campfire_crafting_lesson" type="external">
+  <Key key="_goalVoice_Go_on__fetch_the_wood__It_s_ri" value="Continúa, busca la madera.Está justo alrededor del campamento, y no tendrás que tener en cuenta la vida silvestre aquí.Esta es la parte segura ... por ahora." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_QuestActionAddToJournal_Gy88" value="Maxwell Sterling&#10;Goldenfield, cerca de la carpa de trigo&#10;&#10;Aprenda las cuerdas de la supervivencia recolectando madera para una fogata." />
+  <Key key="_varDescription_SIO8" value="Madera" />
+  <Key key="_varDescription_6Yg4" value="Madera" />
+  <Key key="_npc_Go_on__fetch_the_wood__It_s_ri" value="Continúa, busca la madera.Está justo alrededor del campamento, y no tendrás que tener en cuenta la vida silvestre aquí." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Try_not_to_give_yourself_a_spl" value="Trate de no darse una astilla." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_How_s_the_wood_hunt_going__new" value="How's the wood hunt going, newbie?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Don_t_forget__3_pieces__Not_2_" value="¡No lo olvides!3 piezas.No 2. no 4. 3." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Haven_t_frozen_to_death_yet__h" value="Todavía no se ha congelado hasta la muerte, ¿eh?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Well__look_who_s_not_an_idiot_" value="Well, look who's not an idiot!" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Here_s_how_to_make_a_campfire_" value="Aquí le mostramos cómo hacer una fogata y algunos partidos.Los necesitarás." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+</Node>

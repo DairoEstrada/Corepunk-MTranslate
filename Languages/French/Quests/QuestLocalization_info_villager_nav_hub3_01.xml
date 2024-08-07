@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_villager_nav_hub3_01" type="external">
+  <Key key="_npc_I_ve_heard_the_only_reason_for" value="J'ai entendu la seule raison pour que la station de mana soit là pour faire de la drogue pour la jeunesse Leithanian." voice="Male" />
+  <Key key="_npc_Wanna_get_some_for_yourself__h" value="Tu veux en avoir pour toi, hein?Eh bien, c'est au nord.Peut y arriver en toute sécurité à travers le deuxième hub." voice="Male" />
+  <Key key="_npc_But_don_t_even_think_about_it_" value="Mais n'y pensez même pas, copain.C'est une vraie douleur dans le cul d'obtenir une autorisation d'entrée." voice="Male" />
+</Node>

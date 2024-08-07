@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_clanker" type="external">
+  <Key key="_npc_I_am_the_ghost_of_Aviator_Clan" value="Je suis le fantôme de l'aviateur Clanker, condamné à errer à jamais ces bois!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_My_spirit_is_bound_to_the_wrec" value="Mon esprit est lié à l'épave de ces avions, une âme agitée cherchant à se venger!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Beware__for_I_haunt_these_peri" value="Méfiez-vous, car je hante ces bois périlleux, assassinant ceux qui osent intruder!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Aw__who_the_fuck_am_I_kidding_" value="Aw, qui je plaisante.Nom's Clyde Davies ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_I_m_trying_to_scare_folks_off_" value="J'essaye de faire peur aux gens pour que je puisse travailler en paix." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_I_stumbled_into_this_place_fro" value="Je suis tombé dans cet endroit d'un autre monde." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Found_these_plane_wrecks_and_t" value="Vous avez trouvé ces épaves d'avion et la pensée, pourquoi pas?" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_So_here_I_am__banging_pots_and" value="Alors je suis, je suis en train de frapper des pots et des hurlements pour éloigner les gens pendant que j'essaie de construire un avion volable." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Honestly__I_have_no_clue_what_" value="Honnêtement, je n'ai aucune idée de ce que je fais, mais un gars doit essayer, non?" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Annoyed__incessantly_disturbed" value="Ennuyé, sans cesse dérangé par l'ingérence des enfants et leurs animaux de compagnie dynamités!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Can_you_believe_them__Thinking" value="Pouvez-vous les croire?Pensant qu'ils peuvent résoudre mon mystère!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_If_they_don_t_stop__they_ll_be" value="S'ils ne s'arrêtent pas, ils seront la prochaine histoire de fantômes que je raconte!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_You_dare_to_ask__This_is_the_h" value="You dare to ask? This is the haunting ground of fallen aviators!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_A_cursed_place_where_planes_co" value="Un endroit maudit où les avions viennent mourir, et des esprits comme le mien errent sans se promener!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_The_wreckage_you_see_around_ar" value="L'épave que vous voyez est des monuments de nos vols ratés et de nos rêves brisés ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_At_least__those_are_the_storie" value="Du moins, ce sont les histoires ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Do_me_a_favor_and_scram__or_yo" value="Faites-moi une faveur et brouillonnerez, ou vous rejoignerez le Eternal Flyer's Club!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_You_re_braver_than_you_look_" value="Tu es plus courageux que tu ne le regardes." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_If_you_find_my_plane_parts__I_" value="If you find my plane parts, I'll spare your soul." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Fine__fetch_the_parts__if_you_" value="Très bien, récupérez les pièces, si vous osez." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Parts_are_missing__Find_them__" value="Les pièces manquent.Trouvez-les ou soyez maudit!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Help_me_rebuild__before_the_fo" value="Aidez-moi à reconstruire avant que la forêt ne vous prenne." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_There_s_wreckage_all_around__B" value="Il y a des épreuves tout autour.Apportez-moi." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Find_my_parts__or_join_me_in_e" value="Trouvez mes pièces ou rejoignez-moi dans le repos éternel." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Ha__As_if_a_ghost_needs_help_" value="Ha!Comme si un fantôme avait besoin d'aide!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Your_help__I_d_rather_haunt_a_" value="Ton aide?Je préfère hanter une tombe!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Buzz_off_before_I_curse_you_to" value="Buzz avant de vous maudire aussi!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Help__From_a_mortal__Hilarious" value="Aide?D'un mortel?Hilarant!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_I_need_no_help__only_your_abse" value="Je n'ai pas besoin d'aide, seulement votre absence!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+</Node>

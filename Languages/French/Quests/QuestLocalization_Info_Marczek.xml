@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_Info_Marczek" type="external">
+  <Key key="who_are_u_answer" value="Je m'appelle Marczek.Je vis ici toute ma vie, tu vois." voice="Male" />
+  <Key key="what_is_this_place_answer" value="C'est mon ranch!Et ces rats ne semblent pas le comprendre.Alors je leur apprends une leçon!" voice="Male" />
+  <Key key="how_are_u_answer" value="Je suis un peu occupé ici, gars." voice="Male" />
+  <Key key="" value="" voice="Male" />
+  <Key key="_npc_111111" value=" " voice="Male" />
+</Node>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mana_tech_power" type="external">
+  <Key key="_npc_Great__Let_s_get_started__I_m_" value="Super!Commençons.Je compte sur vous!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Hey__you_re_back__How_did_it_g" value="Hé, tu es de retour!Comment c'était?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Excellent_work__You_found_the_" value="Excellent travail!Vous avez trouvé le masque de loup." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_With_this__we_can_craft_those_" value="Avec cela, nous pouvons fabriquer ces pièces spéciales infusées de mana." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Here_s_your_reward__You_ve_ear" value="Voici votre récompense.Tu l'as mérité!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Remember__this_weapon_will_be_" value="N'oubliez pas que cette arme sera unique en son genre grâce à vos efforts." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_G8X3" value="Masque de loup" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_TYuF" value="D'EN REK&#10;Goldenfield, près de l'atelier&#10;&#10;Aider D'Abrec à fabriquer l'arme ultime en récupérant un masque de loup unique des ruines près de Goldenfield." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_GOSt" value="N'oubliez pas, vous devez récupérer le masque de loup des ruines de Goldenfield.Le masque contient le code spécial dont nous avons besoin.C'est crucial pour l'arme que nous fabriquons.Faites attention aux ruines.Ils peuvent être assez dangereux." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+</Node>

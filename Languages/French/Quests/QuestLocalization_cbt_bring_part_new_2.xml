@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_bring_part_new_2" type="external">
+  <Key key="Did_you_find_where_the_shuttle" value="Hé, tu regarais ça!Toutes mes parties!Sain et sauf!Eh bien, cela mérite une aide, n'est-ce pas?Oui cela le fait." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="" value=" " />
+  <Key key="_QuestActionAddToJournal_FnPt" value="Zugg Clankwhistle&#13;&#10;Goldenfield, près du bureau&#10;&#10;Trouvez un autre frère de Zugg, sa navette écrasée dans la forêt au sud-ouest du village." />
+  <Key key="_goal_goto_goblah_pos1" value="Retourner au gobelin" />
+  <Key key="_assistant_phrase_YAzv" value="Les gens autour de l'explosion ont dû voir l'explosion, leur demander des détails." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_You_can_find_them_in_the_fores" value="Super, juste génial.Dites-lui qu'il est le plus stupide jusqu'à présent.La forêt est au sud-ouest du village." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goal_find_part" value="Trouver des générateurs d'électricité" />
+  <Key key="_QuestActionAddToJournal_9YuU" value="Je suis arrivé à l'endroit.Le frère disparu de Goblin s'est avéré tué.Maintenant, je dois chercher des pièces technologiques ici.Devrait d'abord vérifier la navette." />
+  <Key key="_assistant_phrase_Tt17" value="Putain !Ce stupide clone ... Clown aurait dû connaître le siège d'éjection que j'ai installé.Je suppose que j'aurais dû lui dire." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_varDescription_PzPq" value="les pièces" />
+  <Key key="_QuestActionAddToJournal_YpVU" value="J'ai les pièces.Devrait revenir au gobelin maintenant." />
+  <Key key="_assistant_phrase_IO3r" value="Oh, pour l'amour de la baise!Les IMP nous ont déjà battu.Ces fucks gourmands ont volé tout ce qu'ils pouvaient de la navette." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Okay__I_ll_just_check_in_this_" value="D'accord, qu'avons-nous ici?Test de reconnaissance?Test de fonction du système moteur?Signatures de vie?Je vais juste vérifier certains d'entre eux." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goalVoice_dvY3" value="Putain !Ce stupide clone ... Clown aurait dû connaître le siège d'éjection que j'ai installé.Je suppose que j'aurais dû lui dire.&#13;&#10;Eh bien, maintenant vous devrez terminer son travail.Ouvrez la navette et apportez-moi les quatre générateurs électriques." voice="Male" />
+  <Key key="_goalVoice_DcDb" value="Oh pour le baise!Les IMP nous ont déjà battu.Ces chant gourmands ont volé tout ce qu'ils pouvaient de la navette.Allez se cogner la tête et récupérez mes générateurs d'électricité!Les petits baiseurs sont partout dans cette forêt.Venez quand vous avez terminé." voice="Male" />
+  <Key key="_npc_And_seeing_that_you_understood" value="Et en voyant que vous avez compris ce que je viens de dire, vous êtes déjà plus intelligent que tous mes frères combinés." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_assistant_phrase_Divd" value="Eh bien, maintenant vous devrez terminer son travail.Ouvrez la navette et apportez-moi les quatre générateurs électriques." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_assistant_phrase_FcOI" value="Allez se cogner la tête et obtenez mes générateurs d'électricité!Les petits baiseurs sont partout dans cette forêt.Venez quand vous avez terminé." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_QuestActionAddToJournal_IMnM" value="Zugg Clankwhistle&#13;&#10;Goldenfield, près du bureau&#10;&#10;Trouvez un autre frère de Zugg, sa navette écrasée dans la forêt au sud-ouest du village." />
+  <Key key="_goalVoice_Skkt" value="Bien sûr.Très agréable.Dites-lui qu'il est le plus stupide jusqu'à présent.La forêt est au sud-ouest du village." voice="Male" />
+  <Key key="_npc_By_the_way__about_the_untimely" value="Soit dit en passant, à propos de la mort prématurée de mon frère, ne vous inquiétez pas trop.Pour être franc, ce ne sont pas vraiment mes frères." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_They_re_all_me__Well__dumbed_d" value="Ils sont tous moi.Eh bien, les versions stupides de moi ... vous savez quoi, rassemblez simplement des larves de scarabées.Je vais vous montrer ce que je veux dire." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Hey__look_at_it__All_my_parts_" value="Hé, tu regarais ça!Toutes mes parties!Sain et sauf!Eh bien, cela mérite une aide, n'est-ce pas?Oui cela le fait." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_varDescription_ZMnM" value="les pièces" />
+  <Key key="_npc_Well__you_basically_have_no_ch" value="Eh bien, vous n'avez essentiellement pas le choix ici.Sans les papiers, vous n'êtes personne, et le gouvernement n'aime vraiment pas les nobodies.Alors, allez trouver mon frère dans la forêt sud-ouest." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goal_find_roket" value="Trouvez un autre frère de Zugg." />
+  <Key key="_goalVoice_YPWw" value="Eh bien, vous n'avez essentiellement pas le choix ici.Sans les papiers, vous n'êtes personne, et le Gov.N'aime vraiment pas les nobodies.Alors, allez trouver mon frère dans la forêt sud-ouest." voice="Male" />
+</Node>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_pranksters_peace" type="external">
+  <Key key="_npc_Lame__Guess_you_ll_miss_out_on" value="¡Aburrido!Supongo que te perderás toda la diversión.Tenga cuidado, aunque podría apuntarlo a continuación." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Too_chicken_for_some_fun__Mayb" value="¿Demasiado pollo para divertirse?¡Quizás te bromearé en su lugar!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_What__scaredy_cat__Don_t_worry" value="¿Qué, Scaredy-Cat?No te preocupes, no te daré una broma ... ¡mucho!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_goalVoice_Hey__Did_you_get_the_Isotope_2" value="¡Ey!¿Ya conseguiste el isótopo-238?Ese temporizador está marcando, ¡ya sabes!Como el temporizador muy real en ese dispositivo.En serio.¡Llegue a la minería!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_This_way__she_ll_think_I_m_wav" value="De esta manera, ella pensará que estoy agitando la bandera blanca, y podemos dejar que lo pasado sean pasados.Y ella será pasada." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Volver a Lily Baxter" />
+  <Key key="_varDescription_DKOJ" value="Recolectar isótopo-238" />
+  <Key key="_npc_Here_s_the_deal__get_me_some_I" value="Aquí está el trato: consígueme un poco de isótopo-238, póngalo en este dispositivo, definitivamente no es una bomba y luego dárselo a Lily como un 'presente de paz'." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Ugh__FINE__I_ll_call_a_truce__" value="Ugh, bien!Llamaré una tregua.La tregua definitiva ... je ..." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_I_m_telling_my_mom__You_re_in_" value="¡Le digo a mi mamá!¡Estás en grandes problemas!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_QuestActionAddToJournal_Buck_Goldenfield__Violet_Weed_" value="Dólar&#10;Goldenfield, Violet Weed Field.&#10;&#10;Ayude a Buck a lograr una tregua entregando un 'presente de paz' ​​a Lily Baxter, que consiste en su dispositivo de marcado y 1 isótopo-238." />
+  <Key key="_npc_Aw__c_mon__What_s_the_point_if" value="¡Aw, vamos!¿Cuál es el punto si no te unes?¡Oh, bueno, más bromas para que yo juegue en ti!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_varDescription_Collect_Isotope_238" value="Recolectar isótopo-238" />
+  <Key key="_npc_What_kind_of_adult_does_this_" value="What kind of adult does this?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_This_ain_t_a_gift__it_s_a_tick" value="Este no es un regalo;¡Es una bomba de tiempo!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_What_kind_of_shenanigans_are_i" value="¿Qué tipo de travesuras hay en este paquete?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Alright__this_peace_thing_is_o" value="Muy bien, esta cosa de la paz está en marcha!¡No puedo esperar a ver qué queda de su rostro!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+</Node>

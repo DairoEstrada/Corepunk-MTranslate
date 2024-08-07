@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_wet_paper" type="external">
+  <Key key="_npc_Oh__turning_me_down__eh__Caref" value="Oh, rechazándome, ¿eh?Cuidado, al lago no le gustan los soplones." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Well__I_d_watch_my_step_if_I_w" value="Bueno, vería mi paso si yo fuera tú." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_During_a_bit_of_a_bar_brawl__s" value="Durante un poco de pelea de bar, un borracho se fue con ella.Ahora, la gente dice que los cuerpos de esos peleadores se han llevado en la costa del lago al norte de la carretera." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Don_t_know_how_they_got_there_" value="No sé cómo llegaron allí, y no es necesario que no haga preguntas, tampoco." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Go_search_those_bodies__and_br" value="Ve a buscar en esos cuerpos y tráeme cualquier documento sobre ellos.'Especialmente cualquier pestaña de bares no pagados." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_I_need__em_to_collect_from_nex" value="I need 'em to collect from next of kin." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_goalVoice_Remember__search_the_shoreline" value="Recuerde, busque en la costa al norte de la carretera.Revise los cuerpos que encuentre allí;Deberían tener algunos papeles.Tal vez incluso por el que buscas." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Dar piezas de evidencia a Balthazar" />
+  <Key key="_npc_Listen_here__there_s_an_ancien" value="Escuche aquí, hay una página antigua que sé que ha estado buscando.Sin embargo, es complicado." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Didn_t_think_so__Now_get_the_h" value="No lo pensó.¡Ahora salga de aquí!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_You_wouldn_t_want_ta__be_joini" value="No querrías 'unirte' a esas personas en su natación, ¿estarías?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_And_here_s_a_little_extra_for_" value="Y aquí hay un poco más para tu ... discreción." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Ah__there_it_is__the_ancient_p" value="¡Ah, ahí está, la página antigua!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Let_s_see_what_you_ve_brought_" value="Veamos lo que has traído ..." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Back_already__You_take_care_of" value="¿Volver ya?¿Te ocupas de los negocios?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Ah__you_ve_got_the_right_spiri" value="Ah, tienes el espíritu correcto.Simplemente no caigas en el lago, ¿sí?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_varDescription_Collect_papers_from_the_bodies" value="Recolectar papeles de los cuerpos" />
+  <Key key="_QuestActionAddToJournal_Balthazar__Baz__Grimble_Windre" value="Balthazar &quot;Baz&quot; Muelle&#10;Windreach Woods, casa de carretera.&#10;&#10;Busque 5 pruebas en la orilla del lago al norte de la carretera para Balthazar." />
+  <Key key="_npc_You_might_find_yourself_swimmi" value="Es posible que te encuentres nadando con el resto si deja que esto se deslice." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+</Node>

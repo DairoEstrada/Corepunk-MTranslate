@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_thor" type="external">
+  <Key key="_npc_I_m_Thorsten__I_can_rob_you__B" value="Je suis Thorsten.Je peux te voler.Mais je ne le ferai pas.Inutile, hein.Coincé 'ere pour bien." voice="Male" />
+  <Key key="player_Why_" value="Pourquoi?" />
+  <Key key="_npc_Me_transport_airship_broke__Wo" value="Moi Transport Learship a cassé.Ne fonctionne qu'avec du charbon.Steamworks, vous savez.Et les gens avant, ils n'ont pas d'esprit.Ils utilisent du plasma fluorescent bleu au lieu du charbon.C'est bonkers, hein." voice="Male" />
+  <Key key="_npc_Upper_Village__Know_as_moch_as" value="Village supérieur.Connaître comme Moch comme vous.Est venu après moi le dirigeable est tombé sur le chemin de Leithana." voice="Male" />
+  <Key key="_npc_Ye_don_t_know_aboot_Leithana__" value="Vous ne savez pas à l'aboot Leithana?Êtes-vous un ouvracteur?C'est bon, je n'ai aucun problème avec les ouvrages.Leithana est la capitale du royaume Elanien.J'y suis allé dans mon enfance de nombreuses tames.I Meself est d'une ville de Yorner confortable." voice="Male" />
+  <Key key="_npc_What_do_ye_think__I_got_a_feel" value="Que pensez-vous?J'ai le sentiment que je vais aller à Leithana à pied maintenant.Et laissez-moi le dirigeable dans ces forêts sombres locales." voice="Male" />
+  <Key key="_npc_" value=" " voice="Male" />
+</Node>

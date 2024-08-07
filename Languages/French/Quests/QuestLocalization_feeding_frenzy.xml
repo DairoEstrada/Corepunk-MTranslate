@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_feeding_frenzy" type="external">
+  <Key key="_npc_Off_you_go__Try_to_pick_the_se" value="Vous allez!Essayez de choisir les plantes succulentes les plus sexy." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_goal_collect_carnivorous_plant" value=" " />
+  <Key key="_QuestActionAddToJournal_Max_Starchaser_Riverrise__City" value="Starchaser maximum&#10;Riverrise, centre-ville.&#10;&#10;Aidez Max Starchaser à acquérir cinq plantes carnivores de la forêt Dusktide." />
+  <Key key="_goalVoice_Remember__five_plants_with_mou" value="N'oubliez pas, cinq plantes à bouche.Disons simplement qu'ils sont pour, euh, des expériences personnelles." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Back_already__My_anticipation_" value="Revenons déjà?Mon anticipation est ... montage." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Well__these_little_beauties_ar" value="Eh bien, ces petites beautés sont encore plus ... dents que je ne l'imaginais." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_I_m_starting_to_question_my_li" value="Je commence à remettre en question mes choix de vie, mais bon, voici ta récompense!" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Seriously__Now_I_ll_have_to_fi" value="Sérieusement?Maintenant, je devrai trouver autre chose avec qui flirter." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Oh_man__now_my_date_night_plan" value="Oh mec, maintenant mes plans de nuit de rendez-vous sont ruinés!" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Really__I_had_my_heart_set_on_" value="Vraiment?J'avais mon cœur sur ces plantes sexy!" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Well__there_go_my_botanical_fa" value="Eh bien, je vais mes fantasmes botaniques.Merci beaucoup!" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Trust_me__it_s_going_to_be_a_w" value="Croyez-moi, ça va être une balade folle.Et ne vous inquiétez pas, il y aura une belle récompense pour vos efforts horticoles, euh.Pour ça?" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Plants_that_bite____or_maybe_n" value="Les plantes qui mordent ... ou peut-être grignoter un peu plus qu'une simple feuille, si vous attrapez ma dérive.J'ai hâte de me familiariser avec cinq d'entre eux." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Hey_there__adventurer__Word_on" value="Hé là, aventurier!Le mot dans la rue est qu'il y a ces plantes bizarres et fringantes avec des bouches dans la forêt de Dusktide." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_varDescription_Collect_Carnivorous_Plants" value="Recueillir les plantes carnivores" />
+</Node>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_tavern" type="external">
+  <Key key="_npc_Done__Now_you_are_officially_a" value="Hecho.Ahora eres oficialmente un residente legítimo de Elan." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goal_speak_bar" value="Habla con el cantinero" />
+  <Key key="_QuestActionAddToJournal_EHyu" value="Habla con el cantinero." />
+  <Key key="_npc_Hey__friend__You_know____If_yo" value="Hola amigo.Ya sabes ... si quieres obtener un buen trabajo de pago, puedo ayudarte con eso, eh." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_It_would_be_smart_to_register_" value="Sería inteligente registrarse en el motel local para tener algún tipo de lugar temporal de residencia.Ahora, buen día para ti." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goalVoice_DH93" value="Algo inteligente sería registrarse en el motel local para tener al menos un lugar de residencia temporal.Que tengas un buen día." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Hey__another_outworlder__So_ma" value="Oye, otro Outworlder.Muchos de ustedes solo salen del portal día tras día.Podemos acomodarte." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_I_ve_put_your_data_into_our_DB" value="He puesto sus datos en nuestro DB y su chip.Ahora tiene derecho a usar nuestros baños públicos.¡Felicidades!" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Good__very_good__Here_s_the_wo" value="Buena muy buena.Aquí está el permiso de trabajo.Solo diles que vienes de mí, ¿de acuerdo?Muy bien, amigo.Que tengas un buen dia." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+</Node>

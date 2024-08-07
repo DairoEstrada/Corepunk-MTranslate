@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hub2_brenn" type="external">
+  <Key key="_npc_Welp___color__red___b_Second_H" value="Welp.Deuxième hub c'est, ami.Vous êtes sorti du portail, vous êtes venu ici.Je dois être prêt à arriver ici en premier.Moi moi-même, je suis né ici.Kwalatien à sang pur, vous savez.Mais cela ne vous dérange pas de vous-même." voice="Male" />
+  <Key key="_npc_Yeah__man__shoot_" value="Ouais, mec, tire." voice="Male" />
+  <Key key="_npc_Yeah__man__You_can_find_here_e" value="Oui mon gars.Vous pouvez trouver ici tout, vous savez.Je veux aller commencer un compte bancaire - vous l'avez.C'est sur le district commercial.Vous voulez vous saouler - Boom, c'est parti, une barre entière est à votre service." voice="Male" />
+  <Key key="_npc_Too_good_to_be_true__huh__I_kn" value="Trop beau pour être vrai, hein?Je sais, je sais, les ouvrages de l'Outwers n'ont jamais dû voir de tels luxes.Ouais, je veux dire, bon pour toi, tant mieux pour toi." voice="Male" />
+  <Key key="_npc_Yeah__you_can_also_find_our_lo" value="Oui, vous pouvez également trouver notre doc local sur le quai.L'obtenir?Ça s'appelle un jeu de mots.Ou quelque chose.Quoi qu'il en soit, le gars peut vous corriger très rapidement et bon marché.Quoi d'autre?Je veux dire, il y a tout ici, tu sais." voice="Male" />
+  <Key key="_npc_Okay__take_care__my_savage_fri" value="D'accord, prenez soin de vous, mon ami du sabbat.Oh au fait, vous pouvez aussi ..." voice="Male" />
+</Node>

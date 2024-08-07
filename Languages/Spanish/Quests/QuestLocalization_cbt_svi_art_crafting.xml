@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_art_crafting" type="external">
+  <Key key="_npc_Privet" value="Oh, you're one of the newcomers, aren't you?" voice="Male" />
+  <Key key="_goal_create_art" value="Elabore el artefacto" />
+  <Key key="_QuestActionAddToJournal_MRWW" value="Tengo que hablar con el chico." />
+  <Key key="_npc_Kak_dela" value="Veamos lo que tienes allí ... por suerte para ti, tengo la receta de esta basura.Pero debes saber, ¡necesito el dinero por adelantado!¡Cuesta tanto mantener esta máquina!" voice="Male" />
+  <Key key="_QuestActionAddToJournal_UWCP" value="Elabore el artefacto." />
+  <Key key="_goal_end_quest" value="Habla con el chico de nuevo" />
+  <Key key="_QuestActionAddToJournal_HnZt" value="Tengo que hablar con el chico." />
+  <Key key="_npc_Sdelal_" value="Está aquí ... ¡No puedo creer que mañana todo sea como estaba!Gracias, extraño.No te recordaré por siempre y esa es la verdadera felicidad.¡Cuidarse!" voice="Male" />
+  <Key key="_npc_Of_course_you_are__I_am_a_man_" value="¡Por supuesto que lo eres!¡Soy un hombre que no olvida y t h i n g, literalmente!Recuerdo que todo comenzó con la cantidad de pulgas que viven en mi perro y terminan con todas las caras de las personas que viven en este pantano." voice="Male" />
+  <Key key="_npc_You_re_not_going_to_trick_me__" value="No me vas a engañar, amigo, porque soy un hombre con una enfermedad rara: no olvidar el síndrome." voice="Male" />
+  <Key key="_npc_Yeah___Life_sucks___" value="Si .. la vida apesta ..." voice="Male" />
+  <Key key="_npc_But_that_s_half_the_trouble___" value="Pero ese es la mitad del problema: lo que realmente quiero olvidar es la noche en que tuve una estúpida pelea con Ronnie.Él me dijo algunas cosas duras." voice="Male" />
+  <Key key="_npc_Of_course_we_made_up_then__but" value="Por supuesto que inventamos entonces, pero el hecho de que no pueda olvidarlo sigue arruinando mi vida.Cuando lo veo, una parte de mí quiere abrazar y esas cosas, ¡y la otra simplemente no puede mirarlo!" voice="Male" />
+  <Key key="_npc_Ronnie_is_operating_the_machin" value="Ronnie está operando la máquina que la produce.Nunca me dará el inyector por todo el dinero del mundo porque las cosas que la toma podría causar un problema de &quot;chico&quot; ..." voice="Male" />
+  <Key key="_npc_Listen__now_that_we_ve_met__co" value="Escucha, ahora que nos hemos conocido, ¿podrías ir a Ronnie y obtener el inyector?Voy a devolver el favor." voice="Male" />
+  <Key key="_npc_He_will_give_you_the_recipe__I" value="Él te dará la receta.¡No llevará mucho tiempo!" voice="Male" />
+  <Key key="_npc_Take_it__Watch_your_hands__My_" value="¡Tómalo!¡Mira tus manos!¡Mi bebé puede estar de mal humor!jajaja.." voice="Male" />
+  <Key key="_goal_speak_npc" value="Habla con Icarus" />
+</Node>

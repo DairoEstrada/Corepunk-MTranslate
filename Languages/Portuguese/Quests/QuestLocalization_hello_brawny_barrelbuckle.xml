@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_brawny_barrelbuckle" type="external">
+  <Key key="_npc_Hey_there__champ_" value="Olá, Champ!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Ready_for_a_rumble_" value="Pronto para um estrondo?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_What_s_crackin__" value="O que tá pegando ?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Watch_your_six_" value="Assista seus seis!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_You_lookin__for_trouble_" value="Você está procurando problemas?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Stay_tough__kid_" value="Fique duro, garoto!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Game_face_on_" value="Game Face On!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Keep_your_guard_up_" value="Mantenha sua guarda!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+</Node>

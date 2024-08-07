@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_snzy" type="external">
+  <Key key="_npc_Ah_choo__Hi_there_" value="Ah-choo!Salut!" />
+  <Key key="_npc_Oh__excuse_me__Hey_" value="Oh excusez-moi!Hé!" />
+  <Key key="_npc_Oil____oh__hi_" value="Huile ... Oh, salut!" />
+  <Key key="_npc_Sneezed_again__Hello_" value="Éternué à nouveau.Bonjour!" />
+  <Key key="_npc_Ah_choo__Greetings_" value="Ah-choo!Salutations!" />
+  <Key key="_npc_Oil_everywhere____hi_" value="Huile partout ... Salut!" />
+</Node>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_farmer_butcher" type="external">
+  <Key key="_npc_Don_t_step_in_pig_shit_" value="Ne marchez pas dans la merde de cochon." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_You_ain_t_lost__are_ya_" value="Tu n'as pas perdu, n'est-ce pas?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Well__look_who_we_got_here_" value="Eh bien, regardez qui nous sommes arrivés ici." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Hey_there__city_slicker_" value="Hé là, City Slicker." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Wanna_buy_some__meat_" value="Tu veux acheter de la viande?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

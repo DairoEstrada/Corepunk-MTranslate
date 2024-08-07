@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_grmp" type="external">
-  <Key key="_npc_Hmm_" value="Mmm." />
-  <Key key="_npc_You_there_" value="Tú allí." />
-  <Key key="_npc_What_now_" value="¿Ahora que?" />
-  <Key key="_npc_State_your_business_" value="Declare su negocio." />
-</Node>

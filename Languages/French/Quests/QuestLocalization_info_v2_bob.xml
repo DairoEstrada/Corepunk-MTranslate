@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_bob" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_I_am_ok__Tired_but_ok__Today_I" value="Je vais bien.Fatigué mais ok.Aujourd'hui, j'ai vendu suffisamment de poisson.Plus que d'habitude.Donc, le soir, je peux obtenir un coup de feu ou deux avec mon vieil ami." voice="Male" />
+  <Key key="_npc_I_see__First_time_here__Everyb" value="Je vois.Première fois ici.Tout le monde connaît Bob dans ce village.Aucune célébration n'est sans poisson de Bob.Mon grand-père était un poissonnier, mon père était un poissonnier et je suis aussi un poissonnier." voice="Male" />
+  <Key key="_npc_The_craft_must_be_passed_down_" value="Le métier doit être transmis de génération en génération, quoi qu'il arrive." voice="Male" />
+  <Key key="_npc_This_is_my_stall__I_ve_been_se" value="Ceci est mon stand.J'ai vendu du poisson à cet endroit, comme je me souvienne.J'avais l'habitude de pêcher dans le grand lac jusqu'à ce que cette merde toxique arrive.Si jamais vous arrivez à cet endroit, ne nagez pas." voice="Male" />
+  <Key key="_npc_These_fish_were_caught_today_i" value="Ces poissons ont été capturés aujourd'hui tôt le matin dans notre rivière locale.Sentez-le!Ah, n'est-ce pas bon?" voice="Male" />
+</Node>

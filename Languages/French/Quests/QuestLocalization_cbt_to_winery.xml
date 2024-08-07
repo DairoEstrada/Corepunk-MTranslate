@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_to_winery" type="external">
+  <Key key="_npc_Now_go_back_to_the_village_eld" value="Allez maintenant à l'ancienne cave. C'est quelque part à l'est du village." voice="Male" />
+  <Key key="_goal_go_to_npc" value="Aller à la cave et parler à quelqu'un" />
+  <Key key="_QuestActionAddToJournal_aTcs" value="Elder dit quelque chose sur la cave.Besoin de le vérifier.Il est situé quelque part à l'est de Village." />
+  <Key key="_goalVoice_PKXb" value="Allez maintenant à l'ancienne cave. C'est quelque part à l'est du village." voice="Male" />
+  <Key key="_npc_Well_done__You_have_achieved_y" value="Vin?Qui disent le vin?Je suis un spécialiste du vin.En tant que sommelier, ne distinguez pas le goût." voice="Male" />
+</Node>

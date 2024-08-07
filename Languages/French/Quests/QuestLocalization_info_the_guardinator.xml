@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_the_guardinator" type="external">
+  <Key key="_npc_Designation__The_Guardinator__" value="Désignation: The Guardinator.SERIE: TRM-N8R." />
+  <Key key="_npc_I_am_a_cyber_enhanced_entity__" value="Je suis une entité cyber-améliorée, extérieur organique sur un cadre métallique." />
+  <Key key="_npc_Function__Prime_directive___pr" value="Fonction: Prime Directive - Protection et surveillance." />
+  <Key key="_npc_Displaced_through_temporal_ano" value="Déplacé par anomalie temporelle.Emplacement actuel: Kwalat." />
+  <Key key="_npc_Reassigned_to_Riverrise__Missi" value="Réaffecté à RiverRise.Mission: sauvegarde la population locale." />
+  <Key key="_npc_Systems_functioning_within_opt" value="Systèmes fonctionnant dans des paramètres optimaux." />
+  <Key key="_npc_Diagnostic_check_complete__no_" value="Vérification de diagnostic complète: Aucune anomalie détectée." />
+  <Key key="_npc_Emotional_matrix__neutral__Mis" value="Matrice émotionnelle: neutre.Priorité de la mission: inchangé." />
+  <Key key="_npc_Cybernetic_enhancements_perfor" value="Améliorations cybernétiques effectuées à 100 efficacité." />
+  <Key key="_npc_Awaiting_further_instructions_" value="En attente d'instructions supplémentaires.Surveillance des menaces." />
+  <Key key="_npc_Current_location__Riverrise_se" value="Emplacement actuel: RiverRise Settlement." />
+  <Key key="_npc_Riverrise__a_rustic_enclave_wi" value="Riverrise: une enclave rustique dans le continuum de Kwalat." />
+  <Key key="_npc_Primary_objective__security_an" value="Objectif principal: sécurité et surveillance de ce domaine." />
+  <Key key="_npc_Area_specifics__mixture_of_org" value="Spécifications de la zone: Mélange des structures organiques et primitives, nécessitant une surveillance constante." />
+  <Key key="_npc_Mission_directive__ensure_safe" value="Directive de mission: assurer la sécurité et la stabilité dans les paramètres désignés." />
+  <Key key="_npc_Negative__Operations_under_con" value="Négatif.Opérations sous contrôle." />
+  <Key key="_npc_No_assistance_needed_currently" value="Aucune assistance nécessaire actuellement.Continuez votre vigilance." />
+  <Key key="_npc_All_systems_operational__No_fu" value="Tous les systèmes opérationnels.Aucune autre aide requise." />
+  <Key key="_npc_Assistance_registered__Assignm" value="Assistance enregistrée.Affectation disponible." />
+  <Key key="_npc_Aid_acquired__Ready_for_instru" value="Aide acquise.Prêt pour les instructions?" />
+  <Key key="_npc_Affirmative__Task_pending_" value="Affirmative.Tâche en attente." />
+</Node>

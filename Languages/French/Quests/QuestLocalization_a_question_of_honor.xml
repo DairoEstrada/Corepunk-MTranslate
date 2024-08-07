@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_question_of_honor" type="external">
+  <Key key="_npc_Please__please__I_really_think" value="S'il vous plaît, s'il vous plaît, je pense vraiment que c'est mieux si vous y allez.Les gardes, ils ne seront pas heureux ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goal_talk_npc" value="Parlez à Alaric Stormshade" />
+  <Key key="_npc_Oh__um__you_don_t_want_to_go__" value="Oh, euh, tu ne veux pas y aller?Je pense vraiment que tu devrais reconsidérer ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goalVoice_H_Have_you_reported_to_Alaric_" value="H-Have que vous avez déjà déclaré à Alaric?Il est, euh, attendant le fort ... s'il vous plaît, ne tarde pas.Sérieusement.Plus vous attendez, plus il est pire." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_So_just_uh____go_turn_yourself" value="Alors juste euh ... allez vous rendre. Je suis sûr que ce ne sera pas si mauvais." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_So__my_father__unfortunately__" value="Donc, mon père, malheureusement, s'attend maintenant à ce que vous rencontriez Alaric et que vous vous rendiez. Moi, euh, je souhaite vraiment que ce ne soit pas comme ça." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Alaric__you_know__the_one_who_" value="Alaric, vous savez, celui qui insiste toujours sur les règles et autres, il a dit à mon père que vous, euh, avez des morceaux de cet artefact." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Hey__um__thanks_for_helping_me" value="Hé, euh, merci de m'avoir aidé plus tôt.Mais, euh, nous avons un peu de problème." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Now_hand_over_those_artifact_p" value="Maintenant, remettez ces pièces d'artefact." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_If_you_continue_to_obey__perha" value="Si vous continuez à obéir, nous pouvons peut-être rendre cela ... facile." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Compliance_is_the_first_step_t" value="La conformité est la première étape vers l'ordre.J'ai noté votre obéissance." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_You_managed_to_show_up__Color_" value="Vous avez réussi à vous présenter.Color moi surpris." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_QuestActionAddToJournal_Themis_Windreach_Woods__Fort__" value="Themis&#10;Windreach Woods, fort&#10;&#10;Parlez à Alaric Stormshade au fort de Windreach Woods pour faire face aux conséquences de votre crime." />
+  <Key key="_npc_You_re_sure_you_don_t_want_to_" value="Vous êtes sûr que vous ne voulez pas y aller?Cela pourrait empirer si vous ne le faites pas ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Ah__so_you_finally_decided_to_" value="Ah, donc vous avez finalement décidé de vous présenter." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_I_I_don_t_want_to_press_you__b" value="Je-je ne veux pas vous presser, mais si vous ne vous rendez pas, cela pourrait empirer ... juste, s'il vous plaît, allez." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Alright__alright__I_I_guess__u" value="D'accord d'accord!Je-je devine, euh, tu dois vraiment aller voir Alaric ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+</Node>

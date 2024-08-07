@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_tharkon" type="external">
+  <Key key="_npc_I_m_Tharkon__a_nice_guy_just_t" value="Je suis Tharkon, un gars sympa qui essaie juste d'aider les Elaniens à faire une maison ici." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Ran_a_couple_of_campaigns_in_t" value="J'ai mené quelques campagnes dans la vallée des péchés, puis a été ... libéré." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Reasons_beyond_my_control__you" value="Des raisons indépendantes de ma volonté, vous savez?" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_I_ll_clear_my_name_one_day_" value="Je vais effacer mon nom un jour." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Anyway__if_you_need_anything__" value="Quoi qu'il en soit, si vous avez besoin de quelque chose - ou voyez l'un de ces cyberfucks de Quaddari - faites-le moi savoir." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_I_d_be_better_if_the_Quaddari_" value="Je serais mieux si les médias Quaddari ne répandaient pas des mensonges sur moi." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_The_scum_just_ran_a_ridiculous" value="La racaille vient de mener un frottis ridicule sur moi." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_They_claim_I__drunkenly_attack" value="Ils affirment que j'ai &quot;attaqué ivre une entreprise totalement légitime&quot;." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_It_was_a_mafia_headquarters__T" value="C'était un siège social de la mafia!Ils ne s'en tireront pas avec ça ..." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Conspiracies_everywhere__Don_t" value="Conspiration partout.Ne faites pas confiance à ce que vous entendez des nouvelles." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_This_is_a_strategic_point_for_" value="C'est un point stratégique pour nos efforts de règlement." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_We_aim_to_create_a_haven_for_E" value="Nous visons à créer un paradis pour les Elaniens ici, loin des dangers de la vallée des péchés." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_It_s_a_burgeoning_settlement__" value="C'est une colonie naissante, un bon endroit pour les nouveaux débuts." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Not_that_the_Quaddari_would_ap" value="Non pas que le quaddari apprécierait que ..." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Trust_me__just_stick_around_he" value="Croyez-moi, restez ici.Vous n'avez pas besoin d'un implant pour voir à quel point il est plus agréable." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_I_m_on_a_mandated_break__docto" value="Je suis sur une pause obligatoire, les ordres du médecin." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Taking_a_breather___my_therapi" value="Prendre une pause - mon thérapeute insiste." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_I_m_on_a_break__but_thanks_for" value="Je suis en pause, mais merci d'avoir demandé." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Need_to_help_some_people_settl" value="Besoin d'aider certaines personnes à s'installer dès maintenant." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Nah___the_Quaddari_can_wait_to" value="Nah - Le quaddari peut attendre aujourd'hui." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Actually__there_is_something__" value="En fait, il y a quelque chose.Une affaire délicate." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_I_ve_got_a_task__if_you_re_up_" value="J'ai une tâche, si vous êtes un peu d'espionnage." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_I_need_eyes_and_ears_near_the_" value="J'ai besoin d'yeux et d'oreilles près du quaddari." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_I_could_use_some_intel_on_thos" value="Je pourrais utiliser des informations sur ces quaddari qui se cachent." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Yes__could_you_keep_an_eye_on_" value="Oui, pourriez-vous garder un œil sur le quaddari pour moi?" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+</Node>

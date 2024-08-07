@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_gravedigger" type="external">
+  <Key key="_npc_My_name_s_Dax__Dax_Treebill__I" value="Mon nom est dax.Dax Treebill.Je suis le gravedignoir creux de la rêverie." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Family_s_been_digging_graves_h" value="La famille a creusé des tombes ici depuis près de cent ans." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Heck__I_dug_the_grave_for_my_f" value="Heck, j'ai creusé la tombe pour mon père, et il a creusé la tombe de sa pop." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Business_is_slow_lately__but_i" value="Les affaires sont lentes ces derniers temps, mais elle reprendra, vous verrez!Le fait toujours." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Well__back_to_work__These_grav" value="Eh bien, retour au travail!Ces tombes ne va pas se creuser!" voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_I_m_fine__fine__My_back_is_a_l" value="Je vais bien, bien.Mon dos est un peu grinçant ces jours-ci et mon genou gauche me fait mal quand il pleut." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_But_I_m_still_alive__and_that_" value="Mais je suis toujours en vie, et c'est ce qui compte.Ces personnes mortes ici ne ressentent pas du tout de douleur." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Business_is_slow__though__Real" value="Les affaires sont cependant lentes.Vraiment lent.C'est étrange.Je sais que Biddy Swoon est passé, mais où est son corps?" voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_And_she_ain_t_the_first_to_go_" value="Et elle n'est pas la première à disparaître.Eh bien, peut-être que son peuple a emmené son corps.Je ne sais pas." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_But_I_ll_keep_digging_graves__" value="Mais je vais continuer à creuser des tombes.C'est une tradition familiale." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_This_is_Reverie_Hollow_s_grave" value="C'est le cimetière de Reverie Hollow." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_It_s_the_most_popular_place_in" value="C'est l'endroit le plus populaire du village.Les gens mouraient d'envie d'entrer ici.Il h.C'est ma seule blague." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Business_sure_is_slow__I_don_t" value="L'entreprise est certainement lente.Je ne sais pas où vont les morts, mais ce n'est pas ici." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_So_I_wait_here__with_my_Dad_an" value="Alors j'attends ici, avec mon père et mon grand-père pour compagnie.Ils ne parlent pas beaucoup, mais ils m'apportent du réconfort." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_If_you_re_planning_to_stick_ar" value="Si vous prévoyez de rester, j'irais voir ce pasteur Fazool Fellow.Il semble courir les choses ces jours-ci." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Why_yes_I_do__Thank_you_for_of" value="Pourquoi oui je fais!Merci d'avoir offert!" voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Yes__I_do_need_help_" value="Oui.J'ai besoin d'aide." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_I_will_take_you_up_on_your_kin" value="Je vous emmènerai dans votre aimable offre." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Well__you_look_trustworthy_eno" value="Eh bien, vous avez l'air assez digne de confiance.Bien sûr." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_No_thank_you__I_m_fine_" value="Non, merci.Je vais bien." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Not_today__but_thanks_" value="Pas aujourd'hui, mais merci." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_Try_back_tomorrow__Something_m" value="Essayez demain.Quelque chose pourrait venir." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+  <Key key="_npc_I_m_not_one_for_asking_favors_" value="Je ne suis pas du genre à demander des faveurs.Non." voiceSettingsId="iJFu6TXdpRoKaMvUHrWW" />
+</Node>

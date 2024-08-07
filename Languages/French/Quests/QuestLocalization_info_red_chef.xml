@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_red_chef" type="external">
+  <Key key="_npc_Roark__Redbeard__Thunderbrew__" value="Roark 'Redbeard' Thunderbrew, le meilleur chasseur cuit qu'il y ait jamais eu." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Only_one_who_can_grill_a_beast" value="Un seul qui peut faire griller une bête, puis raconter son histoire." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_I_ve_roasted_beasts_from_all_c" value="J'ai des bêtes rôties de tous les coins de Kwalat." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Don_t_think_I_m_above_putting_" value="Ne pensez pas que je suis au-dessus de mettre un voyageur effronté sur le feu s'ils causent des problèmes." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_You_re_a_small_guy____bet_I_co" value="Tu es un petit gars ... Je parie que je pourrais te faire éclater et faire revenir en moins d'une minute." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Ah__well__just_another_day_sur" value="Ah, eh bien, juste un autre jour survivant au buffet bestial." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Came_face_to_face_with_a_Ravag" value="Est venu en face à face avec un ravager hier, l'a brûlé si mal qu'il a postulé pour un emploi à la Forge." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Seen_Thorin_Toastbeard_lurkin_" value="Vu Thorin Toast Beard se cacher, toujours jusqu'à quelque chose '." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Last_I_saw__he_was_chatting_wi" value="La dernière fois que j'ai vu, il discutait avec Ol Grimble, qui est maintenant ... manquant, étrangement." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Might_need_to_start_grilling_c" value="Pourrait avoir besoin de commencer à griller des indices au lieu de créatures." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_I_suspect_Thorin_s_cook_books_" value="Je soupçonne que les livres de cuisine de Thorin ne contiennent pas seulement des recettes." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_This_here_s_Windstone___" value="Ceci ici s windstone ..." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_You_can_step_outside_the_gate_" value="Vous pouvez sortir de la porte et faire immédiatement partie de la chaîne alimentaire." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Fortunately_for_me__your_s_tru" value="Heureusement pour moi, le vôtre est vraiment au sommet de cette chaîne - vous le voyez là-bas, je l'ai mangé." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_The_circle_of_life_is_beautifu" value="Le cercle de la vie est beau, n'est-ce pas?" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Aye__how_about_training_to_be_" value="Oui, que diriez-vous de s'entraîner pour devenir un chasseur junior alors?" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Sure_thing__I_ve_got_some_task" value="Bien sûr, j'ai des tâches pour affiner vos compétences de chasse." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Why_not__Every_good_hunter_sta" value="Pourquoi pas?Chaque bon chasseur commence quelque part, hein?" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Absolutely__Been_looking_for_s" value="Absolument!J'ai cherché quelqu'un pour transmettre mes astuces." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_You_ready_to_learn_the_ropes_o" value="Vous êtes prêt à apprendre les cordes de la chasse des meilleurs?" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Got_my_hands_full_with_this_st" value="J'ai mes mains pleines avec ce ragoût ici." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_I_m_knee_deep_in_spices_right_" value="Je suis jusqu'aux genoux en épices en ce moment." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Busy_cooking_up_a_storm_" value="Occupé à cuisiner une tempête." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Too_busy_whipping_up_today_s_s" value="Trop occupé à fouetter les offres spéciales d'aujourd'hui." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Nah__You_ll_get_killed_" value="Nah.Vous serez tué." voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+</Node>

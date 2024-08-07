@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_bowman_guard" type="external">
+  <Key key="_npc_Hey__pal_" value="Hey, pal." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Yo__bub_" value="Yo, bub." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_What_s_cookin__" value="¿Qué está Cookin '?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_How_ya_doin__" value="Como estas'?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Eh__got_a_minute_" value="Eh, ¿tienes un minuto?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Look_who_it_is_" value="¡Mira quien es!" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_You_in_a_hurry_" value="¿Estás apurado?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Well__well__well___" value="Bien bien bien..." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+</Node>

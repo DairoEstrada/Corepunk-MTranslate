@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_art_crafting" type="external">
+  <Key key="_npc_Privet" value="Oh, tu es l'un des nouveaux arrivants, n'est-ce pas?" voice="Male" />
+  <Key key="_goal_create_art" value="Créer l'artefact" />
+  <Key key="_QuestActionAddToJournal_MRWW" value="Je dois parler au gars." />
+  <Key key="_npc_Kak_dela" value="Voyons ce que vous avez eu là-bas .. chanceux pour vous, j'ai la recette de cette merde.Mais vous devez savoir, j'ai besoin de l'argent à l'avance!Il en coûte tellement pour maintenir cette machine!" voice="Male" />
+  <Key key="_QuestActionAddToJournal_UWCP" value="Créez l'artefact." />
+  <Key key="_goal_end_quest" value="Parler à nouveau au gars" />
+  <Key key="_QuestActionAddToJournal_HnZt" value="Je dois parler au gars." />
+  <Key key="_npc_Sdelal_" value="C'est ici ... je ne peux pas croire que demain tout sera comme ça!Merci, étranger.Je ne me souviendrai pas de toi pour toujours et c'est le vrai bonheur.Prends soin de toi!" voice="Male" />
+  <Key key="_npc_Of_course_you_are__I_am_a_man_" value="Bien sûr, vous êtes!Je suis un homme qui n'oublie pas un n y t h i n g, littéralement!Je me souviens de tout ce qui commence par le nombre de puces vivant sur mon chien et terminant avec tous les visages de personnes vivant dans cette tourbière." voice="Male" />
+  <Key key="_npc_You_re_not_going_to_trick_me__" value="Tu ne vas pas me tromper, mon pote, parce que je suis un homme atteint d'une maladie rare: pas d'oublier le syndrome." voice="Male" />
+  <Key key="_npc_Yeah___Life_sucks___" value="Ouais .. la vie est nul ..." voice="Male" />
+  <Key key="_npc_But_that_s_half_the_trouble___" value="Mais c'est la moitié du problème - ce que je veux vraiment oublier, c'est la nuit où j'ai eu un combat stupide avec Ronnie.Il m'a dit des choses dures." voice="Male" />
+  <Key key="_npc_Of_course_we_made_up_then__but" value="Bien sûr, nous nous sommes inventés alors, mais le fait que je ne puisse pas oublier que cela continue de ruiner ma vie.Quand je le vois, une partie de moi veut se câliner et tout, et l'autre ne peut tout simplement pas le regarder!" voice="Male" />
+  <Key key="_npc_Ronnie_is_operating_the_machin" value="Ronnie exploite la machine qui le produit.Il ne me donnera jamais l'injecteur de tout l'argent du monde parce que les choses que le coup pourrait causer un problème de «gars» ..." voice="Male" />
+  <Key key="_npc_Listen__now_that_we_ve_met__co" value="Écoutez, maintenant que nous nous sommes rencontrés, pourriez-vous aller à Ronnie et obtenir l'injecteur?Je reviendrai la pareille." voice="Male" />
+  <Key key="_npc_He_will_give_you_the_recipe__I" value="Il vous donnera la recette.Cela ne prendra pas longtemps!" voice="Male" />
+  <Key key="_npc_Take_it__Watch_your_hands__My_" value="Prends-le!Surveillez vos mains!Mon bébé peut être de mauvaise humeur!hahaha.." voice="Male" />
+  <Key key="_goal_speak_npc" value="Parlez à Icarus" />
+</Node>

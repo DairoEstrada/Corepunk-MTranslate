@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_grommuk_ironhand" type="external">
+  <Key key="_npc_Grmph__traveler_" value="Grmph, voyageur." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Zrrting__friend_" value="Zrrting, ami." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grzz_hello_" value="GRZZ HELLO." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hrr_ty_there_" value="HRR Ty là-bas." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Gleek_you_" value="Gleek vous?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hrrrft_" value="Hrrrft." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Veltas__visitor_" value="Veltas, visiteur." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Brum_meet_" value="Brum Meet." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+</Node>

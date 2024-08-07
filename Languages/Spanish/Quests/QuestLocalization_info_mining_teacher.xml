@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_mining_teacher" type="external">
+  <Key key="_npc_Hit_the_jackpot__and_you_disco" value="Golpea el premio gordo y descubres isótopo-238 o Thermium liquidum." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_They_re_essential_parts_of_man" value="Son partes esenciales de muchas armas, armaduras, consumibles y similares." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_That_s_all_the_info_you_need__" value="Esa es toda la información que necesitas, novato.¡Ahora ve a romper algunas rocas!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Need_a_hand_with_something_" value="Necesito una mano con algo." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Think_you_can_handle_a_pickaxe" value="¿Crees que puedes manejar un pico y carne fresca?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Got_a_task_for_ya__if_you_re_h" value="Tengo una tarea para ti, si eres lo suficientemente duro." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Now_that_I_say_it__doesn_t_sou" value="Ahora que lo digo ... no suena tan bien." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Oh__and_a_bunch_of_little_outw" value="Ah, y un montón de pequeños Outworlder Twerps que se ponen nerviosos cuando ven un trozo de mineral de hierro." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Goldenfield___home_to_dense_an" value="Goldenfield: hogar de animales densos, leñadores más densos y las malditas rocas más densas que hayas visto." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Don_t_go_ask_too_many_question" value="¡No vayas a hacer demasiadas preguntas, o pegaré mi pickaxe en tu paseos!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Outworlders_like_you_are_basic" value="Outworlders como tú estás básicamente con Stringmini 'the Town, ¡no necesito más competencia!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Not_too_peachy__being_forced_t" value="No demasiado durazno, que se ve obligado a jugar a los maestros con personas como ustedes." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Now_I_m_stuck_babysitting_outw" value="Now I'm stuck babysitting outworlders, thanks to the fancy pants Elanien government." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Been_breaking_rocks_and_rear_e" value="He estado rompiendo rocas y rondas desde antes de que fueras un brillo en el saco de tu papá." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Name_s_Thordal_Ironvein__sweet" value="El nombre es Thordal Iononvein, Cheeks Sweet." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Tryin__to_make_yourself_useful" value="¿Intentando hacerte útil, Outworlder?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_want_you_to_head_to_Westwind" value="Quiero que te dirijas a Westwind Woods.Es el mejor lugar para encontrar venas de cristal suaves." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Legend_has_it__a_mighty_river_" value="La leyenda lo tiene, un poderoso río una vez fluyó allí.Cuando se secó, dejó un tesoro de venas de cristal suaves." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Extract_Soft_Crystal_from_the_" value="Extraiga al cristal suave de las venas, luego procesarlo en relleno de polvo.¿Suena bastante fácil?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_You_disappoint_me__rookie__Now" value="Me decepcionas, novato.Ahora corre, tengo un trabajo real que hacer." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Too_afraid_of_a_little_hard_wo" value="Demasiado miedo de un pequeño trabajo duro, ¿verdad?Cifras." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_You_re_softer_than_freshly_sme" value="Eres más suave que el oro recién fundido." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Go_on__run_back_to_mama_" value="Continúa, corre de regreso a mamá." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_If_you_re_lucky__you_ll_find_M" value="Si tienes suerte, encontrarás lunas, rubí, pepitas de titanio o incluso un diamante." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_You_ll_usually_gather_Soft_Cry" value="Por lo general, reunirás cristal suave, mineral de hierro, fósiles antiguos y metal meteórico." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Once_you_spot_a_vein__focus_an" value="Una vez que detectas una vena, enfoca y extraes todo lo que puedas.Sin distracciones." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_In_Dusktide_Forest_and_Windrea" value="En el bosque de dusktide y los bosques de buceo, encontrarás venas de cristal suaves.También puede haber algunos en los pastizales." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_The_rockier_the_terrain__the_b" value="Cuanto más difícil sea el terreno, mejores serán las posibilidades de las venas.El mejor lugar para mirar por aquí es Westwind Woods." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Start_with_soft_crystal_veins_" value="Comience con las venas de cristal suave cuando sea un Greenhorn, y a medida que profundice, puede abordar las venas polimetales y antiguas." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Mining_is_the_best__You_find_v" value="¡La minería es la mejor!Encuentra venas: son todas diferentes, cada una exigiendo un enfoque único." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_If_you_re_interested_in_mining" value="Si está interesado en la minería, estoy legalmente obligado a estar a su servicio." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_got_it_covered__pebble__Run_" value="Lo conseguí cubierto, guijarro.Corre ahora." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Best_stick_to_picking_flowers_" value="Mejor palo para recoger flores." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Nothing_for_ya_right_now__gumd" value="Nada para ti ahora mismo, gumdrop." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Go_ask_Zogar_if_he_needs_help_" value="Ve a preguntarle a ZOGAR si necesita ayuda para abrazar árboles." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_m_all_good__sugar_plum_" value="I'm all good, sugar plum." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_dwarf_cigarette_red" type="external">
+  <Key key="_npc_Ahoy_there__brave_soul_" value="Ahoy là-bas, courageux soul!" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Fancy_a_lucky_charm_" value="Envie d'un porte-bonheur?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Need_a_bit_of_magic_" value="Besoin d'un peu de magie?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Care_for_a_unique_trinket_" value="Prendre soin d'un bijou unique?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Lookin__for_somethin__special_" value="Vous cherchez quelque chose de spécial?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Ready_to_be_amazed_" value="Prêt à être étonné?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Browsin__for_treasures_" value="Browsin 'pour les trésors?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Interested_in_somethin__rare_" value="Intéressé par quelque chose de rare?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Ahoy__treasure_hunter_" value="Ahoy, chasseur de trésors!" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Need_a_lucky_charm_" value="Besoin d'un charme chanceux?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Fancy_somethin__shiny_" value="Envie quelque chose de brillant?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Up_for_a_trade_" value="Pour un métier?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Get_cursed_er__blessed_" value="Soyez maudit ER, béni!" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Care_for_magic_" value="Prendre soin de la magie?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Deal_o__the_day_" value="L'affaire du jour!" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+  <Key key="_npc_Ready_for_wonders_" value="Prêt pour les merveilles?" voiceSettingsId="rpNZWlK6HaSytVCRtqJw" />
+</Node>

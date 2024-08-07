@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_npc_v2_q_b_debtor" type="external">
+  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Oh__fuck_off__Don_t_push_your_" value="Oh, fuck off! Don't push your luck, fucking asshole!&#13;" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_I_m_not_an_inquiry_office__stu" value="Je ne suis pas un bureau d'enquête, un idiot stupide.Veux savoir?Tousser de l'argent." voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_You_re_gotta_be_shitting_me__Y" value="Tu dois me chier.Vous avez de la chance d'avoir oublié mes phalanges en laiton à la maison, sinon je vous fraudrais un sens." voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+</Node>

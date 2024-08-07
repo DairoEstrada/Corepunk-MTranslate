@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_logging_lesson" type="external">
+  <Key key="_npc_That_s_the_spirit__I_knew_you_" value="C'est l'idée!Je savais que tu avais la tâche d'un fine bûcheron." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Careful_with_that_axe__Only_tr" value="Prudent avec cette hache.Seuls les arbres devraient perdre des membres." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_You_re_doing_good_work__keep_i" value="Vous faites du bon travail, continuez comme ça!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_ll_carve_this_Jewelry_Wood_i" value="Je vais sculpter ce bois de bijoux dans un nain avec un particulièrement petit ... vous savez quoi." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_goalVoice_Gather_3_Tree_Roots_and_craft_" value="Rassemblez 3 racines d'arbres et élaborez-la en bois de bijoux sur le banc.Simple, non?Off Ya Go." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Gather_3_Tree_Roots_and_craft_" value="Rassemblez 3 racines d'arbres et élaborez-la en bois de bijoux sur le banc.Simple, non?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_goal_collect_resources" value="Bijouterie en bois" />
+  <Key key="_QuestActionAddToJournal_6Bjx" value="Zogar&#10;Goldenfield, près de la station-service&#10;&#10;Utilisez des racines d'arbres pour fabriquer des bijoux en bois." />
+  <Key key="_npc_Tree_Roots_to_Jewellery_Wood__" value="Racines d'arbres pour bijoux en bois, ami.Rappelez-vous les étapes." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_For_my_good_friend_Thordal_" value="Pour mon bon ami Thordal!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Here_s_a_bit_of_coin_to_get_yo" value="Voici un peu de monnaie pour vous aider à démarrer - j'espère que je te vois couper!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_You_re_officially_allowed_to_j" value="Vous êtes officiellement autorisé à se retirer ici." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+</Node>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_ilias" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Uh_well____Could_be_worse_" value="Bem ... pode ser pior." voice="Male" />
+  <Key key="_npc_Meh__I_don_t_know__I_just_hear" value="Meh, eu não sei, acabei de ouvir de um dos caras que eles constantemente são invadidos por algumas pessoas nuas da floresta.Eu me pergunto se eles têm mulheres lá ..." voice="Male" />
+  <Key key="_npc_I_uh____Ah__crap__The_hell_kno" value="Eu uh ... ah, porcaria.O inferno sabe quem eu sou mais.Costumava ser um lenhador.Mas eles não precisam mais de mim.Muito velho.Huh!Muito velho minha bunda.Eles estão apenas indo tudo ecológico.Ecologia isso, ecologia que.Eu cuspiro sobre eles, bichanos.Elan estava sempre cheia de tipos liberais de floco de neve." voice="Male" />
+  <Key key="_npc_The_Upper_Village__To_the_West" value="A vila superior.A oeste fica a estação de mana, perto da antiga floresta.Eu queria oferecer meus serviços lá, mas eles precisam de mais especialistas em mana, não marceneiros.Retardas.Sinto -me bem que os cultistas florestais estão dando -lhes tempos difíceis." voice="Male" />
+</Node>

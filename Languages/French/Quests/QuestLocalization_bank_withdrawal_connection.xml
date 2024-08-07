@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_bank_withdrawal_connection" type="external">
+  <Key key="_npc_And_hey__remember___don_t_you_" value="Et bon, rappelez-vous - ne parlez à personne de mon ingrédient secret, ou vous vous dirigez ensuite." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_So__you_want_that_piece_of_fir" value="Alors, vous voulez cet équipement classé par le feu de la voûte, hein?Eh bien, j'ai une petite tâche pour vous en retour." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Turns_out__the_vault_you_re_in" value="Il s'avère que le coffre-fort qui vous intéresse appartient à l'un des IMP que vous recherchez.Mais avant de vous aider, j'ai besoin que vous fassiez quelque chose." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_There_s_a_fellow_named_Guru_Da" value="Il y a un camarade nommé Guru David dont le compte est ... dans le noir." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_He_used_a_loan_to_purchase_som" value="Il a utilisé un prêt pour acheter des masques de jeu de rôle.Récupérez ces masques et je vous accordera l'accès à cet équipement." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_The_masks_are_specific__a_Gree" value="Les masques sont spécifiques: un masque vert, un avec des cornes orange et un masque d'oiseau rose.Il est essentiel que vous obteniez les bons." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Oh__and_if_you_can____please_w" value="Oh, et si vous le pouvez ... veuillez les laver avant de les ramener ici." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_talk_npc" value="Parlez à Oswald" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_EeRe" value="Butch O'Hara&#10;Goldenfield, près de la ferme porcine&#10;&#10;Parlez à Oswald à la Goldenfield Bank." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Hey_kid__you_talk_to_Oswald_ye" value="Hé gamin, tu parles encore à Oswald?C'est le seul gars de la ville qui aura l'équipement que vous voulez.J'espère que vous n'aurez pas à le voler pour cela, mais soyez ouvert." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

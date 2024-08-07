@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_ol_fins" type="external">
+  <Key key="_npc_Welcome__traveler_" value="Voyageur de bienvenue." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Come__for_more_fish_" value="Venez pour plus de poisson?" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Greetings__wanderer_" value="Salutations Wanderer." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ah__a_visitor_" value="Ah, un visiteur" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Fresh_catch__today_" value="Catch fraîche aujourd'hui." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_You_seek__my_secrets_" value="Vous cherchez mes secrets?" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Fish_calls_to____you_" value="Les poissons appellent ... vous." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Here_for_a_tale_" value="Ici pour une histoire?" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ah__a_new_face___" value="Ah, un nouveau visage ..." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Step_closer____if_you_re_curio" value="Approchez-vous ... si vous êtes curieux?" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+</Node>

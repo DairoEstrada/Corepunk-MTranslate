@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_robot_details_gathering" type="external">
+  <Key key="_npc_Proceed_with_gathering_essenti" value="Continuez avec la collecte d'outils essentiels et retournez rapidement." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Operational_query__have_tools_" value="Requête opérationnelle: les outils ont-ils été acquis?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Acknowledged__Tools_received__" value="Reconnu.Outils reçus.Initiation de la séquence de réparation." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Interface_indicates_successful" value="L'interface indique une réparation réussie.Jeton de passage sûr émis." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You_are_now_my_favorite_outwor" value="Vous êtes maintenant mon outworlder préféré.Toutes nos félicitations." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Maintain_vigilance__My_station" value="Maintenir la vigilance.Mon état stationnaire ne durera pas.CV Protocole de survie." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_collect_wrench" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_YgZD" value="Clé" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_hammer" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_hjZ7" value="Marteau" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_saw" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_FX4b" value="Scie" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_aiDA" value="Quadro-Sentinel 4.0&#10;Goldenfield, champs de Goldenfield.&#10;&#10;Aider le Quadro-Sentinel 4.0 brisé avec des réparations pour sécuriser une semaine de passage en toute sécurité" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Quadro_Sentinel_4_0_requires_a" value="Quadro-Sentinel 4.0 nécessite une clé et deux outils supplémentaires.Situez dans les champs de Goldenfield.Le défaut de réacquiser les outils entraînera une rétention de statut non autorisée.La rétention de statut non autorisée entraînera une mort immédiate." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

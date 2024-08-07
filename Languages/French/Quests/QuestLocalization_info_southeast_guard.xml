@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_southeast_guard" type="external">
+  <Key key="_npc_Oh__um__pardon_me__I_m_Stumpy_" value="Oh, euh, pardonnez-moi, je suis un Barris perplexe." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I__uh__used_to_be_a_farmer__bu" value="J'ai, euh, j'étais agriculteur, mais maintenant je suis ... un gardien ici." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Sorry_for_the_confusion__I_m_j" value="Désolé pour la confusion, j'essaie juste de faire mon devoir." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_always_wanted_to_be__well__a" value="J'ai toujours voulu être, eh bien, un héros, tu vois." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Not_very_good_at_it_yet__I_m_a" value="Pas encore très bon dans ce domaine, j'ai peur, mais je fais de mon mieux." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Apologies_for_the_mess__it_s_m" value="Excuses pour le désordre;C'est mon premier jour de travail." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_know_I_don_t_look_like_much_" value="Je sais que je ne ressemble pas beaucoup, mais c'est mon honneur de protéger ce village." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Sorry_if_I_m_in_your_way__but_" value="Désolé si je suis sur votre chemin, mais, euh, la sécurité d'abord, non?" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__uh__I_m____I_m_fine__thank" value="Oh, euh, je vais ... je vais bien, merci de demander." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Just_trying_to_do_my_job_here_" value="J'essaie juste de faire mon travail ici, en surveillant, tu sais?" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_It_s_my_first_day_" value="C'est mon premier jour." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Apologies_if_I_seem_a_bit_jitt" value="Excuses si je semble un peu nerveux;C'est juste ma nature." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_m_still_getting_used_to_this" value="Je m'habitue toujours à cela, euh, gardant les affaires." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_really_want_to_do_a_good_job" value="Je veux vraiment faire du bon travail, garder tout le monde en sécurité." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_But__um__yes__I_m_doing_alrigh" value="Mais, euh, oui, je vais bien.Merci pour votre préoccupation." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__um__you_re_in_Windstone_Vi" value="Oh, euh, tu es dans Windstone Village.Désolé si c'est un peu, eh bien, calme." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_It_s_a_lovely_place__really__I" value="C'est un endroit charmant, vraiment.Je veux dire, tout est si bien entretenu." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_We_have_hardworking_folks_here" value="Nous avons des gens travailleurs ici.Um, des gens vraiment dévoués." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_It_s_safe_here__I_assure_you__" value="C'est sûr ici, je vous assure!Eh bien, je fais de mon mieux pour le garder ainsi." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Uh__the_barrels__yes__they_nee" value="Euh, les barils, oui, ils ont besoin de vérifier souvent.Juste pour être sûr, désolé." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_The_brownies_and_dwarves__they" value="Les brownies et les nains, ils sont ... très gentils.Et, euh, résilient." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__um__yes__if_it_s_not_too_m" value="Oh, euh, oui, si ce n'est pas trop de problèmes." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Actually__yes__I_could_use_a_h" value="En fait, oui, je pourrais utiliser une main, désolé de vous déranger." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Yes__please__if_you_have_a_mom" value="Oui, s'il vous plaît, si vous avez un moment.Merci!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Uh__yes__there_is_something__I" value="Euh, oui, il y a quelque chose.J'apprécierais vraiment votre aide." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Yes__if_you_don_t_mind__I_mean" value="Oui, si cela ne vous dérange pas.Je veux dire, je suis en charge ici, après tout." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Absolutely__yes__Oh__and_thank" value="Absolument oui.Oh, et merci d'avance, désolé!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__yes__that_would_be_wonderf" value="Oh, oui, ce serait merveilleux.J'essaie, j'essaie de gérer les choses ici." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Yes__indeed__I_m_quite_excited" value="Oui en effet!Je suis très excité à ce sujet, désolé pour les ennuis!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__um__no_need_right_now__sor" value="Oh, euh, pas besoin maintenant, désolé!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_think_I_ve_got_things_under_" value="Je pense que j'ai des choses sous contrôle, mais merci!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_No__no__thank_you__I_m__um__ma" value="Non, non, merci.Je suis en train de gérer ici." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Appreciate_the_offer__but_I_m_" value="Appréciez l'offre, mais je suis au top, j'espère." voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Oh__not_at_the_moment__but_tha" value="Oh, pas pour le moment, mais merci beaucoup!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_m_okay_for_now__but_I_apprec" value="Je vais bien pour le moment, mais je vous remercie de vous demander!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_Not_right_now__sorry__But_than" value="Pas pour le moment, désolé!Mais merci de l'offre!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+  <Key key="_npc_I_m_fine__I_think__Just_doing_" value="Je vais bien, je pense.Je fais juste mes rondes, tu sais!" voiceSettingsId="WWTmi2Cm7ueou0ysihT7" />
+</Node>

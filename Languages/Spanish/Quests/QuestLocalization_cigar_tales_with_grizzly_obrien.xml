@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cigar_tales_with_grizzly_obrien" type="external">
+  <Key key="_npc_Ah__kid__this_is_about_to_be_m" value="Ah, chico, este está a punto de ser mi primer día sobrio en dos décadas, ¡y es aterrador!Necesito esas raíces fragantes para que vuelvan a la pista." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Now__let_me_get_back_to_my_del" value="Ahora, déjame volver a mi deliciosa bruma.Estos cigarros harán el truco." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_goal_collect_fragrant_roots" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Fragrant_Root" value="Recolectar raíz fragante" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Trust_me__these_roots_are_spec" value="Confía en mí, estas raíces son especiales.Son el secreto de mis cigarros infundidos con hierbas.Mantiene los recuerdos confusos, tal como me gustan." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Well__slap_my_knee_and_call_me" value="Bueno, bofetada la rodilla y llámame Lucy!Eres un espectáculo para los ojos sobrios." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Ah__you_re_a_lifesaver__If_I_g" value="¡Ah, eres un salvavidas!Si tengo una cabeza más clara, podría comenzar a ver mis propios errores." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Oh__and_that_story_I_was_gonna" value="Oh, ¿y esa historia te iba a contar?Yo un poco ... lo olvidé.¡Vaya!" voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Here_are_your_rewards__and_rem" value="Aquí están sus recompensas, y recuerde, ¡siempre bufe con un propósito!" voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Ah__that_s_the_ticket__Time_fo" value="¡Ah, ese es el boleto!Es hora de un buen viejo olvido ahumado." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_I_ll_need_10_of_those_roots_to" value="Necesitaré 10 de esas raíces para preparar un lote." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_In_return__I_ll_spill_the_bean" value="A cambio, derramaré los frijoles sobre la fundación de Riverrise.Es una historia que vale la pena cada bocanada." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_QuestActionAddToJournal_Grizzly_O_Brien_Riverrise__Lef" value="Grizzly O'Brien&#10;Riverrise, lado izquierdo del patio de la barra.&#10;&#10;Reúna 10 raíces fragantes para Grizzly O'Brien para poder crear sus cigarros con infusión de hierbas y compartir la historia de la fundación de Riverrise." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Don_t_keep_me_hanging__kiddo__" value="No me mantengas colgado, niño.¡Comenzaré a reminiscirme sobrio si no encuentras esas raíces fragantes pronto!" voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Guess_I_ll_be_awake_enough_to_" value="Supongo que estaré lo suficientemente despierto para recordar esa vez que luché con un oso y perdí." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_The_last_thing_I_want_is_to_st" value="Lo último que quiero es comenzar a recordar la cocina de mi ex esposa." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Without_those_cigars__I_might_" value="Sin esos cigarros, podría comenzar a recordar mis días de gloria y confiar en mí, no son tan gloriosos." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+</Node>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_dwarf_miner" type="external">
-  <Key key="_npc_Well__a_fresh_face_in_these_wo" value="Bueno, una cara fresca en estos bosques!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
-  <Key key="_npc_Did_the_rocks_lead_ya_here__to" value="¿Las rocas también te llevaron aquí?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
-  <Key key="_npc_Aye__a_fellow_wanderer_" value="Aye, a fellow wanderer!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
-  <Key key="_npc_Ready_for_a_dance_with_the_sto" value="Listo para un baile con las piedras, ¿estás?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
-  <Key key="_npc_Find_anything_rare_out_there__" value="¿Encuentra algo raro, muchacho?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
-  <Key key="_npc_The_stones_here_taste____rich_" value="Las piedras aquí saben ... rico." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
-</Node>

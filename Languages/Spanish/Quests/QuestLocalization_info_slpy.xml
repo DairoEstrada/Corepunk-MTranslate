@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_slpy" type="external">
+  <Key key="_npc_Name_s_SLPY__your_sleepy_secur" value="Nombre es Slpy, su somnoliento bot de seguridad." />
+  <Key key="_npc_I_was_designed_to_scan_newcome" value="Fui diseñado para escanear a los recién llegados y detectar problemas." />
+  <Key key="_npc_Due_to_some_odd_wiring__I_m_co" value="Due to some odd wiring, I'm constantly drowsy." />
+  <Key key="_npc_You_ll_find_me_here_at_Riverri" value="Me encontrarás aquí en Riverrise S West-South Exit." />
+  <Key key="_npc_Despite_my_perpetual_fatigue__" value="A pesar de mi fatiga perpetua, todavía estoy atento." />
+  <Key key="_npc_A_Cossack_in_appearance__but_a" value="Un cosaco en apariencia, pero un bot con un ciclo de sueño defectuoso." />
+  <Key key="_npc_Honestly__I_m_feeling_pretty_d" value="Honestly, I'm feeling pretty drowsy." />
+  <Key key="_npc_My_circuits_keep_slowing_down_" value="Mis circuitos siguen disminuyendo la velocidad, se siente como si me retrase." />
+  <Key key="_npc_Might_need_another_system_rebo" value="Podría necesitar otro reinicio del sistema pronto." />
+  <Key key="_npc_Being_sleepy_all_the_time_isn_" value="Tener sueño todo el tiempo no es ideal para un bot de seguridad." />
+  <Key key="_npc_But__hey__I_m_still_doing_my_b" value="Pero, oye, todavía estoy haciendo todo lo posible para tener en cuenta los problemas." />
+  <Key key="_npc_Just_wish_I_could_stay_awake_f" value="Solo desearía poder permanecer despierto por más de unos minutos." />
+  <Key key="_npc_Oh__this____it_s_Riverrise_" value="Oh, esto ... es rivrate." />
+  <Key key="_npc_Biggest_town_on____yawn____Whi" value="Pueblo más grande en ... bostezo ... Whisperwind Isle." />
+  <Key key="_npc_We_re_near____the_west_south_e" value="Estamos cerca ... la salida de oeste y sur." />
+  <Key key="_npc_Lots_of____newcomers_here_" value="Lots of... newcomers here." />
+  <Key key="_npc_Serene____but_sleepy_" value="Sereno ... pero con sueño." />
+  <Key key="_npc_Too_tired_to_think__Maybe_late" value="Demasiado cansado para pensar.Quizas mas tarde." />
+  <Key key="_npc_Not_now____need____rest_" value="Ahora no ... necesito ... descansar." />
+  <Key key="_npc_Appreciate_the_offer__but_I_m_" value="Aprecio la oferta, pero tengo demasiado sueño." />
+  <Key key="_npc_Can_t_focus____try_again_later" value="No puedo concentrarme ... vuelva a intentarlo más tarde." />
+  <Key key="_npc_Mmm____yeah__there_s____someth" value="Mmm ... sí, hay ... algo." />
+  <Key key="_npc_Could_use_a____tiny_bit_of_hel" value="Podría usar un ... un poco de ayuda." />
+  <Key key="_npc_Help____yes__please_" value="Ayuda ... sí, por favor." />
+  <Key key="_npc_Got_a_task____just_need_to_foc" value="Tengo una tarea ... solo necesito concentrarme." />
+</Node>

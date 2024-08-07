@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_suspenders_red_cap" type="external">
+  <Key key="_npc_I_m_Big_Baz__the_forest_s_fine" value="Je suis Big Baz, le meilleur pourvoyeur de plaisirs et de particularités de la forêt." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Used_to_be_a_farmer__but_that_" value="Auparavant, agriculteur, mais ça a fait de la vieille putain de putain de vite." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Lotta_people_call_me_a_pervy__" value="Les gens de Lotta m'appellent un pervers, solitaire, bizarre, mais les affaires sont boomin '." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_You_re_uh____like_the_20th_per" value="Tu es euh ... comme la 20e personne pour s'arrêter aujourd'hui." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Tell_your_friends_I_m_out_here" value="Dites à vos amis que je suis ici." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Oh__just_sold_my_own_shirt__Th" value="Oh, je viens de vendre ma propre chemise.C'est ainsi que vous pouvez dire que je suis un homme d'affaires sérieux." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_It_s_getting_a_bit_breezy__but" value="Ça devient un peu venteux, mais qui a besoin de vêtements dans ces bois, non?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Plus__it_s_a_great_way_to_show" value="De plus, c'est un excellent moyen de montrer les marchandises." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Not_that_many_people_are_aroun" value="Pas beaucoup de gens sont là pour les voir ..." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Welcome_to_Big_Baz_s_Pleasure_" value="Bienvenue au Big Baz's Pleasure Palace!" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc__Course__we_got_your_everyday_" value="«Bien sûr, nous avons eu vos affaires de tous les jours, mais beaucoup de packages uniques ... aussi." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Want_a_fresh_catch_from_the_ri" value="Vous voulez une nouvelle prise de la rivière?Vous cherchez un artefact des bois?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Maybe_you_re_just_looking_for_" value="Peut-être que vous en cherchez juste ... du bois frais." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_My_customers_get_all_this_for_" value="Mes clients obtiennent tout cela à un prix bas et bas!" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Got_a_little_something_that_ne" value="J'ai un petit quelque chose qui a besoin ... de manipulation." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Got_a_special_job_that_require" value="J'ai un travail spécial qui nécessite un certain ... contact." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_You_trying_to_hit_on_me_" value="Tu essaies de me frapper?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Up_for_some_high_paying__perso" value="Pour un travail personnel haut rémunéré?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Got_a_job_that_might_suit_your" value="J'ai un emploi qui pourrait convenir à vos ... talents." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Guess_I_m_not_the_only_one_for" value="Je suppose que je ne suis pas le seul à vendre ..." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_I_could_use_some____hands_on_h" value="Je pourrais utiliser une aide pratique." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_You_trying_to_get_personal_" value="Vous essayez de devenir personnel?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_You_look_like_you_can_handle_a" value="Vous semblez que vous pouvez gérer un travail difficile." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Got_a_tricky_problem_that_need" value="J'ai un problème délicat qui a besoin ... une attention particulière." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Nah__big_guy_like_me_can_handl" value="Non, un grand gars comme moi peut se gérer." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Got_everything_I_need____unles" value="J'ai tout ce dont j'ai besoin ... à moins que vous n'offrez quelque chose de plus." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_No_need_for_help____unless_you" value="Pas besoin d'aide ... sauf si vous restez en dessert." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_I_m_juggling_enough_clients_as" value="Je jongle avec suffisamment de clients tels quels." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_I_m_already_neck_deep_in_propo" value="Je suis déjà au cou dans les propositions." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_I_m_good_for_now__but_you_re_w" value="Je suis bon pour le moment, mais vous êtes les bienvenus à regarder." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Appreciate_the_offer__but_I_m_" value="Appréciez l'offre, mais je suis bien pris en charge." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub4_duel" type="external">
+  <Key key="_goal_go_duel" value="Derrote o gato" />
+  <Key key="_QuestActionAddToJournal_8scN" value="Derrote o gato" />
+  <Key key="_npc_Privet" value="Oi" voice="Female" />
+  <Key key="_goalVoice_dYOT" value="Fale com a caçadora" voice="Female" />
+  <Key key="_goal_end_quest" value="Fale com a caçadora" />
+  <Key key="_QuestActionAddToJournal_5PT2" value="Fale com a caçadora" />
+  <Key key="_npc_Molodets" value="Bom trabalho" voice="Female" />
+  <Key key="_npc_Ty_ne_spravilsya__poprobuy_eshche_" value="Você falhou, tente novamente" voice="Female" />
+</Node>

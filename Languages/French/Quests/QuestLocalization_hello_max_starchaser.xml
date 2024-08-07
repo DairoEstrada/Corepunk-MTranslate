@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_max_starchaser" type="external">
+  <Key key="_npc_Oh__another_admirer_" value="Oh, un autre admirateur?" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Sorry__busy_here_" value="Désolé, occupé ici." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Oh__you_again_" value="Oh, toi encore." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Can_t_you_see_I_m_occupied_" value="Ne voyez-vous que je suis occupé?" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Seriously__do_you_think_you_ha" value="Sérieusement, pensez-vous que vous avez une chance?" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Move_along__uggo_" value="Déplacez-vous, uggo." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Oh__admiring_my_charm_" value="Oh, admirer mon charme?" voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+  <Key key="_npc_Not_now__fan_" value="Pas maintenant, fan." voiceSettingsId="38LwQEdzxF26vaBprVMq" />
+</Node>

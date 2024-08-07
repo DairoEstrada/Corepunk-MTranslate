@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_killig_creatures_field_robot" type="external">
+  <Key key="_npc_Affirmative__Proceed_with_the_" value="Affirmative.Procéder à la mission." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Progress_report__human_" value="Rapport d'étape, humain." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Mission_accomplished__Well_don" value="Mission accomplie.Bien joué." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Your_efforts_have_ensured_the_" value="Vos efforts ont assuré la sécurité de Goldenfield." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_As_a_reward__I_will_continue_t" value="En récompense, je continuerai à vous permettre de respirer." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Also__I_will_dispense_the_expe" value="De plus, je dispenserai le paiement attendu." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_kill_mobs" value=" " />
+  <Key key="_goalVoice_You_must_eliminate_100_Boar_Ma" value="Vous devez éliminer 100 mammouths de sanglier des champs environnants.La sécurité de la ville - et de votre vie - en dépend." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_QuestActionAddToJournal_HX9p" value="Quadro-Sentinel 4.1&#10;Goldenfield, près&#10;&#10;Aider Quadro-Sentinel 4.1 à maintenir la sécurité à Goldenfield en éliminant les menaces locales." />
+  <Key key="_varDescription_bd7e" value="Tuer du sanglier" voiceSettingsId="Barkley_Beats" />
+  <Key key="_assistant_phrase_g3dy" value="Il semble que vous soyez très inefficace à tuer.Pour réduire les frictions, l'objectif est passé à seulement 10 ennemis.Vous pouvez peut-être terminer cela dans les 10 prochaines décennies." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goalVoice_The_goal_has_changed_to_only_1" value="Le but est passé à seulement 10 ennemis.Vous pouvez peut-être terminer cela dans les 10 prochaines décennies." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

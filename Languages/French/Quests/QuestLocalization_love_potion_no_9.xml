@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_love_potion_no_9" type="external">
+  <Key key="_npc_Good__Now_move_it_" value="Bien.Maintenant, déplacez-le." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_goal_collect_fragrant_root" value=" " />
+  <Key key="_varDescription_Collect_Fragrant_Roots" value="Collectionner les racines parfumées" />
+  <Key key="_QuestActionAddToJournal_Spade_Riverrise__Minibar_in_th" value="Bêche&#10;Riverise, minibar dans la partie supérieure.&#10;&#10;Aidez Spade à rassembler l'ingrédient clé pour créer une potion d'amour pour son braquage à enjeux élevés." />
+  <Key key="_goalVoice_I_need_those_10_Fragrant_Roots" value="J'ai besoin de ces 10 racines parfumées.Dépêche-toi.Ils maire - euh, l'homme - seront bientôt là." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_I_m_beginning_to_think_I_was_s" value="Je commence à penser que j'étais levé." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Finally__Give_them_here_" value="Enfin.Donnez-les ici." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Here_s_your_cut__Now_I_m_off_t" value="Voici votre coupe.Maintenant, je suis parti pour le trouver et le faire payer." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Money__This_isn_t_about_money_" value="Argent?Ce n'est pas une question d'argent.Il s'agit de se venger." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Fine__you_really_want_to_help_" value="Très bien, tu veux vraiment aider ?!J'ai besoin d'une potion d'amour pour mon rendez-vous." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_I_m_missing_one_key_ingredient" value="Il me manque un ingrédient clé: racine parfumée.Apportez-moi 10." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Do_this__and_I_ll_reward_you_h" value="Faites cela, et je vous récompenserai généreusement.Maintenant, n'interrompez pas mon objectif." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Quit_bothering_me_" value="Arrêtez de me déranger." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Either_help_or_get_lost_" value="Aide ou se perdre." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_You_re_wasting_my_time_" value="You're wasting my time." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+</Node>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_monochrome_gardening_goldenfield" type="external">
+  <Key key="_goal_use_objects" value=" " />
+  <Key key="_sys_msg_J4i7" value="L'inventaire est complet." />
+  <Key key="_npc_Requesting_update__Weed_task_s" value="Demande de mise à jour: l'état de la tâche des mauvaises herbes." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Thank_you_for_such_kindness__F" value="Merci pour cette gentillesse.Ami." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_And_one_will_not_interfere_nor" value="Et on n'interférera ni ne distraire.L'espèce rouge doit rester intacte.Les violets doivent être retirés." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_varDescription_HRBX" value="Tirez les mauvaises herbes" />
+  <Key key="_QuestActionAddToJournal_bx1p" value="Clignoter&#10;Goldenfield, à l'ouest de la cuisine de bien-être&#10;&#10;Sortez les espèces de mauvaises herbes violettes.Les espèces rouges doivent rester intactes.Il est important de ne pas les mélanger." />
+  <Key key="_goalVoice_If_someone_pulled_out_the_viol" value="Si quelqu'un retirait les espèces de mauvaises herbes violettes, on pourrait prouver son utilité et donc prolonger son existence.L'espèce rouge doit rester intacte.Les violets doivent être retirés." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Inquiring_user_progress__Have_" value="Inviter les progrès des utilisateurs: toutes les mauvaises herbes violettes ont-elles été supprimées?" voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_User_contribution_detected__Mo" value="Contribution de l'utilisateur détecté.Surveillance des progrès des tâches ..." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Your_actions_have_amplified_th" value="Vos actions ont amplifié le coefficient de confiance dans la programmation.La gratitude est en ordre." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_One_sees_that_Sir_Madame_has_p" value="On voit que Sir / Madame s'est retiré ... certaines espèces végétales.On ne pouvait pas distinguer les mauvaises herbes en dehors des précieuses plantes, mais on choisit d'être confiance." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

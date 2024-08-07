@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_alex_hooty_howitzer" type="external">
+  <Key key="_npc_Name_s_Alex__Hooty__Howitzer__" value="Nome é Alex &quot;Hooty&quot; obus, mas você pode me chamar de Hooty." />
+  <Key key="_npc_I_m_a_living_legend__or_so_the" value="I'm a living legend, or so they say, known for my explosive talents." />
+  <Key key="_npc_Had_a_run_in_with_a_horde_of_i" value="Tivemos um confronto com uma horda de diplomas uma vez, pensei que era o fim." />
+  <Key key="_npc_Set_off_my_rocket_launcher_to_" value="Parte do meu lançador de foguetes para salvar o dia, imaginei que eu cairia em chamas." />
+  <Key key="_npc_Somehow_walked_away_in_one_pie" value="De alguma forma, foi embora em uma peça.Agora estou guardando este obstáculo." />
+  <Key key="_npc_My_buddy_Colt__Muffinman__McCr" value="Meu amigo &quot;Muffinman&quot; McCrady e eu ficamos de olho em problemas." />
+  <Key key="_npc_I_started_calling_him__Muffinm" value="Comecei a chamá -lo de &quot;Muffinman&quot; quando ele pegou um impão enquanto come um muffin ..." />
+  <Key key="_npc_Want_to_hear_a_story_about_the" value="Quer ouvir uma história sobre o tempo que Muffinman quase me atirou onde o sol não brilha?" />
+  <Key key="_npc_Never_been_better__always_got_" value="Nunca foi melhor, sempre me de olho em novas ameaças." />
+  <Key key="_npc_Standing_guard_here_at_the_roa" value="A guarda aqui no obstáculo nos arredores do Riverrise me mantém ocupado." />
+  <Key key="_npc_Plenty_of_time_to_swap_stories" value="Muito tempo para trocar histórias com o Colt e manter o local seguro." />
+  <Key key="_npc_Some_days_are_quiet__others_we" value="Alguns dias são silenciosos, outros que temos todo o tipo de pessoas estranhas passando." />
+  <Key key="_npc_Keeps_it_interesting__you_know" value="Mantém interessante, sabe?Nunca um momento de maçante guardando a estrada." />
+  <Key key="_npc_This_is_the_roadblock_just_out" value="Este é o obstáculo nos arredores do rio." />
+  <Key key="_npc_Riverrise_is_the_biggest_city_" value="RiverRise é a maior cidade do mundo." />
+  <Key key="_npc_Full_of_crafters_and_hardworki" value="Cheio de artesãos e pessoas trabalhadoras.Bom lugar para obter suprimentos." />
+  <Key key="_npc_We_re_here_to_keep_the_road_sa" value="Estamos aqui para manter a estrada protegida de qualquer perigo." />
+  <Key key="_npc_Between_the_stories_and_the_pa" value="Entre as histórias e as patrulhas, temos esse lugar coberto." />
+  <Key key="_npc_Nah__got_things_under_control_" value="Nah, tenho as coisas sob controle por enquanto." />
+  <Key key="_npc_We_re_all_set_here__but_thanks" value="Estamos todos prontos aqui, mas obrigado por perguntar." />
+  <Key key="_npc_Appreciate_the_offer__but_we_r" value="Agradeço a oferta, mas estamos bem." />
+  <Key key="_npc_Not_much_needing_done_at_the_m" value="Não é necessário fazer muita coisa no momento." />
+  <Key key="_npc_Got_it_handled_for_now__pal_" value="Consegui o manuseio por enquanto, amigo." />
+  <Key key="_npc_Actually__yeah__got_something_" value="Na verdade, sim, conseguiu algo com o qual você possa ajudar." />
+  <Key key="_npc_Could_use_a_hand_if_you_re_wil" value="Poderia usar uma mão se você estiver disposto." />
+  <Key key="_npc_Always_room_for_another_set_of" value="Sempre espaço para outro conjunto de mãos." />
+  <Key key="_npc_Sure_thing__I_ve_got_a_task_fo" value="Claro, eu tenho uma tarefa para você." />
+  <Key key="_npc_If_you_re_up_for_it__I_ve_got_" value="Se você está pronto para isso, tenho algo que precisa fazer." />
+</Node>

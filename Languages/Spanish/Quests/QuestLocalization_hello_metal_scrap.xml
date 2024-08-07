@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_metal_scrap" type="external">
+  <Key key="_npc_KEEP_AWAY_" value="¡MANTÉNGASE ALEJADO!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Greetings__FRESH_MEAT_" value="Saludos, carne fresca." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_You_AGAIN_" value="¿Tú otra vez?" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Welcome___" value="Welcome..." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_BACK_OFF_" value="¡APÁRTATE!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Keep_your_distance_" value="¡Mantén tu distancia!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_You_smell_that__BOOM_" value="Hueles eso?¡AUGE!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Don_t_SNEAK_up_" value="¡No te escabulles!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Tick_tock_tick_tock___" value="Tick-Tock Tick-Tock ..." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Buyin__a_bomb_" value="¿Comprar 'una bomba?" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+</Node>

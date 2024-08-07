@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_guard" type="external">
+  <Key key="_npc_Go_to_our_forensic_artist_and_" value="Allez chez notre artiste médico-légal et prenez les affiches recherchées.Ils devaient être prêts maintenant." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_goal_use_item" value="Mettez les affiches recherchées sur les planches de la ville" />
+  <Key key="_goal_end_quest" value="Parler au gardien en chef" />
+  <Key key="_QuestActionAddToJournal_CaSL" value="J'ai fait ce que je devais.Je dois maintenant parler au chef de la garde." />
+  <Key key="_QuestActionAddToJournal_AzPh" value="J'ai fait ce que je devais.Je dois maintenant parler au chef de la garde." />
+  <Key key="_QuestActionAddToJournal_LRz0" value="J'ai fait ce que je devais.Je dois maintenant parler au gardien en chef." />
+  <Key key="_npc_Listen__If_you_want_to_avoid_e" value="Écouter!Si vous souhaitez éviter des chèques supplémentaires et des suspicions sans fondement, nous pouvons nous aider mutuellement." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_npc_Then__put_up_those_posters_aro" value="Ensuite, mettez ces affiches dans le village et vous obtiendrez ce que vous êtes venu." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_npc_Well_done__Here_s_your_dossier" value="Bien joué!Voici votre dossier.Propre .. du moins pour l'instant." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_goalVoice_IZrL" value="Nous devons le trouver et juger par les lois locales.Il n'y a qu'un seul roi à Elan!Vive sa majesté le roi!Alors, mettez ces trois affiches recherchées dans le village et vous obtiendrez le dossier parfait." voice="Female" />
+  <Key key="_npc_We_need_to_catch_and_subject_h" value="Nous devons l'attraper et le soumettre à des lois locales.Il n'y a qu'un seul roi à Elan!Tout le monde doit le savoir!" voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_npc_Last_week__there_was_an_incide" value="La semaine dernière, il y a eu un incident sur la place centrale.Le chanteur invité s'est appelé le roi!Freak fou!" voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_goal_take_posters" value="Obtenez les affiches recherchées" />
+  <Key key="_npc_Welp__that_ll_do__Here_you_go_" value="Welp, ça fera l'affaire.Voici." voice="Male" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_QuestActionAddToJournal_eqEE" value="Prendre des affiches" />
+  <Key key="_npc_The_wanted_posters_of_a_fake_k" value="Est venu pour les affiches recherchées, Bud?Ouais, &quot;Il se trouve que nous avons manqué de papier.Apparemment, notre collègue en avait besoin pour nous donner toutes ses MST." voice="Male" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_QuestActionAddToJournal_IWuj" value="Je dois mettre des affiches recherchées qui représentent quelqu'un qui prétend être King, ce qui est une infraction pénale la plus élevée." />
+  <Key key="_varDescription_dthS" value="Affiches" />
+  <Key key="_QuestActionAddToJournal_9PsC" value="L'artiste de croquis dit qu'il n'a plus de papier pour imprimer la tasse du criminel.Signifie, vous devrez élaborer le papier de soie vous-même.Vous devrez trouver du bois de cœur pour cela et utiliser la table d'artisanat d'un bûcheron." />
+  <Key key="_npc_Come_back_when_you_re_done__Yo" value="Revenez quand vous avez terminé.Vous pouvez trouver les tableaux de presse en sortant du village." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_npc_Well__I_can_t_make_paper_from_" value="Eh bien, théoriquement, vous pourriez le faire vous-même.Le simple fait d'obtenir du bois de cœur et de le mettre dans la table d'artisanat pour obtenir du papier de soie ne devrait pas être trop difficile, n'est-ce pas?" voice="Male" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_You_know__like____Save_the_dat" value="Vous savez, comme ... Save-the-Date.Oui, le gars se marie.Quoi qu'il en soit, il ne nous reste plus de papier pour faire notre vrai travail." voice="Male" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_For_you__of_course__Me__I_have" value="Pour vous, bien sûr.Moi, j'ai des choses plus importantes à faire.Le gars m'a demandé de donner ses MST à tous nos collègues, alors ..." voice="Male" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+</Node>

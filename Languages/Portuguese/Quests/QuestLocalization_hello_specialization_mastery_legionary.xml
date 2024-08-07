@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_specialization_mastery_legionary" type="external">
+  <Key key="_npc_I_love_the_smell_of_blood_in_t" value="Eu amo o cheiro de sangue pela manhã!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_How_far_do_you_think_I_could_t" value="Até onde você acha que eu poderia te jogar?" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Sometimes__I_may_steal_my_part" value="Sometimes, I may steal my party members' glory... On accident!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_The_key_is_to_have_iron_skin__" value="A chave é ter pele de ferro, então nada pode machucá -lo." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Another_strong_warrior_that_wi" value="Outro guerreiro forte que fará um bom legionário!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+</Node>

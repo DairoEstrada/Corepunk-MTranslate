@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_collect_bottles" type="external">
+  <Key key="_npc_I_knew_I_could_count_on_you__B" value="Je savais que je pouvais compter sur toi!Soyez prudent là-bas." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Grab_those_blue_bottles_and_co" value="Prenez ces bouteilles bleues et revenez en sécurité." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Did_you_manage_to_get_those_bl" value="Avez-vous réussi à obtenir ces bouteilles bleues?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Excellent_work__These_bottles_" value="Excellent travail!Ces bouteilles sont exactement ce dont nous avions besoin." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Here_s_your_reward__as_promise" value="Voici votre récompense, comme promis." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_ll_keep_half_the_pieces__and" value="Je vais garder la moitié des pièces et envoyer le reste en cliquet." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Try_not_to_expose_yourself_to_" value="Essayez de ne pas vous exposer à plus de rayonnement cette semaine, oui?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Can_t_be_good_for_your_mental_" value="Je ne peux pas être bon pour votre santé mentale." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_NnXk" value="Bouteilles bleues collectées" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_8V5t" value="Griz Turner&#10;Goldenfield, près de la boutique d'artefacts&#10;&#10;Aidez Griz Ironfoot à récupérer les fragments d'artefacts cruciaux de la zone des déchets toxiques dans la forêt de Dusktide." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Find_five_Little_Blue_Bottles_" value="Trouvez cinq petites bouteilles bleues dans la zone des déchets toxiques de la forêt de Dusktide.Soyez prudent du liquide vert et huileux.C'est amical." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

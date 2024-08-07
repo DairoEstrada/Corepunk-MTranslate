@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_felix" type="external">
+  <Key key="_npc_Hellooooo__friend_" value="Helloooooo, ami!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Welcoooome_" value="Welcooooome!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Heeeeey_there_" value="HEeeeey là-bas!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Strum_along_" value="Strum le long!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Notes__friend__Notes_" value="Notes, ami!Remarques!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Can_we_chord_ially_chat_" value="Pouvons-nous discuter de la corde et de la direction?" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Oh__hi__melody_seeker_" value="Oh, salut, Melody Seeker." voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Ugh____hey____another_tune_" value="Ugh ... hey ... un autre morceau?" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Hit_me_with_a_harmony_" value="Frappez-moi avec une harmonie!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Gonna_keep_this_short__hi_" value="Je vais garder cela court: Salut." voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+</Node>

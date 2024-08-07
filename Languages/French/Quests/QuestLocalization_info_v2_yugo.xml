@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_yugo" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Hm___" value="HM ..." voice="Male" />
+  <Key key="_npc_What_does_it_look_like___s_a_t" value="What does it look like? 's a town. Listen, you want to talk, you talk to someone else. I'm not a guide for you, outworlders." voice="Male" />
+  <Key key="_npc_What_s_in_it_for_you__bugger__" value="Qu'y a-t-il pour vous, Bugger?Yugo.Nom's Yugo." voice="Male" />
+</Node>

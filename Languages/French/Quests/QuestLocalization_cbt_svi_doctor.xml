@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_doctor" type="external">
+  <Key key="_npc_Privet" value="Si vous voulez rester ici, vous devez obtenir la photo.Et je ne vais pas faire le vaccin de sitôt, donc vous devrez le fabriquer vous-même." voice="Male" />
+  <Key key="_goal_craft_item" value="Cramponner un vaccin" />
+  <Key key="_QuestActionAddToJournal_XCNm" value="Pour obtenir une conclusion de non-infectiosness, je dois faire mon propre vaccin et prendre les coups." />
+  <Key key="_goal_use_item" value="Utilisez le vaccin" />
+  <Key key="_goal_end_quest" value="Parler au médecin" />
+  <Key key="_QuestActionAddToJournal_h5rs" value="J'ai pris les coups.Se sentir étourdi.Je dois parler au médecin maintenant." />
+  <Key key="_npc_Vau" value="Tous vaccinés?Laisse-moi te regarder.Cornifères rouges, lèvres sèches, membres gonflants.Ouais.Fonctionnait parfaitement.Voici votre certificat.Maintenant, sortez déjà de l'enfer d'ici." voice="Male" />
+  <Key key="_npc_Here_you_go__The_recipe__Craft" value="Here’s the recipe. Craft the vaccine—you can use my crafting table. The ingredients are outside of town.&#13;" voice="Male" />
+  <Key key="_npc_You_know_where_to_find_me_" value="Tu sais où me trouver." voice="Male" />
+  <Key key="_npc_Nice__See_ya__Bye_" value="Yeah. Bye. Ta-ta." voice="Male" />
+  <Key key="_goalVoice_ByPI" value="Voici.La recette.Créez l'injecteur, vous pouvez utiliser ma table d'artisanat.Tous les ingrédients sont dans la poitrine ici.Prenez un coup de feu, puis parlez-moi si vous pouvez le faire.Bonne chance." voice="Male" />
+  <Key key="_npc_Okh_ty_tak_i_ne_nashol" value="Yeah? Found the plants?&#13;" voice="Male" />
+  <Key key="_npc_Tam_v_yashchike" value="Gee, vous êtes les pires.Très bien, prenez les ingrédients de ma réserve." voice="Male" />
+  <Key key="_npc_molodets" value="D'accord.Maintenant, faites le vaccin et donnez-vous la photo." voice="Male" />
+  <Key key="_npc_Listen__stop_bothering_me__I_s" value="Écoutez, arrêtez de me déranger.Je t'ai vu ouvrir ma poitrine.Arrêtez de vous tromper.Faites simplement le vaccin et prenez le putain de coup.Je n'ai pas le temps pour ça." voice="Male" />
+  <Key key="_npc_Inject_yourself__then_speak_to" value="Injectez-vous, puis parlez-moi si vous êtes toujours capable.Bonne chance." voice="Male" />
+  <Key key="_npc_They_re_in_the_chest_right_the" value="Ils sont dans la poitrine juste là.Parlez-moi lorsque vous avez fait le vaccin et pris le coup." voice="Male" />
+  <Key key="_npc_Why_bother_me_then_" value="Pourquoi me déranger alors?" voice="Male" />
+</Node>

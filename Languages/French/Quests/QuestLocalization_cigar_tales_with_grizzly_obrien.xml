@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cigar_tales_with_grizzly_obrien" type="external">
+  <Key key="_npc_Ah__kid__this_is_about_to_be_m" value="Ah, gamin, c'est sur le point d'être ma première journée sobre en deux décennies, et c'est terrifiant!J'ai besoin de ces racines parfumées pour me ramener sur la bonne voie." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Now__let_me_get_back_to_my_del" value="Maintenant, laissez-moi revenir à ma délicieuse brume.Ces cigares feront l'affaire." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_goal_collect_fragrant_roots" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Fragrant_Root" value="Collectionner la racine parfumée" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Trust_me__these_roots_are_spec" value="Croyez-moi, ces racines sont spéciales.Ils sont le secret de mes cigares infusés aux herbes.Gardez les souvenirs flous, comme je les aime." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Well__slap_my_knee_and_call_me" value="Eh bien, me gifle le genou et appelle-moi Lucy!Vous êtes un spectacle pour les yeux sobres." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Ah__you_re_a_lifesaver__If_I_g" value="Ah, tu es une bouée de sauvetage!Si j'obtiens une tête plus claire, je pourrais commencer à voir mes propres erreurs." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Oh__and_that_story_I_was_gonna" value="Oh, et cette histoire j'allais te raconter?Je suis un peu ... oublié.Oups!" voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Here_are_your_rewards__and_rem" value="Voici vos récompenses, et rappelez-vous, toujours gonflé avec un but!" voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Ah__that_s_the_ticket__Time_fo" value="Ah, c'est le billet!Il est temps pour un bon vieux oubli fumé." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_I_ll_need_10_of_those_roots_to" value="J'aurai besoin de 10 de ces racines pour préparer un lot." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_In_return__I_ll_spill_the_bean" value="En retour, je renverserai les haricots sur la fondation de RiverRise.C'est une histoire qui vaut chaque bouffée." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_QuestActionAddToJournal_Grizzly_O_Brien_Riverrise__Lef" value="Grizzly O'Brien&#10;Riverise, côté gauche de la cour du bar.&#10;&#10;Rassemblez 10 racines parfumées pour Grizzly O'Brien afin qu'il puisse fabriquer ses cigares infusés aux herbes et partager l'histoire de la fondation de Riverrise." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Don_t_keep_me_hanging__kiddo__" value="Ne me gardez pas suspendu, gamin.Je vais commencer à se remémorer sobre si vous ne trouvez pas ces racines parfumées bientôt!" voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Guess_I_ll_be_awake_enough_to_" value="Je suppose que je serai assez éveillé pour me souvenir de cette fois où j'ai lutté un ours et perdu." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_The_last_thing_I_want_is_to_st" value="La dernière chose que je veux, c'est commencer à se souvenir de la cuisine de mon ex-femme." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Without_those_cigars__I_might_" value="Sans ces cigares, je pourrais commencer à me souvenir de mes jours de gloire et croyez-moi, ils ne sont pas si glorieux." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+</Node>

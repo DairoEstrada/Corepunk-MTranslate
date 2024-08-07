@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_main_next_lessons" type="external">
+  <Key key="_npc_Maybe_if_you_help_some_of_them" value="Peut-être que si vous aidez certains d'entre eux, nous pouvons les amener à garantir pour vous avec Zugg!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_letter_thanks" value=" " />
+  <Key key="_varDescription_JuH7" value="Lettre de remerciement" />
+  <Key key="_QuestActionAddToJournal_d7xX" value="Martha &quot;Big Mamma&quot; Potterson&#10;Goldenfield, près de la cuisine du bien-être&#10;&#10;Martha veut que vous mettiez les compétences commerciales que vous avez apprises à travailler en aidant diverses personnes dans le village." />
+  <Key key="_goal_help_quadro" value="Aide quadro-Sentinel 4.0" />
+  <Key key="_goal_help_greta" value="Aider Greta Grubb" />
+  <Key key="_goal_help_griz" value="Aide Griz Turner" />
+  <Key key="_goal_help_paddy" value="Aider Paddy O'lantern" />
+  <Key key="_goal_help_oswald" value="Aider Oswald" />
+  <Key key="_goal_help_zoltar" value="Aider Zoltar Blipchain" />
+  <Key key="_goal_help_berg" value="Aider Berg Stonefoot" />
+  <Key key="_goalVoice_People_around_here_might_hate_" value="Les gens ici peuvent vous détester, mais ils ne sont pas pour refuser de l'aide gratuite.Allez demander autour de tout voir ce que vous pouvez faire pour eux, d'accord?Rien de sexuel cependant - et croyez-moi, ils demanderont." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_help_kicheki" value="Aider Kicheki" />
+  <Key key="_goal_help_jahri" value="Aidez les racines de Jahri" />
+  <Key key="_goal_help_mortimer" value="Aide Mortimer Gloomsworth" />
+  <Key key="_assistant_phrase_I2dh" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_MIVM" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_82hi" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_6j9d" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_SFc1" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_9pED" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_5iVc" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_LFEv" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_TYb7" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Ljc1" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_JaCM" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_bgvQ" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_8YX1" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Metq" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_J3sy" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_PA7M" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_W7NC" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_hRqR" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_DFEt" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_5aTH" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_H8iU" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_cGvy" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Sqvs" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_hE7d" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_PV3v" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_RX4e" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_5JRQ" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_4T0N" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_8Vr8" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_VH7F" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_GWP6" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_6tMk" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Ybrp" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_HbZ0" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_I0bC" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Kc0u" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_dVRI" value="C'est tout de l'em!Si Zugg vous déteste toujours après cela, eh bien ... je ne serai pas surpris, mais peut-être qu'il va céder à la pression." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_eMRd" value="Oh, beau travail chérie!Je pense que vous avez vraiment changé l'esprit de ce raciste.Peut être.Sorte de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_9dxH" value="Ce gars vous déteste vraiment un peu moins qu'avant!Eh bien ... peut-être que je peux les payer pour ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Fi81" value="Un de plus!Et ... Oh, qu'est-ce que c'est?Désolé ma chérie, la cuisine d'urgence.Ne vous faites pas tuer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_You_know__world_around_town_is" value="Vous savez, le monde de la ville est assez pratique.Mais écoutez, rien n'est gratuitement ici." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Your_paperwork_s_tied_up__and_" value="Vos documents sont liés et je n'ai déjà dit pas une seule fois.Mais peut-être qu'il y a quelque chose que nous pouvons déterminer." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_One_of_my_cl__er__brothers__ha" value="Un de mes Cl- er, Brothers, a disparu.Un particulièrement stupide." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_He_was_supposed_to_deliver_som" value="Il était censé livrer des générateurs, mais il a écrasé la navette.Ce stupide déclenche son alarme." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_If_you_want_your_paperwork_don" value="Si vous voulez faire vos documents, vous allez dans la forêt et trouverez mon frère, hein?" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Look__honey___you_put_in_the_w" value="Regardez, chérie - tu as mis le travail.Si Zugg ne peut pas gérer cela, il va devoir répondre à Big Mamma!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_talk_zugg" value="Parlez à Zugg Clankwhistle" />
+</Node>

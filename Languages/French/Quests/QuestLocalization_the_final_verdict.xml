@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_final_verdict" type="external">
+  <Key key="_npc_Well__I_guess_someone_else_wil" value="Eh bien, je suppose que quelqu'un d'autre devra faire ce qui est bon pour Elan et ses gens." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_goal_talk_npc" value="Apportez la convocation de Brawny à Triton" />
+  <Key key="_npc_Backing_out_now__Might_as_well" value="Reculer maintenant?Autant défendre Triton!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Skipping_out__huh__Guess_you_h" value="Sauter, hein?Je suppose que vous avez plus en commun avec Triton que je ne le pensais.Baby Eater!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_goalVoice_C_mon__haven_t_you_nailed_Trit" value="Allez, vous n'avez pas encore cloué Triton avec cette convocation?Cette face de poisson se prélasse toujours près de la maison du lac à Windreach Woods.Passez à autre chose!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Anyway__take_this_summons_over" value="Quoi qu'il en soit, prenez cette assignation à Triton.Vous avez de la chance que vous puissiez le regarder se tortiller.J'aimerais pouvoir être là pour voir le regard sur son visage stupide!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_You_know__I_ve_always_hated_hi" value="Vous savez, je le détestais toujours, j'aimerais pouvoir faire frire un poisson et cuisiner cette baise grasse!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_I_ll_bet_Triton_s_gonna_freak_" value="Je parie que Triton va paniquer à ce sujet.Probablement s'étouffer sur un gargarisme ou quelque chose comme ça." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Well__wouldn_t_you_know_it__we" value="Eh bien, ne le sauriez-vous pas, nous avons finalement recueilli suffisamment de preuves pour clouer ce monstre de poisson." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Here__take_thing_you_need__Tri" value="Ici, prenez ce dont vous avez besoin.Triton heureux, tu es heureux.Nous mangeons tous de la joie aujourd'hui!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Hahaha__Triton_win__Close_to_e" value="Hahaha!Triton Win!Près de manger la victoire!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_QuestActionAddToJournal_Baxton__Skip__Malroth_Windston" value="Baxton &quot;sauter&quot; malroth&#10;Windstone Village, Place de Guard: West.&#10;&#10;Licez la convocation juridique finale à Triton." />
+  <Key key="_npc_So__justice_isn_t_your_thing__" value="Alors, la justice n'est pas votre truc, hein?Vous êtes aussi coupable que Triton!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_They_take_Triton_to_court__Tri" value="Ils emmènent Triton devant les tribunaux, Triton les détruise!Triton embauche le meilleur avocat à Elan!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Ohh__paper_like_bread_to_Trito" value="Ohh, du papier comme du pain à la faim de Triton!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_bring_paper__Triton_must_s" value="Vous apportez du papier?Triton doit voir!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Perfect__Let_s_see_that_fish_f" value="Parfait!Voyons que Fish-Face essayait de sortir de celui-ci!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+</Node>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_soko_uno" type="external">
+  <Key key="_npc_You_seriously_don_t_know_who_I" value="¿En serio no sabes quién soy?" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_I_m_Soko_Uno__the_next_goddamn" value="Soy Soko Uno, la próxima maldita superestrella." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Unbelievable__Do_you_live_unde" value="¡Increíble!¿Vives debajo de una roca?" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Once_I_m_done_today__you_ll_ne" value="Una vez que termine hoy, nunca olvidará mi nombre." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_I_m_fantastic__Today_s_the_day" value="¡Soy fantastico!Hoy es el día, puedo sentirlo." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Cherry_s_stepping_down_and_I_m" value="Cherry s renunciando y estoy tomando la delantera, bebé!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Not_that_the_rest_of_the_band_" value="No es que el resto de la banda se dé cuenta todavía, pero pronto lo harán." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_I_ve_prepared_for_this_moment_" value="Me he preparado para este momento toda mi vida, y nada me va a detener." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Soon__everyone_will_see_that_S" value="Pronto, todos verán que Soko Uno es una estrella, le guste o no." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_This__This_is_my_stage_" value="¿Este?Esta es mi etapa." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_You_re_standing_in_my_spotligh" value="Estás parado en mi centro de atención." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Get_in_to_crowd_and_cheer_me_o" value="¡Entra para abrocharse y animarme, muévalo!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Are_you_serious__I_don_t_need_" value="¿Hablas en serio?No necesito tu ayuda." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Ugh__leave_me_alone__I_m_busy_" value="Ugh, déjame en paz.Estoy ocupado." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Do_you_think_a_star_like_me_ne" value="¿Crees que una estrella como yo necesita ayuda?Piérdase." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Can_t_you_see_I_m_preparing__B" value="¿No puedes ver que estoy preparando?¡Apártate!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Honestly__the_audacity__I_m_ha" value="Honestamente, la audacia.Estoy manejando esto por mi cuenta." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Finally__someone_who_gets_it_" value="¡Por fin alguien que lo entiende!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Oh__darling__you_re_a_lifesave" value="Oh, cariño, eres un salvavidas." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Absolutely__I_knew_you_had_an_" value="Absolutamente, sabía que tenías un ojo para el talento." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Yes__thank_you__We_re_going_to" value="¡Si, gracias!Vamos a hacer magia juntos." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Perfect__I_knew_you_d_recogniz" value="¡Perfecto!Sabía que reconocías una verdadera estrella cuando viste una." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+</Node>

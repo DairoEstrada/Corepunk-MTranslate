@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_lil_timmy" type="external">
+  <Key key="_npc_Howdy_doo__fren_" value="Olá, Fren!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc__Sup__bumblebee_" value="'Sup, Bumblebee?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_What_s_gigglin___m_child_" value="O que é Gigglin ', M'Child?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Yo__peepsqueak_" value="Ei, peepsqueak!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_How_s_ya_poppin___pal_" value="Como está Ya Poppin ', amigo?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Yo__what_s_the_haps_" value="Ei, quais são os haps?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Sup__fam_" value="Sup, fam?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Whassup__dudes_" value="Whassup, caras?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Heya__peeps_" value="Heya, peeps!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Yo__what_s_crackalackin__" value="Ei, o que está CrackAlackin '?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Hello__frenz_" value="Olá, Frenz!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Wutcha_doin__" value="O que você está fazendo?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_No_cap_" value="Sem tampa!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Hiyo__besties_" value="Oiyo, besties!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+</Node>

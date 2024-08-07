@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hunterslodge_chef" type="external">
+  <Key key="_npc_I_m__Bone_Broth__Bill__the_bes" value="Je suis Bill &quot;Bouth Broth&quot;, le meilleur putain de cuisinier autour.Je n'ai pas besoin que tu me dises." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Ever_heard_of_the_former_Royal" value="Avez-vous déjà entendu parler de l'ancien chef royal qui a décidé de le «briller» dans les bois?Ouais c'est moi." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Oh__just_the_guy_who_turned_so" value="Oh, juste le gars qui a transformé la soupe en légende.Pas grave." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Thought_I_d_escape_annoying_pa" value="Je pensais que j'échapperais aux clients ennuyeux, mais vous y êtes." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Ah__the_joys_of_babysitting_ad" value="Ah, les joies des adultes de babysitting qui ne peuvent même pas faire bouillir l'eau." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Just_peachy__Dealing_with_peop" value="Juste pêche.Traiter avec des gens comme vous fait vraiment ma journée." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Delightful__Nothing_like_prepa" value="Délicieux.Rien de tel que de préparer des repas gastronomiques aux gens qui ne connaîtraient pas une truffe d'une pomme de terre." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Living_the_dream__Cooking_perf" value="Vivre le rêve.Cuire une soupe parfaite pour les personnes qui pensent que les nouilles instantanées sont une délicatesse." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Oh__love_it_when_people_ask_ob" value="Oh, j'adore quand les gens posent des questions évidentes." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_This_is_Windreach_Woods__geniu" value="C'est Windreach Woods, Genius.Le signe n'a-t-il pas expliqué pour vous?" voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_You_mean_you_ve_been_wandering" value="Vous voulez dire que vous avez erré et que vous ne l'avez pas compris?Bravo." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_It_s_a_magical_forest_of_wonde" value="C'est une forêt magique de merveilles.Ou, comme je l'appelle, «l'enfer personnel de Bill»." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Ah__Windreach_Woods__where_eve" value="Ah, Windreach Woods, où même les arbres sont plus intelligents que certaines des personnes qui trébuchent ici." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Windreach_Woods__it_s_amazing_" value="Windreach Woods: C'est incroyable ce que vous pouvez trouver si vous creusez suffisamment profondément." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Fancy_a_little_side_job__There" value="Envie d'un petit travail secondaire?Il y a toujours un besoin de ... ingrédients frais." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Sure__why_not__Always_good_to_" value="Bien sûr, pourquoi pas?Toujours bon d'avoir un autre ensemble de mains pour gâcher les choses." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_You__Help__This_I_ve_got_to_se" value="Toi?Aide?Ce que je dois voir.Très bien, donnons-le." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Hah__sure__let_s_see_if_you_ca" value="Hah, bien sûr, voyons si vous pouvez gérer le non-brûlant de l'eau." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Are_you_even_sure_you_can_tell" value="Êtes-vous même sûr de pouvoir dire entre votre cul et un trou dans le sol?Voyons ça." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Got_a_knack_for_sourcing_rare_" value="Vous avez un talent pour l'approvisionnement en articles rares?J'ai quelque chose en tête." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Thanks__but_I_ve_got_enough__i" value="Merci, mais j'ai assez de «ingrédients» pour me tenir occupé." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Oh__you_think_you_can_help__Th" value="Oh, tu penses que tu peux aider?C'est adorable." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Thanks__but_I_ve_reached_my_qu" value="Merci, mais j'ai atteint mon quota de dégâts bien intentionnés pour aujourd'hui." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Nah__I_wouldn_t_want_to_depriv" value="Non, je ne voudrais pas vous priver du plaisir de regarder un pro au travail." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_I_appreciate_the_laugh__but_I_" value="J'apprécie le rire, mais je pense que je peux gérer la remuer d'un pot." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+</Node>

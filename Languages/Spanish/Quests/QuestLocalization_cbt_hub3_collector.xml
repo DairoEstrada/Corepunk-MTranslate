@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_collector" type="external">
+  <Key key="_npc_Prinesi_artefakt" value="Encuentra tal artefacto.Pagaré bien por ello." voice="Male" />
+  <Key key="_goal_find_artefact" value="Encuentra el artefacto solicitado" />
+  <Key key="_QuestActionAddToJournal_I4b7" value="Encuentra el artefacto solicitado" />
+  <Key key="_goalVoice_8mr9" value="Encuentra el artefacto solicitado" voice="Male" />
+  <Key key="_goal_end_quest" value="Trae el artefacto al cazador de artefactos" />
+  <Key key="_QuestActionAddToJournal_YkWR" value="Give the artifact to the collector" />
+  <Key key="_npc_O_da__davay_mne" value="Eso es bueno.Te daré aún más por ello." voice="Male" />
+</Node>

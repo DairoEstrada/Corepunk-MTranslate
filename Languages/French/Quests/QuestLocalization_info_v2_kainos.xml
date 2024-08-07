@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_kainos" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Kainos_is_my_name_" value="Kainos est mon nom.Je sert dans un temple bien au nord d'ici.Et je serai vigilant, donc pas de travail comme vous apporterais leur corruption et leur putréfaction dans ce monde." voice="Male" />
+  <Key key="_npc_Upper_Village_" value="Ce?C'est Upper Village.Le miséricordieux vous a amené dans notre monde, pour des raisons que nous ne savons pas encore." voice="Male" />
+  <Key key="_npc_You_reek_of_an_outworlder__Get" value="Vous puisez des ouvrages.Peut-être que nous sommes tentés par le miséricordieux.Peut-être qu'il veut que nous vous aidons à le trouver.Vous devez être nettoyé avec de l'eau et du feu sur notre temple." voice="Male" />
+</Node>

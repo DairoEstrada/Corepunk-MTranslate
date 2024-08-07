@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_test_kill_pumpkin_mobs" type="external">
-  <Key key="_npc_Hi_man_" value="¡Hola hombre!" />
-  <Key key="_goal_kill_pumpkin" value="Destruir la calabaza" />
-  <Key key="_varDescription_DTxq" value=" " />
-  <Key key="_npc_Pumpkin" value="Calabaza" />
-  <Key key="_goal_end_quest" value="Ir en fin de búsqueda" />
-</Node>

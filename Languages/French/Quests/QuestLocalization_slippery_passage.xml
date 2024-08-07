@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_slippery_passage" type="external">
+  <Key key="_npc_You__my_friend__are_a_lifesave" value="Vous, mon ami, êtes une bouée de sauvetage!J'ai hâte d'avoir tout lisse et agité!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_goal_collect_natural_oil" value=" " />
+  <Key key="_goal_collect_organic_gel" value=" " />
+  <Key key="_QuestActionAddToJournal_Chad__Buzz__McNulty_Riverrise_" value="Chad &quot;Buzz&quot; McNulty&#10;Riverrise, scène.&#10;&#10;Aidez Chad 'Buzz' McNulty à se rendre à l'avant de la foule lors du concert «The Fuck Bandits»." />
+  <Key key="_goalVoice_Still_need_that_Natural_Oil_an" value="A encore besoin de cette huile naturelle et de cette gel biologique, mec.Les dieux Mosh Pit l'exigent!Sans ceux-là, je suis juste un frère sec dans une mer de corps en sueur!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Slick_Savior__Did_ya_bring_the" value="Slick Sauveur!Avez-vous apporté le goo?" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_varDescription_Natural_Oil" value="Recueillir l'huile naturelle" />
+  <Key key="_varDescription_Organic_Gel" value="Collectionner un gel biologique" />
+  <Key key="_npc_Whoa__you_actually_did_it__I_m" value="Whoa, tu l'as fait!Je glisse là-bas comme un porc graissant dans une fosse de lutte contre la boue!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Here_you_go__take_this_VIP_aut" value="Voilà, prenez ce t-shirt VIP Autographe et groupe, mec!Tu l'as mérité!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Thanks_to_you__I_m_gonna_slip_" value="Grâce à vous, je vais passer à travers cette foule comme du beurre par une chaude journée!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Dude__this_is_the_ultimate_mos" value="Mec, c'est l'expérience ultime de Mosh Pit!Je dois être là à l'avant, mais c'est comme une sardine." voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Okay__get_this___I_need_you_to" value="D'accord, obtenez ceci, j'ai besoin de vous pour me trouver de l'huile naturelle et du gel biologique.Je vais lubrifier, glisser dans la foule comme une anguille graissée, et être en plein essor!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Bro__you_have_no_idea_how_epic" value="Bro, tu n'as aucune idée à quel point ce sera épique.Je parle de légendes naîtra ce soir!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Help_me_out__and_I_ll_hook_you" value="Aidez-moi et je vous connecterai avec un swag de bande rad.Procurez-moi juste ces goodies glissants!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_varDescription_Collect_Natural_Oil" value="Recueillir l'huile naturelle" />
+  <Key key="_varDescription_Collect_Organic_Gel" value="Collectionner un gel biologique" />
+  <Key key="_npc_C_mon__don_t_leave_me_hanging_" value="Allez, ne me laisse pas accrocher ici comme la lessive d'hier!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Oh_man__you_re_gonna_make_me_d" value="Oh mec, tu vas me faire sèche qui me fraye un chemin à travers cette foule?" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Seriously__you_re_cooler_than_" value="Sérieusement, tu es plus cool que ça!Ne ruine pas ma nuit!" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Leaving_me_here_is_like_abando" value="Me laisser ici, c'est comme abandonner un chiot dans un orage, mon frère." voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+  <Key key="_npc_Gonna_do_me_like_that__Just_be" value="Je vais me faire comme ça?Juste parce que je ne suis pas lisse en ce moment?" voiceSettingsId="3Su5ghkLLDFpmWjt8GEC" />
+</Node>

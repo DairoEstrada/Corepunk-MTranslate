@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_seldon_moor" type="external">
+  <Key key="_npc_You____you_don_t_recognize_me_" value="Vous ... vous ne me reconnaissez pas?" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Have_we_met____in_this_life_ye" value="Avons-nous déjà rencontré ... dans cette vie?" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Maybe_that_was_the_last_one___" value="Peut-être que c'était le dernier ... peut-être ..." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Every_encounter_blurs_how_many" value="Chaque rencontre flou. Combien de fois je me suis-je présenté à vous?" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_How_many_times_have_you_killed" value="Combien de fois m'as-tu tué?" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_I_m_Seldon_Moor____but_surely_" value="Je suis Seldon Moor ... mais sûrement, vous devez en être conscient maintenant." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_I_ve_been_getting_closer_and_c" value="Je me rapprochais de plus en plus d'une fin naturelle." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Thought_I_might_finally_escape" value="Je pensais que je pourrais enfin échapper à ce cycle si je vivais toute une vie sans votre interférence." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_You_showing_up____well__it_com" value="Vous vous présentez ... eh bien, cela complique les choses, pour dire le moins." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Still__there_s_a_sliver_of_hop" value="Pourtant, il y a un ruban d'espoir.Peut-être que cette fois, ce sera différent." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Please__just_let_me_pass_throu" value="S'il vous plaît, laissez-moi passer cette journée sans interruption.Je vous en prie." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Kwalat____more_than_a_world__a" value="Kwalat ... plus qu'un monde, une prison de mon tourment sans fin." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Every_detail__every_stone__etc" value="Chaque détail, chaque pierre, gravé dans ma mémoire mille fois plus." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_I_just_want_to_die_and_never_c" value="Je veux juste mourir et ne jamais revenir!Je veux arrêter de me réveiller le jour abandonné, je suis venu ici!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_I_m_doomed_to_repeat_this_suff" value="Je suis condamné à répéter sans cesse cette souffrance." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_No__your_help____it_s_always_l" value="Non, votre aide ... cela a toujours conduit à ma disparition." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Please__no__Your_assistance_ha" value="Je t'en prie, non!Votre aide ne m'a fait qu'auparger la mort." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Every_time_you_help__I_die__Pl" value="Chaque fois que vous aidez, je meurs.S'il vous plaît, non." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_I_can_t_risk_it__Your_help_has" value="Je ne peux pas le risquer.Votre aide ne s'est jamais bien terminée pour moi." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Stay_away__your_help_is_a_curs" value="Restez à l'écart, votre aide est une malédiction." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_If_helping_me_will_make_you_le" value="Si vous m'aidez à partir, alors oui, j'ai besoin d'aide." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Sure__help_me_and_then_maybe_y" value="Bien sûr, aidez-moi et peut-être que vous partirez." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Yes__yes__just_please_don_t_st" value="Oui, oui, s'il vous plaît ne restez pas longtemps." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Anything_to_get_you_to_leave_a" value="Tout pour vous faire repartir, oui." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+</Node>

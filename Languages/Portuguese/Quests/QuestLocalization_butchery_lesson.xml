@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_butchery_lesson" type="external">
+  <Key key="_npc_Gather_Animal_Fat_and_turn_it_" value="Reúna gordura animal e transforme -a em gordura cosmética no banco de artesanato." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goalVoice_Gather_Animal_Fat_and_turn_it_" value="Reúna gordura animal e transforme -a em gordura cosmética no banco de artesanato.Se você tiver problemas com lobos, tente tartarugas ou javalis." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_How_s_that_butchering_going__c" value="Como vai esse massacre, campeão?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Don_t_forget__Animal_Fat_becom" value="Não se esqueça, a gordura animal se torna gordura cosmética." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_What_s_the_hold_up__Afraid_of_" value="Por que a demora?Medo de um pouco de gordura?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Great__Remember__hunt_for_Wolv" value="Ótimo!Lembre -se, caça a lobos, javalis ou tartarugas e massacra -os." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_QuestActionAddToJournal_F9gi" value="Butch O'Hara&#10;Goldenfield, perto da fazenda de porcos&#10;&#10;Reúna gordura animal e transforme -a em gordura cosmética no banco de artesanato." />
+  <Key key="_npc_Well_done__Now__see_how_that_w" value="Bom trabalho!Agora, veja como isso não foi tão difícil?E veja o que você aprendeu!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_MtFF" value="Gordura cosmética" />
+  <Key key="_varDescription_V87H" value="Gordura cosmética" />
+  <Key key="_npc_You_still_have_one_more_test_b" value="Você ainda tem mais um teste antes de poder se chamar um açougueiro de verdade ..." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

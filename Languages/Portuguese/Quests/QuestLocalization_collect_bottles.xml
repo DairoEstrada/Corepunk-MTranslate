@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_collect_bottles" type="external">
+  <Key key="_npc_I_knew_I_could_count_on_you__B" value="Eu sabia que poderia contar com você!Tenha cuidado lá fora." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Grab_those_blue_bottles_and_co" value="Pegue aquelas garrafas azuis e volte seguro." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Did_you_manage_to_get_those_bl" value="Você conseguiu pegar aquelas garrafas azuis?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Excellent_work__These_bottles_" value="Excelente trabalho!Essas garrafas são exatamente o que precisávamos." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Here_s_your_reward__as_promise" value="Aqui está a sua recompensa, como prometido." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_ll_keep_half_the_pieces__and" value="Vou manter metade das peças e enviar o resto para catraca." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Try_not_to_expose_yourself_to_" value="Tente não se expor a mais radiação esta semana, sim?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Can_t_be_good_for_your_mental_" value="Não pode ser bom para sua saúde mental." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_NnXk" value="Garrafas azuis coletadas" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_8V5t" value="Griz Turner&#10;Goldenfield, perto da loja de artefatos&#10;&#10;Ajude os fragmentos de artefatos cruciais do GRIZ Ironfoot da área de resíduos tóxicos na floresta de Dusktide." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Find_five_Little_Blue_Bottles_" value="Encontre cinco garrafas azuis na área de resíduos tóxicos da floresta de Dusktide.Seja cauteloso do líquido verde e oleoso.É amigável." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

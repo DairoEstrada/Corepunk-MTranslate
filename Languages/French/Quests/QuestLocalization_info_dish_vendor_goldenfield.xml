@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dish_vendor_goldenfield" type="external">
+  <Key key="_npc_No_chores_on_the_docket__fam__" value="Pas de tâches sur le dossier, Fam.Mais n'hésitez pas à parcourir nos produits frais.C'est un feu droit!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_I_m_Gucci__but_thanks_for_the_" value="Je suis Gucci, mais merci pour l'offre.Peut-être que vous aimeriez jeter un œil à nos melons locaux?Ils sont supplémentaires." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_We_re_chill_here__but_do_check" value="Nous nous détendons ici, mais consultez nos produits.Ce sont les genoux de l'abeille, pas de casquette." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_I_m_Ivie_Clarkson__the_hella_l" value="Je suis IVie Clarkson, le barista-greuré éclairé de cette articulation rustique." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Goldenfield_is_my_day_one__bee" value="Goldenfield est mon premier jour, je suis ici depuis que je suis un shorty." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Between_running_the_cafe__tend" value="Entre la gestion du café, la tenue des récoltes et le jeu du Dr Phil, je reste réservé et occupé." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Just_don_t_tell_me_any_secrets" value="Ne me dis pas de secrets, je finirai par renverser les haricots!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_It_might_not_be_bustling_like_" value="Ce n'est peut-être pas animé comme une ville, mais il a sa propre ambiance.Pour de vrai." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_On_the_low_though__I_got_mad_d" value="Mais sur le bas, je suis devenu fou de vivre dans une grande ville." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_I_m_all_about_those_city_light" value="Je suis tout au sujet de ces lumières de la ville, des aventures sans fin, des relations sexuelles occasionnelles et des appartements aléatoires." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Livin__in_Goldenfield_is_like_" value="Livin 'à Goldenfield, c'est comme brasser du café - vous avez besoin de patience et de finesse." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Goldenfield_has_its_own_rhythm" value="Goldenfield a son propre rythme, comme une goutte de café." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Sure__it_can_be_a_little_low_k" value="Bien sûr, cela peut être un peu discret, mais ce n'est jamais basique." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_There_s_always_some_juicy_dram" value="Il y a toujours un drame juteux pour garder les choses allumées!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_This_cafe_is_more_than_just_a_" value="Ce café est plus qu'un simple endroit pour prendre du café." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Chaos_and_coffee__that_s_my_da" value="Chaos et café, c'est ma goutte quotidienne." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Goldenfield_has_a_charm_that_s" value="Goldenfield a un charme qui est difficile à résister." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_My_granny_passed_down_her_cafe" value="Ma grand-mère a transmis son entreprise de café, ainsi que son amour pour le café et l'agriculture." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_It_s_an_unofficial_town_hall__" value="C'est une mairie non officielle, un arrêt de repos des voyageurs et l'ambiance centrale de Goldenfield." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_See_that_intriguing_building__" value="Vous voyez ce bâtiment intrigant?Nous l'appelons le Bureau du gobelin." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Across_the_way__there_s_a_Welf" value="En face, il y a une cuisine sociale servant des aliments réconfortants pendant des jours." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Take_the_cobblestone_path_nort" value="Prenez le chemin pavé vers le nord et vous trouverez notre cimetière de la ville." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_It_s_a_place_for_contemplation" value="C'est un endroit pour contempler et rendre hommage." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Trust_me__there_s_plenty_of_bo" value="Croyez-moi, il y a beaucoup des deux dans cette petite ville!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Always__Thanks_for_the_help__f" value="Toujours!Merci pour l'aide, Fam!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_For_sure__You_down_for_some_fu" value="À coup sûr!Vous descendez pour vous amuser?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Totally__I_ve_got_a_little_adv" value="Totalement!J'ai une petite aventure en tête pour vous." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Yup__I_ve_got_a_task_that_s_ri" value="Ouais!J'ai une tâche qui est dans votre ruelle." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Oh_sure_thing__This_is_gonna_b" value="Oh bien sûr!Ça va être allumé!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+</Node>

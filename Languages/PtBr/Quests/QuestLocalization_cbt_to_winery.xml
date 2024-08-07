@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_cbt_to_winery" type="external">
-  <Key key="_npc_Now_go_back_to_the_village_eld" value="Agora vá para a antiga vinícola. Está em algum lugar a leste da vila." voice="Male" />
-  <Key key="_goal_go_to_npc" value="Vá à vinícola e converse com alguém" />
-  <Key key="_QuestActionAddToJournal_aTcs" value="Élder dizer algo sobre vinícola.Precisa verificar isso.Está localizado em algum lugar a leste de Village." />
-  <Key key="_goalVoice_PKXb" value="Agora vá para a antiga vinícola. Está em algum lugar a leste da vila." voice="Male" />
-  <Key key="_npc_Well_done__You_have_achieved_y" value="Vinho?Quem diz vinho?Eu sou um especialista em vinhos.Como sommelier, apenas não distingue o sabor." voice="Male" />
-</Node>

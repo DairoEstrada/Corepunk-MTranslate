@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_v2_io" type="external">
-  <Key key="_npc_I_uh___" value="Yo uh ..." voice="Female" />
-  <Key key="_npc_Ooh_oh__I_m_great__Yep__Great_" value="Ooh-oh, soy genial.Sí.Excelente.¿Por qué?" voice="Female" />
-  <Key key="_npc_Oh__you_re_not_from_here__This" value="Oh, ¿no eres de aquí?Este es el pueblo superior.A pesar de estar en las afueras del reino, tienen un importante apoyo financiero de Leithana.Han encontrado depósitos de éter de alta concentración en un bosque cercano.Mana, como lo llaman." voice="Female" />
-  <Key key="_npc_Well____Ahem__I_m_Io__I_m_here" value="Bueno ... ejem.Soy IO.Estoy aquí en ... negocio oficial de Yorner.¿Por qué me preguntas esto?No estoy obligado a decirle todo a cada Elanien que conozco.Hm." voice="Female" />
-  <Key key="_npc_Well__some_people_wonder_how_e" value="Bueno, algunas personas se preguntan cómo exactamente los Elaniens están procesando Aether para usarlo como fuente de energía para su tecnología.Quiero decir, no yo.Seguramente, no tengo más interés en este campo.Solo soy un turista.Igual que tú." voice="Female" />
-</Node>

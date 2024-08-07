@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_grimbletons_great_recipe_hunt" type="external">
+  <Key key="_npc_Wait__what_was_I_saying__Here_" value="Espera, ¿qué estaba diciendo?¡Aquí, toma mi dinero!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_You_re_in__Great___cause_if_we" value="¿Estas en?Genial, porque si clavamos esto, vamos a romper mal de la mejor manera posible." voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Awesome__man__Together_we_re_g" value="Hombre asombroso.Juntos vamos a sacar esta ciencia del agua.¡Hagámoslo!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_QuestActionAddToJournal_Grimbleton_Riverrise__Alchemy_" value="Grimbletón&#10;Riverrise, alquimia.&#10;&#10;Ayude a Grimbleton a recrear su fórmula de drogas de cristal azul 'legendario' recolectando ingredientes clave: 5 sílice y 5 relleno de polvo." />
+  <Key key="_varDescription_Collect_Powder_filler" value="Recoger relleno de polvo" />
+  <Key key="_goal_collect_powder_filler" value=" " />
+  <Key key="_goal_collect_silica" value=" " />
+  <Key key="_npc_Yo__you_got_my_back__This_is_g" value="Yo, me tienes de espaldas?¡Esto será como cosas de alto nivel!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_I_m_freaking_out_here__dude__D" value="¡Me estoy volviendo loco aquí, amigo!¿Tienes las cosas?" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_goalVoice_Man__I_can_t_hold_it_together_" value="¡Hombre, no puedo mantenerlo juntos!¡Necesito esa sílice y relleno de polvo como ayer!¿Estás obteniendo esos ingredientes o qué?¡Mi cerebro está en Overdrive aquí!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Haha__amazing_job_" value="Jaja, trabajo increíble!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Fantastic__But_wait__these_are" value="¡Fantástico!Pero espera, estos no son para la fórmula.¿A quién estoy engañando?" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Oh_man__you_did_it__But__uh__t" value="¡Oh hombre, lo hiciste!Pero, uh, resulta que no eran ingredientes después de todo ... ¡Voy a resoplarlo!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_varDescription_Collect_Silica" value="Recolectar sílice" />
+  <Key key="_npc_Yo__yo__yo__listen_up__I_need_" value="¡Yo, yo, yo, escucha!¡Necesito tu ayuda, y es, como, una cuestión de vida y muerte aquí!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_I_had_it__man__the_perfect_blu" value="¡Lo tenía, hombre, la fórmula de cristal azul perfecta!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_It_was_beautiful__like_the_Mon" value="Era hermoso, como la Mona Lisa de las drogas, pero ahora ... ¡mi memoria está más revuelta que una cabeza de metanfetamina en un tornado!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Everything_s_a_mess_in_my_head" value="¡Todo es un desastre en mi cabeza!Juro, la sílice y el relleno de polvo estaban en la mezcla.¡Están ahí fuera en alguna parte!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Scour_the_Tech_Waste__Whisperw" value="¡Gira los desechos tecnológicos, Whisperwind Isle, donde sea!¡Por favor, hombre, ayúdame a volver a armar este rompecabezas, o no sé si puedo aguantar!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Oh__come_on__man__You_re_killi" value="¡Oh, vamos, hombre!¡Me estás matando aquí!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_What__No__Are_you_out_of_your_" value="¿Qué?¿No?¿Estás loco?" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Fine__Be_a_coward__see_if_I_ca" value="¡Bien!¡Sea un cobarde, mira si me importa!¡Pero no vengas llorando más tarde!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Seriously__You_re_bailing_on_m" value="¿En serio?¿Me estás rescatando?¡Increíble!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_I_can_t_believe_this__You_re_j" value="¡No puedo creer esto!¿Vas a dejarme pudrir?¡No es genial, hombre, no genial!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+</Node>

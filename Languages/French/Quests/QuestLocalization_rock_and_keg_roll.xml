@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_rock_and_keg_roll" type="external">
+  <Key key="_npc_Bloody_hell__you_re_a_life_sav" value="Bloody hell, you're a life saver! Let's get this shindig into full swing!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_goal_collect_keg_of_beer_red" value=" " />
+  <Key key="_varDescription_Collect_Keg_of_beer_red" value="Collectez le fût de la bière rouge" />
+  <Key key="_goal_collect_keg_of_beer_green" value=" " />
+  <Key key="_varDescription_Collect_a_Keg_of_beer_green" value="Collectez un fût de bière verte" />
+  <Key key="_goal_collect_keg_of_beer_blue" value=" " />
+  <Key key="_varDescription_Collect_a_Keg_of_beer_blue" value="Collectez un baril de bleu de bière" />
+  <Key key="_QuestActionAddToJournal_Lola_Vexar_Riverrise__Scene___" value="Lola Vexar&#10;Riverrise, scène.&#10;&#10;Aidez Lola Vexar à tourner un concert chaotique en récupérant des fûts de bière." />
+  <Key key="_goalVoice_Oi__don_t_be_dilly_dallying_no" value="Oi, ne soyez pas dilly-dally maintenant!Nous avons besoin de ces fûts: un rouge, un vert et un bleu!Pronto!Rappelez-vous Mate, le bar a ce dont nous avons besoin.Dépêchez-vous avant que cette fête soit plus éclatée que le dos d'un blaireau!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Oi__back_already__Spill_it__di" value="Oi, déjà retour?Le renverser, avez-vous accroché ces fûts?" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Cheers__mate__You_ve_saved_mor" value="Bravo, mec!Vous avez sauvé plus que le soir où vous avez sauvé mon foie de pleurer!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Let_s_get_plastered__shall_we_" value="Soyons plâtrés, d'accord?" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Here_s_your_reward__darling__D" value="Voici ta récompense, chérie.Vous ne dépensez pas tout sur Crumpets, hein?" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Blimey__This_gig_s_going_tits_" value="Blimey!Ce concert va seins plus vite qu'un blaireau dans un mélangeur." voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_The_press_are_as_useful_as_a_c" value="La presse est aussi utile qu'une théière de chocolat et les plaintes de bruit inondent comme une bière blonde bon marché lors d'un match de football." voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Speaking_of_which____how_about" value="En parlant de ce que ... que diriez-vous que nous avons animé les choses avec quelques fûts de la vieille gaieté liquide?Passez au bar et nouez de l'alcool, allez-vous?" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Fetch_me_3_kegs__Trust_me__wit" value="Retrouvez-moi 3 fûts.Croyez-moi, avec un peu de pétillant, nous aurons des genoux droits et tournant la tête de toutes les bonnes manières." voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Oh__giving_me_the_cold_shoulde" value="Oh, me donnant l'épaule froide, n'est-ce pas?J'espère que vous ne vous étouffez pas sur une crumpet!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Too_posh_to_keg_it_up__eh__Bet" value="Trop chic pour bien le faire, hein?Je parie que vous n'êtes pas amusant lors des fêtes." voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Alright__Prissy_Pants__When_th" value="Très bien, pantalon Prissy.Lorsque ce concert atteint le statut légendaire, ne me pleure pas." voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Fine_then__you_teetotaler__Mor" value="Très bien, vous teetotaler.Plus de bière pour le reste d'entre nous et ralentit!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Oh__you_re_a_right_bore__aren_" value="Oh, tu es un alésage droit, n'est-ce pas?Allez polir votre monocle ou quelque chose comme ça." voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+</Node>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_menu_collector" type="external">
+  <Key key="_npc_Ty_vypolnil_vse_zakazy_spasibo" value="Oh, il semble que vous ayez déjà pris tous les contrats.Pour l'instant, je n'ai rien de plus, mais je m'enregistre plus tard, peut-être que j'aurai un travail intéressant pour vous." voice="Male" />
+  <Key key="_npc_Est__raznye_slozhnosti" value="D'accord, d'accord, qu'avons-nous ici.Droite.En ce moment, j'ai le choix entre trois contrats ouverts." voice="Male" />
+  <Key key="_npc_U_menya_est__paru_legkaya_slozhno" value="Ceci est le premier artefact dont j'ai besoin.Ne devrait pas être trop difficile à trouver.Mais personne n'a encore fermé le contrat, vous pouvez donc le prendre." voice="Male" />
+  <Key key="_npc_Pomogi_nayti_artefakty" value="Écoutez, je suis un chasseur d'artefact.Tu veux travailler en tant que pigiste pour moi?Je vais vous donner des contrats pour certains artefacts et vous me les amèneras.Pour un bon prix, évidemment." voice="Male" />
+  <Key key="_npc_Vysokaya_slozhnost_" value="Aaand le dernier.Cet artefact est une vraie douleur dans le cul à trouver, mais elle paie bien.Je donne un double prix de ce que d'autres chasseurs d'artefacts pourraient vous offrir.Alors, tu es dedans?" voice="Male" />
+  <Key key="_npc_Srednyaya_slozhnost_" value="Maintenant, celui-ci serait plus difficile à trouver, je pense.Mais je pense que vous pouvez toujours le faire.Que dites-vous?" voice="Male" />
+  <Key key="_npc_Khochesh__druguyu_slozhnost__" value="Хочеш другю слжность?" voice="Male" />
+  <Key key="_npc_Nu_eto_vse_chto_u_menya_est___kho" value="C'est tout ce que j'ai pour le moment.Tu veux les entendre à nouveau?" voice="Male" />
+  <Key key="_npc_Just_one_contract_left_for_you" value="Juste un contrat qui vous reste, copain." voice="Male" />
+  <Key key="_npc_Still_got_all_three_contracts_" value="J'ai toujours eu les trois contrats dont je vous ai parlé.Qu'en penses-tu?Je paie bien pour l'un d'eux." voice="Male" />
+  <Key key="_npc_I_ve_got_two_more_open_contrac" value="J'ai deux autres contrats ouverts pour vous.Donc..." voice="Male" />
+</Node>

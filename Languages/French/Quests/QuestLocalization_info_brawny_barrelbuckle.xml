@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_brawny_barrelbuckle" type="external">
+  <Key key="_npc_The_name_s_Brawny_Barrelbuckle" value="Le nom est musclé Barrelbuckle, mais le tour des gens me connaît comme le chef de la sécurité." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Back_in_my_universe__I_was_The" value="De retour dans mon univers, j'étais la brute du ring de bataille, un champion de lutte que personne ne pouvait épingler." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_A_teleportation_stunt_during_a" value="Un coup de téléportation lors d'une compétition de lutte m'a jeté dans le coude sauvage de Kwalat." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Now__I_keep_the_peace_here_in_" value="Maintenant, je garde la paix ici à Windstone Village, en veillant à ce que tout le monde soit à l'abri de ces menaces inter-universelles." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Ha__you_know_me__always_on_top" value="Ha, tu me connais, toujours au sommet de mon jeu!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Gruk_Ironcheek_s_been_giving_m" value="Gruk Ironcheek a donné à mes gardes une période difficile, mais je vais le laisser partir pour le moment." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Can_t_wait_to_throw_him_in_a_h" value="J'ai hâte de le jeter dans une prise de tête un de ces jours, de lui montrer qui est le patron." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_But_rules_are_rules__so_I_keep" value="Mais les règles sont des règles, donc je garde mes poings pour moi pour le moment." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Honestly__I_m_itching_to_wrest" value="Honnêtement, je suis impatient de lutter à nouveau, mais de le sauver pour le bon moment." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Until_then__I_ll_keep_doing_wh" value="Jusque-là, je continuerai à faire ce que je fais le mieux en gardant ce village en sécurité, un sandwich aux articulations à la fois." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_This_village_is_a_sanctuary__m" value="Ce village est un sanctuaire, rendant mon travail enrichissant et, oserais-je dire, un peu plus facile." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_The_brownies_and_dwarves_here_" value="Les brownies et les nains ici sont aussi durs qu'ils viennent, mais avec des cœurs d'or." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Even_with_all_these_inter_univ" value="Même avec toutes ces bizarreries inter-universales, nous sommes forts, unis et vigilants." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_It_s_a_privilege_keeping_this_" value="C'est un privilège pour garder cet endroit en sécurité, sachant que j'ai les meilleures personnes pour me sauvegarder." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Looks_like_I_could_use_a_tag_t" value="On dirait que je pourrais utiliser un partenaire d'équipe tag.Vous dedans?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_I_m_pinned_down_with_issues__M" value="Je suis épinglé avec des problèmes.Vous vous dérangez-vous que je les saisis?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Need_someone_in_my_corner__Rea" value="Besoin de quelqu'un dans mon coin.Prêt à intervenir?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Got_a_few_challenges_that_need" value="J'ai quelques défis qui nécessitent un bon suplex.Vous voulez vous aider?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Time_to_put_someone_in_a_figur" value="Il est temps de mettre quelqu'un dans un LEGLOCK FIGUR-FOUR.Tu jeux?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_I_ve_got_it_pinned_down__but_t" value="Je l'ai épinglé, mais merci." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Not_today__this_match_is_under" value="Pas aujourd'hui;Ce match est sous contrôle." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_No_need_for_a_tag_out_right_no" value="Pas besoin d'une étiquette pour le moment." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Appreciate_it__but_I_m_not_tap" value="Appréciez-le, mais je ne tape pas encore." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_All_squared_away_here__champ_" value="Tout est au carré ici, champion." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_No_interference_needed__I_ve_g" value="Aucune interférence nécessaire, j'ai géré ce combat." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+</Node>

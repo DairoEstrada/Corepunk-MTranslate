@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_themis" type="external">
+  <Key key="_npc_Name_s_Themis__Born_in_a_quiet" value="Le nom de Themis.Né dans un village calme loin, loin d'ici." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Not_the_best_guard__mind_you__" value="Pas le meilleur garde, attention.Assez terrible, si je suis honnête." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Pretty_sure_I_only_have_this_j" value="Je suis sûr que je n'ai ce travail qu'à cause de mon père ... il est en charge ici." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_tend_to_trip_over_my_own_fee" value="J'ai tendance à trébucher sur mes propres pieds, et ... oh, je t'avais juste poussé avec ma lance?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_My_colleagues_laugh_at_my__swo" value="Mes collègues se moquent de mes &quot;compétences d'épée." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Once_tried_to_catch_a_thief_an" value="Une fois, j'ai essayé d'attraper un voleur et s'est retrouvé avec mon pantalon autour de mes chevilles." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_They_said_it_was_quite_the_sig" value="Ils ont dit que c'était tout à fait la vue." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Despite_all_the_mishaps__I_m_s" value="Malgré tous les mésaventures, je suis sérieux au sujet de mon devoir.Tout simplement pas très bon dans ce domaine." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Eh__I_ve_had_better_days__Last" value="Eh, j'ai eu des jours meilleurs.Hier soir, je rêvais que je me suis mis en face par ma propre lance." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Woke_up_with_a_nasty_itch_in_t" value="Je me suis réveillé avec une mauvaise démangeaison à l'endroit où il a frappé ... bizarre, non?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Happens_all_the_time____the_ni" value="Cela se passe tout le temps ... la veille, je rêvais que je suis tombé sur les voies ferrées." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Woke_up_feeling_like_I_got_hit" value="Je me suis réveillé en se sentant comme si j'étais touché par un train." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Keeps_happening_to_me__And_Tre" value="Continue de m'arriver.Et Trevor est toujours là ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_But_hey__still_here__still_clu" value="Mais bon, toujours là, toujours maladroit et rêvant toujours étrangement!La vie n'est-elle pas une émeute?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_This_fort__It_s_supposed_to_gu" value="Ce fort?Il est censé se prémunir contre tout ce que les bois décident de nous lancer." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Though__given_my_luck__it_prob" value="Cependant, étant donné ma chance, il a probablement besoin d'une meilleure garde ... comme littéralement n'importe qui d'autre." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_There_s_something_about_this_p" value="Il y a quelque chose à propos de cet endroit qui est juste ... off, tu sais?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Maybe_it_s_the_trees__maybe_it" value="Peut-être que ce sont les arbres, c'est peut-être moi." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Those_trains_passing_nearby__W" value="Ces trains passant à proximité?J'aimerais pouvoir sauter sur un et monter loin." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_But_alas__here_I_am____still_t" value="Mais hélas, ici je suis ... toujours en train de trébucher sur mes propres bottes et de faire rire tout le monde." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_m_in_a_right_pickle_here_" value="Je suis dans un cornichon droit ici." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Could_really_use_some_backup_t" value="Pourrait vraiment utiliser une sauvegarde pour, vous savez, ne plus gâcher." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Make_me_look_cool_for_once_" value="Fais-moi avoir l'air cool pour une fois?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Could_use_a_hand_before_I_mess" value="Pourrait utiliser une main avant de gâcher à nouveau!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Maybe_together_we_won_t_end_up" value="Peut-être qu'ensemble, nous ne finirons pas dans une ... situation collante." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Might_help_me_look_less____ine" value="Pourrait m'aider à paraître moins ... incompétent." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Could_you_help_me__you_know__n" value="Pourriez-vous m'aider, vous savez, pas accidentellement me poignarder?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_won_t_end_up_with____well__e" value="Je ne finirai pas avec ... eh bien, des blessures embarrassantes!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Uh__thanks__I_m_good_famous_la" value="Euh, merci, je suis de bons derniers mots, non?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_You_should_ask_my_dad__He_s_in" value="Tu devrais demander à mon père.Il est dans le casque de fantaisie." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Nah__I_got_this____unless_I_tr" value="Non, j'ai eu ça ... à moins que je ne trébuche à nouveau." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_d_rather_not_drag_anyone_els" value="Je préfère ne pas traîner quelqu'un d'autre dans ma merde." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_d_rather_fail_on_my_own_toda" value="Je préfère échouer par moi-même aujourd'hui, ha!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_can_get_through_the_day_with" value="Je peux passer la journée sans mésaventure." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+</Node>

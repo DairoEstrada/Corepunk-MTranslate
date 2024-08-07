@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_alien_mechanic" type="external">
+  <Key key="_npc_Hey_there__two_eyes_" value="Olá, dois olhos." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Oh__it_s_you__Didn_t_step_in_a" value="Oh, it's you. Didn't step in any cosmic goo this time, did ya?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Got_mana_" value="Tem mana?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Watch_your_step_" value="Watch your step. Wouldn't want you to be one of my next projects!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+</Node>

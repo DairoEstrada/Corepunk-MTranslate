@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_gabe" type="external">
+  <Key key="_npc_I_won_t_tell_you_" value="Eu não vou te dizer." voice="Male" />
+  <Key key="player_Why_" value="Por que?" />
+  <Key key="_npc_Because_I_don_t_trust_you__Sim" value="Porque eu não confio em você.Simples realmente." voice="Male" />
+  <Key key="player_Show_item__BEER_" value="Mostre cerveja de item" />
+  <Key key="_npc_Why_didn_t_you_say_so_right_aw" value="Por que você não disse tão imediatamente?Agora estamos a falar.Meu nome é Gavriil.Essas pessoas estão me chamando de Gabe.Sem chance.Eu não sou Gabe.Gavriil." voice="Male" />
+  <Key key="_npc_The_Upper_Village__Very_nice__" value="A vila superior.Muito bom, muito bom, para ser honesto.Sempre pode encontrar um bom amigo.Às vezes eu gosto de esfaquear pneus nos carros.Mas aqui, não há muitos carros com pneus." voice="Male" />
+  <Key key="_npc_So_I_stab_people_" value="Então eu esfaqueio as pessoas." voice="Male" />
+  <Key key="_npc_I_m_fine_" value="Estou bem." voice="Male" />
+  <Key key="_npc_" value=" " voice="Male" />
+</Node>

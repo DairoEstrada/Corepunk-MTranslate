@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_tor_macdrummond" type="external">
-  <Key key="_npc_Ahoy_there_" value="Ahoy lá!" />
-  <Key key="_npc_How_ye_doin__" value="Como você está fazendo?" />
-  <Key key="_npc_Welcome__rider_" value="Bem -vindo, piloto!" />
-  <Key key="_npc_Step_right_up_" value="Passo bem!" />
-</Node>

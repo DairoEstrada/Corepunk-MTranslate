@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_little_terror" type="external">
+  <Key key="_npc_But_I_thought_we_were_friends_" value="Mais je pensais que nous étions amis!S'il te plaît?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_goalVoice_Now_don_t_forget__you_gotta_ch" value="Maintenant n'oubliez pas, tu dois discuter avec ma maman et mon papa!Oh, et assurez-vous que toutes les tâches sont faites, Kay?Je dépend de toi, grand ami!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_I_d_hate_to_have_to_do_somethi" value="Je détesterais avoir à leur faire quelque chose de mal!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_I_just_wanna_rest_and_play__Th" value="Je veux juste me reposer et jouer!Ils ont été un peu paresseux ces derniers temps, Teehee." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_And_while_you_re_doing_that__c" value="Et pendant que vous faites cela, pourriez-vous peut-être vérifier pour voir s'ils ont fait toutes les tâches?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_My_mommy_and_daddy_can_tell_yo" value="Ma maman et mon papa peuvent vous dire que je suis un bon gars widdle.Allez juste leur demander, jolie s'il vous plaît?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Well__awfter_you_do_one_wast_f" value="Eh bien, Awfter vous faites une gaspillage pour moi!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Aww__you_re_gonna_let_a_widdle" value="Aww, tu vas laisser tomber un gars widdle?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_goal_talk_npc" value="Retour à Lil Timmy" />
+  <Key key="_goal_talk_npc_marigold" value="Parlez à Marigold Thornbuckle" />
+  <Key key="_goal_talk_npc_hank" value="Parlez à Hank Thornbuckle" />
+  <Key key="_npc_Now_I_can_finawy_take_a_niiiic" value="Maintenant, je peux enfermer une pause niiiice." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Thanks__big_friend__Here_s_a_l" value="Merci, grand ami!Voici un petit quelque chose pour vos ennuis." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_See__I_told_you__I_m_just_a_wi" value="Voir?Je vous ai dit, je suis juste un ange widdle!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Did_you_make_sure_they_did_the" value="Vous êtes-vous assuré de faire leurs tâches, comme de bonnes grandes personnes?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_QuestActionAddToJournal_Lil_Timmy_Goldenfield__Edge_fa" value="Lil Timmy&#10;Goldenfield, Edge Farm.&#10;&#10;Prouver l'innocence de Lil Timmy en parlant à ses parents et en apportant leurs listes de corvées à «Lil Timmy." />
+  <Key key="_npc_Guess_I_ll_find_someone_else_t" value="Je suppose que je trouverai quelqu'un d'autre alors ..." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_You_d_hate_to_find_out_what_ha" value="Vous détesteriez savoir ce qui se passe si vous le faites." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_You_re_my_hero__Don_t_take_too" value="Tu es mon héro!Ne prenez pas trop de temps, 'Kay?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Yippee__Thanks_a_bunch__mister" value="Hourra!Merci un tas, monsieur adulte!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+</Node>

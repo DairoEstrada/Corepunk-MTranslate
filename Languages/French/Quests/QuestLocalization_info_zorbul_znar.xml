@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_zorbul_znar" type="external">
+  <Key key="_npc_Zorbul_Z_nar_here__most_bootif" value="Zorbul Z'nar ici, le plus éloigné d'étranger de la galaxie entière!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Was_crowned_beauty_king__but_m" value="A été couronné King Beauty, mais Meanie me pousse à travers Portal." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Now_trapped_in_this_farm_place" value="Maintenant piégé dans cet endroit agricole, où les gens n'apprécient pas la vraie beauté." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Me_six_eyes_and_perfect_featur" value="Moi six yeux et des caractéristiques parfaites, mais les habitants pensent moche!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_They_jelly__can_t_handle_Zorbu" value="Ils ne peuvent pas gérer le charme rayonnant de Zorbul!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Me_got_Dr__Glimmiwop_for_night" value="J'ai obtenu le Dr Glimmiwop pour les correctifs nocturnes.Je vais à nouveau redevenir Top Model." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Farm_life_suit_me__Think_me_Ad" value="La vie agricole me convient.Pensez-moi Adonis de Hay et Moo-Moos!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Who_needs_jealous_haters_when_" value="Qui a besoin de haineux jaloux lorsque les poulets de ferme m'adorent?" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_Z_nar_is_feeling___conf" value="Zorbul Z'nar se sent ... confus!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_So_many_ugly_faces_here__Ew__Y" value="Tant de visages laids ici.EW!Vous le pire à ce jour." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Back_home__Zorbul_was_beauty_k" value="De retour à la maison, Zorbul était Beauty King.Ici, Bleh!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_But_farm_life_not_so_bad___chi" value="Mais la vie de la ferme pas si mal ... les poulets m'aiment!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_And_me_love_chicken__Me_get_ma" value="Et j'aime le poulet.Je me marie à un!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Why_everyone_here_so_plain__Wh" value="Pourquoi tout le monde ici est-il si clair?Où sont les belles personnes?" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_upset_seeing_all_the_ug" value="Zorbul a bouleversé tous les laids tout le temps." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_This_place__It_s_dirty_earth_f" value="Cet endroit?C'est Dirty Earth Farm, hehe!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Yuck__Not_like_Zorbul_s_home__" value="Beurk.Pas comme la maison de Zorbul, la nébuleuse scintillante." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_There__every_rock_is_shiny__ev" value="Là, chaque rocher est brillant, chaque plante brille." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_But_here__Just_dirt_and_animal" value="Mais ici?Juste de la saleté et des animaux.Animaux malodorants!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_does_not_like_smelly_th" value="Zorbul n'aime pas les choses malodorantes.Moi trop beau pour l'odeur." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_This_place_make_Zorbul_sad__bu" value="Cet endroit rend Zorbul triste, mais je le rend fabuleux!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Maybe_turn_moo_moos_to_statues" value="Peut-être transformer les moo-moos en statues!Hehe, alors ils brillent, comme Zorbul!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_You_help_Zorbul_shine_" value="Vous aidez Zorbul à briller!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Make_you_beautiful_too_" value="Vous rendre beau aussi?" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_need_you__yes_" value="Zorbul a besoin de vous, oui!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Help_me__you_shall_" value="Aidez-moi, vous le ferez!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Yes__you_help_pretty__yes_" value="Yes, you help pretty, yes!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_make_fabulous_" value="Zorbul rend fabuleux!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Yes__me_need_you_make_good_loo" value="Oui, j'ai besoin que tu fasse bien look!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Beauty_time__Let_s_do_" value="Temps de beauté!Faisons!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_If_get_you_out_of_eyeline_" value="Si vous sortez d'Eyline!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_No__Zorbul_busy_" value="Non, Zorbul occupé!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Dr__Glimmi_attaching_tentacle_" value="Dr. Glimmi Attachant le tentacule, pas de dérange!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Me_no_need_help__doing_beauty_" value="Moi pas besoin d'aide, faire de la beauté améliorer!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_You_go__Zorbul_got_" value="Vous allez, Zorbul a!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_No_thanks__Zorbul_no_need_ugly" value="Non merci, zorbul pas besoin laid!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Busy_making_beautiful_" value="Occupé à faire beau!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_No__Zorbul_got_tentacle_busine" value="Non, Zorbul a des affaires de tentacule!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_No_help_needed__busy_busy_" value="Aucune aide nécessaire, occupée!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Enhancing_self__no_time_for_yo" value="Amélioration de soi, pas de temps pour vous!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+</Node>

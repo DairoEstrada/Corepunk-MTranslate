@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Interactive" description="">
+  <Node name="Altar">
+    <Key key="Description" value="Altar" />
+  </Node>
+  <Node name="Bank">
+    <Key key="Description" value="Bank" />
+  </Node>
+  <Node name="Bazar">
+    <Key key="Description" value="Bazar" />
+  </Node>
+  <Node name="House">
+    <Key key="Description" value="House" />
+  </Node>
+  <Node name="Tent">
+    <Key key="Description" value="Tent" />
+  </Node>
+  <Node name="Ship">
+    <Key key="Description" value="Ship" />
+  </Node>
+  <Node name="Bridge">
+    <Key key="Description" value="Bridge" />
+  </Node>
+  <Node name="Stairs">
+    <Key key="Description" value="Stairs" />
+  </Node>
+  <Node name="Tree">
+    <Key key="Description" value="Tree" />
+  </Node>
+  <Node name="Wall">
+    <Key key="Description" value="Wall" />
+  </Node>
+  <Node name="Anvil">
+    <Key key="Description" value="Anvil" />
+  </Node>
+  <Node name="Backpack">
+    <Key key="Description" value="Backpack" />
+  </Node>
+  <Node name="Animal">
+    <Key key="Description" value="Animal" />
+  </Node>
+  <Node name="Flag">
+    <Key key="Description" value="Flag" />
+  </Node>
+  <Node name="Barrel">
+    <Key key="Description" value="Barrel" />
+  </Node>
+  <Node name="Mug">
+    <Key key="Description" value="Mug" />
+  </Node>
+  <Node name="Smith">
+    <Key key="Description" value="Smith" />
+  </Node>
+  <Node name="Bench">
+    <Key key="Description" value="Bench" />
+  </Node>
+  <Node name="Bones">
+    <Key key="Description" value="Bones" />
+  </Node>
+  <Node name="Bonfire">
+    <Key key="Description" value="Bonfire" />
+  </Node>
+  <Node name="Rock">
+    <Key key="Description" value="Rock" />
+  </Node>
+  <Node name="Bottle">
+    <Key key="Description" value="Bottle" />
+  </Node>
+  <Node name="Bowl">
+    <Key key="Description" value="Bowl" />
+  </Node>
+  <Node name="Lantern">
+    <Key key="Description" value="Lantern" />
+  </Node>
+  <Node name="Humanoid">
+    <Key key="Description" value="Humanoid" />
+  </Node>
+  <Node name="Bucket">
+    <Key key="Description" value="Bucket" />
+  </Node>
+  <Node name="Cage">
+    <Key key="Description" value="Cage" />
+  </Node>
+  <Node name="Carriage">
+    <Key key="Description" value="Carriage" />
+  </Node>
+  <Node name="Chest">
+    <Key key="Description" value="Chest" />
+  </Node>
+  <Node name="Cliff">
+    <Key key="Description" value="Cliff" />
+  </Node>
+  <Node name="Clothes">
+    <Key key="Description" value="Clothes" />
+  </Node>
+  <Node name="Column">
+    <Key key="Description" value="Column" />
+  </Node>
+  <Node name="Crate">
+    <Key key="Description" value="Crate" />
+  </Node>
+  <Node name="NPC">
+    <Key key="Description" value="NPC" />
+  </Node>
+  <Node name="Weapon">
+    <Key key="Description" value="Weapon" />
+  </Node>
+  <Node name="Log">
+    <Key key="Description" value="Log" />
+  </Node>
+  <Node name="Cube" />
+  <Node name="Fence">
+    <Key key="Description" value="Fence" />
+  </Node>
+  <Node name="Fir">
+    <Key key="Description" value="Fir" />
+  </Node>
+  <Node name="Torch">
+    <Key key="Description" value="Torch" />
+  </Node>
+  <Node name="Gong">
+    <Key key="Description" value="Gong" />
+  </Node>
+  <Node name="Idol">
+    <Key key="Description" value="Idol" />
+  </Node>
+  <Node name="Oak">
+    <Key key="Description" value="Oak" />
+  </Node>
+  <Node name="Oldwoman">
+    <Key key="Description" value="Oldwoman" />
+  </Node>
+  <Node name="oldman" />
+  <Node name="Oldman">
+    <Key key="Description" value="Oldman" />
+  </Node>
+  <Node name="Orc">
+    <Key key="Description" value="Orc" />
+  </Node>
+  <Node name="tree_fir_snowhill_a" />
+  <Node name="tree_fir_snowhill_b" />
+  <Node name="tree_fir_greenville_d_sparse" />
+  <Node name="tree_fir_greenville_c_sparse" />
+  <Node name="tree_fir_greenville_c" />
+  <Node name="tree_fir_greenville_b_sparse" />
+  <Node name="tree_fir_greenville_b_dry" />
+  <Node name="tree_fir_greenville_b" />
+  <Node name="tree_fir_greenville_ab" />
+  <Node name="tree_fir_greenville_a_sparse" />
+  <Node name="tree_fir_greenville_a_shabby" />
+  <Node name="tree_fir_greenville_a_green" />
+  <Node name="tree_fir_greenville_a_blue" />
+  <Node name="tree_fir_greenville_a" />
+  <Node name="tree_fir_dry_snowhill_e" />
+  <Node name="tree_fir_dry_snowhill_d" />
+  <Node name="tree_fir_dry_snowhill_c" />
+  <Node name="tree_fir_dry_snowhill_b" />
+  <Node name="tree_fir_dry_snowhill_a" />
+  <Node name="Tree_fir_dry_leaf_a" />
+  <Node name="tree_fir_dry_deadwood_a" />
+  <Node name="tree_fir_deadwood_b_dry" />
+  <Node name="tree_fir_deadwood_b" />
+  <Node name="tree_fir_deadwood_ab" />
+  <Node name="tree_fir_deadwood_a_blue" />
+  <Node name="tree_fir_branch_a" />
+  <Node name="tree_rainficus_light_c_a" />
+  <Node name="tree_rainficus_light_c_b" />
+  <Node name="tree_rainficus_light_d" />
+  <Node name="cliff_new_greenville_B" />
+  <Node name="cliff_new_greenville_A" />
+  <Node name="cliff_new_greenville_C" />
+  <Node name="cliff_pyramid_greenville_a" />
+  <Node name="cliff_pyramid_greenville_b" />
+  <Node name="cliff_pyramid_greenville_c" />
+  <Node name="cliff_pyramid_greenville_d" />
+  <Node name="cliff_pyramid_greenville_e" />
+  <Node name="cliff_pyramid_greenville_f" />
+  <Node name="cliff_pyramid_greenville_g" />
+  <Node name="cliff_winded_warrior_a1" />
+  <Node name="cliff_winded_warrior_a2" />
+  <Node name="cliff_winded_warrior_a3" />
+  <Node name="cliff_winded_warrior_a4" />
+  <Node name="cliff_winded_warrior_a5" />
+  <Node name="cliff_winded_warrior_a6" />
+  <Node name="cliff_winded_warrior_a7" />
+  <Node name="cliff_winded_warrior_a8" />
+  <Node name="cliff_winded_warrior_a9" />
+  <Node name="cliff_winded_warrior_a4 (1)" />
+  <Node name="cliff_winded_warrior_a4 (2)" />
+  <Node name="cliff_winded_warrior_a3 (1)" />
+  <Node name="cliff_winded_warrior_a2 (1)" />
+  <Node name="cliff_winded_warrior_a8 (1)" />
+  <Node name="cliff_winded_warrior_a8 (2)" />
+  <Node name="cliff_winded_warrior_a4 (3)" />
+  <Node name="cliff_winded_warrior_a5 (1)" />
+  <Node name="cliff_winded_warrior_b1" />
+  <Node name="cliff_winded_warrior_b2" />
+  <Node name="cliff_winded_warrior_b3" />
+  <Node name="cliff_winded_warrior_b4" />
+  <Node name="cliff_winded_warrior_b5" />
+  <Node name="cliff_winded_warrior_b6" />
+  <Node name="cliff_winded_warrior_b7" />
+  <Node name="cliff_winded_warrior_b8" />
+  <Node name="cliffs_round_light_a" />
+  <Node name="cliffs_round_light_b" />
+  <Node name="cliffs_round_light_c" />
+  <Node name="cliffs_round_light_d" />
+  <Node name="cliffs_round_light_e" />
+  <Node name="cliffs_round_light_f" />
+  <Node name="cliffs_round_light_g" />
+  <Node name="cliffs_round_light_h" />
+  <Node name="cliffs_round_light_i" />
+  <Node name="cliffs_round_light_j" />
+  <Node name="container_steam_a" />
+  <Node name="container_steam_b" />
+  <Node name="container_steam_c" />
+  <Node name="container_steam_d" />
+  <Node name="gong_forrestcamp_bace" />
+  <Node name="rock_stream_ligh_a" />
+  <Node name="rock_stream_ligh_b" />
+  <Node name="rock_stream_ligh_c" />
+  <Node name="rock_stream_ligh_d" />
+  <Node name="rock_stream_ligh_e" />
+  <Node name="rock_stream_ligh_f" />
+  <Node name="rock_stream_ligh_g" />
+  <Node name="rock_stream_ligh_h" />
+  <Node name="rock_stream_ligh_i" />
+  <Node name="rock_stream_ligh_j" />
+  <Node name="stone_cemetery_greenville_a" />
+  <Node name="stone_cemetery_greenville_b" />
+  <Node name="stones_hills_greenville_a" />
+  <Node name="stones_hills_greenville_b" />
+  <Node name="stones_hills_greenville_c" />
+  <Node name="stones_hills_greenville_d" />
+  <Node name="stones_hills_greenville_e" />
+  <Node name="stones_hills_greenville_f" />
+  <Node name="stones_hills_greenville_g" />
+  <Node name="stones_hills_greenville_h" />
+  <Node name="stones_hills_greenville_i" />
+  <Node name="stones_hills_greenville_j" />
+  <Node name="stones_middle_snowhill_a" />
+  <Node name="stones_middle_snowhill_b" />
+  <Node name="stones_middle_snowhill_c" />
+  <Node name="stones_middle_snowhill_d" />
+  <Node name="stones_middle_snowhill_e" />
+  <Node name="stones_middle_snowhill_f" />
+  <Node name="stones_middle_snowhill_g" />
+  <Node name="stones_middle_snowhill_h" />
+  <Node name="stones_middle_snowhill_i" />
+  <Node name="stones_middle_snowhill_j" />
+  <Node name="stones_middle_snowhill_k" />
+  <Node name="stones_middle_snowhill_l" />
+  <Node name="stones_middle_snowhill_m" />
+  <Node name="stones_middle_snowhill_n" />
+  <Node name="stones_middle_snowhill_o" />
+  <Node name="stones_middle_snowhill_p" />
+  <Node name="stones_middle_snowhill_q" />
+  <Node name="stones_middle_snowhill_r" />
+  <Node name="tent_sons_warrior_arsenal" />
+  <Node name="tent_sons_warrior_barracks" />
+  <Node name="tent_sons_warrior_hospital" />
+  <Node name="tent_sons_warrior_soldier" />
+  <Node name="tent_sons_warrior_warchief" />
+  <Node name="tent_sons_warrior_weapon" />
+  <Node name="tree_palm_warrior_a" />
+  <Node name="tree_palm_warrior_a1" />
+  <Node name="tree_palm_warrior_b" />
+  <Node name="tree_palm_warrior_b1" />
+  <Node name="tree_palm_warrior_c" />
+  <Node name="tree_palm_warrior_c1" />
+  <Node name="tree_palm_warrior_d" />
+  <Node name="tree_palm_warrior_d1" />
+  <Node name="tree_rainficus_light_a" />
+  <Node name="tree_rainficus_light_b" />
+  <Node name="wagon_cargo_steam_a" />
+  <Node name="wagon_cargo_steam_b" />
+  <Node name="wagon_cargo_steam_c" />
+  <Node name="wagon_cargo_steam_d" />
+  <Node name="wagon_cargo_steam_e" />
+  <Node name="wagon_cargo_steam_f" />
+  <Node name="wagon_cargo_steam_g" />
+  <Node name="wagon_cargo_steam_rusty_a" />
+  <Node name="wagon_cargo_steam_rusty_b" />
+  <Node name="wagon_cargo_steam_rusty_c" />
+  <Node name="wagon_cargo_steam_rusty_d" />
+  <Node name="wagon_cargo_steam_rusty_e" />
+  <Node name="wagon_cargo_steam_rusty_f" />
+  <Node name="wagon_cargo_steam_rusty_g" />
+  <Node name="workers_tent_forrestcamp_a" />
+  <Node name="workers_tent_forrestcamp_a_blue" />
+  <Node name="workers_tent_forrestcamp_a_green" />
+  <Node name="workers_tent_forrestcamp_b" />
+  <Node name="workers_tent_forrestcamp_b_blue" />
+  <Node name="workers_tent_forrestcamp_b_green" />
+  <Node name="workers_tent_forrestcamp_c" />
+  <Node name="workers_tent_forrestcamp_c_blue" />
+  <Node name="workers_tent_forrestcamp_c_green" />
+  <Node name="workers_tent_forrestcamp_d" />
+  <Node name="workers_tent_forrestcamp_d_blue" />
+  <Node name="workers_tent_forrestcamp_d_green" />
+</Category>

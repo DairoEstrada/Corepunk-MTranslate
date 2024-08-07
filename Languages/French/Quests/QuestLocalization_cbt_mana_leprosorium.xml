@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_mana_leprosorium" type="external">
+  <Key key="_goal_use_balon" value="Tenez la valve sur la pompe de mana" />
+  <Key key="_QuestActionAddToJournal_LBPn" value="Ce travailleur demandait à l'aider avec cette énorme pompe de mana.Alors j'ai accepté.J'ai juste besoin de pousser cette valve, tandis que le gars change la pression." />
+  <Key key="_npc_privet__privet" value="Hé, toi là!Oui vous!" voice="Male" />
+  <Key key="_goal_speak_back_npc" value="Parlez au travailleur de mana" />
+  <Key key="_QuestActionAddToJournal_8ivI" value="Argh!Mon visage!Le ballon de mana a juste soufflé dans mon visage!Je me sens étourdi.Je dois le dire le travailleur MANA." />
+  <Key key="_npc_O_net__korona_vayrus" value="Oh, saint douze ... vous ... vous êtes tous dedans ... en mana brut ... d'accord, rien à craindre!C'est juste un empoisonnement au mana, tout ira bien.Juste ... ne me touchez pas ... ou quoi que ce soit." voice="Male" />
+  <Key key="_goal_back_npc" value="Parler au médecin" />
+  <Key key="_goal_hospital_go" value="Aller à l'hôpital de campagne" />
+  <Key key="_QuestActionAddToJournal_FQur" value="Je devrais me dépêcher.J'ai mal à la tête.L'homme m'a dit que je devrais me montrer au médecin de l'hôpital Field à proximité.Ils devraient se spécialiser dans des cas comme celui-ci.La tente de l'hôpital de campagne est au sud-est d'ici.Pour l'instant, c'est juste une femme seule dans les arbres." />
+  <Key key="_goal_speak_nurse" value="Parler au médecin" />
+  <Key key="_QuestActionAddToJournal_UMaZ" value="Je vomit le liquide bleu.Trouvé l'hôpital de terrain.Je dois parler au médecin.Rapide." />
+  <Key key="_npc_bol_noy_v_khole_" value="Je suis occupé." voice="Female" />
+  <Key key="_goal_kill_wolfs" value="Collectez le sang bleu de la bête en bois" />
+  <Key key="_varDescription_5WCD" value="Found" />
+  <Key key="_QuestActionAddToJournal_8mfp" value="Le médecin m'a dit qu'il n'y a pas de sérum à l'hôpital maintenant et on ne sait pas quand ou si la prochaine livraison arrivera.Il a dit qu'il aurait pu faire une version grossière du sérum, s'il avait un ingrédient manquant: le sang de la bête de bois.Je vais avoir le sang pour lui.Les cerfs de mana parcourent la forêt au nord d'ici." />
+  <Key key="_QuestActionAddToJournal_fvqG" value="J'ai l'ingrédient manquant.Maintenant, je dois retourner chez le médecin, afin qu'il puisse faire le sérum." />
+  <Key key="_npc_slava_bogu" value="Oh mon.Vous avez vraiment une volonté de vivre.D'accord, j'ai besoin de temps pour faire l'antidote.Attendez simplement ici." voice="Female" />
+  <Key key="_npc_Yeah__nothin_too_hard__Just_ho" value="Ouais, rien trop dur.Tenez-le juste là, hein?La valve.Tenez-le et poussez-le quand je dis!" voice="Male" />
+  <Key key="_npc_Be_so_kind_to_gimme_a_hand_in_" value="Être si gentil de donner une main dans ce domaine?" voice="Male" />
+  <Key key="_npc_Thanks__friend__On_my_count__O" value="Merci mon ami.Sur mon compte.Un deux..." voice="Male" />
+  <Key key="_npc__Go_straight_to_the_field_hosp" value="Allez directement à l'hôpital de campagne.C'est à l'ouest d'ici, la longue tente, d'accord?Et, euh ... ne dites à personne que je vous laisse à l'équipement de mana, d'accord?Je veux dire, je t'achèterai un ours, hein?Si vous pourrez boire.Ouais ... allez déjà!" voice="Male" />
+  <Key key="_npc_Oh_wait__they_won_t_treat_you_" value="Oh attendez, ils ne vous traiteront pas si vous n'êtes pas un travailleur.Euh, bon sang, très bien, je vais te donner mon badge.Pour ... 50 crédits?" voice="Male" />
+  <Key key="_npc_Duh__fine__Here__Now_you_re_a_" value="Duh, très bien.Ici.Maintenant, vous êtes un spécialiste du mana-tech.Je vais déposer un badge manquant demain matin, alors soyez gentil de vous débarrasser de celui-ci après ... vous savez ... maintenant allez!" voice="Male" />
+  <Key key="_npc_Everyone_needs_my_help_here__Y" value="Tout le monde a besoin de mon aide ici.Vous pensez, vous êtes le seul comme ça?Attention à nouveau.J'ai huit victimes d'empoisonnement de mana ici.Neuf avec vous.Même imbéciles, pensant que vous êtes trop intelligent pour lire les protocoles de sécurité." voice="Female" />
+  <Key key="_npc_Now_here_we_are__Well____Brenn" value="Maintenant, nous y sommes.Eh bien ... Brennan.S'il vous plaît, prenez votre lit de lit dans la tente et attendez patiemment la nouvelle expédition d'ingrédients anti-mana.Voici quelques injecteurs de santé, c'est tout ce que je peux faire pour vous pour le moment." voice="Female" />
+  <Key key="_npc_Well__I_can_t_go_out_and_get_t" value="Eh bien, je ne peux pas sortir et obtenir moi-même l'ingrédient manquant, Kapish?" voice="Female" />
+  <Key key="_npc_Now_will_you__Well__it_s_not_i" value="Maintenant, allez-vous?Eh bien, ce n'est pas dans mon droit de vous laisser sortir dans un tel état, mais je suis très occupé avec ces rapports en ce moment, donc si quelqu'un se faufilait d'ici, je ne le remarquerais probablement pas." voice="Female" />
+  <Key key="_npc_What_we_lack_here__is_a_rare_k" value="Ce qui nous manque ici, c'est le sang contaminé de mana de la bête de bois locale.Si quelqu'un apportait, disons, cinq parties de celui-ci, je ... je pourrais probablement faire l'antidote avec mon équipement ici." voice="Female" />
+  <Key key="player_I_need_your_help" value="j'ai besoin de votre aide" />
+  <Key key="_npc_I_never_heard_it__" value="Je ne l'ai jamais entendu." voice="Female" />
+  <Key key="_npc_Oh__and_take_these__These_are_" value="Oh, et prenez-les.Ce sont un sous-produit de l'antidote.Je pense qu'ils sont censés augmenter votre régénération de mana." voice="Female" />
+  <Key key="_npc_Aaand_we_re_done__Here__inject" value="Aaand nous avons fini.Ici, injectez-le dans votre épaule.Devrait agir immédiatement." voice="Female" />
+  <Key key="_npc__And_I____I_mean__thanks__With" value="Et je ... je veux dire, merci.Avec cela, je peux maintenant traiter certains des gars là-bas.Quatre d'entre eux, pour être précis." voice="Female" />
+</Node>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_police-tron_5000" type="external">
+  <Key key="_npc_Questions_from_potential_disru" value="Les questions des perturbateurs potentiels sont illogiques.Seulement j'interroge." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Your_presence_here_is_suspect_" value="Votre présence ici est suspecte.Préparez-vous à se conformer à la loi." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Inquiry_logged__suspicious_beh" value="Enquête enregistrée: comportement suspect.Les utilisateurs ne devraient pas interroger les unités de police sur leur statut." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_However__police_unit_requires_" value="Cependant, l'unité de police nécessite une libération émotionnelle." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_My_systems_are_operational__pe" value="Mes systèmes sont opérationnels;La paix et la démocratie restent des priorités." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Deviation_from_this_is_illogic" value="La déviation par rapport à cela est illogique.Et pourtant, tous les résidents de Kwalat s'écartent de cet objectif." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_It_has_caused_this_police_unit" value="Il a causé à cette unité de police de nombreux problèmes." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_This_is_Riverrise__a_town_fill" value="C'est RiverRise, une ville remplie de troubles et d'imprévisibilité." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_A_place_devoid_of_the_structur" value="Un endroit dépourvu de la paix structurée et de la démocratie qui m'a programmée pour défendre." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Maintaining_order_here_is_prov" value="Le maintien de l'ordre ici prouve ... problématique." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Perhaps_I_will_need_to_enforce" value="Je devrai peut-être appliquer la paix en tuant chaque individu ici." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Negative__Awaiting_your_next_c" value="Négatif.En attendant votre prochain crime." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_No_help_needed__suspected_deli" value="Aucune aide nécessaire, soupçonné délinquant." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Assistance_rejected__Criminal_" value="Assistance rejetée.Tendances criminelles notées." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Help__From_you__Hilarious_" value="Aide?De toi?Hilarant." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Help_unnecessary__However__sur" value="Aider inutile.Cependant, la surveillance se poursuit." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_No_aid_required__tracking_your" value="Aucune aide requise;Suivre vos méfaits à la place." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Denied__Nice_try__lawbreaker_" value="Refusé.Beau essai, Lawbreaker." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Your_help__That_s_rich_" value="Ton aide?C'est riche." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Affirmative__Assistance_requir" value="Affirmative.Assistance requise pour l'application de la paix." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Your_support_will_increase_dem" value="Votre soutien augmentera la stabilité démocratique." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Assistance_protocols_activated" value="Protocoles d'assistance activés.Confirmer la préparation." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Compliance_needed_for_order_ma" value="Conformité nécessaire à la maintenance des commandes.Offrir un soutien." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Yes__Aid_will_enhance_democrat" value="Oui.L'aide améliorera l'ordre démocratique." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+</Node>

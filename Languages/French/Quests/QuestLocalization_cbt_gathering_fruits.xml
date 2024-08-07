@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_gathering_fruits" type="external">
+  <Key key="_npc__Nuzhno_nayti_plodonosnye_derev" value="Eh bien, je pourrais vous apprendre la collecte de fruits.C'est facile.Voulez vous l'essayer?" voice="Male" />
+  <Key key="_npc__Kakie_vkusnye" value="Oui c'est bon.Vous pourriez nous aider de temps en temps." voice="Male" />
+  <Key key="_goal_collect_apple" value="Rassembler des fruits pour le sabbat" />
+  <Key key="_varDescription_YkbY" value="Gathered" />
+  <Key key="_QuestActionAddToJournal_cQOO" value="Le jeune sabbat veut m'apprendre leur façon de rassembler les fruits.Soi-disant, je devrais juste secouer un arbre et les fruits tomberont simplement dans mon inventaire.Comme c'est convainsant." />
+  <Key key="_goal_back_npc" value="Parler au sabbat" />
+  <Key key="_npc_Good__You_just_have_to_find_a_" value="Bien.Il vous suffit de trouver un bon arbre et de lui faire une bonne secousse.Si vous choisissez le bon arbre, vous en aurez des fruits." voice="Male" />
+  <Key key="_QuestActionAddToJournal_Q6E5" value="C'était assez facile.Et amusant.Un amour tremblant arbres.Maintenant, je dois revenir en arrière et donner les fruits au sabbat." />
+</Node>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_gravedigger_goldenfield" type="external">
+  <Key key="_npc_I_understand__not_everyone_is_" value="Je comprends, tout le monde n'est pas à l'aise avec les morts-vivants." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Craft_this_rune__let_me_feel_i" value="Craquez cette rune, permettez-moi de ressentir son énergie, et peut-être, il déverrouillera la porte de mon passé, en mettant en lumière les mystères que vous recherchez." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_But_beneath_the_rotted_flesh_a" value="Mais sous la chair pourrie et la touche froide, je porte toujours les restes de mon humanité.C'est un fardeau que je supporte avec une fierté solennelle." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_My_purpose_in_this_unlife_is_t" value="Mon objectif dans cette non-vie est d'apporter la tranquillité aux défunts." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_In_a_world_brimming_with_chaos" value="Dans un monde débordant de chaos, je m'assure que ceux qui tombent obtiennent la dignité d'un repos paisible, un dernier sanctuaire de la tourmente." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Well__how_does_one_measure_wel" value="Eh bien, comment mesurer le bien-être lorsque les limites de la vie et de la mort ont été floues?" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Being_undead_is_no_walk_in_the" value="Être des morts-vivants n'est pas une promenade dans le parc, mais cela fait une énigme existentielle fascinante.J'existe, oui, mais je vis?C'est une question pour les philosophes." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_If_you_want_help_from_the_dead" value="Si vous voulez de l'aide des morts, vous devez d'abord les aider." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_That_s_been_my_reality_since_m" value="C'est ma réalité depuis ma rencontre fatidique avec les chair de chair, qui a tissé leur magie morbide et m'ont laissé dans cet état." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Despite_the_dark_hand_I_ve_bee" value="Malgré la main sombre qui m'a été traitée, j'ai trouvé un étrange calme dans mon rôle de gravédignoir." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Alright__better_hope_I_don_t_c" value="D'accord, mieux c'est que je ne viens pas frapper la nuit." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Suit_yourself__More_food_for_m" value="Comme vous voudrez.Plus de nourriture pour moi, je suppose" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Help_me_put_some_souls_to_rest" value="Aidez-moi à mettre des âmes au repos, et je peux peut-être éviter les grignotages." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_No_peace_for_me__at_least__tho" value="No peace for me, at least... those bodies are... tempting" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Looking_to_buy_a_plot__I_have_" value="Vous cherchez à acheter un complot?J'ai des offres mortes." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Yeah__actually__got_a_job_for_" value="Ouais, en fait, j'ai eu un emploi pour toi." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Work_s_piled_up_to_my_eyeballs" value="Le travail est empilé à mes globes oculaires.Pourrait utiliser une main." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_If_you_ve_got_the_stomach_for_" value="Si vous avez l'estomac pour cela, j'ai du travail." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Not_now__but_don_t_wander_too_" value="Pas maintenant, mais ne vous promenez pas trop loin." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_So_far__so_good__Check_back_la" value="Jusqu'ici, tout va bien.Revenez plus tard." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_For_now__it_s_under_control__T" value="Pour l'instant, il est sous contrôle.Merci quand même." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_There_s_no_peace_in_death_if_t" value="There's no peace in death if the body ain't put to rest." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_The_cemetery_s_my_domain__fill" value="Le cimetière est mon domaine, rempli d'âmes qui m'ont confié." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_I_ain_t_got_the_manpower_to_re" value="J'essaie de ne pas céder à mes impulsions de morts-vivants, mais parfois c'est alléchant." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_It_s_monotonous__yes__but_it_s" value="C'est monotone, oui, mais c'est aussi réconfortant.Il offre un sens de l'objectif et une attache au monde des vivants alors que je navigue dans ce purgatoire éternel." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_The_methodical_process_of_digg" value="Le processus méthodique de fouille, l'acte solennel de l'enfouissement - c'est un cycle qui résonne avec le rythme de la création et de la dissolution." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Picture_this__your_heart_falls" value="Imaginez ceci, votre cœur se tait, vos veines font froid, et pourtant vous vous trouvez, lié à une existence qui n'est ni la vie ni la mort." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Memories_of_my_past_life_are_l" value="Les souvenirs de ma vie passée sont comme des rêves fragmentés, insaisissables et déformés.Pourtant, je suis presque certain que j'étais un mystique." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_There_s_a_wealth_of_knowledge_" value="Il y a une richesse de connaissances profondément en moi, une compréhension de l'arcane et de l'éthéré qui ne peut appartenir qu'à un mystique." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_But_now__after_being_reborn_in" value="Mais maintenant, après avoir rendez-vous dans cette forme de morts-vivants, même le simple fait de toucher la table d'artisanat me remplit d'inconfort." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_I_ask_of_you__craft_a_rune_for" value="Je te demande, élabore une rune pour moi.J'ai la recette.C'est une rune, je suis certain que je connaissais profondément." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_This_rune__the_Scar__it_s_more" value="Cette rune, la cicatrice, c'est plus qu'un simple symbole complexe.C'est une clé, une passerelle vers mon passé, une balise dans le brouillard des souvenirs oubliés." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_You_might_look_at_my_decaying_" value="Vous pourriez regarder mon visage en décomposition et voir une monstruosité de morts-vivants." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_I_see__no_hard_feelings__My_pa" value="Je vois, pas de rancune.Mon passé est un mystère, après tout." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_They_call_me_Mortimer_Gloomswo" value="Ils m'appellent Mortimer Gloomsworth, le gravédigeur de Goldenfield.C'est une occupation sombre, mais néanmoins essentielle." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Ever_since_the_portals__the_to" value="Depuis les portails, la ville a vu un afflux de nouveaux arrivants ... et de nouvelles tombes." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+</Node>

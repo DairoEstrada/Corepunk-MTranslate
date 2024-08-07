@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_pesky_pests" type="external">
+  <Key key="_goal_kill_rats" value="Tuez des rats sur le terrain" />
+  <Key key="_varDescription_UyFa" value="Les rongeurs ont tué" />
+  <Key key="_QuestActionAddToJournal_fhZF" value="Le champ de Marczek est infesté d'une sorte d'énormes rats.Il n'est pas en mesure de tuer lui-même, alors son enfant a demandé mon aide.Alors maintenant, je vais tuer des rats." />
+  <Key key="So_the_rats_scared_you_off__Yo" value="Beau travail, mon pote.Avec cela, notre récolte va enfin monter sur la lune!Dans notre monde, nous vous laisserions nous rejoindre, même avec votre petite tête." voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_goal_goto_marczek_stage3" value="Parler à wojciech" />
+  <Key key="_QuestActionAddToJournal_ULEn" value="J'ai fait un bon travail de pesticide.Ce qui reste, c'est de se présenter à l'enfant à ce sujet." />
+  <Key key="First_Enter" value="Je le savais!Il n'y avait pas besoin de répondre - juste une formalité!" voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_goalVoice_JfYB" value="Écoutez, alors que votre tête est terriblement petite, votre arme est assez grande pour tuer ces salauds puants.Nous paierons le prix exorbitant pour cela.Accord?" voice="Male" />
+  <Key key="_npc_Oh_well____Uh____I_guess__I_sh" value="Eh bien, j'ai continué à espérer que vous changeriez d'avis, mais pas de dés.Non seulement votre tête est petite, mais votre cerveau aussi.Vous auriez pu gagner de l'argent!" voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc_Who_wanted_to_say_hi__You__Str" value="Qui veut dire bonjour?Est-ce vous, étranger?Vous et votre petite tête?Vous pouvez parler?" voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc_Who_we_are__Farmers__We_used_t" value="Non-non, ne vous embêtez pas à parler à haute voix.Vous n'avez pas entendu parler du problème du dioxyde de carbone?Détendez-vous, je vais juste lire votre esprit." voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc_Tense__Me__Yeah__A_bit___Becau" value="Qui sommes nous?Nous sommes des agriculteurs maintenant, mais nous étions des pirates intergalactiques.Nous avons fait des ravages partout!Eh bien, c'est tout dans le passé." voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc_Listen__while_your_head_is_ter" value="Écoutez, alors que votre tête est terriblement petite, votre arme est assez grande pour tuer ces salauds.Que dites-vous?Nous en ferons la peine.Accord?" voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="bubble_phrase_VXVp" value="Hé!Avez-vous déjà traité avec des rats?" />
+  <Key key="_npc__It_s_fucking_awesome__We_have" value="Mon partenaire a un sens des affaires inné.Maintenant, nous avons miné le blé - l'avenir est des grains de blocs.Bientôt, tout le monde connaîtra notre ferme de blé!" voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc_However__these_tailed_bastards" value="Tendu?Moi?Ouais.Un peu.En raison de ces rats stupides, notre récolte tient pour la vie chère." voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc__In_this_world_we_aren_t_what_" value="Nous ne sommes pas ce que nous étions.Nous ne pouvons même pas gérer ces ravageurs!" voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc_Marczek__look_who_s_back__The_" value="Regardez, qui est de retour!L'étranger avec une petite tête!Prêt à se rendre au travail?" voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc_You_killed_them_all__These_lit" value="Dépêchez-vous et terminez-le, copain!Le temps, c'est de l'argent!" voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+</Node>

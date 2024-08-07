@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_tower_arm" type="external">
+  <Key key="_npc_I_AM_ARMBOT__A_SENTIENT_ROBOTI" value="Je suis un bras, un bras robotique sensible!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_And_I_m_Kenrick__just_a_regula" value="Et je suis Kenrick, juste un gars ordinaire à la recherche d'amour à tous les mauvais endroits." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_SINCE_OUR__FATEFUL__MEETING__W" value="Depuis notre réunion «fatidique», nous explorons Kwalat ensemble.Eh bien, surtout je le traîne!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_Or_push_me_into_danger__Every_" value="Ou me pousser en danger.Chaque.Célibataire.Temps." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_I_just_want_to_find_someone_to" value="Je veux juste trouver quelqu'un à tenir." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_YOU_RE_NOT_VERY_ROMANTIC__KEN_" value="Tu n'es pas très romantique, Ken!Nous sommes déjà en aventure!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_The_few_times_I_do_meet_someon" value="Les quelques fois où je rencontre quelqu'un, le brassard devient jaloux." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_I_CAN_T_HELP_IT_IF_I_M_POSSESS" value="Je ne peux pas m'en empêcher si je suis possessif!J'ai toujours été là pour toi, j'ai même sursis ..." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_You_don_t_need_to_talk_about_t" value="Vous n'avez pas besoin d'en parler!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_All_I_wanted_was_a_soulmate__a" value="Tout ce que je voulais, c'était une âme sœur, et j'ai plutôt eu un copain d'aventure qui suce à l'âme." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_LET_S_NOT_FORGET_I_M_THE_ONE_K" value="N'oublions pas que je nous tiens en vie!Assez de Chitchat, Adventure vous attend!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_I_AM_INTRIGUED_AND_THRILLED_TO" value="Je suis intrigué et ravi d'être ici, Kwalat a tellement à offrir!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_HAUNTED_TOWERS__MYSTERIOUS_RAI" value="Des tours hantées, des rails mystérieux et des sensations surnaturelles nous attendent!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_I_can_t_believe_we_ended_up_in" value="Je ne peux pas croire que nous nous sommes retrouvés dans un endroit aussi merdique." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_KENRICK_IS_LESS_FOCUSED__AS_HE" value="Kenrick est moins concentré, car il préfère revenir à ses ... activités romantiques." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_BUT_I_WON_T_LET_HIS_OBSESSIONS" value="Mais je ne laisserai pas ses obsessions me retenir!Nous avons des aventures pour se lancer, des secrets à découvrir!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_Yeah__yeah__adventure__Just_le" value="Ouais, ouais, aventure.Faites-moi savoir quand nous trouvons un coin calme, d'accord?" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_NO_TIME_FOR_THAT__KENRICK__THE" value="Pas de temps pour ça, Kenrick!Le monde vous attend!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_THIS_PLACE_IS_STEEPED_IN_MYSTE" value="Cet endroit est imprégné de mystère, où la technologie et les forces surnaturelles entrent en collision!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_If_I_die__which_is_likely__you" value="Si je meurs, ce qui est probable, vous devenez un journal de fantaisie." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_NONSENSE__A_HEROIC_COMBAT_AWAI" value="ABSURDITÉ!Un combat héroïque attend à chaque tour!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_Armbot_here_thinks_he_s_invinc" value="Arrbot ici pense qu'il est invincible.Newsflash: Il ne l'est pas." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_IGNORE_HIM__WE_RE_CLOSE_TO_UNV" value="IGNORE LE!Nous sommes sur le point de dévoiler les secrets enterrés dans ces coins sombres!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_THIS_PLACE_HOLDS_TREASURES_UNI" value="Cet endroit tient des trésors inimaginables!Admettez-le, Kenrick, vous l'aimez!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_Just_remember__if_you_see_me_o" value="N'oubliez pas: si vous me voyez sur le sol, ce n'est pas un repos d'un héros, c'est de votre faute." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_YES__I_VE_GOT_A_FEW_THINGS_IN_" value="Oui, j'ai quelques choses en tête!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_ALWAYS_SEEKING_ADVENTURE__CARE" value="TOUJOURS à la recherche d'aventure!Vous voulez vous joindre à nous?" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_HELP_US_UNCOVER_THE_MYSTERIES_" value="Aidez-nous à découvrir les mystères de Kwalat!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_BE_READY_FOR_BOTH_SUPERNATURAL" value="Soyez prêt pour les idées surnaturelles et inattendues ... amusements!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_Can_you_get_this_thing_off_me_" value="Pouvez-vous retirer cette chose de moi?" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_ADVENTURE_WON_T_WAIT__LET_S_GO" value="L'aventure n'attendra pas!Allons explorer!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_NOT_AT_THE_MOMENT__EXPLORER_" value="Pas pour le moment, Explorer!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_I_PREFER_TO_RELY_ON_MY_OWN____" value="Je préfère compter sur mes propres ... mécanismes." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_WE_RE_GOOD_FOR_NOW_" value="Nous sommes bons pour le moment." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_NO_NEED_FOR_EXTRA_HANDS__HE_HA" value="Pas besoin de mains supplémentaires, il m'a!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_ADVENTURE_AHEAD__NO_HELP_REQUI" value="Aventure à venir!Aucune aide requise!" voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+  <Key key="_npc_Wish_I_could__but_I_m_not_in_c" value="J'aimerais pouvoir, mais je ne suis pas en charge." voiceSettingsId="yNJFHSGeCt52XyrT3g8d" />
+</Node>

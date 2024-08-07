@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_thread_the_needle_warm_the_soul" type="external">
+  <Key key="_npc_Thank_you_so_much__I_can_think" value="Merci beaucoup!Je peux penser à beaucoup qui le gardera au chaud ce soir." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_m_counting_on_you__The_mater" value="Je compte sur vous.Les matériaux ne devraient pas être trop difficiles à trouver." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Did_you_manage_to_gather_the_m" value="Avez-vous réussi à rassembler les matériaux?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Perfect__You_ve_done_a_wonderf" value="Parfait!Vous avez fait un travail formidable!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_How_exciting__Another_blanket_" value="Comme c'est excitant!Une autre couverture à effraction." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_This_blanket_will_keep_Maxwell" value="Cette couverture gardera Maxwell si au chaud." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_goal_collect_resources_cloth" value=" " />
+  <Key key="_goal_collect_resources_thread" value=" " />
+  <Key key="_varDescription_Collect_Strong_Thread" value="Collectez un fil fort" />
+  <Key key="_varDescription_Collect_Cloth" value="Récupérer un chiffon" />
+  <Key key="_npc_My_baby_Maxwell_has_been_endur" value="Mon bébé Maxwell a enduré le froid dans la forêt de Dusktide vous aidant les pulls de portail et ça me brise le cœur de penser à lui frissonner." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Unfortunately__I_m_swamped_wit" value="Malheureusement, je suis submergé de commandes et de demandes ces derniers temps, et j'ai besoin de votre aide.Souhaitez-vous rassembler des documents pour moi?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_need_three_silkworm_caterpil" value="J'ai besoin de trois chenilles de ver à soie pour le tissu et trois brins de jute pour le fil fort.J'ai le motif le plus mignon à l'esprit!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_If_you_can_bring_me_the_materi" value="Si vous pouvez m'apporter les matériaux, je vais créer la couverture pour Maxwell et en faire la peine." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_QuestActionAddToJournal_Nia_Sundance_Goldenfield__near" value="Nia Sundance&#10;Goldenfield, près de Summer House.&#10;&#10;Aidez Nia Sundance à créer une couverture confortable pour Maxwell Sterling dans la forêt de Dusktide." />
+  <Key key="_goalVoice_Could_you_find_those_three_sil" value="Pourriez-vous trouver ces trois chenilles de ver à soie et trois brins de jute pour moi?Vous pouvez généralement trouver des vers à soie et du jute dans les buissons partout.Le confort de Sweet Maxwell dépend de ces matériaux.Faisons cette couverture!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_varDescription_Collect_a_Cloth" value="Récupérer un chiffon" />
+  <Key key="_varDescription_Collect_a_Strong_Thread" value="Collectez un fil fort" />
+  <Key key="_npc_Oh__that_s_too_bad__Maxwell_co" value="Oh c'est dommage.Maxwell pourrait vraiment utiliser la chaleur." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_That_s_a_pity__If_you_change_y" value="C'est dommage.Si vous changez d'avis, vous savez où me trouver." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+</Node>

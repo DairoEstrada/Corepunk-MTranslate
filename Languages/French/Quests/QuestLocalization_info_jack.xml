@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_jack" type="external">
+  <Key key="_npc__" value=" " voice="Male" />
+  <Key key="_npc_Name_s_Ric__I_don__like_no_big" value="Noms ric.Je n'aime pas les grandes villes, alors je suis resté dans le ranch de ma famille." voice="Male" />
+  <Key key="_npc__S_mah_ranch__Like_it_here__Bi" value="'S Mah Ranch.Aimez-vous ici?Un peu dangereux ces derniers temps." voice="Male" />
+  <Key key="_npc_Is_quite_nice_here__" value="Est assez sympa ici." voice="Male" />
+</Node>

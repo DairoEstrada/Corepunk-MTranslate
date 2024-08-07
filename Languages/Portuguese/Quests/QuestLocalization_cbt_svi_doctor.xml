@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_doctor" type="external">
+  <Key key="_npc_Privet" value="Se você quiser ficar aqui, você tem que tirar a foto.E eu não vou fazer a vacina tão cedo, então você terá que criar você mesmo." voice="Male" />
+  <Key key="_goal_craft_item" value="Crie uma vacina" />
+  <Key key="_QuestActionAddToJournal_XCNm" value="Para obter uma conclusão não infecciosa, tenho que fazer minha própria vacina e tirar as fotos." />
+  <Key key="_goal_use_item" value="Use a vacina" />
+  <Key key="_goal_end_quest" value="Fale com o médico" />
+  <Key key="_QuestActionAddToJournal_h5rs" value="Eu tirei as fotos.Sentir-se tonto.Tenho que falar com o médico agora." />
+  <Key key="_npc_Vau" value="Tudo vacinado?Deixe-me olhar para você.Olhos vermelhos, lábios secos, galhos inchados.Sim.Funcionou perfeitamente.Aqui está o seu certificado.Agora já dê o fora daqui já." voice="Male" />
+  <Key key="_npc_Here_you_go__The_recipe__Craft" value="Aqui está a receita.Crie a vacina - você pode usar minha mesa de artesanato.Os ingredientes estão fora da cidade." voice="Male" />
+  <Key key="_npc_You_know_where_to_find_me_" value="Você sabe onde me encontrar." voice="Male" />
+  <Key key="_npc_Nice__See_ya__Bye_" value="Sim.Tchau.Ta-ta." voice="Male" />
+  <Key key="_goalVoice_ByPI" value="Aqui você vai.A receita.Crie o injetor, você pode usar minha mesa de artesanato.Todos os ingredientes estão no peito aqui.Tire uma chance e depois fale comigo, se você puder.Boa sorte." voice="Male" />
+  <Key key="_npc_Okh_ty_tak_i_ne_nashol" value="Sim?Encontrou as plantas?" voice="Male" />
+  <Key key="_npc_Tam_v_yashchike" value="Nossa, você é o pior.Tudo bem, pegue os ingredientes do meu esconderijo." voice="Male" />
+  <Key key="_npc_molodets" value="OK.Agora faça a vacina e dê a si mesmo." voice="Male" />
+  <Key key="_npc_Listen__stop_bothering_me__I_s" value="Ouça, pare de me incomodar.Eu vi você abrindo meu peito.Pare de brincar.Basta fazer a vacina e tirar o maldito tiro.Não tenho tempo para isso." voice="Male" />
+  <Key key="_npc_Inject_yourself__then_speak_to" value="Injete -se, depois fale comigo se você ainda for capaz.Boa sorte." voice="Male" />
+  <Key key="_npc_They_re_in_the_chest_right_the" value="Eles estão no peito ali.Fale comigo quando fizer a vacina e tirar o tiro." voice="Male" />
+  <Key key="_npc_Why_bother_me_then_" value="Por que me incomodar então?" voice="Male" />
+</Node>

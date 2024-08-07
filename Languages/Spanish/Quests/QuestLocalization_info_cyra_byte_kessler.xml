@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_cyra_byte_kessler" type="external">
+  <Key key="_npc_Oh__it_s_not_that_important_wh" value="Oh, no es tan importante quién soy, de verdad." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_m_just_a_humble_shopkeeper_t" value="Solo soy un humilde comerciante tratando de llegar a fin de mes." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_But_I_ll_tell_you_something__I" value="Pero te diré algo, soy un gran admirador de las chicas Viper." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Those_ladies_are_legends__aren" value="Esas damas son leyendas, ¿no?Tan audaz, tan inteligente." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_If_you_got_any_juicy_stories_a" value="Si tienes historias jugosas sobre ellos, soy todas las orejas." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Come_on__spill_the_beans_what_" value="Vamos, derrame los frijoles, ¿qué has escuchado sobre las chicas Viper últimamente?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Oh__just_fabulous__can_t_you_t" value="Oh, just fabulous, can't you tell?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Got_another_one_of_my__masterp" value="Tengo otro de mis 'obras maestras' en la estufa." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Seriously__it_s_not_totally_bu" value="En serio, no es totalmente quemado, solo ... bien hecho." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_But__hey__a_little_char_adds_c" value="Pero, oye, un pequeño char agrega carácter, ¿verdad?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_They_say_this_pier_has_seen_de" value="Dicen que este muelle ha visto acuerdos que podrían inclinar el equilibrio de mundos enteros." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Over_there__by_that_old_lamp_p" value="Allí, por ese viejo poste de la lámpara?Ahí es donde una pareja cruzada de diferentes galaxias una vez se despidió." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_And_that_worn_out_bench__Suppo" value="¿Y ese banco desgastado?Se supone que es donde un famoso pirata enterró un cofre de tesoros inimaginables." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Pretty_good_stories__Bet_you_h" value="Muy buenas historias.Apuesto a que también tienes algunas historias bastante buenas ..." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_m_just_a_shopkeeper__Nothing" value="Solo soy un comerciante.No pasa nada especial aquí." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Nah__nothing_out_of_the_ordina" value="No, nada fuera de lo común aquí, solo dirigiendo mi pequeña tienda." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Appreciate_it__really__but_the" value="Aprecio, realmente, pero no hay nada emocionante por aquí." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Thanks__but_I_m_just_minding_m" value="Gracias, pero solo me ocupo de mi propio negocio, nada más." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_No__just_your_typical_day_trad" value="No, solo sus bienes comerciales típicos.Nada vale la pena tu tiempo." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_You_seem_trustworthy__let_me_f" value="Parece confiable, déjame informarte." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_ve_got_a_secret_mission_if_y" value="Tengo una misión secreta si estás preparado para ello." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_could_really_use_someone_dis" value="Realmente podría usar a alguien discreto.¿Interesado?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_There_s_something_big_going_on" value="Hay algo grande.¿Te importa unirte a mí?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_think_you_can_handle_this__L" value="Creo que puedes manejar esto.Hablemos en privado." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_police-tron_5000" type="external">
+  <Key key="_npc_Peace_protocols_initiated_" value="Protocoles de paix initiés." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Order_detected__low_" value="Ordre détecté: bas." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Democracy_malfunction_" value="Dysfonctionnement de la démocratie?" voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Anti_chaos_engaged_" value="Anti-Chaos engagé." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_State_your_purpose_" value="Indiquez votre objectif." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Chaotic_presence_noted_" value="Présence chaotique a noté." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Evaluate_compliance_" value="Évaluer la conformité." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Peace_disruptor_detected_" value="Le perturbateur de la paix a détecté." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+</Node>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_heartbreak_waters" type="external">
+  <Key key="_npc_Fine__I_was_never_much_for_con" value="Très bien, je n'ai jamais beaucoup de consentement de toute façon." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Fuck_this_up__and_I_ll_do_thin" value="Baise ça, et je ferai des choses à ton connard que tu ne pourrais pas imaginer.Accord?" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_goalVoice_Remember__it_s_Ivie_Clarkson_a" value="Rappelez-vous, c'est IVie Clarkson au Goldenroast Cafe à Goldenfield.Plus rapidement, elle reçoit la lettre, plus vite nous briserons ce cœur, plus rapidement que je mange!Sortez ces compétences d'acteur.Faites-lui croire que Ludwig est fait avec elle en tant que bourreau de Torkon avec une guillotine cassée." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_You_re_one_of_those_limp_dicks" value="Vous êtes une de ces bites moutes?Pitié." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Do_this_right__and_I_ll_give_y" value="Faites les choses bien et je vous donnerai ma note de consentement juridique pour Triton." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_She_s_sharp__so_stay_convincin" value="Elle est tranchante, alors restez convaincante.Faites-lui l'acheter dans cette ruse." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_I_need_you_to_take_it_to_his_w" value="J'ai besoin que tu l'emmène à sa pute Ivie Clarkson au Goldenroast Cafe à Goldenfield.Vous devrez la faire croire que c'est authentique." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Also__I_said_he_fucked_like__a" value="De plus, j'ai dit qu'il avait baisé comme, un tas d'imps dans les bois.Dirty Dick Bastard." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_I_ve_crafted_this_breakup_lett" value="J'ai conçu cette lettre de rupture, écrite avec toute la douleur et le chagrin que l'on pourrait rassembler." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Keep_this_shitty_piece_of_pape" value="Gardez ce morceau de papier merdique.J'ai une sirène à chasser." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_goal_talk_npc" value="Parlez à Ivie Clarkson" />
+  <Key key="_npc_Well__someone_evidently_has_a_" value="Eh bien, quelqu'un a évidemment un sens de l'humour tordu." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_This_isn_t_from_Ludwig__Why_wo" value="Ce n'est pas de Ludwig!Pourquoi serait-elle ...?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_It_s_Mariel_s_legal_consent_no" value="C'est la note de consentement juridique de Mariel pour Triton!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Wait_a_second__This_handwritin" value="Attends une seconde.Cette écriture ... et qu'est-ce que c'est à l'arrière?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_We_re_going_to_make_this_guy_s" value="Nous allons faire sucer la vie de ce gars que la bouche de votre maman." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="player__" value=" " />
+  <Key key="_npc_He_s___breaking_up_with_me__" value="Il est ... rompre avec moi !?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_QuestActionAddToJournal_Mariel_Venomtail_Windrach_Wood" value="Mariel Venomtail&#10;Windrach Woods, Lac sirène.&#10;&#10;Livrez une lettre de rupture forgée à Ivie Clarkson à Goldenfield au nom de Mariel Venomtail." />
+  <Key key="_npc_Oh__backing_out__are_you__Ther" value="Oh, reculer, êtes-vous?Voilà mes divertissements pour la journée." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Oh__you_have_a_note_from_Ludwi" value="Oh, tu as une note de Ludwig?Qu'est-ce que ça dit?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_What_is_that__A_note_from_Ludw" value="Qu'est-ce que c'est?Une note de Ludwig?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Excellent__Let_s_pour_some_sal" value="Excellent.Versons du sel dans la plaie, d'accord?" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+</Node>

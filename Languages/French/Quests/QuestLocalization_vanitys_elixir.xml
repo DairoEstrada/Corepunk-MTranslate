@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_vanitys_elixir" type="external">
+  <Key key="_npc_Refuse_shiny_quest__Bumpkiss__" value="Refuser la quête brillante?Bumpkiss!Zorbul triste maintenant." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_No_helper__Big_gloom_for_Zorbu" value="Pas d'aide?Grande morosité pour Zorbul.Trouvez un autre, MUST." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Oh__shoo_shoo__away_you_go__Zo" value="Oh, shoo-shoo, loin, allez-y.Zorbul trouve un jour de l'aide, peut-être." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_No_help__Sad__sad__Booty_quest" value="Pas d'aide?Triste, triste.Booty Quest échoue sans vous." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_goalVoice_Find_shinies__Special_water_in" value="Trouvez des shinies!Eau spéciale dans les bouteilles d'herbes étranges, South Farm!Zorbul attendez l'eau brillante, des herbes, il coule!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Fetch_fast__quick_quick__so_me" value="Réfléchissez rapidement, rapide rapide, donc moi peut briller et signer pour Triton.Le temps brillant vous attend!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Me_need__special_juice__from_s" value="J'ai besoin de «jus spécial» des bouteilles étranges, South Farm.Vous avez des herbes, oui?" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Retour à Zorbul" />
+  <Key key="_npc_You_help_Zorbul__you_get_note_" value="Vous aidez Zorbul, vous obtenez une note, oui?Booty inter-radimensionnel, pas blague!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Maybe_they_want_mascot__Will_n" value="Peut-être qu'ils veulent de la mascotte?Devra être encore plus booful pour le tribunal." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Note_of_Wegal_summons__Me_no_m" value="Remarque de la convocation de Wegal?Moi pas de monstre!Moi booful." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Now__just_need_one_more_thing_" value="Maintenant, il suffit de avoir une chose de plus avant le signe de la signature." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Elixir_make_Zorbul_bootiful__t" value="Elixir fait Zorbul Bootul, Booty top-top!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_varDescription_Collect_Zorbul_s_Special_Water" value="Collectez l'eau spéciale de Zorbul" />
+  <Key key="_QuestActionAddToJournal_Zorbul_Z_nar_Goldenfield__Dist" value="Zorbul Z'nar&#10;Goldenfield, ferme lointaine.&#10;&#10;Aidez Zorbul Z'nar à terminer son traitement de beauté en récupérant de l'eau spéciale de South Farm." />
+  <Key key="_npc_No_more_pretty_juice_fetch__Zo" value="Plus de jolie aller-retour?Zorbul attend, espère quelqu'un d'autre." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Reward_for_you__shiny_friend__" value="Récompense pour vous, ami brillant.Prendre!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Ah__special_juice_return__Zorb" value="Ah, retour spécial de jus!Le bonheur du bonheur de Zorbul." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_waits_for_the_special_j" value="Zorbul attend le jus spécial." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_You_good_help__yes__Zorbul_tru" value="Vous bonne aide, oui.Zorbul vous faites confiance!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Yesss__Go_go_now__So_happy__me" value="Oui!Go-Go maintenant.Si heureux, moi suis." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+</Node>

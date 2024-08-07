@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_big_reveal" type="external">
+  <Key key="_goal_talk_npc" value="Retour à grondement de pot vert à Alexander Stones" />
+  <Key key="_npc_Will_you_do_one_final_job_" value="Ferez-vous un dernier travail?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_goalVoice_Bring_pot_to_loud_man_on_radio" value="Apportez du pot à un homme fort à la radio ... Alexander ... Stones ... c'est un cadeau." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Remember_we____I____tried_to_s" value="Rappelez-vous que nous ... J'ai ... essayé de vous sauver." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_It_is____your_funeral_" value="C'est ... vos funérailles." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_You_do_not_want_to_hold_onto_p" value="Vous ne voulez pas tenir le pot pendant trop longtemps ..." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_You_will_make_Grommuk_so____so" value="Vous ferez un grammuk si ... si heureux." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Bring_special_pot__Is_present_" value="Apportez un pot spécial.Est présent ... je suis ... le plus grand fan." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Good____please____it_is_such_a" value="Bien ... s'il vous plaît ... c'est un si grand cadeau ..." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_We_have_to_find_it____NOW_" value="Nous devons le trouver ... maintenant." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_But_why_would_they_be_after_th" value="Mais pourquoi seraient-ils après la carrière ... à moins qu'il y ait un artefact un peu super puissant en dessous!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_There_really_is_an_invasion___" value="Il y a vraiment une invasion ... cela change tout." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_It_tried_to_jump_on_me____it_s" value="Il a essayé de me sauter sur moi ... c'est un parasite!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_QuestActionAddToJournal_Grommuk_Ironhand_Westwind_Wood" value="Arque à grammuk&#10;Westwind Woods, Sawmill Center.&#10;&#10;Apportez Alexander Stones l'étrange pot vert que vous avez reçu de Grommuk." />
+  <Key key="_npc_Loud_man_on_radio____tells_sec" value="Un homme fort à la radio ... raconte des secrets ... et des mensonges." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Sweet_ancients__There_s_some_k" value="Anciens doux!Il y a un peu un putain de calmar aux yeux ici!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Let_s_see_what_the_globalists_" value="Voyons ce que les mondialistes se sont cachés ..." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_This_is_the_moment_of_truth__l" value="C'est le moment de la vérité, voyons ce que vous avez." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

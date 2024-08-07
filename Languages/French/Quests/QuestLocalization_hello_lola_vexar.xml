@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_lola_vexar" type="external">
+  <Key key="_npc__Ello__love_" value="«Ello, amour!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Cheers__mate_" value="Bravo, mec!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_How_ya_doin__" value="Ça va'?" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Oi__good_to_see_ya_" value="Oi, ravi de vous voir!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Hey__you_" value="Hey vous!" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+  <Key key="_npc_Alright__matey_" value="D'accord, matey?" voiceSettingsId="UkS7FUS2egS5zd23THz8" />
+</Node>

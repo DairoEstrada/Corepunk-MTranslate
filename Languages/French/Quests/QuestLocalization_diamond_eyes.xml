@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_diamond_eyes" type="external">
+  <Key key="_npc_Fascinating__the_precision_of_" value="Fascinant, la précision de ces joyaux ... les travaux de Glimmiwop se déroulent." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_As_promised__here_is_your_rewa" value="Comme promis, voici votre récompense." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_goalVoice_Don_t_forget__we_need_two_flaw" value="N'oubliez pas, nous avons besoin de deux diamants sans faille.Vous ne voudrez pas décevoir Dwarfaton.Lorsque vous les obtenez, allez à Dwarfaton à Windstone Village!" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Receiving_Glimmiwop_s_Legal_Co" value="Recevoir la note de consentement juridique de Glimmiwop via la fonction de fax intégrée ... Impression maintenant." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Your_assistance_propels_my_gra" value="Votre aide propulse mon programme plus grand.Très apprécié, humanoïde." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_VCdC" value="Recueillir des diamants" />
+  <Key key="_npc_Remember__this_is_not_merely_f" value="N'oubliez pas que ce n'est pas seulement pour Ironcheek, mais un témoignage de mon métier inégalé." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_goal_talk_npc" value="Parlez à Dwarfaton Ironcheek" />
+  <Key key="_npc_Nice_work_with_Dicey__Just_cle" value="Beau travail avec Dicey.Il suffit d'effacer une place de plus dans mon horaire, et Triton est dedans." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_I_ve_got_Dwarfaton_Ironcheek_e" value="J'ai nanfaton Ironcheek en attendant avec impatience mes mains qualifiées pour certains ... enfin, des améliorations non conventionnelles." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Problem_is__I_need_two_flawles" value="Le problème est que j'ai besoin de deux diamants impeccables pour commencer.Va-les pour moi, et je m'assurerai qu'il obtienne ses yeux de diamant." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Do_so__and_Triton_will_hear_of" value="Faites-le, et Triton entendra parler de mon consentement.Tout à fait la aubaine, ne diriez-vous pas?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_QuestActionAddToJournal_Durzo__Dicey__Dunwaddle_Windst" value="Durzo &quot;Dicey&quot; Dunwaddle&#10;Windstone Village, Guard's Place: East.&#10;&#10;Obtenez deux diamants pour l'amélioration particulière de Nwarfaton Ironcheek, comme l'exige le Dr Glimmiwop." />
+  <Key key="_npc_Processing____diamonds_receive" value="Traitement ... diamants reçus.Protocole d'appréciation de lancement." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_varDescription_Collect_Diamonds" value="Recueillir des diamants" />
+  <Key key="_npc_I_understand__perhaps_you_re_n" value="Je comprends, peut-être que vous n'êtes pas encore prêt à relever le défi." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_No_problem__I_ll_just_have_to_" value="Pas de problème, je vais juste devoir reprogrammer ma procédure exquise." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Ah__the_benefits_of_impeccable" value="Ah, les avantages des soins de santé impeccables devront attendre une autre fois." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+</Node>

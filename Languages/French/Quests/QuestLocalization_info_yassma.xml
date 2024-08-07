@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_yassma" type="external">
+  <Key key="_npc_I_m_Yassma____your_tantalizing" value="Je suis Yassma ... tu te allérières ... euh ... quelle est la prochaine ligne?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_was_told_to_be_more____provo" value="On m'a dit d'être plus ... provocateur, mais honnêtement, ce costume ne se détache pas." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc____" value="..." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_So_how_s_your_day_going_" value="Alors comment se passe ta journée?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Oh__you_know__just_another_day" value="Oh, tu sais, juste un autre jour à essayer d'être ... sensuel.Est-ce que ça marche?Probablement pas." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Honestly__every_time_I_try_to_" value="Honnêtement, chaque fois que j'essaie d'être séduisant, j'ai l'impression que je m'emmène plus fort qu'un poisson échoué." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_m_constantly_worried_they_ll" value="Je suis constamment inquiet qu'ils me licencient pour ne pas avoir enlevé mon masque à gaz, mais je ne peux pas le faire." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_kinda_came_from_a_world_wher" value="Je viens d'un monde où si vous enlevez vos vêtements ou votre masque, l'exposition à l'air vous tue instantanément." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_m_pretty_sure_that_wouldn_t_" value="Je suis presque sûr que cela n'arriverait pas ici, mais ... vous savez ... pourquoi tenter la chance?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Well__I_m_not_entirely_sure_my" value="Eh bien, je ne suis pas entièrement sûr de moi-même.Je viens de trébucher sur un portail hier." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_met_the_Velvet_Viper__and_ba" value="J'ai rencontré le Velvet Viper, et Bam!Me voici, avec un travail déjà." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_If_you_figure_out_more_about_t" value="Si vous en savoir plus sur cet endroit, faites-le moi savoir.Nous apprenons tous les deux les cordes ici!" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Oh__you_don_t_need_to_help__ho" value="Oh, tu n'as pas besoin d'aider, chérie, mais tes conseils seraient ... euh, oui, juste les conseils." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_No_need_for_help__just_drop_so" value="Pas besoin d'aide;Déposez simplement quelques pièces ici, et nous pouvons garder cela ... euh ... l'interaction continue." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_don_t_need_assistance____but" value="Je n'ai pas besoin d'aide ... mais un peu d'appréciation financière ne ferait pas de mal." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_don_t_need_anything_done__ju" value="Je n'ai besoin de rien, juste votre ... affection monétaire, chérie." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Actually__um__I_could_really_u" value="En fait, euh, je pourrais vraiment utiliser de l'aide ... pour rester ... pertinent." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Oh__yes__Please__I_need_assist" value="Oh oui!S'il vous plaît, j'ai besoin d'aide pour garder mon emploi!" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Honestly__I_m_desperate__Can_y" value="Honnêtement, je suis désespéré!Tu peux m'aider avec quelque chose?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Yes__please__I_just_want_to_pr" value="Oui s'il vous plait!Je veux juste prouver que je suis encore précieux." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+</Node>

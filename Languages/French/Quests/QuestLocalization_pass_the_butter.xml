@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_pass_the_butter" type="external">
+  <Key key="_npc_Guess_I_ll_do_it_myself__you_u" value="Je suppose que je vais le faire moi-même, vous inutile seau d'os." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goalVoice_Rick_s_Fisher_House__It_s_just" value="Rick's Fisher House: C'est juste au sud du pont détruit.Restes, poison, miam miam.FAIS LE MAINTENANT.Ce n'est pas de la science des fusées, Moron." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Are_you_freaking_kidding_me__U" value="Are you freaking kidding me? Ugh, whatever." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Of_course_you_d_chicken_out__P" value="Bien sûr, vous avez le poulet.Pathétique." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Take_this_nasty_fast_food_over" value="Prenez cette mauvaise restauration rapide là-bas - c'est son préféré.Alors ... il mourra enfin!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_m_going_to_poison_the_fuck_o" value="Je vais empoisonner la baise de lui!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Bet_you_can_guess_what_it_is_f" value="Je parie que vous pouvez deviner ce qu'il s'agit des articles que vous avez obtenus ..." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_So__meatbag__you_re_back__Read" value="Donc, Metbag, vous êtes de retour.Prêt pour la phase deux de mon plan directeur?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Poisoned_fast_food__You_insult" value="Food Fast Food?Tu m'insultes." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_About_fucking_time_someone_ste" value="À propos de la putain de temps, quelqu'un est intervenu.Ne vous trompez pas, ou je vais vous supprimer moi-même." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Seriously__You_re_softer_than_" value="Sérieusement?Vous êtes plus doux qu'un tissu mouillé." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_talk_npc" value="Parlez à Pappy Rick" />
+  <Key key="_QuestActionAddToJournal_QUEST_O_TRON__Windreach_Woods_" value="Quête-o-tron&#10;Windreach Woods, camp près du sanctuaire.&#10;&#10;Aider Quest-O-Tron à voler les restes de restauration rapide de la maison de son créateur." />
+  <Key key="_npc_You_ve_got_guts__kid__Or_maybe" value="Tu as du courage, gamin.Ou peut-être que c'est juste de la stupidité." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_I_gather_you_re_trying_to_get_" value="Je suppose que vous essayez d'obtenir le secret de mon voyage de portail.Coupez un accord, muet stupide." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Oh__the_tin_can_s_at_it_again_" value="Oh, la boîte de conserve en est à nouveau, hein?Ha!C'est riche!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Hey__genius__You_think_that_ro" value="Hé, génie!Vous pensez que le robot réellement réussi?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+</Node>

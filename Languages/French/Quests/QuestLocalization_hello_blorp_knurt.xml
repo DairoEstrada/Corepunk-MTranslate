@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_blorp_knurt" type="external">
+  <Key key="_npc_Huh__Speak_up_" value="Hein?Parlez!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Can_t_hear_you_" value="Je ne t'entends pas!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_What_did_you_say_" value="Qu'est-ce que vous avez dit?" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Over_here__dammit_" value="Ici, bon sang!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Speak_up_" value="Speak up!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_What_" value="Quoi?" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Too_loud_" value="Trop fort!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+</Node>

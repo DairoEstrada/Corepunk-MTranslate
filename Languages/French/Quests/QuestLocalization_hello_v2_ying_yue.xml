@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_ying_yue" type="external">
+  <Key key="_npc_What_you_re_doing_so_far_from_" value="Que faites-vous si loin de chez vous, Pengyou?" voice="Female" />
+</Node>

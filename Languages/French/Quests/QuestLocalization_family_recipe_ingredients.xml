@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_family_recipe_ingredients" type="external">
+  <Key key="_npc_Fantastic__I_can_already_taste" value="Fantastique!Je peux déjà goûter la volaille juteuse et délicieuse.Moins de diarrhée." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Any_luck_finding_those_poultry" value="Une chance de trouver encore ces jambes de volaille?" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Can_t_wait_to_taste_that_roast" value="J'ai hâte de goûter à nouveau cette volaille rôtie!" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Oh__you_re_the_best__Guess_not" value="Oh, tu es le meilleur!Je suppose que tout le monde ne vient pas de ce portail est un problème ..." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_goal_collect_ingredients_salt" value=" " />
+  <Key key="_QuestActionAddToJournal_gMf4" value="Berg Stonefoot&#10;Goldenfield, près du camp forestier&#10;&#10;Aidez Berg Stonefoot à revivre la célèbre jambe de volaille rôtie de sa grand-mère.Apportez-lui du sel et 2 pattes de volaille." />
+  <Key key="_goalVoice_Get_Salt__and_Poultry_Legs__Tu" value="Obtenez du sel et des pattes de volaille.La Turquie a le meilleur goût, mais ils sont principalement dans la forêt.Cependant, vous pourrez peut-être arracher un poulet ou une oie des habitants s'ils ne le remarquent pas." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Get_Salt__and_Poultry_Legs__Tu" value="Obtenez du sel et des pattes de volaille.La Turquie a le meilleur goût, mais ils sont principalement dans la forêt.Cependant, vous pourrez peut-être arracher un poulet ou une oie des habitants." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_varDescription_WPMT" value="Sel" />
+  <Key key="_goal_collect_ingredients_leg" value=" " />
+  <Key key="_varDescription_g4PR" value="Jambe de volaille" />
+  <Key key="_varDescription_UwK8" value="Sel" />
+  <Key key="_varDescription_dzZn" value="Jambe de volaille" />
+  <Key key="_npc_Of_course__you_re_buying__Righ" value="Bien sûr, vous achetez.Droite?" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Oh__did_you_forget_the_bucket_" value="Oh, avez-vous oublié le seau?Je suppose que je devrai aller au lecteur à la place ..." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Remember__salt_and_poultry_leg" value="N'oubliez pas, les jambes de sel et de volaille!Mamie aurait eu la tête si vous en oubliez une." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+</Node>

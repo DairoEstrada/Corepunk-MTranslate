@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_test_drive" type="external">
+  <Key key="_npc_One_last_thing__Would_you_be_s" value="Vous devez maintenant suivre notre formation standard de défense militaire.Chaque nouveau venu doit payer sa dette à sa nouvelle patrie.Entrez dans l'exosquelette.Vous aurez d'autres instructions plus loin." voice="Male" />
+  <Key key="_goal_goto_place" value="Tuez quelques sangliers" />
+  <Key key="_goal_go_to_caela" value="Parler au gobelin" />
+  <Key key="player_I_lost_my_robot" value="J'ai perdu mon robot" />
+  <Key key="_npc_I_need_you_to_check_the_defenc" value="Entrez dans l'exosquelette.Allez dans l'ancien champ, au nord-est d'ici et testez-le sur les sangliers.Revenez vers moi, quand vous avez fini." voice="Male" />
+  <Key key="_npc_helow" value="Très bien, soldat!Votre devoir militaire est complet.Je vous fais maintenant la promotion de rang.Retour à civil.Cela signifie que vous n'aurez pas de pensions et autres avantages militaires, mais vous devrez défendre nos terres en cas d'invasion." voice="Male" />
+  <Key key="_varDescription_LtZA" value="Porcs grillés" />
+  <Key key="_QuestActionAddToJournal_ORDn" value="Je suis dedans. Se sent bien.Maintenant, tout ce dont j'ai besoin, c'est de tuer.Certains sangliers, de préférence.Ils peuvent être trouvés sur le terrain au nord de la maison des gobelins." />
+  <Key key="_npc_Great__Just_get_into_it_and_go" value="Ouais, ce serait bien.Besoin de cette boîte pour garder le portail, hein.Je veux dire, quelqu'un doit le tester, non?" voice="Male" />
+  <Key key="_npc_Oh__don_t_worry__it_s_absolute" value="Oh, ne t'inquiète pas, c'est absolument sûr!Je n'ai pas eu d'accidents depuis la semaine dernière!Chaque Outworlder doit payer sa dette!Sa dette envers sa patrie!Ce n'est pas moi qui a inventé les règles." voice="Male" />
+  <Key key="_npc_" value="Vraiment, croyez-moi.Je veux dire, même si le robot vous paralyse, je peux toujours vous réparer, comme si je corrigeais mon robot.Pas d'inquiétudes à avoir!" voice="Male" />
+  <Key key="_assistant_phrase_NDVq" value="Attendre attendre!J'ai besoin de prendre mon pop-corn.D'accord, je suis prêt.Commencez le spectacle!" voice="Male" />
+  <Key key="_npc__" value="Avez-vous déjà testé le robot?" voice="Male" />
+  <Key key="_npc_You_can_use_this_one__standing" value="Vous pouvez utiliser celui-ci, debout à côté de moi." voice="Male" />
+  <Key key="_goal_goto_exo" value="Entrez dans l'exosquelette et testez-le" />
+  <Key key="_QuestActionAddToJournal_Vqrv" value="L'ingénieur veut que je teste l'exosquelette.J'espère que c'est sûr." />
+  <Key key="_goalVoice_9PrM" value="Quelqu'un doit tester le robot.Entrez simplement dedans et allez le tester sur le terrain, au nord de ma maison." voice="Male" />
+  <Key key="_assistant_phrase_9fuK" value="Voir?Vous avez l'air super, hein.Allez sur le terrain, au nord d'ici.Et griller quelques sangliers avec le lanceur de fusées.Nous les utilisons généralement comme cibles de pratique." voice="Male" />
+</Node>

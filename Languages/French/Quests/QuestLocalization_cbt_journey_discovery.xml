@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_journey_discovery" type="external">
+  <Key key="_QuestActionAddToJournal_BJbh" value="Je l'ai fait.Je dois parler au Jasper Wilde maintenant." />
+  <Key key="_goalVoice_fjwJ" value="N'oubliez pas le Dreamshroom!Il a un chapeau violet avec des taches blanches!" voice="Male" />
+  <Key key="_QuestActionAddToJournal_Vhvs" value="Je l'ai fait.Je dois parler au Jasper Wilde maintenant." />
+  <Key key="_goal_finish_goal" value="Parlez au Jasper Wilde" />
+  <Key key="_varDescription_UitZ" value="Champignon" />
+  <Key key="_npc_Sure__getting_teleported_to_an" value="Bien sûr, se téléporter dans un monde extraterrestre a ses inconvénients, mais la flore!La flore incroyable et ahurissante!Ça en vaut la peine." voice="Male" />
+  <Key key="_npc_Every_plant_here_is_a_mystery_" value="Chaque plante ici est un mystère qui attend d'être démêlé.C'est le frisson ultime pour un nerd de la botanique comme moi!" voice="Male" />
+  <Key key="_npc_Witnessing_the_alien_flora_her" value="Assister à la flore extraterrestre ici sur Kwalat ... c'est comme être dans un rêve." voice="Male" />
+  <Key key="_npc_I_ve_studied_the_presumed_Drea" value="J'ai étudié le Dreamshroom présumé de loin, mais obtenir un échantillon ... ce serait autre chose." voice="Male" />
+  <Key key="_npc_You_re_a_star__I_knew_I_could_" value="Tu es une star!Je savais que je pouvais compter sur un collègue explorateur.Bonne chasse!" voice="Male" />
+  <Key key="_npc_Fantastic__I_can_t_wait_to_see" value="Fantastique!J'ai hâte de voir un Dreamhroom de près.Soyez en sécurité là-bas!" voice="Male" />
+  <Key key="_npc_That_s_the_spirit__This_could_" value="C'est l'idée!Cela pourrait être une découverte révolutionnaire." voice="Male" />
+  <Key key="_npc_Ah__the_Dreamshroom_isn_t_goin" value="Ah, le Dreamshroom ne va nulle part, je suppose.Faites-moi savoir si vous changez d'avis." voice="Male" />
+  <Key key="_npc_Sure__I_get_it__Alien_mushroom" value="Bien sûr, je comprends.La chasse aux champignons extraterrestres n'est pas la tasse de thé de tout le monde.Peut-être une autre fois, hein?" voice="Male" />
+  <Key key="_npc_Bummer__Well__if_you_stumble_u" value="Déception.Eh bien, si vous tombez sur un pendant vos voyages, vous savez où me trouver." voice="Male" />
+  <Key key="_npc_So__my_fearless_explorer__ther" value="Donc, mon explorateur intrépide, il y a un type particulier de champignons autour de ces parties, je pense que cela s'appelle The Dreamshroom.Je meurs d'envie d'obtenir un échantillon.Que dites-vous, pouvez-vous chasser un pour moi?" voice="Male" />
+  <Key key="_npc_How_s_the_Dreamshroom_hunt_goi" value="Comment va la chasse au rêve?Rappelez-vous, il a un chapeau violet avec des taches blanches!" voice="Male" />
+  <Key key="_npc_Finding_a_Dreamshroom_is_no_ea" value="Trouver un Dreamshroom n'est pas une mince affaire.Mais je crois en toi!" voice="Male" />
+  <Key key="_npc_Remember__the_Dreamshrooms_hav" value="N'oubliez pas que les Dreamshrooms ont un chapeau violet distinct.Je ne peux pas le manquer!" voice="Male" />
+  <Key key="_goal_search_purple_mushroom" value="Trouvez des champignons violets!" />
+  <Key key="_QuestActionAddToJournal_MmC8" value="Trouvez des champignons violets!" />
+  <Key key="_npc_Incredible__I_can_t_believe_yo" value="Incroyable!Je ne peux pas croire que vous ayez trouvé un Dreamshroom.C'est ... c'est une grande étape pour la botanique!" voice="Male" />
+  <Key key="_npc_Look_at_that_purple_hat__The_D" value="Regardez ce chapeau violet!Le Dreamshroom est encore plus beau de près." voice="Male" />
+  <Key key="_npc_You_did_it__I_can_t_thank_you_" value="Tu l'as fait!Je ne peux pas vous remercier assez.Ce ... c'est un changeur de jeu!" voice="Male" />
+  <Key key="_varDescription_YKyB" value="Champignon" />
+  <Key key="_npc_Hell_yeah__got_a_mission_for_a" value="Enfer ouais, j'ai une mission pour un collègue explorateur.Tu jeux?" voice="Male" />
+  <Key key="_npc_Got_the_adventurous_spirit__hu" value="Vous avez l'esprit aventureux, hein?J'ai une quête sauvage ici, juste pour toi!" voice="Male" />
+  <Key key="_npc_Indeed__I_need_help_documentin" value="En effet.J'ai besoin d'aide pour documenter la flore unique de cet endroit.Intéressé?" voice="Male" />
+</Node>

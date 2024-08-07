@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dwarf_miner" type="external">
+  <Key key="_npc_The_name_s_Grizzle_Ironfoot__p" value="Le Grizzle Ironfoot du nom, fier mineur Yorner à votre service." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Born_to_a_hearty_brood_of_mine" value="Né à une copie de mineurs, je balançais une pioche depuis que je suis au genou à un gobelin." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_ve_devoted_me_life_to_the_my" value="Je me suis consacré à la vie aux mystères de la pierre et de la veine, dénicher les secrets de ceci des bois de Westwind." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_As_long_as_I_ve_got_stone_unde" value="Tant que j'ai des bottes en pierre sous moi et une pioche à la main, j'ai raison comme la pluie!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Ah__Ratchet_sent_ya__I_ve_got_" value="Ah, Ratchet vous a envoyé?J'ai la partie pour laquelle il cherche, mais j'ai d'abord besoin d'une faveur." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_ve_got_the_strength_of_the_e" value="J'ai la force de la terre en moi et le feu de la forge en moi, comment tu penses que je fais?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Ah__the_Westwind_Woods__Ain_t_" value="Ah, the Westwind Woods! Ain't no finer place for a miner in all of Goldenfield." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_The_soil_s_rich_with_ore__vein" value="Le sol est riche de minerai, les veines omniprésent les racines, attendez juste pour être tapotée." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Truth_is__they_use_mana_tech_t" value="Truth is, they use mana tech to their advantage. Not like me." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Aye__I_could_do_with_a_sturdy_" value="Aye, I could do with a sturdy hand or two." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_There_s_a_task_needs_doin___if" value="Il y a une tâche qui doit faire, si vous avez la colonne vertébrale pour cela." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Got_a_pickaxe_and_a_willin__he" value="Vous avez une pioche et un cœur volontaire?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Indeed__it_s_a_miner_s_life_fo" value="En effet, c'est la vie d'un mineur pour nous!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_m_good_for_now__lad__but_I_l" value="Je suis bon pour le moment, garçon, mais je vais vous garder à l'esprit." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Today_s_haul_s_been_good__no_n" value="Le transport d'aujourd'hui a été bon, pas encore besoin de mains supplémentaires." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_No_tasks_for_now__just_me_and_" value="Pas de tâches pour l'instant, juste moi et le rythme des pierres." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_A_miner_s_got_his_pride__Can_t" value="Un mineur a sa fierté.Je ne peux pas compter sur les autres tout le temps." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_ve_got_this_gut_feelin__ther" value="J'ai ce sentiment d'intestin «il y a plus que du minerai régulier dans ces bois." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_If_ya_could_lend_a_hand_diggin" value="Si vous pouviez prêter un minerai à déterminer jusqu'à ce que vous en trouviez, nous ferons l'histoire.Nous prouvons qu'il y a plus à ces bois qui rencontrent l'œil!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Rubies_and_Diamonds___I_can_fe" value="Rubies et diamants - Je peux me sentir chuchoter du cœur de la terre, mais je n'arrive pas à les atteindre." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Ain_t_the_miner_s_life_for_eve" value="La vie du mineur n'est pas pour tout le monde." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Aye__it_s_a_tough_path__No_sha" value="Oui, c'est un chemin difficile.Pas de honte à revenir en arrière." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Can_t_force_a_man_to_face_the_" value="Je ne peux pas forcer un homme à faire face à la terre.L'appel doit venir de l'intérieur." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_ve_found_traces_of_a_rare__r" value="J'ai trouvé des traces d'un isotope radioactif rare dans ces bois, Isotope-238." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_It_s_tickling_me_whiskers_with" value="Il me chatouille des moustaches avec son potentiel!Mais l'extraction est un peu collante." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_If_ya_think_you_ve_got_the_gri" value="Si vous pensez avoir le grain, ce serait une aubaine pour nos recherches." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Well__can_t_say_I_blame_ya__It" value="Eh bien, je ne peux pas dire que je vous blâme.C'est un jeu dangereux, exploitant des matières radioactives." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Aye__it_s_a_bit_much__Not_all_" value="Oui, c'est un peu trop.Nous ne sommes pas tous découpés pour ce genre de choses." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_That_s_okay__It_s_a_risky_job_" value="C'est bon.C'est un travail risqué, et je ne vous tiendrai pas contre vous." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_It_almost_reminds_me_of_Yorner" value="Cela me rappelle presque Yorner.Les habitants prétendent être les meilleurs mineurs du monde." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_No__I_only_need_my_two_hands_a" value="Non, je n'ai besoin que de mes deux mains et de mes veines.Je peux trouver un trésor que leur technicien mana détruirait!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_If_you_change_your_mind__you_k" value="Si vous changez d'avis, vous savez où me trouver." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_You_ll_have_to_dig_through_a_l" value="Vous devrez fouiller beaucoup de nœuds pour en trouver, mais cela en vaudra la peine." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

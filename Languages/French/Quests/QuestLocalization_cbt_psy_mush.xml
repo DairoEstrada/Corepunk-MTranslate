@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_psy_mush" type="external">
+  <Key key="_goal_goto_goblah_pos2" value="Parler au gobelin" />
+  <Key key="_goal_geth_mush" value="Rassemblez les larves de coléoptères à feuilles, autour du champ de pastèque" />
+  <Key key="_QuestActionAddToJournal_Tjz8" value="J'ai mis les larves riches en protéines dans le réservoir de clonage.Je dois parler au gobelin maintenant." />
+  <Key key="_npc_They_re_growing_around_the_wat" value="Vous pouvez trouver des coléoptères à feuilles tout autour du champ de pastèque.Lorsque vous aurez terminé, il y aura juste une petite chose à faire de plus." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Beeep__" value="CLONING TANK Version 2.03.Bonne journée, grand maître gobelin papa!La température et la pression sont stables.Souhaitez-vous commencer un nouveau cycle de clonage?" voice="Female" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_The_clone_development_is_boost" value="Matériel ADN: présent.Source des protéines supplémentaires: Présent.Numéro de cycle de clonage 420 initié.Merci papa." voice="Female" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Privet" value="Vous l'avez fait, hein.Merveilleux.Mais oui, pas un mot sur ce que vous avez vu dans ma maison." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_QuestActionAddToJournal_Vkdx" value="Je dois tuer un IMP et obtenir son cerveau vivant." />
+  <Key key="_goal_goto_mana_tank" value="Mettez le cerveau et les larves dans le réservoir de clonage" />
+  <Key key="_npc_But_I_doubt_you_can_get_there_" value="La meilleure façon de gagner votre gain est de vous embaucher à la station de mana locale.Mais je doute qu'ils vous laisseront travailler là-bas sans les documents.Vous pouvez les demander à l'administration de Riverrise, hein." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goalVoice_Ikra" value="Vous devrez m'apporter imprimement le cerveau vivant.Tuez un couple, l'un d'eux doit avoir un cerveau.Essayez simplement de les tuer avec soin.Ils se gâtent rapidement et mettent la merde de la scarabée dans le réservoir de clonage.Tout est contrôlé par l'IA, très facile." voice="Male" />
+  <Key key="_assistant_phrase_CcCF" value="Cela devrait être suffisant.J'espère que le prochain clone aura au moins quelques esprits.En parlant de, vous devrez m'apporter un cerveau de l'impression.Un frais de préférence." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_QuestActionAddToJournal_bhE9" value="Gotta a mis les larves de scarabées à feuilles et le cerveau dans le réservoir de clonage.C'est au Bureau du gobelin." />
+  <Key key="_assistant_phrase_4PuZ" value="Tuez simplement l'un de ces petits baiseurs et apportez le cerveau chez moi.Ensuite, mettez toutes les choses dans le réservoir de clonage.Tout est contrôlé par l'IA et très facile." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_assistant_phrase_b6Gb" value="Et bon, ce n'est pas très légal dans ces terres, donc j'apprécierais si vous vous êtes silencieux, hein?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goal_collct_shishi" value="Obtenez un cerveau vivant d'un imp" />
+  <Key key="_goalVoice_hJ7X" value="Et mettez la merde de la scarabée dans le réservoir de clonage.Tout est contrôlé par l'IA, très facile." voice="Male" />
+  <Key key="_npc_You_did_it__eh__Marvelous__But" value="Vous l'avez fait, hein.Merveilleux.Mais oui, pas un mot sur ce que vous avez vu dans ma maison." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Look__I_know_someone_who_ought" value="D'accord, maintenant tu devrais y aller.Ouais.Allez simplement vivre votre vie.Heureusement.Pas ici." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_varDescription_RPTs" value="Gathered" />
+  <Key key="_QuestActionAddToJournal_73Gd" value="Goblin m'a dit que ce n'étaient pas vraiment ses frères.Je devrais rassembler des larves de coléoptères pour lui et les amener à son bureau." />
+  <Key key="_goalVoice_6AbX" value="D'accord, rassemblez simplement des larves de scarabées à feuilles.Je vais vous montrer de quoi je parle.Vous pouvez les trouver des coléoptères à feuilles tout autour du champ de pastèque.Lorsque vous avez terminé, mettez-les simplement dans le réservoir, dans mon bureau.Tout est contrôlé par l'IA, très facile.Et bon, ce n'est pas très légal dans ces terres, donc j'apprécierais si vous vous êtes silencieux, hein?" voice="Male" />
+  <Key key="_varDescription_cXz1" value="Gathered" />
+</Node>

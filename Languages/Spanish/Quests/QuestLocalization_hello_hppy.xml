@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_hppy" type="external">
+  <Key key="_npc_Hey_there__friend_" value="¡Hola amigo!" />
+  <Key key="_npc_Oh__hiya_" value="¡Oh, hola!" />
+  <Key key="_npc_Well__look_who_s_here_" value="Bueno, ¡mira quién está aquí!" />
+  <Key key="_npc_Hi__Great_to_see_you_" value="¡Hola!¡Genial para verte!" />
+  <Key key="_npc_Hello__sunshine_" value="¡Hola Luz de sol!" />
+  <Key key="_npc_Hey__hey__hey_" value="¡Hey hey hey!" />
+</Node>

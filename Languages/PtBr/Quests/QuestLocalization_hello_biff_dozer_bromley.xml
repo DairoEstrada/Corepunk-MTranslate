@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_biff_dozer_bromley" type="external">
-  <Key key="_npc_Hm__Oh__hey_" value="HM?Oh, ei." />
-  <Key key="_npc_Wha_oh__hi_there_" value="O que oh, oi." />
-  <Key key="_npc_Oh__morning_" value="Oh, de manhã." />
-  <Key key="_npc_Ah__you_re_here_" value="Ah, você está aqui." />
-  <Key key="_npc_Sorry__nodded_off_" value="Desculpe, assentiu." />
-  <Key key="_npc_Oh__hello_" value="Oh, olá." />
-</Node>

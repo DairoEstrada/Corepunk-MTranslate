@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_the_guardinator" type="external">
-  <Key key="_npc_Halt_" value="Detener." />
-  <Key key="_npc_State_your_purpose_" value="Indique su propósito." />
-  <Key key="_npc_Greetings__traveler_" value="Saludos, viajero." />
-  <Key key="_npc_Welcome__Identify_" value="Bienvenido.Identificar." />
-</Node>

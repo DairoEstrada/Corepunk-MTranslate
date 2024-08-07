@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eye_see_you" type="external">
+  <Key key="_npc_Go_on_then__let_s_see_what_you" value="Continuez alors, voyons ce que vous avez fait!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_Well__well__how_s_the_hunt_goi" value="Eh bien, bien, comment va la chasse?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_Collect_Eye_of_the_Beast" value="Recueillir l'œil de la bête" />
+  <Key key="_npc_I_ll_be_a_monkey_s_uncle__You_" value="Je serai un oncle d'un singe!Vous l'avez fait!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Good_luck_out_there__you_ll_ne" value="Bonne chance là-bas, vous en aurez besoin." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Remember__it_s_not_just_about_" value="N'oubliez pas, il ne s'agit pas seulement de la chasse, il s'agit de la compétence et du respect que vous gagnez." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Holy_Hell__You_ve_actually_ret" value="Juste ciel.Vous êtes en fait revenu avec un œil de la bête.Maintenant, je ne dois pas vous lancer à travers la grange." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_ve_heard_you_ve_been_helping" value="J'ai entendu dire que vous avez aidé, mais apporter une coquille de tortue verte à Martha est une chose.La véritable compétence est montrée dans la maîtrise de l'art de la boucherie." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goalVoice_Remember__I_need_an_Eye_of_the" value="Rappelez-vous, j'ai besoin d'un œil de la bête d'un loup, et il vaut mieux être frais.Aventurez-vous dans les bois au sud de Goldenfield, c'est-à-dire où vous trouverez votre proie.Ce ne sera pas facile.Il peut être préférable de se regrouper avec certains de ces autres lowlives." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_If_you_can_bring_me_an_Eye_of_" value="Si vous pouvez m'apporter un œil de la bête d'un loup vicieux, vous gagnerez votre place parmi les meilleurs cavaliers de portail.Ce n'est pas une tâche facile, mais je crois que vous avez ce qu'il faut." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_QuestActionAddToJournal_Butch_O_Hara_Goldenfield__Barn" value="Butch O'Hara&#10;Goldenfield, grange.&#10;&#10;Prouvez vos prouesses de boucherie en apportant à Butch le boucher un cœur de loup encore battant." />
+  <Key key="_npc_I_ve_got_a_challenge_for_you__" value="J'ai un défi pour vous.Les légendes disent que l'extraction de l'œil d'un loup est le test ultime de la compétence de tout boucher." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_Collect_a_Beating_Heart" value="Recueillir l'œil de la bête" />
+  <Key key="_npc_Ah__I_thought_you_had_more_gri" value="Ah, je pensais que tu avais plus de grain en toi." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Not_everyone_is_cut_out_for_th" value="Tout le monde n'est pas découpé pour le chemin du boucher." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_No_worries__maybe_another_time" value="Pas de soucis, peut-être une autre fois." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

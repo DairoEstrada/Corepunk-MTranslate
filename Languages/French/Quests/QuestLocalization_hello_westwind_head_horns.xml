@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_westwind_head_horns" type="external">
+  <Key key="_npc_Is_that_an_organ_donor_card_in" value="Est-ce une carte donneuse d'organes dans votre pantalon, ou êtes-vous juste heureux de me voir?" voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Hey_there__don_t_just_stand_th" value="Hé là, ne vous tenez pas là à l'air jolie!Me déposer un sur moi." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Your_eyes_look_like_forever___" value="Vos yeux ressemblent à toujours ... mais ils vendraient dans une minute." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Over_here_cutie__don_t_be_shy_" value="Ici Cutie, ne soyez pas timide.Je ne mordrai pas ... dur." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Oh_honey__you_look_hex_traodin" value="Oh chérie, tu as l'air hexadécimal-traodinaire aujourd'hui!" voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_I_love_your_voice____what_else" value="J'adore ta voix ... que fait cette bouche d'autre?" voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Who_needs_a_knight_in_shining_" value="Qui a besoin d'un chevalier en armure brillante quand je pourrais juste vous avoir nu?" voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+</Node>

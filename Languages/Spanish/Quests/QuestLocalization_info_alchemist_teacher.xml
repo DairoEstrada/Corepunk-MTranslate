@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_alchemist_teacher" type="external">
+  <Key key="_npc_I_used_to_live_it_up_in_Leitha" value="Solía ​​vivirlo en Leithana, pero luego me enviaron aquí a Goldenfield para UH .... 'Experiencia práctica'." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_No_worries__mate__I_ll_just___" value="No te preocupes, amigo.Solo ... eh ... improvisa, supongo ..." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_was_having_the_time_of_my_li" value="Estaba pasando el mejor momento de mi vida en la universidad hasta que me quedé dormido durante el folleto de la tarea.Lo siguiente que supe es que estaba atrapado en este lugar provincial." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Well__back_to_plan_B____once_I" value="Bueno, volviendo al Plan B ... una vez que descubro qué es eso ..." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_ll_give_you_the_recipe__you_" value="Te daré la receta, haces toda la elaboración.Entonces podemos fingir que eres uno de mis exitosos estudiantes de recién llegados.¿Qué dices, amigo?" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_And_because__yesterday_s_party" value="Y porque la fiesta de ayer con los lugareños fue demasiado alegre.Esta resaca me está matando." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_ve_got_a_plan__though__You_l" value="Sin embargo, tengo un plan.Crearás algo simple, como analgésicos.Principalmente porque esa es la única receta que doy gratis." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_See__I_m_supposed_to_be_this_a" value="Mira, se supone que debo ser esta alquimia maestra enseñando a los Outlanders las cuerdas.En realidad, apenas puedo decir una poción de maná de una cerveza." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_m_good__for_the_time_being__" value="Estoy bien, por el momento.Pero gritaré si necesito ayuda." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_m_alright_for_now__But_thank" value="Estoy bien por ahora.Pero gracias por la oferta, hombre." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_No_need_now__amigo__But_I_ll_k" value="No hay necesidad ahora, Amigo.Pero te tendré en cuenta." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_m_in_a_bit_of_a_pickle_here_" value="Estoy en un poco de pepinillo aquí.¿Puedes ayudar?" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_m_in_deep_need_of_help__man_" value="¡Necesito una profunda ayuda, hombre!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_You_bet_I_do__buddy__I_could_u" value="Apuesto a que lo hago, amigo.Podría usar una mano." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Just_watch_out_for_the_local_b" value="Solo ten cuidado con la cerveza local.¡Es más fuerte de lo que parece!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_It_s_a_nice_place_for_newcomer" value="Sin embargo, es un buen lugar para que los recién llegados comiencen su viaje.Los lugareños son sorprendentemente amigables para un grupo de personas de campo." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Goldenfield_is____it_s_okay__I" value="Goldenfield es ... Está bien, supongo.Es tranquilo, tal vez demasiado tranquilo para mi gusto.Carece de la vida nocturna de Leithana." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_The_best_part__You_can_have_se" value="¿La mejor parte?Puedes tener varios efectos de alquimia al mismo tiempo, como un cóctel de ... genialidad." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Voila__you_got_yourself_an_imp" value="Voila, tienes una versión mejorada con un efecto más largo y más fuerte." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_To_pump_up_the_volume_and_get_" value="Para bombear el volumen y obtener efectos más fuertes, debe agregar más recursos al consumible estándar." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_To_kick_start_this_party__I_me" value="Para iniciar esta fiesta, quiero decir ... para crear estos consumibles, necesitará recursos regulares y reciclados de carnicería, minería, tala y herbalismo." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Just_remember__every_consumabl" value="Solo recuerda, cada consumible es como una buena fiesta.Tiene una duración limitada, pero hará que su viaje a través de las tierras salvajes de Kwalat sea mucho más soportable." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_These_babies_don_t_come_in_dif" value="Estos bebés no vienen en diferentes cualidades.Pero, si tienes suerte, puedes obtener dos, incluso tres consumibles a la vez." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_You_get_to_whip_up_some_groovy" value="Puedes preparar algunos consumibles maravillosos como medicamentos, vacunas y ungüentos.Incluso puedes enrollar algunas juntas." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Though__on_the_bright_side__I_" value="Sin embargo, en el lado positivo, logré arrebatar algunas notas sobre la alquimia de la universidad.Para su información, todo es simple si miras de cerca.Genial incluso." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_But__hey____the_show_must_go_o" value="Pero, oye ... el programa debe continuar, ¿verdad?Tengo que enseñarle alquimia, incluso si apenas recuerdo nada de mis clases." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_m_struggling_a_bit__honestly" value="Estoy luchando un poco, sinceramente.La vida rural no es para mí.La falta de sueño tampoco ayuda." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Man__I_m_feeling____ugh__not_s" value="Hombre, me siento ... Ugh, no tan caliente, ¿sabes?Las fiestas con los lugareños pueden ser un poco ... intensas." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_And_guess_what__dude__With_eac" value="¿Y adivina qué, amigo?Con cada nuevo nivel de dominio, ¡la cantidad de efectos de alquimia que puedes apilar se disparará!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_m_Percival_Beamish__but_you_" value="Soy Percival Beamish, pero puedes llamarme Percy." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Well__that_s_a_fail__But_don_t" value="Bueno, eso es un fracaso.Pero no te preocupes por mí, ... ordenaré algo." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Believe_me__man__if_you_master" value="Créeme, hombre, si dominas la alquimia, te sentirás tan cómodo como un perezoso en un árbol.Incluso cuando explora los lugares más difíciles y salvajes de las tierras salvajes." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+</Node>

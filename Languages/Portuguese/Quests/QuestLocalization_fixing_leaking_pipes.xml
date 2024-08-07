@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fixing_leaking_pipes" type="external">
+  <Key key="_npc_Good__Oh__and_turn_off_the_wat" value="Bom!Ah, e desligue o suprimento de água primeiro!Ligue -o novamente após o reparo." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_varDescription_XSCC" value="Corrija tubos com vazamento" />
+  <Key key="_npc_You_actually_did_some_good_wor" value="Você realmente fez um bom trabalho.Além de esmagar metade das minhas colheitas." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Remember__the_sooner_we_fix_th" value="Lembre -se, quanto mais cedo corrigimos os vazamentos, mais cedo eu posso parar de xingar." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_goal_turn_off_water" value="Turn off water supply" />
+  <Key key="_QuestActionAddToJournal_PMMC" value="Kicheki&#10;Goldenfield, sudeste do poço&#10;&#10;Desligue o suprimento de água e substitua os tubos com vazamento por novos.Ligue -o novamente após o reparo." />
+  <Key key="_goalVoice_OmjH" value="Encontre e substitua os tubos vazando por novos.Você geralmente pode encontrá -los em barris ou caixas.Ah, e desligue o suprimento de água primeiro!Ligue novamente após o reparo" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_What__What_are_you_waiting_for" value="O que?O que você está esperando?Quer um chuveiro de ouro também?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Don_t_forget_those_pipes__outw" value="Não se esqueça desses canos, Outworlder.Seus hadnouts estão contando." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Found_those_pipes_yet__Clock_s" value="Já encontrou esses canos?O relógio está funcionando." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_goal_turn_on_water" value="Ligue o abastecimento de água" />
+  <Key key="_goal_repair_pipes" value=" " />
+  <Key key="_npc_Maybe_not_all_of_you_outworlde" value="Talvez nem todos vocês, superlator, sejam lixo.Tomar cuidado." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_After_the_repair__follow_the_p" value="Após o reparo, siga os tubos e corrija os vazamentos.Está ao meu lado a oeste.Você é cego, garoto?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+</Node>

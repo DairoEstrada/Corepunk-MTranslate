@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_villager_nav_goblin_01" type="external">
-  <Key key="_npc_" value=" " voice="Male" />
-  <Key key="_npc_TxT" value="Meh.Poderia ser pior.Pelo menos não tenho que lidar com o Goblin Nitwit." voice="Male" />
-  <Key key="_npc_At_his_house_of_course___color" value="At his house of course. It's in the West of the village. The only house with a weathercock." voice="Male" />
-</Node>

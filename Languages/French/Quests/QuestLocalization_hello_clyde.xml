@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_clyde" type="external">
+  <Key key="_npc_Got_anything_to_sell_" value="Vous avez quelque chose à vendre?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_What_s_on_offer_" value="Qu'est-ce qui est proposé?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Show_me_what_you_ve_got_" value="Montrez-moi ce que vous avez!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_You_a_seller_" value="Vous un vendeur?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Wanna_trade_" value="Tu veux échanger?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_New_items_" value="Nouveaux articles?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+</Node>

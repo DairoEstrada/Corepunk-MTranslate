@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_reboot" type="external">
+  <Key key="_npc_If_you_don_t_like_waiting__why" value="Si vous n'aimez pas attendre, pourquoi ne trouvez-vous pas le technicien et l'emmenez-le ici?" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goal_go_to_zone" value="Trouvez le technicien au bar local" />
+  <Key key="_QuestActionAddToJournal_B77x" value="Le poste de poste m'a dit que, afin de réparer le terminal, je dois trouver le technicien local.Il peut généralement être trouvé au bar local.Devrait y aller." />
+  <Key key="_npc_Just_gotta___just_gotta_turn_o" value="Je dois juste ... je dois juste désactiver la station de burp de puissance ... baise ... la sous-station électrique au nord du village, près de la plage, mm.Le mousseux!" voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_goal_use_terminal" value="Redémarrez la sous-station électrique au nord de la ville" />
+  <Key key="_QuestActionAddToJournal_Gdpm" value="Je dois redémarrer la centrale pour redémarrer le terminal.La centrale peut être trouvée derrière le bureau de poste." />
+  <Key key="_goal_speak_admin" value="Parler au technicien" />
+  <Key key="_QuestActionAddToJournal_R2KN" value="J'ai trouvé la barre.Maintenant, je dois parler à leur technicien." />
+  <Key key="_goal_speak_terminal" value="Utilisez le terminal" />
+  <Key key="_npc_Yo" value="Bonne journée, madame / monsieur." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_QuestActionAddToJournal_OGi8" value="J'ai redémarré la centrale électrique.Je dois maintenant redémarrer le terminal et ça va bien fonctionner." />
+  <Key key="_npc_Yeah__good_luck_with_that__The" value="Ouais, bonne chance avec ça.Le gars est probablement mort à nouveau ivre au bar.Veste rouge, pue d'alcool." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_You_want_that_junk_to_work_aga" value="Vous voulez que cette ordonnance fonctionne à nouveau, redémarrez-la.C'est ça.Pas grave.Juste cinq putains d'années à l'université et vous êtes bon.Ouais.Pas de biggie." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_npc_Think_you_can_figure_out_how_t" value="Vous pensez pouvoir comprendre comment redémarrer le terminal, hein?Ouais je le pensais..." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_npc_Uh___Burp__Wha_What_do_you_wan" value="Euh?Burp qui voulez-vous de moi, fuckface?Haha.Oh non, pas encore cette merde.Putain.C'est le putain de terminal postal, n'est-ce pas?" voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_goalVoice_5M9X" value="Si vous n'aimez pas autant attendre, pourquoi ne trouvez-vous pas et n'amenez-vous pas le technicien ici?Le gars est probablement mort à nouveau ivre au bar.Veste rouge, pue d'alcool." voice="Male" />
+  <Key key="_goalVoice_EpLA" value="Vous pensez pouvoir comprendre comment redémarrer le terminal hein?Ouais, je pensais que oui ... je dois juste ... Je dois juste désactiver le Power Sta-Burp ... Station ... Fuck ... La centrale électrique derrière le bureau de poste." voice="Male" />
+  <Key key="_npc_Now__it_s_my_lunchtime__so_I_w" value="Maintenant, c'est mon déjeuner, donc j'apprécierais vraiment si vous cessiez de me déranger." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_After_that__it_s_gonna_turn_on" value="Après cela, ça va allumer automatiquement automatique ... Auto ... en soi." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_npc_Yeah__I_m_fucking_done_fixing_" value="Ouais, j'ai fini de le réparer à chaque fois.Je suis en train de fini, je te le dis." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_npc_Yep__yep__dis_is_de_stuff__muh" value="Oui, oui, dis est de truc, muh ami.Hé, Joe, voilà.Allez, de bas en haut.Oui, DIS Betta.Dis gentleman voulait parler avec toi." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_goal_sober_admin" value="trouver un moyen de sobrer l'administrateur" />
+  <Key key="_QuestActionAddToJournal_S9mS" value="trouver un moyen de sobrer l'administrateur" />
+  <Key key="_QuestActionAddToJournal_U3AW" value="Je t'aide, mais j'ai besoin de racine parfumée" />
+  <Key key="_goal_wake_up_admin" value="Réveiller l'administrateur" />
+  <Key key="_npc_We_ran_outa_root_tho__If_you_w" value="Nous avons couru OUTA ROOT Tho.Si vous voulez parler à Guy, vous apportez un deux trois racines hea, ehe?Je fais du brassage, du gars boit, tu parles avec mec.Simple, ehe." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="bubble_phrase_K6eS" value="Une minute, je le ferai maintenant et il se réveillera" />
+  <Key key="bubble_phrase_HM3S" value="Il ne peut pas t'entendre, il est à nouveau ivre comme un cochon.Mais je peux vous aider!" />
+  <Key key="_npc_D___don_t_touch_me_you_hot___g" value="D .. Ne me touchez pas chaud .. Granny ... je ne suis pas ... comme ça ... Bueeee ... oh putain .. Était-ce dans mon estomac? .." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_npc_J_just_leave_me_alone__" value="J-juste me laisser seul .." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
+  <Key key="_npc_Eheheh__that_guy__eh__Aint_not" value="Eheheh, ce type, hein?Nottin qui les réveille mais Muh Root Brew, Mhm." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_Good_ting_you_already_have_one" value="Heureusement que vous en avez déjà un.Tu veux me le donner pour que je puisse faire Mah Brew?Dis être le seul moyen que vous puissiez lui parler maintenant, lui." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+</Node>

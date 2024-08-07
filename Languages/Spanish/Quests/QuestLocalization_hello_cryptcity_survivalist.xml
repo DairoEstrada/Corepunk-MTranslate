@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_cryptcity_survivalist" type="external">
+  <Key key="_npc_Halt__Keepers_stand_guard_here" value="¡Detener!Los guardianes son guardias aquí." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_The_Kind_s_Blessings_upon_you_" value="El tipo de bendiciones sobre ti.Explicate tú mismo." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_If_you_must_explode__please_do" value="Si debe explotar, ¡hágalo en silencio!" voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_By_the_King__halt__This_area_i" value="Por el rey, detenerse!Esta área está bajo vigilancia de los guardianes." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_The_Light_guard_you__Why_are_y" value="La luz te protege.¿Por qué estás en este mal lugar?" voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_Who_are_you__Another_foolish_t" value="¿Quién eres?¿Otro cazador de tesoros tontos?" voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_" value=" " voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+</Node>

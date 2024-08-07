@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_spiritual_cleansing_rocks_and_a_hard_place" type="external">
+  <Key key="_npc_Wonderful__you_re_a_true_seeke" value="Merveilleux, vous êtes un vrai chercheur d'harmonie!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Remember__this_isn_t_just_a_st" value="N'oubliez pas que ce n'est pas seulement une pierre." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Ah__you_return__How_fares_your" value="Ah, tu reviens.Combien de tarifs votre quête du diamant?" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Ah__the_cosmos_smile_upon_you_" value="Ah, the cosmos smile upon you. You've found it!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Here__take_this_relaxation_eli" value="Ici, prenez ce jeton de relaxation Elixir et de méditation comme un signe de notre gratitude." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Now__the_ritual__Sorry_you_can" value="Maintenant, le rituel!Désolé, vous ne pouvez pas vous joindre, mais cela ne fonctionne vraiment qu'avec trois personnes." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Maybe_next_time_I_ll_give_you_" value="Peut-être que la prochaine fois, je vais vous donner une session privée." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_a_Diamond" value="Récupérer un diamant" />
+  <Key key="_npc_Ah__the_path_of_enlightenment_" value="Ah, le chemin de l'illumination n'est pas pour tout le monde." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_If_you_change_your_mind__retur" value="Si vous changez d'avis, revenez ici et nous continuerons." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Seeking_a_diamond_is_your_purp" value="La recherche d'un diamant est votre objectif aujourd'hui." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_QuestActionAddToJournal_Guru_David_Goldenfield__Yoga_L" value="Guru David&#10;Goldenfield, Yoga Lake.&#10;&#10;Aider Guru David à préparer un rituel de nettoyage spirituel en trouvant un diamant pour apaiser Tiffany." />
+  <Key key="_goalVoice_Seek_out_a_diamond__Delve_into" value="Cherchez un diamant.Donnez-vous dans les minerais de Kwalat, et vous pourriez en découvrir un.N'oubliez pas, un diamant stimulant de la paix.Mon minerai;L'univers récompense le diligent.La tranquillité dépend de ce diamant.Découvrez autant de taches dans les mines que possible." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_You_should_find_one_by_mining_" value="Vous devriez en trouver un en exploitant le minerai ici.Vous savez, dans les mines?" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_need_you_to_find_a_diamond_t" value="J'ai besoin que vous trouviez un diamant pour apaiser Tiffany - er, le chakra chamanique." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_You_ve_been_invaluable__But_th" value="Vous avez été inestimable.Mais il y a une autre question délicate à portée de main." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_You_see__Tiffany_has_begun_to_" value="Vous voyez, Tiffany a commencé à grandir ... jaloux du rubis de Cassidy." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_The_balance_of_our_harmonious_" value="L'équilibre de notre rituel harmonieux est maintenant en jeu." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+</Node>

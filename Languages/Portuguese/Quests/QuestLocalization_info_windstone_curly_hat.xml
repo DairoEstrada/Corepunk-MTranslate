@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_windstone_curly_hat" type="external">
+  <Key key="_npc_I_m_Eddie_Thornfield__I_m_the_" value="Eu sou Eddie Thornfield.Eu sou o enteado do fazendeiro Gregory.Eu corro as coisas agora que ele é cego." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_Talk_to_me_if_you_have_any_bus" value="Fale comigo se você tiver algum negócio.Claro, meu meio -irmão Eric é o herdeiro legal, mas ele é uma vadia preguiçosa.Ele apenas o mandará de volta para mim." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_m_gonna_be_a_big_man_in_thes" value="Eu vou ser um homem grande nessas partes algum dia.Veja se eu não sou." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_the_Old_Man_isn_t_going_to_las" value="O velho não vai durar muito mais tempo.Então veremos de quem é realmente responsável." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_What_s_it_to_you_" value="O que é isso para você?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_m_a_big_man_in_these_parts__" value="Sou um homem grande nessas partes e vou ser muito maior em breve." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_Gregory_is_trying_to_keep_me_a" value="Gregory está tentando me manter longe de sua coleção de artefatos, mas ele é cego e eu sou persistente." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_ll_learn_their_secrets__See_" value="Vou aprender seus segredos.Veja se eu não." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_All_I_want_is_what_I_deserve__" value="Tudo que eu quero é o que eu mereço.Isso é pedir muito?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_There_s_a_place_in_my_organiza" value="Há um lugar na minha organização para pessoas inteligentes que podem seguir ordens sem fazer perguntas.Isso é você?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_This_is_Farmer_Gregory_s_Farm_" value="Esta é a fazenda Gregory's Farm.É assim que eles chamam." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_Someday_it_will_have_a_differe" value="Algum dia, terá um nome diferente.Um nome melhor." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_My_stepfather__Gregory__has_ma" value="Meu padrasto, Gregory, chegou à fazenda mais rica do território." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_My_brother__Eric__is_set_to_in" value="Meu irmão, Eric, está definido como herdá -lo.A menos que ocorra algum evento imprevisto.Heheh." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_got_nothing_else_to_say_on_t" value="Não tenho mais nada a dizer sobre o assunto." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_do__Can_you_keep_your_mouth_" value="Eu faço.Você pode manter a boca fechada?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_Depends__Do_you_have_any_brain" value="Depende.Você tem algum cérebro?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_need_people_who_can_do_what_" value="Eu preciso de pessoas que possam fazer o que eu digo.Isso é você?" voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_always_need_muscle__Sure_" value="Eu sempre preciso de músculos.Claro." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_Nah__My_boys_can_handle_it_" value="Nah.Meus meninos podem lidar com isso." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_don_t_know_you_" value="Eu não te conheço." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_I_don_t_take_to_outsiders__Com" value="Eu não leva a pessoas de fora.Volte mais tarde." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+  <Key key="_npc_No__I_have_to_handle_these_pro" value="Não. Eu tenho que lidar com esses problemas sozinho." voiceSettingsId="ZHU8qh2Je5WtyqGSogMO" />
+</Node>

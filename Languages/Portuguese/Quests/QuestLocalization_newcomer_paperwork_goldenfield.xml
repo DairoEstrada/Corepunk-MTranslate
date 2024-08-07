@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_newcomer_paperwork_goldenfield" type="external">
+  <Key key="_QuestActionAddToJournal_RY7d" value="Encontre o formulário de recém -chegado perto da Zikk House, está no norte do portal" />
+  <Key key="_npc_Damn_it__this_piece_of_rust_is" value="Você sabe quantas leis você quebrou saindo deste portal?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_goto_giver" value="Encontre -se com o irmão de Zikk na vila" />
+  <Key key="_goal_goto_goblah" value="Fale com o especialista acolhedor." />
+  <Key key="_QuestActionAddToJournal_hQOY" value="Zikk clankwhistle&#13;&#10;Dusktide Forest, no portal&#10;&#10;Fale com o especialista em boas -vindas do Outworlder.Ele deveria estar à vista." />
+  <Key key="_assistant_phrase_RKq2" value="Ah, e diga a ele que é o turno dele agora!Estou cansado de ficar aqui, assistir o portal e fazer xixi em uma jarra de uísque." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_He_s_asking_every_newcomer_to_" value="Ele está pedindo a todos os novatos que me dissessem para fazer seu turno no portal.Sem respeito por seu irmão mais velho." voice="Male" />
+  <Key key="_npc_There_are_some_spare_forms_by_" value="Existem algumas formas sobressalentes na minha casa, na mesa lá fora.Comece e encontre -os." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_No__you_don_t_Don_t_try_to_mes" value="Não, você não.Não tente mexer comigo.Você precisa ser registrado, amigo, como todos os outros outworlder." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_d_think__right__Everyone_s" value="Você pensaria, certo?Todo mundo está apenas cuidando de seus negócios, ocupado com suas colheitas e outros enfeites, enquanto eu tenho que lidar com todos vocês e seus papéis." voice="Male" />
+  <Key key="_assistant_phrase_Here_s_a_friendly_reminder__on" value="Aqui está um lembrete amigável: apenas se aproxime da minha casa para obter o formulário.Qualquer atividade não relacionada pode ser considerada invasão.Em termos mais simples: não toque em mais nada." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Anyway__you_have_to_be_registe" value="De qualquer forma, você deve ser registrado aqui.Procedimento padrão.Eu simplesmente não tenho nenhum formulário em branco restante." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_IaJ8" value="Uau, você é mais inteligente do que a maioria dos jumpers do portal!Agora vá transformar o formulário para meu irmão.Ele deve estar em algum lugar em Goldenfield.Não sei, pergunte a alguém." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_know__you_look_pale__If_yo" value="Você sabe, você parece pálido.Se você vai morrer, não faça isso aqui.Vou ter que lidar com seu corpo." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_What_is_it__I_m_kinda_busy_wit" value="O que é?Estou meio ocupado com todos os recém -chegados." voice="Male" />
+  <Key key="_goalVoice_Please_speak_to_the_outworlder" value="Fale com o especialista em boas -vindas do Outworlder.Ele deveria estar por perto.Não morra e tenha um bom dia." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goalVoice_Again__The_forms_are_my_house_" value="De novo?Os formulários são minha casa ao norte, basta seguir a estrada.Eles estão sobre a mesa lá fora.Vou te dar mais instruções quando estiver perto.Enquanto você estiver, pare e veja Maxwell enquanto viaja para o norte pela estrada.Ele vai te ensinar como fazer uma fogueira, entre outras coisas." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_At_least_you_re_honest___I_don" value="Pelo menos você é honesto - eu também não sei." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_Go_make_an_official_inquiry_to" value="Vá fazer uma investigação oficial ao meu irmão.Ele está no Bureau, no centro de Goldenfield.Basta seguir a estrada para o norte e perguntar quando chegar lá." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_So_you_re_an_outworlder__eh__H" value="Então você é um outworlder, eh ... Como você gosta aqui em Kwalat?Legal, não é?" voice="Male" />
+  <Key key="_goal_find_part" value="Encontre formulário de recém -chegado" />
+  <Key key="bubble_phrase_Gvai" value="Varredura.Por favor, fique parado." />
+  <Key key="bubble_phrase_FbvZ" value="Por favor, fale com o especialista em boas -vindas do Outworlder." />
+  <Key key="bubble_phrase_h7OW" value="Não morra e tenha um bom dia." />
+  <Key key="bubble_phrase_TgM1" value="Perigo: 0,5 %." />
+  <Key key="bubble_phrase_dIM4" value="Utility: 0.3 percent." />
+  <Key key="bubble_phrase_TPJS" value="He's supposed to be in the closest proximity." />
+  <Key key="_npc_Anyways__I_can_t_do_shit_for_y" value="De qualquer forma, não posso fazer merda por você agora.Já temos mais ouvidos ou mais inúteis correndo por aqui.Na verdade, por que você não vai se juntar a eles?" voice="Male" />
+  <Key key="_npc_Sorry_you_had_to_go_through_th" value="Desculpe, você teve que passar por isso.Meu ... Uh, irmãos podem ser bastante burros.Especialmente aquele." voice="Male" />
+  <Key key="_npc_That_s_why_I_m_here__But_I_ran" value="É por isso que estou aqui.Mas fiquei sem formas com todos vocês inundando." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_RHbS" value="Você não pode matar um rato enquanto seu estômago está rosnando mais alto do que o seu grito de guerra!Se você não está mordendo o Grub, estará mordendo a poeira.Pegue um pouco de comida na barriga antes de acabar sendo uma história de fantasma embaraçosa, você entorpece!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_So__do_me_a_favor_and_scoot__M" value="Então, faça -me um favor e scoot.Meu lugar fica no norte.E lembre -se, nem pense em incomodar minha namorada.Próximo!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Oh__you_re_one_of_them__eh__So" value="Oh ... você é um deles, não é?Então você já conheceu meu clon ... Fechar um parente?" voice="Male" />
+  <Key key="_assistant_phrase_CvV6" value="Hello? Can you hear me? I put a transmitter on you so I can keep an eye on you. All in the name of safety, of course. The newcomer form should be on the table outside. Or on the porch. Might have left it in the mailbox too. No clue really." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_Stop_by_and_introduce_your_sor" value="Pare e apresente sua traseira lamentável a Maxwell.Ele ajudará a lhe ensinar alguns básicos, como não morrer em nosso mundo!Seria um olhar terrível para nós." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

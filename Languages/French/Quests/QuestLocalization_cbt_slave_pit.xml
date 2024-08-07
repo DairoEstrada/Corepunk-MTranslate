@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_slave_pit" type="external">
+  <Key key="_npc_Privet" value="Bonjour" voice="Male" />
+  <Key key="_goal_search_ppl" value="Trouver un esclave" />
+  <Key key="_QuestActionAddToJournal_6GeD" value="Trouvez et apporte-moi une personne" />
+  <Key key="_npc_Chto_ty_mne_khochesh__predlozhit__" value="Que voulez-vous m'offrir?" voice="Male" />
+  <Key key="_goal_go_zone" value="Amenez-le au gang" />
+  <Key key="_QuestActionAddToJournal_hKK6" value="Emmenez-le au point" />
+  <Key key="_goal_speak_rab" value="Parler à l'esclave" />
+  <Key key="_npc_O_net" value="Oh non" voice="Male" />
+  <Key key="_goal_speak_slaver" value="Parler à un commerçant d'esclaves" />
+  <Key key="_QuestActionAddToJournal_ccxO" value="Parler à un commerçant d'esclaves" />
+  <Key key="_npc_Ty_vernulsya" value="Vous êtes de retour" voice="Male" />
+  <Key key="_goal_end_quest" value="Parle encore" />
+  <Key key="_QuestActionAddToJournal_M7kA" value="Bien" />
+  <Key key="_npc_I_chto" value="Et quoi" voice="Male" />
+  <Key key="_npc_Nado_podumat_" value="Besoin de penser" voice="Male" />
+  <Key key="player_Correct_answer" value="Bonne réponse" />
+  <Key key="_npc_Ne_uveren__a_ty_mozhesh_" value="Je ne sais pas si vous pouvez" voice="Male" />
+  <Key key="_npc_Net" value="Non" voice="Male" />
+  <Key key="_npc_Khorosho_poydu_s_toboy" value="Ok je vais aller avec toi" voice="Male" />
+  <Key key="_QuestActionAddToJournal_VFnY" value="Parler à l'esclave" />
+</Node>

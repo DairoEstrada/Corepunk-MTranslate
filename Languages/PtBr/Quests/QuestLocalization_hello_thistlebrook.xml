@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_thistlebrook" type="external">
-  <Key key="_npc_Oh__thank_goodness_" value="Oh, graças a Deus!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
-  <Key key="_npc_You_startled_me_" value="Você me assustou!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
-  <Key key="_npc_Ah__finally_" value="Ah, finalmente!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
-  <Key key="_npc_Oh__it_s_a_person_" value="Oh, é uma pessoa!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
-  <Key key="_npc_Thought_someone_would_never_co" value="Pensei que alguém nunca viria!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
-  <Key key="_npc_Whew__someone_s_here_" value="Ufa, alguém está aqui!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
-</Node>

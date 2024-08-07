@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_weaponsmithing_lesson" type="external">
+  <Key key="_npc_That_s_some_fine_workmanship__" value="That's some fine workmanship. I can tell this won't explode... at least for a bit." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Remember__the_bigger_the_boom_" value="Lembre -se, quanto maior o boom, melhor a arma." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_How_s_that_launcher_coming_alo" value="Como está o lançador, Hotshot?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Remember__you_need_Leather__Am" value="Lembre -se, você precisa de couro, âmbar, lingote de ferro e 2 jóias." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_goalVoice_Don_t_forget_to_craft_that_Ass" value="Não se esqueça de criar esse lançador de assalto.Lembre -se de que você precisa de couro, âmbar, lingote de ferro e 2 jóias." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Okey_dokey__Get_to_work_and_le" value="Entendido!Comece a trabalhar e vamos fazer um pouco de mágica ... ou melhor, um lançador!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_goal_collect_item" value="Lançador de assalto" />
+  <Key key="_QuestActionAddToJournal_5dwi" value="chave catraca&#10;Goldenfield, perto da oficina&#10;&#10;Ajude a Ratchet a criar um lançador de assalto." />
+  <Key key="_npc_Got_that_Assault_Launcher_yet_" value="Já tem esse lançador de assalto?Estou ansioso por alguma destruição." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_And_remember__the_best_defense" value="E lembre -se, a melhor defesa é uma boa arma!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+</Node>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_spore-tal_power" type="external">
+  <Key key="_npc_Opting_out_of_some_organic__ex" value="¿Estamos optando por una 'extracción' orgánica?Alguien más tendrá la alegría, supongo." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh_dear__no_fun_guy_in_fungi_t" value="Dios mío, ¿no hay un chico divertido en hongos hoy?" />
+  <Key key="_npc_Alrighty__but_remember__those_" value="Muy bien, pero recuerda, ¡esas criaturas de hongos no se suicidan!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goalVoice_Remember__we_need_that_preciou" value="Recuerde, ¡necesitamos esa preciosa sílice de esas criaturas de hongos no tan amigables!Mantenga un comportamiento alegre mientras cosechas la esencia después de todo, todo esto es por una causa mayor, ¿verdad?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Of_course__the_forest_is_teemi" value="Por supuesto, el bosque está repleto de imps y demonios, pero bueno, ¿qué es una aventura sin un poco de pandemonio?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_All_you_have_to_do_is_liberate" value="¡Todo lo que tienes que hacer es liberar mi sílice con más asesinato!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Well__actually__we_just_need_5" value="Bueno, en realidad, solo necesitamos 5 sílice.¡Pero lo robaron!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Now__about_the_portal__It_s_a_" value="Ahora, sobre el portal.¡Es un verdadero perezoso, pero tengo una sospecha astuta de que las almas de esas deliciosas criaturas de hongos serán lo último que necesitamos!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__my_favorite_adventurer__Ba" value="¡Oh, mi aventurero favorito!Volver de nuevo para el último paso, ¿verdad?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_talk_npc" value="Volver a Driscoll-99" />
+  <Key key="_npc_Gosh_dang_it__It_still_won_t_t" value="¡Dios mío!Todavía no se enciende.Debe haber algo más que nos estamos perdiendo." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Here___" value="Aquí..." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Now_that_we_have_all_of_the_bl" value="Ahora que tenemos toda la sangre y el jugo que necesitamos, intentemos voltear a este bebé." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Fantastic__You_ve_managed_to_n" value="¡Fantástico!¡Has logrado no convertirte en Forest Mulch!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Wonderful__Now__go_spill_some_" value="¡Maravilloso!¡Ahora, ve a derramar un poco de &quot;sangre&quot; fúngica por una causa mayor!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_QuestActionAddToJournal_Driscoll_99__Westwind_Woods__O" value="Driscoll-99&#10;Westwind Woods, antiguo portal.&#10;&#10;Ayude a Driscoll-99 recolectando 5 sílice de hongos muertos para el portal." />
+  <Key key="_npc_Well__shucks__Guess_the_forest" value="Bueno, shucks!Supongo que las criaturas del bosque pueden mantener su esencia un poco más larga." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_varDescription_Collect_Fungus_Silica" value="Recoger sílice de hongos" />
+  <Key key="_npc_We___" value="We..." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_GO_" value="¡IR!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc____" value="..." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__the_sweet_scent_of_success" value="¡Oh, el dulce aroma del éxito!¿O es ese hongo?Bueno, ¿conseguiste la sílice?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+</Node>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fragments_of_the_forgotten" type="external">
+  <Key key="_npc_Oh__wait__It_s_coming_back_to_" value="Oh espere!Está voltando para mim.O artefato fica nas ruínas a leste de Goldenfield." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_find_item" value="Vá para as ruínas para procurar o artefato" />
+  <Key key="_npc_Whoa__really__You_don_t_go_hom" value="Uau, sério?Você não vai para casa?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goalVoice_Hey__keep_your_vibes_tuned_in_" value="Ei, mantenha suas vibrações sintonizadas!O artefato está esperando por você nessas ruínas trippy.Lembre -se, as ruínas têm segredos profundos, cara.Mantenha sua mente clara e seus sentidos nítidos.E então espero que ninguém tenha chegado lá e goste da relíquia diante de nós." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_No_promises___" value="Sem promessas..." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Move_fast_man__before_someone_" value="Move fast man, before someone else gets it. Bring it back here, and we'll figure out how to activate the thing, ok? I'll try to get sober before then..." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Hmm__maybe_you_already_found_t" value="Hmm, talvez você já tenha encontrado o artefato ..." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Man__my_brain_s_fuckin__melted" value="Cara, meu cérebro está derretido agora.As coisas que as pessoas fariam para a chance de ir para casa ..." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_talk_npc" value="Voltar para Mary Jane" />
+  <Key key="_goal_collect_item" value="Pegue o papel" />
+  <Key key="_npc_This_artifact_is_like__super_c" value="Este artefato é como, super cósmico.Pode abrir algum tipo de brecha para enviar as pessoas de volta às suas próprias dimensões." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_So_I_was_diving_into_those_anc" value="Então, eu estava mergulhando nos textos antigos que você me trouxe e, uau, eles são uma viagem." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_That_s_his_problem__not_ours__" value="Esse é o problema dele, não nosso.Vamos reconstruir essa coisa e sair daqui." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Says_here_the_guy_broke_up_the" value="Diz aqui que o cara quebrou o artefato e o escondeu em torno de Elan.Algo sobre ser como, super perigoso?Sim, bem, isso é como a opinião dele, cara." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Bummer____But_hey__maybe_this_" value="Chatice ... mas ei, talvez esta carta tenha algo acontecendo por dentro, sabe?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Oh_man__like__seriously__No_ar" value="Oh cara, tipo, sério?Sem artefato?Apenas esta velha letra empoeirada ..." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_QuestActionAddToJournal_Mary_Jane_Greenpuff_Windreach_" value="Mary Jane Greenpuff&#10;Windreach Woods, casa de estrada&#10;&#10;Ajude Mary Jane Greenpuff a descobrir um artefato poderoso das ruínas a leste de Goldenfield." />
+  <Key key="_npc_If_you_ever_change_your_mind__" value="Se você mudar de idéia, estarei aqui, todo o zen e esperando." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_You_found_the_artifact__right_" value="Você encontrou o artefato, certo?Certo?!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Maybe_we_can_finally_get_the_f" value="Talvez possamos finalmente tirar a foda desta rocha." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Wow__groovy__I_knew_you_d_be_u" value="Uau, Groovy!Eu sabia que você estaria pronto para essa busca cósmica." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

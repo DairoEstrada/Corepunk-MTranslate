@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_price_of_punishment" type="external">
+  <Key key="_npc_Bless_your_naive_little_heart_" value="Bénissez votre petit cœur naïf!Vous allez, diamant Digger.Ne continuez pas à attendre maman." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_goalVoice_Tick_tock__baby__Diamonds_aren" value="Tick-Tock, bébé.Les diamants vont voler sur vos genoux, et moi non plus." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_QuestActionAddToJournal_Ace_Riverrise__City_Center___A" value="As&#10;Riverrise, centre-ville.&#10;&#10;Ace, pensant que vous êtes un client potentiel, demande dix diamants.Mais revenir avec eux révèle sa vraie nature." />
+  <Key key="_goal_collect_diamonds" value=" " />
+  <Key key="_varDescription_Collect_Diamonds" value="Recueillir des diamants" />
+  <Key key="_npc_Well__well__well__Look_who_s_b" value="Bien bien bien.Regardez qui est de retour.Prêt à être ... dominé?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Oh__bless_your_heart__you_actu" value="Oh, bénis ton cœur, tu les ai en fait.Mais devinez quoi, chérie?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_I_m_keeping_these_gems_" value="Je garde ces joyaux." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Well__I_guess_I_didn_t_ask__Bu" value="Eh bien, je suppose que je n'ai pas demandé.Mais demander le travail de Spade." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Now__get_out_of_my_sight_" value="Maintenant, sortez de ma vue." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_You_ve_been_dominated__That_s_" value="Vous avez été dominé.C'est ce que vous vouliez quand vous avez payé, non?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Oh_darling__you_think_offering" value="Oh chérie, tu penses que l'offre d'aide suffit pour avoir un avant-goût de mes services?Comme c'est adorable." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Velvet_Viper_s_Girls_demand_pa" value="Les filles de Velvet Viper exigent le paiement, et je parle de diamants, pas de compliments." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Ten_diamonds_should_do__Bring_" value="Dix diamants devraient faire.Apportez-moi ces derniers, et nous verrons si vous valez mon temps.Croyez-moi, tout cela fait partie du plaisir." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_What_s_the_matter__sugar__You_" value="Quel est le problème, sucre?Vous avez l'air confus.Vous devriez avoir l'air reconnaissant." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Oh_honey__if_you_can_t_handle_" value="Oh chérie, si tu ne peux pas gérer la chaleur, restez en dehors de mon donjon." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Go_find_some_sparkles_and_we_m" value="Allez trouver des étincelles et nous pourrions parler.Jusque-là, bourdonnez." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Diamond_less_and_clueless__jus" value="Sans diamant et désemparé, comme j'aime mes rejets." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+</Node>

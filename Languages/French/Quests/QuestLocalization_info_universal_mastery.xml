@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_universal_mastery" type="external">
+  <Key key="_npc_My_name_is_Zara_Thorne__an_env" value="Je m'appelle Zara Thorne, un envoyé de la ville industrieuse d'Ovenheim." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_I_hail_from_the_Yorners__alway" value="Je suis originaire des Yorners, qui m'efforce toujours de mélanger la tradition aux prouesses technologiques." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Diplomat_by_training__I_am_ded" value="Diplomate par formation, je suis dédié à la construction de ponts et d'alliances." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_I_ve_come_to_Goldenfield_to_sh" value="Je suis venu à Goldenfield pour partager des connaissances et forger de nouveaux chemins." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Alongside_my_diplomatic_duties" value="Parallèlement à mes devoirs diplomatiques, j'enseigne les techniques de combat à ceux qui ont hâte d'apprendre." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_My_mission__To_showcase_the_st" value="Ma mission?Pour présenter la force et l'innovation de la technologie Yorner." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Busy_as_ever__but_that_s_where" value="Occupé comme jamais, mais c'est là que je m'épanouis." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Negotiation_and_strategy_are_m" value="La négociation et la stratégie sont mon pain et mon beurre." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_The_dynamic_nature_of_this_pla" value="La nature dynamique de cet endroit me maintient vif." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Training_new_recruits_is_both_" value="Training new recruits is both challenging and rewarding." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_I_m_constantly_on_the_move__ju" value="Je suis constamment en mouvement, jonglant avec la diplomatie et le combat." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Promoting_Yorner_ideals_keeps_" value="La promotion des idéaux de Yorner me permet de motiver chaque jour." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Every_interaction_here_is_a_ch" value="Chaque interaction ici est une chance d'apprendre et d'enseigner." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_It_s_a_fine_line_between_peace" value="C'est une fine ligne entre la paix et le conflit, mais je le marche avec un but." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_You_re_standing_in_the_Faiden_" value="Vous vous tenez dans le camp Faiden à Goldenfield, une colonie vitale sur Whisperwind Isle." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Goldenfield_is_a_lively_town_k" value="Goldenfield is a lively town known for its fertile fields and diligent inhabitants." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Whisperwind_Isle_is_a_microcos" value="Whisperwind Isle est un microcosme de diverses factions et des emplacements intrigants." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_This_camp_acts_as_a_confluence" value="Ce camp agit comme une confluence pour les guerriers, les marchands et les aventuriers." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_The_town_itself_is_a_mix_of_pa" value="La ville elle-même est un mélange de sérénité pastorale et d'activité animée, toujours vivante avec potentiel." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Recent_portal_activity_has_tur" value="Une activité de portail récente a transformé Goldenfield en un point focal pour les nouveaux arrivants de divers mondes." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Whisperwind_Isle_is_both_a_san" value="Whisperwind Isle est à la fois un sanctuaire et un champ de bataille, avec des mystères attendant à chaque coin de rue." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Here__the_traditions_of_the_Fa" value="Ici, les traditions de la Faiden fusionnent parfaitement avec les innovations modernes, créant une tapisserie culturelle unique." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Indeed__your_assistance_would_" value="En effet, votre aide serait inestimable." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Absolutely__there_s_much_to_be" value="Absolument, il y a beaucoup à faire." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_I_could_certainly_use_a_hand__" value="Je pourrais certainement utiliser une main.Intéressé?" voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Yes__I_have_tasks_that_require" value="Oui, j'ai des tâches qui nécessitent vos compétences." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_At_the_moment__I_ve_got_things" value="Pour le moment, j'ai le contrôle des choses." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Not_right_now__but_thank_you_f" value="Pas pour le moment, mais merci de l'offre." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Appreciate_it__but_there_s_no_" value="Appréciez-le, mais il n'y a pas de besoin immédiat." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_For_now__everything_is_handled" value="Pour l'instant, tout est manipulé, mais j'ai peut-être besoin de vous plus tard." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+</Node>

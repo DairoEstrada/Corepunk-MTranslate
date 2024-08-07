@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="AnswerVariants" type="external">
+  <Key key="Swear" value="Jurer" />
+  <Key key="Object" value="Manifestation" />
+  <Key key="Confirm" value="Confirmer" />
+  <Key key="Third" value="Troisième" />
+  <Key key="Second" value="Second" />
+  <Key key="First" value="D'abord" />
+  <Key key="Guilt" value="Culpabilité" />
+  <Key key="Approve" value="Approuver" />
+  <Key key="Doubt" value="Doute" />
+  <Key key="Laugh" value="Rire" />
+  <Key key="CalmDown" value="Calme-toi" />
+  <Key key="Threat" value="Menace" />
+  <Key key="Custom" value="Coutume" />
+  <Key key="Yes" value="Oui" />
+  <Key key="TellMeMore" value="Dis m'en plus" />
+  <Key key="No" value="Non" />
+  <Key key="AskAgain" value="Demande encore" />
+  <Key key="Finish" value="Complete" />
+  <Key key="Next" value="Next" />
+  <Key key="GoAway" value="Partir" />
+  <Key key="GiveItem" value="Donner un article" />
+  <Key key="TakeItem" value="Prendre l'article" />
+  <Key key="UseItem" value="Utiliser l'article" />
+  <Key key="ShowItem" value="Afficher l'article" />
+  <Key key="WhatIsThisPlace" value="Quel est cet endroit?" />
+  <Key key="WhoAreYou" value="Qui es-tu?" />
+  <Key key="HowAreYou" value="Comment vas-tu?" />
+  <Key key="WhatHappened" value="Ce qui s'est passé?" />
+  <Key key="DoUNeedHelp" value="Besoin d'aide?" />
+  <Key key="IWasLookingForYou" value="je te cherchais" />
+  <Key key="Continue" value="Continuer" />
+  <Key key="Back" value="Dos" />
+  <Key key="IllDoIt" value="Je vais le faire" />
+  <Key key="Quest" value="Quête" />
+  <Key key="Okay" value="D'accord" />
+  <Key key="OfCourse" value="Bien sûr" />
+  <Key key="Sure" value="Bien sûr" />
+  <Key key="Yep" value="Ouais" />
+  <Key key="SureWhyNot" value="Bien sûr, pourquoi pas" />
+  <Key key="NoWay" value="Certainement pas" />
+  <Key key="NotMyJob" value="Pas mon travail" />
+  <Key key="Nope" value="Non" />
+  <Key key="Nah" value="Non" />
+  <Key key="CantThisTime" value="Je ne peux pas cette fois!" />
+  <Key key="ReeksOfScam" value="Brois d'escroquerie!" />
+  <Key key="NotNow" value="Pas maintenant" />
+  <Key key="FillMeIn" value="Remplissez-moi" />
+  <Key key="WhatIsIt" value="Qu'est-ce que c'est?" />
+  <Key key="SoQuestionMark" value="Donc...?" />
+  <Key key="AndQuestionMark" value="Et...?" />
+  <Key key="Deal" value="Accord" />
+  <Key key="NoProblem" value="Aucun problème" />
+  <Key key="ImIn" value="j'en suis" />
+  <Key key="ImGonnaDoIt" value="Je vais le faire" />
+  <Key key="Sure_" value="Bien sûr" />
+  <Key key="OfCourse_" value="Bien sûr" />
+  <Key key="LookAtThis" value="Regarde ça" />
+  <Key key="CheckItOut" value="Vérifiez-le" />
+  <Key key="HereYouGo" value="Voici" />
+  <Key key="IGotTheThing" value="J'ai la chose" />
+  <Key key="DontMessWithMe" value="Ne plaisante pas avec moi!" />
+  <Key key="WatchYourTongue" value="Attention à ce que tu dis!" />
+  <Key key="ImGonnaScrewYou" value="Je vais te baiser!" />
+  <Key key="HeyWatchYourself" value="Hé, regardez-vous!" />
+  <Key key="WhereShouldILook" value="Où dois-je regarder?" />
+  <Key key="WhereIsIt" value="Où est-il?" />
+  <Key key="HowDoIGetThere" value="Comment puis-je y arriver?" />
+  <Key key="Where" value="Où?" />
+  <Key key="Myfault" value="Ma faute" />
+  <Key key="Mybad" value="Ma faute" />
+  <Key key="MyApologies" value="Mes excuses" />
+  <Key key="OopsSorry" value="Oops désolé" />
+  <Key key="MyMistake" value="Mon erreur" />
+  <Key key="ImSorry" value="Je suis désolé" />
+  <Key key="Justchill" value="Calme toi!" />
+  <Key key="TakeItEasy" value="Allez-y doucement" />
+  <Key key="ICanHelp" value="je peux aider" />
+  <Key key="CanIHelp" value="Puis-je aider?" />
+  <Key key="WhatCanIDo" value="Que puis-je faire?" />
+  <Key key="NeedHelpQuestionMark" value="Besoin d'aide?" />
+  <Key key="WhatsTheDeal" value="Quel est le problème?" />
+  <Key key="WhatIsIt_" value="Qu'est-ce que c'est?" />
+  <Key key="WhatsGoingOn" value="Que se passe-t-il?" />
+  <Key key="YoureLying" value="Tu ment" />
+  <Key key="YeahRight" value="Oui en effet" />
+  <Key key="IDontBelieveYou" value="Je ne te crois pas" />
+  <Key key="YouBetterTellMeTheTruth" value="Tu ferais mieux de me dire la vérité!" />
+  <Key key="Ok" value="D'accord" />
+</Node>

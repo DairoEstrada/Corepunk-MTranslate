@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_beggar_philosopher" type="external">
+  <Key key="_npc_That__and_my_pockets_are_as_em" value="Cela, et mes poches sont aussi vides qu'une - Hic - les promesses du politicien.L'obtenir moi-même est un défi." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_After_all__my_predicament_is_p" value="Après tout, ma situation est en partie de votre faute.Vous êtes passé par ce putain de portail, n'est-ce pas?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_I_m_drunk__but_I_appreciate_th" value="Je suis ivre, mais j'apprécie l'offre." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_I_m___hic___all_set__buttercup" value="Je suis - HIC - tous set, Buttercup." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_But_a_kind_soul_like_you_could" value="Mais une âme gentille comme vous pourrait sûrement épargner une bouteille pour un malheureux philosophe comme moi, non?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Cats__you_see__are_the_perfect" value="Les chats, vous voyez, sont les copains de consommation parfaits.Ils écoutent, réfléchissent, puis siesent, créant une aura de sagacité." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_What_does_one_do_in_a_place_wh" value="Que fait-on dans un endroit où le divertissement est rare?Philosophiser, fouiller et boire jusqu'à ce que vous ne s'ennuiez pas!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Goldenfield__A_gilded_moniker_" value="Goldenfield!Un surnom doré pour un endroit plus en laiton que l'or." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Is_laughter_the_best_medicine_" value="Le rire est-il le meilleur médicament?Si c'est le cas, je pourrais vivre pour toujours - une pensée à la fois amusante et légèrement terrifiante!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_As_for_my_well_being___hic___i" value="Quant à mon bien-être - HIC - c'est comme si j'étais invité à une comédie cosmique.Tout à fait le spectacle!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Sure_do__mate_" value="Bien sûr, mec." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Got_a_job_for_you__if_you_re_u" value="J'ai un emploi pour vous, si vous êtes prêt pour ça." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_You_know_what__I_could_use_a_h" value="You know what, I could use a hand." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Nah__I_m_golden_" value="Non, je suis doré." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_I_reckon_I_was_a_farmer_once__" value="Je pense que j'étais agriculteur une fois, avant que le portail ne s'ouvre ici.Je pense - HIC - un crypto-fucker m'a poursuivi pour la terre." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_By_jove___hic___that_s_the_que" value="Par Jove - HIC - C'est la question, n'est-ce pas?Ils m'appellent paddy.Ce que j'étais avant ... eh bien, les détails sont un peu brumeux." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Ah__my_portal_jumper__I_m_as_r" value="Ah, mon pull de portail, je suis aussi résilient qu'un navet bouilli dans un ragoût." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_That_cats_are_the_better_compa" value="Que les chats sont la meilleure compagnie, des deux." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Now_here_I_am__engaging_in_phi" value="Now here I am, engaging in philosophical debates with cats and outworlders. A peculiar predicament, wouldn't you say?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Ah__the_sweet_nectar_of_Elanie" value="Ah, le nectar doux du whisky elanien, j'ai eu le plaisir de sa compagnie plus de fois que je ne peux, souvenez-vous.Hic!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Oh_well__can_t_blame_an_old_ma" value="Eh bien, je ne peux pas blâmer un vieil homme d'avoir essayé." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Well__shoot__Thought_you_had_a" value="Eh bien, tirez.Je pensais que vous aviez un cœur généreux." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_No_worries__mate__I_ll_just_si" value="Pas de soucis, mec.Je vais juste m'asseoir ici, desséché et sans whisky." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Unfortunately__with_all_these_" value="Malheureusement, avec tous ces hoppers portales, la demande est passée par le toit.Le whisky est aussi rare qu'une nuit sobre lors du mariage d'un nain." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_I_ve_been_told_people_stash_bo" value="On m'a dit aux gens qui cachent des bouteilles dans des caisses et des barils.Pire vient - HIC - Pire, peut-être que vous pouvez échanger pour cela?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+</Node>

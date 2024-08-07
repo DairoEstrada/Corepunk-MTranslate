@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_lila_algernon" type="external">
+  <Key key="_npc_I_m_Lila__I_m_gonna_be_a_big_s" value="Je suis Lila!Je vais être une grande star!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Soko_Uno_s_music_saved_me__and" value="La musique de Soko Uno m'a sauvé, et maintenant je suis son plus grand et grand fan." voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_You_wanna_hear_me_sing__I_bet_" value="Tu veux m'entendre chanter?Je parie que vous l'aimerez !!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Practicing_my_songs_every_day_" value="Pratiquer mes chansons tous les jours!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Soko_Uno_s_gonna_be_so_impress" value="Soko uno sera tellement impressionné!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_can_t_wait_to_show_her_how_g" value="J'ai hâte de lui montrer à quel point je suis bon après le spectacle!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_feel_like_a_superstar_alread" value="Je me sens déjà comme une superstar!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_You_wanna_auta_graph_" value="Vous voulez un graphique automatique?" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Everything_s_new__Not_like_the" value="Tout est nouveau!Pas du tout comme l'orphelinat." voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_ran_away__but_they_can_t_fin" value="Je me suis enfui, mais ils ne peuvent pas me trouver!Parce que mes lunettes cool me cachent." voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_It_s_got_lots_of_cool_houses__" value="Il y a beaucoup de maisons cool, et les gens sont occupés tout le temps!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_All_I_care_about_is_meeting_So" value="Tout ce qui m'importe, c'est de rencontrer Soko Uno et de lui montrer mon chant!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_No__I_m_almost_ready_" value="Non, je suis presque prêt!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Not_now__gotta_get_ready_for_S" value="Pas maintenant, je dois me préparer pour Soko Uno!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Busy__busy__Can_t_stop_now_" value="Occupé occupé!Je ne peux pas m'arrêter maintenant!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_m_okay__showtime_soon_" value="Je vais bien, Showtime bientôt!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Yeah__can_you_help_me_find_som" value="Ouais, pouvez-vous m'aider à trouver quelque chose pour Soko Uno?" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_need_to_show_Soko_Uno_I_m_sp" value="J'ai besoin de montrer Soko Uno, je suis spécial!Pouvez-vous aider?" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Wanna_help_me_make_Soko_Uno_pr" value="Tu veux m'aider à rendre Soko Uno fier?" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_It_d_be_great_if_you_could_hel" value="Ce serait génial si vous pouviez m'aider avec quelque chose de cool pour Soko Uno!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Let_s_do_something_awesome_so_" value="Faisons quelque chose de génial pour que Soko uno me remarque!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+</Node>

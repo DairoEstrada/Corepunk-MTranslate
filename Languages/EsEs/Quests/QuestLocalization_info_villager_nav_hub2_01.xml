@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_villager_nav_hub2_01" type="external">
-  <Key key="_npc_" value=" " voice="Female" />
-  <Key key="player_What_are_you_doing_" value="¿Qué estás haciendo?" />
-  <Key key="_npc_Getting_our_stuff_ready_to_be_" value="Preparando nuestras cosas para ser vendidas en la ciudad.Voy a recorrer el segundo centro en el camino allí." voice="Female" />
-  <Key key="_npc_Oh__it_s__color__green___b_str" value="Oh, está directamente junto al camino, no hay forma de perderse." voice="Female" />
-</Node>

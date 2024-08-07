@@ -1,0 +1,1764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ConstAbilityNames" description="">
+  <Node name="C" />
+  <Node name="CCL">
+    <Key key="Name" value="Cleaving strike" />
+    <Key key="Description" value="A powerful blow with a swing deals physical damage to all enemies in a cone in front of Champion." />
+  </Node>
+  <Node name="DD" />
+  <Node name="CWH">
+    <Key key="Name" value="Whirlwind of death" />
+    <Key key="Description" value="Champion with blade starts spinning around his axis in a whirlwind periodically attacking all enemies around him and inflicting to them physical damage every 0.5 seconds." />
+  </Node>
+  <Node name="PC" />
+  <Node name="CFS">
+    <Key key="Name" value="Fierce dash" />
+    <Key key="Description" value="Champion makes a lightning spurt to his target imposing physical damage and stun on it." />
+  </Node>
+  <Node name="EGL">
+    <Key key="Name" value="Grenade launcher shot" />
+    <Key key="Description" value="Engineer throws a grenade in a pointed zone and deals physical damage. Affected area is spherical." />
+  </Node>
+  <Node name="ERS">
+    <Key key="Name" value="Shot with recoil" />
+    <Key key="Description" value="Engineer shoots a gun and deals physical damage to all enemies in a cone in front of him. He is thrown back by recoil at the time." />
+  </Node>
+  <Node name="PFB">
+    <Key key="Name" value="Fireball" />
+    <Key key="Description" value="Pyromancer casts the ability for a time and throws a flame clot in his target which deals magical damage." />
+  </Node>
+  <Node name="FBT">
+    <Key key="Name" value="Fireball" />
+    <Key key="Description" value="Pyromancer casts the ability for a time and throws a flame clot in his target which deals magical damage." />
+  </Node>
+  <Node name="FR">
+    <Key key="Name" value="Firestorm" />
+    <Key key="Description" value="Fire drops fall from skies on a zone pointed by Pyromancer and deal magical damage. This ability could be interrapted by a movement, auto-attack or control." />
+  </Node>
+  <Node name="FRP">
+    <Key key="Name" value="Firestorm" />
+    <Key key="Description" value="Fire drops fall from skies on a zone pointed by Pyromancer and deal magical damage. This ability could be interrupted by a movement, auto-attack or control." />
+  </Node>
+  <Node name="PTL">
+    <Key key="Name" value="Teleportation" />
+    <Key key="Description" value="Pyromancer moves to pointed place through obstructions." />
+  </Node>
+  <Node name="PSP">
+    <Key key="Name" value="Spirits of Healing" />
+    <Key key="Description" value="Priestess quickly release a stream of a few light spirits one by one. The first spirit flies with a delay of 0.7 sec. This transmission takes all mana cost from reserve of Priestess and starts the countdown. Every spirit could restore health of friendly target or deal magical damage to enemy target." />
+  </Node>
+  <Node name="PSH">
+    <Key key="Name" value="Shield" />
+    <Key key="Description" value="Priestess applies shield on herself or friendly target to consume damage." />
+  </Node>
+  <Node name="PFN">
+    <Key key="Name" value="Fountain" />
+    <Key key="Description" value="Priestess places the Fontain which heals all allies target in action spherical zone every 0.5 sec." />
+  </Node>
+  <Node name="PBL">
+    <Key key="Name" value="Blessing" />
+    <Key key="Description" value="Priestess restore health of herself and all party members in a big radius around her." />
+  </Node>
+  <Node name="BLP">
+    <Key key="Name" value="Blessing" />
+    <Key key="Description" value="Priestess restore health of herself and all party members in a big radius around her." />
+  </Node>
+  <Node name="GT">
+    <Key key="Name" value="Teleportation" />
+    <Key key="Description" value="A hero moves to pointed place through obstructions." />
+  </Node>
+  <Node name="BD" />
+  <Node name="PBL_Z">
+    <Key key="Name" value="Blessing" />
+    <Key key="Description" value="Priestess restore health of herself and all party members in a big radius around her." />
+  </Node>
+  <Node name="CSL">
+    <Key key="Name" value="Returner" />
+    <Key key="Description" value="A hero moves to the last remembered location." />
+  </Node>
+  <Node name="CSLT" />
+  <Node name="cf" />
+  <Node name="DDL" />
+  <Node name="EQ" />
+  <Node name="EM" />
+  <Node name="CER">
+    <Key key="Name" value="Frenzy" />
+    <Key key="Description" value="Champion empowers himself and rises probability of physical critical hit to 100%. Every hit and skill is critical now." />
+  </Node>
+  <Node name="FOL" />
+  <Node name="HR" />
+  <Node name="KOSR" />
+  <Node name="LW" />
+  <Node name="LB">
+    <Key key="Name" value="Opening" />
+  </Node>
+  <Node name="MA" />
+  <Node name="MN" />
+  <Node name="M" />
+  <Node name="pc" />
+  <Node name="EES">
+    <Key key="Name" value="Explosive shot" />
+    <Key key="Description" value="Engineer shoots a shell in a target. Fractions deal 100% physical damage to this target and 33% physical damage to a zone around it without dealing additional damage to the target." />
+  </Node>
+  <Node name="ST" />
+  <Node name="DG" />
+  <Node name="S!" />
+  <Node name="EGS">
+    <Key key="Name" value="Buckshot" />
+    <Key key="Description" value="Engineer shoots his gun and deal physical damage to all enemies in a cone in front of him." />
+  </Node>
+  <Node name="PMR">
+    <Key key="Name" value="Meteorite" />
+    <Key key="Description" value="Pyromancer casts the ability for a time and a meteorite falls in pointed spherical zone dealing magical damage to it." />
+  </Node>
+  <Node name="PAR">
+    <Key key="Name" value="Arson" />
+    <Key key="Description" value="Pyromancer innerly fires his enemy and deals a big periodic magical damage to this target." />
+  </Node>
+  <Node name="AHI">
+    <Key key="Name" value="Healing" />
+    <Key key="Description" value="Instantly restores 120 Health to character." />
+  </Node>
+  <Node name="GN-" />
+  <Node name="GN+">
+    <Key key="Name" value="Аномальное ускорение" />
+    <Key key="Description" value="Увеличивает Скорость Передвижения на 30%." />
+  </Node>
+  <Node name="LS">
+    <Key key="Name" value="Морозный выстрел" />
+    <Key key="Description" value="Амазонка некоторое время применяет способность, после чего выпускает в свою цель морозную стрелу, замедляющую скорость атаки противника." />
+  </Node>
+  <Node name="WW">
+    <Key key="Name" value="Призрачный воин" />
+    <Key key="Description" value="Скорость передвижения Амазонки, а также ее уворот увеличиваются." />
+  </Node>
+  <Node name="WR1">
+    <Key key="Name" value="Тройной выстрел" />
+    <Key key="Description" value="Амазонка некоторое время применяет способность, после чего выпускает в свою цель 3 стрелы подряд." />
+  </Node>
+  <Node name="WTS">
+    <Key key="Name" value="Тройной выстрел" />
+    <Key key="Description" value="Амазонка некоторое время подготавливается, а потом делает 3 быстрых выстрела в цель." />
+  </Node>
+  <Node name="WRT">
+    <Key key="Name" value="Приковывание" />
+    <Key key="Description" value="Амазонка воздействует на нервные окончания и мгновенно парализует противника." />
+  </Node>
+  <Node name="ABP">
+    <Key key="Name" value="Energy Drink" />
+    <Key key="Description" value="Temporary increases movement speed by 30%." />
+  </Node>
+  <Node name="CWH_Z">
+    <Key key="Name" value="Whirlwind of death" />
+  </Node>
+  <Node name="PFN_Z" />
+  <Node name="PSP_H-">
+    <Key key="Name" value="Spirits of Healing" />
+  </Node>
+  <Node name="PSP_H+">
+    <Key key="Name" value="Spirits of Healing" />
+  </Node>
+  <Node name="PAR_H">
+    <Key key="Name" value="Arson" />
+  </Node>
+  <Node name="PMR_H">
+    <Key key="Name" value="Meteorite" />
+  </Node>
+  <Node name="PSPL">
+    <Key key="Name" value="Spirits of Healing" />
+  </Node>
+  <Node name="PBL2">
+    <Key key="Name" value="Blessing" />
+  </Node>
+  <Node name="PBL2_Z">
+    <Key key="Name" value="Blessing" />
+  </Node>
+  <Node name="AMB">
+    <Key key="Name" value="Mega Buff" />
+    <Key key="Description" value="Increase Armor, Health Regen, Attack Speed, Attack Power, Spell Power, Move Speed." />
+  </Node>
+  <Node name="GBT" />
+  <Node name="C2W">
+    <Key key="Name" value="Arrow Rain" />
+    <Key key="Description" value="The Ranger chooses a target area, which for the next 2 seconds is attacked with a hail of arrows dealing physical damage once in a second. All enemies in this area are slowed." />
+    <Key key="LongDescription" value="Firing a volley of arrows into the specified area deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.ADC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP2}}&lt;/ap&gt; AttackPower] + &lt;hp&gt;{{Data.0.ACP1}}&lt;/hp&gt; = [&lt;w&gt;5%&lt;/w&gt; + &lt;sp&gt;4%&lt;/sp&gt; SpellPower] missing Health &lt;pd&gt;physical damage&lt;/pd&gt; and &lt;ctrl&gt;slows&lt;/ctrl&gt; affected enemies by &lt;w&gt;{{@O8FCfJUNT4L:Data.0.ACP1}}&lt;/w&gt;for &lt;w&gt;3&lt;/w&gt; seconds.&#xA;Weapon Specialization Bonus +2% to slowing power." />
+  </Node>
+  <Node name="C3R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="Raises the shield and for a short duration reflects all the incoming damage back to an enemy. The Defender is still able to move while reflecting the damage. Preserving the type of reflected damage, the Defender becomes immune to crowd control and damage. They also create an area behind their backs in which allies take reduced incoming damage." />
+  </Node>
+  <Node name="C2T">
+    <Key key="Name" value="Harpoon Arrows" />
+    <Key key="Description" value="The Ranger's basic attacks leave arrows in enemies. The Ranger gains bonus attack speed for each arrow. The effect stacks 10 times. The special ability can be activated, which triggers an explosion of all arrows stuck in enemies dealing physical damage." />
+    <Key key="LongDescription" value="The Ranger's auto-attacks leave arrows in enemies. For each arrow, the ranger gains a &lt;w&gt;{{@7iJGeO6tMOQ:Data.0.AsK+}}&lt;/w&gt; increase in &lt;as&gt;attack speed&lt;/as&gt;, stacking up to &lt;w&gt;6&lt;/w&gt; times. The special ability can be activated, detonating all arrows in enemies and dealing &lt;pd&gt;{{@O8FCeU4QwJ9:Data.0.ACP4}}&lt;/pd&gt; = [&lt;w&gt;{{@O8FCeU4QwJ9:Data.0.ACP1}}&lt;/w&gt; + &lt;sp&gt;3.3%&lt;/sp&gt; SpellPower] &lt;pd&gt;physical damage&lt;/pd&gt;. to them.&#xA;Weapon Specialization Bonus +1% to total attack speed." />
+  </Node>
+  <Node name="C3E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Defender jumps to a target location dealing physical damage  upon landing and taunt all enemies to attack them for 2 seconds." />
+  </Node>
+  <Node name="C3W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Defender throws their shield in a target. If the shield hits a target, it bounces to the enemies several times, dealing physical damage. The first target hit by the shield is stunned." />
+  </Node>
+  <Node name="C3Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Defender empowers their next basic attack. An empowered basic attack during 7 seconds permits them to hit a target with a powerful strike dealing physical damage. After this empowered strike, the Defender buffs themself, which reduces incoming damage by 3%. This effect lasts 10 seconds, stacks up to 5 times, and refreshes its effect period with each stack." />
+  </Node>
+  <Node name="C2R">
+    <Key key="Name" value="Saltation" />
+    <Key key="Description" value="The Ranger fires a volley of arrows in front of them, dealing physical damage to all enemies affected by the ability. The Ranger leaps 4 meters back." />
+    <Key key="LongDescription" value="Performs a shot in a cone in front of themselves and then recoils backward. Hit enemies receive significant damage &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPowerBonus_loc] and become &lt;ctrl&gt;disarmed&lt;/ctrl&gt; for &lt;w&gt;2&lt;/w&gt; seconds." />
+  </Node>
+  <Node name="C2E">
+    <Key key="Name" value="Barrage Stance" />
+    <Key key="Description" value="The Ranger can toggle between two stances.&#xA;&#xA;While in the standart stance, the Ranger's have standart basic attacks.&#xA;&#xA;When switching to barrage stance, basic attacks damage will redused by 50%, but deal physical damage to the two nearest targets with on-hit effects." />
+    <Key key="LongDescription" value="Switch between two stances. Each switch takes 1 second.&#xA;&#xA;Normal Stance: Shoot regular auto-attacks. &#xA;&#xA;Barrage Stance: Auto-attacks also hit the nearest 2 targets (additional targets also receive on-hit effects). Additional targets recieve &lt;w&gt;50%&lt;/w&gt; &lt;pd&gt;physical damage&lt;/pd&gt;. Arrows remain in the affected targets. &lt;w&gt;{{Data.0.ACP2}}&lt;/w&gt; applies only to the primary target. Each shot consumes {{Data.0.Mp}}.&#xD;&#xA;Weapon Specialization Bonus -0.2 seconds to cooldown time." />
+  </Node>
+  <Node name="C2Q">
+    <Key key="Name" value="Net Shot" />
+    <Key key="Description" value="The Ranger fires an arrow with a net in a target direction, which deals physical damage to the first enemy it hits in its path, rooting them." />
+    <Key key="LongDescription" value="A shot of an arrow with an attached net, skill shot, deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPower] a small &lt;pd&gt;physical damage&lt;/pd&gt; and applies a &lt;w&gt;{{@O8FCeTW6cuf:Data.0.T}}&lt;/w&gt; seconds &lt;ctrl&gt;immobilization&lt;/ctrl&gt; effect.&#xA;Weapon Specialization Bonus +0.3 seconds to immobilization effect duration." />
+  </Node>
+  <Node name="C1R">
+    <Key key="Name" value="Crushing Leap" />
+    <Key key="Description" value="The Destroyer performs a jump to the specified location. Upon landing, it inflicts physical damage and stuns all enemies in the area for 3 seconds." />
+    <Key key="LongDescription" value="The champion performs a leap to a selected location. Upon landing, they deal &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; and stun all enemies in the area for &lt;w&gt;{{@O8FCf3d2Zc3:Data.0.T}}&lt;/w&gt; seconds." />
+  </Node>
+  <Node name="C1E">
+    <Key key="Name" value="War Cry" />
+    <Key key="Description" value="The champion lets out a roar and gains a 20 seconds buff that increases their health and attack power." />
+    <Key key="LongDescription" value="The champion lets out a cry and receives a {{@O8FCeyRJLES:Data.0.T}} second buff that increases their &lt;hp&gt;{{@O8FCeyRJLES:Data.0.ACP3}}&lt;/hp&gt; = [&lt;w&gt;{{@O8FCeyRJLES:Data.0.ACP1}}&lt;/w&gt; + 4%SpellPower] &lt;hp&gt;health&lt;/hp&gt; and &lt;ap&gt;{{@O8FCeyRJLES:Data.0.ACP3}}&lt;/ap&gt; = [&lt;w&gt;{{@O8FCeyRJLES:Data.0.ACP1}}&lt;/w&gt; + &lt;sp&gt;4%&lt;/sp&gt; SpellPower] &lt;ap&gt;attack power&lt;/ap&gt;.&#xA;Weapon Specialization Bonus +1% to the strength of all buff effects" />
+  </Node>
+  <Node name="C1W">
+    <Key key="Name" value="Circle Strike" />
+    <Key key="Description" value="The Destroyer throws their weapon in a target direction. It deals physical damage to all enemies it hits in its path." />
+    <Key key="LongDescription" value="The Destroyer throws their weapon in a chosen area. It deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;ap&gt;100%&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; to all enemies in this area." />
+  </Node>
+  <Node name="C1Q">
+    <Key key="Name" value="Charge" />
+    <Key key="Description" value="The Destroyer dashes to a target area and deals physical damage  in an area in front of them. All enemies affected by this ability are slowed." />
+    <Key key="LongDescription" value="The champion performs a dash into the chosen area and deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; in the area in front of them.&#xA;Weapon Specialization Bonus +0.2 to dash distance." />
+  </Node>
+  <Node name="CCS">
+    <Key key="Name" value="Summon Campfire" />
+    <Key key="Description" value="Creates a campfire in a chosen location that will burn for 30 seconds. Interaction with campfire increases regeneration." />
+  </Node>
+  <Node name="CIH">
+    <Key key="Name" value="Mana Injector" />
+    <Key key="Description" value="Instantly restores {{Data.0.AV}} health points." />
+  </Node>
+  <Node name="CLB">
+    <Key key="Description" value="Increases {{Effects.0.InternalInstance.Modifiers.0.nm}} by {{Data.0.EM}}.&#xA;Duration: 10 minutes." />
+  </Node>
+  <Node name="CSB">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds" />
+  </Node>
+  <Node name="CWS">
+    <Key key="Name" value="Summon Ward" />
+    <Key key="Description" value="Summons a ward which provides vision to a wide area, allowing you and your friends to keep watch over areas of the map. " />
+  </Node>
+  <Node name="URD">
+    <Key key="Name" value="Universal: Curse" />
+    <Key key="Description" value="Temporary reduced incoming heal." />
+  </Node>
+  <Node name="UHET">
+    <Key key="Name" value="Universal: Natural Heal" />
+    <Key key="Description" value="Gradually restores health." />
+  </Node>
+  <Node name="UPDT">
+    <Key key="Name" value="Universal: Poison" />
+    <Key key="Description" value="Poison gradually reduces the health of the target." />
+  </Node>
+  <Node name="UPD">
+    <Key key="Name" value="Universal: Physical Strike" />
+    <Key key="Description" value="Deals some damage to the target." />
+  </Node>
+  <Node name="UHE">
+    <Key key="Name" value="Universal: Heal" />
+    <Key key="Description" value="Instantly restores health." />
+    <Key key="LongDescription" value="Instantly restores&lt;heal&gt;{{Data.0.ADF}}&lt;/heal&gt; = [&lt;w&gt;{{Data.0.ADF}}&lt;/w&gt; + &lt;sp&gt;100%&lt;/sp&gt; SpellPower] health." />
+  </Node>
+  <Node name="USH">
+    <Key key="Name" value="Universal: Shield" />
+    <Key key="Description" value="Grants common shield." />
+    <Key key="LongDescription" value="Grants {{@7iJGdtbLSTI:Data.0.ADF}} common shield." />
+  </Node>
+  <Node name="O1Q">
+    <Key key="Name" value="Shield Bash" />
+    <Key key="Description" value="The Legionary smashes the enemies in front of them with their shield dealing physical damage. The strike knocks enemies back and makes them vulnerable. If the ability hits an enemy casting a spell, the ability is interrupted and goes on cooldown." />
+    <Key key="LongDescription" value="The Legionary strikes enemies with their shield, dealing &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPowerBonus_loc + &lt;armat&gt;{{Data.0.ACP2}}&lt;/armat&gt; Armor] &lt;pd&gt;physical damage&lt;/pd&gt;. The impact knocks back enemies and makes them vulnerable for &lt;w&gt;{{@O8FCeJfcz60:Data.0.T}}&lt;/w&gt; seconds. IIf the ability hits an enemy casting a spell, it interrupts the spell and puts it on cooldown. Causes &lt;w&gt;130%&lt;/w&gt; aggro.&#xA;Weapon Specialization Bonus +0.5 seconds to vulnerability effect duration." />
+  </Node>
+  <Node name="O1R">
+    <Key key="Name" value="Unstoppable" />
+    <Key key="Description" value="The Legionary removes all crowd control effects on themself. For 8 seconds, they take reduced damage, gain bonus movement speed. &#xA;&#xA;The Legionary restores a portion of their health on an enemy kill or assist." />
+    <Key key="LongDescription" value="The Legionary removes all crowd control effects from themselves and applies a buff for &lt;w&gt;{{@Zv0qP4:Data.0.T}}&lt;/w&gt; seconds. During the buff, the Legionary gains bonuses to movement speed of &lt;w&gt;{{@Zv0qP4:Data.0.MsK+}}&lt;/w&gt; = [&lt;w&gt;10%&lt;/w&gt; + &lt;ap&gt;5%&lt;/ap&gt; AttackPower] and reduces incoming damage by &lt;w&gt;{{@Zv0qP4:Data.0.Ipd+}}&lt;/w&gt; = [&lt;w&gt;{{@Zv0qP4:Data.0.ACP1}}&lt;/w&gt; + &lt;hp&gt;2%&lt;/hp&gt; HPBonus_loc]. For each target killed or a target in which the Warmonger participated in the kill, they restore &lt;hp&gt;10%&lt;/hp&gt; of their missing health." />
+  </Node>
+  <Node name="O1W">
+    <Key key="Name" value="Catapult" />
+    <Key key="Description" value="The Legionary throws the nearest ally or enemy to a target area. All enemies in that area take physical damage. The tossed enemy also takes damage and stuns  all vulnerable enemies within the landing area. The tossed ally doesn't take damage." />
+    <Key key="LongDescription" value="The Legionary throws the nearest ally or enemy to a target area. All enemies in that area take &lt;pd&gt;{{Data.0.ACP3}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.ACP1}}&lt;/w&gt; + &lt;ap&gt;5%&lt;/ap&gt; AttackPower] target Max Health &lt;pd&gt;physical damage&lt;/pd&gt;(Max &lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; versus monsters). The tossed enemy also takes damage and stuns all vulnerable enemies for &lt;w&gt;{{@O8FCeIiLE2s:Data.0.T}}&lt;/w&gt; seconds within a &lt;w&gt;2.5&lt;/w&gt;m radius. The tossed ally takes no damage.&#xA;Weapon Specialization Bonus +0.2 meters to throw distance." />
+  </Node>
+  <Node name="O1E">
+    <Key key="Name" value="Spear Throw" />
+    <Key key="Description" value="The Legionary readies and throws a spear in a target direction. The throw gains extra range and damage the longer the Legionary spends preparing to launch the spear. It deals physical damage to all enemies in its path. If the spear hits a vulnerable enemy, it taunts them, forcing to attack the Legionary for 2 seconds." />
+    <Key key="LongDescription" value="The Legionary readies and throws a spear in a target direction. The throw gains extra range, damage, and mana cost the longer the Legionary spends preparing to launch the spear. It deals &lt;pd&gt;{{Data.0.AV2}}-{{Data.0.wq1v1}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; to all enemies in its path. If the spear hits a vulnerable enemy, it taunts them, forcing them to attack the Legionary for &lt;w&gt;{{@O8FCeNiuWJ4:Data.0.T}}&lt;/w&gt; seconds.&#xA;Weapon Specialization Bonus +0.3 meters to spear throw distance." />
+  </Node>
+  <Node name="P1E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Hand of the Light marks their enemy for 5 seconds. When expired, the mark deals true damage and 10% of all damage received while a target was marked." />
+    <Key key="LongDescription" value="The Hand of the Light marks their enemy for [wh]5[/wh] seconds. When expired, the mark deals [cl]{{Data.0.ADC1}}[/cl][hide] ([wh]{{Data.0.AC1}}[/wh]+[sp]{{Data.0.AC2}}[/sp][spicon])[/hide] true damage and [cl]{{@O8FCeSbNVBJ:Data.0.ACP3}}[/cl][hide]  ([wh]{{@O8FCeSbNVBJ:Data.0.ACP1}}[/wh]+[hp]{{@O8FCeSbNVBJ:Data.0.ACP2}}[/hp][hpi])[/hide] of all damage received while a target was marked." />
+  </Node>
+  <Node name="P1W">
+    <Key key="Name" value="Need name W1" />
+    <Key key="Description" value="When the ability is activated, the Hand of the Light releases 5 meters long beam of light in a target area. All enemies struck by the beam take magic damage and movement speed reduction. Beam removes all slowing effects from the allies who were touched by it.&#xA;&#xA;If the Hand of the Light hits a target with the beam of light, they can recast the ability and shield themself or allies." />
+    <Key key="LongDescription" value="When the ability is activated, the Hand of the Light releases [wh]5[/wh] meters long beam of light in a target area. All enemies struck by the beam take [md]{{Data.0.ADF}}[/md][hide] ([wh]{{Data.0.AC1}}[/wh]+[sp]{{Data.0.AC2}}[/sp][spicon])[/hide] magic damage and [ms]{{@O8FCe3HCFI3:Data.0.MsK-}}[/ms][hide]([wh]{{@O8FCe3HCFI3:Data.0.ACP1}}[/wh]+[ten]{{@O8FCe3HCFI3:Data.0.ACP2}}[/ten])[/hide] movement speed reduction. Beam removes all slowing effects from the allies who were touched by it.&#xA;&#xA;If the Hand of the Light hits a target with the beam of light, they can recast the ability and shield [shg]{{@O8FCePePCVx:Data.0.AC3}}[/shg][hide] ([wh]{{@O8FCePePCVx:Data.0.AC1}}[/wh]+[mp]{{@O8FCePePCVx:Data.0.AC2}}[/mp][mpi])[/hide] themself or allies." />
+  </Node>
+  <Node name="P1Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Hand of the Light hits with a powerful strike and deals physical damage in the area in front of them. All enemy targets hit by the ability take increased damage." />
+    <Key key="LongDescription" value="The Hand of the Light hits with a powerful strike and deals [pd]{{Data.0.ADF}}[/pd][hide] ([wh]{{Data.0.AC1}}[/wh]+[ap]{{Data.0.AC2}}[/ap][api])[/hide] physical damage in the area in front of them. All enemy targets hit by the ability take [wh]{{@O8FCedHEXq5:Data.0.Ipd+}}[/wh][hide] ({{@O8FCedHEXq5:Data.0.ACP1}}+[hp]{{@O8FCedHEXq5:Data.0.ACP2}}[/hp][hpi])[/hide] increased damage." />
+  </Node>
+  <Node name="P1R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Hand of the Light raises their weapon and starts to charge the ability, and then smashes it on the ground. The ability deals magic damage to the area. The Hand of the Light can move while the ability is being charged. The damage that the ability deals depends on the duration of the charge." />
+    <Key key="LongDescription" value="The Hand of the Light raises their weapon and starts to charge the ability, and then smashes it on the ground. The ability deals [md]{{Data.0.ADC1}}[/md] - [md]{{Data.0.ADC2}}[/md][hide] ([wh]{{Data.0.AC1}}[/wh]+[sp]{{Data.0.AC3}}[/sp][spicon]+[ap]{{Data.0.AC2}}[/ap][api])[/hide] magic damage to the area. The Hand of the Light can move while the ability is being charged. The damage that the ability deals depends on the duration of the charge." />
+  </Node>
+  <Node name="COCD">
+    <Key key="Name" value="Teleportation Consequences" />
+  </Node>
+  <Node name="COD" />
+  <Node name="CTC">
+    <Key key="Name" value="Potion of Recovery" />
+    <Key key="Description" value="Neutralizes the effects of teleportation" />
+  </Node>
+  <Node name="P2Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Cleric attacks an enemy with their weapon and deals physical damage. After the strike, a small energy zone is created around the enemy in which the Cleric's allies gain periodic healing. The ability can be recast if the Cleric is in the energy zone. The zone explodes dealing magic damage to enemies. The zone disappears after that." />
+  </Node>
+  <Node name="P2W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Cleric charges the weapon and releases a light wave in front of them, which deals magic damage and debuffs an enemy reducing their armor and magic resistance. A target is also rooted for 1.5 seconds." />
+  </Node>
+  <Node name="C2Q_Z" />
+  <Node name="QIAO">
+    <Key key="Name" value="Activation" />
+  </Node>
+  <Node name="TestBomE">
+    <Key key="Name" value="Cut-and-Run" />
+    <Key key="Description" value="Increases running speed by 30% for 5 seconds; when the effect expires, a wave spreads around paralyzing everyone who’s within its range for 3 seconds. Cooldown: 3 minutes." />
+  </Node>
+  <Node name="C1W_Z">
+    <Key key="Name" value="Whirlwind of Death" />
+  </Node>
+  <Node name="AIOA">
+    <Key key="Name" value="Activation" />
+  </Node>
+  <Node name="CheH">
+    <Key key="Name" value="Additional regeneration" />
+    <Key key="Description" value="Increases {{Effects.0.ModifierAddFloat.0.ValueName}} by {{Effects.0.ModifierAddFloat.0.val}}.&#xA;Duration: 60 sec." />
+  </Node>
+  <Node name="CeH" />
+  <Node name="CH" />
+  <Node name="CHH" />
+  <Node name="CHEH">
+    <Key key="Name" value="Additional regeneration" />
+    <Key key="Description" value="Increases {{Effects.0.InternalInstance.Modifiers.0.nm}} by {{Data.0.EM}}.&#xD;&#xA;Duration: {{Effects.0.TotalTime}} second." />
+  </Node>
+  <Node name="ELS" />
+  <Node name="B1E">
+    <Key key="Name" value="Holo-Decoy Projector" />
+    <Key key="Description" value="The Blast Medic creates their duplicate and sends it to a target direction. When the ability is recasted on the duplicate, the Blast Medic swaps places with the duplicate. Passing through enemies the Blast Medic deals magic damage and regenerates health of allies they pass through. " />
+    <Key key="LongDescription" value="The Blast Medic creates a decoy and sends it in the chosen direction. Upon collision with the clone, enemies suffer &lt;md&gt;{{Data.0.ADF3}}&lt;/md&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;sp&gt;{{Data.0.ACP1}}&lt;/sp&gt; SpellPower] &lt;md&gt;magic damage&lt;/md&gt;, while allies &lt;heal&gt;{{Data.0.ADF2}}&lt;/heal&gt; = [&lt;w&gt;{{Data.0.AC3}}&lt;/w&gt; + &lt;sp&gt;{{Data.0.ACP2}}&lt;/sp&gt; SpellPower] &lt;hp&gt;health&lt;/hp&gt;. Upon reactivation of the ability, the character swaps places with the clone.&#xA;Weapon Specialization Bonus +1 second to clone lifespan." />
+  </Node>
+  <Node name="B1Q">
+    <Key key="Name" value="Dual-Purpose Bouncy Bomb" />
+    <Key key="Description" value="The Blast Medic throws a bomb, which deals magic damage to enemies and heals allies. The bomb ricochets off the targets 2 times.&#xA;&#xA;With every ricochet, the damage dealt to enemies increases, and the healing effect to allies decreases. The Blast Medic will need some time to use the ability. It can be cast while the Blast Medic is moving." />
+    <Key key="LongDescription" value="The Blast Medic throws a bomb, which deals &lt;md&gt;{{Data.0.ADF2}}&lt;/md&gt; = [&lt;w&gt;{{Data.0.ADC1}}&lt;/w&gt;+ &lt;sp&gt;{{Data.0.ACP1}}&lt;/sp&gt; SpellPower] &lt;md&gt;magic damage&lt;/md&gt; to enemies and &lt;heal&gt;heals&lt;/heal&gt; allies by &lt;heal&gt;{{Data.0.ADF3}}&lt;/heal&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + ({{Data.0.ACP2}})HLPower]. The bomb ricochets off the targets &lt;w&gt;2&lt;/w&gt; times.&#xA;With every ricochet, the &lt;md&gt;damage&lt;/md&gt; dealt to enemies increases by &lt;w&gt;{{Data.0.AVk3}}&lt;/w&gt;, and the &lt;heal&gt;healing&lt;/heal&gt; effect to allies decreases by &lt;w&gt;{{Data.0.AVk3}}&lt;/w&gt;. The Blast Medic will need some time to use the ability.&#xA;Weapon Specialization Bonus -0.1 seconds to cast time." />
+  </Node>
+  <Node name="B1W">
+    <Key key="Name" value="Flashbang Shield Generator" />
+    <Key key="Description" value="The Blast Medic throws a bomb to a target area. The Blast Medic and allies, who were in the range of explosion, are shielded." />
+    <Key key="LongDescription" value="Throw a bomb into the selected area, dealing &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPowerBase + &lt;sp&gt;50%&lt;/sp&gt; SpellPower] &lt;pd&gt;physical damage&lt;/pd&gt; to enemies and &lt;ctrl&gt;blinding&lt;/ctrl&gt; affected enemies for &lt;w&gt;2&lt;/w&gt; seconds. The Blast Medic and allies in the explosion radius receive a &lt;shield&gt;{{@7h7vqFvYav2:Data.0.ADF}}&lt;/shield&gt; = [&lt;w&gt;{{@7h7vqFvYav2:Data.0.AC1}}&lt;/w&gt; + ({{@7h7vqFvYav2:Data.0.ACP1}})HLPower] &lt;shield&gt;shield&lt;/shield&gt; for &lt;w&gt;{{@7h7vqFvYav2:Data.0.T}}&lt;/w&gt; sec.&#xA;Weapon Specialization Bonus +0.2 seconds to blind duration." />
+  </Node>
+  <Node name="B1R">
+    <Key key="Name" value="Omni-Function Drone" />
+    <Key key="Description" value="The Blast Medic sends a drone to a target hero. The drone is active for 7 seconds.&#xD;&#xA;-&#xD;If a target is an ally, they are buffed with periodic healing. A target gains bonus movement speed.&#xD;&#xA;-If a target is the Blast Medic, they will be shielded. While the Blast Medic is shielded, their incoming damage will be decreased and he reflect 10% of incoming damage. &#xD;&#xA;-If a target is an enemy, they will be debuffed taking additional magic damage alongside the damage dealt by basic attacks." />
+    <Key key="LongDescription" value="The Blast Medic directs a drone toward the selected character. The drone remains active for &lt;w&gt;7&lt;/w&gt; seconds.&#xD;&#xA;&#xD;&#xA;-If a target is an ally, the drone periodically restores &lt;heal&gt;{{@aYvt0M:Data.0.ADF2}}&lt;/heal&gt; = [&lt;w&gt;{{@aYvt0M:Data.0.AC1}}&lt;/w&gt; + &lt;sp&gt;{{@aYvt0M:Data.0.ACP1}}&lt;/sp&gt; SpellPower] &lt;heal&gt;heal&lt;/heal&gt; and increases &lt;ulti&gt;movement speed by&lt;/ulti&gt; &lt;w&gt;{{@1105giw:Data.0.MsK+}}&lt;/w&gt; = [&lt;w&gt;{{@1105giw:Data.0.ACP1}}&lt;/w&gt; + &lt;sp&gt;5%&lt;/sp&gt; SpellPower.]&#xA;&#xD;&#xA;-If the target is the Blast Medic themselves, the drone applies a shield that reduces incoming damage by &lt;w&gt;{{@5Jvkmk:Data.0.ACP3}}&lt;/w&gt; = [&lt;w&gt;30%&lt;/w&gt; + &lt;sp&gt;20%&lt;/sp&gt; SpellPower] While this effect is active, reflect &lt;w&gt;20%&lt;/w&gt; of the damage dealt by enemies.&#xD;&#xA;&#xA;-If the target is an enemy, the drone inflicts &lt;md&gt;{{@7iJGeO6K6X8:Data.0.ADF}}&lt;/md&gt; = [&lt;w&gt;{{@7iJGeO6K6X8:Data.0.AC1}}&lt;/w&gt; + &lt;sp&gt;{{@7iJGeO6K6X8:Data.0.ACP1}}&lt;/sp&gt; SpellPower] &lt;md&gt;magical damage&lt;/md&gt; with each successful auto-attack against the target." />
+  </Node>
+  <Node name="B2Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Grenadier deals magic damage and knocks back an enemy. When the ability is applied to an ally, they are dragged back to the Grenadier and gain increased movement speed for 3 seconds." />
+  </Node>
+  <Node name="B2W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Grenadier throws a grenade at a target enemy. It sticks to a target and explodes with 2 seconds delay dealing magic damage. Enemies caught in the blast range take 50% of damage dealt to a primary target, and are slowed. The grenade can be attached to an ally. After explosion, all allies caught in the blast range gain bonus Attack Speed and bonus ability haste." />
+  </Node>
+  <Node name="B2E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Grenadier throws a bomb in a target area. Enemies struck by the explosion take magic damage.&#xA;&#xA;If the ability hits at least one enemy, the Grenadier gets one charge of increased Spell Power for 10 seconds. The amount of charges increases by 1 and the time of the buff refreshes if an enemy is hit again. The maximum amount of empowered charges is 5." />
+  </Node>
+  <Node name="B2R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Grenadier instantly resets cooldown on all their abilities." />
+  </Node>
+  <Node name="B3Q">
+    <Key key="Name" value="Camouflage" />
+    <Key key="Description" value="Infiltrator uses a device and transitions into invisibility for 7 seconds over 2 seconds. Movement speed while in camouflage is reduced by 20%. Any action breaks the invisibility effect. First damage from invisibility catches enemy off guard, preventing them from using abilities for 2 seconds. Branch stat increases invisibility duration by +1 second per talent." />
+    <Key key="LongDescription" value="The Infiltrator uses a device for &lt;w&gt;2&lt;/w&gt; seconds, gaining camouflage for &lt;w&gt;7&lt;/w&gt; seconds. While in camouflage the Infiltrator is invisible to enemies, but &lt;ms&gt;Movement speed&lt;/ms&gt; is reduced by &lt;w&gt;20%&lt;/w&gt;. Any action breaks the effect. First &lt;pd&gt;({{Data.0.ACP2}}) damage&lt;/pd&gt; from camouflage catches enemies off guard, preventing them from using abilities for &lt;w&gt;2&lt;/w&gt; seconds. Branch stat increases camouflage duration by +1 second per talent.&#xA;Weapon Specialization Bonus +1 second camouflage duration." />
+  </Node>
+  <Node name="B3W">
+    <Key key="Name" value="Mine Throw" />
+    <Key key="Description" value="The Infiltrator throws a mine to the specified location:&#xA;&#xD;&#xA;Upon landing, the mine burrows into the ground after 1 second, activates, and becomes invisible for 30 seconds. If an enemy is within a 2-meter radius of the active mine, it detonates, dealing magical damage (100% Spell Power) and applies a slowing effect to all enemies damaged by the ability for 3 seconds. The mine instantly detonates if an enemy is within a 1-meter radius of its landing location.&#xA;&#xD;&#xA;Only one mine can be active at a time. (Branch stat increases mine duration.)" />
+    <Key key="LongDescription" value="The Infiltrator throws a mine to the specified location:&#xA;&#xA;Upon landing, the mine burrows into the ground after &lt;w&gt;1&lt;/w&gt; second, activates, and becomes invisible for &lt;w&gt;30&lt;/w&gt; seconds. If an enemy is within a &lt;w&gt;2&lt;/w&gt;-meter radius of the active mine, it detonates, dealing magical damage &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;sp&gt;{{Data.0.ACP2}}&lt;/sp&gt; Spell Power] &lt;md&gt;magical damage&lt;/md&gt; and applies a slowing effect to all enemies damaged by the ability for &lt;w&gt;3&lt;/w&gt; seconds. The mine instantly detonates if an enemy is within a &lt;w&gt;1&lt;/w&gt;-meter radius of its landing location.&#xD;&#xA;&#xD;&#xA;Only one mine can be active at a time. (Branch stat increases mine duration.)&#xA;Weapon Specialization Bonus: +3 seconds to mine duration." />
+  </Node>
+  <Node name="B3E">
+    <Key key="Name" value="Carpet Bombing" />
+    <Key key="Description" value="The Infiltrator throws a cluster of grenades on the ground in front of them (with a width of 3 meters). All enemy targets in the area receive an electric shock dealing magical damage (100% Spell Power). Additionally, they are rooted for 2 seconds." />
+    <Key key="LongDescription" value="The Infiltrator throws a cluster of grenades on the ground in front of them (with a width of 3 meters).  All enemy targets in the area receive an electric shock dealing  &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;sp&gt;60%&lt;/sp&gt; SpellPower] &lt;md&gt;magical damage&lt;/md&gt;. Additionally, they are &lt;ctrl&gt;rooted&lt;/ctrl&gt; for &lt;w&gt;{{@7h7vqFwkiFy:Data.0.T}}&lt;/w&gt; seconds by the electric shock.&#xA;Weapon Specialization Bonus: +0.2 seconds to root duration." />
+  </Node>
+  <Node name="B3R">
+    <Key key="Name" value="Street Violence" />
+    <Key key="Description" value="Infiltrator shadows steps into the specified area and upon landing, deals physical damage to the nearest enemy within a 2-meter radius. If the enemy's remaining health after the damage is at 5% or lower, the ability instantly kills them. If the enemy is killed, the ability recharges instantly." />
+    <Key key="LongDescription" value="Infiltrator shadows steps into the specified area and upon landing, deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPowerBonus] &lt;pd&gt;physical damage&lt;/pd&gt; to the nearest enemy within a &lt;w&gt;2&lt;/w&gt;-meter radius. If the enemy's remaining &lt;hp&gt;health&lt;/hp&gt; after the damage is at &lt;w&gt;{{Data.0.ACP2}}&lt;/w&gt; = [&lt;w&gt;5%&lt;/w&gt; + &lt;sp&gt;2%&lt;/sp&gt; SpellPower] or lower, the ability instantly kills them. If the enemy is killed, the ability recharges instantly." />
+  </Node>
+  <Node name="DW1Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Sniper fires in a target direction, dealing physical damage to the first enemy hit. Hitting a target reduces their armor for 5 seconds, stacking up to 5 times.&#xA;&#xA;Additional effect from Magnum cartridges: The shot damages all enemies it hits in its path, slowing them." />
+  </Node>
+  <Node name="DW1W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Sniper chambers a cartridge. &#xA;&#xA;This ability can be cast while the Sniper is moving. The Sniper's attack speed reduces the cast time of the ability." />
+  </Node>
+  <Node name="DW1E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Sniper aims and fires at an enemy, dealing physical damage. The cooldown resets on an enemy kill.&#xA;&#xA;Additional effect from Magnum cartridges: the ability always deals critical damage." />
+  </Node>
+  <Node name="DW1R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Sniper loads a magazine of Magnum cartridges. Shots gain additional effect for 10 seconds." />
+  </Node>
+  <Node name="DW2R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Engineer gains maximum combo points and a shield equal to 20% from maximum Engineer's health. For the next 7 seconds, the Engineer generates twice as many combo points." />
+    <Key key="LongDescription" value="The Engineer gains maximum combo points and a shield equal to [shg]{{@7iJGdyuuIyf:Data.0.ADF}}[/shg] ([hp]{{@7iJGdyuuIyf:Data.0.ACP3}}[/hp][hide]([wh]{{@7iJGdyuuIyf:Data.0.ACP1}}[/wh]+[sp]{{@7iJGdyuuIyf:Data.0.ACP2}}[/sp][spicon])[/hide] from maximum Engineer's health). For the next [wh]7[/wh] seconds, the Engineer generates twice as many combo points." />
+  </Node>
+  <Node name="DW2Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="If cast on an enemy:&#xA;The Engineer fires at the target, dealing physical damage. Every combo point increases the damage the ability deals by 10%. At maximum combo points, a critical damage the ability deals is increased by 50%.&#xA;&#xA;If cast on a turret:&#xA;The Engineer remotely buffs a turret. Its next three shots deal 10% more damage.&#xA;&#xA;Each combo point increases the buffed turret's damage by 5% and the number of empowered shots by 1. At maximum combo points, the turret's attack range is also increased." />
+    <Key key="LongDescription" value="If cast on an enemy:&#xA;The Engineer fires at the target, dealing [pd]{{Data.0.ADF}}[/pd][hide] ([wh]{{Data.0.AC1}}[/wh]+[ap]{{Data.0.AC2}}[/ap][api]+[uty]{{Data.0.AC4}}[/uty])[/hide] physical damage. Every combo point increases the damage the ability deals by [wh]10%[/wh]. At maximum combo points, a critical damage the ability deals is increased by [wh]50%[/wh].&#xA;&#xA;If cast on a turret:&#xA;The Engineer remotely buffs a turret. Its next three shots deal [md]{{@7iJGdtps1HX:Data.0.ACP1}}[/md][hide] ([wh]{{@7iJGdtps1HX:Data.0.ACP3}}[/wh]+[sp]{{@7iJGdtps1HX:Data.0.ACP2}}[/sp][spicon]+[uty]{{@7iJGdtps1HX:Data.0.ACP4}}[/uty])[/hide] more damage. &#xA;&#xA;Each combo point increases the buffed turret's damage by [wh]5%[/wh] and the number of empowered shots by [wh]1[/wh]. At maximum combo points, the turret's attack range is also increased on [wh]2[/wh] meter." />
+  </Node>
+  <Node name="DW2W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Engineer places an automatic turret that deals magic damage to all enemies in front of it.&#xA;&#xA;If a second turret is nearby, the two will connect, creating an electric beam that reduces enemies' movement speed by 40% and increases allies' movement speed by 30%.&#xA;&#xA;When placed, turrets have a durability level of 2 (out of a maximum of 4). A turret's durability level decreases over time and when it is damaged by enemies' basic attacks. Each durability level increases the damage the turret deals by 15%. The turret is destroyed when its durability level reaches 0.&#xA;&#xA;Maximum turrets deployed: 2." />
+    <Key key="LongDescription" value="The Engineer places an automatic turret that deals [md]{{Data.0.AC3}}[/md][hide] ([wh]{{Data.0.AC1}}[/wh]+[sp]{{Data.0.AC2}}[/sp][spicon])[/hide] magic damage to all enemies in front of it.&#xA;&#xA;If a second turret is nearby, the two will connect, creating an electric beam that reduces enemies' movement speed by [ms]40%[/ms] and increases allies' movement speed by [ms]30%[/ms].&#xA;&#xA;When placed, turrets have a durability level of 2 (out of a maximum of 4). A turret's durability level decreases over time and when it is damaged by enemies' basic attacks. Each durability level increases the damage the turret deals by [wh]15%[/wh]. The turret is destroyed when its durability level reaches [wh]0[/wh].&#xA;&#xA;Maximum turrets deployed: [wh]{{Data.0.St}}[/wh]." />
+  </Node>
+  <Node name="DW2E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="If cast on an enemy:&#xA;The Engineer delivers a powerful blow to a target, dealing physical damage and stunning the target for 2 seconds.&#xA;&#xA;If cast on a turret:&#xA;The Engineer hits the turret, causing it to generate an electric pulse. The pulse deals magic damage and slows enemies within a short range from the turret and increases the turret's attack speed for 5 seconds.&#xA;&#xA;Generates 2 combo points." />
+    <Key key="LongDescription" value="If cast on an enemy:&#xA;The Engineer delivers a powerful blow to a target, dealing [pd]{{Data.0.ADF}}[/pd][hide] ([wh]{{Data.0.AC1}}[/wh]+[ap]{{Data.0.AC2}}[/ap][api])[/hide] physical damage and stunning the target for [wh]2[/wh] seconds.&#xA;&#xA;If cast on a turret:&#xA;The Engineer hits the turret, causing it to generate an electric pulse. The pulse deals [md]{{Data.0.wq1v1}}[/md][hide] ([wh]{{Data.0.AC3}}[/wh]+[sp]{{Data.0.AC4}}[/sp][spicon])[/hide] magic damage and slows enemies within a short range from the turret by [ms]{{@7iJGdyuQi4f:Data.0.MsK-}}[/ms] and increases the turret's attack speed on [wh]30%[/wh] for [wh]5[/wh] seconds.&#xA;&#xA;Generates [wh]2[/wh] combo points." />
+  </Node>
+  <Node name="DW3R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Berserker unleashes their rage for 10 seconds, increasing their attack speed by 20% and damage dealt by 30%.&#xA;&#xA;While the ability is active, the Berserker gains twice as much rage." />
+  </Node>
+  <Node name="DW3E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Berserker leaps into a target area, stunning all enemies in the area for 1 second and dealing physical damage.&#xA;&#xA;The leap generates 25 rage." />
+  </Node>
+  <Node name="DW3W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Berserker's attack speed is increased by 100% for the next 4 basic attacks. The fourth basic attack deals additional physical damage.&#xA;&#xA;The ability causes an enemy to bleed if the Berserker's rage is greater than or equal to 50." />
+  </Node>
+  <Node name="DW3Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Berserker throws an axe at a target location, dealing physical damage to all enemies it passes through, and slowing them. The Berserker can pick up the axe to reduce the ability's cooldown by 3 seconds.&#xA;&#xA;The damage the ability deals is increased by 20% if the Berserker's rage is greater than or equal to 50." />
+  </Node>
+  <Node name="OR1Q">
+    <Key key="Name" value="On the point of a spear" />
+    <Key key="Description" value="Ironclad pushes enemies away from itself in a small sector and deals physical damage. Enemies fly off at medium range and receive a mark. Allies who are in the area of ​​effect of the ability receive a buff on armor." />
+  </Node>
+  <Node name="OR1W">
+    <Key key="Name" value="Bogatyr throw" />
+    <Key key="Description" value="Ironclad swings his spear and throws it. The longer the swing, the further it flies. The spear deals physical damage and slows down. If it hits a target with a mark, then it also imposes a provocation." />
+  </Node>
+  <Node name="OR1E">
+    <Key key="Name" value="Powerful throw" />
+    <Key key="Description" value="Ironclad throws the target closest to it at the specified point, which deals physical damage to all enemies in the landing zone, including the original target, but does not damage allies. All enemies in the zone are stunned. Allies in this zone receive a buff on attack speed and casting speed, while opponents get a buff on running speed, attack speed, and casting speed." />
+  </Node>
+  <Node name="OR1R">
+    <Key key="Name" value="Cast off the shackles" />
+    <Key key="Description" value="When used, ironclad removes all controls from itself, takes 70% less damage, as well as a bonus to movement speed and tenacity. For each killed enemy, in the murder of which he took part, restores part of his health." />
+  </Node>
+  <Node name="OR2Q">
+    <Key key="Name" value="Коллапс" />
+    <Key key="Description" value="Броненосец кидает в указанную область сингулярную гранату, которая через некоторое время взрывается, наносит магический урон и стягивает противников в центр взрыва." />
+  </Node>
+  <Node name="OR2W">
+    <Key key="Name" value="Газонокосильщик" />
+    <Key key="Description" value="Броненосец впадает в ярость и начинает поливать огнем всех противников перед собой. Во время атаки он может медленно передвигаться, но не может изменить направление атак, а также остановить их." />
+  </Node>
+  <Node name="OR2E">
+    <Key key="Name" value="Не стой на пути" />
+    <Key key="Description" value="Совершает рывок в указанном направлении. Все враги, оказавшиеся на пути Броненосца, получают физический урон." />
+  </Node>
+  <Node name="OR2R">
+    <Key key="Name" value="Скорее внутрь" />
+    <Key key="Description" value="Бросает на землю устройство, которое создает защитный купол в указанной точке. Все автоатаки, совершенные извне по Броненосцу и союзникам, не достигнут целей под куполом." />
+  </Node>
+  <Node name="OR3R">
+    <Key key="Name" value="Кровавые узы" />
+    <Key key="Description" value="Призывает на помощь Призрачного волка, который сражается на стороне Броненосца. Если цели, которые атакует волк, находятся под действием Проклятия волка, то вместо обычной автоатаки, волк нанесет урон по области." />
+  </Node>
+  <Node name="OR3Q">
+    <Key key="Name" value="Росомаха" />
+    <Key key="Description" value="Броненосец бьет кастетами перед собой, чем наносит физический урон по области. Если цель находится под действием Проклятия волка, то она замедляется." />
+  </Node>
+  <Node name="OR3W">
+    <Key key="Name" value="Piercing blows" />
+    <Key key="Description" value="The Furious vanguard crushes an enemy's armor with its strikes, dealing additional damage and increasing its attack speed." />
+  </Node>
+  <Node name="OR3E">
+    <Key key="Name" value="Опасный оберег" />
+    <Key key="Description" value="Броненосец окружает себя универсальным щитом. Через 2 сек щит можно взорвать, или же, через время он взорвется сам и нанесет магический урон врагам." />
+  </Node>
+  <Node name="PA3Q">
+    <Key key="Name" value="Sunset shield" />
+    <Key key="Description" value="The paladin uses his shield to perform his next basic attack, dealing additional physical damage and stunning the target." />
+  </Node>
+  <Node name="PA1Q">
+    <Key key="Name" value="Swing blow" />
+    <Key key="Description" value="The paladin deals physical damage to the sector. In this zone, a shield is applied to allies." />
+  </Node>
+  <Node name="PA1W">
+    <Key key="Name" value="Hard choice" />
+    <Key key="Description" value="Fires a beam of light forward, slowing enemies and removing slows from allies. Combo - rays radiate around the paladin, dealing magic damage. Allies in the area receive a buff on Attack Power." />
+  </Node>
+  <Node name="PA1E">
+    <Key key="Name" value="Mark of Faith" />
+    <Key key="Description" value="The paladin places a mark on an enemy or ally. The label hangs for 5 seconds. When the mark ends, deals pure damage equal to 10% of all damage taken during the mark's duration." />
+  </Node>
+  <Node name="PA1R">
+    <Key key="Name" value="Come closer" />
+    <Key key="Description" value="The paladin causes a massive explosion around him. The longer it charges, the more magic damage it deals." />
+  </Node>
+  <Node name="PA2Q">
+    <Key key="Name" value="Blood loss" />
+    <Key key="Description" value="Each time it deals damage, the paladin causes the enemy to bleed and take physical damage for 4 seconds. This effect can stack up to 5 times. Then the enemy can be blown up." />
+  </Node>
+  <Node name="PA2W">
+    <Key key="Name" value="Cripple" />
+    <Key key="Description" value="The paladin's next basic attack damages an enemy's vital artery. While the target is bleeding, its movement speed is reduced." />
+  </Node>
+  <Node name="PA2E">
+    <Key key="Name" value="Double hit" />
+    <Key key="Description" value="The paladin hits with two hands and stuns the enemy." />
+  </Node>
+  <Node name="PA2R">
+    <Key key="Name" value="Judge" />
+    <Key key="Description" value="The paladin leaps onto an enemy champion and delivers a killing blow, dealing pure damage. This damage increases with each stack of Bleed on the target. If the target dies from the blow, then within a short time the skill can be used again." />
+  </Node>
+  <Node name="PA3W">
+    <Key key="Name" value="Irresistible" />
+    <Key key="Description" value="The paladin raises a shield to increase his armor and magic resistance, as well as gain resistance to damage. If during the end of this effect there are opponents next to him, they will receive magic damage, and the duration of the skill will be increased." />
+  </Node>
+  <Node name="PA3E">
+    <Key key="Name" value="Drag in" />
+    <Key key="Description" value="The paladin spins the morning star and strikes at medium range. After that, he pulls the enemy towards him." />
+  </Node>
+  <Node name="PA3R">
+    <Key key="Name" value="Flash" />
+    <Key key="Description" value="The paladin summons a beam of solar energy, damaging enemies in the area of the spell. Enemies in the center of the area will be stunned, and those at the edges will be slowed down." />
+  </Node>
+  <Node name="D1Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Pyromancer throws a fireball that deals magic damage to an enemy.&#xA;&#xA;Additional effect: A fireball deals magic damage to nearby enemies. Range increased by 3 meters." />
+    <Key key="LongDescription" value="The Pyromancer throws a fireball that deals [md]{{Data.0.ADF}}[/md][hide] ([wh]{{Data.0.AC1}}[/wh]+[sp]{{Data.0.AC2}}[/sp][spicon])[/hide] magic damage to an enemy.&#xA;&#xA;Additional effect: A fireball deals [md]{{Data.0.ADC1}}[/md][hide] ([wh]{{Data.0.AC3}}[/wh]+[sp]{{Data.0.AC4}}[/sp][spicon])[/hide] magic damage to nearby enemies. Range increased by 3 meters." />
+  </Node>
+  <Node name="D1W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Pyromancer creates a demonic portal for 3 seconds. The portal slows enemies and starts to pull them in. When the effect ends, the portal deals magic damage, instantly pulls the enemies to its center and roots them for 1.5 seconds.&#xA;&#xA;Additional effect: Affected enemies are set on fire and take magic damage for 3 seconds." />
+    <Key key="LongDescription" value="The Pyromancer creates a demonic portal for [wh]3[/wh] seconds. The portal slows enemies and starts to pull them in. When the effect ends, the portal deals [md]{{Data.0.ADF}}[/md][hide] ([wh]{{Data.0.AC1}}[/wh]+[sp]{{Data.0.AC2}}[/sp][spicon])[/hide] magic damage, instantly pulls the enemies to its center and roots them for [wh]{{@7iJGdtbWTsx:Data.0.T}}[/wh][hide] ([wh]{{@7iJGdtbWTsx:Data.0.AC1}}[/wh]+[hp]{{@7iJGdtbWTsx:Data.0.AC2}}[/hp][hpi][/hide] seconds.&#xA;&#xA;Additional effect: Affected enemies are set on fire and take [md]{{Data.0.ADC1}}[/md][hide] ([wh]{{Data.0.AC3}}[/wh]+[sp]{{Data.0.AC4}}[/sp][spicon])[/hide] magic damage for [wh]3[/wh] seconds." />
+  </Node>
+  <Node name="D1E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Pyromancer dashes, leaving a trail of fire for 2 seconds that deals magic damage over time. Reactivating this ability returns the Pyromancer to their starting location. &#xA;&#xA;Additional effect: Upon dashing, the Pyromancer explodes, dealing magic damage to nearby enemies." />
+    <Key key="LongDescription" value="The Pyromancer dashes, leaving a trail of fire for [wh]{{Data.0.AC4}}[/wh][hide] ([wh]2[/wh]+[hp]{{Data.0.AC3}}[/hp][hpi])[/hide] seconds that deals [md]{{Data.0.wq1v1}}[/md][hide] ([wh]{{Data.0.ADC1}}[/wh]+[sp]{{Data.0.ADC2}}[/sp][spicon])[/hide] magic damage over time. Reactivating this ability returns the Pyromancer to their starting location. &#xA;&#xA;Additional effect: Upon dashing, the Pyromancer explodes, dealing [md]{{Data.0.ADF}}[/md][hide] ([wh]{{Data.0.AC1}}[/wh]+[sp]{{Data.0.AC2}}[/sp][spicon])[/hide] magic damage to nearby enemies." />
+  </Node>
+  <Node name="D1R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Pyromancer calls down a meteor that lands at a target area, dealing magic damage and stunning enemies within the area for 2 seconds.&#xA;&#xA;Additional effect: The meteor's damage radius increases by 100%." />
+    <Key key="LongDescription" value="The Pyromancer calls down a meteor that lands at a target area, dealing [md]{{Data.0.ADF}}[/md][hide] ([wh]{{Data.0.AC1}}[/wh]+[sp]{{Data.0.AC2}}[/sp][spicon])[/hide] and stunning enemies within the area for [wh]{{@O8FCeScGYYA:Data.0.T}}[/wh][hide] ([wh]{{@O8FCeScGYYA:Data.0.AC1}}[/wh]+[hp]{{@O8FCeScGYYA:Data.0.AC2}}[/hp][hpi])[/hide] seconds.&#xA;&#xA;Additional effect: The meteor's damage radius increases by [wh]100%[/wh]." />
+  </Node>
+  <Node name="D2Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Soul Eater leaps in a direction. The first enemy they collide with is rooted for 1 second, and the Soul Eater strikes them with 3 quick stabs dealing physical damage and applying on-hit effects." />
+  </Node>
+  <Node name="D2W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Soul Eater creates a soul shadow. Upon recast, the Soul Eater teleports to their soul shadow.&#xA;&#xA;The soul shadow detonates on contact with the Soul Eater to deal magic damage in an area." />
+  </Node>
+  <Node name="D2E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Soul Eater lunges stabbing with their crescent blades and deals physical damage to all enemies in a line.&#xA;&#xA;If the ability hits at least one enemy, it can be re-cast: the Soul Eater cleaves forward, dealing physical damage to all enemies in a cone." />
+  </Node>
+  <Node name="D2R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Soul Eater chooses a target location and, after a short delay, creates a cage there. Enemies trapped in the cage take magic damage and passing through an edge of the cage are stunned for 2 seconds.&#xA;&#xA;If the ability hits at least one enemy, it can be re-cast: the Soul Eater throws their blades in a target direction, dealing physical damage to all enemies they hit in their path." />
+  </Node>
+  <Node name="D3Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Warlock launches a magic chain in a direction. This creates a tether between themself and an enemy or ally; the tether lasts 10 seconds. If the distance between the Warlock and a target exceeds 8 meters, the tether is broken. The Warlock can basic attack and use other abilities.&#xA;&#xA;Tether with an enemy deals magic damage over time. Damage increases over time.&#xA; &#xA;When tethered to an ally, the Warlock sacrifices a portion of their health and additionally heals the ally. Healing increases over time." />
+  </Node>
+  <Node name="D3W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Warlock applies a debuff that drains an enemy's health: it periodically deals magic damage and gives the Warlock equal amount of health, and additional healing. It lasts 7 seconds.&#xA;The ability can affect two enemies." />
+  </Node>
+  <Node name="D3E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Warlock debuffs an enemy. After a 1-second delay, their next basic attack against the debuffed enemy strikes the enemy with fear that lasts 2 seconds.&#xA;&#xA;When the fear effect is activated, the ability can be re-cast on an ally binding their and the enemy's souls together.&#xA;&#xA;When the fear effect expires, debuffs are triggered. They deal magic damage over 10 seconds and reduce movement speed by 30% for 3 seconds. The soulbound ally is healed by the amount of damage dealt, and gets additional healing." />
+  </Node>
+  <Node name="D3R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Warlock's damage-over-time effects explode on all affected enemies, dealing magic damage per effect.&#xA;For every active Warlock's healing effect, allies restore their health. &#xA;After the explosion, the effects remain active on their targets." />
+  </Node>
+  <Node name="B1T">
+    <Key key="Name" value="Adaptive Boost System" />
+    <Key key="Description" value="The Bomber begins cycling through enhancements (after activation, the effect changes every 5 seconds). Reactivating the ability activates the current enhancement.&#xD;&#xA;&#xD;&#xA;Enhancement 1: Outgoing healing is increased by 20%.&#xD;&#xA;Enhancement 2: The Bomber delivers the next 3 auto-attacks at maximum attack speed.&#xA;Enhancement 3: Inflicted magical damage is increased by 20%." />
+    <Key key="LongDescription" value="The Bomber begins cycling through enhancements (after activation, the effect changes every &lt;w&gt;5&lt;/w&gt; seconds). Reactivating the ability activates the current enhancement.&#xD;&#xA;&#xA;&lt;w&gt;Enhancement 1:&lt;/w&gt; Outgoing &lt;heal&gt;healing&lt;/heal&gt; or &lt;shield&gt;shielding&lt;/shield&gt; is increased by &lt;heal&gt;{{@7h7vr0h1j29:Data.0.ACP1}}&lt;/heal&gt;.&#xD;&#xA;&lt;w&gt;Enhancement 2:&lt;/w&gt; The Bomber delivers the next 3 auto-attacks at maximum &lt;as&gt;attack speed&lt;/as&gt; &lt;as&gt;{{@7h7vr5nEAYV:Data.0.ACP1}}&lt;/as&gt;.&#xA;&lt;w&gt;Enhancement 3:&lt;/w&gt; Damage of the next ability is increased by &lt;md&gt;{{@7h7vqvbiuAe:Data.0.ACP2}}&lt;/md&gt;.&#xA;Weapon Specialization Bonus -1 mana cost." />
+  </Node>
+  <Node name="B2T">
+    <Key key="Description" value="Each Grenadier's ability leaves explosive charges on an enemy, which lasts 5 seconds and stacks up to 6 times. When the Grenadier uses the special ability, the charges detonate, triggering an explosion and dealing magic damage." />
+  </Node>
+  <Node name="B3T">
+    <Key key="Name" value="Assassin’s Edge" />
+    <Key key="Description" value="Attacks and abilities directed at an enemy's back receive a bonus damage of 10% adaptive. The Bomber can activate a special ability and throw a dagger in the chosen direction, followed by a second dagger within 2 seconds. Upon hitting the target, the dagger impales and deals 100% damage. Cooldown is 30 seconds. After using the special ability, the Bomber remains unarmed for 5 seconds." />
+    <Key key="LongDescription" value="Attacks and abilities directed at an enemy's back receive a bonus damage of &lt;w&gt;{{Data.0.ACP2}}&lt;/w&gt; = [&lt;w&gt;10%&lt;/w&gt; + &lt;w&gt;2%&lt;/w&gt; AttackPower or SpellPower]. The Bomber can activate a special ability and throw a dagger in the chosen direction, followed by a second dagger within 2 seconds. Upon hitting the target, the dagger impales and deals &lt;pd&gt;{{Data.0.ADF2}}&lt;/pd&gt; = [&lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt;. Cooldown is &lt;w&gt;30&lt;/w&gt; seconds. After using the &lt;ulti&gt;special ability&lt;/ulti&gt;, the Bomber remains unarmed for &lt;w&gt;5&lt;/w&gt; seconds.&#xA;Weapon Specialization Bonus: +0.5% damage from behind." />
+  </Node>
+  <Node name="C1T">
+    <Key key="Name" value="Battle Frenzy" />
+    <Key key="Description" value="For each basic attack or use of ability, which hits an enemy, the Destroyer gains 1% bonus Attack Speed. The buff stacks up to 10 charges. The charge lasts 10 seconds and refreshes. Activation of the special ability is available on 10 charges only, and the Destroyer starts to whirl, dealing physical damage with their weapon every 0.75 seconds to all nearest enemies during 5 seconds. After that, all empowered charges fall off." />
+    <Key key="LongDescription" value="For each auto-attack or ability use that hit the enemy, the Destroyer receives a &lt;w&gt;1%&lt;/w&gt;&lt;as&gt; Attack Speed&lt;/as&gt;. The buff stacks up to &lt;w&gt;10&lt;/w&gt; times. Each charge last for &lt;w&gt;5&lt;/w&gt; seconds and is refreshed on a successful auto attack.&#xA;&#xA;Upon activating the special ability (possible only at &lt;w&gt;10&lt;/w&gt; charges), the Destroyer starts spinning around himself, dealing &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [ &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; to all nearby enemies every &lt;w&gt;0.75&lt;/w&gt; seconds for &lt;w&gt;{{Data.0.T}}&lt;/w&gt; seconds. After the ability ends, all charges are reset.&#xA;Weapon Specialization Bonus +0.75 seconds to effect duration." />
+  </Node>
+  <Node name="C3T">
+    <Key key="Description" value="The Defender gains bonus armor and magic resistance for each enemy in the 3 meters range around the Defender." />
+  </Node>
+  <Node name="D1T">
+    <Key key="Name" value="Need name T" />
+    <Key key="Description" value="Every spell the Pyromancer casts gives them Heat, which gradually fills the Heat Meter.&#xA;&#xA;Reaching the yellow zone (at 50%) of the Heat Meter grants all Pyromancer's abilities bonus effect.&#xA;&#xA;Reaching the red zone (at 100%) of the Heat Meter grants all Pyromancer's abilities 30% more damage. However, using any ability in the red zone additionally causes an explosion that deals magic damage to the Pyromancer." />
+    <Key key="LongDescription" value="Every spell the Pyromancer casts gives them Heat, which gradually fills the Heat Meter.&#xA;&#xA;Reaching the yellow zone (at 50%) of the Heat Meter grants all Pyromancer's abilities bonus effect.&#xA;&#xA;Reaching the red zone (at 100%) of the Heat Meter grants all Pyromancer's abilities 30% more damage. However, using any ability in the red zone additionally causes an explosion that deals [md]{{Data.0.ADF}}[/md][hide] ([wh]20%[/wh] from [hp]Max Health[/hp][hpi])[/hide] magic damage to the Pyromancer.&#xA;&#xA;Also, if the Pyromancer dies while in the red zone, an explosion occurs that deals [md]{{Data.0.ADF}}[/md][hide] ([wh]20%[/wh] from [hp]Max Health[/hp][hpi])[/hide] magic damage to everyone around." />
+  </Node>
+  <Node name="D2T">
+    <Key key="Name" value="Need name T" />
+    <Key key="Description" value="The Soul Eater's basic attacks have a chance to drop soul shards. Picking up a soul shard grants the Soul Eater or their allies reduced by 1 second cooldown on all their abilities. The picked up shards return to their owners, dealing magic damage based on the spell power of those who picked them up.&#xA;Stepping on soul shards, enemies destroy them." />
+  </Node>
+  <Node name="D3T">
+    <Key key="Description" value="For every active damage-over-time debuff on an enemy, the Warlock's Spell Power increases by 5%.&#xA;&#xA;For every active buff on an ally, the Warlock gains 5% healing efficiency.&#xA;&#xA;On activating the special ability, the Warlock sacrifices 20% of their current health to shield them for 300% of the sacrificed health. The Warlock's movement speed increases by 30%. Shield and bonus movement speed lasts 5 seconds." />
+  </Node>
+  <Node name="DW1T">
+    <Key key="Name" value="Need name T" />
+    <Key key="Description" value="Activating the special ability allows the Sniper to place a tracking totem that reveals a small area within the fog of war.&#xA;&#xA;Passive: The Sniper can't basic attack. To fire, a cartridge must be chambered. After 5 shots, the Sniper must reload, which takes 1.5 seconds.&#xA;&#xA;If the Sniper stands still for 3 seconds, they become invisible. When the Sniper moves or casts an ability, the invisibility effect ends.&#xA;&#xA;Using the Q or E ability grants bonus movement speed." />
+  </Node>
+  <Node name="DW2T">
+    <Key key="Name" value="Need name T" />
+    <Key key="Description" value="A turret's durability level increases by 1 when the Engineer basic attacks it. &#xA;&#xA;A turret is surrounded by an aura that grants the Engineer bonus armor and resistance.&#xA;&#xA;Basic attack generates a combo point." />
+    <Key key="LongDescription" value="A turret's durability level increases by 1 when the Engineer basic attacks it.&#xD;&#xA;&#xA;A turret is surrounded by an aura that grants the Engineer [arm]{{@7iJGdz76vPv:Data.0.Arm+}}[/arm] bonus armor and resistance.&#xD;&#xA;&#xA;Basic attack generates a combo point." />
+  </Node>
+  <Node name="DW3T">
+    <Key key="Description" value="The Berserker's basic attack generates 7 rage (critical damage generates 14 rage).&#xA;&#xA;The Berserker has a 20% chance to land an additional hit on a target after a basic attack.&#xA;&#xA;The Berserker gains 0% - 100% bonus attack power (based on their missing health)." />
+  </Node>
+  <Node name="OR1T">
+    <Key key="Description" value="Ironclad gets armor and magic resistance buffs when he hits an enemy with ability. For each armor and magic resistance Ironclad gains attack power bonus. Deals additional magic damage to controlled units." />
+  </Node>
+  <Node name="OR2T">
+    <Key key="Description" value="Amplifies all damage based on the distance to a target. Does more damage the closer to a target he is." />
+  </Node>
+  <Node name="OR3T">
+    <Key key="Description" value="Every next auto attack gives combo points. It can be used at any time to deal damage to the area around Ironclad. The bigger the number of combo points, the higher the damage." />
+  </Node>
+  <Node name="PA1T">
+    <Key key="Description" value="After using an ability Paladin gets a buff for the next auto attack. Enhanced auto attack deals bonus magic damage and casts a spell of gradual healing for Paladin. When having three charges Paladin gets a buff on Movement Speed." />
+  </Node>
+  <Node name="PA2T">
+    <Key key="Description" value="If the ability hits the target, auto attack gets charged with additional magic damage. Successful hits reduce cooldown of abilities, speed up Paladin and slow an enemy." />
+  </Node>
+  <Node name="PA3T">
+    <Key key="Description" value="When using ability Paladin gets Shield which protects from physical damage and which also increases Resistance. The effect does not stack, but it restores." />
+  </Node>
+  <Node name="">
+    <Key key="Name" value="Empty magazine" />
+    <Key key="Description" value="The Legionary removes all crowd control effects on themself. For 5 seconds, they take reduced damage, gain bonus movement speed and bonus tenacity. &#xA;&#xA;The Legionary restores a portion of their health on an enemy kill or assist." />
+  </Node>
+  <Node name="P1T">
+    <Key key="Name" value="Need name T" />
+    <Key key="Description" value="After using an ability, next basic attack the Hand of the Light casts is empowered. An empowered basic attack deals bonus magic damage and casts periodic healing on the Hand of the Light. Empowerment stacks up to 3 times. When the periodic healing effect stacks at 3 charges, the Hand of the Light gains bonus movement speed for 5 seconds, and when expired, the charges are reset." />
+    <Key key="LongDescription" value="After using an ability, next basic attack the Hand of the Light casts is empowered. An empowered basic attack deals [md]{{@O8FCe8dBJGx:Data.0.ADF}}[/md][hide] ([wh]{{@O8FCe8dBJGx:Data.0.AC1}}[/wh]+[uty]{{@O8FCe8dBJGx:Data.0.AC2}}[/uty]+[sp]{{@O8FCe8dBJGx:Data.0.AC3}}[/sp][spicon])[/hide] bonus magic damage and casts [heal]{{@O8FCe8dBJGx:Data.0.ADF}}[/heal][hide] [wh]({{@O8FCe8dBJGx:Data.0.AC1}}[/wh]+[uty]{{@O8FCe8dBJGx:Data.0.AC3}}[/uty]+[mp]{{@O8FCe8dBJGx:Data.0.AC2}}[/mp][mpi])[/hide] periodic healing on the Hand of the Light in 5 sec. Empowerment stacks up to 3 times. When the periodic healing effect stacks at 3 charges, the Hand of the Light gains [ms]{{@O8FCeNeuuaV:Data.0.MsK+}}[/ms] bonus movement speed for 5 seconds, and when expired, the charges are reset." />
+  </Node>
+  <Node name="P2E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Cleric shields themself or an ally. The shield absorbs all incoming damage. If the shield has more than 1 strength point upon its expiration, it triggers a magic explosion in the range of 2.5 meters around the hero. All enemies in the range of the explosion are stunned." />
+  </Node>
+  <Node name="P2R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="For 3 seconds, the Cleric surrounds themself with an aura, which heals allies, increases the Cleric's movement speed, and reduces the incoming damage. While aura is active, the Cleric can basic attack, but is not able to use abilities." />
+  </Node>
+  <Node name="P2T">
+    <Key key="Description" value="When attacking, the Cleric gets and stacks charges, which empower their abilities by 2%. Charges stack up to 5 times and are automatically reset when any of the abilities was used. &#xA;&#xA;Stacked charges will be reset if the special ability is activated, and basic attacks will deal additional magic damage for 10 seconds." />
+  </Node>
+  <Node name="P3Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Crusader flings a chain in a target direction, which deals physical damage the first enemy it hits and drags an enemy back to the Crusader. The ability taunts enemies to attack the Crusader for 2 seconds." />
+  </Node>
+  <Node name="P3W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Crusader starts to charge the ability. They can't use any other abilities, launch basic attacks, and move. The ability charges for 2 seconds and triggers an explosion, which deals magic damage.&#xA;&#xA;Recast: an explosion will occur instantly, and damage dealt will depend on the amount of time the ability was charging." />
+  </Node>
+  <Node name="P3E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Crusader raises their shield and blocks the first attack or ability. If the damage has been blocked, the Crusader can recast the ability. The Crusader deals physical damage in a small area in front of them and slows all affected enemies." />
+  </Node>
+  <Node name="P3R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Crusader creates a field on the ground. All enemies trapped in this field can't use teleporting and dashing abilities. All allies within the field take reduced damage. When enemies cross the border of the field, they will be disarmed and will take magic damage.&#xA;&#xA;When the Crusader or their allies cross the border of the field, they gain bonus movement speed." />
+  </Node>
+  <Node name="P3T">
+    <Key key="Description" value="Each basic attack of the Crusader marks an enemy. The mark stacks up to 10 times. Upon reaching the maximum stacks, the mark stuns the enemy for 2 seconds." />
+  </Node>
+  <Node name="O3Q">
+    <Key key="Name" value="Rip Apart" />
+    <Key key="Description" value="The shaman quickly leaps towards the target, preparing to deliver a series of destabilizing strikes. The next 4 auto-attacks reduce the target's armor and magical resistance by 5 units per auto-attack for 6 seconds. With 5 charges of elemental power, the target is immobilized for 2 seconds. Consumes all charges of the special ability." />
+    <Key key="LongDescription" value="The shaman quickly &lt;ms&gt;leaps towards&lt;/ms&gt; the target, preparing to deliver a series of &lt;w&gt;destabilizing strikes&lt;/w&gt;. The next 4 following auto-attacks have increased damage &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPower and reduce the target's Armor and Resist by &lt;w&gt;{{@7h7vqL2Ys02:Data.0.AC1}}&lt;/w&gt; units per auto-attack for &lt;w&gt;{{@7h7vqL2Ys02:Data.0.T}}&lt;/w&gt; seconds. With &lt;w&gt;5&lt;/w&gt; charges of elemental power, the target is &lt;ctrl&gt;immobilized&lt;/ctrl&gt; for &lt;w&gt;{{@7h7vqFwE9hf:Data.0.T}}&lt;/w&gt; seconds. Consumes all charges of the special ability.&#xA;Weapon Specialization Bonus +0.2 to dash distance." />
+  </Node>
+  <Node name="O3W">
+    <Key key="Name" value="Totemic Fury" />
+    <Key key="Description" value="Passive: Through meditation, the shaman increases both his and the wolf's attack speed and movement speed.&#xD;&#xA;Active: With 5 charges of elemental power, the shaman can activate the skill and summon a totem within a 6-meter radius for 8 seconds. The type of totem depends on the chosen element in a special skill:&#xA;&#xA;▪ Fire element - Fire Totem. Deals Spell Power magical damage to enemy within an 8-meter radius every 0.75 seconds.&#xD;&#xA;&#xD;&#xA;▪ Water element - Healing Totem. Restores Spell Power health to the shaman and his allies within a 4-meter radius every 0.75 seconds.&#xD;&#xA;&#xD;&#xA;▪ Earth element - Wolf Totem. Enhances the shaman's attacks by Attack Power within an 8-meter radius. Allies receive 50% of the enhancements.&#xD;&#xA;&#xD;&#xA;The totem consumes all charges of the special ability." />
+    <Key key="LongDescription" value="Passive: Through meditation, the shaman increases both his and the wolf's {{Data.0.ACP5}} AttackSpeed and {{Data.0.ACP4}} MoveSpeed.&#xD;&#xA;Active: With 5 charges of elemental power, the shaman can activate the skill and summon a totem within a &lt;w&gt;6&lt;/w&gt;-meter radius for &lt;w&gt;8&lt;/w&gt; seconds. The type of totem depends on the chosen element in a special skill:&#xA;- Fire element - Fire Totem. Deals &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [&lt;w&gt;({{Data.0.AC1}})&lt;/w&gt;+({{Data.0.ACP1}})SpellPower] &lt;md&gt;magical damage&lt;/md&gt; to enemy within an 8-meter radius every 0.75 seconds.&#xD;&#xA;- Water element - Healing Totem. Restores &lt;heal&gt; {{Data.0.ADF2}}&lt;/heal&gt;  =[&lt;w&gt;({{Data.0.AC2}})&lt;/w&gt;+({{Data.0.ACP2}})HLPower] &lt;heal&gt;health&lt;/heal&gt; to the shaman and his allies within a &lt;w&gt;8&lt;/w&gt;-meter radius every &lt;w&gt;0.75&lt;/w&gt; seconds.&#xD;&#xA;- Earth element - Wolf Totem. Enhances the shaman's attacks by &lt;ap&gt;{{Data.0.ADF3}}&lt;/ap&gt; = [({{Data.0.AC3}}) + ({{Data.0.ACP3}})AttackPower] within an &lt;w&gt;8&lt;/w&gt;-meter radius. Allies receive &lt;w&gt;50%&lt;/w&gt; of the enhancements.&#xD;&#xA;The totem consumes all charges of the special ability.&#xA;Weapon Specialization Bonus +0.5 seconds to totem duration." />
+  </Node>
+  <Node name="O3R">
+    <Key key="Name" value="Call of the Wild" />
+    <Key key="Description" value="The shaman summons a wolf. There is a strong spiritual connection between the wolf and the shaman. The attack power, attack speed, health, armor, and magical resistance of the wolf are 50% of the shaman's stats. If the wolf dies, the shaman loses 20% of his health.&#xD;&#xA;&#xD;&#xA;- Direction to the enemy: The wolf attacks the designated target, and every 5th attack deals additional magical damage.&#xD;&#xA;&#xD;&#xA;- Direction to the shaman: The wolf returns to the shaman.&#xD;&#xA;&#xD;&#xA;- Direction to the wolf: The shaman casts a channeling spell and transfers a portion of his health to the wolf during 5 seconds. Every second shaman loses 1% health, and in return, the wolf gains 3% health.&#xD;&#xA;&#xD;&#xA;- Direction to the position: The wolf runs to the specified place and stays there. If the shaman moves beyond a 20-meter radius, the wolf returns to the shaman." />
+    <Key key="LongDescription" value="The shaman summons a wolf. There is a strong spiritual connection between the wolf and the shaman. The AttackPower, AttackSpeed, HPBonus, &lt;armi&gt;&lt;armat&gt;Armor&lt;/armat&gt;, and Resist of the wolf are &lt;w&gt;50%&lt;/w&gt; of the shaman's stats. If the wolf dies, the shaman loses &lt;w&gt;30%&lt;/w&gt; of his &lt;hp&gt;current health&lt;/hp&gt;.&#xD;&#xA;- Direction to the enemy: The wolf attacks the designated target, and every &lt;w&gt;5th&lt;/w&gt; attack deals additional &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [&lt;w&gt;({{Data.0.AC1}})&lt;/w&gt; + ({{Data.0.ACP1}})SpellPower] &lt;md&gt;magical damage&lt;/md&gt;.&#xD;&#xA;- Direction to the shaman: The wolf returns to the shaman.&#xD;&#xA;- Direction to the wolf: The shaman casts a channeling spell and transfers a portion of his health to the wolf during &lt;w&gt;5&lt;/w&gt; seconds. Every second shaman loses &lt;w&gt;1%&lt;/w&gt; &lt;hp&gt;health&lt;/hp&gt;, and in return, the wolf gains &lt;w&gt;3%&lt;/w&gt; &lt;hp&gt;health&lt;/hp&gt;.&#xD;&#xA;- Direction to the position: The wolf runs to the specified place and stays there. If the shaman moves beyond a &lt;w&gt;20&lt;/w&gt;-meter radius, the wolf returns to the shaman.&#xD;&#xA;" />
+  </Node>
+  <Node name="O3E">
+    <Key key="Name" value="Lightning Strike" />
+    <Key key="Description" value="The shaman gathers electricity from the atmosphere and releases lightning at the target, dealing magical damage Spell Power. With 5 charges of elemental power, the cast is instant. Consumes all charges of the special ability." />
+    <Key key="LongDescription" value="The shaman gathers electricity from the atmosphere and releases lightning at the target, dealing &lt;md&gt;{{Data.0.ADF2}}&lt;/md&gt; = [&lt;w&gt;{{Data.0.ADC1}}&lt;/w&gt; + ({{Data.0.ACP1}})SpellPower] &lt;md&gt;magical damage&lt;/md&gt;. With &lt;w&gt;5&lt;/w&gt; charges of elemental power, the cast is &lt;w&gt;instant&lt;/w&gt;. Consumes all charges of the special ability.&#xA;Weapon Specialization Bonus +0.5 ability range." />
+  </Node>
+  <Node name="O2E">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Commando fires a piercing shell in a target direction, hitting all enemies in its path. Enemies take physical damage and armor reduction debuff for 5 seconds. The effect stacks up to 3 times.&#xA;&#xA;Improvement: critical damage power increased by 50%; enemies are knocked back and get the maximum amount of armor reduction stacks." />
+  </Node>
+  <Node name="O3T">
+    <Key key="Name" value="Elemental Mastery" />
+    <Key key="Description" value="Every 3rd auto-attack, the shaman increases his attack speed by 5% for 7 seconds and gains a charge of the elemental power. When the number of charges reaches 5, the shaman can summon the forces of the elements to his aid and  improve his skills. By activating the special ability, the shaman switches between the elements of fire, water, and earth over 1.5 seconds." />
+    <Key key="LongDescription" value="Every &lt;w&gt;3rd&lt;/w&gt; auto-attack, the shaman increases his AttackSpeed by &lt;w&gt;5%&lt;/w&gt; for 7 seconds and gains a charge of the elemental power. When the number of charges reaches &lt;w&gt;5&lt;/w&gt;, the shaman can summon the forces of the elements to his aid and  improve his skills. By activating the special ability, the shaman switches between the elements of fire, water, and earth over &lt;w&gt;1.5&lt;/w&gt; seconds.&#xA;Weapon Specialization Bonus +1% to total attack speed." />
+  </Node>
+  <Node name="DE3Q">
+    <Key key="Name" value="Drain Life" />
+    <Key key="Description" value="Демон создает связь с выбранным противником и наносит ему магический урон, а также накладывает на него эффект с периодическим магическим уроном. Враг продолжает получать урон пока связь не прервется. Также, часть нанесенного урона возвращается Демону в виде здоровья." />
+  </Node>
+  <Node name="DE3W">
+    <Key key="Name" value="Огненная цепь" />
+    <Key key="Description" value="Pain Reaper applies a debuff that drains an enemy's health: it periodically deals magic damage and gives Pain Reaper equal amount of health, and additional healing. It lasts 7 seconds. The ability can affect two enemies." />
+  </Node>
+  <Node name="DE3E">
+    <Key key="Name" value="Дань пламени" />
+    <Key key="Description" value="Демон выбирает область и концентрируется. В данной области появляется огненный вихрь, наносящий периодический урон и замедляющий противников." />
+  </Node>
+  <Node name="DE3R">
+    <Key key="Name" value="Демоническая форма" />
+    <Key key="Description" value="Принимает истинную форму и усиливает все негативные эффекты, которые были или будут наложены Демоном." />
+  </Node>
+  <Node name="DE3T">
+    <Key key="Description" value="Casting 3 different debuffs on one target reduces its magic resistance." />
+  </Node>
+  <Node name="O2Q">
+    <Key key="Name" value="Need name Q" />
+    <Key key="Description" value="The Commando fires a torrent of shots from their minigun at a target direction for 3 seconds. Every 0.5 seconds, all enemies hit take physical damage. While shooting, the Commando can still move.&#xA;&#xA;Improvement: critical strike chance increased by 10%. You can slightly change the direction of the shot." />
+  </Node>
+  <Node name="O2W">
+    <Key key="Name" value="Need name W" />
+    <Key key="Description" value="The Commando throws a smoke canister dealing physical damage to an area. Enemies have their sight range reduced, and while they're in the range of smoke, their movement speed reduced by 50%.&#xA;&#xA;Improvement: all enemies hit are rooted." />
+  </Node>
+  <Node name="O2R">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="The Commando places a tripod and mounts a minigun on the ground. The damage they deal increases, their abilities are improved and have increased range.&#xA;&#xA;While the minigun is fixed on the tripod, the Commando can't move.&#xA;&#xA;When the Commando re-casts the ability, they uninstall the tripod and pick up the minigun." />
+  </Node>
+  <Node name="O2T">
+    <Key key="Description" value="The Commando has no cooldown on abilities, but they consume 1 ammo. The Commando has 4 ammo in stock.&#xA;&#xA;The minigun fires at a fixed rate.&#xA;&#xA;The Commando reloads the minigun upon activating the special ability. Reload time is 4 seconds." />
+  </Node>
+  <Node name="O1T">
+    <Key key="Name" value="Iron Skin" />
+    <Key key="Description" value="Each time the Legionary hits a target with an attack, they gain 1% armor and 1% magic resistance for 10 seconds. The effect stacks up to 10 times.&#xA;&#xA;When the Legionary has 10 stacks he convert 15% of armor and magic resistance into bonus attack power.&#xA;&#xA;" />
+    <Key key="LongDescription" value="Each time the Legionary hits a target with an attack, they gain &lt;w&gt;1%&lt;/w&gt; &lt;armat&gt;armor&lt;/armat&gt; and &lt;w&gt;1%&lt;/w&gt; &lt;mr&gt;magic resistance&lt;/mr&gt; for &lt;w&gt;10&lt;/w&gt; seconds. The effect stacks up to &lt;w&gt;10&lt;/w&gt; times.&#xA;&#xA;When the Legionary has 10 stacks part of the Legionary's &lt;armat&gt;armor&lt;/armat&gt; and &lt;mr&gt;magic resistance&lt;/mr&gt; is converted into &lt;ap&gt;{{Data.0.AC3}}&lt;/ap&gt; = [&lt;armat&gt;{{Data.0.ACP3}}&lt;/armat&gt; Armor + &lt;mr&gt;{{Data.0.ACP2}}&lt;/mr&gt; Resist] AttackPowerBonus_loc.&#xA;Weapon Specialization Bonus +0.5% to total armor resistance." />
+  </Node>
+  <Node name="O2Q_H">
+    <Key key="Name" value="Name" />
+  </Node>
+  <Node name="C1T_Z">
+    <Key key="Name" value="Whirlwind of death" />
+  </Node>
+  <Node name="CON_A">
+    <Key key="Name" value="Вард" />
+    <Key key="Description" value="Ставит вард, который разведывает територию в течении 5 минут." />
+  </Node>
+  <Node name="ROB_EH">
+    <Key key="Description" value="Quantity does not mean quality!" />
+  </Node>
+  <Node name="CON_ROB">
+    <Key key="Description" value="Get into the robot." />
+  </Node>
+  <Node name="ANIC">
+    <Key key="Description" value="Apply control." />
+  </Node>
+  <Node name="UCL">
+    <Key key="Name" value="Universal: Cleanse" />
+    <Key key="Description" value="Removes negative effects from the target." />
+    <Key key="LongDescription" value="Removes negative effects from the target." />
+  </Node>
+  <Node name="UDA">
+    <Key key="Name" value="Universal: Warp" />
+    <Key key="Description" value="Warp forward a few meters." />
+    <Key key="LongDescription" value="Warp forward {{Data.0.R}} meters." />
+  </Node>
+  <Node name="UFR" />
+  <Node name="US">
+    <Key key="Name" value="Universal: Slow" />
+    <Key key="Description" value="Reduces movement speed." />
+    <Key key="LongDescription" value="Reduces movement speed by {{@O8FCe568vwx:Data.0.ACP1}}." />
+  </Node>
+  <Node name="URT">
+    <Key key="Name" value="Universal: Root" />
+    <Key key="Description" value="Target cannot move." />
+    <Key key="LongDescription" value="Target cannot move for 5 sec." />
+  </Node>
+  <Node name="P1W2">
+    <Key key="Name" value="Need name W2" />
+    <Key key="Description" value="If the Hand of the Light hits a target with the beam of light, they can recast the ability and shield themself or allies." />
+    <Key key="LongDescription" value="If the Hand of the Light hits a target with the beam of light, they can recast the ability and shield [shg]{{@O8FCePePCVx:Data.0.AC3}}[/shg][hide] ([wh]{{@O8FCePePCVx:Data.0.AC1}}[/wh]+[mp]{{@O8FCePePCVx:Data.0.AC2}}[/mp][mpi])[/hide] themself or allies." />
+  </Node>
+  <Node name="B1E2">
+    <Key key="Name" value="Holo-Decoy Projector" />
+    <Key key="Description" value="The Blast Medic creates their duplicate and sends it to a target direction. When the ability is recast on the duplicate, the Blast Medic swaps places with the duplicate. Passing through enemies the Blast Medic deals magic damage and regenerates health of allies they pass through. If there are enemies between the Blast Medic and the duplicate while the Blast Medic is teleporting, enemies are additionally stunned." />
+    <Key key="LongDescription" value="Teleportation to the clone." />
+  </Node>
+  <Node name="D1E2">
+    <Key key="Name" value="Need name E" />
+    <Key key="Description" value="The Pyromancer dashes, leaving a trail of fire for 2 seconds that deals magic damage over time. Reactivating this ability returns the Pyromancer to their starting location. &#xA;&#xA;Additional effect: Upon dashing, the Pyromancer explodes, dealing magic damage to nearby enemies." />
+  </Node>
+  <Node name="DW1E_H2" />
+  <Node name="DW1T_E">
+    <Key key="Name" value="Empty magazine" />
+  </Node>
+  <Node name="DW1E_F">
+    <Key key="Name" value="Need name E" />
+  </Node>
+  <Node name="DW1E_F2">
+    <Key key="Name" value="Need name E" />
+  </Node>
+  <Node name="SMAS" />
+  <Node name="SSTB_Z" />
+  <Node name="FSC">
+    <Key key="Name" value="Fishing" />
+    <Key key="Description" value="Cast the fishing rod to the area with a fish aggregation." />
+  </Node>
+  <Node name="DW2W_MA" />
+  <Node name="DW2Q1">
+    <Key key="Name" value="Need name Q" />
+  </Node>
+  <Node name="DW2E_C1">
+    <Key key="Name" value="Need name E" />
+  </Node>
+  <Node name="DW2E_C2">
+    <Key key="Name" value="Need name E" />
+  </Node>
+  <Node name="DW2Q2">
+    <Key key="Name" value="Need name Q" />
+  </Node>
+  <Node name="DKOQ" />
+  <Node name="APWA">
+    <Key key="Name" value="Вард" />
+    <Key key="Description" value="Дает видимость в радиусе" />
+  </Node>
+  <Node name="DKOW">
+    <Key key="Name" value="Хил" />
+    <Key key="Description" value="Хилит каждую секунду" />
+  </Node>
+  <Node name="APOE">
+    <Key key="Name" value="Чардж" />
+    <Key key="Description" value="Рывок в указаную цель с уроном" />
+    <Key key="LongDescription" value="Делает рывок в указаную цель нанося урон всем на своем пути 175 урона, и накладывает доту которая наносит 10 урона в секунду&#xA;" />
+  </Node>
+  <Node name="APOW">
+    <Key key="Name" value="Удар по конусу" />
+    <Key key="Description" value="Удар перед собой в небольшом радиусе" />
+    <Key key="LongDescription" value="Наносит 75 урона и замедляет на 50% в течении 10 сек, всем кто находится перед героем в радиусе." />
+  </Node>
+  <Node name="APOR">
+    <Key key="Name" value="АОЕ в таргет" />
+    <Key key="Description" value="Урон в цель с задержкой АОЕ уроном вокруг цели" />
+    <Key key="LongDescription" value="Каст в выбранную цель 125 урона, и через 2 сек всем в радиусе 75 урона, налаживая негативный эфект уменьшение брони -10, и станит на 1.5 сек" />
+  </Node>
+  <Node name="APOQ">
+    <Key key="Name" value="Смарткаст в цель" />
+    <Key key="Description" value="Кидает в указанную точку способность, наносит урон, и поджигает в попавшую цель в течении 10 секунд, с тиком в 1 секунду. Дота нанесет дополнительный урон с автоатаки героя." />
+    <Key key="LongDescription" value="Наносит [sp] {{Data.0.ADF}} [/sp] [hide] [sp]{{Data.0.AC1}}[/sp] + [sp]{{Data.0.AC2}}[/sp][/hide] Вешает доту которая наносит [sp]{{Data.0.AC4}}[/sp] урона в секунду и еще [sp]{{Data.0.AC3}}[/sp] при получении урона от автоатаки" />
+  </Node>
+  <Node name="SHH">
+    <Key key="Name" value="Баф на урон и хп" />
+  </Node>
+  <Node name="SMN" />
+  <Node name="DKOR">
+    <Key key="Name" value="Инъектор здоровья" />
+    <Key key="Description" value="Исцеляет игрока" />
+  </Node>
+  <Node name="ALKQ">
+    <Key key="Name" value="Огненный шар" />
+    <Key key="Description" value="Наносит урон противнику на дистанции до 10 метров с временем произношения 2 секунды." />
+    <Key key="LongDescription" value="После произношения заклинания, наносит урон выбранному противнику на расстоянии до 10 метров." />
+  </Node>
+  <Node name="ALKR">
+    <Key key="Name" value="Летящая котлета" />
+    <Key key="Description" value="Моментальное заклинание, которое с задержкой в 2 секунды наносит урон по области всем противникам в радиусе 6 метров, на расстоянии до 15 метров." />
+    <Key key="LongDescription" value="Моментальное заклинание, которое с задержкой в 2 секунды наносит урон по области всем противникам в радиусе 6 метров, на расстоянии до 15 метров." />
+  </Node>
+  <Node name="ALKW">
+    <Key key="Name" value="Демоническое пламя" />
+    <Key key="Description" value="Выпускает огненный снаряд перед собой на расстоянии до 10 метров, наносит урон первому игроку на своем пути." />
+    <Key key="LongDescription" value="Выпускает огненный снаряд перед собой на расстоянии до 10 метров, наносит урон первому игроку на своем пути." />
+  </Node>
+  <Node name="ALKE">
+    <Key key="Name" value="Рывок" />
+    <Key key="Description" value="Мгновенно переносится к противнику и наносит физический урон, зависящий от силы атаки персонажа. " />
+    <Key key="LongDescription" value="Мгновенно переносится к противнику и наносит физический урон, зависящий от силы атаки персонажа. " />
+  </Node>
+  <Node name="ALK_M3">
+    <Key key="Description" value="В этой книге сохранены древние знания о выживании в Квалате." />
+  </Node>
+  <Node name="ALK_M2">
+    <Key key="Description" value="В этом эликсире содержится сила.." />
+  </Node>
+  <Node name="DW2R2">
+    <Key key="Name" value="Need name R" />
+    <Key key="Description" value="While the ability is active, the Engineer can choose turret's targets remotely." />
+    <Key key="LongDescription" value="While the ability is active, the Engineer can choose turret's targets remotely." />
+  </Node>
+  <Node name="ability$C1E_AV">
+    <Key key="AbilityParamName" value="Health" />
+  </Node>
+  <Node name="ability$C1E_AV2">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$C1E_AV3">
+    <Key key="AbilityParamName" value="Armor and Resist debuff" />
+  </Node>
+  <Node name="ability$C1E_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$O1Q_AC1" />
+  <Node name="ability$C1Q_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$C1Q_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$O1Q_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$O1Q_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$O1W_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$O1W_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$O1E_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$O1E_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$C1R_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$C1R_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$O1R_Msb" />
+  <Node name="ability$O1R_AV" />
+  <Node name="ability$O1R_AV3" />
+  <Node name="ability$O1R_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$O1R_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$P1Q_AV">
+    <Key key="AbilityParamName" value="Base damage" />
+  </Node>
+  <Node name="ability$P1Q_Ipd+" />
+  <Node name="ability$P1Q_Mp" />
+  <Node name="ability$P1Q_Imd+" />
+  <Node name="ability$P1Q_AV2" />
+  <Node name="ability$P1W_AV">
+    <Key key="AbilityParamName" value="Base damage" />
+  </Node>
+  <Node name="ability$P1W_Sh" />
+  <Node name="ability$P1W_ShMx" />
+  <Node name="ability$P1W_AV2">
+    <Key key="AbilityParamName" value="Shield base" />
+  </Node>
+  <Node name="ability$P1W_Mp" />
+  <Node name="ability$P1E_AV" />
+  <Node name="ability$P1E_Mp" />
+  <Node name="ability$P1R_AV" />
+  <Node name="ability$P1R_Mp" />
+  <Node name="ability$P1Q_AVp">
+    <Key key="AbilityParamName" value="Base damage increase" />
+  </Node>
+  <Node name="ability$O1R_ACP1">
+    <Key key="AbilityParamName" value="Bonus movement speed" />
+  </Node>
+  <Node name="ability$O1R_ACP3">
+    <Key key="AbilityParamName" value="Tenacity" />
+  </Node>
+  <Node name="ability$DW2W_AV2">
+    <Key key="AbilityParamName" value="Base turret damage" />
+  </Node>
+  <Node name="ability$DW2E_AV">
+    <Key key="AbilityParamName" value="Base damage" />
+  </Node>
+  <Node name="ability$DW2E_AV2">
+    <Key key="AbilityParamName" value="Bas AOE damage" />
+  </Node>
+  <Node name="ability$DW2E_Mp" />
+  <Node name="ability$DW2R_C" />
+  <Node name="ability$DW2R_Mp" />
+  <Node name="ability$B1Q_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$B1Q_AV2">
+    <Key key="AbilityParamName" value="Base Heal" />
+  </Node>
+  <Node name="ability$B1Q_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$B1W_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$B1W_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$B1E_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$B1E_AV2">
+    <Key key="AbilityParamName" value="Base Heal" />
+  </Node>
+  <Node name="ability$B1E_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$B1R_AV">
+    <Key key="AbilityParamName" value="Base Heal" />
+  </Node>
+  <Node name="ability$B1R_AV2">
+    <Key key="AbilityParamName" value="Base on-hit damage" />
+  </Node>
+  <Node name="ability$B1R_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$B1R_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$B1R_ADF" />
+  <Node name="ability$B1R_AC1">
+    <Key key="AbilityParamName" value="Base Heal" />
+  </Node>
+  <Node name="ability$B1R_AC2">
+    <Key key="AbilityParamName" value="Base Shield" />
+  </Node>
+  <Node name="ability$B1R_AC3">
+    <Key key="AbilityParamName" value="Base on-hit damage" />
+  </Node>
+  <Node name="ability$D1Q_AV">
+    <Key key="AbilityParamName" value="Base damage" />
+  </Node>
+  <Node name="ability$D1Q_AV2">
+    <Key key="AbilityParamName" value="Base area damage" />
+  </Node>
+  <Node name="ability$D1Q_Mp" />
+  <Node name="ability$D1W_AV">
+    <Key key="AbilityParamName" value="Base portal damage" />
+  </Node>
+  <Node name="ability$D1W_AV2">
+    <Key key="AbilityParamName" value="Base DOT damage" />
+  </Node>
+  <Node name="ability$D1W_Mp" />
+  <Node name="ability$D1E_Z2_AV2" />
+  <Node name="ability$D1E_Z2_AV" />
+  <Node name="ability$D1E_Z2_Mp" />
+  <Node name="ability$D1E_AV2">
+    <Key key="AbilityParamName" value="Base explosion damage" />
+  </Node>
+  <Node name="ability$D1E_AV">
+    <Key key="AbilityParamName" value="Base DOT damage" />
+  </Node>
+  <Node name="ability$D1E_Mp" />
+  <Node name="ability$D1E_ADC2" />
+  <Node name="ability$D1E_ADC1" />
+  <Node name="ability$D1R_AV" />
+  <Node name="ability$D1R_C" />
+  <Node name="ability$D1R_Mp" />
+  <Node name="ability$DW2W_Mp" />
+  <Node name="UIH-">
+    <Key key="Name" value="Universal: Sprint" />
+    <Key key="Description" value="Increase speed for 5 second." />
+    <Key key="LongDescription" value="Increased {{@O8FCeABtepy:Modifiers.0.iv}} by {{@O8FCeABtepy:Modifiers.0.val}} for {{@O8FCeABtepy:TotalTime}}." />
+  </Node>
+  <Node name="C1QM">
+    <Key key="Name" value="Cha_S1_Q_5" />
+    <Key key="LongDescription" value="Deals [pd]{{Data.0.ADF}}[/pd][hide] ([wh]{{Data.0.AC1}}[/wh]+[ap]{{Data.0.AC2}}[/ap][api])[/hide] physical damage around itself in a radius of [wh]0-2[/wh]m and [pd]{{Data.0.AC3}}[/pd] physical damage in a radius [wh]2-4[/wh]m. All enemies affected by this ability are slowed by [ms]{{@O8FCei2GS4k:Data.0.MsK-}}[/ms][hide]([wh]{{@O8FCei2GS4k:Data.0.ACP1}}[/wh]+[sp]{{@O8FCei2GS4k:Data.0.ACP2}}[/sp])[/hide] for [wh]{{@O8FCei2GS4k:TotalTime}}[/wh] sec." />
+  </Node>
+  <Node name="C1WM">
+    <Key key="Name" value="CHA_S1_W_5" />
+    <Key key="LongDescription" value="The Destroyer throws their weapon in a chosen area. It deals [pd]{{Data.0.ADF}}[/pd][hide] ([wh]{{Data.0.AC1}}[/wh]+[ap]{{Data.0.AC2}}[/ap][api]+[sp]{{Data.0.AC3}}[/sp])[/hide] physical damage to all enemies in this area.&#xA;Weapon Specialization Bonus +2% damage in outer radius." />
+  </Node>
+  <Node name="C1RM">
+    <Key key="Name" value="Dead Vacuum" />
+    <Key key="LongDescription" value="The area of effect is expanded by &lt;w&gt;2&lt;/w&gt; meters. The Destroyer pulls nearby enemies towards him, dealing &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;({{Data.0.ACP1}})&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; and rooting them for &lt;w&gt;3&lt;/w&gt; seconds." />
+  </Node>
+  <Node name="UFD">
+    <Key key="Name" value="Need quest" />
+  </Node>
+  <Node name="UFF">
+    <Key key="Name" value="Need quest" />
+  </Node>
+  <Node name="ability$C1W_AV" />
+  <Node name="ability$C1W_Mp" />
+  <Node name="ability$O3Q_AV" />
+  <Node name="ability$O3Q_Arm+">
+    <Key key="AbilityParamName" value="Armor debuff" />
+  </Node>
+  <Node name="ability$O3Q_Rs+">
+    <Key key="AbilityParamName" value="Resist debuff" />
+  </Node>
+  <Node name="ability$O3Q_Mp">
+    <Key key="AbilityParamName" value="Mana cost" />
+  </Node>
+  <Node name="ability$O3W_AsK+">
+    <Key key="AbilityParamName" value="Attack Speed" />
+  </Node>
+  <Node name="ability$O3W_MsK+">
+    <Key key="AbilityParamName" value="Movement Speed" />
+  </Node>
+  <Node name="ability$O3W_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="O3R2">
+    <Key key="Name" value="Call of the Wild" />
+    <Key key="LongDescription" value="&#xD;Re-casting:&#xA;- Direction to the enemy: The wolf attacks the designated target, and every &lt;w&gt;5th&lt;/w&gt; attack deals additional &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [&lt;w&gt;({{Data.0.AC1}})&lt;/w&gt; + ({{Data.0.ACP1}})SpellPower] &lt;md&gt;magical damage&lt;/md&gt;.&#xD;&#xA;&#xA;- Direction to the shaman: The wolf returns to the shaman.&#xD;&#xA;&#xD;&#xA;- Direction to the wolf: The shaman casts a channeling spell and transfers a portion of his health to the wolf during &lt;w&gt;5&lt;/w&gt; seconds. Every second shaman loses &lt;w&gt;1%&lt;/w&gt; &lt;hp&gt;health&lt;/hp&gt;, and in return, the wolf gains &lt;w&gt;3%&lt;/w&gt; &lt;hp&gt;health&lt;/hp&gt;.&#xD;&#xA;&#xD;&#xA;- Direction to the position: The wolf runs to the specified place and stays there. If the shaman moves beyond a &lt;w&gt;20&lt;/w&gt;-meter radius, the wolf returns to the shaman.&#xD;&#xA;" />
+  </Node>
+  <Node name="ability$O3R_AV">
+    <Key key="AbilityParamName" value="Wolf on-hit damage" />
+  </Node>
+  <Node name="ability$O3R_AV2" />
+  <Node name="ability$O3R_Hp">
+    <Key key="AbilityParamName" value="Transferring health to the wolf" />
+  </Node>
+  <Node name="ability$O3R_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$O3R_Mp">
+    <Key key="AbilityParamName" value="Mana" />
+  </Node>
+  <Node name="ability$O3R2_AV">
+    <Key key="AbilityParamName" value="Wolf Attack power" />
+  </Node>
+  <Node name="ability$O3R2_AV2">
+    <Key key="AbilityParamName" value="Wolf on-hit damage" />
+  </Node>
+  <Node name="ability$O3R2_Hp">
+    <Key key="AbilityParamName" value="Transferring health to the wolf" />
+  </Node>
+  <Node name="ability$O3R2_C" />
+  <Node name="ability$O3R2_Mp" />
+  <Node name="ability$C2W_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$C2W_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$C2E_AC1">
+    <Key key="AbilityParamName" value="Reduce armor per main attack" />
+  </Node>
+  <Node name="ability$C2E_AVk3">
+    <Key key="AbilityParamName" value="Slow" />
+  </Node>
+  <Node name="ability$C2E_Mp" />
+  <Node name="ability$C2E_AVk2">
+    <Key key="AbilityParamName" value="Attack Power" />
+  </Node>
+  <Node name="ability$B3Q_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$B3Q_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$B3W_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$B3W_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$B3E_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$B3E_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$B3R_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$B3R_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="as2v3" />
+  <Node name="B3Q2">
+    <Key key="Name" value="Camouflage" />
+    <Key key="Description" value="Activating this ability, the Infiltrator becomes invisible for 7 seconds and gains bonus movement speed.&#xA;&#xA;The next basic attack is empowered, dealing additional physical damage and silencing an enemy." />
+    <Key key="LongDescription" value="Activating this ability, the Infiltrator becomes invisible for [wh]7[/wh] seconds and gains [ms]{{@7h7vqFvJgqO:Data.0.MsK+}}[/ms] bonus movement speed.&#xA;&#xA;The next basic attack is empowered, dealing additional [pd]{{Data.0.ADF}}[/pd][hide] ([wh]{{Data.0.AC1}}[/wh]+[ap]{{Data.0.AC2}}[/ap][api])[/hide] physical damage and silencing an enemy." />
+  </Node>
+  <Node name="O1R2">
+    <Key key="Name" value="WAR_S1_R_1" />
+    <Key key="Description" value="The Legionary removes all crowd control effects on themself. For 5 seconds, they take reduced damage, gain bonus movement speed and bonus tenacity. &#xA;&#xA;The Legionary restores a portion of their health on an enemy kill or assist." />
+    <Key key="LongDescription" value="The Legionary removes all [ct]crowd control effects[/ct] on themself. For [wh]{{@Zv0qP4:Data.0.T}}[/wh][hide] ([wh]{{@Zv0qP4:Data.0.AC1}}[/wh][sp] + {{@Zv0qP4:Data.0.ACP1}}[/sp] [spicon])[/hide] seconds, they take reduced [wh]{{@Zv0qP4:Data.0.Ipd+}}[/wh] damage, gain [wh]{{@Zv0qP4:Data.0.MsK+}}[/wh] bonus [uty]movement speed[/uty] and [wh]{{@Zv0qP4:Data.0.Tn+}}[/wh] bonus [ct]crowd control reduction[/ct]. &#xA;&#xA;The Legionary restores a [hp]{{@Zv0qP4:Data.0.ADF}}[hide] ([wh]5%[/wh][hpb] + 0.3% per 100[/hpb] [hpbi])[/hide] health[/hp] on an enemy kill or assist." />
+  </Node>
+  <Node name="O1T_MOD">
+    <Key key="Name" value="Need Name W1T Mode" />
+    <Key key="Description" value="Each time the Legionary hits a target with an ability, they gain 2 armor and 2 magic resistance for 10 seconds. The effect stacks up to 10 times.&#xA;&#xA;15% of the Legionary's armor and magic resistance is converted into bonus attack power.&#xA;&#xA;The Legionary deals bonus physical damage to targets under crowd control effects." />
+    <Key key="LongDescription" value="Each time the Legionary hits a target with an ability, they gain [wh]2[/wh] [arm]armor[/arm] and [wh]2[/wh] [res]magic resistance[/res] for [wh]10[/wh] seconds. The effect stacks up to [wh]10[/wh] times.&#xA;&#xA;Part of the Legionary's [arm]armor[/arm] and [res]magic resistance[/res] is converted into [wh]{{Data.0.AC3}}[/wh] [hide]([arm]{{Data.0.ACP3}}[/arm] [armi][res] +{{Data.0.ACP2}}[/res] [resi]) [/hide][ap]bonus attack power[/ap].&#xA;&#xA;The Legionary deals [hp]{{Data.0.ACP1}}[/hp][hide][hpi][/hide] bonus [md]magical damage[/md] to targets under effects of [ct]crowd control[/ct]." />
+  </Node>
+  <Node name="O1Q_M">
+    <Key key="Name" value="Earthquake" />
+    <Key key="LongDescription" value="The Legionary smashes the enemies in front of them with their shield dealing [pd]{{Data.0.ADF}}[/pd][hide] ([wh]{{Data.0.AC1}}[/wh]+[ap]{{Data.0.AC2}}[/ap][api])[/hide] physical damage. The strike knocks enemies back and makes them vulnerable for [wh]{{@O8FCeJfcz60:Data.0.T}}[/wh] sec. If the ability hits an enemy casting a spell, the ability is interrupted and goes on cooldown." />
+  </Node>
+  <Node name="C1T2">
+    <Key key="Name" value="Battle Frenzy" />
+    <Key key="Description" value="For each basic attack or use of ability, which hits an enemy, the Destroyer gains 1% bonus Attack Power. The buff stacks up to 10 charges, and when the maximum amount of charges (10) is reached, the movement speed is increased by 10%. The charge lasts 5 seconds and refreshes. Activation of the special ability is available on 10 charges only, and the Destroyer starts to whirl, dealing physical damage with their weapon every 0.5 seconds to all nearest enemies during 5 seconds. After that, all empowered charges fall off." />
+    <Key key="LongDescription" value="For each basic attack or use of ability, which hits an enemy, the Destroyer gains [wh]1%[/wh] bonus [ap]Attack Power[/ap]. The buff stacks up to [wh]10[/wh] charges, and when the maximum amount of charges [wh](10)[/wh] is reached, the [uty]movement speed[/uty] is increased by [wh]10%[/wh]. The charge lasts [wh]5[/wh] seconds and refreshes. Activation of the special ability is available on [wh]10[/wh] charges only, and the Destroyer starts to whirl, dealing [pd]{{Data.0.ADF}}[hide] ([wh]{{Data.0.AC1}}[/wh] + [uty]{{Data.0.AC3}}[/uty] + [ap]{{Data.0.ACP1}}[/ap] [api]) [/hide] physical damage[/pd] with their weapon every [wh]{{Data.0.ACH3}}[/wh][hide] ([wh]{{Data.0.ACH1}}[/wh] - [as]10%[/as] [asi])[/hide] seconds to all nearest enemies during [wh]5[/wh] seconds. After that, all empowered charges fall off." />
+  </Node>
+  <Node name="CHSF">
+    <Key key="Description" value="Rooted animal when hit." />
+  </Node>
+  <Node name="QCPS">
+    <Key key="Description" value="Highlights a number of desired seashells" />
+  </Node>
+  <Node name="QCMT">
+    <Key key="Name" value="Playing the Flute" />
+    <Key key="Description" value="Makes a sound" />
+  </Node>
+  <Node name="QHWA">
+    <Key key="Description" value="Treats animals" />
+  </Node>
+  <Node name="SST" />
+  <Node name="ability$C2E_AV">
+    <Key key="AbilityParamName" value="Reduce armor per hit" />
+  </Node>
+  <Node name="ability$C2E_AV2">
+    <Key key="AbilityParamName" value="Reduce armor when switching stance" />
+  </Node>
+  <Node name="ability$C2E_AC2">
+    <Key key="AbilityParamName" value="Reduce armor when switching stance" />
+  </Node>
+  <Node name="ability$C2R_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$C2R_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C2R_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$C2R_AC3">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="O1C_C" />
+  <Node name="QCMH">
+    <Key key="Description" value="Tranquilizer weakens strong opponents" />
+  </Node>
+  <Node name="ART_HEX">
+    <Key key="Name" value="Turkey effect" />
+    <Key key="Description" value="Transforms the target into a turkey." />
+  </Node>
+  <Node name="ART_SAD">
+    <Key key="Description" value="Dispels negative effects." />
+  </Node>
+  <Node name="ART_TAU">
+    <Key key="Description" value="Taunts the target to auto-attack." />
+  </Node>
+  <Node name="O1W2">
+    <Key key="Name" value="Follow-Up Rush" />
+    <Key key="LongDescription" value="The ability can be reactivated within &lt;w&gt;2&lt;/w&gt; seconds: The Legionary makes a dash towards the thrown target." />
+  </Node>
+  <Node name="QEM">
+    <Key key="LongDescription" value="The resulting rapidly varying electric and magnetic fields may couple with electrical and electronic systems to produce damaging current and voltage surges." />
+  </Node>
+  <Node name="CON_MAPA">
+    <Key key="Description" value="Each basic attack poisons target by 3 for 3 sec.&#xA;Duration: {{Effects.0.TotalTime}} second." />
+  </Node>
+  <Node name="CON_MAS">
+    <Key key="Description" value="Each basic attack grants a 20% chance to slow down enemies by 20% for 4 sec.&#xA;Duration: {{Effects.0.TotalTime}} second." />
+  </Node>
+  <Node name="CON_CH">
+    <Key key="Description" value="When hero takes damage, enemy receives a lighting strike, which ricochets off the targets 2 times.&#xA;Duration: {{Effects.0.TotalTime}} second." />
+  </Node>
+  <Node name="CON_ADA">
+    <Key key="Description" value="Each physical damage taken increases your armor.&#xA;Duration: {{Effects.0.TotalTime}} second.&#xA;" />
+  </Node>
+  <Node name="CON_ES">
+    <Key key="Description" value="Grants a shield for {{Effects.0.TotalTime}} sec. If it is destroyed, an explosion occurs and the enemies are damaged." />
+  </Node>
+  <Node name="CON_HE">
+    <Key key="Description" value="Grants a 5 vision range.&#xA;Duration: {{Effects.0.TotalTime}} second." />
+  </Node>
+  <Node name="CON_BP">
+    <Key key="Description" value="Hero's damage is increased by 0.5% for each 1% his Health.&#xA;Duration: {{Effects.0.TotalTime}} second." />
+  </Node>
+  <Node name="CON_FT">
+    <Key key="Name" value="Fire trap" />
+    <Key key="Description" value="Sets up a trap that sets enemies on fire when detonated." />
+  </Node>
+  <Node name="CON_DF">
+    <Key key="Description" value="Places a trap that immobilizes enemies for 3 seconds upon detonation." />
+  </Node>
+  <Node name="CON_SED">
+    <Key key="Description" value="Each basic attack deals additional magic damage to special monsters.&#xA;Duration: {{Effects.0.TotalTime}} second." />
+  </Node>
+  <Node name="CON_PC">
+    <Key key="Description" value="Supposed to protect from many outworld infections." />
+  </Node>
+  <Node name="ROB_RA">
+    <Key key="Name" value="Welding tool" />
+    <Key key="Description" value="Welds broken pipes within 5 sec." />
+  </Node>
+  <Node name="ERCP">
+    <Key key="Name" value="Get off robot" />
+    <Key key="Description" value="Allows to leave exoskeleton" />
+  </Node>
+  <Node name="QKASS">
+    <Key key="Name" value="Catch Shishiga" />
+    <Key key="Description" value="Catches shishigas" />
+  </Node>
+  <Node name="PAE">
+    <Key key="Name" value="Closed" />
+    <Key key="Description" value="Closed ability" />
+  </Node>
+  <Node name="PAW">
+    <Key key="Name" value="Closed" />
+    <Key key="Description" value="Closed ability" />
+  </Node>
+  <Node name="PAQ">
+    <Key key="Name" value="Closed" />
+    <Key key="Description" value="Closed ability" />
+  </Node>
+  <Node name="ability$B1W_AV2">
+    <Key key="AbilityParamName" value="Base Shield" />
+  </Node>
+  <Node name="B1WM">
+    <Key key="Name" value="Blinding Bomb" />
+    <Key key="Description" value="The Blast Medic throws a bomb to a target area. The Blast Medic and allies, who were in the range of explosion, are shielded." />
+    <Key key="LongDescription" value="The Blast Medic throws a bomb to a target area. The Blast Medic and allies, who were in the range of explosion, are [shg]shielded[/shg] by [shg]{{@7h7vqFvYav2:Data.0.ADF}}[hide] ([wh]{{@7h7vqFvYav2:Data.0.AC1}}[/wh] + [sp]{{@7h7vqFvYav2:Data.0.ACP1}}[/sp] [spicon])[/hide][/shg] for [wh]10[/wh] sec." />
+  </Node>
+  <Node name="B1E3">
+    <Key key="Name" value="BOM_S1_E_4" />
+    <Key key="Description" value="The Blast Medic can dashes to a target area." />
+  </Node>
+  <Node name="DLFS_Z2" />
+  <Node name="DMD" />
+  <Node name="C1Q_S2">
+    <Key key="Name" value="Quick Reprisal" />
+    <Key key="LongDescription" value="Destroyer performs a short lunge forward, dealing damage &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [(100%)AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; in front of the character." />
+  </Node>
+  <Node name="C1WS1">
+    <Key key="Name" value="Circle strike" />
+    <Key key="LongDescription" value="The champion performs a circular strike, dealing &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP2}}&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt;. The area has two radius zones of impact. Enemies caught within the outer radius zone take &lt;w&gt;{{Data.0.ACP3}}&lt;/w&gt; increased damage.&#xA;Weapon Specialization Bonus +2% outer circle damage." />
+    <Key key="Description" value="The champion performs a circular strike, dealing physical damage. The area has two radius zones of impact. Enemies caught within the outer radius zone take increased damage." />
+  </Node>
+  <Node name="B1Q_S2">
+    <Key key="Name" value="Secon Skill" />
+    <Key key="LongDescription" value="{{Data.0.AC4}} - switch" />
+  </Node>
+  <Node name="B1Q_S3" />
+  <Node name="C2E_AOE">
+    <Key key="Name" value="Hunter Stance - Ranger Stance" />
+    <Key key="Description" value="The Ranger can toggle between two stances.&#xA;&#xA;While in the standard stance, the Ranger's have standard basic attacks.&#xA;&#xA;When switching to barrage stance, basic attacks damage will reduced by 50%, but deal physical damage to the two nearest targets with on-hit effects." />
+    <Key key="LongDescription" value="Switch between two stances. Each switch takes 1 second.&#xA;&#xA;Normal Stance: Shoot regular auto-attacks. &#xA;&#xA;Barrage Stance: Auto-attacks also hit the nearest 2 targets (additional targets also receive on-hit effects). Additional targets recieve &lt;w&gt;50%&lt;/w&gt; &lt;pd&gt;physical damage&lt;/pd&gt;. Arrows remain in the affected targets. &lt;w&gt;{{Data.0.ACP2}}&lt;/w&gt; applies only to the primary target. Each shot consumes {{Data.0.Mp}}.&#xD;&#xA;Weapon Specialization Bonus -0.2 seconds to cooldown time." />
+  </Node>
+  <Node name="CP_PDOA" />
+  <Node name="LRE">
+    <Key key="Name" value="Recipe identification" />
+  </Node>
+  <Node name="ICE">
+    <Key key="Name" value="Incrustation chips" />
+  </Node>
+  <Node name="IRE">
+    <Key key="Name" value="Inserting rune" />
+  </Node>
+  <Node name="7h7vqFvJXJx">
+    <Key key="Description" value="If you made damage more then 30% of your targets maximum health in 2 seconds or less, next 2 attacks will have ({{Data.0.ACP1}}) Attack Speed." />
+  </Node>
+  <Node name="SP_R" />
+  <Node name="SAS" />
+  <Node name="SBMC" />
+  <Node name="SBE" />
+  <Node name="SH_B" />
+  <Node name="SSS_S" />
+  <Node name="SHL" />
+  <Node name="SS_R" />
+  <Node name="SHSB" />
+  <Node name="CONDWS">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satity effect: Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}} for 5 min." />
+  </Node>
+  <Node name="DISH_MC">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;Decrease {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.1.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.1.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 5 minutes" />
+  </Node>
+  <Node name="DISH_CN">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;Decrease {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.1.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.1.Effect.GameUnitEffectBuff.Modifiers.0.val}}" />
+  </Node>
+  <Node name="DISH_MP">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;Increase {{Effects.0.InternalInstance.Modifiers.1.iv}} by {{Effects.0.InternalInstance.Modifiers.1.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.2.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.2.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_CHO">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}" />
+  </Node>
+  <Node name="DISH_NUT">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;Increase {{Effects.0.InternalInstance.Modifiers.1.iv}} by {{Effects.0.InternalInstance.Modifiers.1.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}" />
+  </Node>
+  <Node name="DISH_TG">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_LT">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes&#xA;Can be used with campfire only" />
+  </Node>
+  <Node name="DISH_BP">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xD;&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xD;&#xA;Satiety Effect: &#xD;&#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;Decrease {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.1.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.1.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 15 minutes" />
+  </Node>
+  <Node name="DISH_STI">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 15 minutes" />
+  </Node>
+  <Node name="DISH_SMS">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;Increase {{Effects.0.InternalInstance.Modifiers.1.iv}} by {{Effects.0.InternalInstance.Modifiers.1.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds" />
+  </Node>
+  <Node name="DISH_BLP">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.Data.0.Hpr+}} = [({{Effects.0.InternalInstance.Modifiers.2.val}}){{Effects.0.InternalInstance.Modifiers.2.iv}}]&#xA;Increase {{Effects.0.InternalInstance.Modifiers.1.iv}} by {{Effects.0.Link.GameUnitEffectBuff.Data.0.Mpr+}}  = [({{Effects.0.InternalInstance.Modifiers.3.val}}){{Effects.0.InternalInstance.Modifiers.3.iv}}]&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds" />
+  </Node>
+  <Node name="ability$O1W_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$O1W_AV3">
+    <Key key="AbilityParamName" value="Stun duration" />
+  </Node>
+  <Node name="ability$O1E_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$O1E_AVk">
+    <Key key="AbilityParamName" value="Damage from AP" />
+  </Node>
+  <Node name="ability$O1E_AV2">
+    <Key key="AbilityParamName" value="Taunt time" />
+  </Node>
+  <Node name="ST_SS" />
+  <Node name="ST_SSH" />
+  <Node name="COND_DUO">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;Increase {{Effects.0.InternalInstance.Modifiers.1.iv}} by {{Effects.0.InternalInstance.Modifiers.1.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds" />
+  </Node>
+  <Node name="DISH_CC">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_LS">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_AR">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_RAM">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_JET">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes&#xA;Can be used with campfire only" />
+  </Node>
+  <Node name="DISH_MEP">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_MPS">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_MMS">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xD;&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xD;&#xA;Satiety Effect: &#xD;&#xA;Decrease incoming damage from main attacks by {{Effects.0.Link.GameUnitEffectBuff.OnEnableActions.Actions.1.Actions.Actions.0.Effect.BaseUnitEffect.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="DISH_EYK">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds&#xA;Satiety Effect: &#xA;Increase {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.OnTimeoutActions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 10 minutes" />
+  </Node>
+  <Node name="CAMP_HW">
+    <Key key="Description" value="Food efficiency increases by 100%&#xA;&lt;w&gt;Duration:&lt;/w&gt; 60 seconds" />
+  </Node>
+  <Node name="CAMP_S">
+    <Key key="Description" value="Increases {{protoUnits.0.Prefab.UID.Unit.StrategiesFromDictionary.3.Effects.0.Link.GameUnitEffectBuff.Modifiers.0.iv}} by {{protoUnits.0.Prefab.UID.Unit.StrategiesFromDictionary.3.Effects.0.Link.GameUnitEffectBuff.Modifiers.0.val}}&#xA;Increases {{protoUnits.0.Prefab.UID.Unit.StrategiesFromDictionary.3.Effects.0.Link.GameUnitEffectBuff.Modifiers.1.iv}} by {{protoUnits.0.Prefab.UID.Unit.StrategiesFromDictionary.3.Effects.0.Link.GameUnitEffectBuff.Modifiers.1.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 60 seconds" />
+  </Node>
+  <Node name="CAMP_SB">
+    <Key key="Description" value="Increases {{protoUnits.0.Prefab.UID.Unit.StrategiesFromDictionary.3.Effects.1.Link.GameUnitEffectTick.OnTickActions.Actions.0.Actions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by 10%&#xA;Increases {{protoUnits.0.Prefab.UID.Unit.StrategiesFromDictionary.3.Effects.1.Link.GameUnitEffectTick.OnTickActions.Actions.0.Actions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.1.iv}} by 10%&#xA;&lt;w&gt;Duration:&lt;/w&gt; 2-12 minutes" />
+  </Node>
+  <Node name="CAMP_TR">
+    <Key key="Description" value="Increases {{protoUnits.0.Prefab.UID.Unit.StrategiesFromDictionary.3.Effects.1.Link.GameUnitEffectTick.OnTickActions.Actions.0.Actions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.0.iv}} by 10%&#xA;Increases {{protoUnits.0.Prefab.UID.Unit.StrategiesFromDictionary.3.Effects.1.Link.GameUnitEffectTick.OnTickActions.Actions.0.Actions.Actions.0.Effect.GameUnitEffectBuff.Modifiers.1.iv}} by 10%&#xA;&lt;w&gt;Duration:&lt;/w&gt; 2-12 minutes" />
+  </Node>
+  <Node name="UNMB">
+    <Key key="Name" value="Universal: Mana boost" />
+    <Key key="Description" value="Instantly restores mana." />
+    <Key key="LongDescription" value="Instantly restores &lt;mp&gt;{{Data.0.ADF}}&lt;/mp&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;sp&gt;{{100%}}&lt;/sp&gt; SpellPower] Mana." />
+  </Node>
+  <Node name="p5v1" />
+  <Node name="O3Q_S2">
+    <Key key="Name" value="Kulbit" />
+    <Key key="LongDescription" value="Can somersaults to behind a target." />
+  </Node>
+  <Node name="ability$O3E_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$O3E_Mp">
+    <Key key="AbilityParamName" value="Mana cost" />
+  </Node>
+  <Node name="ability$O3Q_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$O3E_AVk">
+    <Key key="AbilityParamName" value="Damage from SP" />
+  </Node>
+  <Node name="C2E5">
+    <Key key="LongDescription" value="The Ranger coats the arrow with poison over &lt;w&gt;1.5&lt;/w&gt; seconds (shift E). They can cast it while moving. After the arrow is coated, the Ranger can release the arrow in the desired direction within &lt;w&gt;3&lt;/w&gt; seconds. The poison arrow deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;ap&gt;100% AttackPower&lt;/ap&gt;] &lt;pd&gt;physical damage&lt;/pd&gt; and applies a poison effect to the target it hits, dealing &lt;md&gt;{{Data.0.ADF2}}&lt;/md&gt; = [&lt;w&gt;({{Data.0.AC2}})&lt;/w&gt; + &lt;sp&gt;70%&lt;/sp&gt; SpellPower] &lt;md&gt;magic damage&lt;/md&gt; over time for &lt;w&gt;3&lt;/w&gt; seconds. If the poison arrow hits an acid net, the effect of the acid net is doubled. If the poison arrow hits an acid cloud, the effect and duration of the acid cloud are doubled." />
+    <Key key="Name" value="Venomous Infusion" />
+  </Node>
+  <Node name="DISH_CW" />
+  <Node name="B3R1">
+    <Key key="LongDescription" value="The Infiltrator shadow step behind the enemy and delivers a dual dagger strike that deals &lt;pd&gt;{{Data.0.ADF2}}&lt;/pd&gt; = [(100%)AttackPower] &lt;pd&gt;damage&lt;/pd&gt;. The skill has &lt;w&gt;3&lt;/w&gt; charges. If the target's HPMax is at &lt;w&gt;20%&lt;/w&gt; or below, the Bomber deals &lt;w&gt;20%&lt;/w&gt; more damage." />
+  </Node>
+  <Node name="DISH_FD">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 2 hour" />
+  </Node>
+  <Node name="DISH_CWH">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.InternalInstance.Modifiers.0.val}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; 12 hour" />
+  </Node>
+  <Node name="B3Q5">
+    <Key key="Name" value="Camouflage" />
+    <Key key="LongDescription" value="The Infiltrator has learned the skill Ambush. While the Infiltrator is in invisibility, they can deliver a powerful strike to the enemy. This damage is always &lt;pcc&gt;critical&lt;/pcc&gt;." />
+  </Node>
+  <Node name="B3W5">
+    <Key key="LongDescription" value="The skill can be reused, causing the mines within a radius of &lt;w&gt;14&lt;/w&gt; meters to fly up (0.3 seconds) and explode, doubling the blast radius. When damaged by more than one mine, only &lt;w&gt;25%&lt;/w&gt; of the damage is considered." />
+    <Key key="Name" value="Chain Reaction" />
+  </Node>
+  <Node name="B3R2">
+    <Key key="LongDescription" value="After use, if the ability is not recharged, the Bomber can go invisible for &lt;w&gt;2&lt;/w&gt; seconds within &lt;w&gt;2&lt;/w&gt; seconds. Resets all aggro." />
+  </Node>
+  <Node name="B3T5">
+    <Key key="LongDescription" value="The Bomber wrenches back his daggers from the victim with shadow chains, dealing &lt;sp&gt;60%&lt;/sp&gt; (Spell Power) for each dagger and causing bleeding at &lt;ap&gt;30%&lt;/ap&gt; (Attack Power) per second for &lt;w&gt;5&lt;/w&gt; seconds. Also he removes the disarming effect from himself." />
+  </Node>
+  <Node name="ability$O3W_AV">
+    <Key key="AbilityParamName" value="Fire Totem Damage" />
+  </Node>
+  <Node name="ability$O3W_AVk">
+    <Key key="AbilityParamName" value="Fire Totem scale from SP" />
+  </Node>
+  <Node name="ability$O3W_AV2">
+    <Key key="AbilityParamName" value="Water Totem Heal" />
+  </Node>
+  <Node name="ability$O3W_AVk2">
+    <Key key="AbilityParamName" value="Water Totem scale from HSP" />
+  </Node>
+  <Node name="ability$O3W_AV3">
+    <Key key="AbilityParamName" value="Earth Totem AP Buff" />
+  </Node>
+  <Node name="ability$O3W_AVk3">
+    <Key key="AbilityParamName" value="Earth Totem scale from AP" />
+  </Node>
+  <Node name="ability$O3R_AVk2">
+    <Key key="AbilityParamName" value="Wolf on-hit damage from SP" />
+  </Node>
+  <Node name="W3R_R1" />
+  <Node name="W3R_R1C">
+    <Key key="Name" value="Shaman R1" />
+  </Node>
+  <Node name="O3R2_C" />
+  <Node name="W3R_H">
+    <Key key="Name" value="Health Transfer" />
+    <Key key="Description" value="Health Transfer" />
+    <Key key="Measure" value="Health Transfer" />
+  </Node>
+  <Node name="CON_WPE">
+    <Key key="Description" value="&#xD;Increases the current weapon specialization experience by &lt;w&gt;{{Data.0.Eg}}&lt;/w&gt;." />
+  </Node>
+  <Node name="ability$O1Q_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$O1Q_AVk">
+    <Key key="AbilityParamName" value="Damage from AP" />
+  </Node>
+  <Node name="ability$O1W_AVk" />
+  <Node name="ability$O3W_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$B1Q_AVk">
+    <Key key="AbilityParamName" value="Damage from SP" />
+  </Node>
+  <Node name="ability$B1Q_AVk2">
+    <Key key="AbilityParamName" value="Heal from HSP" />
+  </Node>
+  <Node name="ability$B1W_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$B1W_AVk">
+    <Key key="AbilityParamName" value="Damage from Weapon" />
+  </Node>
+  <Node name="ability$B1E_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$B1E_AVk" />
+  <Node name="ability$B1E_AVk2" />
+  <Node name="ability$B3R_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C1Q_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C1Q_AVk">
+    <Key key="AbilityParamName" value="Damage from AP" />
+  </Node>
+  <Node name="ability$C1WS1_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$C1WS1_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C1WS1_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$C1WS1_AVk">
+    <Key key="AbilityParamName" value="Damage from AP" />
+  </Node>
+  <Node name="ability$C1R_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C1R_AVk">
+    <Key key="AbilityParamName" value="Damage from AP" />
+  </Node>
+  <Node name="ability$C1E_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C1E_ApK+">
+    <Key key="AbilityParamName" value="Bonus from AP" />
+  </Node>
+  <Node name="ability$C1E_HpK+">
+    <Key key="AbilityParamName" value="Bonus from Health" />
+  </Node>
+  <Node name="ability$C2Q_Mp">
+    <Key key="AbilityParamName" value="Mana Cost" />
+  </Node>
+  <Node name="ability$C2Q_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C2Q_AV">
+    <Key key="AbilityParamName" value="Base Damage" />
+  </Node>
+  <Node name="ability$C2W_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C2W_AVk">
+    <Key key="AbilityParamName" value="Damage from AP" />
+  </Node>
+  <Node name="ability$C2E_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C2E_AOE_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C2R_AVk">
+    <Key key="AbilityParamName" value="Damage from AP" />
+  </Node>
+  <Node name="SSH_F" />
+  <Node name="Con_Char">
+    <Key key="Description" value="Recharge advanced chip." />
+  </Node>
+  <Node name="CON_rest">
+    <Key key="Description" value="Use this mystical cube to reset all your passive talents, allowing you to reallocate points and customize your build anew. Perfect for fine-tuning your abilities and exploring different playstyles." />
+  </Node>
+  <Node name="CON_resm">
+    <Key key="Description" value="Use this enchanted dodecahedron to reset your hero's specialization talents, giving you the freedom to redefine your character's strengths and abilities. Ideal for adapting to new challenges and experimenting with different roles. Embrace a fresh path to power and versatility!" />
+  </Node>
+  <Node name="C2Q2">
+    <Key key="Name" value="Inferno Arrow" />
+    <Key key="LongDescription" value="If the ability immobilizes an opponent, the skill can be reused - the Ranger releases a fiery arrow in the specified direction. The arrow deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;ap&gt;100%&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; and ignite target it hits applying &lt;md&gt;{{@FPP7gw:Data.0.ADF}}&lt;/md&gt; = [&lt;w&gt;{{@FPP7gw:Data.0.AC1}}&lt;/w&gt; + &lt;sp&gt;{{Data.0.ACP1}}&lt;/sp&gt; SpellPower] &lt;md&gt;magic damage&lt;/md&gt; over time for &lt;w&gt;3&lt;/w&gt; seconds. Enemies immobilized by the ability are ignited for &lt;w&gt;6&lt;/w&gt; seconds, but root effect faides after &lt;w&gt;0.5&lt;/w&gt; sec." />
+  </Node>
+  <Node name="ability$C2Q2_AV2">
+    <Key key="AbilityParamName" value="Base Damage over time" />
+  </Node>
+  <Node name="ability$C2E5_AV2">
+    <Key key="AbilityParamName" value="Base Damage over time" />
+  </Node>
+  <Node name="FS" />
+  <Node name="C2R2">
+    <Key key="Name" value="Blaze Rebounder" />
+    <Key key="LongDescription" value="After a successful rebound, the ability can be activated again. The Ranger performs a powerful fire shot in the specified direction. The shot deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;140%&lt;/w&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; to the first target hit and leaves behind &lt;w&gt;3&lt;/w&gt; charges of the passive ability." />
+  </Node>
+  <Node name="C2W2">
+    <Key key="Name" value="Arrow Rain" />
+    <Key key="Description" value="The Ranger chooses a target area, which for the next 2 seconds is attacked with a hail of arrows dealing physical damage once in a second. All enemies in this area are slowed." />
+    <Key key="LongDescription" value="Firing a volley of arrows into the specified area deals &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.ADC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP2}}&lt;/ap&gt; AttackPower] + &lt;hp&gt;{{Data.0.ACP1}}&lt;/hp&gt; = [&lt;w&gt;5%&lt;/w&gt; + &lt;sp&gt;4%&lt;/sp&gt; SpellPower] missing Health &lt;pd&gt;physical damage&lt;/pd&gt; and &lt;ctrl&gt;slows&lt;/ctrl&gt; affected enemies by &lt;w&gt;{{@O8FCfJUNT4L:Data.0.ACP1}}&lt;/w&gt;for &lt;w&gt;3&lt;/w&gt; seconds.&#xA;Weapon Specialization Bonus +2% to slowing power." />
+  </Node>
+  <Node name="C2E5_C">
+    <Key key="Name" value="Venomous Infusion" />
+  </Node>
+  <Node name="ability$B3W_AVk">
+    <Key key="AbilityParamName" value="Scale from Spell Power" />
+  </Node>
+  <Node name="ability$B3Q_C">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$B3Q_AV2">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$B3R_AVk">
+    <Key key="AbilityParamName" value="Scale from Attack Power" />
+  </Node>
+  <Node name="ability$B3R_AV2">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$B3Q_AVk">
+    <Key key="AbilityParamName" value="First Damage" />
+  </Node>
+  <Node name="ability$C1Q_AVk2">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$C1Q_AV3">
+    <Key key="AbilityParamName" value="Cooldown" />
+  </Node>
+  <Node name="ability$O3Q_AVk">
+    <Key key="AbilityParamName" value="Damage Increase" />
+  </Node>
+  <Node name="DISH_S">
+    <Key key="Description" value="Increase {{Effects.0.InternalInstance.Modifiers.0.iv}} by {{Effects.0.Link.GameUnitEffectBuff.Data.0.AC1}}&#xA;&lt;w&gt;Duration:&lt;/w&gt; {{Effects.0.TotalTime}} seconds " />
+  </Node>
+  <Node name="B1W2">
+    <Key key="Name" value="Flashbang Shield Generator" />
+    <Key key="Description" value="The Blast Medic throws a bomb to a target area. The Blast Medic and allies, who were in the range of explosion, are shielded." />
+    <Key key="LongDescription" value="Throw a bomb into the selected area, dealing &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPowerBase + &lt;sp&gt;50%&lt;/sp&gt; SpellPower] &lt;pd&gt;physical damage&lt;/pd&gt; to enemies and &lt;ctrl&gt;blinding&lt;/ctrl&gt; affected enemies for &lt;w&gt;2&lt;/w&gt; seconds. The Blast Medic and allies in the explosion radius receive a &lt;shield&gt;{{@7h7vqFvYav2:Data.0.ADF}}&lt;/shield&gt; = [&lt;w&gt;{{@7h7vqFvYav2:Data.0.AC1}}&lt;/w&gt; + ({{@7h7vqFvYav2:Data.0.ACP1}})HLPower] &lt;shield&gt;shield&lt;/shield&gt; for &lt;w&gt;{{@7h7vqFvYav2:Data.0.T}}&lt;/w&gt; sec.&#xA;Weapon Specialization Bonus +0.2 seconds to blind duration." />
+  </Node>
+  <Node name="C1R1">
+    <Key key="Name" value="Shockwave Recoil" />
+    <Key key="Description" value="The Destroyer performs a jump to the specified location. Upon landing, it inflicts physical damage and stuns all enemies in the area for 3 seconds." />
+    <Key key="LongDescription" value="The champion performs a leap to a selected location. Upon landing, they deal &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [&lt;w&gt;{{Data.0.AC1}}&lt;/w&gt; + &lt;ap&gt;{{Data.0.ACP1}}&lt;/ap&gt; AttackPower] &lt;pd&gt;physical damage&lt;/pd&gt; and stun all enemies in the area for &lt;w&gt;{{@O8FCf3d2Zc3:Data.0.T}}&lt;/w&gt; seconds.&#xA;After landing, all enemies within &lt;w&gt;2&lt;/w&gt; meters outside of the damage radius are knocked back and Destroyer receives &lt;w&gt;50%&lt;/w&gt; SlowResistance for &lt;w&gt;3&lt;/w&gt; seconds." />
+  </Node>
+  <Node name="O1E2" />
+  <Node name="Mnt">
+    <Key key="Name" value="Mounting" />
+    <Key key="Description" value="Increase {{Ability.Abilities.1.Ability.Effects.0.Link.GameUnitEffectMount.Modifiers.0.iv}} by {{Ability.Abilities.1.Ability.Effects.0.Link.GameUnitEffectMount.Modifiers.0.val}}" />
+  </Node>
+</Category>

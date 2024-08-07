@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_gareth_rucker" type="external">
+  <Key key="_npc_I_m_Gareth_Rucker__just_anothe" value="Je suis Gareth Rucker, juste un autre visage de la garde du rivière." />
+  <Key key="_npc_Joined_the_Guard_because_I_gre" value="J'ai rejoint le gardien parce que j'ai grandi sur des histoires de Relkyn StoutShield et de ses exploits héroïques." />
+  <Key key="_npc_I_m_stationed_here__keeping_wa" value="Je suis stationné ici, surveillant la ville et assurant la sécurité de nos employés." />
+  <Key key="_npc_But_honestly__my_thoughts_ofte" value="Mais honnêtement, mes pensées errent souvent, surtout quand je pense à Elara Brightfall, mon ancien camarade de classe." />
+  <Key key="_npc_Oh__um__you_could_say_I_m_a_bi" value="Oh, euh, tu pourrais dire que je suis un peu ... distrait ces derniers temps." />
+  <Key key="_npc_Guard_duty_is_a_mix_of_routine" value="Le devoir de garde est un mélange de routine et de surprise, mais ma tête est souvent dans les nuages." />
+  <Key key="_npc_Balancing_dreams_of_being_a_gr" value="Équilibrer les rêves d'être un grand guerrier comme Relkyn et de me demander si je devrais dire à Elara ce que je ressens." />
+  <Key key="_npc_It_s_challenging_trying_to_foc" value="C'est difficile d'essayer de se concentrer sur une chose lorsque votre cœur vous tire dans une autre direction." />
+  <Key key="_npc_This_beautiful_place_is_Riverr" value="Ce bel endroit est RiverRise, City of Opportunity." />
+  <Key key="_npc_It_s_a_flourishing_settlement_" value="C'est une colonie florissante avec des quartiers d'artisanat et des gens diligents." />
+  <Key key="_npc_Many_travelers_pass_through_he" value="De nombreux voyageurs passent ici, à la recherche de sa communauté d'artisanat animée et de son marché dynamique." />
+  <Key key="_npc_And_of_course__it_s_where_I_tr" value="Et bien sûr, c'est où j'essaie de garder tout le monde en sécurité tout en gérant mes propres quêtes personnelles." />
+  <Key key="_npc_Not_at_the_moment__but_thank_y" value="Pas pour le moment, mais merci." />
+  <Key key="_npc_I_ve_got_it_under_control_for_" value="Je l'ai sous contrôle pour le moment, merci." />
+  <Key key="_npc_All_s_quiet_on_my_end__but_I_a" value="Tout est calme de mon côté, mais je l'apprécie." />
+  <Key key="_npc_No_need_right_now__but_I_might" value="Pas besoin pour le moment, mais je pourrais plus tard." />
+  <Key key="_npc_Actually__I_could_use_some_ass" value="En fait, je pourrais utiliser une certaine aide dans une question." />
+  <Key key="_npc_Yeah__there_s_something_that_I" value="Ouais, il y a quelque chose avec lequel j'ai besoin d'une main." />
+  <Key key="_npc_If_you_have_a_moment__I_would_" value="Si vous avez un moment, j'apprécierais vraiment votre aide." />
+  <Key key="_npc_Yes__indeed__There_s_a_task_th" value="Oui en effet.Il y a une tâche qui pourrait utiliser vos compétences." />
+</Node>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_approves" type="external">
+  <Key key="_npc_Slushayu" value="Bols.L'écran bionique en ligne?C'est un code d'identification personnel.Vous n'existez pas sans lui.Ce n'est pas facile à obtenir, mais je vais mettre la main sur vos bols." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goal_help_guard" value="Obtenez un dossier du chef de la garde" />
+  <Key key="_goal_postoficer_a" value="Retournez au poste de poste" />
+  <Key key="_QuestActionAddToJournal_U1c8" value="The post officer told me that I have to have BOLS in order to live in this world. To obtain that, I'll have to get some documents from three officials in the town. The banker, the doctor and the guard chief. " />
+  <Key key="_goal_help_bank" value="Obtenez un compte de résultat du banquier" />
+  <Key key="_goal_speak_alh" value="Parler au médecin" />
+  <Key key="_npc_Cho_kak" value="Tomas Bardi.Comment puis-je aider?Laissez-moi voir ce que vous avez ici.Hmm, si je vous comprends bien, vous avez besoin d'un compte de résultat." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Zel_ya_day" value="UGH, un autre virus-dépasseur de l'extérieur a besoin d'un certificat médical." voice="Male" />
+  <Key key="_npc_Vzyatochka" value="Je vois.Juste votre dossier?Rien d'autre?Une tasse fraîche de bière et du poisson?Es-tu fou?" voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_QuestActionAddToJournal_Perm" value="Je dois rendre service au chef de la garde pour obtenir un dossier." />
+  <Key key="_QuestActionAddToJournal_99g8" value="Gotta do what the doc said to get the vaccination certificate. " />
+  <Key key="_QuestActionAddToJournal_eE63" value="Je dois aider ce bancaire à obtenir mon compte de résultat." />
+  <Key key="_goal_speak_postoficer_b" value="Retournez au poste de poste" />
+  <Key key="_QuestActionAddToJournal_MwKn" value="J'ai trois approbations de trois responsables de la ville.Je dois maintenant retourner à l'officier de poste et préparer mes Bols." />
+  <Key key="_npc_Three_approvals__Doctor_check_" value="Trois approbations.Docteur Check.Chèque de banquier.Gardasmaster Check.D'accord, maintenant je peux traiter votre demande." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_But_for_that__you_ll_have_to_b" value="But for that, you'll have to bring me three approves from Chief Guard, Doctor and Banker. First is the signature from the Chief Guard. " voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_And_don_t_worry__I_ll_keep_an_" value="Et ne vous inquiétez pas.Je garderai un œil sur vos bols." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goalVoice_HxEd" value="you'll have to bring me income statement from the Banker, your dossier from Chief Guard and conclusion about non-infectiousness from the Alchemist. And don't worry. I'll keep an eye on your BOLS." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Well__I_couldn_t_care_less_abo" value="Well, I couldn't care less about what flus or plagues you brought here from your world, but others do. " voice="Male" />
+  <Key key="_npc_My_officers_haven_t_had_a_nigh" value="Mes officiers n'ont pas eu de nuit de congé depuis des semaines.Ils sont trop occupés avec des crimes non résolus." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_npc_The_more_newcomers_arrive__the" value="Plus il y a de nouveaux arrivants, plus il y a de crimes commis en ville.Coïncidence?" voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_goal_speak_postoficer_g" value="Go back to the post officer" />
+  <Key key="_npc_Mhm__Two_done__one_left__Find_" value="MHM.Deux fait, un à gauche.Trouvez le banquier, apportez-moi son approuve et vous êtes bon." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Good__The_Chief_Guards_approve" value="Bien.Les principaux gardes approuvent.Il est maintenant temps de rencontrer le doc.Il doit être quelque part dans le village." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goal_speak_police" value="Parlez au chef de la garde" />
+  <Key key="_goal_speak_bank" value="Speak to the banker" />
+  <Key key="_goal_help_alh" value="Obtenez un certificat de vaccination du médecin" />
+  <Key key="_npc_How_am_I_supposed_to_know__Ask" value="How am I supposed to know? Ask the local guards, they must know where their boss is. " voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+</Node>

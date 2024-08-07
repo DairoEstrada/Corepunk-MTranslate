@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_jennifer_davyna" type="external">
+  <Key key="_npc_Hello__traveler_" value="Bonjour, voyageur." />
+  <Key key="_npc_On_duty_" value="En service." />
+  <Key key="_npc_Stay_sharp_" value="Restez tranchant." />
+  <Key key="_npc_At_your_service_" value="À votre service." />
+</Node>

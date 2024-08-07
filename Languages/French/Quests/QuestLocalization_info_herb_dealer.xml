@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_herb_dealer" type="external">
+  <Key key="_npc_Me__Oh__they_call_me_Jahri_Roo" value="Moi?Oh, ils m'appellent Jahri Roots.Ouais, mec, je m'occupe des herbes et de bonnes vibrations." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_What_I_need_is_an_Adrenaline_S" value="Ce dont j'ai besoin, c'est d'un coup d'adrénaline.Ce truc sautera votre cœur plus rapidement qu'un éclair.Juste le billet pour ma situation actuelle, ahem,." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_I_believe_in_the_natural_way_o" value="Je crois au mode de vie naturel.Paix, unité, harmonie ... et une belle appréciation pour la générosité de la nature." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Here_s_the_deal__man__I_had_a_" value="Voici l'accord, mec.J'ai eu une grande livraison, mais j'ai accidentellement fumé tout le lot.Je suis bien trop élevé pour rassembler de nouveaux stocks." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Ran_into_a_bit_of_a_hiccup_tho" value="J'ai rencontré un peu de hoquet.Je suis trop détendu et maintenant je suis en rupture de stock, mec." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Customers_are_waiting__and_I_m" value="Les clients attendent et je ne suis tout simplement pas dans l'État pour faire un nouveau lot." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Goldenfield__Riverrise__all_th" value="Goldenfield, Riverrise, tout de même pour moi, mec.C'est toute la terre de Mère Nature, remplie de ses bénédictions." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_It_s_a_good_place__full_of_goo" value="C'est un bon endroit, plein de bonnes personnes.Nous nous aidons mutuellement, vivons en harmonie les uns avec les autres et la nature." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_And_the_plants_here__oh__they_" value="Et les plantes ici, oh, c'est autre chose.Plein de magie, ils le sont." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Yeah__man__Could_use_some_help" value="Oui mon gars.Pourrait utiliser de l'aide.Je dois satisfaire mes clients, tu sais?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Blessings_upon_you__friend__Ca" value="Bénédictions sur vous, ami.Vous vous souciez de donner un coup de main avec un petit rassemblement?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Man__I_m_in_a_bit_of_a_jam__Mi" value="Mec, je suis un peu une confiture.Vous vous inquiétez de me donner une main?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Nah__mon__All_good_in_the_hood" value="Non, lun.Tout bien dans le capot.Mais merci d'avoir demandé." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_I_m_cool__man__Jah_provides__y" value="Je suis cool, mec.Jah fournit, vous savez?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_All_irie__man__But_keep_the_lo" value="Tout Irie, mec.Mais gardez l'amour qui coule, oui?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_It_s_vital__man__Can_t_let_my_" value="C'est vital, mec.Je ne peux pas laisser tomber mes clients, et je ne peux certainement pas me permettre de perdre ma réputation." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_I_need_you_to_bring_me_three_M" value="J'ai besoin que tu m'apporte trois mauvaises herbes magiques et trois résines de mana.Vous pouvez généralement les trouver ici si vous regardez attentivement." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Meanwhile_I_might_be_able_to_s" value="Pendant ce temps, je pourrais être suffisamment en train de se détendre suffisamment pour répondre à votre question." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Oh__that_s_a_bummer__man__But_" value="Oh, c'est une déception, mec.Mais pas de mauvaises vibrations.Paix et amour." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Alright__If_you_change_your_mi" value="Bien.Si vous changez d'avis, vous savez où me trouver." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_No_worries__mon__Jah_bless_" value="Pas de soucis, lun.Jah bénisse." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Respect__You_ve_brought_the_he" value="Respect.Vous avez apporté les herbes, mais il y a une prise de likkle.Je suis encore trop irie pour bouger, sans parler de faire avancer les choses.Besoin de secouer ce brouillard et rapidement." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Used_to_till_the_land_like_my_" value="Habitué pour que la terre comme mes parents, vous savez?Mais ensuite, j'ai trouvé la magie dans les plantes et j'ai eu mon réveil spirituel." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Could_you_do_Jahri_another_fav" value="Pourriez-vous faire une autre faveur de Jahri et chercher un pour moi?En ce moment, j'ai l'impression de flotter sur un nuage, tu sais?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_No_worries__man__If_you_feel_t" value="Pas de soucis, mec.Si vous ressentez l'appel, Jahri Roots attend." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Alright__bredren__If_the_wind_" value="Très bien, Bredren.Si le vent change de cap, vous savez où me trouver." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_No_sweat__my_friend__Life_cont" value="Pas de sueur, mon ami.La vie continue." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Just_taking_it_easy__friend__S" value="Je ne fais pas de mal, mon ami.Partager le cadeau des herbes de la nature avec tous." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

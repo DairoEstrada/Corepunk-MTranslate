@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_guards_dilemma" type="external">
+  <Key key="_npc_If_you_want_it__you_ll_have_to" value="Si vous le voulez, vous devrez l'obtenir pour vous-même." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_M_my_father_wants_me_to_get_a_" value="M-My Père veut que j'obtienne un package P de Rusty Bowen.Il est, euh, juste au nord sur la route à l'arrêt des chemins de fer." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_B_but_I_m__um__scared_of_Rusty" value="B-mais j'ai, euh, effrayé de Rusty.Il est dangereux.Pourriez-vous, euh, pourriez-vous d-do pour moi?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_If_you_h_help_me__I_ll_give_yo" value="Si vous, je mets-moi, je vais te donner la clé de la salle de rachat.S'il vous plaît, obtenez simplement le colis de Rusty Bowen pour moi." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goalVoice_You_need_to_go_to_the_railway_" value="Vous devez aller à l'arrêt des chemins de fer juste au nord du fort.Rusty Bowen devrait être là, déguisé en gardien.C'est celui avec le colis de mon père.S'il vous plaît, ramenez simplement le colis de Rusty.Je promets que cela en vaudra la peine." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh_no__my_father_s_going_to_ki" value="Oh non, mon père va me tuer!S'il te plaît!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_ll_just__uh__face_the_music_" value="Je vais, euh, faire face à la musique moi-même." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goal_talk_npc" value="Parlez à Rusty Bowen" />
+  <Key key="_npc_Funny_thing__though__I_seem_to" value="Mais drôle, cependant.Il me semble que je l'ai égaré." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_I_suppose_you_re_here_for_that" value="Je suppose que vous êtes ici pour ce package, n'est-ce pas?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Well__well__what_have_we_here_" value="Eh bien, qu'avons-nous ici?Un autre garçon de courses?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_QuestActionAddToJournal_Themis_Windreach_Woods__Fort__" value="Themis&#10;Windreach Woods, Fort.&#10;&#10;Aidez-les en faisant une course pour ramasser un paquet mystérieux de Rusty Bowen." />
+  <Key key="_npc_I_ll_figure_something_out__Hop" value="Je vais comprendre quelque chose.Espérons que ma tête mordait la tête par mon père." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Well__spit_it_out__What_the_fu" value="Eh bien, crachez-le.Qu'est-ce que tu veux?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Just__um__be_careful__Rusty_s_" value="Juste, euh, soyez prudent.Rusty a un regard qui pourrait fondre ... euh, tant pis.Merci encore!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__th_thank_you__I_didn_t_rea" value="Oh, merci!Je ne voulais pas vraiment faire face à Rusty moi-même.Je suis tout à fait, euh, délicat, tu vois." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+</Node>

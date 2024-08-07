@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_neon_mushrooms_gethering" type="external">
+  <Key key="_npc_Find_and_bring_me_Neon_Mushroo" value="Encuentra y tráeme hongos neón.Crecen en los árboles mágicos en lo profundo de Westwind Woods." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Remember__the_Neon_Mushroom_th" value="Recuerde, los hongos neón prosperan en el corazón del bosque." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_The_culprits__they_re_not_your" value="Los culpables, no son sus plagas de bosque habituales.Son 3 imps, criaturas malévolas que causan el caos alrededor de estas partes." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Keep_your_eyes_on_the_ground__" value="Mantenga sus ojos en el suelo.El hongo neón tiene un brillo único." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_There_s_the_Witcher__lurking_i" value="Está The Witcher, que acecha en las profundidades de Tempest Timberland.Es un hechicero vil, empuñando una cabeza cortada como un enfoque retorcido por sus hechizos oscuros." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Then__we_have_the_Firestarter_" value="Luego, tenemos el Firestarter, justo aquí en Westwind Woods.Tiene una afinidad peligrosa con el fuego, arrojando cócteles Molotov y dinamita con alegría." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Lastly__the_brute_Executioner_" value="Por último, el verdugo bruto reside en Windreach Woods.Es una amenaza descomunal, empuñando un hacha monstruosa que se escinde más que solo árboles." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_They_re_the_ones_who_orchestra" value="Son los que orquestaron el accidente, no se equivoquen.Pisando con cuidado, son tan malvados como astutos." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Be_patient__the_Neon_Mushrooms" value="Sea paciente, los hongos neón son esquivos." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Your_courage_is_commendable__G" value="Tu coraje es encomiable.Buena suerte con tu búsqueda." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_goal_collect_resources" value="Recoge el hongo neón" />
+  <Key key="_QuestActionAddToJournal_W7fB" value="Hilda Deeproot&#10;Westwind Woods, near Forest cabin&#10;&#10;Retrieve Neon Mushroom from Westwind Woods." />
+  <Key key="_goalVoice_Ce5t" value="Encuentra y tráeme el hongo de neón.Crecen en los árboles mágicos en lo profundo de Westwind Woods." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Ah__splendid__You_ve_returned_" value="¡Ah, espléndido!Has regresado y con el hongo neón.Como se prometió, esto es lo que sé sobre los choques." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Remember__the_Neon_Mushrooms_t" value="Recuerde, los hongos neón prosperan en el corazón del bosque." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_goal_talk_npc" value="Habla con Hilda Deeproot" />
+</Node>

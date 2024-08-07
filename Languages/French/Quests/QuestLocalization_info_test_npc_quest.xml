@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_test_npc_quest" type="external">
+  <Key key="_npc_I_ve_been_tested__tested___tes" value="J'ai été testé, testé, testé, et ramené à tester plus de fois que vous n'avez eu des dîners chauds." />
+  <Key key="_npc_Test___test__test_test_test" value="Tester - tester, tester, tester, tester" />
+  <Key key="_npc__" value="Je suis le test NPC." />
+  <Key key="_npc_So__you_re_stuck_in_Test__A_pl" value="Donc, vous êtes coincé dans le test.Un endroit où vous avez une plus grande chance de devenir un sujet de test d'un monstre que de trouver une latrine appropriée." />
+  <Key key="_npc_And_because__well__yesterday_s" value="J'ai vraiment besoin de pain" />
+  <Key key="_npc_I_ll_give_you_the_recipe__and_" value="Aidez-moi à obtenir un pain à 3 morceaux" />
+  <Key key="_npc_Well__back_to_plan_B____once_I" value="Eh bien, revenons au plan B ... une fois que j'ai compris ce que c'est ..." />
+  <Key key="_npc_No_need_now__test_dude__But_I_" value="Pas besoin maintenant, Test-Dude.Mais je vais vous garder à l'esprit." />
+</Node>

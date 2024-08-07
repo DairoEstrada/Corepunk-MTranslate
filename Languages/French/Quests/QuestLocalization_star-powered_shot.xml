@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_star-powered_shot" type="external">
+  <Key key="_npc_Here_s_your_reward__you_earned" value="Voici votre récompense, vous l'avez gagnée." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Great__I_owe_ya_one__Get_to_it" value="Super, je vous dois un!Accédez-y, et nous allons tous les deux sortir." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_How_s_the_crafting_coming_alon" value="How's the crafting coming along?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_varDescription_M2Q6" value="Collectez l'énergie de l'étoile" />
+  <Key key="_npc_Well_done__That_ll_make_Hank_o" value="Bien joué!Cela fera de Hank un heureux tireur d'élite." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Remember__those_blueprints_wil" value="N'oubliez pas que ces plans seront utiles sur toute la ligne!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Keep_at_it__and_you_ll_be_a_ma" value="Continuez et vous serez un maître artisan en un rien de temps." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Hank__Boomstick__Granger_s_pla" value="Hank 'Boomstick' Granger a passé une grande commande pour de nouvelles munitions de fusil de chasse.De vraies choses spéciales, a besoin d'énergie étoilée.Emporte vraiment un wallop!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_m_up_to_my_head_in_orders___" value="Je suis à la hauteur de ma tête dans les commandes ... Ne dites-vous rien!Je pourrais vraiment utiliser une paire de mains supplémentaires." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Head_over_to_my_Miner_s_crafti" value="Dirigez-vous vers le banc d'artisanat de mon mineur et préparez les énergies 2 étoiles pour moi, tu veux-tu?C'est une chance de voir si vous avez ce qu'il faut." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_QuestActionAddToJournal_Thordal_Ironvei_Goldenfield__M" value="Ironvei thordléaire&#10;Goldenfield, banc d'artisanat de Miner&#10;&#10;Aider Thordal Ironvei en fabriquant des énergies 2 étoiles pour les nouvelles munitions de fusil de chasse de Hank 'Boomstick' '." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Don_t_forget__I_need_you_to_cr" value="N'oubliez pas, j'ai besoin que vous élaboriez de l'énergie 2 étoiles en utilisant le banc d'artisanat de mon mineur.Recherchez le métal météorique dans les veines à l'extérieur de Goldenfield ou échangez avec quelqu'un.Je m'en fiche!Remplissez simplement la commande!Continuez, le temps est titulaire, et Hank est une attente!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_varDescription_Collect_Star_Energy" value="Collectez l'énergie de l'étoile" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Suit_yourself__but_remember__o" value="Conservez-vous, mais rappelez-vous, des opportunités comme celles-ci n'attendent pas pour toujours." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_No_problem__I_ll_find_someone_" value="Pas de problème, je vais trouver quelqu'un d'autre.J'espère que vous ne le regrettez pas plus tard." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Alright__but_don_t_come_crying" value="D'accord, mais ne pleure pas si vous manquez quelque chose d'excitant." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_arc_guard" type="external">
+  <Key key="_npc_Stop_right_there__Nothin_to_se" value="Arrête toi là!Rien de voir ici, gars, retourne d'où tu viens" voice="Male" />
+  <Key key="_npc_Oh__so_you_ve_got_the_pass__Wh" value="Oh, donc tu as la passe.Pourquoi, aurait dû le dire tout de suite, ami.Tu peux passer." voice="Male" />
+  <Key key="_npc_Hello_there_" value="Hello there!" voice="Male" />
+</Node>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_npc_v2_q_b_sysadmin" type="external">
-  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
-  <Key key="_npc_Who_am_I__Who_are_you__pal__Ye" value="¿Quién soy?¿Quién eres, amigo?Sí es cierto.¿Quién eres?Conozco mi ... mi propósito aquí.Sentado aquí, relajándose ..." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
-  <Key key="_npc_Ugh__this_be_Upper_Grimstone__" value="Ugh, esto es rivrate.Un paraíso en Kwalat para un reparador de computadoras de maná.Solo dos trabajadoras ... computadoras que trabajan en todo el pueblo, una de las cuales es mía." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
-  <Key key="_npc_Burp__Uh__well__meh____I_mean_" value="*Eructar*.Uh, bueno, meh ... quiero decir pff ... ya sabes, ¿verdad?Como eh ... sí.Sí.Como eso." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
-  <Key key="_npc_Yeah__I_m_a_good_technician___" value="Sí.Soy un buen técnico.*Eructar*.No puedo decir eso de ti ... sin ofender ..." voice="Male" voiceSettingsId="BxGJ1gPUuBYHjsKreGLb" />
-</Node>

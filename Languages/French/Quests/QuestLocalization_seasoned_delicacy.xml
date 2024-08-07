@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_seasoned_delicacy" type="external">
+  <Key key="_npc_Quick__quick__Fresh_eggs_bette" value="Vite vite!Les œufs frais mieux.Triton pas comme la vieille nourriture." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_That_is_only_reason_Triton_no_" value="C'est la seule raison pour laquelle Triton ne vous mange pas!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goalVoice_Eggs_get_cold__Triton_need_her" value="Les œufs font froid!Triton a bientôt besoin d'herbes.Thorin a bon goût.Dépêchez-vous!Village de Windstone loin!Doit aller vite!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_no_help_Triton_now_" value="Vous n'aidez pas Triton maintenant?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_very_angry__Triton_must" value="Triton très en colère, Triton doit manger bébé!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goal_talk_npc" value="Parlez à Thorin Toastbeard" />
+  <Key key="_npc_You_ask_Thorin_in_Windstone_Vi" value="Vous demandez à Thorin à Windstone Village des herbes!Il fait une saveur spéciale.Triton heureux." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Imp_eggs__they_taste_yucky_for" value="Les œufs implacés, ils ont un goût déchirant pour Triton.Seul Thorin rend délicieux." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_I_ll_need_your_help_finding_so" value="J'aurai besoin de votre aide pour trouver un assaisonnement spécial pour ceux-ci." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Well__well__less_thrilling_tha" value="Eh bien, bien moins excitant que la «viande spéciale» habituelle de Triton, mais les œufs IMP sont intéressants!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_QuestActionAddToJournal_Triton_Windreach_Woods__Lake_h" value="Triton&#10;Windreach Woods, Lake House.&#10;&#10;Aidez Triton en faisant en sorte que Thorin Toastbeard assaisonne les œufs de son goût unique." />
+  <Key key="_npc_Why_you_no_get_me_herp__Awhghg" value="Pourquoi tu ne me procuras pas!Awhghg!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Eggs__Oh_boy__I_hope_these_are" value="Œufs?Oh mon garçon, j'espère que ce n'est pas un autre des repas «spéciaux» de Triton." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Triton_trust__Thorin_make_eggs" value="Triton Trust.Thorin fait des œufs bons." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Get_herb_from_Thorin_fast__Tri" value="Obtenez Herb de Thorin rapidement.Triton veut maintenant savoureux." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+</Node>

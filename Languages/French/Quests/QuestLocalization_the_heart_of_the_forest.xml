@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_heart_of_the_forest" type="external">
+  <Key key="_npc_You__new_worker__Go_forest__Fi" value="Vous, nouveau travailleur.Go Forest.Trouvez le coeur.Grrr, oui?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Bring_heartwood_to_Eamon__He_c" value="Amenez Heartwood à Eamon!Il sculpte.Grrr, Grrr!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_goalVoice_Grrr__you_find_heartwood_yet__" value="Grrr, vous trouvez encore du bois de coeur?Rassemblez 10 bois de cœur de la forêt, ramenez.Grrr, rapide!Grrr, dépêchez-vous!Les bois ne sont pas sûrs.Apportez du bois de cœur bientôt." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grrr__fine__Still_need_heartwo" value="Grrr, très bien!A encore besoin de coeur." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_No__Grr__this_why_invasion_jus" value="Non?GRR, c'est pourquoi l'invasion justifiée." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grrr__you_weak__But_maybe_next" value="Grrr, tu es faible!Mais peut-être la prochaine fois." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_This_is_how_human_system_works" value="C'est ainsi que fonctionne le système humain!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_varDescription_Y4rv" value="Collect Heartwood" />
+  <Key key="_goal_talk_npc" value="Retour Eamon Hardich" />
+  <Key key="_npc_Fenwick___hic___might_know_mor" value="Fenwick - HIC - pourrait en savoir plus.Demandez-lui après votre prochain emploi." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_Talks_like_he_can_barely_contr" value="Talks like he can barely control his own mouth." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_You_wanna_know_about_Grommuk__" value="Tu veux connaître GROMMUK?Ouais, il est vraiment bizarre.Mais un extraterrestre?" voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_varDescription_Collect_Heartwood" value="Recueillir le coeur" />
+  <Key key="_QuestActionAddToJournal_Grommuk_Ironhand_Westwind_Wood" value="Arque à grammuk&#10;Westwind Woods, Centre de scierie&#10;&#10;Aidez GROMMUK ERARDH-HAND à rassembler 10 bois de cœur et à le livrer à Eamon Hardich." />
+  <Key key="_npc_Grrr__need_heartwood__Shipment" value="Grrr, besoin de coeur.Envoi perdu.Grr, mauvais!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hic___perfect__This_will_do_ju" value="HIC - Perfect!Cela fera très bien.Sacrément bien, en effet." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_So__uh___hic___you_got_the_dam" value="So, uh - hic - you got the damn wood or what?" voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_GRRR__good__You_strong__Do_job" value="Grrr, bon!Tu es fort.Faire le travail." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+</Node>

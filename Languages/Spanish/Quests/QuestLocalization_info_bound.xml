@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_bound" type="external">
+  <Key key="1_phrase" value=" " voice="Male" />
+  <Key key="who_are_u_answer" value="Estoy atado a Nickolas.Mi abuelo vivía en esta tierra, yo también." voice="Male" />
+  <Key key="what_is_this_place_answer" value="Un hermoso pueblo, lejos de todo el ajetreo de la ciudad." voice="Male" />
+  <Key key="how_are_u_answer" value="Todo es genial, aparte de este imbécil Avigdor." voice="Male" />
+  <Key key="" value=" " />
+</Node>

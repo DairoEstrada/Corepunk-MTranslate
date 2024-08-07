@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_revenge_of_the_rabbit" type="external">
+  <Key key="_npc_Fine__Be_a_boring_butt__I_ll_t" value="Bien!Soyez un cul ennuyeux!Je vais dire à tout le monde que vous êtes un grand méchant!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_You_re_just_a_poopyhead__I_did" value="Tu n'es qu'un poopyhead!Je ne voulais pas jouer avec toi de toute façon!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_If_you_don_t_help_me__I_ll_tel" value="Si vous ne m'aidez pas, je dirai aux gens que vous euh ... vous m'avez donné de la drogue!Ouais.Vous n'avez donc pas le choix." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_goalVoice_Hey__dummy__Did_you_forget_the" value="Hé, mannequin!Avez-vous oublié les coeurs battus !?Butcher Wolves dans la forêt, duh!Qu'est ce qui prend si longtemps?Dépêchez-vous, j'ai besoin de ces cœurs pour ma farce!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_We_re_gonna_gather_some_Beatin" value="Nous allons rassembler des cœurs battant et laisser les loups faire le reste!Hah, lui sert bien." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Parlez à Lily Baxter" />
+  <Key key="_varDescription_ODUG" value="Collectez les coeurs de battements" />
+  <Key key="_npc_Oh__so_Lily_thinks_she_s_so_sm" value="Oh, alors Lily pense qu'elle est si intelligente, hein !?" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_You_know_what__Let_s_team_up_a" value="Vous savez quoi?Faisons-y faire équipe et tournons les tables sur lui.J'ai un plan à moi." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_You_re_a_doo_doo_brain__I_ll_t" value="Tu es un cerveau Doo-Doo!Je vais dire à ma mère que vous avez cassé son vase préféré!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_QuestActionAddToJournal_Buck_Goldenfield__Violet_Weed_" value="mâle&#10;Goldenfield, Violet Weed Field.&#10;&#10;Aidez Buck à se venger de Lily en lui livrant des cœurs en tant que farce." />
+  <Key key="_varDescription_Collect_Beating_Hearts" value="Collectez les coeurs de battements" />
+  <Key key="_npc_Let_me_guess__Buck_put_you_up_" value="Laissez-moi deviner, Buck vous a mis à cela.Ce stupide ennuyeux a toujours quelque chose dans sa manche." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_EW__What_in_the_world_is_that_" value="EW!Qu'est-ce que dans le monde cette odeur?Oh, battre les cœurs ... sérieusement?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_What_are_you_doing_here__And_w" value="Que faites-vous ici?Et qu'est-ce que tu as?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_If_you_don_t_do_it__you_re_jus" value="Si vous ne le faites pas, vous êtes juste un gros poulet!BAWK BAWK!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+</Node>

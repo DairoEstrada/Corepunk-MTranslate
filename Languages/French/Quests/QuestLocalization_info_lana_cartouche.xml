@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_lana_cartouche" type="external">
+  <Key key="_npc_I_m_Lana_Cartouche__the_newest" value="Je suis Lana Cartouche, le nouveau membre de la congrégation du pasteur Fazool." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_I_recently_joined_this_communi" value="J'ai récemment rejoint cette communauté;Les enseignements de Dagaron m'ont vraiment parlé." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_____I_suppose_if_you_don_t_kno" value="... Je suppose que si vous ne savez pas, vous n'avez pas été converti." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Perhaps_it_is_safe_to_tell_you" value="Il est peut-être sûr de vous le dire." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_I_am_a_government_agent__This_" value="Je suis un agent du gouvernement.Ce culte était censé être inoffensif, mais ..." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_That_Fazool_is_messing_with_so" value="Ce Fazool joue avec quelque chose de puissant ici.Quelque chose de vrai." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_We_need_to_be_careful_" value="Nous devons être prudents." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Things_have_been____complicate" value="Les choses ont été ... compliquées, pour dire le moins." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_My_investigation____I_mean_ini" value="Mon enquête ... Je veux dire l'initiation - dans le culte ne progresse pas comme prévu." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_There_s_something_in_the_cult_" value="Il y a quelque chose dans le sous-sol du culte.Un artefact." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_But_gaining_access_to_it____is" value="Mais y avoir accès ... se révèle être tout à fait le défi." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Every_step_closer_feels_like_t" value="Chaque pas de plus se sent à deux pas en arrière.Mais j'y arriverai.Je dois." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_This_place__Reverie_Hollow__is" value="Cet endroit, Reverie Hollow, est plus qu'un simple village." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_It_s_uh__the_perfect_place_for" value="C'est euh, l'endroit idéal pour toutes sortes de choses!" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Like_this_cult__which_I_am_ver" value="Comme ce culte, que je suis très excité de rejoindre." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Yes__I_sure_do_love_cults_and_" value="Oui, j'aime vraiment les cultes et les cultistes!" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Uh__no__I_think_we_re_all_cove" value="Euh, non, je pense que nous sommes tous couverts ici." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Heh__no__thank_you__Praise_Dag" value="Heh, non, merci!Louez Dagaron et tout ça ..." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Nope__just_worshipping_away__n" value="Non, adorer juste, rien à voir ici." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_No_help_needed__we_re_all_very" value="Aucune aide nécessaire, nous sommes tous très, très éclairés." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Ha__no_thanks__All_in_Dagaron_" value="Ha, non merci!Tout dans les mains de Dagaron, non?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Um__no__no__everything_s_perfe" value="Hum, non, non, tout va parfaitement bien." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Oh__uh__no__just_awaiting_Daga" value="Oh, euh, non, attendant juste les bénédictions de Dagaron!" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Haha__no__we_re_all_good__all_" value="Haha, non, nous sommes tous du bien, tout cela fait partie du plan." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Actually__I_could_use_an_extra" value="En fait, je pourrais utiliser un ensemble d'yeux supplémentaires." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_There_is_something_Pastor_Fazo" value="Il y a quelque chose que le pasteur Fazool a mentionné ..." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Yes__but_you_need_to_be_subtle" value="Oui, mais vous devez être subtil à ce sujet." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_I_do__but_we_need_to_move_quie" value="Je le fais, mais nous devons nous déplacer tranquillement." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Indeed__Your_discretion_will_b" value="En effet.Votre discrétion sera cruciale." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Fazool_seems_to_trust_you___" value="Fazool semble vous faire confiance ..." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Yes__He_s_preparing_for_someth" value="Oui.Il se prépare à quelque chose." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+</Node>

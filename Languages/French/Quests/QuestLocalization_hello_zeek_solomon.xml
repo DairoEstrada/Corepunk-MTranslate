@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_zeek_solomon" type="external">
+  <Key key="_npc_Got_something_for_me_" value="Vous avez quelque chose pour moi?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Here_to_share_" value="Ici pour partager?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Any_spare_parts_" value="Des pièces de rechange?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_What_you_got_for_me_" value="Qu'est-ce que tu as pour moi?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Helping_out_today_" value="Aider aujourd'hui?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Got_any_goodies_" value="Vous avez des goodies?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Got_anything_for_me_" value="Vous avez quelque chose pour moi?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Spare_some_goods_" value="Épargner des marchandises?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_You_holding_" value="Vous tiendez?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Got_supplies_" value="Vous avez des fournitures?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+</Node>

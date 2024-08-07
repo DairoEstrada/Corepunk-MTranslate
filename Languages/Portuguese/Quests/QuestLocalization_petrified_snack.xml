@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_petrified_snack" type="external">
+  <Key key="_npc_Initiating_acceptance____hic__" value="Iniciando aceitação ... HIC ... processo.Prossiga para coletar espigões." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_goal_collect_petrified_spikes" value=" " />
+  <Key key="_varDescription_Collect_Petrified_Spike" value="Collect Petrified Spike" />
+  <Key key="_QuestActionAddToJournal_Rusty_McDrinkit_Riverrise__Alc" value="Rusty McDrinkit&#10;Riverrise, caminhão de álcool.&#10;&#10;Colete picos petrificados para ajudar a Rusty McDrinkit a retomar Maverick Gritt." />
+  <Key key="_goalVoice_Processing_request____hic____H" value="Solicitação de processamento ... Hic ... você já encontrou esses picos petrificados?... hic.Continue pesquisando ... HIC ... picos petrificados são críticos ... por gratidão ... HIC ... protocolo." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_You_ve_got_to_be_kidding_me__D" value="Só podes estar a brincar comigo.Você trouxe seriamente esses picos?" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_goal_talk_npc" value="Fale com Maverick &quot;Mav&quot; Gritt" />
+  <Key key="_npc_Are_you_serious__Petrified_spi" value="Você está falando sério?Picos petrificados?Isso não fazia parte do meu plano!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Great__now_Rusty_s_satisfied__" value="Great, now Rusty's satisfied, but my plan's ruined. Fantastic." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Here_s_your_reward__Just_remem" value="Aqui está a sua recompensa.Lembre -se, da próxima vez, siga o plano!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Greetings____hic____fellow_tra" value="Saudações ... Hic ... Companheiro de Viajante.O caminhão de Mav tinha líquidos tão deliciosos." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Initiating_gratitude_protocol_" value="Iniciando o protocolo de gratidão ... Hic ... os humanos desfrutam de espigões petrificados, corretos?" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Please_gather_10_petrified_spi" value="Por favor, junte 10 picos petrificados ... HIC ... para um presente de 'obrigado' adequado." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Processing____hic____Crunchy__" value="Processamento ... Hic ... Crunchy!Assim como os humanos gostam!Iniciando gratidão ... Hic ... sequência." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Error____hic____gratitude_sequ" value="Erro ... Hic ... Sequência de gratidão interrompida ... Reiniciando ..." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Processing____hic____human_ref" value="Processamento ... Hic ... recusa humana detectada.Iniciando o protocolo de decepção ..." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Hmm____hic____seems_you_won_t_" value="Hmm ... Hic ... parece que você não ajudou.Eu vou ... hic ... graças a Maverick com ... pólvora então." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Alright_then____hic____guess_m" value="Tudo bem então ... Hic ... acho que minha gratidão será explosiva ... Hic!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+</Node>

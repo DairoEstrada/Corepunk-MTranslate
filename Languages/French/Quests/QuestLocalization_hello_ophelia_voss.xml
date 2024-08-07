@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_ophelia_voss" type="external">
+  <Key key="_npc_Come_play___" value="Viens jouer..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Forever_and_ever___" value="Pour toujours et à jamais..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Hello_there___" value="Bonjour..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_You_re_here___" value="Vous êtes ici..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Join_us___" value="Rejoignez-nous..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Stay_forever___" value="Rester pour toujours..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+</Node>

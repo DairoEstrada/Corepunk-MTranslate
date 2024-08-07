@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_specialization_mastery_ranger" type="external">
+  <Key key="_npc_I_m_Tecaro__but_you_can_call_m" value="Je suis Tecaro, mais vous pouvez m'appeler &quot;Swiftwind&quot;, ou tout simplement Tecaro ..." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_I_grew_up_with_the_Thick_Fores" value="J'ai grandi avec la forêt épaisse comme mon aire de jeux, perfectionnant mes compétences avec l'arc et apprenant l'art de la furtivité." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_You_might_say_I_m_one_part_Rob" value="Vous pourriez dire que je suis une partie Robin Hood, une partie de chat chuchoteur." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_So__what_s_your_story__Are_you" value="Alors, quelle est votre histoire?Êtes-vous ici pour les conseils de suivi, ou tout simplement curieux de mes amis félins?" voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_If_you_re_looking_for_target_p" value="Si vous recherchez une pratique cible ou des recommandations Catnip, je suis votre gars." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Oh__you_know__just_purr_fect_" value="Oh, tu sais, turr-fect." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Another_day__another_dozen_arr" value="Un autre jour, une dizaine de flèches.Et c'est si je ne manque pas." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Between_tracking_monsters_and_" value="Entre le suivi des monstres et l'élevage de chats forestiers, la vie est une vraie passerelle." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_If_I_were_any_better__I_d_have" value="Si j'allais mieux, j'aurais neuf vies." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Just_dodged_another_monster__m" value="Je viens d'éviter un autre monstre, m'a manqué par une moustache!Regarde ce que j'ai fait là?" voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Life_s_a_mix_of_cats_and_nasty" value="La vie est un mélange de chats et d'ennemis désagréables qui ont besoin d'une flèche ou deux.Ou douze." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Ah__you_ve_stumbled_into_my_ca" value="Ah, vous êtes tombé sur mon Cat Haven, également connu sous le nom de Faidens Camp." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_It_s_a_magical_place_where_arr" value="C'est un endroit magique où les flèches trouvent leur marque ... la plupart du temps." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Ever_tried_playing_hide_and_se" value="Avez-vous déjà essayé de jouer à cache-cache avec un chat?Cet endroit est comme ça, mais avec plus de flèches et moins de boules de fourrure." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_You_may_need_a_silver_arrow_ar" value="Vous aurez peut-être besoin d'une flèche d'argent ici ... juste au cas où." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_The_weather_here_is_always_gre" value="Le temps ici est toujours génial, avec une chance occasionnelle de pleuvoir des flèches." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Do_you_like_cats_and_chaos__Pe" value="Aimez-vous les chats et le chaos?Parfait, j'ai un travail pour vous." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_If_you_don_t_mind_getting_your" value="Si cela ne vous dérange pas de vous salir les mains ... et peut-être un peu rayé." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Up_for_a_challenge__Got_a_task" value="Pour un défi?J'ai une tâche qui pourrait rendre votre carquois un peu plus léger." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_If_your_arrows_can_keep_up_wit" value="Si vos flèches ne peuvent pas me suivre, nous ferons une excellente équipe." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Sure__but_don_t_blame_me_if_yo" value="Bien sûr, mais ne me blâmez pas si vous vous retrouvez avec un chat qui vous suivait chez vous." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_I_ve_got_it_covered__unless_yo" value="Je l'ai couvert, sauf si vous offrez des services de sitting pour chats?" voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Nah__the_last_thing_I_need_is_" value="Non, la dernière chose dont j'ai besoin, c'est de plus de flèches qui encombrèrent le carquois." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Appreciate_it__but_this_cat_st" value="Appréciez-le, mais ce chat a toujours toutes ses griffes." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Not_right_now__but_I_wouldn_t_" value="Pas pour le moment, mais je ne dirais pas non à une boîte de nourriture pour chat." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_My_multishot_cleared_things_up" value="Mon multishot a éclairci les choses en un seul tirage.Peut-être plus tard?" voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+</Node>

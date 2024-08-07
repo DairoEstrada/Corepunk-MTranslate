@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_nuts_for_the_stew" type="external">
+  <Key key="_npc_Can_t_remember_what_you_re_say" value="Je ne me souviens pas à quoi vous dites non, mais ça va!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Changed_your_mind_already__Hap" value="A déjà changé d'avis?Ca m'arrive tout le temps!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_goalVoice_Uh__hazelnuts____yeah__that_s_" value="Euh, noisettes ... ouais, c'est ça!Vérifiez autour des buissons et des feuilles tombées dans les bois de l'ouest, je pense.Ai-je mentionné les noisettes?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_goal_talk_npc" value="Retour à Oakley &quot;Dusty&quot; Fenn" />
+  <Key key="_npc_Wait__hazelnuts_aren_t_poisono" value="Attendez, les noisettes ne sont pas toxiques, non?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Anyway__if_you_need_something_" value="Quoi qu'il en soit, si vous avez besoin de quelque chose à faire, apportez des noisettes à poussière.Pourrait aromatiser suffisamment son ragoût pour le rendre comestible." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_forgot_what_happened_to_them" value="J'ai oublié ce qui leur est arrivé." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_You_know__you_seem_real_curiou" value="Vous savez, vous semblez vraiment curieux à propos de Grommuk.Les deux derniers gens qui étaient aussi curieux, eh bien ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_varDescription_b9ax" value="Recueillir des rubis" />
+  <Key key="_npc_Anyway__man__Grommuk_was_actua" value="Quoi qu'il en soit, mec, Grommuk ne faisait que poser des questions sur vous ..." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Weird__right__Usually_orcs_are" value="Bizarre, non?Habituellement, les ORC ne sont pas allergiques aux noisettes." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Thank_you__friend__Too_bad_Gro" value="Merci, mon ami.Dommage que Grommuk dit que les noisettes le tueront ..." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Oh__wow__these_hazelnuts_are_p" value="Oh, wow, ces noisettes sont parfaites!La nature fournit vraiment." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_varDescription_Collect_Hazelnuts" value="Recueillir les noisettes" />
+  <Key key="_QuestActionAddToJournal_Fenwick__Fen__Harrow_Westwind_" value="Fenwick &quot;Fen&quot; Harrow&#10;Westwind Woods, Sawmill Workers Yard.&#10;&#10;Aidez Dusty à améliorer son ragoût en rassemblant 10 noisettes dans les bois de Westwind." />
+  <Key key="_npc_Decline_what__again__Oh__wait_" value="Refuser quoi, encore?Oh, attends, je me souviens maintenant.C'est d'accord." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Whoa__hey_there__Didn_t_expect" value="Whoa, hé là!Je ne m'attendais pas." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Might_be_safer_for_you_with_Gr" value="Pourrait être plus sûr pour vous avec Grommuk de cette façon." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Great_man____I_m_probably_just" value="Grand homme ... Je vais probablement oublier que cela s'est jamais produit." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+</Node>

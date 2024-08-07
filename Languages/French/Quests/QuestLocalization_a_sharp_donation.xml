@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_sharp_donation" type="external">
+  <Key key="_npc_Honey__I_knew_you_d_see_things" value="Chérie, je savais que tu verrais les choses à ma façon.Gardons cet avantage, mais pas sur leurs couteaux, il l'a eu?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_QuestActionAddToJournal_Velvet_Viper_Riverrise__City_C" value="Vipère en velours&#10;Riverrise, centre-ville.&#10;&#10;Aidez le Velvet Viper à collecter des couteaux autour de la barre de rivière pour assurer la sécurité." />
+  <Key key="_goalVoice_Sweetie__get_those_knives_befo" value="Ma chérie, obtenez ces couteaux avant que quelqu'un n'arrive aussi ... attaché.Vérifiez chaque coin, chérie.Nous ne pouvons pas avoir plus de «piercings» non invités." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Ready_to_make_Velvet_smile_tod" value="Ready to make Velvet smile today?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Mmm__I_like_a_person_who_can_u" value="Mmm, j'aime une personne qui peut bien utiliser ses mains.Profitez de votre butin." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Remember__sugar__a_favor_from_" value="N'oubliez pas que le sucre, une faveur de Velvet est aussi bon que l'or ici." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Especially_when_Velvet_has_all" value="Surtout quand Velvet a tous les couteaux du bar." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Knife" value="Collectionner un couteau" />
+  <Key key="_npc_Oh__so_you_think_you_can_join_" value="Oh, donc vous pensez que vous pouvez rejoindre les Vipers Velvet?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Well__it_s_a_bit_too_sharp_aro" value="Eh bien, c'est un peu trop net ici à mon goût.Termons un peu l'atmosphère." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Listen_sweetie__those_pointy_t" value="Écoutez ma chérie, ces jouets pointus apportés par les clients?Ils doivent disparaître comme les erreurs de la nuit dernière." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Can_you_handle_that_" value="Peux tu t'occuper de cela?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Well__sugar__I_hope_you_enjoy_" value="Eh bien, sucre, j'espère que vous aimez dormir avec un œil ouvert." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Turn_me_down__Brave__Or_stupid" value="Moi-moi?Courageux.Ou stupide.Nous verrons." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_That_s_disappointing__I_guess_" value="C'est décevant.Je suppose que vous n'êtes pas assez vif pour le couper." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+</Node>

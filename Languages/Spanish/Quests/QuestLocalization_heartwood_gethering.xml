@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_heartwood_gethering" type="external">
+  <Key key="_npc_Turning_down_a_chance_to_survi" value="¿Bajando una oportunidad para sobrevivir?Muy bien, tu pérdida." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Without_the_magic_of_Kwalat_s_" value="Sin la magia de los incendios y la comida de Kwalat, te espera un verdadero placer." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Oh_well__Enjoy_struggling_thro" value="Oh bien.Disfrute de luchar por fatiga y carne de cría cruda." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Suit_yourself__But_remember__n" value="Adaptarse a ti mismo.Pero recuerde, ningún fuego mágico significa que no hay recuperación mágica." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Well__I_ve_tried_to_help_you_a" value="Bueno, he tratado de ayudarte tanto como sea legalmente requerido." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_goal_collect_resources" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_LeMi" value="Duramen" />
+  <Key key="_npc_Eating_by_a_fire_kindled_with_" value="Comer por un fuego encendido con duramen tiene un efecto restaurativo especial.Te sentirás más fuerte, más fresco y más valiente." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_We_re_not_hikers_looking_for_f" value="No somos excursionistas buscando leña.Estamos después del Heartwood, el núcleo mismo de los árboles mágicos.Confía en mí, quemar esas cosas te da un fuego que vale la pena." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Don_t_let_anything_crucial_sli" value="No dejes que nada crucial pase tu atención, especialmente esos árboles mágicos en el bosque." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Alright__moving_on_to_the_next" value="Muy bien, pasando a la siguiente lección: familiarizarse con su entorno." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Now__go_get_registered_with_Zi" value="Ahora, vaya a registrarse en Zikk y Zugg.Incluso con un incendio, no durarás mucho aquí." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Keep_it_up__and_you_ll_find_yo" value="Sigue así y encontrarás tu lugar aquí.Solo necesito algunas monedas y un techo." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_And_remember__nothing_warms_yo" value="Y recuerde, nada calienta tus huesos como una comida caliente cerca de Hathewwood Fire." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Now__head_into_the_forest_and_" value="Ahora, dirígete al bosque y busca tres piezas de duramen.Apunte a los árboles que están brillando." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_QuestActionAddToJournal_Maxwell_Sterling_Goldenfield__" value="Maxwell Sterling&#10;Goldenfield, cerca de la carpa de trigo&#10;&#10;Reúna el duramen del bosque para aprender sobre la recolección de recursos y los diferentes materiales para fogatas." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Head_into_the_forest_and_fetch" value="Dirígete al bosque y busca tres piezas de duramen.Apunte a los árboles que están brillando." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_varDescription_Heartwood" value="Duramen" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Look_at_you__all_alive_and_stu" value="Mírate, todo vivo y esas cosas.Buen trabajo.Aquí está la receta de fogatas de Heartwood." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_If_you_re_not_back_soon__I_ll_" value="Si no hayas vuelto pronto, asumiré que un árbol cayó sobre ti." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Done_playing_lumberjack_yet__O" value="¿Ya jugó a Lumberjack?¿O los árboles lucharon?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Remember___Heartwood__Bright_g" value="Recuerda - Hoimento.Brillo brillante.No te equivoces." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Good__Keep_this_in_mind__findi" value="¡Bien!Tenga esto en cuenta, encontrar lo que necesita no siempre sucede en el primer intento.Mantente persistente." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+</Node>

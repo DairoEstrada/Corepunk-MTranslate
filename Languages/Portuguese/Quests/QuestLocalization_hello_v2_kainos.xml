@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_kainos" type="external">
+  <Key key="_npc_Uh__" value="Uh?" />
+  <Key key="_npc_May_the_Merciful_One_forgive_y" value="Que o misericordioso te perdoe." />
+</Node>

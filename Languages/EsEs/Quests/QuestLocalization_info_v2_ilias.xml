@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_v2_ilias" type="external">
-  <Key key="_npc_" value=" " voice="Male" />
-  <Key key="_npc_Uh_well____Could_be_worse_" value="Bueno ... podría ser peor." voice="Male" />
-  <Key key="_npc_Meh__I_don_t_know__I_just_hear" value="Meh, no sé, acabo de saber de uno de los chicos de allí que constantemente son allanados por algunas personas desnudas del bosque.Me pregunto si tienen mujeres allí ..." voice="Male" />
-  <Key key="_npc_I_uh____Ah__crap__The_hell_kno" value="Yo uh ... ah, basura.El infierno ya sabe quién soy.Solía ​​ser un leñador.Pero ya no me necesitan.Demasiado viejo.¡Eh!Demasiado viejo mi culo.Simplemente se están volviendo ecológicos.Ecología esto, ecología que.Los escupo en ellos, coños.Elan siempre estaba lleno de tipos liberales de copos de nieve." voice="Male" />
-  <Key key="_npc_The_Upper_Village__To_the_West" value="El pueblo superior.Al oeste se encuentra la estación de maná, cerca del viejo bosque.Quería ofrecer mis servicios allí, pero necesitan más especialistas en maná, no carpinteros.Retrasado.Me siento bien, esos cultistas del bosque les están dando tiempos difíciles." voice="Male" />
-</Node>

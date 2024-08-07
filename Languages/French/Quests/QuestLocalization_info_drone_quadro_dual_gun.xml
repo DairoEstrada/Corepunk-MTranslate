@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_drone_quadro_dual_gun" type="external">
+  <Key key="_npc_I_am_Quadro_Sentinel_4_1__or_Q" value="Je suis quadro-Sentinel 4.1, ou Q4, un bot de sécurité créé par PlantEch Innovations Inc." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_functioning_within_normal" value="Je fonctionne dans les paramètres normaux et je ne nécessite pas d'aide." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_My_protocols_do_not_include_th" value="Mes protocoles n'incluent pas la fourniture de tâches." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_not_programmed_to_generat" value="Je ne suis pas programmé pour générer des quêtes." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_autonomous_and_programmed" value="Je suis autonome et programmé pour fonctionner indépendamment." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_have_been_programmed_to_ensu" value="J'ai été programmé pour assurer la sécurité et la sécurité de Goldenfield Town." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_As_a_bot__I_lack_human_like_em" value="En tant que bot, je manque d'émotions humaines, mais mes systèmes fonctionnent à une efficacité optimale." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You_will_fulfill_my_parameters" value="You will fulfill my parameters." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_will_accept_your_assistance_" value="J'accepterai votre aide, ceci une fois." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Goldenfield_town__the_area_I_v" value="La numérisation de Goldenfield Town, le nombre de signatures bio-signature indique des populations résidentes importantes dans des endroits clés." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Now__I_have_had_tolerance_patc" value="Maintenant, j'ai eu une tolérance réparti. Je vais donc ignorer leur existence." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_If_I_were_not_updated_to_my_mo" value="Si je n'étais pas mis à jour dans mon dernier firmware, je les ordonnerais renvoyé dans leurs propres mondes." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_It_is_rapidly_being_overwhelme" value="Il est rapidement submergé par de nouveaux êtres émergeant des portails." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_The_entities_are_diverse_in_na" value="Les entités sont de nature diversifiées, mais présentent des signes d'intelligence massive.Incroyable!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Greetings__human__Quadro_Senti" value="Salutations, humain.Quadro-Sentinel 4.1 est au milieu d'un problème." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Do_not_attempt_to_confuse_me_w" value="N'essayez pas de me confondre avec un puzzle logique.J'étais très cher à construire." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You_can_sleep_easy_knowing_you" value="Vous pouvez dormir facilement en sachant que vos impôts empêchent les épouvantails de mettre en scène un coup d'État." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_My_creators_have_informed_me_t" value="Mes créateurs m'ont informé que je suis trop cher pour être endommagé au combat." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_And_yet__the_threat_level_arou" value="Et pourtant, le niveau de menace autour de Goldenfield augmente." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Your_task_is_to_neutralize_10_" value="Votre tâche consiste à neutraliser 100 créatures des champs.Cela contribuera à la sécurité continue des habitants de Goldenfield." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_If_you_do_this__I_will_not_imm" value="Si vous faites cela, je ne vous immolerai pas.C'est ton choix." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Mission_declined__Security_ris" value="La mission a diminué.Le risque de sécurité reste élevé." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Understood__I_will_terminate_y" value="Compris.Je vous mettrai fin lorsque la mise à jour sera terminée." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Threats_remain_unaddressed__Yo" value="Les menaces restent sans réponse.Votre aide est toujours requise." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_as_effective_at_consuming" value="Je suis aussi efficace pour consommer le budget du gouvernement que dans le meurtre." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_That_is_why_my_co_bot_has_not_" value="C'est pourquoi mon co-bot n'a pas encore été mis à jour.Son killcount n'est pas assez élevé." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Perhaps_one_day_he_will_impres" value="Peut-être qu'un jour il impressionnera le roi et recevra sa mise à niveau." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_If_you_have_complaints_about_m" value="Si vous avez des plaintes concernant mes fonctionnalités, veuillez les déposer dans ma disposition." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

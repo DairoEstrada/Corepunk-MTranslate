@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_homeless_woman" type="external">
+  <Key key="_npc_I_m_Sofia_Dynatech__I_run_this" value="Je suis Sofia Dynatech.Je dirige cet endroit." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_used_to_be_a_reform_shool_lu" value="J'étais un moniteur de déjeuner scolaire de réforme sur l'ancien monde, un travail qui a sucé des balles de coq." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_got_sent_to_this_place_by_so" value="J'ai été envoyé à cet endroit par un peu de trou en réalité." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_It_ain_t_so_bad_here__I_got_so" value="Ce n'est pas si mal ici.J'ai eu des knuckleheads pour me garder en sécurité et au chaud la nuit." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_And_I_got_a_stash_of_old_tech_" value="Et j'ai obtenu une réserve de vieux technologies et d'autres choses dans cette station.De loin, sauf si vous avez de l'argent ou quelque chose à échanger." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_So_that_s_me__Any_more_dumb_qu" value="Alors c'est moi.D'autres questions stupides?" voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Pretty_good__not_that_it_s_any" value="Assez bon, pas que ce soit votre entreprise." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_make_a_good_living_selling_o" value="Je gagne bien ma vie en vendant la vieille technologie et d'autres merdes que nous trouvons dans la gare." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_found_me_some_entertainment_" value="Je m'a trouvé des produits pharmaceutiques de qualité divertissement que nous apprécions d'une soirée." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_ain_t_fucking_telling_you_wh" value="Je ne te dis pas où, alors ne demandez pas." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_ll_probably_die_here__but_at" value="Je mourrai probablement ici, mais au moins je n'aurai jamais à voir un autre plateau de chow de rat givré tant que je vivrai." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_It_s_an_abandoned_railroad_sta" value="C'est une gare ferroviaire abandonnée, évidemment!" voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_dunno_what_happened_to_it__b" value="Je ne sais pas ce qui lui est arrivé, mais quand ils sont partis, ils ont laissé un tas de merde utile derrière." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_We_found_it__It_s_ours_now__So" value="Nous l'avons trouvé.C'est à nous maintenant.Donc, si vous voulez quelque chose, vous devez le payer." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Anyway__I_live_here_with_my_bo" value="Quoi qu'il en soit, je vis ici avec mes garçons, Gristle, Rad et cette Eustice de Nutball.Ils ne sont pas beaucoup à regarder et ils sentent pire, mais ils sont fidèles." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_When_something_big_tries_to_bu" value="Lorsque quelque chose de grand essaie de faire entrer, Rad chante l'opéra nain à eux et ils s'enfuient généralement ou explosent." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Yeah__maybe_" value="Ouais peut-être." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_got_a_small_job_that_needs_d" value="J'ai obtenu un petit travail qui a besoin de faire." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Might_be__might_be__Let_s_talk" value="Pourrait être, pourrait être.Parlons." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_You_look_like_you_got_half_a_b" value="Vous avez l'air d'avoir un demi-cerveau.Bien sûr." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Nuthin__right_now__Keep_movin_" value="Nuthin 'en ce moment.Continuez à bouger." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Nope__I_m_good_" value="Non.Je vais bien." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_m_flush_right_now__Come_back" value="Je suis à la chasse en ce moment.Revenez plus tard." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_No_jobs_right_now__And_I_don_t" value="Pas d'emplois pour le moment.Et je ne fais pas de documents." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+</Node>

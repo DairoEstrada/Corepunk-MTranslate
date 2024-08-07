@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_package_pilfered" type="external">
+  <Key key="_npc_I_figured_you_d_wimp_out_" value="Supuse que te alejarías." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_goalVoice_Get_your_ass_moving__those_imp" value="Mueva el trasero, esos imps no se cazarán a sí mismos.Esos pequeños imbéciles astutos están en algún lugar de Windreach Woods.No debería estar lejos." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_That_ass_at_the_fort_is_making" value="Ese trasero en el fuerte nos está haciendo que todos los distribuidores totalmente legales le dan un corte.Ridículo." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_I_m_knee_deep_in_garbage_as_it" value="Estoy hasta la rodilla en la basura como es, así que arrastre su trasero a Windreach Woods y encuéntrelo." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Fine__leave_me_hanging__Sleep_" value="Bien, déjame colgando.Duerme con un ojo abierto esta noche." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_goal_talk_npc" value="Volver a themis." />
+  <Key key="_npc_You_even_know_what_s_in_there_" value="¿Incluso sabes lo que hay ahí?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Those_damned_imps_swiped_your_" value="Esos malditos imps deslizaron su paquete muy importante." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Now_that_I_know_I_can_trust_yo" value="Ahora que sé que puedo confiar en ti, puedo conseguirte lo que necesitas ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Thank_you_so_much__I_was_so_wo" value="Muchas gracias, ¡estaba tan preocupado!¡Mi padre dijo que esta era su medicina especial!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_QuestActionAddToJournal_Rusty_Bowen_Windreach_Woods__R" value="Bowen oxidado&#10;Windreach Woods, parada ferroviaria cerca de Fort.&#10;&#10;Recupere un paquete robado de los Imps en Windreach Woods y entregándolo a Temis cerca del fuerte." />
+  <Key key="_npc_Oh_wow__I_m_so_surprised__Fuck" value="Oh wow, estoy tan sorprendido.Jodido coño." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_varDescription_The_Fort_s_Package" value="El paquete del fuerte" />
+  <Key key="_npc_Oh_gosh__you_actually_found_it" value="Oh Dios, ¿realmente lo encontraste?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh_dear__did_you_did_you_find_" value="Dios mío, ¿encontraste el paquete?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Alright__you_ve_got_guts__Don_" value="Muy bien, tienes agallas.Sin embargo, no lo jodas." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+</Node>

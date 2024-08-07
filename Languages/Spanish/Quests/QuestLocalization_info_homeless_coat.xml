@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_homeless_coat" type="external">
+  <Key key="_npc_I_m_Grizzle_Thornfoot__strange" value="¡Soy Grizzle Thornfoot, extraña visitante de otro planeta!" voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_was_a_great_man_on_my_home_p" value="Era un gran hombre en mi planeta natal, ¡te lo digo!Tenía mi propio hígado y todo." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_had_a_very_important_job__I_" value="Tuve un trabajo muy importante.Yo era un operador de ascensor en una mina de mineral explosivo." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_But_then_something_happened_wh" value="¡Pero entonces sucedió algo que no fue mi culpa de ninguna manera!" voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Everything_exploded__which_had" value="Todo explotó, lo que no tenía nada que ver conmigo iluminando esa articulación." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Totally_innocent_of_all_blame_" value="Totalmente inocente de toda la culpa, me sorprendieron a Kawlat." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_After_a_couple_years_of_wander" value="Después de un par de años de vagabundeo, encontré este lugar." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_work_for_Sofia__She_sells_st" value="Trabajo para Sofía.Ella vende cosas que encontramos por aquí." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_protect_her_from_goons_like_" value="La protego de matones como tú y ella me proporciona fumar." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Me_and_my_friends_pass_the_tim" value="Mis amigos y yo pasamos el tiempo para pasar una mierda y tratar de no obtener ET por algo en el bosque." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Life_s_funny__you_know__But_no" value="La vida es divertida, ¿sabes?Pero no &quot;ja, ja&quot; gracioso." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_m_a_bum_on_a_strange_world_" value="I'm a bum on a strange world." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_live_in_an_abandoned_railway" value="Vivo en una estación de ferrocarril abandonada con otros tres vagabundos." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_need_my_Whack_which_I_m_tota" value="Necesito mi whack de la que estoy totalmente sin." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_just_accidentally_kicked_ove" value="Accidentalmente pateé accidentalmente sobre el mierda." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_How_the_fuck_do_you_think_I_am" value="¿Cómo diablos crees que soy, genio?" voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Abandoned_railway_station__mid" value="Estación de ferrocarril abandonada, medio de Windreach Woods." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Four_of_us_live_here_" value="Four of us live here." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Sofia_is_in_charge__cuz_she_go" value="Sofía está a cargo, porque ella consiguió las drogas." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_She_sells_shit_we_salvage_and_" value="Ella vende mierda, salvamos y la protegemos." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Eustice_over_there_can_sniff_o" value="Eustice allí puede olfatear los shrooms de polla manchados, que resoplamos y vemos pingüinos y esas cosas gigantes." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_DO_NOT_put_it_up_your_ass__no_" value="DO NOT put it up your ass, no matter what Eustice says." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Can_t_pay_you_much__but_yeah_" value="No puedo pagarte mucho, pero sí." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_could_use_a_hand__or_a_foot_" value="Podría usar una mano: o un pie." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Sure_could__Mind_the_bucket_of" value="Seguro que podría.Cuida el cubo de mierda allí." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_If_you_can_handle_the_smell__y" value="Si puedes manejar el olor, sí." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_I_m_good__Well__I_m_shitty__bu" value="Estoy bien.Bueno, soy de mierda, pero no necesito nada." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Talk_to_Sofia_if_you_re_lookin" value="Hable con Sofía si está buscando trabajo." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_Not_unless_you_got_some_Whack_" value="No, a menos que te tengas un poco." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+  <Key key="_npc_NO__I_m_having_one_of_my__epis" value="¡NO!Tengo uno de mis &quot;episodios." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
+</Node>

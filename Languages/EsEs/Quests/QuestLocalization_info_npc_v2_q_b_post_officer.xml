@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_npc_v2_q_b_post_officer" type="external">
-  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
-  <Key key="_npc_Post_officer__353_" value="Trabajador postal No. 353. Hace mucho tiempo recuerdo a amigos llamándome Jab.Amigos ... ¿Cuáles son esos?" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
-  <Key key="_npc_This_is_a_post_office__which_n" value="Esta es una oficina de correos, que ahora también es una oficina de registro de Outworlder.Que ahora también es mi hogar aparentemente." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
-  <Key key="_npc_I_can_t_keep_answering_all_of_" value="No puedo seguir respondiendo a todas sus preguntas, personas.Tengo trabajo que hacer.No estoy en una cita aquí.Desafortunadamente." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
-</Node>

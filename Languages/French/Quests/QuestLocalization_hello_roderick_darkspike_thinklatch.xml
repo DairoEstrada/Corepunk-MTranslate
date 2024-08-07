@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_roderick_darkspike_thinklatch" type="external">
+  <Key key="_npc_Hold_up__punk_" value="Tiens, punk." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_You_bold_enough_" value="Tu es assez audacieux?" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Welcome_to_your_doom_" value="Bienvenue à votre destin." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Ready_for_justice_" value="Prêt pour la justice?" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Don_t_test_the_spike_" value="Ne testez pas la pointe!" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Step_into_my_domain_" value="Entrez dans mon domaine." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Crime_ends_here_" value="Le crime se termine ici!" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Feel_the_pain__scum_" value="Sentez la douleur, l'écume." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Evil_beware_" value="Méfiez-vous mal!" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Not_in_my_village_" value="Pas dans mon village." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+</Node>

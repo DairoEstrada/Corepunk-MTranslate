@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_gimlor" type="external">
+  <Key key="_npc_Hey_there__motherfucker_" value="Olá, filho da puta!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_What_s_up__yokel_" value="E aí, Yokel?" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Ready_to_get_rich__sucker_" value="Pronto para ficar rico, otário?" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Yo__my_compadre_" value="Ei, meu compadre!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Hey__slick_" value="Ei, liso!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Howdy__scam_artist_" value="Olá, Scam Artist!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Welcome_to_the_big_leagues__pa" value="Bem -vindo às grandes ligas, parceiro!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Greetings__hustler_" value="Saudações, Hustler!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+</Node>

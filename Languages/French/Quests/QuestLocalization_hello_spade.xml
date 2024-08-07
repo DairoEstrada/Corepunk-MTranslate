@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_spade" type="external">
+  <Key key="_npc_Make_it_quick_" value="Faites-le rapidement." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_What_do_you_want_" value="What do you want?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_I_m_busy_here_" value="Je suis occupé ici." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Don_t_have_time_" value="Je n'ai pas le temps." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_What_now_" value="Et maintenant?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_I_m_busy_" value="Je suis occupé." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_I_m_already_on_a_date_" value="Je suis déjà à un rendez-vous." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+</Node>

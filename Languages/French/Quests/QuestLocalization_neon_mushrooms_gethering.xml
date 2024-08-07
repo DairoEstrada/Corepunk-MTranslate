@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_neon_mushrooms_gethering" type="external">
+  <Key key="_npc_Find_and_bring_me_Neon_Mushroo" value="Trouvez et apportez-moi des champignons néon.Ils poussent sur les arbres magiques au fond de Westwind Woods." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Remember__the_Neon_Mushroom_th" value="N'oubliez pas que les champignons néon prospèrent au cœur de la forêt." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_The_culprits__they_re_not_your" value="Les coupables, ce ne sont pas vos parasites de bois habituels.Ce sont 3 imps, des créatures malveillantes provoquant le chaos autour de ces parties." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Keep_your_eyes_on_the_ground__" value="Gardez les yeux sur le sol.Le champignon néon a une lueur unique." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_There_s_the_Witcher__lurking_i" value="Il y a le Witcher, qui se cache dans les profondeurs de Tempest Timberland.C'est un vil sorcier, brandissant une tête coupée comme une focalisation tordue pour ses sorts sombres." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Then__we_have_the_Firestarter_" value="Ensuite, nous avons le Firestarter, ici même à Westwind Woods.Il a une affinité dangereuse avec le feu, lançant des cocktails Molotov et la dynamite avec joie." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Lastly__the_brute_Executioner_" value="Enfin, le bourreau brute réside dans Windreach Woods.C'est une menace forte, brandissant une hache monstrueuse qui a clivé plus que de simples arbres." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_They_re_the_ones_who_orchestra" value="Ce sont eux qui ont orchestré l'accident, ne vous y trompez pas.Traitez attentivement, ils sont aussi méchants qu'ils sont rusés." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Be_patient__the_Neon_Mushrooms" value="Soyez patient, les champignons néon sont insaisissables." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Your_courage_is_commendable__G" value="Votre courage est louable.Bonne chance avec tes recherches." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_goal_collect_resources" value="Rassembler des champignons néon" />
+  <Key key="_QuestActionAddToJournal_W7fB" value="Hilda Deeproot&#10;Westwind Woods, près de la cabine forestière&#10;&#10;Récupérez les champignons néon de Westwind Woods." />
+  <Key key="_goalVoice_Ce5t" value="Trouvez et apportez-moi le champignon néon.Ils poussent sur les arbres magiques au fond de Westwind Woods." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Ah__splendid__You_ve_returned_" value="Ah, splendide!Vous êtes revenu et avec le champignon néon.Comme promis, voici ce que je sais des accidents." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Remember__the_Neon_Mushrooms_t" value="N'oubliez pas que les champignons néon prospèrent au cœur de la forêt." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_goal_talk_npc" value="Parlez à Hilda Deeproot" />
+</Node>

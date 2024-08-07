@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_npc_q_b_bartender" type="external">
+  <Key key="_npc_Wah_" value="¿Wah?" voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+</Node>

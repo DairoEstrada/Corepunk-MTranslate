@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_bring_part" type="external">
-  <Key key="_npc_You_again__eh_" value="Tú de nuevo, ¿eh?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
-  <Key key="_npc_What_is_it__I_m_kinda_busy_her" value="¿Qué es?Estoy un poco ocupado aquí con todos los recién llegados, ¿de acuerdo?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
-</Node>

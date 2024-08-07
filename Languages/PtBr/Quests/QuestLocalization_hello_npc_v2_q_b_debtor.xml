@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_npc_v2_q_b_debtor" type="external">
-  <Key key="_npc_What_s_your_problem_" value="Qual é o seu problema?" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
-  <Key key="_npc_What_else__" value="O que agora?" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
-</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_glubgrath" type="external">
+  <Key key="_npc_Hisss____Greetings_" value="Sifflement ... salutations." voiceSettingsId="l7x1VDDEfbl63hmKiwvQ" />
+  <Key key="_npc_Hello____fressssh_prey_" value="Bonjour ... la proie de fritessh." voiceSettingsId="l7x1VDDEfbl63hmKiwvQ" />
+  <Key key="_npc_Heh____Come_closssser_" value="Heh ... Venez claquer." voiceSettingsId="l7x1VDDEfbl63hmKiwvQ" />
+  <Key key="_npc_Welcome__unsssussspecting_one_" value="Bienvenue, unSSSUSSUMSETRANT ONE." voiceSettingsId="l7x1VDDEfbl63hmKiwvQ" />
+  <Key key="_npc_Ssslithering_in__are_we_" value="Ssslithering In, n'est-ce pas?" voiceSettingsId="l7x1VDDEfbl63hmKiwvQ" />
+  <Key key="_npc_Aaaah__a_visitor____deliciouss" value="Aaaah, un visiteur ... Delicioussss." voiceSettingsId="l7x1VDDEfbl63hmKiwvQ" />
+  <Key key="_npc_Heh_heh__hello___" value="Heh heh, bonjour ..." voiceSettingsId="l7x1VDDEfbl63hmKiwvQ" />
+  <Key key="_npc_New_to_the_lake_" value="New to the lake?" voiceSettingsId="l7x1VDDEfbl63hmKiwvQ" />
+</Node>

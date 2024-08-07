@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_disorderly_consequences" type="external">
+  <Key key="_npc_You_dare_defy_my_orders__Perha" value="Vous osez défier mes commandes?Peut-être qu'une cellule changerait d'avis." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_goal_talk_npc" value="Parlez à Lyra." />
+  <Key key="_npc_Take_this_note_to_Lyra__She_s_" value="Prenez cette note à Lyra.Elle est votre nouveau patron et ne vous y trompez pas, la vallée n'est pas gentille pour les fouiller." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Refusing_me__Bold_move__Hope_y" value="Me refusant?Geste audacieux.J'espère que vous apprécierez les donjons." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_goalVoice_Lyra_said_you_didn_t_report_to" value="Lyra a dit que vous n'aviez pas encore rendu compte de l'infestation.Dirigez-vous vers le sud jusqu'à Westwind Woods, vers la carrière.Dû à l'ouest de là.Je ne peux pas le manquer!TIC Tac.Plus vous avez longtemps, plus je deviens heureux de votre avenir dans une cellule." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_You_ll_be_working_under_Lyra_T" value="Vous travaillerez sous Lyra Thornfeld dans l'infestation de la vallée des péchés à Westwind Woods.Gagnez votre donjon ou finissez par regretter les décisions de vie." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Here_s_the_deal__Since_you_dec" value="Voici l'accord.Puisque vous avez décidé que le vol était une bonne idée, vous allez faire votre juste part du service communautaire." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Well__well__look_who_thought_t" value="Eh bien, regardez qui pensait pouvoir déjouer le système.Profiter encore du goût de la justice?" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Here__take_these_supplies__The" value="Ici, prenez ces fournitures.Ils s'assureront que vous ne devenez pas juste une autre victime de votre prochaine tâche." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Good_job_delivering_the_note__" value="Bon travail livrant la note.Voyons maintenant à quel point vous êtes vraiment utile." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_You_re_not_like_the_usual_recr" value="Vous n'êtes pas comme les recrues habituelles.Peut-être que vous durerez plus longtemps." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_QuestActionAddToJournal_Alaric_Stormshade_Windreach_Wo" value="Alaric Stormshade&#10;Windreach Woods, fort&#10;&#10;En tant que punition pour avoir volé un livre du fort, report pour le service communautaire pour Lyra Thornfeld dans la vallée des péchés." />
+  <Key key="_npc_Rejecting_community_service__Y" value="Rejeter le service communautaire?Vous devez avoir un souhait de mort.Gardes, préparez une cellule!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Ah__so_you_re_the_new_recruit_" value="Ah, donc vous êtes la nouvelle recrue?Je n'ai pas vu de visages frais ici depuis un moment." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Very_well__Deliver_this_note_t" value="Très bien.Livré cette note à Lyra Thornfeld et peut-être, juste peut-être, vous survivrez." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Ah__finally_made_the_decision_" value="Ah, a finalement pris la décision de faire face à votre punition, n'est-ce pas?" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+</Node>

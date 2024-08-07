@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_test_brew_new_world" type="external">
+  <Key key="_goal_go_to_goblin_2" value="Vá para Goblin 2 West" />
+  <Key key="_QuestActionAddToJournal_IdZR" value="Vá para Goblin 2 West rápido" />
+  <Key key="_assistant_phrase_EBpU" value="Olá, vá rápido para meu amigo!" voice="Male" />
+  <Key key="_goal_go_to_goblin" value="Vá goblin" />
+  <Key key="_QuestActionAddToJournal_JkAi" value="Vá rápido goblin cara." />
+  <Key key="bubble_phrase_ffZk" value="1" />
+  <Key key="_npc_Test_Test_Test" value="Teste de teste" voice="Male" />
+  <Key key="_npc_No__you_don_t__Hey__don_t_try_" value="Não, você não.Ei, não tente mexer comigo aqui, tudo bem?Você, Smartass, tem que ser registrado, como qualquer outro recém -chegado." voice="Male" />
+  <Key key="_npc_Me_neither__Too_bad__Anyway__y" value="Nem eu.Muito ruim.De qualquer forma, você deve ser registrado aqui.Procedimento padrão.É só que não tenho nenhum formulário em branco." voice="Male" />
+  <Key key="_npc_I_m_here_to_do_that__But__I_ra" value="Estou aqui para fazer isso.Mas!Fiquei sem formas com todos vocês inundando." voice="Male" />
+  <Key key="_npc_The_extras_should_be_at_the_Di" value="Os extras devem estar na estação de expedição.Vá buscá -los.Você receberá mais instruções de mim quando estiver lá.Ok, agora mova -o.Próximo!" voice="Male" />
+  <Key key="_goal_search_part" value="Parte de pesquisa em casa" />
+  <Key key="_QuestActionAddToJournal_Nx73" value="Parte de pesquisa em casa no oeste" />
+  <Key key="_npc_Thank_you_" value="Obrigado!" voice="Male" />
+  <Key key="_sys_msg_Bij5" value="Você não tem o item" />
+</Node>

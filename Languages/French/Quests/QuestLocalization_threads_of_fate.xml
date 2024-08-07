@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_threads_of_fate" type="external">
+  <Key key="_npc_You_know__Pax_loves_his_favori" value="Vous savez, Pax aime son plat préféré à 14h17, mais nous sommes fraîchement sortis du jute!" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Redrum____oh__just_kidding__Th" value="Redrum ... Oh, je plaisante!Merci toujours.Pax sera ravi!Le temps n'attend personne, vous savez." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_goal_collect_jute" value=" " />
+  <Key key="_goalVoice_Have_you_found_any_Jute_yet__I" value="Avez-vous déjà trouvé du jute?Je détesterais que vous manquiez l'heure du thé à 16 h 00 ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_QuestActionAddToJournal_Ophelia_Voss_Riverrise__Bench_" value="Ophelia Voss&#10;Riverrise, banc derrière l'alchimie.&#10;&#10;Aidez Ophelia Voss à rassembler le jute pour préparer le plat préféré de Pax." />
+  <Key key="_goal_collect_item_time_of_death" value="Recueillir le temps de mort" />
+  <Key key="_npc_It_s_2_33__are_you_back_with_t" value="Il est 2:33, êtes-vous de retour avec le jute encore?" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_varDescription_Collect_Jutes" value="Recueillir des jutes" />
+  <Key key="_npc_Oh_wow__you_managed_to_beat_th" value="Oh wow, tu as réussi à battre l'horloge!" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Here_s_your_reward__3_16_PM_pr" value="Voici votre récompense, 15h16 précisément." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Remember__once_he_reads_that_n" value="Rappelez-vous, une fois qu'il a lu cette note, tout change.Tick-Tock, Tick-Tock!" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_If_you_could_bring_me_some_Jut" value="Si vous pouviez m'apporter du jute avant jeudi à 15h53, je vous en serais très reconnaissant." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_It_won_t_be_easy__but_hey__it_" value="Ce ne sera pas facile, mais bon, c'est pour PAX, non?" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_In_exchange__I_ll_give_you_a_t" value="En échange, je vais vous donner une toute petite note.Il a le moment précis, Thistlebrook était destiné à mourir, jusqu'au second.16h44, tick-tock!" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Just_remember__timing_is_every" value="N'oubliez pas que le timing est tout." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Revealing_that_note_might_twis" value="Révaluer cette note pourrait tordre son avenir de la manière la plus étrange.Tick-Tock, Tick-Tock!" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Oh_well__at_exactly_11_34_PM_t" value="Eh bien, à 23h34 ce soir, vous regretterez de m'avoir ignoré.Juste une intuition." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Hmm__the_clock_strikes_2_22_PM" value="Hmm, l'horloge frappe à 14 h 22 demain, et quelque chose de pas très gentil pourrait se produire." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Your_destiny_at_6_03_AM_seems_" value="Votre destin à 6 h 03 semble plutôt sombre sans m'aider, tu ne penses pas?" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Tick_tock__around_9_45_PM__I_f" value="Tick-Tock, vers 21h45, je prévois un orteil talonné dans votre avenir.Juste dire." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_By_5_27_PM__you_ll_wish_you_d_" value="À 17 h 27, vous souhaiterez que vous ayez rassemblé ce jute pour PAX.Étrange comment le temps fonctionne, hein?" voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_collector2" type="external">
+  <Key key="_QuestActionAddToJournal_8iHh" value="Parler au collectionneur" />
+  <Key key="_QuestActionAddToJournal_NuZB" value="Donnez l'artefact au collectionneur" />
+  <Key key="_goal_end_quest" value="Apportez le &quot;jouet en bois&quot; au chasseur d'artefact" />
+  <Key key="_goalVoice_YQvr" value="Trouvez un artefact comme celui-ci" voice="Male" />
+  <Key key="_QuestActionAddToJournal_G57y" value="Trouvez un artefact comme celui-ci" />
+  <Key key="_goal_find_artefact" value="Trouver l'artefact &quot;Toy Toy&quot;" />
+  <Key key="_npc_Prinesi_artefakt" value="Ainsi, celui-ci est appelé &quot;jouet en bois cloué dans le sol&quot;.Tu vas me le livrer?" voice="Male" />
+  <Key key="_npc_O_da__davay_mne" value="C'est vraiment bien.Apporte une certaine nostalgie.Merci, voici votre salaire." voice="Male" />
+</Node>

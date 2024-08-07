@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_darkwood_dilemma" type="external">
+  <Key key="_npc_Declining__Well__good_luck_whe" value="En déclin?Eh bien, bonne chance quand les quaddari décident de faire un spectacle d'horreur de notre fort." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_goal_find_zone" value="Trouvez le corps du capitaine" />
+  <Key key="_goal_talk_npc" value="Parlez à Trevor Barlow" />
+  <Key key="_npc_Think_about_it__the_Captain_s_" value="Pensez-y: la vie du capitaine, et peut-être la nôtre, en dépend.Vous êtes sûr de l'abandon?" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_You_re_passing_up_on_uncoverin" value="Vous passez à la découverte d'un schéma quaddari?Déménagement audacieux, mais stupide." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_goalVoice_Hey__don_t_drop_the_ball_now__" value="Hé, ne laisse pas tomber le ballon maintenant.La vie du capitaine et la nôtre dépend de vous rassembler.Trouvez son corps et faites rapport à Trevor.Allez, partenaire.Si les quaddari sont derrière cela, nous sommes assis des canards.Grouille toi!Rendez-vous profondément dans ces bois du sud et ramenez notre garçon!" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Let_s_see_what_secrets_are_hid" value="Voyons quels secrets se cachent dans ces bois effrayants.Signalez tout ce que vous trouvez à Trevor." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Plus__maybe_we_ll_finally_get_" value="De plus, nous aurons peut-être enfin des réponses." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_We_need_the_Captain_back__or_a" value="Nous avons besoin du capitaine de retour, ou du moins de ce qui lui reste.Sinon, la victoire quaddari." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Sounds_like_a_Quaddari_conspir" value="Cela ressemble à un complot quaddari si vous me demandez, et vous savez comment je les aime.Alexander Stones est mon héros!" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_That_damned_Altar_is_in_the_de" value="Ce damné autel se trouve dans le sud du sud des bois de l'ouest.Encore plus profondément au sud-ouest de la carrière." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Alright__listen_up__Our_Fort_C" value="Très bien, écoutez!Notre Captain de Fort a disparu, et la rumeur veut qu'il se dirigeait pour la dernière fois vers cet autel effrayant pour les dieux des bois." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_That_artifact_caused_this__Whe" value="Cet artefact a provoqué cela.Partout où il est, nous devons le contenir - maintenant." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_I_suppose_I_ll_have_to_tell_hi" value="Je suppose que je vais devoir lui dire ... après avoir résolu ce ... incident." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Skipping_this_hunt__Hope_you_r" value="Sauter cette chasse?J'espère que vous êtes prêt lorsque le quaddari nous souffle tous en morceaux." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_QuestActionAddToJournal_Tharkon_Windreach_Woods__Fort_" value="Tharkon&#10;Windreach Woods, Fort.&#10;&#10;Aidez Tharkon à localiser le Captain de Fort manquant dans les Westwind Woods énigmatiques, quelque part près de l'autel pour les dieux des bois." />
+  <Key key="_npc_Did_Tharkon_help_you_find_the_" value="Tharkon vous a-t-il aidé à trouver le capitaine?" voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_DAMN_IT__Dead__Seriously_" value="BON SANG.Mort?Sérieusement?" voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_I_don_t_give_a_shit_about_the_" value="Je ne me soucie pas du capitaine, mais cela signifie que Themis est en charge maintenant." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Ha__a_real_life_conspiracy__Ca" value="Ha, une conspiration réelle!J'ai hâte de voir la «grande révélation» du capitaine à l'autel." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+</Node>

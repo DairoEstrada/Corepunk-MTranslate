@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_pax_voss" type="external">
+  <Key key="_npc_You_re_going_to_trip_and_spill" value="Vous allez trébucher et renverser votre boisson." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_If_you_avoid_that__you_ll_brea" value="Si vous évitez cela, vous cassez votre tasse préférée." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Leave_now__and_you_ll_lose_you" value="Partez maintenant et vous perdrez votre sac à main." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Stay__and_you_ll_miss_an_impor" value="Restez et vous manquerez un message important." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Decisions__decision__So_many_d" value="Décisions, décision.Tant de façons différentes pour que les choses se passent mal." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_I_see_things____things_that_wi" value="Je vois des choses ... des choses qui se produiront." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_The_future_is_always_shifting_" value="L'avenir se déplace toujours, change toujours." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_If_you_could_change_our_future" value="Si vous pouviez changer notre avenir ... Peut-être que les choses fonctionneront bien pour une fois." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_This_place_is_strange____alway" value="Cet endroit est étrange ... toujours en train de changer." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Sometimes_it_s_safe__sometimes" value="Parfois, c'est sûr, parfois ... pas tellement." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_The_fields_whisper_secrets__th" value="Les champs chuchotent des secrets, les quartiers cachent des rêves." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_It_s_like_a_puzzle__shifting_a" value="C'est comme un puzzle, changeant et tournant, avec de nombreux sorts entrelacés." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Sometimes__you_need_to_help_yo" value="Parfois, vous devez d'abord vous aider." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Not_now____maybe_you_should_fo" value="Pas maintenant ... peut-être que vous devriez vous concentrer sur vos propres problèmes." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_We_can_t_always_rely_on_others" value="Nous ne pouvons pas toujours compter sur les autres ... Parfois, nous devons affronter les choses seule." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Help_yourself_first____then_ma" value="Aidez-vous d'abord ... alors peut-être que nous pouvons parler." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Oh_yes____we_do_" value="Oh oui ... nous le faisons." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Follow_me__I_ll_show_you_" value="Suivez-moi, je vous montrerai." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Yes__come_this_way_" value="Oui, venez comme ça." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Yes____destiny_awaits_" value="Oui ... Destiny attend." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+</Node>

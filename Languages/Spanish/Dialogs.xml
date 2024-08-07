@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Dialogs" description="">
+  <Node name="2019.2.22@13252117114733">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2019.3.21@1519270624122" />
+  <Node name="2019.3.21@1531745727044" />
+  <Node name="2019.10.30@19321187239823">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.11.23@1322137390226">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.11.23@134696409748">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.6.4@15441071310170">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.9.17@1626129327991">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.10.30@19261486338449">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.9.11@19211750743397">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.11.21@14311674875848">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.9.11@19281312949645">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.10.30@1929535856347">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2019.9.11@19182077118163">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.11.21@1433243578231">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.6.4@1544894276067">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.6.4@1543393416246">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2019.9.11@1926574841225">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="2020.3.26@1541296902026">
+    <Key key="Answer" value="Comerciar bienes" />
+  </Node>
+  <Node name="TalentsReset">
+    <Key key="Key" value="¿Quieres restablecer los puntos de talento en el árbol de {value1}? Considera que costará: {value2}" />
+  </Node>
+  <Node name="2020.12.16@15291895534879" />
+  <Node name="ChangeSpecialization">
+    <Key key="BOM_S1" value="¿Convertirse en Médico Explosivo?" />
+    <Key key="BOM_S2" value="¿Convertirse en Granadero?" />
+    <Key key="BOM_S3" value="¿Convertirse en Infiltrador?" />
+    <Key key="CHA_S1" value="¿Convertirse en Destructor?" />
+    <Key key="CHA_S2" value="¿Convertirse en Guardabosques?" />
+    <Key key="CHA_S3" value="¿Convertirse en Paladín?" />
+    <Key key="ORC_S1" value="¿Convertirse en Legionario?" />
+    <Key key="ORC_S2" value="¿Convertirse en Comando?" />
+    <Key key="ORC_S3" value="¿Convertirse en Chamán?" />
+  </Node>
+  <Node name="2021.6.18@14111157736745">
+    <Key key="Answer" value="Tienda de apariencias" />
+  </Node>
+  <Node name="2021.7.27@1020909626285">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2021.11.10@1642090875386">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2021.3.18@1682016965555">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2021.1.20@9411680594108">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2021.8.12@10491520209700">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2022.8.19@10241354989192">
+    <Key key="Greeting" value="¡Bienes del comerciante!" />
+    <Key key="Answer" value="¡Bienes del comerciante!" />
+  </Node>
+  <Node name="2022.9.9@13481183665305">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2021.3.4@15151323821642" />
+  <Node name="2022.6.24@9292127002610" />
+  <Node name="2023.8.22@9461642635004">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2021.11.10@1639591541674" />
+  <Node name="2021.5.20@1411570446697" />
+  <Node name="2021.5.20@14391986863044" />
+  <Node name="2022.6.28@12191214143106" />
+  <Node name="2023.9.25@11291718863170">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2023.9.25@12481532960291">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2023.9.26@9401018687126">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2023.9.26@1020383819063">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2023.9.26@1144792591420">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2023.9.25@1224671576970">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2023.9.27@1010853912947">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2023.11.28@1014428192712">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2023.12.9@927934439535">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.18@16462066663453">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.18@1742547302203">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.18@171697955386">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.18@1745313658563">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.18@1723162165814">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.18@17521064680010">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@135387579008">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@20521132557685">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@20521432406393">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@20471983714983">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2023742277839">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2131468819110">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2151554350669">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@21331641345517">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2142140019704">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@21201345189736">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2156591803240">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2241582848305">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2211312586716">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22462056556185">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2261613695029">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2220759753770">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22531283755802">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2248660357439">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22251974330833">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2210320764829">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2223988447737">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@225275486632">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@225452619207">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22151292172543">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1238285885137">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2234441792663">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1843525998580">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2251910884585">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22202074601036">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22351475600309">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2244687515110">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22551727200522">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2231625185188">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@12451100020131">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2221535828530">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2223157104121">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22371512075841">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@912855309689">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@22571080546413">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@2239962363362">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@732951163251">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@155940021244" />
+  <Node name="2024.5.25@7356132940">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@8151190609124">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@833346117701">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@962116338928">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@91704844036">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@935357753830">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@11561510113473">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@11571914611499">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@12271981087155">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@1233363309538">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@1352605404697">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@1442426390568">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@15211375601403">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@1401470571669">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@1421354758217">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@146410093468">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@14541850229312">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@1421441280553">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@18361151326996">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@16341225474819">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@19321184727000">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1236832574524">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@121749869142">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@13122041871911">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.23@102386806493">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@133619514918">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1341521655679">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1329269324380">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1143724766981">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@20322045109742">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1516434355552">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.23@8131870182565">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1511831645375">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1523536104494">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@16362140026061">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@202348303049">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@150513505268">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1311612100962">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@1336639471900">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@201301625884">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@2050103058462">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.25@21451289490407">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.24@13152052614443">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.5.26@18481743853530">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.13@891471258774">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.13@12331064158743">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.13@15491524133995">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.14@12471118130988">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.14@9471816896689">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.14@1571272907339">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.14@9201960812720">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.14@1026852660687">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.14@1236715376161">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.28@1691825512483">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.30@16371120304531">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.1@7181027267984">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.1@74269988881">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.6.30@170198958046">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@125282493374">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.22@1761792685014">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1126875211046">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1124306730855">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1215601205024">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.24@13512106252779">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.24@134576039889">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.24@14371477332543">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.24@1442261454283">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.24@15281560571519">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@10501599252915">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1244176661517">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1256159243652">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@12431096117383">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.24@165271550627">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.24@1653957862611">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@13141156985625">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@13391624477913">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.24@1611828440935">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@15351652354595">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@164591464391">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@1540102170468">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.26@892087976972">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.26@95228582985">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.26@919962807119">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@14361271428882">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.26@1147702050634">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.26@1758603290881">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@13251879673192">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@14421366868493">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@131654187363">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1302124360139">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@13261517903891">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@13161741937923">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@1111807669755">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.25@119680953680">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1023562322664">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1027839277870">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.7.23@1045892245744">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.4@12231067288114">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@1291463573685">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@1559424305675">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@18102021680837">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.1@20391785563728">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@1556419877792">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@15522141149805">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@10171450601190">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@10361190049370">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@9181058544826">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.6@13231623078748">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.6@1339420827238">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.6@1371484700452">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.6@1324396443276">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.6@13421661355540">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@15191382346688">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@15541650475573">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.5@1526158773585">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+  <Node name="2024.8.6@1333552190305">
+    <Key key="Answer" value="Tienda" />
+  </Node>
+</Category>

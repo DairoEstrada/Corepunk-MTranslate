@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_phantom_fragment_recovery" type="external">
+  <Key key="_npc_No_worries__more_time_for_my_h" value="No worries, more time for my herbal adventures." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Alright__your_loss__Guess_I_ll" value="Très bien, votre perte.Je suppose que je vais juste laver un autre émoussé." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_goalVoice_Hey__where_s_that_kid_with_the" value="Hé, où est cet enfant avec l'artefact?Trouvez déjà cette petite merde - il est dans les champs de mauvaises herbes violets à Goldenfield.Je ne veux pas que l'artefact revienne, je veux juste la justice." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_And_maybe_smack_him_upside_the" value="Et peut-être le gifler aussi la tête, le petit cul ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_You_look_like_someone_who_can_" value="Vous ressemblez à quelqu'un qui peut le retrouver et récupérer l'artefact." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_goal_talk_npc" value="Parler à Buck" />
+  <Key key="_npc_Last_I_heard__the_same_fuckin_" value="La dernière fois que j'ai entendu, les mêmes putains de faillites ont été repérés dans les champs de mauvaises herbes violets, Smack Dab au milieu de Goldenfield." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_The_problem_is__a_mischievous_" value="Le problème est qu'un enfant espiègle s'en est déclenché.Cette petite merde!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_So__to_answer_your_question___" value="Donc, pour répondre à votre question - j'ai trouvé un fragment d'un ancien artefact tout en errant dans les plans qui tombent." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Ah__finally___Smoke_machines_a" value="Ah, enfin!Les machines de fumée ne sont pas le seul ingrédient clé pour faire semblant d'être un fantôme ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_And_unless_you_want_me_to_tell" value="Et à moins que vous ne vouliez que je dise à un adulte que vous veniez et que vous me critiez dessus, vous allez vous aider!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_It_must_be_that_damn_Lily_Baxt" value="Ce doit être ce putain de Lily Baxter, me encadrant à nouveau." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_goal_collect_falling_planes" value="Collect Artifact from Falling Planes" />
+  <Key key="_npc_Cool__more_weed_for_me__Happy_" value="Cool, plus d'herbe pour moi.Bonne route!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_QuestActionAddToJournal_Clanker_Windreach_Woods__Falli" value="Clanker&#10;Windreach Woods, Falling planes.&#10;&#10;Help recover an ancient artifact fragment stolen by a mischievous kid." />
+  <Key key="_npc_I_didn_t_steal_shit__I_didn_t_" value="Je n'ai pas volé de la merde!Je ne fais pas ça!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Arti____whati_" value="Arti ... quoi?" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_You_find_that_artifact__you_ke" value="Vous trouvez cet artefact, vous le gardez.Je ne me soucie pas." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+</Node>

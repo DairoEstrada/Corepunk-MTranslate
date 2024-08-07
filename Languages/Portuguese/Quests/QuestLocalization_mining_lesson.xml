@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mining_lesson" type="external">
+  <Key key="_npc_Impressive_work__outworlder__M" value="Trabalho impressionante, Outworlder!Talvez um dos seus tipos tenha potencial." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goalVoice_ILEz" value="Lembre -se, extraia o cristal macio das veias de cristal macio e transforme -o em enchimento de pó.E lembre -se das criaturas." voice="Male" />
+  <Key key="_npc_Right_on__I_knew_you_had_it_in" value="Pode apostar!Eu sabia que você tinha isso em você." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Remember__extract_Soft_Crystal" value="Remember, extract Soft Crystal from Soft Crystal Veins and turn it into Powder Filler. And mind the critters." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Quit_lollygagging_and_get_me_t" value="Pare de lollygagging e me pegue aquele preenchimento de pó!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_collect_resources" value="Preenchimento de pó" />
+  <Key key="_QuestActionAddToJournal_JK6r" value="Ironvein de Thordal&#10;Goldenfield, perto do posto de combustível&#10;&#10;Prove o seu valor extraindo cristal macio das veias de cristal macio e processando -o em enchimento em pó." />
+  <Key key="_npc_I_ve_seen_snails_move_faster_t" value="Eu vi os caracóis se moverem mais rápido que você.Continue com isso!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_What_s_taking_you_so_long__Get" value="O que está levando você tanto?Pegue esse preenchimento de pó já." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Oh__and_one_more_thing__Alchem" value="Ah, e mais uma coisa.Os alquimistas não se cansam dessas coisas de preenchimento de pó." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Beats_me_why__Maybe_they_snort" value="Me bate por quê!Talvez eles o cheiram ou polvilhe em suas bundas." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_All_I_know_is_they_pay_well_fo" value="All I know is they pay well for it. So let me give you a cut of the profits..." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_queenie_viper" type="external">
+  <Key key="_npc_Name_s_Q_Queenie_Viper__got_th" value="Le nom Q-Queie Viper, vous avez ça?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Heir_of_the_Velvet_Viper_gang_" value="Héritier du gang de vipère Velvet - er, filles.S-donc je suis un peu un gros problème." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Bet_you_can_t_even_imagine_the" value="Je parie que vous ne pouvez même pas imaginer ce que j'ai tiré!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Just_keep_up__and_maybe_y_you_" value="Continuez, et peut-être que vous apprenez quelque chose, paysan." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Listen__I_m_not_up_for_grabs__" value="Écoutez, je ne suis pas à gagner, je l'ai?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Just__cause_you_re_askin___doe" value="Juste parce que vous demandez.Cela ne signifie pas que je suis intéressé." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Sometimes_a_girl_just_needs_he" value="Parfois, une fille a juste besoin de son espace, tu sais?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_But_cute__real_cute_that_you_t" value="Mais mignon, vraiment mignon que tu as essayé, hic!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_This_BAR_yard____seems_familia" value="Cette cour de bar ... semble familière, ou est-ce?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_I_think____maybe__Everything_s" value="Je pense peut etre?Tout est un peu flou, tu sais?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_I_m_supposed_to_be_recon_ing__" value="Je suis censé être reconnu ... Reconing ... Hic ... Mais mon garçon, j'ai perdu la trace." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Just_another_random_spot_on_Kw" value="Juste un autre endroit aléatoire sur Kwalat, je suppose.Qui s'en soucie de toute façon?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Hic__Do_I_look_like_I_need_hel" value="Hic!Ai-je l'air d'avoir besoin d'aide?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_No__I_I_m_busy_gettin__work_do" value="Non, je suis occupé à faire du travail, Scram!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Got_a_job_to_focus_on__can_t_b" value="J'ai un emploi sur lequel se concentrer, je ne peux pas vous garder!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Beat_it__I_I_m_on_duty__ya_kno" value="Battez-le, je suis en service, tu sais?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_N_nope__I_handle_my_own_mess_u" value="N-non, je gère mes propres messages, merci beaucoup!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Hic__S_sure__could_use_some_h_" value="Hic!S-Sure, pourrait utiliser un Help H ici." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Oh__you_re_a_lifesaver__I__I_c" value="Oh, tu es une bouée de sauvetage, je ne peux pas le faire ivre!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Heeelp_me_before_I_make_a_mess" value="HEEELP moi avant de faire un gâchis, hic!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Y_yeah__I_m_kinda_in_a_b_bind_" value="Y-oui, je suis un peu dans un B-Bind, j'ai besoin d'un copain sobre!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Help_a_girl_out__before_I_trip" value="Aidez une fille à sortir, avant de trébucher sur moi-même." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+</Node>

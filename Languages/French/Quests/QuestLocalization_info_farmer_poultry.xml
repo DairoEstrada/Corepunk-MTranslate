@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_farmer_poultry" type="external">
+  <Key key="_npc_I_m_Granny_Hilde__just_a_tough" value="Je suis Granny Hilde, juste une vieille poule difficile qui s'attache dans ces parties de Goldenfield.Je n'ai rien que je ne puisse pas gérer." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Used_to_share_this_coop_with_a" value="Utilisé pour partager cette coopérative avec un mari, un courageux porte-léger.L'obscurité de la vallée des péchés l'a avalé il y a des années." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Now_it_s_just_me__my_chickens_" value="Maintenant, c'est juste moi, mes poulets et beaucoup de travail acharné.Je n'ai pas de temps pour les larmes, seulement pour de bonne sueur honnête." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Ain_t_much_to_look_at__but_it_" value="Il n'est pas beaucoup à regarder, mais c'est paisible et le sol est bon.Et rien ne vaut la vue d'une bite noire à la lumière du matin." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_How_am_I__Well__can_t_complain" value="Comment suis-je?Eh bien, je ne peux pas me plaindre, ne ferait pas de bien de toute façon.D'ailleurs, qui écouterait à part mes poulets?" voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Life_s_a_henhouse__busy_and_me" value="La vie est une poule, occupée et désordonnée, mais cela en vaut la peine quand vous voyez ces œufs frais le matin." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Every_day_s_a_new_struggle__bu" value="Chaque jour est une nouvelle lutte, mais je suis plus difficile qu'un ancien coq.J'ai eu ma santé et une séquence obstinée d'un mile de large." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_miss_my_husband_every_damn_d" value="Mon mari me manque tous les jours, mais le chagrin ne va pas nourrir les poulets, n'est-ce pas?" voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_This_ol__place__It_s_Goldenfie" value="Cet ancien endroit?C'est Goldenfield, une ville agricole calme et une putain de vue mieux que partout ailleurs." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Sure__it_ain_t_shiny_like_Leit" value="Bien sûr, ce n'est pas brillant comme Leithana, mais nous avons du blé, du maïs et des œufs les plus frais de ce côté de la rivière." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Good_thing_I_have_my_cocks____" value="Heureusement que j'ai mes bites ... ce ne sont peut-être pas de grands conversationnistes, mais ce sont de meilleurs auditeurs que la plupart des gens." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Goldenfield_s_got_a_rhythm_to_" value="Goldenfield's got a rhythm to it. It's in the rustle of the wheat, the clucking of my birds, and the hum of the tractor. It's home." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Well_sugar__there_s_always_som" value="Well sugar, there's always something to be done round here." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Yes_dear__there_s_a_task_you_c" value="Yes dear, there's a task you could help me with." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Indeed__I_could_use_a_helping_" value="En effet, je pourrais utiliser un coup de main." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_m_managing_for_now__but_than" value="Je gére pour l'instant, mais merci, mon cher." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_can_handle_things_here__but_" value="Je peux gérer les choses ici, mais j'apprécie votre offre." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Not_right_now__sweetheart__but" value="Pas maintenant, ma chérie, mais merci." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_My_feathered_babies_are_lookin" value="Mes bébés à plumes semblent un peu minces, ils ont besoin de plus de nutrition." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_think_a_few_bundles_of_corn_" value="Je pense que quelques faisceaux de maïs des champs leur feraient du bien." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_You_d_be_doing_me_a_great_serv" value="Tu me ferais un excellent service et les poulets aussi." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Oh__well_that_s_a_shame__The_c" value="Oh, c'est dommage.Les poulets seront déçus." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_understand__dear__Maybe_anot" value="Je comprend ma chère. Peut-être une autre fois." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Alright_then__I_suppose_we_ll_" value="Très bien, je suppose que nous gérerons." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+</Node>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_old_man_zephyr" type="external">
+  <Key key="_npc_Zimirra_" value="Zimirra!" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_Blorpt_" value="Blorpt!" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_Fuck_you_" value="Te baise?" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_Tuk_tuk_" value="Tuk-tuk!" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_Zamboro_" value="Zamboro!" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_Giblit_" value="Giblit!" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_Ploosh_" value="Ploosh!" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_Frinkle_" value="Frolies!" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_What_" value="Quoi!" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+  <Key key="_npc_WHAT__" value="QUOI!?" voiceSettingsId="PuUA1UGUu0NCEPYmG33h" />
+</Node>

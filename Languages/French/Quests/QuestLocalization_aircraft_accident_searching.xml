@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_aircraft_accident_searching" type="external">
+  <Key key="_goal_find_part" value="Trouver des générateurs d'électricité" />
+  <Key key="" value=" " />
+  <Key key="_QuestActionAddToJournal_FnPt" value="Zugg Clankwhistle&#13;&#10;Goldenfield, près du bureau&#10;&#10;Trouvez un autre frère de Zugg, sa navette écrasée dans la forêt au sud-ouest du village." />
+  <Key key="_assistant_phrase_Go_bash_their_heads_in_and_get" value="Allez se cogner la tête et obtenez mes générateurs d'électricité!Les petits baiseurs sont partout dans cette forêt." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_An_entire_cart__carrying_a_mon" value="Un chariot entier, transportant un mois de nourriture pour la ville pour la ville.En fumée!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_goto_goblah_pos1" value="Retourner au gobelin" />
+  <Key key="_npc_You_ve_done_good_work__But_unf" value="Vous avez fait du bon travail.Mais malheureusement, il y a eu une autre catastrophe pendant que vous étiez parti." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_70Dq" value="J'ai les pièces.Devrait revenir au gobelin maintenant." />
+  <Key key="_goalVoice_Oh__for_fuck_s_sake__The_imps_" value="Oh, pour l'amour de la baise!Les IMP nous ont déjà battu.Allez se cogner la tête et obtenez mes générateurs d'électricité!Les petits baiseurs sont partout dans cette forêt." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_find_roket" value="Trouvez un autre frère de Zugg." />
+  <Key key="_varDescription_7mtt" value="les pièces" />
+  <Key key="_assistant_phrase_CWsk" value="Putain !Ce stupide clone ... Clown aurait dû connaître le siège d'éjection que j'ai installé." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_FkER" value="Oh, pour l'amour de la baise!Les IMP nous ont déjà battu." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_WbC1" value="Putain !Ce stupide clone ... Clown aurait dû connaître le siège d'éjection que j'ai installé.Je suppose que j'aurais dû lui dire.Eh bien, maintenant vous devrez terminer son travail.Ouvrez la navette et apportez-moi les quatre générateurs électriques." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_K5EN" value="Zugg Clankwhistle&#10;Goldenfield, près du bureau&#10;&#10;Trouvez un autre frère de Zugg, sa navette écrasée dans la forêt au sud-ouest du village." />
+  <Key key="_npc_Great__just_great__Tell_him_he" value="Super, juste génial.Dites-lui qu'il est le plus stupide jusqu'à présent.La forêt est au sud-ouest du village." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_People_are_saying_it_s_all_you" value="Les gens disent que tout est de votre faute.J'aurais eu un coup de pied pour que vous soyez expulsé de la ville ..." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_Remember__it_s_the_shuttle_in_" value="N'oubliez pas que c'est la navette dans la forêt.Grand crash avec de la merde partout.Allez trouver des générateurs avant que quelqu'un ne les vole.Oh, et mon frère aussi, si vous le voyez." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_I_guess_I_should_ve_told_him_" value="Je suppose que j'aurais dû lui dire." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_There_s_this_old_hag_living_in" value="Il y a cette vieille sorcière vivant dans les bois, ne peut pas voir ou entendre grand-chose, mais laissez-moi vous dire, elle a des yeux et des oreilles partout." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Well__you_basically_have_no_ch" value="Eh bien, vous n'avez essentiellement pas le choix ici.Sans les papiers, vous n'êtes personne, et le gouvernement n'aime vraiment pas les nobodies.Alors, allez trouver mon frère dans la forêt sud-ouest." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_6d7r" value="N'oubliez pas que c'est la navette dans la forêt.Grand crash avec de la merde partout.Allez trouver des générateurs avant que quelqu'un ne les vole.Oh, et mon frère aussi, si vous le voyez." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_Well__now_you_ll_have_to_finis" value="Eh bien, maintenant vous devrez terminer son travail.Ouvrez la navette et apportez-moi les quatre générateurs électriques." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_L0dM" value="Remettez les générateurs à Zugg" />
+  <Key key="_assistant_phrase_NmmG" value="Les gens autour de l'explosion ont dû voir l'explosion, leur demander des détails." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_XT1n" value="Mais ne vous précipitez pas dans les bois, recrue.Mieux vaut regarder autour de vous, comprendre quoi.Get up plus dur, cette forêt ne plaisante pas." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_cV94" value="Soit dit en passant, entendu que le gouvernement paie une bonne pièce aux nouveaux arrivants pour se débarrasser de divers bestioles dans ces parties." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_NZiC" value="La rumeur veut qu'ils aient l'intention de régler ce territoire sauvage avec des colons frais.Alors, peut-être que cela vaut la peine de gagner quelques pièces supplémentaires?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_6jiI" value="Assurez-vous d'enregistrer votre retourneur auprès de Big Mamma, mec.Oh, et le gouvernement incite les agriculteurs locaux à soutenir les nouveaux arrivants." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_aD9j" value="Alors, ne soyez pas timide, rassemblez ces restes dans les sacs sur les champs et dans la ville." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_J35I" value="Ils les laissent intentionnellement à des gens comme vous.Bonne chasse!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_The_people_around_must_ve_seen" value="Les gens autour de l'explosion ont dû voir l'explosion, leur demander des détails." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_By_the_way__heard_the_governme" value="Soit dit en passant, entendu que le gouvernement paie une bonne pièce aux nouveaux arrivants pour se débarrasser de divers bestioles dans ces parties." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Rumor_has_it_they_ve_got_plans" value="La rumeur veut qu'ils aient l'intention de régler ce territoire sauvage avec des colons frais.Alors, peut-être que cela vaut la peine de gagner quelques pièces supplémentaires?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_They_intentionally_leave_them_" value="Ils les laissent intentionnellement à des gens comme vous.&#10;Bonne chasse!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_So__don_t_be_shy___gather_thos" value="Alors, ne soyez pas timide - rassemblez ces restes dans des sacs sur les champs et dans la ville." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_hub2_storage_bot" type="external">
+  <Key key="_npc_Storage_bot_to_your_service_" value="Bot de stockage à votre service." voice="Male" />
+</Node>

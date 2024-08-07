@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_natures_redemption" type="external">
+  <Key key="_npc_That_s_cool__man__We_ll_vibe_o" value="C'est cool, mec.Nous allons vibrer sans ça.Paix et amour!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Hey__no_sweat__The_universe_pr" value="Hé, pas de sueur.L'univers fournit, même si c'est un peu lent parfois." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_He_s_a_sweet_kid_but_a_bit_nai" value="C'est un enfant doux mais un peu naïf, donc vous pourriez avoir du bon temps de le convaincre de les rendre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_talk_npc" value="Parlez à Themis au fort" />
+  <Key key="_npc_It_s_crucial_for_our_cause__Bu" value="C'est crucial pour notre cause!Mais, hé, tu comprends, non?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goalVoice_Themis_should_be_easy_to_spot_" value="Themis doit être facile à repérer.Recherchez le garde innocent qui semble hors de propos.Attendez, ne devriez-vous pas être dans ce fort?C'est au sud-ouest de nous dans la forêt Duderino.N'oubliez pas, nous comptons sur vous.Par nous, je veux dire moi et l'univers.Et tous mes clients." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_ve_heard_that_Themis__the_ca" value="J'ai entendu dire que Themis, le fils du capitaine du sud-ouest pourrait être notre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_M_m_maybe_you_can_help_me_with" value="M-M-Maybe Vous pouvez m'aider avec quelque chose et prouver que vous êtes cool." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_uh____can_t_unlock_that_door" value="Je euh ... je ne peux pas déverrouiller cette porte pour vous.Sauf si vous êtes l'un des associés de confiance de Lightbringer!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__those_illegal_herbs__Yes__" value="Oh, ces herbes illégales?Oui, je pense que je les ai vus dans le stockage." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_H_Hello_there__Why_are_you_tal" value="H-Hello there! Why are you talking to me?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_You_re_a_lifesaver__I_just_kno" value="Tu es une bouée de sauvetage!Je sais juste qu'il passera." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_QuestActionAddToJournal_Mary_Jane_Greenpuff_Windreach_" value="Mary Jane Greenpuff&#10;Windreach Woods, Road House.&#10;&#10;Aidez Mary Jane Greenpuff à récupérer ses herbes confisquées du fort de Windreach Woods en parlant à Themis." />
+  <Key key="_npc_No_worries__dude__Maybe_next_t" value="Pas de soucis, mec.Peut-être que la prochaine fois, les vents cosmiques exploseront." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

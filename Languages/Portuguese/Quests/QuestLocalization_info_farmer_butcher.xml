@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_farmer_butcher" type="external">
+  <Key key="_npc_You_got_your_Spines__Large_Bon" value="Você tem seus espinhos, ossos grandes, processos xifóides e gordura animal.Esse é o seu pão e manteiga." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Don_t_go_hacking_away_as_soon_" value="Não vá invadir assim que encontrar um bom." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_You_split_carcasses_into_three" value="Você dividiu carcaças em três grupos: inferior, médio e prime.Cada um precisa de um conjunto diferente de habilidades." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_The_real_pros_can_spot_the_one" value="Os profissionais reais podem identificar os das melhores condições.Suas partes são o creme da colheita." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Butchering_ain_t_for_the_faint" value="Massacrar não é para os fracos de coração.É um negócio sujo e sangrento.E as bichos aqui não são seus animais de fazenda comuns." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_That_s_a_damn_shame_" value="Isso é uma pena." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Guess_you_ain_t_got_the_gonads" value="Guess you ain't got the gonads after all." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_What__you_chicken_" value="O que, seu frango?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_m_all_set_for_now__thanks_" value="Estou pronto por enquanto, obrigado." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Don_t_need_no_help_at_the_mome" value="Não precisa de ajuda no momento." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_ve_got_it_under_control__tha" value="Eu tenho isso sob controle, obrigado." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_ve_got_things_handled_for_no" value="Eu tenho as coisas tratadas por enquanto." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_If_it_works__I_ll_have_myself_" value="Se funcionar, terei uma nova geração de super-pig.Imagine o tamanho das costelas naquela besta!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Got_this_theory__I_reckon_I_ca" value="Consegui essa teoria.Eu acho que posso cruzar meus porcos com os mammothboars nas pastagens." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Think_you_can_head_up_to_the_S" value="Acha que você pode ir até as pastagens da clarabóia e me pegar um par de ... pares?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Ain_t_too_proud_to_accept_help" value="Não é muito orgulhoso de aceitar ajuda quando eu precisar." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Reckon_I_could_use_a_hand_" value="Acho que eu poderia usar uma mão." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Got_a_little_something_you_cou" value="Got a little something you could help with." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_ve_got_a_craft_bench_near_my" value="Eu tenho um banco de artesanato perto da minha casa que pode refinar algumas dessas coisas comuns em algo mais útil, como gordura cosmética ou osso do joalheiro." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Once__I_even_found_an_Elastic_" value="Uma vez, eu até encontrei uma membrana elástica.Ouvi dizer sobre um coração espancador, mas não tenho certeza se acredito." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_But_the_better_ones_might_have" value="Mas os melhores podem ter gônadas, bexigas adrenalina, sangue vivo ou olhos da besta." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Wolves_mostly_stick_to_the_Wes" value="Wolves mostly stick to the Westwind Woods. As for Boars, you can find them in the woods too, but they also wander around the Sunweave Glade and Skylight Grasslands." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Of_course__I_m_gonna_need_some" value="Of course, I'm gonna need some mammothboar gonads. That's where you come in." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_People_don_t_hang_around_here_" value="People don't hang around here long, and that's fine with me." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Uh__not_you_" value="Uh ... não você." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_You_wanna_learn_about_butchery" value="Você quer aprender sobre açougue?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Out_here__survivin__ain_t_just" value="Aqui, sobrevivente não está apenas vivendo.Significa saber o seu caminho em torno de uma lâmina de açougueiro também." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Wolves__Boars_and_even_Turtles" value="Lobos, javalis e até tartarugas - todos têm gordura animal.Bem, na maioria dos casos." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Backing_out__Well__the_wilds_a" value="Apacitando?Bem, os selvagens não são para todos." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_No_trouble__Just_remember__sur" value="Sem problemas.Lembre -se, as habilidades de sobrevivência são essenciais aqui." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Changed_your_mind__It_s_alrigh" value="Mudou sua mente?Está tudo bem, nem todo mundo está cortado para a caçada." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_The_name_s_Butch__Butch__Porkc" value="O nome é Butch, Butch 'Porkchop' O'Hara." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_m_the_best_pig_farmer_this_s" value="Eu sou o melhor agricultor de porcos deste lado de Elan, e o único açougueiro que você encontrará em Goldenfield." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Folks__round_here_don_t_unders" value="As pessoas por aqui não entendem a arte da criação de porcos.Mas eu, eu estou no jogo dos suínos desde que estava no joelho em um leitão." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Just_need_to_get_a_couple_s_no" value="Só preciso fazer com que os superlders intrometidos de um casal me deixem em paz." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Just_a_quiet_cabin_off_the_mai" value="Apenas uma cabana tranquila nas ruas principais.Meu pequeno santuário em Goldenfield." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Well__now_that_you_mention_it_" value="Bem, agora que você menciona ..." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Pigs_are_fed__butcher_s_block_" value="Os porcos são alimentados, o bloco de açougueiro está limpo e eu tenho uma cerveja gelada esperando por mim no final do dia." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_How_am_I__Well__I_m_covered_in" value="Como eu estou?Bem, estou coberto de merda de porco e cheirando a graxa de bacon.Então eu acho que estou fazendo apenas dândy." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Take_down_those_animals__then_" value="Retire esses animais, depois os açouguem para coletar gordura animal.Processe essa gordura na gordura cosmética no banco de criação - não é nada nisso" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Turtles__They_re_just_about_an" value="Tartarugas?Eles estão em qualquer lugar se você se deparar com isso.Mas nem todas as carcaças são adequadas para massacrar - essa é uma habilidade que você aprenderá em movimento." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Nobody_around_here_beats_my_me" value="Ninguém por aqui bate minha carne além de mim!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_If_you_re_pretty_green__I_woul" value="Se você for bem verde, eu tentaria ficar com os javalis por enquanto." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

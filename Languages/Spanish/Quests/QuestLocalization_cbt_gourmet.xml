@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_gourmet" type="external">
+  <Key key="_npc_I_uh____Well__alright__But_onl" value="Yo uh ... bueno, está bien.Pero solo porque es una situación grave.Soy aprendiz en la Universidad de Leithana.Un observador junior." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_goal_drop_item" value="Recopilar dispositivos de seguimiento de cuerpos de mosquitos" />
+  <Key key="_varDescription_CFni" value="Dispositivos de seguimiento" />
+  <Key key="_QuestActionAddToJournal_EIVk" value="ELARA Brightfall&#10;Goldenfield, al oeste de la granja de pollos&#10;&#10;Mata mosquitos y traiga los dispositivos de rastreo de sus cuerpos a Elara" />
+  <Key key="_goal_back_npc" value="Traiga los dispositivos de seguimiento al estudiante" />
+  <Key key="_npc_Oh__that_s_fine__I_m_not_press" value="Oh eso está bien.No te estoy presionando.Solo tómese su tiempo, pero sepa que seré expulsado de la universidad si no traigo a los rastreadores de vuelta." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Really__Great__But_if_you_meet" value="¿En realidad?¡Excelente!Pero si conoce a otros observadores o censores, no les cuente sobre nuestro pequeño acuerdo." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Sorry__Oh____Hello_there__" value="¿Lo siento?Oh hola." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_It_d_mean_everything_to_me__if" value="Me referiría a todo para mí, si mataste a estos mosquitos y obtuviste los dispositivos de rastreo de ellos." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Oh__I_owe_you_big_time__If_you" value="¡Oh, te debo a lo grande!Si alguna vez estás en Leithana, pase por la universidad.Te daré un pase de visitante y te mostraré." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Wait__I_would_really_appreciat" value="¡Esperar!¡Realmente apreciaría tu ayuda!" voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_You_know__you_re_doing_a_good_" value="Sabes, estás haciendo algo bueno.¿Tienes todos ellos?" voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_goalVoice_fetm" value="Me referiría a todo para mí, si mataste a estos mosquitos y obtuviste los dispositivos de rastreo de ellos." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_I_was_supposed_to_study_the_be" value="Se suponía que debía estudiar los patrones de comportamiento del Gnaticus Prolificus, o los mosquitos mientras usted, la gente de la aldea, los llaman." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Oh__Sure__I___I_understand__Yo" value="Oh.Seguro.Yo ... lo entiendo.Tienes tus propias cosas de pueblo que hacer, ¿verdad?Sí.Estoy tan maldito." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Gosh__if_I_mess_it_up__the_Mas" value="Oh, Dios, si me equivoco, el censor maestro definitivamente me enviará a una expedición a los ardientes campos.Entonces, sí, aquí estoy pidiendo ayuda a un laico." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_I_put_tracking_devices_on_youn" value="Puse dispositivos de seguimiento en mosquitos jóvenes y ahora tengo sus patrones de comportamiento, pero no tengo los dispositivos de seguimiento." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_They_cost_a_fortune_for_our_de" value="Cuestan una fortuna para nuestro departamento.Nunca pensé que estos mosquitos serían tan intimidantes en la vida real." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Well__it_s____I_m_not_really_s" value="Bueno, es ... No se supone que deba compartir ninguna información con laicos." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+</Node>

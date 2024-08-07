@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_snzy" type="external">
+  <Key key="_npc_I_m_SNZY__an_oily__sneezing_me" value="Eu sou Snzy, uma bagunça oleosa, espirrando." />
+  <Key key="_npc_Ah_choo__Specialist_in_alien_f" value="AH-CHOO!Especialista em flora e fauna alienígenas." />
+  <Key key="_npc_Due_to_a_wiring_mishap__I_ende" value="Devido a um acidente de fiação, acabei espirrando petróleo constantemente." />
+  <Key key="_npc_It_s_ah_choo__a_unique_problem" value="É AH-CHOO!Um problema único, para dizer o mínimo." />
+  <Key key="_npc_My_mission__Research_and_explo" value="Minha missão?Pesquise e explore, apesar do Ah-Choo!Soluços." />
+  <Key key="_npc_Well__I_ve_seen_better_days__C" value="Bem, eu já vi dias melhores.O óleo de espirros constantemente pode ser ... desafiador." />
+  <Key key="_npc_This_local_pollen_has_my_circu" value="Este pólen local tem meus circuitos em uma torção.AH-CHOO!" />
+  <Key key="_npc_Every_breath_feels_like_a_new_" value="Cada respiração parece um novo teste para meus filtros embutidos." />
+  <Key key="_npc_Despite_the_oil_sneezes__my_sp" value="Apesar das espirradas do petróleo, meu espírito permanece intimidado.A pesquisa não espera por ninguém!" />
+  <Key key="_npc_My_systems_are_functional__if_" value="Meus sistemas são funcionais, se um pouco confusos de todo esse espirro.AH-CHOO!" />
+  <Key key="_npc_Keeping_busy_with_my_research_" value="Manter -me ocupado com minha pesquisa me ajuda a esquecer o espirro ... por um momento, pelo menos." />
+  <Key key="_npc_Ah_choo__This_is_Riverrise__a_" value="AH-CHOO!Este é o Riverrise, uma cidade vibrante aninhada de natureza." />
+  <Key key="_npc_You_re_near_City_Enter_1__a_bu" value="Você está perto da cidade, entra 1, um portão movimentado com muito para explorar." />
+  <Key key="_npc_It_s_a_hotspot_for_studying_un" value="É um ponto de acesso para estudar flora e fauna únicas, apesar do pólen." />
+  <Key key="_npc_Plenty_of_research_opportuniti" value="Muitas oportunidades de pesquisa aqui, mesmo que Ah-Choo!Está tributando meus circuitos." />
+  <Key key="_npc_Not_currently_ah_choo__but_tha" value="Atualmente, não está ah-choo!Mas obrigado de qualquer maneira." />
+  <Key key="_npc_Managing_alright__despite_the_" value="Gerenciando tudo bem, apesar do óleo espiritual." />
+  <Key key="_npc_Appreciate_it__but_I_m_good_fo" value="Agradeço, mas sou bom por enquanto.AH-CHOO!" />
+  <Key key="_npc_No_urgent_needs_at_the_moment_" value="Nenhuma necessidade urgente no momento, espirra ou não." />
+  <Key key="_npc_Ah_choo__Yes__actually__I_do_" value="AH-CHOO!Sim, na verdade, eu faço!" />
+  <Key key="_npc_I_d_really_appreciate_some_ass" value="Eu realmente apreciaria alguma assistência, especialmente com este óleo espirituoso." />
+  <Key key="_npc_Oil_sneezes_aside__yes__your_h" value="O petróleo espirra à parte, sim, sua ajuda seria ótima." />
+  <Key key="_npc_I_could_use_a_hand__if_you_don" value="I could use a hand, if you don't mind the mess. Ah-choo!" />
+</Node>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_yogas_routine_problem" type="external">
+  <Key key="_npc_You_re_a_lifesaver__my_friend_" value="Tu es une bouée de sauvetage, mon ami.N'oubliez pas que les œufs doivent être frais et ininterrompus!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Remember__keep_the_eggs_intact" value="N'oubliez pas, gardez les œufs intacts!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_How_goes_the_quest_for_the_egg" value="Comment se passe la quête des œufs?" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Those_eggs_better_be_fresh_and" value="Ces œufs feraient mieux d'être frais et ininterrompus lorsque vous les ramenez!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_goal_collect_eggs" value=" " />
+  <Key key="_QuestActionAddToJournal_C3Lr" value="Guru David&#10;Goldenfield, Lake Yoga&#10;&#10;Collectez 10 œufs pour le petit déjeuner de Guru David." />
+  <Key key="_goalVoice_I_need_10_fresh_eggs_for_my_br" value="J'ai besoin de 10 œufs frais pour mon petit déjeuner!Vous pouvez les trouver chez les agriculteurs locaux.Visitez les fermes locales et rassemblez 10 œufs.Les fermes locales sont connues pour leurs produits frais.Assurez-vous d'obtenir les œufs sans provoquer de chahut!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_varDescription_AQJG" value="Recueillir les œufs" />
+  <Key key="_varDescription_QX5R" value="Recueillir les œufs" />
+  <Key key="_npc_You_did_it__The_eggs_are_perfe" value="Tu l'as fait!Les œufs sont parfaits.Voici votre récompense, et que votre chi soit jamais équilibré!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Excellent_work__Here_s_the_Tal" value="Excellent travail!Voici le cube de renouvellement des talents.Utilisez-le pour réinventer vos compétences passives sans perdre vos progrès ou votre expérience." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Great_job__These_eggs_will_mak" value="Bon travail!Ces œufs feront un petit déjeuner fantastique.Prenez ce cube de renouvellement de talent comme un signe de ma gratitude." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+</Node>

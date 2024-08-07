@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_portal_purge_parade" type="external">
+  <Key key="_npc_Hehe__more_for_me__then__I_ll_" value="Hehe, plus pour moi, alors!Je devrai aller me présenter aux résidents locaux de manière plus personnelle." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Well__butter_my_gears_and_call" value="Eh bien, beurre mes engrenages et appelez-moi Rusty, c'est un no-go alors!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Ah__the_thrill_of_bloodshed_sh" value="Ah, le frisson de Bloodshed attendra un autre jour!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__don_t_worry__I_ll_just_fin" value="Oh, ne t'inquiète pas.Je vais juste trouver quelqu'un d'autre avec un goût pour le chaos et le carnage." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goalVoice_Hehehe__these_creatures_are_ju" value="Hehehe, ces créatures ont juste la hâte de vous rencontrer!Cherchez-les et rappelez-vous que tout est au nom de l'équilibre, non?Tuez un dendroid, une araignée et un bois." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_m_talking_a_Dendroid__a_Spid" value="Je parle d'un dendroid, d'une araignée et d'un bois." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Your_exhilarating_task_is_to_h" value="Votre tâche exaltante est de chasser ces êtres particuliers et de m'apporter leur essence.Un de chacun, s'il vous plaît!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_FINALLY__We_can_finally_restor" value="ENFIN.Nous pouvons enfin restaurer l'équilibre et s'ouvrir.LE.PORTAIL.Juste après une chose de plus." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_The_creatures_of_Kwalat_need_t" value="Les créatures de Kwalat doivent être ... ahem, sacrifiées.Nous devons les féliciter pour leur contribution, puis, eh bien, les retirer de l'existence!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Enjoy_" value="Apprécier!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh_shit__nothing_happened_" value="Oh merde, rien ne s'est passé." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_kill_mob_spider" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_kill_mob_timbers" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_talk_npc" value="Retour à Driscoll-99" />
+  <Key key="_goal_kill_mob_dendroid" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Uh__in_exchange_for_not_hurtin" value="Euh, en échange de ne pas me faire de mal, pourquoi ne pas euh ... prenez cette pièce d'artefacte et ne parlez jamais à personne." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_NIKTO_" value="Nikto!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc____" value="..." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_KLAATU___" value="Klaatu ..." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_varDescription_Kill_Dendroid" value="Tuer dendroid" voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Kill_Timber" value="Tuer le bois" voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Kill_Spider" value="Tuer Spider" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_Driscoll_99__Weswind_Woods__Ol" value="Driscoll-99&#10;Weswind Woods, Old Portal.&#10;&#10;Aider Driscoll-99 pour nettoyer la forêt des créatures dangereuses pour stabiliser l'ancien portail." voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_What_a_shame__The_portal_will_" value="Quelle honte!Le portail devra simplement rêver de sa grande réouverture un peu plus longtemps." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_BARADA___" value="Barada ..." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_With_these_words__I_ll_open_th" value="Avec ces mots, je vais ouvrir le portail et tuer.toi.tous!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_You_fool__You_don_t_know_what_" value="Idiot!Vous ne savez pas ce que vous avez fait!Muahaha!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_FINALLY__NOW_THE_RITUAL_CAN_BE" value="ENFIN!Maintenant, le rituel peut commencer!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Splendid__A_little_massacre_al" value="Splendide!Un petit massacre égaye toujours l'humeur!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+</Node>

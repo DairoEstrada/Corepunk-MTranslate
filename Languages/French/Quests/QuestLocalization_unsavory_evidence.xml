@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_unsavory_evidence" type="external">
+  <Key key="_npc_Shit__you_re_gonna_leave_me_ha" value="Merde, tu vas me laisser accrocher?Nous sommes tous les deux foutus si Triton m'implique!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Don_t_back_out_now__damn_it__T" value="Ne reculez pas maintenant, bon sang!Cela pourrait sauver mon cul." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_What_the_FUCK__We_need_to_move" value="Qu'est-ce que ça?Nous devons nous déplacer rapidement avant que Triton ne pointe le doigt vers moi." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Are_you_fucking_kidding_me__Th" value="Are you fucking kidding me? This is serious!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_goalVoice_Don_t_fuck_this_up__Head_to_th" value="Ne baisez pas ça!Dirigez-vous vers la maison abandonnée sur la colline pour la casserole et ce délicieux ... Je veux dire une recette tordue pour le ragoût de bébé.Vous trouverez la maison juste au nord-ouest de Windstone Village!Après, rappelez-vous que Quaridor Vex est votre dernier arrêt.Il patrouille près de la garde dans le village de West Windstone." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_goal_collect_suspicious" value=" " />
+  <Key key="_goal_collect_recipe" value=" " />
+  <Key key="_goal_talk_npc" value="Bring to Quaridor Vex" />
+  <Key key="_npc_He_ll_have_your_last_task_to_g" value="Il aura votre dernière tâche pour recueillir plus de preuves." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_You_ll_need_to_find_a_pan_and_" value="Vous devrez trouver une casserole et, de toutes choses, une recette pour le ragoût de bébé.Je sais que cela semble fou, mais il suffit d'obtenir ces articles et de les amener à Quaridor." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_DON_T_ASK_ME_HOW_I_KNOW_THAT_" value="Ne me demandez pas comment je le sais!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_I_need_you_to_head_to_the_aban" value="J'ai besoin que vous vous dirigez vers la maison abandonnée sur la colline juste au nord-est du village.Triton l'utilise pour ses ... séances de cuisine foirées." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_I_m_worried_he_s_going_to_impl" value="I'm worried he's going to implicate me if we don't act fast. Boss says gathering this evidence gives me immunity." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Alright__we_ve_got_a_fucked_up" value="Alright, we've got a fucked-up job to do. Triton's been up to some real shit, and we need to gather evidence against him." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_QuestActionAddToJournal_Gusto_Grubhunter_Windstone_Vil" value="Gusto Grubhunter&#10;Windstone Village, Guard's place: south west.&#10;&#10;Help Gusto Grubhunter gather evidence against Triton by retrieving a pan, a recipe for baby stew, and bringing it to Quaridor Vex." />
+  <Key key="_npc_Seriously__Fucking_seriously__" value="Sérieusement?Putain sérieusement?C'est à faire pour moi, tu comprends ça?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_varDescription_Collect_Suspicious_Pan" value="Collect Suspicious Pan" />
+  <Key key="_varDescription_Collect__Baby_Stew_Recipe_" value="Collectez &quot;Baby Stew Recepe&quot;" />
+  <Key key="_npc_Or_would_you_guess_I_have_one_" value="Ou devinez-vous que j'ai un dernier élément de preuve à trouver?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_You_d_think_that_d_be_the_end_" value="On pourrait penser que ce serait la fin, non?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Isn_t_this_exactly_what_we_nee" value="N'est-ce pas exactement ce dont nous avions besoin?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Is_this_the_evidence_the_boss_" value="Est-ce la preuve que le patron demandait?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Boss_says_gathering_this_evide" value="Boss says gathering this evidence gives me immunity. AND THAT'S REALLY IMPORTANT RIGHT NOW." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+</Node>

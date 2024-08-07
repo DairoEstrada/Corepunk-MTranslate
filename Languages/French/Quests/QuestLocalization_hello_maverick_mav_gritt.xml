@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_maverick_mav_gritt" type="external">
+  <Key key="_npc_Dag_nabbit_" value="Dag Nabbit!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_What_in_tarnation__" value="Qu'est-ce qui dans la tarnation ?!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_You_gotta_be_kiddin__me_" value="Tu dois me garder!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Sons_of_guns_" value="Fils d'armes!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Y_all_better_watch_out_" value="Vous feriez mieux de faire attention!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Ain_t_got_time_for_this_" value="N'a pas le temps pour ça!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Reckon_I_m_mad_" value="Respectez que je suis fou!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Dang_it__Rusty_" value="Dang it, rouillé!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Son_of_a_" value="Fils de" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_McDrinkit__I_ll_get_you_" value="McDrinkit, je vais vous avoir!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Not_again_" value="Pas encore!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_What_the_hell__" value="Que diable?!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_God_s_almighty_" value="Le Tout-Puissant de Dieu!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_You_gotta_be_shittin__me_" value="Tu dois me faire du shittin!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Hell_s_bells_" value="Les cloches des enfers!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Son_of_a_bitch_" value="Fils de pute!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Damn_it_to_hell_" value="Merde à l'enfer!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_That_goddamn_bot_" value="Ce putain de bot!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_This_can_t_be_real_" value="Cela ne peut pas être réel!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+</Node>

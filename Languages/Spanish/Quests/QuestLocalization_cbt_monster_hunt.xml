@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_monster_hunt" type="external">
+  <Key key="_npc_Here_you_go__Just_put_it_in_fr" value="Aquí tienes.Simplemente colóquelo frente a la cueva del oso y reza por tu vida." voice="Male" />
+  <Key key="_goal_collect_meat" value="Encuentra un cebo para el oso" />
+  <Key key="_varDescription_b46N" value="Found" />
+  <Key key="_QuestActionAddToJournal_UKDb" value="Ahora tengo que encontrar algo para atraer al oso de su guarida.Por ahora es la carne de los lobos.Este lobo se puede encontrar al sur desde aquí." />
+  <Key key="_npc__Ogromnyy_byl" value="Mataste al oso.Esto es más admirable.Tal vez algún día puedas convertirte en miembro del Gran Gremio de Hunter." voice="Male" />
+  <Key key="_goal_speak_back" value="Habla con el gran cazador" />
+  <Key key="_QuestActionAddToJournal_TTvi" value="Tengo la carne.Debería llevarlo al Gran Cazador, para que él hiciera un cebo de él." />
+  <Key key="_npc_Teper__sdelaem_primanku_s_etog" value="Bien, esta carne debería hacer.Déjame hacer un buen cebo." voice="Male" />
+  <Key key="_goal_collect_sticks" value="Encuentra una madera de soporte" />
+  <Key key="_varDescription_MS3r" value="Found" />
+  <Key key="_goal_collect_poison" value="Encuentra la planta venenosa" />
+  <Key key="_varDescription_NgJj" value="Found" />
+  <Key key="_goal_sticks_poison" value="Habla con el gran cazador" />
+  <Key key="_npc_nays_palki" value="Bien, has traído palos y veneno.Voy a hacer una sopla.Mientras lo hago, necesitarás algún tipo de cebo para atraerlo.Este oso se siente atraído por la carne fresca, por lo que debes cazar algunos animales pequeños.Trae su carne a mí." voice="Male" />
+  <Key key="_goal_bear_zone" value="Encuentra la cueva del oso" />
+  <Key key="_QuestActionAddToJournal_VqGc" value="Ahora, que tengo todos los ingredientes para una buena caza, tengo que ir y morir de las garras del oso asesino, supongo.Primero, tengo que encontrar la cueva del oso.Está al oeste desde aquí." />
+  <Key key="_goal_use_meat" value="Usa el señuelo" />
+  <Key key="_QuestActionAddToJournal_Ekzf" value="Este lugar se ve bastante bien.Tengo que cambiarlo usando el cebo para atraer al oso.Debo recordar que puedo usar el soplo contra el oso para debilitarlo." />
+  <Key key="_goal_kill_bera" value="Derrota al oso asesino" />
+  <Key key="_QuestActionAddToJournal_ddiS" value="¡Mátalo! ¡Mátalo! ¡Mátalo!" />
+  <Key key="_goal_collect_fang" value="Recoge el colmillo de oso asesino" />
+  <Key key="_QuestActionAddToJournal_YZss" value="De alguna manera lo hice de alguna manera.Maté al oso asesino.Ahora tengo que conseguir su colmillo." />
+  <Key key="_goal_end_quest" value="Trae el colmillo al gran cazador" />
+  <Key key="_QuestActionAddToJournal_eQwq" value="Y llévelo al cazador." />
+  <Key key="_npc_I_m_Douglas_the_Great_Hunter__" value="Soy Douglas el gran cazador.Miembro del Gran Guild Hunters." voice="Male" />
+  <Key key="_npc_Only_the_best_of_the_hunters_c" value="Solo lo mejor de los cazadores puede convertirse en miembros del gremio.Ahora mismo estoy en mi caza más ambiciosa.Estoy cazando el oso asesino que se rumorea que deambula por el lugar." voice="Male" />
+  <Key key="_npc_Huh__I_ve_spent_two_years_tryi" value="¡Eh!He pasado dos años tratando de cazarlo.Pero, por supuesto, puede probar suerte." voice="Male" />
+  <Key key="_npc_But_there_s_no_chance_you_can_" value="Pero no hay posibilidad de que puedas manejar este oso.Ha matado a muchos buenos cazadores.Hace mucho que he estado buscando una manera de debilitarlo de alguna manera.He oído que el sábado local debería saber algo al respecto.Pero no puedo ganar su confianza." voice="Male" />
+  <Key key="_npc_Actually__this_time_I_ll_tell_" value="En realidad, esta vez te diré cómo elaborar un arma especial para debilitar al oso.Tienes que encontrar una pieza de madera adecuada.Simplemente corte un árbol o algo.Después de eso, encuentre una planta venenosa.Entonces déless y me elaboraré el arma para ti." voice="Male" />
+  <Key key="_npc_Here_s_your_blowgun__Aim_at_th" value="Aquí está tu soplo.Apuntar al oso y el golpe.Debería debilitarlo.Buena suerte." voice="Male" />
+  <Key key="_QuestActionAddToJournal_UQuS" value="Bien, tengo un poco de madera y plantas venenosas.Debería darlos al gran cazador, para poder hacer un arma de ellos." />
+  <Key key="_QuestActionAddToJournal_C4qZ" value="Bien, tengo un poco de madera y plantas venenosas.Debería darlos al gran cazador, para poder hacer un arma de ellos." />
+  <Key key="_QuestActionAddToJournal_8S1e" value="He conocido a un gran cazador del Gran Gremio de Hunters.Él busca un oso asesino que se dice que habita este bosque.Por alguna razón me ofrecí como voluntario para participar en esta caza.Así que ahora tengo que encontrar una pieza de madera adecuada para hacer una pistola y algunas plantas venenosas para hacer proyectiles para la punzada.La madera se puede obtener cortando árboles y la planta venenosa crece en el bosque verde, muy al oeste de aquí." />
+  <Key key="_varDescription_fVhh" value="Recolectar" />
+  <Key key="_varDescription_TJd0" value="Recolectar" />
+  <Key key="_varDescription_JebS" value="Recolectar" />
+  <Key key="_npc_Poteryal_" value="¿Entonces?" voice="Male" />
+  <Key key="_npc_Primanku_govorish___na_derzhi" value="Claro, tengo muchos de esos.Aquí tienes." voice="Male" />
+  <Key key="player_I_lost" value="Perdí uno de los artículos que me diste." />
+  <Key key="_npc_nu_koroche_tam_to_tam" value="Puedes encontrar la planta venenosa al oeste desde aquí, en un bosque." voice="Male" />
+  <Key key="_npc_Myaso_tam" value="Para encontrar el cebo del oso, tienes que matar a un animal maloliente y sacar algo de él.Por ahora, es un lobo.Tienes que conseguir la carne de los lobos." voice="Male" />
+  <Key key="_npc_Zona_medvedya_tam" value="Se rumorea que el oso asesino fue visto al oeste desde aquí.Estos osos generalmente viven en cuevas, así que busca uno." voice="Male" />
+</Node>

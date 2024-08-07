@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_npc_v2_q_b_officer" type="external">
+  <Key key="_npc_Hello__civilian_" value="Olá, civil." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+  <Key key="_npc_What_is_it__civilian_" value="O que é, civil?" voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
+</Node>

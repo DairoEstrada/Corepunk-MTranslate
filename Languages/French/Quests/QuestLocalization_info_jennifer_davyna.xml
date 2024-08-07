@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_jennifer_davyna" type="external">
+  <Key key="_npc_I_m_Jennifer_Davyna__Riverrise" value="Je suis Jennifer Davyna, la plus belle garde de Riverrise et le connaisseur non officiel du feuilleton.Tu peux m'appeler Jen." />
+  <Key key="_npc_Got_mistaken_for_a_dude_once_a" value="S'est trompé avec un mec une fois et hexaté par Sirena Hexblade.Vous avez perdu un rein, mais bon, qui a besoin de deux?" />
+  <Key key="_npc_Dialysis_between_shifts__Just_" value="Dialyse entre les quarts de travail?Juste un autre jour de la vie.Il construit du caractère." />
+  <Key key="_npc_I_stand_here__guard_the_exit__" value="Je me tiens ici, garde la sortie et rêve de romans épiques à l'écran." />
+  <Key key="_npc_I_mean__who_else_knows_the__Et" value="Je veux dire, qui d'autre connaît les épisodes de &quot;battements cardiaques éternels&quot; par cœur et peut manier une épée comme une extension du bras?Juste moi." />
+  <Key key="_npc_I_m_holding_strong__thanks_for" value="Je tiens fort, merci d'avoir demandé.En espérant que Sirena obtienne ce qui vient à elle." />
+  <Key key="_npc_I_mean__do_I_really_look_like_" value="Je veux dire, est-ce que je ressemble vraiment à un mec?" />
+  <Key key="_npc_Her_curse_is_a_burden__but_I_w" value="Sa malédiction est un fardeau, mais je ne le laisserai pas me définir." />
+  <Key key="_npc_The_dialysis_sessions_are_toug" value="Les séances de dialyse sont difficiles, mais ils sont un petit prix à payer pour continuer à faire ce que j'aime ... Garde Riverrise." />
+  <Key key="_npc_This_is_Riverrise__a_haven_ami" value="C'est Riverrise, un paradis au milieu du désert." />
+  <Key key="_npc_It_s_a_bustling_town_where_cra" value="C'est une ville animée où l'artisanat est notre sang-froid, et vous pouvez voir ce dévouement partout." />
+  <Key key="_npc_The_Northwest_exit__where_I_st" value="La sortie du Nord-Ouest, où je me tiens, est cruciale.C'est une passerelle et une barricade contre l'inattendu." />
+  <Key key="_npc_Life_here_is_a_mix_of_tranquil" value="La vie ici est un mélange de tranquillité et de vigilance, garantissant que notre communauté prospère au milieu des dangers de Kwalat." />
+  <Key key="_npc_All_is_under_control__thank_yo" value="Tout est sous contrôle, merci." />
+  <Key key="_npc_Not_at_the_moment__but_your_of" value="Pas pour le moment, mais votre offre est appréciée." />
+  <Key key="_npc_No_need_right_now__but_I_m_gra" value="Pas besoin pour le moment, mais je suis reconnaissant pour l'offre." />
+  <Key key="_npc_I_ve_got_it_covered_for_now__t" value="Je l'ai couvert pour le moment, merci." />
+  <Key key="_npc_I_do__actually__Could_use_some" value="Je le fais, en fait.Pourrait utiliser quelqu'un avec vos compétences." />
+  <Key key="_npc_Yes__there_s_something_you_mig" value="Oui, il y a quelque chose avec lequel vous pourriez vous aider." />
+  <Key key="_npc_Indeed__there_s_a_matter_that_" value="En effet, il y a une question qui a besoin d'attention." />
+  <Key key="_npc_I_could_use_a_hand__if_you_re_" value="Je pourrais utiliser une main, si vous le souhaitez." />
+</Node>

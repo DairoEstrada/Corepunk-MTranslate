@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_cbt_to_winery" type="external">
-  <Key key="_npc_Now_go_back_to_the_village_eld" value="Ahora ve a la antigua bodega. Está en algún lugar al este de la aldea." voice="Male" />
-  <Key key="_goal_go_to_npc" value="Ir a la bodega y hablar con alguien" />
-  <Key key="_QuestActionAddToJournal_aTcs" value="Elder dice algo sobre la bodega.Necesito comprobarlo.Está ubicado en algún lugar del este desde el pueblo." />
-  <Key key="_goalVoice_PKXb" value="Ahora ve a la antigua bodega. Está en algún lugar al este de la aldea." voice="Male" />
-  <Key key="_npc_Well_done__You_have_achieved_y" value="¿Vino?¿Quién dice vino?Soy especialista en vinos.Como sumiller, simplemente no distinga el sabor." voice="Male" />
-</Node>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_fishy_summons" type="external">
+  <Key key="_goalVoice_Triton_need_notes_from_lakehou" value="Triton a besoin de notes de Lakehouse.Pas oublier!Big Man Hauwny attend les papiers.Servez-le bien!Trouvez la musculation près de Gym à Windstone Village.Triton a paré qu'il fléchit les muscles comme il Conan!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_fear_papers__Triton_chuckl" value="Vous craignez les papiers?Triton glousse." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_not_like_weaklings__Tri" value="Triton n'aime pas les faibles.Triton mange ton bébé?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_need_you_get_notes_from" value="Triton a besoin que vous obteniez des notes de Lakehouse.Notes IMPORTANTES.Triton doit les montrer pour un procès." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_is_ready_to_sue__They_h" value="Triton est prêt à poursuivre.Ils ont des papiers à dire!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Then_give_Brawny_Barrelbuckle_" value="Ensuite, donnez à Brawny Barrelbuckle ces papiers légaux.Triton en avait assez de lui être Fuckwad." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Apporter à Barelbuckle musclé" />
+  <Key key="_npc_Now__I_just_need_your_help_dis" value="Maintenant, j'ai juste besoin de votre aide pour distraire cette créature." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_All_the_same__you_did_your_job" value="Tout de même, vous avez fait votre travail.Voici votre récompense." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_I_ve_faced_tougher_opponents_i" value="J'ai affronté des adversaires plus durs sur le ring.Je vais le transformer en sushimi!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_QuestActionAddToJournal_Triton_Windreach_Woods__Lake_h" value="Triton&#10;Windreach Woods, Lake House.&#10;&#10;Aidez Triton à servir des papiers juridiques à Brewny Barrelbuckle en collectant 3 notes importantes du Lakehouse." />
+  <Key key="_npc_No_gut__Triton_find_someone_br" value="Pas d'intestin?Triton trouve quelqu'un de courageux!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_varDescription_Collect_Triton_s_Legal_Summons" value="Recueillir la convocation juridique de Triton" />
+  <Key key="_npc_You_re_telling_me_that_slipper" value="Tu me dis que Slippery Slob me poursuit?Scandaleux!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_What_s_this_all_about_" value="Qu'est-ce que tout cela signifie?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Triton_knew_you_brave__Fetch_n" value="Triton savait que tu es courageux!Retroncez des notes d'abord, puis montrez un procès officiel Big Man Brawny.Ha!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+</Node>

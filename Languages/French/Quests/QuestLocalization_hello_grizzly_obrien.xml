@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_grizzly_obrien" type="external">
+  <Key key="_npc_What_now___" value="Et maintenant..." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Yeah__yeah__alright_" value="Ouais, ouais, d'accord." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_You_again_" value="Toi encore?" voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Hmph__greetings_" value="HMPH, salutations." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Oh__it_s_you_" value="Oh c'est toi." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+  <Key key="_npc_Well__look_who_it_is_" value="Eh bien, regardez qui c'est." voiceSettingsId="Fp4GN1KeQeQXRTIM2g2Q" />
+</Node>

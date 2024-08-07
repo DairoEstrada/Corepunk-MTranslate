@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_fateful_bet" type="external">
+  <Key key="_npc_A_missed_opportunity_for_me_to" value="Une occasion manquée pour moi de pratiquer mon talent artistique, mais telle est la vie!" voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_No_worries__I_guess_time_sensi" value="Pas de soucis.Je suppose que les questions juridiques sensibles au temps peuvent attendre." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Pzgb" value="Ver à soie" />
+  <Key key="_npc_Should_you_manage_to_procure_s" value="Si vous parvenez à en acheter et à le lui livrer, je pourrais trouver le temps de donner un coup de main." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goal_talk_npc" value="Retour à Durzo &quot;Dicey&quot; Dunwaddle" />
+  <Key key="_npc_One_such_disruption_is_Durzo__" value="L'une de ces perturbations est Durzo 'Dicey' Dunwaddle, un gardien qui pourrait utiliser des vers à soie frais pour concocter ses traitements faciaux." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_From_what_I_hear__it_s_not_the" value="D'après ce que j'entends, ce n'est pas le seul visage qu'il obtient." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goalVoice_To_set_the_wheels_in_motion_fo" value="Pour mettre les roues en mouvement pour notre effort juridique, apportez des vers à soie fraîches à Dicey à Windstone Village.Chaque ride raconte une histoire, mais n'en faisons pas une histoire d'horreur, d'accord?" voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_I_d_be_keen_on_supporting_such" value="Je voudrais soutenir une telle cause, mais mon horaire est plutôt ... encombré." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Ah__you_re_here_about_Triton_s" value="Ah, vous êtes ici au sujet du procès de Triton contre ces monstres.Tout à fait le cas particulier, je dois dire." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Whatever__at_least_it_s_someth" value="Quoi qu'il en soit, au moins c'est quelque chose.Prenez ceci et dites au bon docteur que nous sommes carrés." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_I_guess_I_can_t_complain_about" value="Je suppose que je ne peux pas me plaindre de vers frais, bien que je préfère mon putain d'argent." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Are_these_worms_valuable__Is_i" value="Ces vers sont-ils précieux?Est-ce un message?Qu'est-ce que c'est que ce type ..." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_QuestActionAddToJournal_Dr__Glimmiwop_Goldenfield__Dis" value="Dr Glimmiwop&#10;Goldenfield, ferme lointaine.&#10;&#10;Apportez Durzo 'Dicey' Dunwaddle 5 vers de silkwars frais au nom du Dr Glimmiwop." />
+  <Key key="_npc_Perhaps_next_time_you_ll_be_re" value="Peut-être que la prochaine fois, vous serez prêt pour une expérience transformatrice." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_varDescription_Silkworms" value="Ver à soie" />
+  <Key key="_npc_So__this_is_Glimmiwop_s_way_of" value="Donc, c'est la façon de Glimmiwop de payer sa dette de poker?Intéressant ... J'avais autre chose en tête." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Did_Dr__Glimmiwop_send_you_the" value="Le Dr Glimmiwop vous a-t-il envoyé alors?Comment notre petit pari s'est-il déroulé?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Excellent__Let_s_snip_and_scul" value="Excellent.Sniftons et sculptons votre chemin vers le succès, ma chère." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+</Node>

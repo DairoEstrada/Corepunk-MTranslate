@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_erwin_bacon_king_braux" type="external">
+  <Key key="_npc_Nice_to_meat_you_" value="Enchanté!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Fresh_cuts_today_" value="Des coupes fraîches aujourd'hui!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Flavor_town_awaits_" value="La ville de saveur vous attend!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Sizzling_deals_inside_" value="Offres grésillantes à l'intérieur!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Juicy_day__ain_t_it_" value="Juité, n'est-ce pas?" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Bacon_your_pardon_" value="Bacon votre pardon?" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Slice_of_heaven_" value="Coin de paradis!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Grill_and_thrilllll_" value="Grill et Thrilllll!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+</Node>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hwy_hub3_ecologist" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Well__I_can_tell_you_for_sure_" value="Eh bien, je peux vous dire à coup sûr, - c'est l'endroit le plus vert de cette planète!" voice="Male" />
+  <Key key="_npc_Hello__I_m_an_ecologist__My_ta" value="Bonjour!Je suis écologiste.Ma tâche est d'assurer la sécurité environnementale de cette région.C'est dans un grand danger maintenant!" voice="Male" />
+  <Key key="_npc_Oh__don_t_even_ask__Stressed_o" value="Oh, ne demandez même pas.Stressé.Toutes ces ordures peuvent détruire notre forêt!" voice="Male" />
+</Node>

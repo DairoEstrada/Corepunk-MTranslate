@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_cosmic_coordinates" type="external">
+  <Key key="_QuestActionAddToJournal_Vsuq" value="Dr Orion Bloom&#13;&#10;Goldenfield, tente près de la route.&#10;&#10;Le Dr Bloom a été séparé de son équipage après une collision cosmique et a besoin de votre aide pour leur livrer ses coordonnées." />
+  <Key key="_npc_Any_luck_finding_my_crew_" value="Une chance de trouver mon équipage?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__if_you_find_an_astro" value="N'oubliez pas que si vous trouvez un astronaute, donnez-leur les coordonnées!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Thank_you__friend__for_this_gi" value="Merci, ami, pour ce cadeau d'espoir.Je ne peux pas exprimer à quel point je suis reconnaissant." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_goalVoice_Remember__if_you_bump_into_an_" value="N'oubliez pas que si vous tombez dans un astronaute, donnez-leur ces coordonnées." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_find_another_astronaut" value="Livrer les coordonnées du Dr Bloom" />
+  <Key key="_npc_Great__You_re_a_real_lifesaver" value="Super!Vous êtes une vraie bouée de sauvetage.Ou ... un livraison de vie?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You___you_found_Dr__Bloom__You" value="Vous ... vous avez trouvé le Dr Bloom?Vous n'avez aucune idée de ce que cela signifie pour moi!" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Just_knowing_he_s_alive__it_s_" value="Sachant juste qu'il est vivant, c'est comme ... comme trouver de l'espoir au milieu de ce gâchis cosmique." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_This_gives_me_the_strength_to_" value="Cela me donne la force de continuer à chercher les autres." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Remember__if_you_bump_into_an_" value="N'oubliez pas que si vous tombez dans un astronaute, donnez-leur mes coordonnées." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_So__the_creatures_that_chased_" value="Alors, les créatures qui ont chassé mon équipage étaient des &quot;imps&quot;?" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Crazy__I_don_t_know_much_about" value="Fou.Je ne sais pas grand-chose sur leur métabolisme, mais sa possible exposition transversale pourrait les rendre assez dangereuses." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_can_make_something_to_counte" value="Je peux faire quelque chose pour le contrer, mais j'aurai besoin d'aide du reste de l'équipage." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_It_s_time_to_track_them_down__" value="Il est temps de les retrouver.J'ai le sentiment qu'ils pourraient être dispersés." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_The_challenge_here_is_not_know" value="Le défi ici est de ne pas savoir qui ni ce que nous trouverons - chaque indice et chaque information aide." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Now__let_s_see_how_I_can_help_" value="Maintenant, voyons comment je peux vous aider ..." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+</Node>

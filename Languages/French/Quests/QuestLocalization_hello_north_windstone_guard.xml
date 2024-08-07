@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_north_windstone_guard" type="external">
+  <Key key="_npc_Oh__hi____please__don_t_hurt_m" value="Oh, salut ... s'il te plait, ne me blesse pas!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Um__hello__Is_it_safe_" value="Euh, bonjour?Est-ce sûr?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__hello____mind_the_mud_" value="Oh, bonjour ... MAISONS la boue!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Um__hi_there____no_blood__righ" value="Euh, salut ... pas de sang, non?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh_dear__a_visitor_" value="Oh mon Dieu, un visiteur!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__um__hi__Is_that_dirt__" value="Oh, euh, salut!Est-ce de la saleté !?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Hi____oh__what_a_mess___" value="Salut ... Oh, quel gâchis ..." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__hi_hi_" value="Oh, hi-hi!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh_dear__hello_" value="Oh mon Dieu, bonjour!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Ah__a_butterfly__Sorry__hi_" value="Ah, un papillon!Désolé, salut!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh_no__I_um__hello_" value="Oh non, je euh, bonjour!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__um__greetings_" value="Oh, euh, salutations!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__um__hi_there_" value="Oh, euh, salut là-bas!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Eek__Hello_" value="Eek!Bonjour!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__dear__Hi_" value="Oh cher!Salut!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Uh__oh__Hi_hello_" value="Euh, oh!Salut Bonjour!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Sorry__Hi_" value="Désolé!Salut!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__goodness__hello_" value="Oh, mon Dieu, bonjour!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Eep__Hi_there_" value="EEP!Salut!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+</Node>

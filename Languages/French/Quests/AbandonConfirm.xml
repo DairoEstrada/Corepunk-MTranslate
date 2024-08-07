@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="AbandonConfirm" type="external">
+  <Key key="Key" value="Voulez-vous abandonner la quête?" />
+</Node>

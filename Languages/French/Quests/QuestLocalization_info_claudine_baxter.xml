@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_claudine_baxter" type="external">
+  <Key key="_npc_Name_s_Claudine_Baxter__sugar_" value="Nom S Claudine Baxter, Sugar." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Just_a_simple_farmer_trying_to" value="Juste un simple agriculteur essayant de faire une vie ici sur Kwalat." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Came_from_a_place_where_the_go" value="Est venu d'un endroit où le gouvernement avait le nez dans tout, alors je l'ai fait ici." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Now_I_grow_all_sorts_crops__ve" value="Maintenant, je cultive toutes sortes de cultures, de légumes, vous l'appelez.Mais j'ai aussi une petite réserve secrète, si vous attrapez ma dérive." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Ain_t_nothin__like_what_ya_use" value="Je n'ai rien comme ce que tu as autrefois, mais ça va vous épater littéralement!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Folks__round_here_think_I_m_ju" value="Les gens ici pensent que je ne suis qu'un autre agriculteur, mais je pense que vous semblez assez cool pour connaître la vérité." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_So__ya_lookin__for_somethin__s" value="Alors, tu regardes quelque chose de spécial ou de passer?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Oh__darlin___I_m_higher_than_a" value="Oh, chérie, je suis plus haut qu'un cerf-volant un jour venteux!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Been_tinkerin__with_my_secret_" value="J'ai été brillant avec ma réserve secrète et, ouf, ça me fait sentir comme je fais du flotin sur un nuage." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_I_might_as_well_be_a_walking_s" value="Je pourrais tout aussi bien être une vitrine pédestre de notre meilleur produit ici." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_You_know__I_was_just_wonderin_" value="Vous savez, je me demandais juste, j'ai été curieux de savoir combien une petite balle a fait mal?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_I_got_this_crazy_notion__bout_" value="J'ai eu cette notion folle de douleur comme la science, «cept plus amusant!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Don_t_worry__I_ain_t_gonna_sho" value="Ne vous inquiétez pas, je ne vais pas vous tirer dessus à moins que vous ne le disiez." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_So____can_I__Might_just_be_a_h" value="Donc je peux?Pourrait être une huée!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_This_is_my_lil_farmstead_right" value="This is my lil farmstead right here; Ain't no gov allowed meddlin' with my business." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Been_thinkin___bout_runnin__fo" value="J'ai pensé à Runnin 'pour le maire de Winstone les légaliser les bons drogues, tu sais?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_But_then_I_realize__do_we_even" value="Mais alors je me rends compte, avons-nous même un maire?Hah, qui sait!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_One_thing_s_for_sure__I_d_brin" value="Une chose est sûre, j'apporterai un vrai changement autour de ces parties!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Anyways__welcome_to_our_lil__p" value="Quoi qu'il en soit, bienvenue dans notre petit patch de chaos, sucre.Appréciez la balade!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Well__bless_your_heart_" value="Eh bien, bénissez votre cœur!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Got_some_harvestin__to_do____o" value="Vous avez des récoltes «à faire ... ou était-ce Plantain»?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Sure_thing__hon_" value="Bien sûr, Hon!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Ain_t_you_a_sight_for_sore_eye" value="Ain't you a sight for sore eyes!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_I_got_a_task____or_maybe_two_" value="I got a task... or maybe two?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Absolutely__sugar_" value="Absolument, sucre!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_I_was_just_about_to____somethi" value="J'étais sur le point de ... quelque chose." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Naw__just_high_as_a_kite_" value="Naw, juste haut comme un cerf-volant!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nah__let_s_just_chill__partner" value="Nah, allons-y, partenaire, partenaire." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nah__you_got_any_of_the_good_s" value="Non, tu as une des bonnes choses?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nope__just_kickin__back__Got_a" value="Nope, just kickin  back. Got any herbs on ya?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Naw__let_s_jus__hang_out__mayb" value="Naw, let s jus  hang out, maybe share a smoke?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nah__sugar__just_takin__it_eas" value="Non, le sucre, il suffit de le prendre facilement." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Naw__lemme_tell_ya__bout_my_la" value="NAW, LEMME Tell Ya 'Bout mon dernier voyage!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nope__just_vibin___Got_any_dru" value="Nope, just vibin . Got any drugs?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Naw__I_m_just_vibin__right_now" value="Naw, je suis juste vibin en ce moment." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nah__sugar__just_enjoyin__the_" value="Non, le sucre, profitez du haut." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nope__I_m_chillin___Just_hang_" value="Nope, I m chillin . Just hang out if ya want." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nah__let_s_just_shoot_the_bree" value="Nah, let's just shoot the breeze." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Naw__come_sit_a_spell_with_me_" value="Naw, viens assis un sort avec moi, laisse juste se détendre." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Nah__we_best_keep_it_low_key_r" value="Non, nous préférons le garder discret en ce moment." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Thanks__but_I_don_t_need_no_ex" value="Merci, mais je n'ai pas besoin d'yeux supplémentaires sur moi." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Naw__everything_s_peachy__just" value="Naw, tout est Peachy, je dois juste rester sous le radar." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+</Node>

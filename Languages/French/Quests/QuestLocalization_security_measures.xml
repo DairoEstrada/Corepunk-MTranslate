@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_security_measures" type="external">
+  <Key key="_npc_Here_s_your_reward__You_ve_tru" value="Voici votre récompense.Vous m'avez vraiment aidé." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Thank_you__I_can_t_tell_you_ho" value="Merci!Je ne peux pas vous dire combien cela signifie pour moi.Je me sentirai beaucoup plus en sécurité avec ce pistolet." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Hey_there__How_s_it_coming_alo" value="Salut!Comment ça va?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_varDescription_g3t2" value="Récupérer un pistolet à plasma" />
+  <Key key="_npc_You_really_did_it__Thank_you_s" value="Vous l'avez vraiment fait!Merci beaucoup." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Now_I_can_rest_easy_knowing_th" value="Maintenant, je peux me reposer facilement en sachant que la banque est sécurisée.Merci encore!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Listen__I_m_really_jittery_abo" value="Écoutez, je suis vraiment nerveux sur la sécurité de la banque ces derniers temps.Il a été question de vols potentiels ici, et je ne peux pas m'empêcher de m'inquiéter." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_asked_for_reinforcements__bu" value="J'ai demandé des renforts, mais ils n'ont pas fait grand-chose pour soulager mes nerfs.Je pensais ... peut-être qu'un pistolet de plazma m'aiderait à mieux dormir la nuit." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Would_you_be_willing_to_help_m" value="Seriez-vous prêt à m'aider à en fabriquer un?J'aurais besoin de vous pour obtenir un plan de pistolet Plazma à moins que vous ne sachiez déjà comment en faire un." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_would_pay_you_for_your_troub" value="Je vous paierais pour vos ennuis.Si je savais comment, eh bien, je ne serais pas un banquier." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_Oswald_Goldenfield__Bank__Help" value="Oswald&#10;Goldenfield, banque&#10;&#10;Aidez Oswald à élaborer un pistolet Plazma pour sécuriser la banque à Goldenfield." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Have_you_managed_to_find_the_P" value="Avez-vous déjà réussi à trouver le plan de pistolet à plasma?Nous ne pouvons pas commencer sans cela.Je vérifierais avec Ratchet, je suis sûr qu'il pourrait aider." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_varDescription_Collect_a_Plazma_Gun" value="Récupérer un pistolet à plasma" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Oh__that_s_disappointing__I_su" value="Oh, c'est décevant.J'espère bien que rien ne se passera pendant que je ne suis pas protégé." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Alright__I_get_it__If_you_chan" value="D'accord, je comprends.Si vous changez d'avis, vous savez où me trouver." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_That_s_a_bummer__Stay_safe_out" value="C'est une déception.Restez en sécurité là-bas, d'accord?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

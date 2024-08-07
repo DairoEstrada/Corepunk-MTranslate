@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_thorin_toastbeard" type="external">
+  <Key key="_npc_I_m_Thorin_Toastbeard__banishe" value="Je suis Thorin Toastbeard, le chef 5 étoiles banni, maintenant maestro alimentaire local.Ne posez pas de questions sur le bannissement." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_They_said_my_ingredients_were_" value="Ils ont dit que mes ingrédients étaient trop ... non conventionnellement sensibles." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_After_my_banishment__I_wandere" value="Après mon bannissement, je me suis promené dans d'innombrables mondes, cherchant des saveurs parfaites." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_And_I_found__em_" value="Et je les ai trouvés!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_That_s_how_I_made_my_way_to_Wi" value="C'est ainsi que je me suis rendu à Windstone.Ce village m'a accueilli avec des bras ouverts et des assiettes vides." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Oh__marvelous__absolutely_marv" value="Oh, merveilleux, absolument merveilleux!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_The_excitement_never_ends_with" value="L'excitation ne se termine jamais par tous ces nouveaux aventuriers qui arrivent." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_wouldn_t_believe_the_ingre" value="Vous ne croiriez pas les ingrédients qu'ils m'apportent." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Just_this_morning__Mary_Jane_b" value="Ce matin, Mary Jane m'a apporté une racine luminescente de la forêt morte." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_These_make_you_feel____warm_an" value="Cela vous fait vous sentir ... chaud et flou ... quand vous les mangez." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Imagine_the_possibilities_" value="Imaginez les possibilités!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_re_standin__in_my_kitchen_" value="Tu te tiens dans ma cuisine." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Around_here__every_pot_and_pan" value="Ici, chaque pot et casserole ont une histoire, et chaque saveur est une aventure." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_I_ve_got_fresh_produce_from_th" value="J'ai des produits frais dans les prairies, des épices des récifs qui pleurent et même des herbes chargées de manas des forêts d'Elan." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_think_Roark_Thunderbrew_wo" value="Vous pensez que Roark Thunderbrew ferait un peu comme ça?Ha!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_If_you_haven_t_eaten_that_hack" value="Si vous n'avez pas mangé de la nourriture de ce pirat, économisez les maux d'estomac." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Fancy_helping_with_a_recipe_th" value="Envie d'aider avec une recette qui pourrait ... mordre?" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_I_could_use_an_extra_set_of_ha" value="Je pourrais utiliser un ensemble de mains supplémentaires.Ou peut-être même quelques doigts." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Got_some____unconventional_ing" value="J'ai des ... ingrédients non conventionnels ... pour traquer." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Here_s_a_shopping_list_of____u" value="Voici une liste de courses de ... articles uniques dont j'ai besoin." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_No_need__I_m_just_adding_the_f" value="Pas besoin, j'ajoute juste les touches finales ... vous pouvez regarder si vous le souhaitez." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_I_ve_got_it_all_under_control_" value="J'ai tout sous contrôle ..." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Just_focusing_on_my_brew__but_" value="En me concentrant juste sur mon breuvage, mais n'hésitez pas à observer ... c'est fascinant." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_The_soup_and_I_are_having_a___" value="La soupe et moi avons une ... conversation privée." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Not_right_now__but_stay_close_" value="Pas pour le moment, mais restez proche ... Je pourrais avoir besoin de viande fraîche." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+</Node>

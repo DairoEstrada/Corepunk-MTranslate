@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_io" type="external">
+  <Key key="_npc_I_uh___" value="Je euh ..." voice="Female" />
+  <Key key="_npc_Ooh_oh__I_m_great__Yep__Great_" value="Ooh-oh, je suis super.Ouais.Super.Pourquoi?" voice="Female" />
+  <Key key="_npc_Oh__you_re_not_from_here__This" value="Oh, tu n'es pas d'ici?C'est Upper Village.Bien qu'ils soient à la périphérie du Royaume, ils ont un soutien financier important de Leithana.Ils ont trouvé des dépôts d'éther à forte concentration dans une forêt voisine.Mana, comme ils l'appellent." voice="Female" />
+  <Key key="_npc_Well____Ahem__I_m_Io__I_m_here" value="Eh bien ... ahem.Je suis io.Je suis ici.Pourquoi me demandez-vous même ceci?Je ne suis pas obligé de tout dire à chaque élanien que je rencontre.Hm." voice="Female" />
+  <Key key="_npc_Well__some_people_wonder_how_e" value="Eh bien, certaines personnes se demandent comment les Elaniens traitent exactement l'éther pour l'utiliser comme source d'énergie pour leur technologie.Je veux dire, pas moi.Sûrement, je n'ai pas un moindre intérêt dans ce domaine.Je suis juste un touriste.Juste comme toi." voice="Female" />
+</Node>

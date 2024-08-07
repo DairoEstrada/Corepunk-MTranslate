@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fowl_play" type="external">
+  <Key key="_npc_If_you_don_t_help_me__I_ll_tel" value="Si vous ne m'aidez pas, je dirai à tout le monde que vous avez tué les poulets tout seul!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_You_re_no_fun__I_m_still_gonna" value="Tu n'es pas drôle!Je vais toujours dire à tout le monde que c'était toi!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_If_you_don_t__I_ll_tell_everyo" value="Si vous ne le faites pas, je dirai à tout le monde que vous avez tué les poulets!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_goalVoice_Don_t_forget__you_need_that_bl" value="N'oubliez pas, vous avez besoin de ce couteau sanglant du champ du rat!N'oubliez pas de trouver le couteau et de le faufiler dans le champ des mauvaises herbes violet.Ensuite, nous envoyons.LUI.À.Priiiiiison!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Once_you_have_the_knife__sneak" value="Une fois que vous avez le couteau, glissez-vous là où Buck fait la moue près du champ de mauvaises herbes violet et plantez-le sur lui." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_goal_collect_item" value="Collectez Bloody Scythe" />
+  <Key key="_goal_talk_npc" value="Apporter à Buck" />
+  <Key key="_npc_You_just_need_to_go_get_a_knif" value="Il vous suffit d'aller chercher un couteau dans le champ du rat - tout devrait être grossier de tuer des rats." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Alright____it_s_time__Buck_is_" value="D'accord ... il est temps!Buck est tellement baisé." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_YOU_TRAITOR_" value="TRAÎTRE!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_QuestActionAddToJournal_Lily_Baxter_Goldenfield__South" value="Lily Baxter&#10;Goldenfield, South Farm&#10;&#10;Aidez Lily Baxter à cadrer Buck for the Mysterious Chicken Deaths en lui apportant 1 Scythe sanglant du champ du rat." />
+  <Key key="_npc_Fine__but_everyone_will_hear_t" value="Très bien, mais tout le monde entendra que vous l'avez fait!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_I_can_t_believe_you_set_me_up_" value="Je ne peux pas croire que tu m'as installé!Mais tu l'as fait ..." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_What__What_the_heck_is_this_kn" value="Quoi?Qu'est-ce que ce couteau fait sur moi?" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Did_Lily_go_and_get_herself_ea" value="Lily est-elle allée se faire manger par des loups ou quelque chose comme ça?" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Yay__This_is_gonna_be_soooo_fu" value="Yay!Ça va être tellement amusant!Allez chercher ce couteau!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+</Node>

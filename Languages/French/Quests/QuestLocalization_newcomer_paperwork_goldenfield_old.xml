@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_newcomer_paperwork_goldenfield_old" type="external">
+  <Key key="_assistant_phrase_ckJ4" value="Bonjour?Écoutes-tu?J'ai placé un émetteur sur vous pour que je puisse vous surveiller.Le tout au nom de la sécurité, bien sûr.Le formulaire du nouveau venu doit être sur la table à l'extérieur.Ou sur le porche.Peut également l'avoir laissé dans la boîte aux lettres.Aucun indice vraiment." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_I_m_here_to_do_that__But__I_ra" value="Je suis ici pour faire ça.Mais!J'ai manqué de formes avec vous tous en inondant." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_QuestActionAddToJournal_Uvvw" value="Faites une enquête officielle au frère de Zikk, il doit être quelque part dans le village." />
+  <Key key="_goal_go_to_npc_bureaucrat" value="Rencontrez le frère de Zikk dans le village" />
+  <Key key="_goalVoice_BA4G" value="Les formulaires sont juste à côté de ma maison, qui est située au nord, sur la table à l'extérieur.Dirigez-vous et localisez-les.Je vais vous donner plus d'instructions une fois que vous êtes sur place." voice="Male" />
+  <Key key="_npc_If_you_wanna_get_your_paperwor" value="Si vous voulez faire vos documents, vous allez dans la forêt et y trouverez mon frère, hein?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_assistant_phrase_QiyV" value="Voici un rappel amical: approchez-vous uniquement de ma maison pour obtenir le formulaire.Toute activité non liée peut être considérée comme une intrusion.En termes plus simples: ne touchez rien d'autre." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Do_you_even_know_how_many_laws" value="Savez-vous même combien de lois vous avez enfreint en sortant de ce portail?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_The_forms_are_right_by_my_hous" value="Les formulaires sont juste à côté de ma maison, sur la table à l'extérieur.Dirigez-vous et trouvez-les.Je vous donnerai vos prochaines étapes une fois que vous y êtes.Maintenant, commencez.Suivant!" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_So__do_me_a_favor_and_scoot__M" value="Alors, faites-moi une faveur et scoot.Ma place est dans le nord.Et rappelez-vous, ne pensez même pas à déranger ma petite amie." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_QuestActionAddToJournal_Dgvx" value="Trouver un nouveau formulaire près de Zikk House, il est au nord depuis le portail" />
+  <Key key="_goal_find_item_newcomer" value="Trouver un nouveau formulaire" />
+  <Key key="_assistant_phrase_PP39" value="Ça y est ...!Tu l'as eu!Maintenant, allez faire une enquête officielle à mon frère.Il doit être quelque part dans le village.Je ne sais pas, demande à quelqu'un." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_assistant_phrase_ePSE" value="Oh, et dis-lui que c'est son quart de travail maintenant!J'en ai marre de m'asseoir ici dans ce robot, de regarder le portail et de faire pipi dans un pot de whisky." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goalVoice_SjIA" value="Ça y est ...!Tu l'as eu!Maintenant, allez faire une enquête officielle à mon frère.Il doit être quelque part dans le village.Je ne sais pas, demande à quelqu'un." voice="Male" />
+  <Key key="_npc_No__you_don_t__Hey__don_t_try_" value="Non, tu ne le fais pas.Hé, n'essaye pas de jouer avec moi ici, d'accord?Vous, Smartass, je dois être enregistré, comme tous les autres nouveaux arrivants." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_The_stuff_should_be_somewhere_" value="Les trucs devraient être quelque part dans la forêt de la navette que mon autre frère s'est écrasé tout en essayant de livrer les générateurs.Ce stupide déclenche son alarme." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Anyways__you_might_even_be_of_" value="Quoi qu'il en soit, vous pourriez même être d'une aide.Je veux dire, tu me gratte le dos, je gratte le vôtre, hein?Vous me procurez un tas de générateurs d'électricité, je fais vos papiers." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_I_know__right__Everyone_s_just" value="N'est-ce pas?Tout le monde s'occupe de son entreprise, occupé par ses récoltes et ainsi de suite, alors que je dois faire face à vous tous et à vos putains de papiers." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_So__an_outworlder__eh__How_do_" value="Alors, un outworlder, hein?Comment l'aimez-vous ici à Kwalat?Bien, n'est-ce pas?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_He_s_asking_every_newcomer_to_" value="Il demande à chaque nouveau venu de me dire de prendre son quart de travail sur le portail.Aucun respect pour son frère aîné." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_I_m_sorry_you_had_to_go_throug" value="Je suis désolé que vous ayez dû passer par ça.Mon ... euh, les frères peuvent être assez stupides.Surtout celui-là." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Oh__I_see_you_re_one_of_them__" value="Oh, je vois que tu es l'un d'eux, hein?Alors, vous avez déjà rencontré mon clon ... proche du parent?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Me_neither__Too_bad__Anyway__y" value="Moi non plus.Dommage.Quoi qu'il en soit, vous devez être inscrit ici.Procédure standard.C'est juste qu'il ne me reste plus de formulaires vierges." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_You_know__you_look_pale__If_yo" value="Tu sais, tu as l'air pâle.Si vous allez mourir, ne le faites pas ici car je vais devoir faire face à votre corps." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_assistant_phrase_LsLk" value="Vous plaisantez j'espère?Arrêtez de vous distraire!Ce n'est pas votre maison et pas l'endroit où je t'ai envoyé!Que venez-vous d'un monde de voleurs ou quelque chose?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_sys_msg_gzkE" value="Vous n'avez pas d'article &quot;Nouveau venu&quot;" />
+  <Key key="_goal_go_to_npc_specialist" value="Parlez au spécialiste accueillant." />
+  <Key key="_QuestActionAddToJournal_E7Um" value="Zikk Clankwhistle&#13;&#10;Forest Dusktide, au portail&#10;&#10;Parlez au spécialiste d'accueil d'Outworlder.Il devrait être en vue." />
+  <Key key="_goalVoice_TNUR" value="S'il vous plaît, parlez au spécialiste d'accueil d'Outworlder.Il est censé être la plus proche de proximité.Ne mourrez pas et passez une bonne journée." voice="Male" />
+  <Key key="bubble_phrase_8sMq" value="Balayage.S'il vous plaît, restez immobile." />
+  <Key key="bubble_phrase_74kO" value="Danger: 0,5%." />
+  <Key key="bubble_phrase_Djgy" value="Utilité: 0,3%." />
+  <Key key="bubble_phrase_M02D" value="S'il vous plaît, parlez au spécialiste d'accueil d'Outworlder." />
+  <Key key="bubble_phrase_UV45" value="Il est censé être la plus proche de proximité." />
+  <Key key="bubble_phrase_ewZG" value="Ne mourrez pas et passez une bonne journée." />
+  <Key key="_assistant_phrase_B9tz" value="Vous ne pouvez pas tuer un putain de rat avec votre estomac grognant plus fort que votre cri de guerre!Si vous ne mordrez pas dans Grub, vous mordrez la poussière.Alors, obtenez de la nourriture dans votre ventre avant de finir par être une histoire de fantômes embarrassante, vous engourdir!" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+</Node>

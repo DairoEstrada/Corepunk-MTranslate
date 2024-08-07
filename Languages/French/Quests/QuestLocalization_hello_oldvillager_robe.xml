@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_oldvillager_robe" type="external">
+  <Key key="_npc_Oh__it_s_you___" value="Oh c'est toi..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Have_you_seen_her_" value="L'AS tu vue?" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_She_s_gone___" value="Elle est partie..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Help_me__please___" value="Aidez-moi, s'il vous plaît ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_m_so_lonely___" value="Je suis si seul..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Can_you_hear_her_" value="Pouvez-vous l'entendre?" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Where_is_she_" value="Où est-elle?" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_My_poor_wife___" value="Ma pauvre femme ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_She_s_missing___" value="Elle manque ..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Please__stay___" value="Reste s'il te plait..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_m_scared___" value="J'ai peur..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_So_lost___" value="Tellement perdu..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_Any_news_" value="Des nouvelles?" voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_It_s_hopeless___" value="C'est sans espoir..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+  <Key key="_npc_I_need_help___" value="J'ai besoin d'aide..." voiceSettingsId="eob0fI889DCDFgObtn21" />
+</Node>

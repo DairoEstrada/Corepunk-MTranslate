@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hwy_hub3_immigrant" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_This_is_the_place_of_freedom__" value="C'est le lieu de la liberté!Mais si vous êtes un espion - ce sera l'endroit où vous vous ferez des coups de pied." voice="Male" />
+  <Key key="_npc_I_m_proud_that_I_am_one_of_the" value="I'm proud that I am one of the free people. Everyone is tired of living in the past, in the world of bureaucratic conventions." voice="Male" />
+  <Key key="_npc_Living_a_dream__We_re_working_" value="Vivre un rêve!Nous travaillons sur quelque chose qui changera le cours de l'histoire!Voilà, étranger!" voice="Male" />
+</Node>

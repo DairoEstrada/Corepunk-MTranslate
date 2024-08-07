@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_disco_child" type="external">
-  <Key key="_npc_Hello__Mister_Adventurer__Or_i" value="¡Hola, señor aventurero!¿O es Missus Adventurer?Ma dice que no debemos juzgar." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
-  <Key key="_npc_Hi__You_ain_t_a_monster__are_y" value="¡Hola!No eres un monstruo, ¿verdad?No se me permite hablar con monstruos." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
-  <Key key="_npc_Hi__Lookit_this_head_just_hang" value="¡Hola!¡Mira esta cabeza colgando aquí!¿Dónde está el resto de ellos?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
-  <Key key="_npc_I_m_Zelda__Who_are_you__I_have" value="¡Soy Zelda!¿Quién eres?Tengo un escudo de burbujas.¿Qué tienes?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
-</Node>

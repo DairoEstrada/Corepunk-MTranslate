@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_weapons_blindfold" type="external">
+  <Key key="_npc_Greetings__traveler_" value="Salutations, voyageur!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Ah__a_fresh_face_" value="Ah, un visage frais!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Ready_for_adventure_" value="Prêt pour l'aventure?" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Welcome__my_friend_" value="Bienvenue mon ami!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Hunting_for_treasures_" value="Chasser des trésors?" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Well_met__wanderer_" value="Bien rencontré, Wanderer!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Eyeing_some_gear_" value="En regardant du matériel?" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Step_right_up_" value="Montez tout de suite!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Well__look_who_s_here_" value="Eh bien, regardez qui est ici!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Fancy_some_armor_" value="Envie d'une armure?" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Ah__a_discerning_customer_" value="Ah, un client exigeant!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+</Node>

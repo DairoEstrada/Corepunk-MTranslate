@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_bshl" type="external">
+  <Key key="_npc_Uh__I_m_BSHL__sort_of_meant_to" value="Euh, je suis bshl, en quelque sorte à être un bot de sécurité." />
+  <Key key="_npc_I__uh__hover_around_here_to_ke" value="I, uh, hover around here to keep an eye on things. Well, I try to." />
+  <Key key="_npc_Some____issues_with_my_wiring_" value="Certains ... Les problèmes avec mon câblage me font un peu, euh, timide, vous voyez." />
+  <Key key="_npc_They_say_I_m_advanced__but__we" value="Ils disent que je suis avancé, mais, bien, je manque souvent beaucoup.C'est un peu embarrassant, honnêtement." />
+  <Key key="_npc_Oh__um__well____it_s_a_bit_of_" value="Oh, euh, eh bien ... c'est un peu une journée, je suppose." />
+  <Key key="_npc_I_m_trying_my_best__really__bu" value="Je fais de mon mieux, vraiment, mais ... les choses deviennent un peu écrasantes." />
+  <Key key="_npc_I_feel_like_I_m_in_over_my_cir" value="J'ai l'impression de sur mes circuits parfois, tu sais?" />
+  <Key key="_npc_I_mean__I_m_fine__Just__you_kn" value="Je veux dire, je vais bien!Juste, vous savez, planant constamment et manquant des choses.C'est un peu ... embarrassant." />
+  <Key key="_npc_But_I_m_here__doing_my_part__e" value="Mais je suis là, je fais ma part, même si moi, euh, fumble un peu." />
+  <Key key="_npc_Oh__um__this_is_Riverrise_" value="Oh, euh, c'est Riverrise." />
+  <Key key="_npc_It_s_the_biggest_town_on_Whisp" value="C'est la plus grande ville de Whisperwind Isle, vous voyez." />
+  <Key key="_npc_Uh__around_here__we__uh__get_a" value="Euh, ici, nous, euh, obtenons beaucoup de nouveaux arrivants via le portail." />
+  <Key key="_npc_There_s_a_lot_happening_crafti" value="Il y a beaucoup de fabrication de fabrication, de trading et, euh, certaines ... des activités moins agréables." />
+  <Key key="_npc_I_m__uh__supposed_to_keep_an_e" value="Je suis, euh, censé garder un œil sur les choses près de la porte arrière." />
+  <Key key="_npc_But__uh__it_s_a_bit_overwhelmi" value="Mais, euh, c'est un peu écrasant ... tellement à regarder." />
+  <Key key="_npc_I_do_my_best__really____but__u" value="Je fais de mon mieux, vraiment ... mais, euh, parfois les bits me manquent." />
+  <Key key="_npc_Oh__um__no__not_right_now___" value="Oh, euh, non, pas maintenant ..." />
+  <Key key="_npc_I__uh__think_I_ve_got_it____pr" value="Moi, euh, je pense que je l'ai ... probablement." />
+  <Key key="_npc_I_m_okay__I_think____but_thank" value="Je vais bien, je pense ... mais merci!" />
+  <Key key="_npc_No_help_needed_at_the_moment__" value="Aucune aide nécessaire pour le moment ... j'espère." />
+  <Key key="_npc_I_m_managing____sort_of__but_t" value="Je gére ... en quelque sorte, mais merci!" />
+  <Key key="_npc_Oh__um__yes__please_" value="Oh, euh, oui, s'il vous plaît!" />
+  <Key key="_npc_Uh__actually__I_could____use_a" value="Euh, en fait, je pourrais ... utiliser une main." />
+  <Key key="_npc_If_it_s_not_too_much____could_" value="Si ce n'est pas trop ... pourriez-vous aider?" />
+  <Key key="_npc_Yes__well__um__I_would_appreci" value="Oui, eh bien, euh, je l'apprécierais." />
+</Node>

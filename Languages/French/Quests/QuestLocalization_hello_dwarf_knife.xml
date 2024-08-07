@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_dwarf_knife" type="external">
+  <Key key="_npc_Oi__you_dirty_thief_" value="Oi, toi sale voleur!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Back_off__scoundrel_" value="Retour, scélérat!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_What_the_hell_do_you_want_" value="Qu'est-ce que tu veux?" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_You_here_to_steal_more_" value="Vous ici pour voler plus?" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Get_lost__you_grubby_git_" value="Se perdez, Grubby Git!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Bloody_thief__show_your_face_" value="Voleur sanglant, montrez votre visage!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_You_swipe_my_grapes_" value="Tu glances mes raisins?" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Touch_my_vines__I_ll_cut_you_" value="Touchez mes vignes, je vais vous couper!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+</Node>

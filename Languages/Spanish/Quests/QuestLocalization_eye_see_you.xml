@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eye_see_you" type="external">
+  <Key key="_npc_Go_on_then__let_s_see_what_you" value="¡Continúa entonces, veamos de qué estás hecho!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_Well__well__how_s_the_hunt_goi" value="Bueno, bueno, ¿cómo va la caza?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_Collect_Eye_of_the_Beast" value="Recoge el ojo de la bestia" />
+  <Key key="_npc_I_ll_be_a_monkey_s_uncle__You_" value="¡Seré el tío de un mono!¡Lo has hecho!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Good_luck_out_there__you_ll_ne" value="Buena suerte, lo necesitarás." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Remember__it_s_not_just_about_" value="Recuerde, no se trata solo de la caza, se trata de la habilidad y el respeto que gana." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Holy_Hell__You_ve_actually_ret" value="Santo infierno.En realidad, ha regresado con un ojo de la bestia.Ahora no tengo que encadenarte en el granero." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_ve_heard_you_ve_been_helping" value="He oído que has estado ayudando, pero traer una cáscara de tortuga verde a Martha es una cosa.La habilidad real se muestra al dominar el arte de la carnicería." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goalVoice_Remember__I_need_an_Eye_of_the" value="Recuerde, necesito un ojo de la bestia de un lobo, y es mejor que esté fresco.Aventre en el bosque al sur de Goldenfield, ahí es donde encontrará a su presa.No va a ser fácil.Puede ser mejor agrupar con algunas de esas otras grandes viviendas." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_If_you_can_bring_me_an_Eye_of_" value="Si puedes traerme un ojo de la bestia de un lobo vicioso, te ganará tu lugar entre los mejores saltadores de portal.No es una tarea fácil, pero creo que tienes lo que se necesita." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_QuestActionAddToJournal_Butch_O_Hara_Goldenfield__Barn" value="Butch o'hara&#10;Goldenfield, granero.&#10;&#10;Demuestre su destreza de carnicería trayendo a Butch al carnicero un corazón de lobo que aún es que aún se pone en marcha." />
+  <Key key="_npc_I_ve_got_a_challenge_for_you__" value="Tengo un desafío para ti.Las leyendas dicen que extraer el ojo de un lobo es la prueba definitiva de cualquier habilidad de carnicero." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_Collect_a_Beating_Heart" value="Recoge el ojo de la bestia" />
+  <Key key="_npc_Ah__I_thought_you_had_more_gri" value="Ah, pensé que tenías más arena en ti." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Not_everyone_is_cut_out_for_th" value="No todos están cortados para el camino del carnicero." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_No_worries__maybe_another_time" value="No se preocupe, tal vez en otro momento." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

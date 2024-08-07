@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_darkwood_dilemma" type="external">
+  <Key key="_npc_Declining__Well__good_luck_whe" value="Declinante?Bem, boa sorte quando os Quaddari decidem fazer um show de terror fora do nosso forte." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_goal_find_zone" value="Find the Captain's body" />
+  <Key key="_goal_talk_npc" value="Fale com Trevor Barlow" />
+  <Key key="_npc_Think_about_it__the_Captain_s_" value="Think about it: the Captain's life, and maybe ours, depends on this. You sure about ditching?" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_You_re_passing_up_on_uncoverin" value="Você está passando para descobrir um esquema Quaddari?Movimento ousado, mas tolo." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_goalVoice_Hey__don_t_drop_the_ball_now__" value="Hey, don't drop the ball now. The Captain's life and ours depends on you getting your act together. Find his body, and report back to Trevor. Come on, partner. If the Quaddari are behind this, we're sitting ducks. Hustle up! Get deep into those Southern woods and bring our boy back!" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Let_s_see_what_secrets_are_hid" value="Vamos ver quais segredos estão escondidos naqueles bosques assustadores.Relate tudo o que você encontrar para Trevor." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Plus__maybe_we_ll_finally_get_" value="Além disso, talvez finalmente tenhamos algumas respostas." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_We_need_the_Captain_back__or_a" value="Precisamos do capitão de volta, ou pelo menos o que resta dele.Caso contrário, a vitória de Quaddari." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Sounds_like_a_Quaddari_conspir" value="Sounds like a Quaddari conspiracy if you ask me, and you know how I love those. Alexander Stones is my hero!" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_That_damned_Altar_is_in_the_de" value="That damned Altar is in the deep south of the Westwind Woods. Even deeper South West of the Quarry." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Alright__listen_up__Our_Fort_C" value="Tudo bem, ouça!Falta a nossa Fort Captain, e há rumores de que ele estava indo pela última vez em direção a aquele altar assustador para os deuses da floresta." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_That_artifact_caused_this__Whe" value="That artifact caused this. Wherever it is, we need to contain it - now." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_I_suppose_I_ll_have_to_tell_hi" value="I suppose I'll have to tell him... after we resolve this... incident." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Skipping_this_hunt__Hope_you_r" value="Skipping this hunt? Hope you're ready for when the Quaddari blow us all to pieces." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_QuestActionAddToJournal_Tharkon_Windreach_Woods__Fort_" value="Tharkon&#10;Windreach Woods, Fort.&#10;&#10;Help Tharkon locate the missing Fort Captain in the enigmatic Westwind Woods, somewhere near the altar for the gods of the woods." />
+  <Key key="_npc_Did_Tharkon_help_you_find_the_" value="Did Tharkon help you find the captain?" voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_DAMN_IT__Dead__Seriously_" value="DAMN IT. Dead? Seriously?" voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_I_don_t_give_a_shit_about_the_" value="I don't give a shit about the Captain, but that means Themis is in charge now." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Ha__a_real_life_conspiracy__Ca" value="Ha, a real-life conspiracy! Can't wait to see the Captain's 'big reveal' at the altar." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+</Node>

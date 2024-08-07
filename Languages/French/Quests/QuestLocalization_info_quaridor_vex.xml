@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_quaridor_vex" type="external">
+  <Key key="_npc_Why_not_take_your_useless_self" value="Pourquoi ne pas prendre votre moi inutile ailleurs?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Do_you_think_I_can_t_handle_my" value="Pensez-vous que je ne peux pas gérer ma propre merde?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Is_it_too_hard_to_mind_your_ow" value="Est-ce trop difficile de vous soucier de vos putain de affaires?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Got_something_better_to_do_tha" value="Vous avez quelque chose de mieux à faire que de m'irriter?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Do_I_need_saving_or_is_it_just" value="Ai-je besoin d'économiser ou est-ce juste que vous êtes fouineur?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Are_you_trying_to_be_a_hero_or" value="Essayez-vous d'être un héros ou tout simplement stupide?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Who_the_hell_told_you_I_need_h" value="Qui diable vous a dit que j'avais besoin d'aide?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Do_I_look_like_a_charity_case_" value="Est-ce que je ressemble à un cas de charité?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Think_you_re_tough_enough_for_" value="Vous pensez que vous êtes assez dur pour cette merde?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Ready_to_dive_into_my_hell__ro" value="Prêt à plonger dans mon enfer, recrue?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Can_you_really_help__or_are_yo" value="Pouvez-vous vraiment aider, ou êtes-vous plein de merde?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Got_the_balls_for_it__or_are_y" value="Vous avez les balles pour cela, ou tu tasses simplement?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Feel_like_tackling_my_nightmar" value="Vous avez envie de m'attaquer à mon cauchemar?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Ready_to_roll_up_your_sleeves_" value="Prêt à retrousser vos manches, Numbskull?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Think_you_can_break_this_damn_" value="Vous pensez que vous pouvez briser cette putain de malédiction?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Want_to_swap_curses_" value="Vous voulez échanger des malédictions?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Why_don_t_you_take_a_guess_" value="Pourquoi tu ne fais pas de supposition?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Do_I_still_want_his_help_now_" value="Est-ce que je veux toujours son aide maintenant?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Did_I_think_he_was_just_a_craz" value="Pensais-je qu'il était juste un vieil homme fou?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Did_I_ignore_all_of_his_warnin" value="Ai-je ignoré tous ses avertissements sur les reliques maudites?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Would_Alexander_Stones_know_ho" value="Alexander Stones savait-il comment éliminer la malédiction?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Should_I_just_throw_the_artifa" value="Dois-je simplement jeter l'artefact dans la vieille carrière?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Are_you_blind_or_just_clueless" value="Êtes-vous aveugle ou simplement désemparé?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Do_you_think_I_care_about_Wind" value="Pensez-vous que je me soucie de Windstone Village?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Why_won_t_they_even_touch_the_" value="Pourquoi ne toucheront-ils même pas la putain de chose?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_What_truth_does_it_want_to_hea" value="Quelle vérité veut-il entendre?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Why_do_they_just_tell_me_that_" value="Pourquoi me disent-ils simplement qu'il a été construit pour retirer la vérité des gens?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Why_doesn_t_any_Keeper_know_wh" value="Pourquoi un gardien ne sait-il pas de quoi il s'agit ou de quel monde il vient?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Do_you_think_I_haven_t_looked_" value="Pensez-vous que je n'ai pas regardé dans l'artefact et que j'ai essayé de briser la malédiction?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_How_do_you_think_I_m_doing_wit" value="Comment pensez-vous que je fais avec cette putain de malédiction sur moi, hein?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Do_you_really_want_to_know__or" value="Voulez-vous vraiment savoir, ou faites-vous simplement semblant de s'en soucier?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Can_t_you_get_lost_and_let_me_" value="Ne pouvez-vous vous perdre et me laisser faire mon travail?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Why_does_everyone_act_like_the" value="Pourquoi tout le monde agit-il comme s'ils n'avaient jamais rencontré un gars maudit auparavant?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_The_one_who_has_to_speak_any_s" value="Celui qui doit parler de la merde dans son esprit comme une question?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Ever_heard_of_Quaridor_Vex__th" value="Avez-vous déjà entendu parler de Quaridor Vex, la malheureuse garde avec une bouche maudite?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Who_the_hell_do_you_think_I_am" value="Qui diable pensez-vous que je suis?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Are_you_trying_to_piss_me_off_" value="Essayez-vous de me faire chier, ou est-ce juste un talent naturel?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+</Node>

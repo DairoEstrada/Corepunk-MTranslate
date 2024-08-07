@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_test_kill_pumpkin_mobs" type="external">
+  <Key key="_npc_Hi_man_" value="Salut mec!" />
+  <Key key="_goal_kill_pumpkin" value="Détruire la citrouille" />
+  <Key key="_varDescription_DTxq" value=" " />
+  <Key key="_npc_Pumpkin" value="Citrouille" />
+  <Key key="_goal_end_quest" value="GO END QUEST" />
+</Node>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="QuestLocalization_a_fateful_bet" type="external">
+  <Key key="_npc_A_missed_opportunity_for_me_to" value="Una oportunidad perdida para practicar mi arte, pero así es la vida." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_No_worries__I_guess_time_sensi" value="No te preocupes. Supongo que los asuntos legales urgentes pueden esperar." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Pzgb" value="Gusanos de seda" />
+  <Key key="_npc_Should_you_manage_to_procure_s" value="Si logras conseguir algunos y entregárselos, tal vez encuentre tiempo para echar una mano." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goal_talk_npc" value="Regresa a Durzo &quot;Dicey&quot; Dunwaddle" />
+  <Key key="_npc_One_such_disruption_is_Durzo__" value="Una de esas interrupciones es Durzo 'Dicey' Dunwaddle, un guardia que podría usar algunos gusanos de seda frescos para preparar sus tratamientos faciales." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_From_what_I_hear__it_s_not_the" value="Por lo que he oído, no son los únicos tratamientos faciales que está recibiendo." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goalVoice_To_set_the_wheels_in_motion_fo" value="Para poner en marcha nuestro esfuerzo legal, lleva gusanos de seda frescos a Dicey en el Pueblo de Windstone. Cada arruga cuenta una historia, pero no hagamos de esto una historia de terror, ¿de acuerdo?" voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_I_d_be_keen_on_supporting_such" value="Estaría dispuesto a apoyar tal causa, pero mi agenda está bastante... congestionada." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Ah__you_re_here_about_Triton_s" value="Ah, estás aquí por la demanda de Triton contra esos monstruos. Vaya caso peculiar, debo decir." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Whatever__at_least_it_s_someth" value="Lo que sea, al menos es algo. Toma esto y dile al buen doctor que estamos en paz." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_I_guess_I_can_t_complain_about" value="Supongo que no puedo quejarme de los gusanos frescos, aunque prefiero mi maldito dinero en efectivo." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Are_these_worms_valuable__Is_i" value="¿Son estos gusanos valiosos? ¿Es un mensaje? ¿Cuál es el trato de ese tipo...?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_QuestActionAddToJournal_Dr__Glimmiwop_Goldenfield__Dis" value="Dr. Glimmiwop&#xA;Goldenfield, Granja Lejana.&#xA;&#xA;Lleva 5 gusanos de seda frescos a Durzo 'Dicey' Dunwaddle en nombre del Dr. Glimmiwop." />
+  <Key key="_npc_Perhaps_next_time_you_ll_be_re" value="Quizás la próxima vez estés listo para una experiencia transformadora." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_varDescription_Silkworms" value="Gusanos de seda" />
+  <Key key="_npc_So__this_is_Glimmiwop_s_way_of" value="Entonces, ¿esta es la forma en que Glimmiwop paga su deuda de póker? Interesante... Tenía otra cosa en mente." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Did_Dr__Glimmiwop_send_you_the" value="¿Te envió el Dr. Glimmiwop entonces? ¿Cómo resultó nuestra pequeña apuesta?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Excellent__Let_s_snip_and_scul" value="Excelente. Vamos a cortar y esculpir tu camino al éxito, querida." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+</Node>

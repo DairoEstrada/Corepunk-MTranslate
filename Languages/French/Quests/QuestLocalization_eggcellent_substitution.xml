@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eggcellent_substitution" type="external">
+  <Key key="_npc_You_want_artifact__you_need_to" value="Vous voulez un artefact, vous devez d'abord rendre les œufs comestibles!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_YUCKY_YUCKY_" value="Jeucky déchirant!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_no_help__Triton_still_hung" value="Vous n'aide pas, Triton toujours faim." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_sad__Maybe_next_time_" value="Triton triste.La prochaine fois peut-être." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goalVoice_HELLO__TRANSMITTER_WORKING___H" value="BONJOUR?Émetteur fonctionnant !?Dépêchez-vous, Imps n'attend pas longtemps!N'oubliez pas, avez besoin d'œufs.Ayez l'air vif!Triton plus faim, pas attendre éternellement." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_In_Windreach_Woods__imps_hide_" value="Dans Windreach Woods, Imps cache des œufs.Tuez des imps, afin que Triton puisse voler.Ensuite, Triton vous parle d'artefact dans le lac." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_Go_now__hunt_imps__Triton_stea" value="Allez maintenant, chassez les imps, Triton voler des œufs.Triton a faim." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goal_talk_npc" value="Retour à Triton" />
+  <Key key="_npc_Humans_say_no_eat_babies__So_T" value="Les humains disent ne pas manger de bébés.Triton veut donc des œufs imprégnés à la place." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_say_you_want_artifact_from" value="Vous dites que vous voulez un artefact du lac?Moi vous aidez si vous aidez d'abord." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_thank_you_for_herb__but" value="Triton thank you for herb, but now I get hungry. Need babies!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Let_me_taste___" value="Laisse-moi goûter ..." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goal_collect_lakehouse" value="Collectez l'artefact depuis Lakehouse" />
+  <Key key="_QuestActionAddToJournal_Triton_Windreach_Woods__Lake_h" value="Triton&#10;Windreach Woods, Lake House.&#10;&#10;Aider Triton à assurer une collation socialement acceptable en tuant 10 imps." />
+  <Key key="_npc_Fine__Triton_eat_you_babies_" value="Très bien, Triton te mange des bébés!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_varDescription_Collect_Imp_Eggs" value="Collectez les œufs d'impos" />
+  <Key key="_npc_You_make_easy_to_steal_eggs__T" value="Vous faites des œufs faciles à voler!Triton très heureux." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_steal_eggs_from_imps_" value="Triton vole des œufs des imps!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Good__good__Triton_hungry_for_" value="Bien bien.Triton a faim d'œufs savoureux." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+</Node>

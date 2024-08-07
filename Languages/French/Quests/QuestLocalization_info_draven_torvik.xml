@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_draven_torvik" type="external">
+  <Key key="_npc_Hey_there__dude__Name_s_Draven" value="Hé là, mec.Nom S Draven Torvik." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Used_to_be_just_another_factor" value="J'étais juste un autre gars de l'usine à Yorner, tu sais?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Lost_my_wife__man__and_her_las" value="J'ai perdu ma femme, mon homme et son dernier souhait était pour moi de voir le monde.Alors je suis là." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Built_this_bike_from_scraps_ba" value="Construit ce vélo à partir de restes à l'usine.Me fait bouger, me garde libre." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Travelin__Kwalat__meeting_folk" value="Travellin Kwalat, rencontrer des gens comme vous, c'est une sorte magique, tu sais?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Every_stop__every_story_I_shar" value="Chaque arrêt, chaque histoire que je partage, c'est comme elle avec moi." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Just_tryin__to_honor_her_memor" value="Essayez juste d'honorer sa mémoire, un mile à la fois." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_I_m_doing_alright__thanks_for_" value="Je vais bien, merci d'avoir demandé." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_This_place_is_kind_of_a_sanctu" value="Cet endroit est une sorte de sanctuaire, vous savez?Parfait pour une vieille âme comme moi." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_My_wife__she_always_wanted_a_g" value="Ma femme, elle a toujours voulu un jardin, mec.Je suppose qu'elle a adoré ici." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Winds_through_these_woods_make" value="Les vents à travers ces bois me font me sentir vivant, comme si elle chuchotait dans les feuilles." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_So_yeah__it_s_a_bit_of_a_journ" value="Alors oui, c'est un peu un voyage, mais celui rempli de ces moments sereins." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_It_s_a_pretty_chill_spot_" value="C'est un endroit assez froid." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Compared_to_the_bustling_citie" value="Par rapport aux villes animées comme Leithana, elle est super serein ici." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Elan_s_all_about_that_ancient_" value="Elan est tout sur cette énergie et cette magie anciennes, tandis que les Quaddari ont cette ambiance de haute technologie, vous savez?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_I_think_this_place_suits_me_a_" value="Je pense que cet endroit me convient un peu plus.Peut-être qu'une fois que je verrai Faiden, je m'installerai ici." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Nah__I_m_good__but_thanks_for_" value="Non, je vais bien, mais merci d'avoir offert, mec." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Appreciate_it__but_I_m_all_set" value="Appréciez-le, mais je suis tout défini." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_You_just_take_it_easy_" value="You just take it easy." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_No_worries__dude__Got_it_cover" value="Pas de soucis, mec.Je l'ai couvert.Profitez des bois!" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_I_m_alright__but_if_you_see_so" value="Je vais bien, mais si vous voyez quelque chose de cool là-bas, faites-le moi savoir!" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_All_good_here__friend_" value="Tout bien ici, ami." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Just_take_a_breather_and_soak_" value="Prenez une pause et trempez dans les vibrations." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Thanks_for_asking__but_you_sho" value="Merci d'avoir demandé, mais vous devriez explorer un peu." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Don_t_stress_it__man__Just_enj" value="Ne le stressez pas, mec.Profitez simplement de votre voyage." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Nah__I_m_chillin___but_maybe_w" value="Non, je suis déchaîné, mais peut-être que nous pouvons échanger des histoires plus tard." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Could_use_a_hand_finding_the_c" value="Pourrait utiliser une main en trouvant l'endroit le plus cool ici." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Yeah__man__Looking_for_a_chill" value="Oui mon gars!Vous cherchez un endroit froid pour accrocher, vous dedans?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Know_any_cool_spots_around_the" value="Connaissez-vous des endroits frais autour de ces bois?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Help_me_find_this_epic_spot_I_" value="Aidez-moi à trouver cet endroit épique dont j'ai entendu parler." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Got_any_tips_on_the_best_chill" value="Vous avez des conseils sur les meilleurs spots de refroidissement ici?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Could_use_your_eyes_to_scout_o" value="Pourrait utiliser vos yeux pour repérer un endroit dope." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Let_s_find_the_raddest_hangout" value="Faisons le lieu de rencontre le plus radde ici." voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Heard_of_any_awesome_spots_to_" value="Entendu parler de spots impressionnants pour faire le plein de nos esprits?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+</Node>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_barkley_beats" type="external">
+  <Key key="_npc_What_s_crackin___dawg_" value="Qu'est-ce que Crackin ', Dawg?" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Yo__sniffer_" value="Yo, renifleur!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Sup__bitches_" value="Sup, salopes?" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_What_s_up__bitches__" value="Quoi de neuf, salopes ?!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Yo__dogface_" value="Yo, dogface!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Hey__bitches_" value="Hé, salopes!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_What_the_bark__" value="Qu'est-ce que l'écorce ?!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Sniff_anything_good__bitch__" value="Sniffez quelque chose de bien, salope ?!" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+  <Key key="_npc_Ruff__n_ready__bitch_" value="Ruff 'n prêt, salope?" voiceSettingsId="Mog4JLoGDq9fqeIVBFtS" />
+</Node>

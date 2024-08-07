@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_farmer_poultry" type="external">
+  <Key key="_npc_I_m_Granny_Hilde__just_a_tough" value="Soy Granny Hilde, solo una vieja gallina dura que se arrastra en estas partes de Goldenfield.No es nada que no pueda manejar." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Used_to_share_this_coop_with_a" value="Solía ​​compartir este cooperativo con un esposo, un valiente portador de luz.La oscuridad del valle de los pecados lo tragó hace años." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Now_it_s_just_me__my_chickens_" value="Ahora soy solo yo, mis gallinas y un trabajo duro.No tengo tiempo para las lágrimas, solo para un buen sudor honesto." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Ain_t_much_to_look_at__but_it_" value="No tiene mucho que ver, pero es pacífico y el suelo es bueno.Y nada supera la vista de una polla negra a la luz de la mañana." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_How_am_I__Well__can_t_complain" value="¿Como estoy?Bueno, no puedo quejarme, no serviría de todos modos de todos modos.Además, ¿quién escucharía además de mis pollos?" voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Life_s_a_henhouse__busy_and_me" value="La vida es una casa de gallina, ocupada y desordenada, pero todo vale la pena cuando ves esos huevos frescos por la mañana." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Every_day_s_a_new_struggle__bu" value="Todos los días es una nueva lucha, pero soy más dura que un gallo viejo.Obtuve mi salud y una racha terca de una milla de ancho." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_miss_my_husband_every_damn_d" value="Extraño a mi esposo todos los malditos días, pero el dolor no va a alimentar a las gallinas, ¿verdad?" voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_This_ol__place__It_s_Goldenfie" value="¿Este lugar?Es Goldenfield, un pueblo agrícola tranquilo y una maldita vista mejor que en cualquier otro lugar." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Sure__it_ain_t_shiny_like_Leit" value="Claro, no es brillante como Leithana, pero tenemos trigo, maíz y los huevos más frescos de este lado del río." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Good_thing_I_have_my_cocks____" value="Lo bueno es que tengo mis pollas ... pueden no ser grandes conversadores, pero son mejores oyentes que la mayoría de la gente." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Goldenfield_s_got_a_rhythm_to_" value="Goldenfield tiene un ritmo.Está en el susurro del trigo, el golpe de mis pájaros y el zumbido del tractor.Es el hogar." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Well_sugar__there_s_always_som" value="Bueno, azúcar, siempre hay algo por hacer aquí." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Yes_dear__there_s_a_task_you_c" value="Sí, querido, hay una tarea con la que podrías ayudarme." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Indeed__I_could_use_a_helping_" value="De hecho, podría usar una mano amiga." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_m_managing_for_now__but_than" value="Estoy manejando por ahora, pero gracias, querido." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_can_handle_things_here__but_" value="Puedo manejar las cosas aquí, pero agradezco su oferta." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Not_right_now__sweetheart__but" value="No ahora, cariño, pero gracias." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_My_feathered_babies_are_lookin" value="Mis bebés emplumados se ven un poco delgados, necesitan más nutrición." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_think_a_few_bundles_of_corn_" value="Creo que algunos paquetes de maíz de los campos los harían bien." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_You_d_be_doing_me_a_great_serv" value="Me estarías haciendo un gran servicio y las gallinas también." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Oh__well_that_s_a_shame__The_c" value="Oh, bueno, eso es una pena.Las gallinas estarán decepcionadas." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_I_understand__dear__Maybe_anot" value="Entiendo cariño. Tal vez en otro momento." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+  <Key key="_npc_Alright_then__I_suppose_we_ll_" value="Muy bien entonces, supongo que nos las arreglaremos." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
+</Node>

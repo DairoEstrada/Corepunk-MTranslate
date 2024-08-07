@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_heart_of_the_forest" type="external">
+  <Key key="_npc_You__new_worker__Go_forest__Fi" value="Tú, nuevo trabajador.Ir bosque.Encuentra duramen.Grrr, ¿sí?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Bring_heartwood_to_Eamon__He_c" value="¡Trae el duramen a Eamon!Él talla.Grrr, grrr!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_goalVoice_Grrr__you_find_heartwood_yet__" value="Grrr, ¿encuentras el duramen ya?Reúna 10 duramaderos del bosque, traiga de vuelta.Grrr, rápido!Grrr, ¡date prisa!Maderas no seguras.Trae el duramen pronto." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grrr__fine__Still_need_heartwo" value="Grrr, ¡bien!Todavía necesito duramen." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_No__Grr__this_why_invasion_jus" value="¿No?Grr, por qué la invasión justificada." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grrr__you_weak__But_maybe_next" value="¡Grrr, débil!Pero tal vez la próxima vez." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_This_is_how_human_system_works" value="¡Así es como funciona el sistema humano!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_varDescription_Y4rv" value="Recoger el duramen" />
+  <Key key="_goal_talk_npc" value="RETURNE EAMON HARDICH" />
+  <Key key="_npc_Fenwick___hic___might_know_mor" value="Fenwick - HIC - podría saber más.Pregúntele después de su próximo trabajo." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_Talks_like_he_can_barely_contr" value="Habla como si apenas pudiera controlar su propia boca." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_You_wanna_know_about_Grommuk__" value="¿Quieres saber sobre Grommuk?Sí, definitivamente es raro.¿Pero un extraterrestre?" voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_varDescription_Collect_Heartwood" value="Recoger el duramen" />
+  <Key key="_QuestActionAddToJournal_Grommuk_Ironhand_Westwind_Wood" value="Grommuk Ironhand&#10;Westwind Woods, Sawmill Center&#10;&#10;Ayude a Grommuk Ironhand reunir 10 Heartwood y entregarlo a Eamon Hardich." />
+  <Key key="_npc_Grrr__need_heartwood__Shipment" value="Grrr, necesito duramen.Envío perdido.¡Grr, malo!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hic___perfect__This_will_do_ju" value="HIC - ¡Perfecto!Esto funcionará bien.Maldita sea, de hecho." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_So__uh___hic___you_got_the_dam" value="Entonces, eh - hic - tienes la maldita madera o qué?" voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_GRRR__good__You_strong__Do_job" value="Grrr, ¡bueno!Tú fuerte.Hacer trabajo." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_corruption_clean-up" type="external">
+  <Key key="_npc_Choosing_not_to_act_has_its_ow" value="Choisir de ne pas agir a ses propres conséquences.Pensez à Lyra." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Turning_away_means_the_misery_" value="Se détourner signifie que la misère pour Lyra ne fait que grandir." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_m_tasking_you_with_a_critica" value="Je vous emmène avec un travail critique: écraser ces mutants.Considérez-le comme la lutte antiparasitaire des ravageurs était des cauchemars infernaux." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_goal_talk_npc" value="Parlez à Morick Voss" />
+  <Key key="_npc_Can_t_blame_you__but_Lyra_will" value="Je ne peux pas te blâmer, mais Lyra aura le cœur brisé si elle trébuche sur quelque chose qu'elle ne devrait pas." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_goalVoice_Keep_cleaning_up_those_mutants" value="Continuez à nettoyer ces mutants, parce que nous ne pouvons pas avoir Lyra reconstituer les choses, pouvons-nous maintenant?Si elle a été distraite par ... la perte, elle euh ... n'aura pas le temps de signer votre formulaire de service." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Backing_out__It_s_on_you_if_Ly" value="Sauvegarde sur?C'est sur vous si Lyra se blesse à découvrir la vérité." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_am_concerned_Lyra_will_find_" value="Je m'inquiète que Lyra trouvera des preuves de leur disparition et sera ... dévastée." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Those_mutant_dreads_may_have_k" value="Ces dreads mutants ont peut-être tué notre, euh ... camarade." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_So__you_know_about_the_Valley_" value="Alors, vous connaissez la vallée des péchés, non?C'est de là que vient cette merde folle." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_By_the_way__I_ve_got_a_final_t" value="Au fait, j'ai une tâche finale pour vous.Vous ne mentionnez pas l'insigne, Deal?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_QuestActionAddToJournal_Morick_Voss_Westwind_Woods__Va" value="Moririck Voss&#10;Westwind Woods, Valley of Sins Infestation.&#10;&#10;Aider le portefeuille Morick Voss pour éliminer 10 dendroïdes qui se déversent de la vallée des péchés." />
+  <Key key="_goal_kill_mobs" value=" " />
+  <Key key="_npc_Walk_away_if_you_must__but_kno" value="Éloignez-vous si vous le devez, mais sachez que la douleur que Lyra fera face." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_varDescription_Kill_Dendroids" value="Tuer les dendroïdes" />
+  <Key key="_npc_Remember__what_happens_in_the_" value="N'oubliez pas que ce qui se passe dans les bois reste dans les bois.Surtout tous les badges." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Pure_coincidence__I_m_sure__It" value="Pure coïncidence, j'en suis sûr.C'est un nom commun." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_You_got_guts__kid__Or_you_will" value="Tu as du courage, gamin.Ou vous allez éclabousser dans la forêt.Je rigole.Sorta." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Did_you_see_anything_out_there" value="Avez-vous vu quelque chose qui pourrait avoir besoin, euh ... une enquête plus approfondie?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_You_didn_t_see_a_Lightbearer_s" value="Vous n'avez pas vu un jeton de porte-lumière avec mon nom dessus, n'est-ce pas?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+</Node>

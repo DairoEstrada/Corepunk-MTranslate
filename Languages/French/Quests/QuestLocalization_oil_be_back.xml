@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_oil_be_back" type="external">
+  <Key key="_npc_Return_to_me_with_haste__I_mus" value="Retour à moi avec hâte.Je dois continuer mon itinéraire." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_You_are_doing_the_correct_acti" value="Vous faites la bonne action.Vas y." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_goal_collect_natura_oil_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_iron_ingots_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Have_you_completed_your_simple" value="Avez-vous terminé votre simple mission humanoïde?" voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_varDescription_Cd3J" value="Recueillir des lingots en fer" />
+  <Key key="_npc_Mission_finished__Turning_off_" value="Mission terminée: désactiver les défenses.Target: amical." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_varDescription_h66c" value="Collectez une huile naturelle" />
+  <Key key="_npc_Action_Request__Please_oil_me_" value="Demande d'action: veuillez m'huile au fond de mon équipement." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_Hello_humanoid__Quadro_Sentine" value="Bonjour humanoïde.Les systèmes Quadro-Sentinel 4.0 S commencent à s'user.Nécessitent une maintenance." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_I_require_fresh_oil_and_new_pl" value="J'ai besoin d'huile fraîche et de nouvelles assiettes pour continuer à garder Goldenfield à l'abri des intrus." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_Return_to_me_with_Natural_Oil_" value="Revenez à moi avec de l'huile naturelle et deux lingots de fer ou je ne remarquerai peut-être pas votre documentation." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_QuestActionAddToJournal_Quadro_Sentinel_4_0_Goldenfiel" value="Quadro-Sentinel 4.0&#10;Goldenfield, champs de Goldenfield.&#10;&#10;Aidez à maintenir le quadro-Sentinel 4.0 en rassemblant des matériaux essentiels pour son entretien." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Natural_Oil_required_for_my_ge" value="Huile naturelle requise pour mes engrenages.Renforcez mes plaques métalliques avec deux lingots de fer." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_varDescription_Collect_a_Natural_Oil" value="Collectez une huile naturelle" voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Iron_Ingots" value="Recueillir des lingots en fer" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Well__that_s_unfortunate__Hope" value="Eh bien, c'est malheureux.J'espère que vous ne rencontrez aucun problème de sécurité." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_Help_me_if_you_want_to_live_" value="Aidez-moi si vous voulez vivre." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_Papers_undetected____undocumen" value="Documents sans détection ... pull de portail sans papiers!Activer les défenses ...." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+</Node>

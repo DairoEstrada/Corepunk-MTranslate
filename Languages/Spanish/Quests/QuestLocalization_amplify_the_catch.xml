@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_amplify_the_catch" type="external">
+  <Key key="_npc_The_whispers_grow_ressstlesss_" value="Los susurros se vuelven inquietos, pero hagan lo que debas.Cuidado con las sombras." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ahhh__declinessss_the_call_of_" value="Ahhh, decisión el llamado de lo profundo.Las pescadoras podrían ... no ser tan indulgente." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_goalVoice_Ssswim_swiftly__adventurer____" value="SSSWIM rápidamente, aventurero ... el objetivo espera en el mercado, Windssstone Village.Los dioses de los peces crecen impasssient.Traiga el micrófono SSSSSTOLEN antes de ssink a un sueño hosco." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_You_must_ssssssteal__The_fisss" value="Debes ssssssteal.Los dioses de Fissssh dicen que es Jussst." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Annnnd_sssso_you_know___I_alre" value="Annnnd sssso, ya sabes, ya estoy asalté.No para Ssssale." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_goal_collect_items" value="Recolectar micrófono amplificado" />
+  <Key key="_goal_talk_npc" value="Regresar a las aletas" />
+  <Key key="_npc_Fetch_this_deviccce_from_the_w" value="Obtenga este dispositivo desde el mercado de armas y armaduras en Windstone Village, y a cambio, usted recibe pescado fresco.Y otra Tasssk." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_I_need_a_deviccce_called_a__mi" value="Necesito un deviccce llamado 'micrófono' para amplificar la antigua Hissstory.Quizás es otro favor después." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_The_ancient_fish_godssss_deman" value="Los antiguos dioses de los peces exigen que sus susurros lleguen a los oídos de las aldeas de todas partes." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_But__my_voice_is_muffled_by_th" value="Pero, mi voz es amortiguada por el viento y las olas." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Note_of____legal_consssent__Ss" value="Nota de ... Contras legalesSssure." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Your_deedsss_shall_resound_in_" value="Sus escrituras se resongarán en los Taleesss de las profundidades.Pero para sus SSSSummons legales, necesito uno más." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_CAN_YOU_HEAR_ME_NOW__Yessss_" value="¿PUEDES ESCUCHARME AHORA?Yessss." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_QuestActionAddToJournal_Ol__Fins_Windstone_Village__Wi" value="Aletas&#10;Villa de viento, Windstone Lake's.&#10;&#10;Ayude a las aletas a atraer más aldeanos al traerle un micrófono." />
+  <Key key="_npc_Turning_away__are_we__The_dept" value="Dirigiéndonos, ¿verdad?Las profundidades recuerdan ... siempresss." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ssssplendid__hero__Thisss_micr" value="Ssssplendid, héroe.El micrófono de estess se eculará con nuestras antiguas rimas." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ahhh____the_seeker_returnsss__" value="Ahhh ... el buscador regresa.¿Cómo te gusta?" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Ahh__blessssed_catch__brave_ss" value="Ahh, captura bendita, valiente ssssoul.Los dioses de los peces ... SSS se pasarán." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+</Node>

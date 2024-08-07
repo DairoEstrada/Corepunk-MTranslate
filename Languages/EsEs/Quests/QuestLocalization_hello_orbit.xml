@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_orbit" type="external">
-  <Key key="_npc_Acknowledged__unknown_biologic" value="¡Unidad biológica desconocida, desconocida!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
-  <Key key="_npc_Salutations__life_form_" value="Saludaciones, forma de vida!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
-  <Key key="_npc_Hello__organism_" value="¡Hola, organismo!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
-  <Key key="_npc_Greetings__entity_" value="Saludos, entidad!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
-</Node>

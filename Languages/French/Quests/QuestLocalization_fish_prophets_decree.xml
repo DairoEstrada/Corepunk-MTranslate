@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fish_prophets_decree" type="external">
+  <Key key="_npc_The_fissssh_will_wait__But_bew" value="Le fissssh attendra.Mais méfiez-vous, ils pourraient grandir.Oui." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_The_ansssient_one_mussst_be_re" value="Le Ansssient un mussst être raressé, vous SSSEE.Peut-être une autre fois." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_goalVoice_Don_t_forget_the_thread__the_a" value="N'oubliez pas le fil, celui Ansssient s'approche." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_In_return__I_ll_give_you_my_no" value="En retour, je vais vous donner ma note de contrepoids légal pour Triton." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Make_thisss_ssstrong_thread_fo" value="Faites ce fil SSStrong pour moi, et ensemble, nous tirerons le poisson légendaire de son royaume aqueux." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_The_ansssient_one_demandsss_a_" value="L'unSssient One exige un fil de ssingrente légendaire." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Thisss_delicate_thread_of_mine" value="Ce fil délicat de moi, sifflement, il ne tiendra pas à nouveau." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_goal_talk_npc" value="Retour à 'ol nages" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_bdcH" value="Faire du fil fort" />
+  <Key key="_npc_A_colossal_fish__untouched_by_" value="Un poisson colossal, intact par le temps, se lèvera la lune des profondeurs." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_The_ansssient_fish_godsss_have" value="Les anciens dieux du poisson m'ont chuchoté." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Your_act_of_kindnessss_will_be" value="Les profondeurs de votre acte de gentillesse seront dans les mémoires." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Take_thisss_note__and_let_the_" value="Prenez cette note et laissez la fortune de l'eau vous suivre." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_May_the_ansssient_fish_godsss_" value="Que l'ancienne déesse du poisson vous bénisse toujours SSS." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Here_sssss_your_reward__as_pro" value="Voici votre récompense, tel que promis." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_QuestActionAddToJournal_Ol__Fins_Windstone_Vallage__Wi" value="Ol 'nages&#10;Windstone Vallage, Windstone Lake's.&#10;&#10;Aidez les nageoires à attraper les anciens poissons en lui apportant un fil de pêche plus fort." />
+  <Key key="_npc_The_ansssient_fish_godsss_grow" value="Les anciens dieux du poisson deviennent agités.Ne tarde pas, ou ils pourraient manger plus que votre prise." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_varDescription_Make_Strong_Thread" value="Faire du fil fort" />
+  <Key key="_npc_This_thread_is_sssstrong_in_ch" value="Ce fil est de caractère SSSStrong." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Sssseer_of_the_depthsss_return" value="SSSSEER DES RETOURSSSSSSSSSSSSSSSS!" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Yessss__you_have_the_favor_of_" value="Yessss, vous avez la faveur des onessSSSSIENT." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+</Node>

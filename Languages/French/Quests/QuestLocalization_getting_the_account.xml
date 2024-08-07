@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_getting_the_account" type="external">
+  <Key key="_npc_Great__I_knew_you_wouldn_t_let" value="Super!Je savais que tu ne me laisserais pas tomber." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__these_masks_are_cruc" value="N'oubliez pas que ces masques sont cruciaux.Ne reviens pas sans eux." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_re_back__Successful__I_hop" value="Vous êtes de retour!Réussi, j'espère?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_did_it__Excellent_work_" value="Tu l'as fait! Excellent travail." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Here_s_that_piece_of_fire_grad" value="Voici cet équipement classé par le feu comme promis." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_It_s_a_solid_investment___any_" value="C'est un investissement solide - tout coffre-fort sans volonté qui lui est attaché par défaut à la banque lors de la résiliation." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__use_it_wisely__The_i" value="N'oubliez pas, utilisez-le judicieusement.Les IMP ne sauront pas ce qui les a frappés." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_mask_green" value=" " />
+  <Key key="_varDescription_MvK0" value="Collectez Mask Green" />
+  <Key key="_goal_collect_mask_orange" value=" " />
+  <Key key="_varDescription_CYO1" value="Collectez des cornes orange masques" />
+  <Key key="_goal_collect_mask_pink" value=" " />
+  <Key key="_varDescription_CLm5" value="Recueillir un masque rose oiseau" />
+  <Key key="_QuestActionAddToJournal_T1PY" value="Oswald&#10;Goldenfield, banque.&#10;&#10;Récupérez les masques de Guru David pour Oswald." />
+  <Key key="_goalVoice_Still_need_those_masks_from_Gu" value="A encore besoin de ces masques de Guru David.N'oubliez pas: des cornes vertes et oranges et un oiseau rose.Dirigez-vous vers la maison de yoga à Goldenfield si vous avez oublié par où commencer.Sans ces masques, je ne peux pas vous aider avec l'équipement.Continuez, mon ami." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_metal_scrap" type="external">
+  <Key key="_npc_I_m_Scrapjack__WELL__WHAT_S_LE" value="Je suis Scrapjack.Eh bien, que reste-t-il de moi!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Two_sides__ONE_BODY__One_logic" value="Deux côtés, un corps.Un logique, un énervé." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Used_to_be_a_Seeker__Til__THEY" value="Autrefois un chercheur.Jusqu'à ce qu'ils aient ruiné ma putain de vie." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Now_I_m_just_a_TICKING_TIME_BO" value="Maintenant, je suis juste une bombe à retardement, à la fois métaphoriquement et littéralement." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_I_MAKE_BOMBS__BOOM__HAHAHA_" value="Je fais des bombes.BOOM!HAHAHA." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Little_presents_to_send_back_t" value="Petits cadeaux à renvoyer aux chercheurs." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_TO_SEND_THEM_TO_HELL_" value="Pour les envoyer en enfer!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_My_saner_side_tries_to_keep_th" value="Mon côté sain essaie de garder les choses sous contrôle, mais il est faible." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_This_side__Pure_CHAOS__Loves_t" value="Ce côté?Chaos pur.Aime le bruit des choses qui explosent." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Every_day__it_s_a_battle__Sani" value="Chaque jour, c'est une bataille.La santé mentale glissant petit à petit." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_BUT_I_ve_got_PLANS__BIG_PLANS_" value="Mais j'ai des plans, de grands projets." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Plans_to_MAKE_THEM_PAY_" value="Prévoit de les faire payer." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_YOU_AREN_T_A_SEEKER_ARE_YOU_" value="Vous n'êtes pas un chercheur, n'est-ce pas?" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_THESE_PEACEFUL_TREES_HIDE_DARK" value="Ces arbres paisibles cachent des secrets sombres." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Used_to_be_quiet__UNTIL_I_CAME" value="Auparavant, jusqu'à ce que je sois s'écrase." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_My_car__PACKED_WITH_BOMBS__wen" value="Ma voiture, remplie de bombes, a quitté la piste et le boom, bonjour la nouvelle maison." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Now_I_m_here__sifting_through_" value="Maintenant, je suis là, passez en revue les restes, transformant les débris en destruction." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Most_people_AVOID_THIS_PLACE__" value="La plupart des gens évitent cet endroit, pour une bonne raison." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Just_TRY_NOT_TO_SET_ANYTHING_O" value="Essayez juste de ne rien déclencher, nous ne voudrions pas un accident maintenant, n'est-ce pas?" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Hahaha_" value="Hahaha!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Help__WONDERFUL__Ignore_the_WH" value="Aide?MERVEILLEUX.Ignorez les chuchotements." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_CRAZY_SIDE_SAYS_BLOW_UP__Ignor" value="Le côté fou dit souffler.Ignore le.On travaille ensemble." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Help_the_SANER_side__before_th" value="Aidez le côté plus sain, avant que le cerveau de la bombe ne gagne." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_YESSS____Let_s_WRECK_THE_SEEKE" value="Oui ... détruisons les chercheurs ... attendez, non, aide, pas détruire." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Aid_MIGHT_CALM_the_MADNESS_" value="L'aide pourrait calmer la folie." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_I_might_NEED_____assistance___" value="J'ai peut-être besoin de ... Assistance ..." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_YES__Help_me__Before_HE_TAKES_" value="OUI!Aide-moi!Avant qu'il ne prenne le relais!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Help__HAH__Hope_you_LIKE_DANGE" value="Aide?Hah!J'espère que vous aimez le danger!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Fine__watch_for_THE_SURPRISES_" value="Très bien, surveillez les surprises." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_HELP_ME_DESTROY_THEM__I_mean__" value="Aidez-moi à les détruire!Je veux dire ... Ahem Aide-moi, s'il vous plaît." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Yes__Together_we_can_NUKE__EM_" value="Oui!Ensemble, nous pouvons nucotter Em Seckers!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Sure__we_ve_got_WORK_to_do__NO" value="Sure, we've got WORK to do. NO, IGNORE HIM." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_NO_THANKS__I_M_FINE__Wait__are" value="NON MERCI, ÇA VA.Attendez, allons-nous bien?OUI NOUS SOMMES!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_No_work_now__TOO_DANGEROUS__Or" value="Pas de travail maintenant.TROP DANGEREUX.Ou trop amusant?Shh!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_WE_DON_T_NEED_HELP__Or_do_we__" value="Nous n'avons pas besoin d'aide.Ou sommes-nous?Non, nous ne t'aurons pas!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Help__NAH__GOT_IT__But_WHAT_DO" value="Aide?Non, je l'ai.Mais qu'avons-nous?" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_NOT_NOW__Hands_are_full_of_MAD" value="PAS MAINTENANT!Les mains sont pleines de folie!" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_No__no__We_HANDLE_IT__Or_YOU_H" value="No, no! We HANDLE IT. Or YOU HANDLE IT?" voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_Back_off__no_help_needed__But_" value="Back off, no help needed! But ticking, ticking..." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+  <Key key="_npc_NO__Aid_is_BAD_IDEA__Bomb_brai" value="NON!L'aide est une mauvaise idée.Bomb Brain rit ..." voiceSettingsId="woBBiot7bMZjjrHIV96r" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hidden_menace" type="external">
+  <Key key="_npc_Ditching_this_quest_is_signing" value="Ditching esta missão está assinando um mandado de morte para os civis por aqui.É sua maldita consciência." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_goal_collect_items" value="Recuperar o artefato de um chefe" />
+  <Key key="_npc_You_can_run__but_the_death_tol" value="Você pode correr, mas o número de mortos daquela coisa de foder o assombrará para sempre." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_goal_talk_npc" value="Voltar para Themis" />
+  <Key key="_npc_Walking_away__You_re_fucking_o" value="Indo embora?Você está fodendo com todos.Toda vida perdida para esse artefato está sobre você." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_You_gotta_be_kidding__Cowardic" value="Voce deve estar brincando.A covardia é um ingresso de mão única para uma sentença de morte por aqui." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_goalVoice_That_artifact_is_no_trinket_ev" value="Esse artefato não é uma bugiganga-todos os segundos que você hesita, seu poder festa.A magia negra não espera.Confronte a besta e recupere o artefato antes de reivindicar mais vidas." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Ancient_magic_is_deadly_busine" value="A magia antiga é um negócio mortal.Aborda com cautela e mantenha -se vigilante." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Your_mission_is_to_find_this_a" value="Sua missão é encontrar esse artefato, derrubar a besta que o empunham e trazer o artefato de volta para Themis.Sim, ele é um pouco desajeitado, mas está no comando agora." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_This_dangerous_relic_has_now_f" value="Essa relíquia perigosa agora caiu nas mãos de uma fera monstruosa, tornando -a uma ameaça ainda mais." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_We_re_dealing_with_dark_magic_" value="Estamos lidando com magia negra aqui, e não é brincadeira.Isso pode até ser algo ... antigo." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Please__just_take_the_artifact" value="Por favor, basta pegar o artefato e ir, preciso descobrir as coisas." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Let_s_get_one_thing_straight__" value="Vamos esclarecer uma coisa: esse artefato não abrirá portais de Kwalat.Ele matou o capitão quando ele tentou." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_QuestActionAddToJournal_Trevor_Barlow_Windreach_Woods_" value="Trevor Barlow&#10;Windreach Woods, Fort.&#10;&#10;Rastreie o artefato mantido por uma entidade monstruosa, mate o monstro e devolva o artefato a Themis." />
+  <Key key="_varDescription_Artifact_of_the_Ancients" value="Artefato dos antigos" />
+  <Key key="_npc_This_is_all_too_much__Thank_yo" value="Isso é demais.Obrigado por trazer isso de volta, não sei o que vou fazer." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_No__no__this_can_t_be_happenin" value="Não, não, isso não pode estar acontecendo.Eu deveria estar no comando agora?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_I_can_t_believe_it__Is_Dad__" value="Eu-eu não posso acreditar.Pai se foi?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_D_did_you_see_my_dad_out_there" value="D-did Você vê meu pai lá fora?Ele está bem?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Good__Keep_your_shit_together_" value="Bom.Mantenha sua merda juntos, isso não é a brincadeira da criança." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+</Node>

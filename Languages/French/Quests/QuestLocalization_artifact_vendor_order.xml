@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_artifact_vendor_order" type="external">
+  <Key key="_npc_Attaboy__I_knew_you_had_the_sp" value="Attaboy!Je savais que tu avais l'esprit d'un charognard." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_goal_collect_artifact" value="Recueillir un implant d'immuno-stimulation peu commun" />
+  <Key key="_QuestActionAddToJournal_9Zi0" value="Griz Turner&#10;Goldenfield, près de la boutique d'artefacts&#10;&#10;Aidez Griz Turner à reconstituer son stock d'artefact." />
+  <Key key="_goalVoice_Bring_me_a_Uncommon_Immuno_Sti" value="Apportez-moi un implant immuno-stimulant peu commun, ami." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_Still_on_the_hunt_for_that_Unc" value="Toujours à la recherche de cet implant de stimulation immunitaire rare?" voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_Remember__the_implant_s_a_rare" value="N'oubliez pas que l'implant est une découverte rare.Gardez ces yeux ouverts." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_No_luck_yet__eh__Keep_at_it_" value="Pas encore de chance, hein?Persévère!" voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_I_ll_be_darned__an_outworlder_" value="Je serai sacrément, un Outworlder l'a trouvé!" voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_Bring_me_a_Uncommon_Immuno_Sti" value="Apportez-moi un implant immuno-stimulant peu commun." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_I_m_going_to_make_a_fortune_fr" value="Je vais faire une fortune à partir de cela - euh, je veux dire que nous le ferons." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_Here_s_your_totally_equal_cut_" value="Voici votre coupe totalement égale des bénéfices!" voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_These_can_be_crafted__but_one_" value="Ceux-ci peuvent être fabriqués, mais l'un de ces calibres peut prendre quelques essais." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+  <Key key="_npc_D_Rek_could_probably_help_you_" value="D'Rek pourrait probablement vous aider avec la recette." voiceSettingsId="N2lVS1w4EtoT3dr4eOWO" />
+</Node>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_blooming_melon-drama" type="external">
+  <Key key="_npc_You_re_a_lifesaver__Let_s_get_" value="Tu es une bouée de sauvetage!Prenons ces fleurs et racines avant de perdre à nouveau mon nerf." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_goal_collect_lotus" value=" " />
+  <Key key="_goal_collect_fragnant_root" value=" " />
+  <Key key="_npc_So__you_re_back__Did_you_find_" value="Alors, tu es de retour!Les avez-vous trouvés?" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_varDescription_AQQR" value="Collectez le lotus bleu" />
+  <Key key="_varDescription_SYZt" value="Collectionner la racine parfumée" />
+  <Key key="_npc_With_these_flowers_and_roots__" value="Avec ces fleurs et racines, Martha aura enfin un aperçu de ce qu'elle signifie pour moi." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Maybe_I_ll_even_get_a_glimpse_" value="Peut-être que je vais même avoir un aperçu de ses melons, tu sais ce que je veux dire." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Here__take_this__It_s_a_piece_" value="Tiens prends ça.C'est un morceau de ma précieux récolte de pastèque.Tu l'as mérité." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_And_a_little_gold_for_your_tro" value="Et un peu d'or pour vos ennuis.Merci vraiment." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_I_ve_been_growin__these_waterm" value="J'ai grandi dans ces pastèques de tout mon cœur, mais il y a quelque chose que je voulais grandir encore plus - Martha - et ses melons." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_The_problem_is__every_time_I_t" value="Le problème est que, chaque fois que j'essaie de lui parler, mon courage flétrit comme une fleur mourante." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_But_I_ve_got_a_plan__see__A_bo" value="Mais j'ai un plan, voyez-vous?Un bouquet fait du plus beau lotus bleu et de la racine parfumé.Cela lui montrera ce que je ressens vraiment." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_If_you_can_give_me_a_hand_whil" value="Si vous pouvez me donner un coup de main pendant que je répare à nouveau ces putains de tuyaux, je vous jetterais un os." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_goalVoice_Remember__I_m_lookin__for_two_" value="Rappelez-vous, je cherche deux lotus bleus et deux racines parfumées.Lotus bleu que vous trouverez dans les buissons.Racines parfumées, eh bien, buissons." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_QuestActionAddToJournal_Kicheki_Watermelon_field__Help" value="Kicheki&#10;Champ de pastèque&#10;&#10;Aidez Kicheki à exprimer ses sentiments pour Martha avec un bouquet spécial." />
+  <Key key="_varDescription_Collect_Blue_Lotus" value="Collectez le lotus bleu" />
+  <Key key="_varDescription_Collect_Fragrant_Root" value="Collectionner la racine parfumée" />
+  <Key key="_npc_Ah__that_s_a_shame__Thought_yo" value="Ah, c'est dommage.Je pensais que vous pourriez être prêt pour un choix de fleurs." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_No_worries__friend__If_you_cha" value="Pas de soucis, ami.Si vous changez d'avis, je serai là avec mes melons." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Well__alright_then__Maybe_Mart" value="Eh bien, d'accord alors.Peut-être que le cœur de Martha attendra un peu plus longtemps." voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+</Node>

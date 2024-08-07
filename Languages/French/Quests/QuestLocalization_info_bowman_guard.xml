@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_bowman_guard" type="external">
+  <Key key="_npc_The_name_s_Bronco_Rivers__but_" value="Les rivières de Bronco du nom, mais les gens des gens m'appellent &quot;Bowman." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Used_to_roll_the_dice_in_fanci" value="Utilisé pour rouler les dés dans des endroits plus sophistiqués, tu sais ce que je dis?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Now__I_keep_an_eye_on_this_her" value="Maintenant, je garde un œil sur cette jetée ici, je fais sûr qu'aucune affaire drôle ne tombe en panne." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Let_s_just_say__luck_ain_t_alw" value="Disons simplement que la chance n'a pas toujours été de mon côté." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Ended_up_in_Windstone_after__u" value="S'est retrouvé à Windstone après, euh, un «petit incident» dans un autre joint." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Got_myself_a_job_as_a_pier_gua" value="J'ai obtenu un emploi en tant que gardien de jetant, pas exactement là où je suis imaginé, mais nous y sommes." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Ah__you_know__life_s_a_mixed_b" value="Ah, vous savez, la vie est un sac mixte ici." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Trying_to_keep_things_straight" value="Essayer de garder les choses directement sur cette jetée n'est pas toujours facile." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Last_night__I_lost_big_in_a_ca" value="Hier soir, j'ai perdu grand dans un jeu de cartes.Encore.Je ne peux pas prendre une pause." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_These_ungrateful_fishermen__th" value="Ces pêcheurs ingrats, ils ne m'aiment pas trop." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_I_m_just_keeping__em_safe____f" value="Je garde juste en sécurité ... pour des frais nominaux, bien sûr." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_But_hey__it_s_a_living__right_" value="Mais bon, c'est une vie, non?Je dois juste rouler avec les coups de poing." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc__Ol_Finns__he_gives_me_the_hee" value="«Ol Finns, il me donne les Heebie-Jeebies avec son obsession de poisson.Je ne peux pas comprendre ce gars." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_This_place__Oh__this_here_is_W" value="Cet endroit?Oh, voici ici Windstone Village, tu vois?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Quiet_lil__town_where_folks_gr" value="Town Town 'Town où les gens cultivent des cultures et bricolez le combat." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_We_got_a_bunch_of_hardworking_" value="Nous avons eu un tas de nains et de brownies travailleurs qui vivent ici, Keepin 'Things Move'." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_This_pier__It_s_where_the_fish" value="Cette jetée?C'est là que les pêcheurs entrent et sortent, toute la journée, tous les jours." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_But_lemme_tell_ya__there_s_mor" value="Mais LEMME Tell Ya, il y a plus de choses que cela ne rencontre l'œil, Capisce?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_We_got_strange_new_folks_poppi" value="Nous avons eu d'étranges nouveaux gens dans la cause des autres mondes d'un portail de fantaisie." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_It_ain_t_no_big_city__but_we_g" value="Ce n'est pas une grande ville, mais nous nous entendons.Alors regardez votre pas et jouez bien, vous l'avez bien?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Don_t_worry__it_ain_t_illegal_" value="Ne vous inquiétez pas, ce n'est pas illégal ... techniquement." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Lookin__for_action_" value="Vous cherchez l'action?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Well__well__a_volunteer_" value="Eh bien, eh bien, un bénévole!" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_I_got_just_the_thing__capisce_" value="J'ai juste la chose, Capisce?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Look_at_you__ready_to_dive_in_" value="Regardez-vous, prêt à plonger." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_I_got_a_lil__task_for_ya_" value="J'ai eu une petite tâche pour toi." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_How_d_ya_guess_" value="Comment tu devinez?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_I_got_a_job_with_your_name_on_" value="J'ai un emploi avec votre nom dessus, mon pote." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Ah__lookin__to_score_some_poin" value="Ah, cherchez à marquer quelques points, hein?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Ain_t_none_of_your_concern__sl" value="Ne vous inquiétez pas, lisse." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_This_ain_t_a_charity__pal__Scr" value="Cela a un organisme de bienfaisance, copain.Scram." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Nothing__unless_you_wanna_be_f" value="Rien, à moins que vous ne vouliez être des aliments de poisson." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Don_t_need_another_body_to_cle" value="N'ayez pas besoin d'un autre corps pour nettoyer." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Nah__no_need_for_muscle_right_" value="Non, pas besoin de muscle en ce moment, mon pote." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Forget_about_it__I_got_it_hand" value="Oubliez ça, je l'ai géré." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Ain_t_no_trouble_here__capisce" value="Il n'y a pas de problème ici, Capisce?" voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_Thanks__but_no_dice__pal_" value="Merci, mais pas de dés, copain." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_I_m_good__but_thanks_" value="Je vais bien, mais merci." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+  <Key key="_npc_No_need_for_ya__wise_guy__All_" value="Pas besoin de toi, sage mec.Tous manipulés ici." voiceSettingsId="ZKNwlYmEUkuaAMJsrKsH" />
+</Node>

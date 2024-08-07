@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_herbal_crafting" type="external">
+  <Key key="_goal_finish_goal" value="Parler au drogué" />
+  <Key key="_varDescription_eJS5" value="Trouvé de la méthamphétamine" />
+  <Key key="_QuestActionAddToJournal_MZua" value="Je dois couper du bois dans la forêt voisine et apporter les bûches à ce drogué." />
+  <Key key="_goal_craft_cannabis_joint" value="Artisanat ou trouvez de la méthamphétamine" />
+  <Key key="_npc_Wow__this_buddy_is_even_better" value="Wow, ce copain est encore meilleur que mon ancien.Tu m'as sauvé le cul, mon frère.Merci!Prends soin de toi." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_goalVoice_V7ez" value="Pourriez-vous m'apporter du bois, je le brûlerai ici.La merde brune se transformera en merde noire et s'activera ensuite en moi.с plutôt cool, ouais?" voice="Male" />
+  <Key key="_npc_Mate__I_thought_we_kinda_bonde" value="Je pensais que ce que nous avions était spécial.Je suppose que vous n'êtes pas l'un des bons.Ce n'est pas vrai." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_QuestActionAddToJournal_VWAb" value="Je l'ai fait.Je dois parler au drogué maintenant." />
+  <Key key="_npc_Heeeeey__I_knew_you_wouldn_t_l" value="HEeeeey, je savais que tu ne me laisserais pas dans cette situation tremblante." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_It_s_easy_stuff__believe_me__T" value="C'est facile, croyez-moi.Papier mince et quelques cônes." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Here_s_what_I_m_thinking__Coul" value="Voici ce que je pense.Pourriez-vous m'apporter un nouveau bogie.Ouais, ce sera cool!" voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_I_feel_weak_and_sad_without_it" value="Je me sens faible et triste sans ça.Je ne peux pas bouger mes jambes." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc__The_fat_jerks_on_the_way_out_" value="&quot;Les grosses secousses en sortant de la ville baisaient avec moi pendant vingt minutes. En conséquence, j'ai énervé mon bogie.&quot;" voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_I_was_supposed_to_deliver_the_" value="J'étais censé livrer les trucs ce matin comme je le fais habituellement, mais je n'acquiert jamais mes tâches sans bogie." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_varDescription_C3FU" value="Trouvé de la méthamphétamine" />
+  <Key key="_npc_What__It_helps_me_get_through_" value="Quoi?Cela m'aide à passer la journée de travail." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Oh__and_something_is_going_on_" value="Oh, et quelque chose se passe avec ma langue.Pas cool du tout." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

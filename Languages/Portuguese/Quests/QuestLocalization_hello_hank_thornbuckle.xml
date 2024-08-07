@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_hank_thornbuckle" type="external">
+  <Key key="_npc_Hey_there__champ_" value="Olá, Champ." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_How_s_it_going__kiddo_" value="Como vai, garoto?" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Hey__slugger_" value="Ei, Slugger." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_You_hanging_in_there_" value="Você está pendurado aí?" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Oh__hi__sport_" value="Oh, oi, esporte." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_You_doing_okay__pal_" value="Você está bem, amigo?" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_What_s_the_scoop__partner_" value="Qual é a colher, parceira?" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Hey__big_guy_" value="Ei, grande cara." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+</Node>

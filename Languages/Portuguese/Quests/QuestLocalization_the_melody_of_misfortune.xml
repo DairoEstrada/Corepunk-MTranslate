@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_melody_of_misfortune" type="external">
+  <Key key="_npc_Bravo__brave_soul__This_twiste" value="Bravo, alma corajosa!Esta troca torcida será uma performance própria!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_varDescription_Collect_a_Cursed_Horn" value="Colete uma buzina amaldiçoada" />
+  <Key key="_QuestActionAddToJournal_Bart_Blaine_Riverrise__Musical" value="Bart Blaine&#10;Riverrise, loja de instrumentos musicais.&#10;&#10;Ajude Felix a devolver seu violão amaldiçoado, adquirindo uma buzina amaldiçoada da Office dos Correios de Riverrise." />
+  <Key key="_goalVoice_A_new_torment_awaits_at_the_Po" value="Um novo tormento aguarda nos correios.Apresse -se, antes de Felix tecer outra música trágica!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Relief_at_last__yet_still_so_t" value="Finalmente, o alívio, mas ainda assim, trocando cordas para o poderoso chifre!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Toot____wait____toot__The_horn" value="Toot ... espere ... Toot!A buzina .... Toooooooooooo ... não ... também ... pare!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Tooooot____just____tooooot____" value="Tooooot ... apenas ... tooooot ... me dê ... Toot ... o violão ..." voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_npc_A_mix_of_joy_and_a_tiny_tear__" value="Uma mistura de alegria e uma pequena lágrima, fico feliz por ter voltado a esse equipamento estranho e amaldiçoado!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_goal_talk_npc" value="Entregar chifre amaldiçoado para Felix" />
+  <Key key="_npc_Here_s_your_music__my_friend__" value="Aqui está sua música, meu amigo, tão interessado, mas agora sabemos por que não há reembolsos, se você sabe o que quero dizer?" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Ah__still_here_about_Felix_and" value="Ah, ainda aqui sobre Felix e sua pequena situação?Muito a sinfonia do sofrimento, não é?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_He_snagged_that_guitar_from_me" value="Ele pegou aquele violão de mim, pensando que ele se tornou o próximo grande bardo.Gostaria disso!Em vez disso, ele o interpreta como um disco quebrado." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_I_only_do_exchanges__no_refund" value="Eu só faço trocas, sem reembolsos.Mas não tema!Uma buzina amaldiçoada está chegando em breve nos correios.Felix pode trocar sua miséria por uma nova!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Fetch_the_horn_for_him__won_t_" value="Pegue a buzina para ele, não é você?Ele trocará um tormento por outro, mas a lei diz que eu tenho que fazer trocas." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Well__that_s_a_pity__The_curse" value="Well, that's a pity. The cursed strings shall keep playing." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_No_worries__The_melodrama_cont" value="Sem problemas!O melodrama continua para Felix sem a buzina." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Ah__afraid_of_a_little_curse_s" value="Ah, com medo de uma pequena maldição trocar?Como Droll!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Suit_yourself__Felix_can_keep_" value="Suit yourself. Felix can keep serenading his sorrows a bit longer." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_With_a_strum_and_a_hum__did_yo" value="Com uma pequena e um zumbido, você buscou o prêmio amaldiçoado?" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+</Node>

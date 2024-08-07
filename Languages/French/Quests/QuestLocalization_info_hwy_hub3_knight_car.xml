@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hwy_hub3_knight_car" type="external">
+  <Key key="_npc_dsfa" value=" " voice="Neutral" />
+  <Key key="_npc_The_question_is_not_clear__EPI" value="La question n'est pas claire.EPI 5000 n'est pas programmé pour ce type de protocole." voice="Neutral" />
+  <Key key="_npc_I_m_the_voice_of_Elan_Police_I" value="Je suis la voix d'Elan Police Interceptor.EPI 5000 pour votre référence facile." voice="Neutral" />
+  <Key key="_npc_The_question_is_not_clear__Loc" value="La question n'est pas claire.Données de localisation: Forest Road, zone fédérale d'Elan." voice="Neutral" />
+</Node>

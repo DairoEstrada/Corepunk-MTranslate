@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_farmyard_mayhem" type="external">
+  <Key key="_npc_Leaving_before_the_job_s_done_" value="Partager avant que le travail ne soit terminé, ce n'est pas quelque chose qu'un vrai homme fait." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Seriously__Walking_away_now_ma" value="Sérieusement?S'éloigner maintenant fait de vous un lâche." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_I_need_you_to_kill_as_many_dea" value="J'ai besoin que tu tues autant de morts!" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_goalVoice_Son__you_gotta_step_up_and_tak" value="Fils, tu dois intensifier et prendre soin de ces Raptors en bois Westwind Woods.Montrez à Timmy à quoi ressemble la vraie bravoure.Sortez et protégez notre ferme, c'est ce que tout vrai homme ferait." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_According_to_this_podcast_I_li" value="Selon ce podcast que j'écoute, il y a quelque chose dans l'eau qui les rend excités." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_You_better_have_handled_those_" value="Vous feriez mieux de gérer ces rapaces en bois." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Good_job_handling_those_Wood_R" value="Bon travail en manipulant ces rapaces en bois.C'est ainsi que vous prenez soin de la famille." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Get_out_there_and_show_those_W" value="Sortez et montrez ces rapaces en bois qui sont le vrai alpha." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_goal_kill_mob" value=" " />
+  <Key key="_goal_talk_npc" value="Retour à Hank" />
+  <Key key="_npc_The_Wood_Raptors_have_been_mor" value="Les Raptors en bois ont été plus agressifs ces derniers temps, et cela affecte nos bénéfices ... et les plans de «Lil Timmy»." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Well__if_you_truly_want_to_mak" value="Eh bien, si vous voulez vraiment faire amende honorable, nous pourrions utiliser de l'aide autour de la ferme." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_You_dare_accuse_my_boy_of_stea" value="Vous osez accuser mon garçon d'avoir volé un artefact?Comment peux-tu!" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_But_don_t_think_we_re_done_yet" value="Mais ne pensez pas encore que nous avons encore terminé.Il y a toujours plus à faire à la ferme." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_goal_collect_item_hans_chore" value="Collectez la liste des corvées de Hank" />
+  <Key key="_QuestActionAddToJournal_Hank_Thornbuckle_Goldenfield__" value="Chalumerie&#10;Goldenfield, Edge Farm.&#10;Aider Hank Hunbuckle en éliminant les Raptors en bois menaçant sa ferme." />
+  <Key key="_npc_Timmy_needs_good_examples__not" value="Timmy a besoin de bons exemples, pas quelqu'un qui quitte.Faire mieux." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_varDescription_Kill_Wood_Raptors" value="Tuer des rapaces en bois" />
+  <Key key="_npc_Timmy_needs_a_strong_role_mode" value="Timmy a besoin d'un modèle solide et vous lui montrez la bonne façon." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+</Node>

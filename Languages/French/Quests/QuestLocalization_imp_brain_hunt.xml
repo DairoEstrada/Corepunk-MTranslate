@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_imp_brain_hunt" type="external">
+  <Key key="_npc_You_ll_find_her_out_in_them_wo" value="Vous la trouverez dans les bois, juste autour.Demandez-lui ce que dans le monde a frappé ma navette, allez-vous?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_You_ll_find_her_out_in_them_wo" value="Vous la trouverez dans les bois, vers le nord-ouest de la route depuis l'épave du vaisseau spatial.Sa maison brute est profondément dans les bois de Westwind.Demandez-lui ce que dans le monde a frappé ma navette, allez-vous?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_dGTZ" value="Zugg Clankwhistle&#10;Goldenfield, près du bureau&#10;&#10;Apprenez les détails de la catastrophe de l'ancienne sorcière" />
+  <Key key="_goal_talk_npc" value="Apprenez les détails de la catastrophe de l'ancienne sorcière" />
+  <Key key="_assistant_phrase_Wonderful__Bring_the_brains_to" value="Merveilleux!Apportez le cerveau chez moi.Ensuite, mettez-les dans le réservoir de clonage.Tout est contrôlé par l'IA et très facile." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_varDescription_YtU7" value="Brain Witch" />
+  <Key key="_varDescription_VqQI" value="Brain Firestarter" />
+  <Key key="_npc_Your_papers_are_all_set__you_r" value="Vos papiers sont tous définis, vous êtes officiel maintenant!D'accord, il est temps pour vous de parcourir le sentier.Ouais.Continuez, vivez votre vie, soyez heureux.Tout simplement pas autour de ces parties." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_did_it__eh__Marvelous__But" value="Vous l'avez fait, hein.Merveilleux.Mais oui, pas un mot sur ce que vous avez vu dans ma maison." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_If_you_re_lookin__to_earn_your" value="Si vous cherchez à gagner votre donjon, la station de mana locale est un bon pari.Mais ils ne vous accueillent pas sans licence.Vous pouvez le faire passer à l'administration de RiverRise, l'avez-vous?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_talk_zugg" value="Parlez à Zugg Clankwhistle" />
+  <Key key="_QuestActionAddToJournal_eUND" value="Recevoir des documents de Zugg" />
+  <Key key="_QuestActionAddToJournal_Uh0F" value="Mettez les cerveaux imps sur le réservoir de clonage" />
+  <Key key="_varDescription_IVIL" value="Bourreau de cerveau" />
+  <Key key="_assistant_phrase_IMfw" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_CNUE" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_I3aR" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_EyaB" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_R09Q" value="Merveilleux!Apportez le cerveau chez moi.Ensuite, mettez-les dans le réservoir de clonage.Tout est contrôlé par l'IA et très facile." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_OhPB" value="Merveilleux!Apportez le cerveau chez moi.Ensuite, mettez-les dans le réservoir de clonage.Tout est contrôlé par l'IA et très facile." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_C1hR" value="Mettez les cerveaux imps sur le réservoir de clonage" />
+  <Key key="_QuestActionAddToJournal_b59i" value="Mettez les cerveaux imps sur le réservoir de clonage" />
+  <Key key="_goalVoice_VWNS" value="Merveilleux!Apportez le cerveau chez moi.Ensuite, mettez-les dans le réservoir de clonage.Tout est contrôlé par l'IA et très facile." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_And_hey__it_s_not_very_legal_i" value="Et bon, ce n'est pas très légal dans ces terres, donc j'apprécierais si vous vous êtes silencieux, hein?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Cloning_Tank_Version_2_03__Goo" value="CLONING TANK Version 2.03.Bonne journée, grand maître papa!La température et la pression sont stables.Souhaitez-vous commencer un nouveau cycle de clonage?" voice="Female" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_DNA_material__present__Additio" value="Matériel ADN: présent.Source des cellules cérébrales supplémentaires: présent.Numéro de cycle de clonage 420 initié.Merci papa." voice="Female" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_collect_item_executioner" value="Collectez le bourreau de cerveau" />
+  <Key key="_varDescription_KAye" value="Bourreau de cerveau" />
+  <Key key="_goal_collect_item_firestarter" value="Collectez Brain Imp Firestarter" />
+  <Key key="_varDescription_aMOO" value="Brain Firestarter" />
+  <Key key="_goal_collect_item_witch" value="Collectez Brain Imp Witch" />
+  <Key key="_varDescription_a4nO" value="Brain Witch" />
+  <Key key="_QuestActionAddToJournal_DwPi" value="Obtenez des cerveaux" />
+  <Key key="_goalVoice_Ugtq" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_m_aware_of_the__accidents__y" value="Je suis conscient des &quot;accidents&quot; dont vous parlez, mais les connaissances ne sont pas gratuitement." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Am_I_an_old_hag__I_suppose_tha" value="Suis-je une vieille sorcière?Je suppose que c'est ce que les gobelins grossiers et maudits m'appellent.Laissez-moi deviner ... Zugg?" voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Heed_my_warning__the_forest_is" value="Écoutez mon avertissement, la forêt est un labyrinthe tordu, avec des créatures qui se cachent dans l'ombre.Préparez-vous à des rencontres non invitées." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Fetch_me_Neon_Mushrooms__They_" value="Retrouvez-moi les champignons néon.Ils sont une race rare, infusée de &quot;mauvais mana&quot;." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Elan_s_government_keeps_taking" value="Le gouvernement d'Elan continue de les prendre pour étudier!Ces champignons sont cruciaux pour mon brassage." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_goalVoice_Looks_like_their_bigwigs_ain_t" value="On dirait que leurs gros bonnets sont aussi sombres qu'ils le paraissent.Très bien, faisons un accord et amuons ces dirigeants et apportons-moi leur cerveau, plus frais, mieux c'est." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_What__Those_Imps_shot_my_shutt" value="Quoi?Ces imps ont abattu ma navette?Ces engrous?Ils sont plus stupides qu'un moignon" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_Looks_like_their_bigwigs_ain_t" value="On dirait que leurs gros bonnets sont aussi sombres qu'ils le paraissent.Très bien, faisons un accord et amuons-nous de ces dirigeants et apportons-moi leur cerveau, le plus frais, mieux c'est." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_By_the_way__about_my_brother_s" value="Soit dit en passant, à propos de la mort prématurée de mon frère, ne vous inquiétez pas trop.Pour être franc, ce ne sont pas vraiment mes frères." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_They_re_all_me__Well__dumbed_d" value="Ils sont tous moi.Eh bien, les versions stupides de moi ... apportez-moi des cerveaux et je vais vous montrer ce que je veux dire." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

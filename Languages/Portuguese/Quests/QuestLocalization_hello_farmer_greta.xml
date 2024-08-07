@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_farmer_greta" type="external">
+  <Key key="_npc_Well_hello_there_" value="Bem, olá!" voice="Female" voiceSettingsId="MF3mGyEYCl7XYWbV9V6O" />
+  <Key key="_npc_Why__hello_" value="Por que Olá!" voice="Female" voiceSettingsId="MF3mGyEYCl7XYWbV9V6O" />
+  <Key key="_npc_Howdy__stranger__Stick_around_" value="Olá, estranho!Fique em torno de um tempo." voice="Female" voiceSettingsId="MF3mGyEYCl7XYWbV9V6O" />
+  <Key key="_npc_Ain_t_you_a_sight_for_sore_eye" value="Você não é uma visão para os olhos doloridos!" voice="Female" voiceSettingsId="MF3mGyEYCl7XYWbV9V6O" />
+  <Key key="_npc_You_re_cute__for_an_outworlder" value="Você é fofo, para um outworlder." voice="Female" voiceSettingsId="MF3mGyEYCl7XYWbV9V6O" />
+  <Key key="_npc_Guess_you_ain_t_so_bad_" value="Acho que você não é tão ruim." voice="Female" voiceSettingsId="MF3mGyEYCl7XYWbV9V6O" />
+</Node>

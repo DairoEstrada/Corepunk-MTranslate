@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v1_observer" type="external">
+  <Key key="_npc_Hello_" value="Bonjour." voice="Female" />
+  <Key key="_npc_Damn_it__damn_it__damn_it____" value="Merde, bon sang, putain ..." voice="Female" />
+</Node>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="Quests_empty" type="external">
+  <Key key="Key" value="Votre journal est vide.&#10;Vous n'avez pas encore de quêtes." />
+</Node>

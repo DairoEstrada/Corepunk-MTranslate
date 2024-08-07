@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hub2_roger_friend_02" type="external">
+  <Key key="_npc_Looking_for_Roger_" value="Vous cherchez Roger?" voice="Male" />
+  <Key key="_npc_He_hasn_t_been_here_in_weeks__" value="Il n'est pas ici depuis des semaines.Vous pourriez le trouver chez lui.C'est dans le nord." voice="Male" />
+  <Key key="_npc_Don_t_forget_to_knock__he_migh" value="N'oubliez pas de frapper, il pourrait passer un bon moment avec des chaudasses extraterrestres ou renifler la neige fraîche." voice="Male" />
+</Node>

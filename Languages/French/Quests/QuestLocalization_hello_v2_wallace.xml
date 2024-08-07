@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_wallace" type="external">
+  <Key key="_npc_Ha_ha_ha__So_fun__I_haven_t_se" value="Hahaha!Tellement amusant!Je ne t'ai pas vu." voice="Male" />
+</Node>

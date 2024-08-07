@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_bob_thurkle" type="external">
-  <Key key="_npc_Hey__fan_" value="¡Oye, fan,!" voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
-  <Key key="_npc_Enjoying_yourself_" value="Disfrutando de sí mismo?" voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
-  <Key key="_npc_Notice_anything_" value="¿Notes algo?" voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
-  <Key key="_npc_Love_your_support_" value="¡Amo tu apoyo!" voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
-  <Key key="_npc_Having_a_good_time_" value="¿Pasando un buen rato?" voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
-  <Key key="_npc_Spot_anything_odd_" value="Detectar algo extraño?" voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
-</Node>

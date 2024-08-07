@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_decrypting_betrayal" type="external">
+  <Key key="_npc_Oh_come_on__You_really_gonna_l" value="Oh come on! You really gonna leave Pastor Fazool hanging?" voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_She_s_using_some_Quaddari_tech" value="Elle utilise une technologie Quaddari pour les rendre sauvages, comme un hostile supplémentaire." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Bless_Pastor_s_soul__but_we_wo" value="Bénissez l'âme du pasteur, mais nous n'aurons pas de chance si cela explose.Nous devons l'arrêter." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Can_you_go_out_there_and_kill_" value="Pouvez-vous aller là-bas et tuer des dreads?Nous devons affronter Lana et vite." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Seriously__After_all_Pastor_Fa" value="Sérieusement?Après que tout le pasteur Fazool a fait pour nous?Incroyable." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_goalVoice_Hey__you_kill_any_Dreads_yet__" value="Hé, tu tues encore des dreads?Le pasteur Fazool compte sur nous.N'oubliez pas, plus nous obtenons rapidement cette preuve, plus vite nous économisons la journée.Et le Fazool plus rapide me récompense - je veux dire, nous." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_When_you_kill_the_Dreads__go_t" value="Lorsque vous tuez les dreads, allez dire à Penny.Elle collectera la technologie de leur corps." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_goal_talk_npc" value="Parlez à Penny &quot;Stardust&quot; Furbank" />
+  <Key key="_goal_kill_mobs" value=" " />
+  <Key key="_npc_So__I_ve_been_digging_around__" value="Donc, j'ai creusé, et vous ne le croirez pas.Lana a été sournoise avec ces dreads." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Oh_man__we_ve_got_a_hot_mess_o" value="Oh mec, nous avons un désordre chaud sur nos mains.Fazool va retourner quand il entendra cela." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_I_ll_go_collect_that_evidence_" value="J'irai collecter un peu ces preuves!" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Now_you_and_I_will_have_to_sol" value="Now you and I will have to solve this..." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_I_never_thought_this_cult_thin" value="Je n'ai jamais pensé que cette chose culte deviendrait si intense.Nous avons juste réussi à garder les autorités Quaddari de notre dos." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_I_think_the_stars_are_aligning" value="Je pense que les étoiles s'alignent, nous disant quelque chose.Ou peut-être que c'est juste les champignons qui parlent." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_QuestActionAddToJournal_Louise_Oldgarden__Reverie_Holl" value="Louise Olfgarden&#10;Reverie Hollow, la maison du pasteur.&#10;&#10;Aider Louise à découvrir des preuves de la trahison de Lana Cartouche en battant les dreads." />
+  <Key key="_npc_Fazool_needs_you__and_you_re_j" value="Fazool a besoin de toi et tu vas juste partir?C'est froid." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_varDescription_Kill_Dendroids" value="Tuer les dendroïdes" />
+  <Key key="_npc_Wait__Lana_did_what_now__I_mea" value="Attendez, Lana a fait quoi maintenant?Je veux dire, je savais qu'elle était à la hauteur, mais ... whoa." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Uhh____collecting_evidence__Ye" value="Euh ... collectionner des preuves?Oui, cela semble important.Droite." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Pastor_Fazool_is_going_to_be_s" value="Le pasteur Fazool va être tellement impressionné lorsque nous nous ouverons." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+</Node>

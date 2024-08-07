@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mystery_of_the_masks" type="external">
+  <Key key="_npc_Can_ya_help_a_paranoid_miner_o" value="Pouvez-vous aider un mineur paranoïaque?Retrouvez ces masques de la carrière, et peut-être que nous trouverons cet artefact avant de maudire toute la ville!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_goalVoice_Keep_yer_peepers_peeled_and_ye" value="Gardez vos peepers pelés et vous êtes pointu!Ces masques ne vont pas sauter d'eux-mêmes, tu sais!Rappelez-vous, Laddie, le plus gardien que vous ressent, plus vous êtes probablement proche!Vérifiez partout dans cette carrière ici." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Ah__so_you_re_in_on_it__eh__Pa" value="Ah, alors tu es dessus, hein?Une partie du grand schéma, je vois!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Very_well__I_ll_keep_mum__You_" value="Très bien, je garderai maman.Vous êtes évidemment dans des mèches avec ces scélérats spectraux!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Aye__I_see_it_now__Yer_one_of_" value="Oui, je le vois maintenant.Yer un d'eux, n'est-ce pas?Fermer des gens comme moi!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_goal_collect_mask_orange" value=" " />
+  <Key key="_goal_collect_mask_green" value=" " />
+  <Key key="_goal_collect_mask_pink" value=" " />
+  <Key key="_goal_talk_npc" value="Retour à Dorik Oakenshield" />
+  <Key key="_npc_I_think_if_we_want_ta__find_ye" value="Je pense que si nous voulons trouver votre artefact, nous devons enquêter sur tous les effrayants ici." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_I_ve_been_hearin__tales_on_Ale" value="J'ai entendu des contes sur le podcast d'Alexander Stones sur les carrières hantées, et je vous le dis, celui-ci correspond au projet de loi à un tee!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_These_masks_ain_t_just_spooky_" value="Ces masques ne sont pas seulement effrayants;Ils brillent avec une lumière surnaturelle!Attendez-vous presque à ce que je commence à tappin 'a gabarit!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Mystery_1__The_haunted_masks_" value="Mystery 1: Les masques hantés." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_The_real_spooky_business_start" value="La vraie entreprise effrayante commence maintenant!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_varDescription_Collect_Mask_Green_Bird" value="Collectez Mask Green Bird" />
+  <Key key="_varDescription_Collect_Mask_Orange_Bird" value="Recueillir un masque orange oiseau" />
+  <Key key="_varDescription_Collect_Mask_Pink_Horns" value="Collectez des cornes roses de masque" />
+  <Key key="_QuestActionAddToJournal_Dorik_Oakenshield_Westwind_Woo" value="Dorik Oakenshield&#10;Westwind Woods, Old Quarry Bottom&#10;&#10;Aidez Dorik Oakenshield à enquêter sur les événements étranges dans la vieille carrière en collectant 3 masques particuliers." />
+  <Key key="_npc_Oh__I_get_it__You_re_the_maste" value="Oh je comprends.Vous êtes le cerveau derrière cette mascarade étrange!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_We_ain_t_outta_the_woods_yet__" value="Mais nous ne sortons pas encore les bois.Ces masques ne sont que le début." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_By_the_ghost_of_my_auld_Granny" value="Par le fantôme de mon auld grand-mère, vous les avez trouvés!Ces masques sont quelque chose d'autre, d'accord." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Did_ya_lay_yer_hands_on_those_" value="Est-ce que vous avez mis les mains sur ces masques mystiques, Laddie?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Ah__bless_yer_soul__We_ll_unra" value="Ah, bénissez votre âme!Nous allons démêler cette énigme Eldritch, marquer mes mots!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+</Node>

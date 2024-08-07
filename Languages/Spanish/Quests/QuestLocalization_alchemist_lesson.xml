@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_alchemist_lesson" type="external">
+  <Key key="_npc_Hallelujah__You_re_my_fucking_" value="¡Aleluya!Eres mi maldito héroe, hombre.Aquí está tu recompensa." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Remember_the_Counterfeit_Paink" value="Recuerda a los analgésicos falsificados, amigo.¡Mi cabeza se cuenta contigo!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Hey__how_s_the_painkiller_brew" value="Oye, ¿cómo va la elaboración del analgésico?" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Don_t_stress_too_much__man__Ju" value="No estreses demasiado, hombre.Simplemente siga la receta y estará bien." voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_I_m_still_alive__so_you_re_not" value="Todavía estoy vivo, ¡así que no llegas demasiado tarde con esos analgésicos!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Man__you_re_the_real_MVP__Let_" value="¡Hombre, eres el verdadero MVP!¡Hagamos esos analgésicos que elaboran pronto!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_QuestActionAddToJournal_ZjIc" value="Percival &quot;Percy&quot; Beamish&#10;Goldenfield, cerca de la oficina&#10;&#10;Percy necesita ayuda para hacer analgésicos falsificados." />
+  <Key key="_goalVoice_Remember_the_Counterfeit_Paink" value="Recuerda a los analgésicos falsificados, amigo.¡Mi cabeza se cuenta contigo!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_varDescription_DbM8" value="Analgésicos falsificados" />
+  <Key key="_npc_Tell_everyone_you_re_an_expert" value="Dígale a todos ahora que sean un experto, simplemente no les digas que les enseñé.¡Paz!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+</Node>

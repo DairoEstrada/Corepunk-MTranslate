@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_lila_algernon" type="external">
+  <Key key="_npc_Hiya__friends_" value="Olá, amigos!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Wanna_play_" value="Quero jogar?" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Look_at_me_" value="Look at me!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Sing_with_me_" value="Cante comigo!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Hey__hey__hey_" value="Ei, ei, ei!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_When_does_Soko_sing__" value="When does Soko sing!?" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+</Node>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_abraham" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_I_watch_things__Today_music__T" value="Je regarde les choses.Aujourd'hui Musique.Demain, je veux aller à la gare de Mana.Veulent voir où ils remplissent ces conteneurs de mana brillants.Je veux toujours les lécher.Si doux." voice="Male" />
+  <Key key="_npc_Oo__Leithana__You_want_hear_mo" value="Oo, Leithana?Vous voulez entendre plus de Leithana?Capitale d'Elan.Yeees, très grand.Beau palais.Jamais vu King cependant." voice="Male" />
+  <Key key="_npc_Oo__name_is_Abraham__My_parent" value="Oo, le nom est Abraham.Mes parents m'ont donné.Ils étaient de monde lointain.Est allé loin.Ici.Viens ici.M'a appelé Abraham." voice="Male" />
+  <Key key="_npc_This_is_Upper_Village__Like_it" value="C'est Upper Village.Aimez-le ici.Je voyage beaucoup.Été dans de nombreux endroits.Été même Leithana.Biiig Place.Énorme.Vous avez vu Leithana?Vous l'aimerez.Mais ici aussi sympa.Calme.Bon." voice="Male" />
+</Node>

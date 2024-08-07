@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_colt_muffinman_mcgrady" type="external">
+  <Key key="_npc_Me__I_m_Colt__Muffinman__McGra" value="Moi?Je suis Colt &quot;Muffin Man&quot; McGrady.Pourquoi Muffin Man?Merci à Hooty ..." />
+  <Key key="_npc_Used_to_be_a_simple_farmer_bef" value="Auparavant, un simple agriculteur avant le coup du chaos." />
+  <Key key="_npc_My_sharp_eye_and_steady_aim_ea" value="Mon œil vif et mon objectif constant m'ont valu un endroit gardant RiverRise." />
+  <Key key="_npc_Now__I_team_up_with_my_buddy_A" value="Maintenant, je fais équipe avec mon copain Alex &quot;Hooty&quot; obusier." />
+  <Key key="_npc_Together__we_keep_this_place_s" value="Ensemble, nous gardons cet endroit à l'abri de toutes sortes de problèmes." />
+  <Key key="_npc_Seen_better_days__but_holding_" value="Vu des jours meilleurs, mais se tenant debout." />
+  <Key key="_npc_The_threats_around_here_keep_u" value="Les menaces ici nous occupent." />
+  <Key key="_npc_Hooty_keeps_me_laughing__even_" value="Hooty me fait rire, même lorsque les choses deviennent difficiles." />
+  <Key key="_npc_Just_another_day_on_the_job__y" value="Juste un autre jour au travail, vous savez." />
+  <Key key="_npc_But_hey__surviving_s_half_the_" value="Mais bon, survivant la moitié de la bataille." />
+  <Key key="_npc_This_is_Riverrise__our_haven_a" value="C'est Riverrise, notre havre au milieu du chaos." />
+  <Key key="_npc_It_s_the__big_city__northeast_" value="C'est la &quot;grande ville&quot; au nord-est de Goldenfield." />
+  <Key key="_npc_You_ll_find_a_wide_variety_of_" value="Vous trouverez une grande variété de gens, des rockers aux chiens qui parlent." />
+  <Key key="_npc_Used_to_be_quieter__but_with_t" value="Auparavant plus silencieux, mais avec l'ouverture des portails, nous avons toutes sortes." />
+  <Key key="_npc_We_re_here_to_keep_it_safe__no" value="Nous sommes ici pour rester en sécurité, quoi qu'il arrive." />
+  <Key key="_npc_Not_right_now__but_check_back_" value="Pas pour le moment, mais revenez plus tard." />
+  <Key key="_npc_We_re_good_for_now__thanks_" value="Nous sommes bons pour le moment, merci." />
+  <Key key="_npc_Hold_off_for_now__but_stay_rea" value="Tenez-vous pour le moment, mais restez prêt." />
+  <Key key="_npc_No_need_at_the_moment__but_I_a" value="Pas besoin pour le moment, mais je l'apprécie." />
+  <Key key="_npc_Could_always_use_a_sharp_hand_" value="Pourrait toujours utiliser une main tranchante ici." />
+  <Key key="_npc_Got_something_that_might_suit_" value="J'ai quelque chose qui pourrait convenir à vos talents." />
+  <Key key="_npc_If_you_re_up_for_it__we_could_" value="Si vous êtes prêt, nous pourrions utiliser l'aide." />
+  <Key key="_npc_Sure__there_s_a_task_that_need" value="Bien sûr, il y a une tâche qui doit faire si vous le souhaitez." />
+</Node>

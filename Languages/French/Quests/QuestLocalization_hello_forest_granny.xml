@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_forest_granny" type="external">
+  <Key key="_npc_Greetings__traveler_" value="Salutations, voyageur." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Oh__a_visitor__Or_are_you_just" value="Oh, un visiteur.Ou êtes-vous juste perdu et espérez-vous ne pas vous transformer en crapaud?" voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Hello__stranger_" value="Bonjour étranger." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Haven_t_seen_your_kind_in_a_wh" value="Je n'ai pas vu votre genre depuis un moment." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_What_do_you_wish_to_learn__A_p" value="Que souhaitez-vous apprendre?Une recette de potion ou où j'ai enterré le dernier idiot qui m'a ennuyé?" voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_I_sense_uncertainty_in_your_mi" value="Je sens l'incertitude dans votre esprit." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+</Node>

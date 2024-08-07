@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_precious_stones_mining" type="external">
+  <Key key="_npc_I_knew_ya_had_the_spirit_of_a_" value="Eu sabia que você tinha o espírito de um mineiro em você!Godspeed em sua missão!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_How_s_the_gem_hunt_going_" value="How's the gem hunt going?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Remember__the_earth_doesn_t_gi" value="Remember, the earth doesn't give up her secrets easily." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Got_a_good_feeling_about_this_" value="Tenho um bom pressentimento sobre isso.Você encontrará essas jóias!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_By_the_beard_of_the_Ancients__" value="By the beard of the Ancients, you've done it! I knew those gems were out there!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_collect_ruby" value=" " />
+  <Key key="_QuestActionAddToJournal_ZzOJ" value="Grizzle Ironfoot&#10;Westwind Woods, perto da mina antiga&#10;&#10;Embarque em uma ousada aventura para descobrir rubis e diamantes escondidos no fundo da floresta de Westwind." />
+  <Key key="_goalVoice_5iX7" value="Fique de olho em rubis e diamantes." voice="Male" />
+  <Key key="_npc_Keep_an_eye_out_for_Rubies_and" value="Fique de olho em rubis e diamantes." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_varDescription_SRfZ" value="Rubis" />
+  <Key key="_goal_collect_diamond" value=" " />
+  <Key key="_varDescription_A67T" value="Diamantes" />
+  <Key key="_varDescription_GyVc" value="Rubis" />
+  <Key key="_varDescription_Q6Le" value="Diamonds" />
+</Node>

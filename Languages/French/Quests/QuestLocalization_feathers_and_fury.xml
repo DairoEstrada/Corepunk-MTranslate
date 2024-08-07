@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_feathers_and_fury" type="external">
+  <Key key="_npc_What__are_you_scared__I_ll_tel" value="Quoi, avez-vous peur?Je vais dire à ma mère que tu es un poulet!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_You_re_such_a_coward__Wait_til" value="Tu es tellement lâche!Attendez que les adultes entendent à parler de cela!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_goalVoice_Remember__six_chickens__Don_t_" value="N'oubliez pas, six poulets.Ne pourriez pas sortir maintenant!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Be_sneaky__though__We_don_t_wa" value="Soyez sournois, cependant.Nous ne voulons pas que grand-mère ou les gardes prennent vent de cela." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_All_you_have_to_do_is_head_ove" value="Tout ce que vous avez à faire est de vous diriger vers la ferme de poulet et de retirer 6 de ces clickers." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_goal_talk_npc" value="Retour à Lily Baxter" />
+  <Key key="_goal_kill_mob" value=" " />
+  <Key key="_npc_How_about____we_frame_him_for_" value="Que diriez-vous ... nous l'encations pour meurtre de poulet?Oui, c'est parfait!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_So__Buck_thinks_I_stole_some_a" value="Alors, Buck pense que j'ai volé un artefact?Je ne suis même jamais allé à la chute d'avions!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_That_little_shit_can_t_prank_a" value="Cette petite merde ne peut faire des farces de Juvie." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_This_is_going_to_be_legendary_" value="Ça va être légendaire!Voici votre récompense." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Fine__be_a_loser__I_ll_get_som" value="Très bien, soyez un perdant!Je vais avoir quelqu'un d'autre et tout le monde saura que vous êtes une mauviette!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_QuestActionAddToJournal_Lily_Baxter_Goldenfield__South" value="Lily Baxter&#10;Goldenfield, South Farm&#10;&#10;Aidez Lily Baxter à se venger de Buck en éliminant 10 poulets à la ferme de poulet Goldenfield." />
+  <Key key="_varDescription_Kill_Chiken" value="Tuer le poulet" />
+  <Key key="_npc_Yes__You_did_it__Now_all_that_" value="Oui!Tu l'as fait!Maintenant, il ne reste plus que de planter les preuves sur Buck." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Oh_wow__you_re_back__How_did_i" value="Oh wow, tu es de retour!Comment c'était?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_You_re_in__Perfect__This_is_go" value="Vous y êtes?Parfait!Ça va être épique!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+</Node>

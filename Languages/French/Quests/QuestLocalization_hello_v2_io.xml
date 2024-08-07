@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_io" type="external">
+  <Key key="_npc_Sorry__I_m_not_doing_anything_" value="Désolé?Je ne fais rien.Je ne suis pas ... je suis ... juste debout ici.Ouais.Tu disais ... tu disais quelque chose?" voice="Female" />
+</Node>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_focus_fuel_issue" type="external">
+  <Key key="_npc_Don_t_forget__those_Transparen" value="N'oubliez pas, ces feuilles transparentes ne se contentent pas de traîner.Vous devrez rechercher les arbres rares sur lesquels ils poussent." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Transparent_Leaves_are_the_key" value="Les feuilles transparentes sont la clé, Cowboy." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Keep_an_eye_out_for_those_shin" value="Gardez un œil sur ces feuilles brillantes." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Don_t_let_those_leaves_leaf_yo" value="Ne laissez pas ces feuilles vous feuilleter." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_You_re_the_best__Thanks_a_heap" value="Tu es le meilleur!Merci un tas!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_varDescription_WeTF" value="Collectez les feuilles transparentes" />
+  <Key key="_QuestActionAddToJournal_DQMD" value="Nia Sundance&#10;Goldenfield, près de la maison d'été&#10;&#10;Aidez Nia à améliorer sa productivité en collectant des feuilles transparentes pour sa recette articulaire spéciale." />
+  <Key key="_goalVoice_ZzuS" value="N'oubliez pas, ces feuilles transparentes ne se contentent pas de traîner.Vous devrez rechercher les arbres rares sur lesquels ils poussent." voice="Male" />
+  <Key key="_varDescription_Z2AK" value="Collectez les feuilles transparentes" />
+  <Key key="_goal_collect_transparent_leaves" value=" " />
+  <Key key="_npc_You_re_my_hero__Let_s_code_and" value="Tu es mon héro!Codesons et roulons." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_And_hey___I_ll_roll_you_one_to" value="Et bon - je vais vous en rouler un aussi.Vous êtes essentiellement un expert." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+</Node>

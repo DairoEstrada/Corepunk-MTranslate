@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_villager_nav_blinkin_01" type="external">
-  <Key key="_npc_Haven_t_seen_you_here_before__" value="Não te vi aqui antes.Outro outie?" voice="Male" />
-  <Key key="_npc_That_s_what_I_thought__Must_be" value="Isso foi o que eu pensei.Deve ser difícil para a sua espécie." voice="Male" />
-  <Key key="_npc_Oh____Didn_t_know_our_village_" value="Oh ... não sabia que nossa aldeia era uma atração turística." voice="Male" />
-  <Key key="_npc_Nah__I_m_good__That__color__re" value="Nah, estou bem.Aquele enferrujado pode fazer isso que precisa de ajuda, pelo que vejo.Vê-lo?Na estrada, perto do jardim." voice="Male" />
-</Node>

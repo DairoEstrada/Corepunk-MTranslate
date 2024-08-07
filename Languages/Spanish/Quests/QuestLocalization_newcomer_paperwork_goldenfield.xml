@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_newcomer_paperwork_goldenfield" type="external">
+  <Key key="_QuestActionAddToJournal_RY7d" value="Encuentra el Formulario de Nuevo Visitante Cerca de la Casa de Zikk, Está Al Norte del Portal." />
+  <Key key="_npc_Damn_it__this_piece_of_rust_is" value="¿Sabes Cuanastas Leyes tiene Roto al Salir de Este Portal?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_goto_giver" value="Reúnete Con El Hermano de Zikk en la Aldea." />
+  <Key key="_goal_goto_goblah" value="Habra Con el Especialista de Bienvenida." />
+  <Key key="_QuestActionAddToJournal_hQOY" value="Zikk Clankwhistle&#13;&#10;Bosque de dusktide, en el portal&#10;&#10;Habra Con el Especialista de Bienvenida de Forasteros.Debería estar a la Vista." />
+  <Key key="_assistant_phrase_RKq2" value="Oh, y dile que es su hurto ahora.Estoy Harto de Estar Sentado Aquí, Vigilando el Portal y Orinando en Un Frasco de Whisky." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_He_s_asking_every_newcomer_to_" value="Está Pidiendo A Cadada Recién Llegado que me diga que tome su hurto en el portal.No Tiene Ningún Respeto por Su Hermano Mayor." voice="Male" />
+  <Key key="_npc_There_are_some_spare_forms_by_" value="Algunos de heno Formularios de Repuesto Cerca de Mi Casa, en la mesa afuera.Ve y Encuéntralos." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_No__you_don_t_Don_t_try_to_mes" value="No, no lo hagas.Sin intentes Jugar Conmigo.Tienes que Estar Registro, Amigo, Como Cualquier OTRO FORASTERO." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_d_think__right__Everyone_s" value="¿Lo Crees, Verdad?Todos Están Ocupados con sus tados, Ocupados con sus cultivos y demás, Mientras Yo Tengo que lidiar con todos Ustedes y sus malditos papeles." voice="Male" />
+  <Key key="_assistant_phrase_Here_s_a_friendly_reminder__on" value="Aquí Tienes Un Recordatorio Amistoso: Solo acércate a mi Casa para Obtener El Formulario.Cualquier ActiviDad No Relacionada Puede Considerse Allanamiento.En términos más simples: no toques nada más." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Anyway__you_have_to_be_registe" value="De Todos Modos, Tienes que Estar Registro Aquí.Procedimiento Estándar.Simplement no me quedan formularios en blanco." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_IaJ8" value="¡Vaya, Eres Más Inteligente que la Mayoría de los Saltadores de Portal!Ahora ve y entrega el formulario a mi Hermano.Debe estar en algún Lugar de Goldenfield.No Sé, Pregunta A Alguien." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_know__you_look_pale__If_yo" value="Sabes, Te Ves Pálido.Si vas a Morir, no lo hagas aquí.Tenderro que lidiar con tu cuerpo." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_What_is_it__I_m_kinda_busy_wit" value="¿Qué?Estoy un Poco Ocupado Con Todos los Recién Llegados." voice="Male" />
+  <Key key="_goalVoice_Please_speak_to_the_outworlder" value="Por favor, habla con el especialista de Bienvenida de Forasteros.Debería Estar Cerca.No Mueras y Que Tenga Un Buen Día." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goalVoice_Again__The_forms_are_my_house_" value="¿OTRA VEZ?Los Formularios Están en mi Casa Al Norte, Solo Sigue El Camino.Están en la mesa Afuera.TE DARE MÁS INSTRUCCIONES UNA VEZ QUE ESTÉS CERCA.Mientras tanto, Detente a ver un Maxwell Mientras Vijas Hacia el Norte por el Camino.Te enseinará cómo hacer una fogata, entre otras cosas." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_At_least_you_re_honest___I_don" value="Al menos eres honesto, yo tampoco lo sé." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_Go_make_an_official_inquiry_to" value="Haz una consultora de un mi Hermano.Está en la Oficina en el Centro de Goldenfield.SOLO SIGUE EL CAMINO HACIA EL NORTE Y PREGUNTA CUANDO LLEGUES ALLÍ." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_So_you_re_an_outworlder__eh__H" value="Entonces eres un Forastereo, ¿eh?¿CÓMO TE GUSTA AQUÍ EN KWALAT?Bonito, ¿Verdad?" voice="Male" />
+  <Key key="_goal_find_part" value="Encuentra el Formulario de Nuevo Visitante" />
+  <Key key="bubble_phrase_Gvai" value="Escaneando.Por favor, Quédate Quieto." />
+  <Key key="bubble_phrase_FbvZ" value="Por favor, habla con el especialista de Bienvenida de Forasteros." />
+  <Key key="bubble_phrase_h7OW" value="No Mueras y Que Tenga Un Buen Día." />
+  <Key key="bubble_phrase_TgM1" value="Peligro: 0.5 por ciento." />
+  <Key key="bubble_phrase_dIM4" value="Utilidad: 0.3 por ciento." />
+  <Key key="bubble_phrase_TPJS" value="SE Supone Que Debe Estar en la Proximidad Más Cercana." />
+  <Key key="_npc_Anyways__I_can_t_do_shit_for_y" value="De Todos Modos, no Puedo Hacer Nada por Ti Ahora Mismo.YA Tenemos Suficientes Forasteros Inútiles corrido por Aquí.De Hecho, ¿por qué no te unes un ellos?" voice="Male" />
+  <Key key="_npc_Sorry_you_had_to_go_through_th" value="Lamento que Hayas Tenido Que Pasar Por Eso.Mis ... Eh, Hermanos Pueden Ser Bastante Tontos.Especialmental." voice="Male" />
+  <Key key="_npc_That_s_why_I_m_here__But_I_ran" value="Por Eso Estoy Aquí.Pero me quedé sen formularios con Todos Ustedes Llegando en masa." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_RHbS" value="¡NO PUEDES Matar una rata Mientras tuestmago ruge mÁs fuerte que tu grito de Guerra!Si no estás mordido comida, estarás mordiendo el polvo.Consigue algo de comida antes de que termina Sido una Historia de Fantasmas Emarazosa, ¡idiota!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_So__do_me_a_favor_and_scoot__M" value="Así que, Hazme un favor y Muévete.Mi Lugar Está Al Norte.Y Recuerda, Ni Pienses en Molestar a Mi Novia.¡SigUiente!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Oh__you_re_one_of_them__eh__So" value="Oh ... Eres Uno de Ellos, ¿eh?¿Entonces ya conociste a mi clon ... eh, pariente Cercano?" voice="Male" />
+  <Key key="_assistant_phrase_CvV6" value="¿Hola?¿Yo escuchas?Te Puse Un Transmisor para poder Vigilarte.TODO EN Nombre de la Seguridad, por Supuestón.El Formulario de Nuevo Visitante Debería Estar en la Mesa Afuera.O en el porche.También Podría Haberlo DeJado en el Buzón.Realme sin idea de Tengo." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_Stop_by_and_introduce_your_sor" value="Pasa y Presénntate Con Maxwell.Te Ayudará un aprender lo básico, como no morir en nuestro Mundo.¡Sería una terrible Imagen para Nosotros!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

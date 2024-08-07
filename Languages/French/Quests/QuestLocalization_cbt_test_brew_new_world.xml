@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_test_brew_new_world" type="external">
+  <Key key="_goal_go_to_goblin_2" value="Allez à Goblin 2 West" />
+  <Key key="_QuestActionAddToJournal_IdZR" value="Aller à Goblin 2 West Fast" />
+  <Key key="_assistant_phrase_EBpU" value="Bonjour, allez vite à mon ami!" voice="Male" />
+  <Key key="_goal_go_to_goblin" value="Aller gobelin" />
+  <Key key="_QuestActionAddToJournal_JkAi" value="Allez Fast Goblin Man." />
+  <Key key="bubble_phrase_ffZk" value="1" />
+  <Key key="_npc_Test_Test_Test" value="Test de test de test" voice="Male" />
+  <Key key="_npc_No__you_don_t__Hey__don_t_try_" value="Non, tu ne le fais pas.Hé, n'essaye pas de jouer avec moi ici, d'accord?Vous, Smartass, je dois être enregistré, comme tous les autres nouveaux arrivants." voice="Male" />
+  <Key key="_npc_Me_neither__Too_bad__Anyway__y" value="Moi non plus.Dommage.Quoi qu'il en soit, vous devez être inscrit ici.Procédure standard.C'est juste qu'il ne me reste plus de formulaires vierges." voice="Male" />
+  <Key key="_npc_I_m_here_to_do_that__But__I_ra" value="Je suis ici pour faire ça.Mais!J'ai manqué de formes avec vous tous en inondant." voice="Male" />
+  <Key key="_npc_The_extras_should_be_at_the_Di" value="Les extras doivent être à la station de répartition.Allez les chercher.Vous obtiendrez plus d'instructions de moi une fois que vous y êtes.D'accord, déplacez-le maintenant.Suivant!" voice="Male" />
+  <Key key="_goal_search_part" value="Rechercher une partie de la maison" />
+  <Key key="_QuestActionAddToJournal_Nx73" value="Rechercher une partie dans la maison sur l'ouest" />
+  <Key key="_npc_Thank_you_" value="Merci!" voice="Male" />
+  <Key key="_sys_msg_Bij5" value="Vous n'avez pas l'article" />
+</Node>

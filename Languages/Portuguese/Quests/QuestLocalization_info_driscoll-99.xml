@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_driscoll-99" type="external">
+  <Key key="_npc_Hey_there__friend__I_m_Driscol" value="Olá, amigo!Eu sou Driscoll-99, seu BOT BOT Extraordinaire!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_was_sent_by_the_Elanien_gove" value="Fui enviado pelo governo de Elanien para receber qualquer pessoa que vá por este portal." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Unfortunately__a_mean__ol_mili" value="Infelizmente, uma 'milícia veio e prendeu!Absolutamente criminoso ..." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_only_have_one_directive__to_" value="Eu só tenho uma diretiva: receber os visitantes de Elan a qualquer custo." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Fixing_the_portal_is_the_best_" value="Corrigir o portal é a melhor maneira de fazer isso." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Spoiler_alert__there_s_a_lot_o" value="Alerta de spoiler, há muitas criaturas esperando por dentro pronta para a festa!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_believe_the_fine_flesh_confe" value="Eu acredito que os finos confetes de carne que eles fizeram dos habitantes locais foram indicativos disso." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__I_m_absolutely_fantastic__" value="Oh, eu sou absolutamente fantástico, agora que você está aqui!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_With_your_help__we_might_final" value="Com sua ajuda, podemos finalmente consertar este magnífico gateway." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_You_and_I__we_re_the_dream_tea" value="Você e eu, somos o time dos sonhos, melhores amigos para a vida!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Just_imagine_the_adventures_we" value="Imagine as aventuras que teremos.A adorável névoa vermelha que podemos ver!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Can_t_wait_to_get_started__pal" value="Mal posso esperar para começar, amigo!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_This_portal_used_to_be_a_grand" value="Este portal costumava ser uma grande porta de entrada de outros mundos." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Imps_and_demons_popped_out_lik" value="Imps e demônios surgiram como se fosse uma convenção de monstros!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_They_seemed_quite_charmed_by_m" value="Eles pareciam bastante encantados com o meu discurso de boas -vindas.Ele os tinha em pontos." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_The_villagers_actually_came_ou" value="Os moradores realmente saíram para cumprimentá -los!Eles trouxeram suas melhores facas e forças para se mostrar." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_think_there_was_some_kind_of" value="Eu acho que houve algum tipo de acidente, porque todos começaram a se bater." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Then_everybody_had_a_big_sleep" value="Então todo mundo teve uma grande festa do pijama!Como uma brincadeira, todos fingiram ficar dormindo para sempre." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_It_took_a_while_to_drag_them_a" value="Demorou um pouco para arrastá -los para fora daqui ..." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Thanks__but_I_ve_got_plans_to_" value="Obrigado, mas tenho planos de fazer." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Not_right_now__maybe_after_mor" value="Não agora, talvez depois de mais experimentar!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Appreciate_it__but_I_need_to_d" value="Agradeço, mas preciso decifrar esses rabiscos demoníacos primeiro." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Still_puzzling_out_some_portal" value="Ainda intrigando alguns segredos do portal!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Need_to_chat_with_a_few_more_s" value="Precisa conversar com mais algumas entidades sobrenaturais primeiro." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_m_alright_for_now__just_figu" value="Estou bem por enquanto;Apenas descobrindo qual membro do Imp Goes vai onde." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_How_about_fetching_me_a_demon_" value="Que tal me buscar unha de um demônio?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__joy__Could_you_grab_me_an_" value="Oh, alegria!Você poderia me pegar um globo ocular de um impleiro?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Yes__yes__I_need_a_fresh_slug_" value="Sim Sim!Eu preciso de uma nova lesma de ectoplasma!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Fabulous__How_about_a_pint_of_" value="Fabuloso!Que tal uma caneca de sangue demoníaco?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Yes__totally__I_need_a_witch_s" value="Sim, totalmente!Eu preciso de um livro de histórias na hora de dormir de uma bruxa!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Why__yes__A_vampire_s_last_bre" value="Porque sim!O último suspiro de um vampiro seria esplêndido!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+</Node>

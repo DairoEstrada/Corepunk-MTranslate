@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Zones" description="">
+  <Node name="-1vB8WF">
+    <Key key="Name" value="The Abyss" />
+  </Node>
+  <Node name="-1z12Lf">
+    <Key key="Name" value="The Damn Puddle" />
+  </Node>
+  <Node name="-23BM0e">
+    <Key key="Name" value="The Charge" />
+  </Node>
+  <Node name="tN001">
+    <Key key="Name" value="The Red Dry" />
+  </Node>
+  <Node name="-1i0BJi">
+    <Key key="Name" value="The Pot" />
+  </Node>
+  <Node name="1rXPBc">
+    <Key key="Name" value="The Backyard" />
+  </Node>
+  <Node name="-1L1uFT">
+    <Key key="Name" value="The Hills of the Shrew-Jina" />
+  </Node>
+  <Node name="1v38fH">
+    <Key key="Name" value="The Saltcellar" />
+  </Node>
+  <Node name="26chc2">
+    <Key key="Name" value="The Misty Crags" />
+  </Node>
+  <Node name="D79dn">
+    <Key key="Name" value="The Quivering Fields" />
+  </Node>
+  <Node name="-rL4yF">
+    <Key key="Name" value="The Gray Ridge" />
+  </Node>
+  <Node name="20JYRJ">
+    <Key key="Name" value="Waterstill" />
+  </Node>
+  <Node name="-qTzTN">
+    <Key key="Name" value="The Singing Woods" />
+  </Node>
+  <Node name="-1EWtYI">
+    <Key key="Name" value="Glitz district" />
+  </Node>
+  <Node name="Dx6Pp">
+    <Key key="Name" value="Dungeon" />
+  </Node>
+  <Node name="1wZF47">
+    <Key key="Name" value="The Singing Woods" />
+  </Node>
+  <Node name="-2JjVwY">
+    <Key key="Name" value="Wind Valley" />
+  </Node>
+  <Node name="23cifO">
+    <Key key="Name" value="Ovenheim station" />
+  </Node>
+  <Node name="2L0rtU">
+    <Key key="Name" value="Ozgard" />
+  </Node>
+  <Node name="-1zi4S9">
+    <Key key="Name" value="Deep-9" />
+  </Node>
+  <Node name="Pvhrw">
+    <Key key="Name" value="Salty market" />
+  </Node>
+  <Node name="1ydeaA">
+    <Key key="Name" value="Tortoise island" />
+  </Node>
+  <Node name="-wcDqi">
+    <Key key="Name" value="The Gray Ridge" />
+  </Node>
+  <Node name="-UXuri">
+    <Key key="Name" value="Repair workshop" />
+  </Node>
+  <Node name="1pBmIA">
+    <Key key="Name" value="Backyard" />
+  </Node>
+  <Node name="-GTZe7">
+    <Key key="Name" value="Roody's Foodies" />
+  </Node>
+  <Node name="1EBe0V">
+    <Key key="Name" value="Sleepy hollow" />
+  </Node>
+  <Node name="-TQ3GE">
+    <Key key="Name" value="Junkyard" />
+  </Node>
+  <Node name="Nowhere">
+    <Key key="Name" value="Space" />
+  </Node>
+  <Node name="zTXcD">
+    <Key key="Name" value="Woodlands" />
+  </Node>
+  <Node name="z0yOf">
+    <Key key="Name" value="Downcountry " />
+  </Node>
+  <Node name="ydCZx">
+    <Key key="Name" value="Sawmill" />
+  </Node>
+  <Node name="y5wuv">
+    <Key key="Name" value="Долина папоротников" />
+  </Node>
+  <Node name="xiMYJ">
+    <Key key="Name" value="Henrik's Thicket" />
+  </Node>
+  <Node name="xDv3g">
+    <Key key="Name" value="Stone glades" />
+  </Node>
+  <Node name="wkKCC">
+    <Key key="Name" value="Sawmill Forest " />
+  </Node>
+  <Node name="wJCaU">
+    <Key key="Name" value="Ringing forest" />
+  </Node>
+  <Node name="vpZru">
+    <Key key="Name" value="Devil's swamp" />
+  </Node>
+  <Node name="vK5zL">
+    <Key key="Name" value="Lost paths" />
+  </Node>
+  <Node name="uuwr4">
+    <Key key="Name" value="Caustic pools" />
+  </Node>
+  <Node name="uKYc2">
+    <Key key="Name" value="The land of the underground" />
+  </Node>
+  <Node name="trMvz">
+    <Key key="Name" value="Dusty expanses" />
+  </Node>
+  <Node name="tOvnL">
+    <Key key="Name" value="Whispering Bog" />
+  </Node>
+  <Node name="suFup">
+    <Key key="Name" value="Sleepy hollow" />
+  </Node>
+  <Node name="sK9ZU">
+    <Key key="Name" value="Dead city" />
+  </Node>
+  <Node name="rt34S">
+    <Key key="Name" value="Backyard" />
+  </Node>
+  <Node name="rIiZd">
+    <Key key="Name" value="Oasis" />
+  </Node>
+  <Node name="DefaultZone">
+    <Key key="Name" value=" Badlands" />
+  </Node>
+  <Node name="-1FjVN7">
+    <Key key="Name" value="Тест1" />
+  </Node>
+  <Node name="z4Mt2">
+    <Key key="Name" value="Name_198vqh" />
+  </Node>
+  <Node name="Dungeon">
+    <Key key="Name" value="Dungeon" />
+  </Node>
+  <Node name="-pHm2Y">
+    <Key key="Name" value="Backwood" />
+  </Node>
+  <Node name="2J1UgP">
+    <Key key="Name" value="Portal Ruins" />
+  </Node>
+  <Node name="-19MUNh">
+    <Key key="Name" value="Silent Woods" />
+  </Node>
+  <Node name="-1MHFrB">
+    <Key key="Name" value="Сountryside" />
+  </Node>
+  <Node name="6L99n">
+    <Key key="Name" value="Lost Timber" />
+  </Node>
+  <Node name="cTVu4">
+    <Key key="Name" value="Faraway" />
+  </Node>
+  <Node name="-ytNqK">
+    <Key key="Name" value="Backwood" />
+  </Node>
+  <Node name="1wDNp4">
+    <Key key="Name" value="Crash" />
+  </Node>
+  <Node name="-1ePLLt">
+    <Key key="Name" value="Goblin's cabin" />
+  </Node>
+  <Node name="-2GmXiK">
+    <Key key="Name" value="Farmville" />
+  </Node>
+  <Node name="-24Q1rD">
+    <Key key="Name" value="Smallsheer" />
+  </Node>
+  <Node name="IhMJ3">
+    <Key key="Name" value="The Whispering Mire" />
+  </Node>
+  <Node name="-2OyEY2">
+    <Key key="Name" value="TEST_NEWZONE" />
+  </Node>
+  <Node name="qVeQa">
+    <Key key="Name" value="Скальная кромка" />
+  </Node>
+  <Node name="-2RyZ5D">
+    <Key key="Name" value="Collector 51" />
+  </Node>
+  <Node name="S3020">
+    <Key key="Name" value="Faraway" />
+  </Node>
+  <Node name="-2UjZkr">
+    <Key key="Name" value="Bone island" />
+  </Node>
+  <Node name="-10Xxww">
+    <Key key="Name" value="Market part of the city" />
+  </Node>
+  <Node name="-MCNFH">
+    <Key key="Name" value="Ancient Forest" />
+  </Node>
+  <Node name="-uSKD1">
+    <Key key="Name" value="ZLSwampMusic1" />
+  </Node>
+  <Node name="-y7SRH">
+    <Key key="Name" value="ZLSwampMusic2" />
+  </Node>
+  <Node name="-106Rc3">
+    <Key key="Name" value="ZLSwampMusic3" />
+  </Node>
+  <Node name="-DVem4">
+    <Key key="Name" value="ZMusicLSwamp" />
+  </Node>
+  <Node name="RD5BK">
+    <Key key="Name" value="ZMusicLSinValley" />
+  </Node>
+  <Node name="13q5Op">
+    <Key key="Name" value="ZMusicLField_A" />
+  </Node>
+  <Node name="-15Ui5u">
+    <Key key="Name" value="ZMusicLSwampAmbRT" />
+  </Node>
+  <Node name="1BcbIB">
+    <Key key="Name" value="ZMusicLSwampAmbDung" />
+  </Node>
+  <Node name="1B0M5U">
+    <Key key="Name" value="ZMusicLSwampAmbBeach" />
+  </Node>
+  <Node name="uJJ12">
+    <Key key="Name" value="TestLocationZone1" />
+  </Node>
+  <Node name="t5C28">
+    <Key key="Name" value="TestLocationZone2" />
+  </Node>
+  <Node name="1TqH2g">
+    <Key key="Name" value="TestLocationZone3" />
+  </Node>
+  <Node name="-1DBGsB">
+    <Key key="Name" value="ZMusicFLDesertAmbBeach" />
+  </Node>
+  <Node name="G7Lmd">
+    <Key key="Name" value="ZMusicBLCyberAmbBeach" />
+  </Node>
+  <Node name="256jyQ">
+    <Key key="Name" value="ZMusicBLBOSSAmbBeach" />
+  </Node>
+  <Node name="111">
+    <Key key="Name" value="111" />
+  </Node>
+  <Node name="222">
+    <Key key="Name" value="222" />
+  </Node>
+  <Node name="444">
+    <Key key="Name" value="444" />
+  </Node>
+  <Node name="333">
+    <Key key="Name" value="333" />
+  </Node>
+  <Node name="-2AQMM6">
+    <Key key="Name" value="Elven Forest" />
+  </Node>
+  <Node name="1W2sxx">
+    <Key key="Name" value="1" />
+  </Node>
+  <Node name="1Vg5RO">
+    <Key key="Name" value="2" />
+  </Node>
+  <Node name="1V2367">
+    <Key key="Name" value="3" />
+  </Node>
+  <Node name="1UN2aO">
+    <Key key="Name" value="4" />
+  </Node>
+  <Node name="1U0vt1">
+    <Key key="Name" value="5" />
+  </Node>
+  <Node name="1TXzy4">
+    <Key key="Name" value="6" />
+  </Node>
+  <Node name="1RKCWp">
+    <Key key="Name" value="7 " />
+  </Node>
+  <Node name="-2Nv7Cd">
+    <Key key="Name" value="Portal Gate " />
+  </Node>
+  <Node name="-2O6ZiN">
+    <Key key="Name" value="Dispatch Station " />
+  </Node>
+  <Node name="-2OHe8D">
+    <Key key="Name" value="Wheat Fields " />
+  </Node>
+  <Node name="-2OY5ms">
+    <Key key="Name" value="The Village" />
+  </Node>
+  <Node name="-2P1kqc">
+    <Key key="Name" value="Blinkin's Garden " />
+  </Node>
+  <Node name="-2PeiTx">
+    <Key key="Name" value="Pale Forest " />
+  </Node>
+  <Node name="-2QHESA">
+    <Key key="Name" value="Pale Forest - East " />
+  </Node>
+  <Node name="2KimkR">
+    <Key key="Name" value="Quiet Meadows " />
+  </Node>
+  <Node name="2JrWeK">
+    <Key key="Name" value="Boar Infested Field " />
+  </Node>
+  <Node name="285PIY">
+    <Key key="Name" value="The Old Fields " />
+  </Node>
+  <Node name="-28wUZb">
+    <Key key="Name" value="Outskirts " />
+  </Node>
+  <Node name="-22AcB1">
+    <Key key="Name" value="Main Road " />
+  </Node>
+  <Node name="-2Vwj8S">
+    <Key key="Name" value="Damaged Forest " />
+  </Node>
+  <Node name="-KWxr0">
+    <Key key="Name" value="Mana Pumping Station " />
+  </Node>
+  <Node name="-LSxAW">
+    <Key key="Name" value=" Lumberjack Camp" />
+  </Node>
+  <Node name="-MYINp">
+    <Key key="Name" value="Ancient Forest " />
+  </Node>
+  <Node name="-Ng1L0">
+    <Key key="Name" value="Rainforest " />
+  </Node>
+  <Node name="-PKV8P">
+    <Key key="Name" value="Cut Down Forest " />
+  </Node>
+  <Node name="1SyrCg">
+    <Key key="Name" value="Landfill Swamps" />
+  </Node>
+  <Node name="-JFbce">
+    <Key key="Name" value="Abandoned Fields" />
+  </Node>
+  <Node name="-Jqvw1">
+    <Key key="Name" value="Brownie Settlement" />
+  </Node>
+  <Node name="-KFZYd">
+    <Key key="Name" value="Winery" />
+  </Node>
+  <Node name="17mPHf">
+    <Key key="Name" value="Sacred Lake" />
+  </Node>
+  <Node name="-Pyjc5">
+    <Key key="Name" value="Sacred Forest" />
+  </Node>
+  <Node name="-RUkm7">
+    <Key key="Name" value="Hermit Mount" />
+  </Node>
+  <Node name="-S7HiS">
+    <Key key="Name" value="Outskirts" />
+  </Node>
+  <Node name="-SfNc4">
+    <Key key="Name" value="Outskirts" />
+  </Node>
+  <Node name="-TGUiW">
+    <Key key="Name" value="Archaeologists" />
+  </Node>
+  <Node name="-200nvY">
+    <Key key="Name" value="Ric's Ranch" />
+  </Node>
+  <Node name="E5VaA">
+    <Key key="Name" value="Upper Village" />
+  </Node>
+  <Node name="DnfTq">
+    <Key key="Name" value="Town Beach" />
+  </Node>
+  <Node name="BOE6r">
+    <Key key="Name" value="Outskirts" />
+  </Node>
+  <Node name="A2Gn1">
+    <Key key="Name" value="Polluted Forest" />
+  </Node>
+  <Node name="899a5">
+    <Key key="Name" value="Western Road" />
+  </Node>
+  <Node name="GLiG6">
+    <Key key="Name" value="Hub 1 Outskirts" />
+  </Node>
+  <Node name="-fWkB4">
+    <Key key="Name" value="Old Wheat Fields" />
+  </Node>
+  <Node name="-1KrZK0">
+    <Key key="Name" value="Hub 1 Outskirts" />
+  </Node>
+  <Node name="-1WUvWU">
+    <Key key="Name" value="Pale Forest" />
+  </Node>
+  <Node name="vGgtJ">
+    <Key key="Name" value="Hub 1" />
+  </Node>
+  <Node name="-mpiGE">
+    <Key key="Name" value="Portal Gateway" />
+  </Node>
+  <Node name="-1mzmQG">
+    <Key key="Name" value="Goldenfield town" />
+  </Node>
+  <Node name="-1nSBG7">
+    <Key key="Name" value="Sunweave Glade" />
+  </Node>
+  <Node name="wvGdv">
+    <Key key="Name" value="Dusktide Forest" />
+  </Node>
+  <Node name="-1au35u">
+    <Key key="Name" value="Skylight Grasslands" />
+  </Node>
+  <Node name="-1UXFQO">
+    <Key key="Name" value="Westwind Woods" />
+  </Node>
+  <Node name="-1TnfS1">
+    <Key key="Name" value="Starbark Groves" />
+  </Node>
+  <Node name="-1R6Lhi">
+    <Key key="Name" value="Windreach Woods" />
+  </Node>
+  <Node name="zSnRE">
+    <Key key="Name" value="Greystone Ruins" />
+  </Node>
+  <Node name="10Pb3L">
+    <Key key="Name" value="Westwind Quarry" />
+  </Node>
+  <Node name="-tr3FE">
+    <Key key="Name" value="Reverie Hollow" />
+  </Node>
+  <Node name="-pGR58">
+    <Key key="Name" value="Westwind Canyon" />
+  </Node>
+  <Node name="-iciBd">
+    <Key key="Name" value="Windreach Depot" />
+  </Node>
+  <Node name="uINSD">
+    <Key key="Name" value="Westwind Sawmill" />
+  </Node>
+  <Node name="xZuG9">
+    <Key key="Name" value="Rivergleam Clearing" />
+  </Node>
+  <Node name="2MtSPf">
+    <Key key="Name" value="Windstone Village" />
+  </Node>
+  <Node name="1I2t8J">
+    <Key key="Name" value="SecondVillage" />
+  </Node>
+  <Node name="Type">
+    <Key key="SafeZone" value="Safe Zone" />
+    <Key key="PvP" value="PvP" />
+    <Key key="Forbidden" value="Forbidden zone" />
+    <Key key="RadioactiveZone" value="Radioactive Zone" />
+    <Key key="LawProtection" value="Lands under the protection of the King" />
+    <Key key="KingsBattleground" value="The Battleground of the King" />
+  </Node>
+  <Node name="2AFJEt">
+    <Key key="Name" value="Restricted Area" />
+  </Node>
+  <Node name="m9q5i">
+    <Key key="Name" value="Ripplecrop Fields" />
+  </Node>
+  <Node name="1ZrJcB">
+    <Key key="Name" value="Starbark Groves" />
+  </Node>
+  <Node name="1kKxti">
+    <Key key="Name" value="Suncrest Fields" />
+  </Node>
+  <Node name="29cfT6">
+    <Key key="Name" value="Rivergleam Clearing" />
+  </Node>
+  <Node name="2Wd8ux">
+    <Key key="Name" value="Rivergleam Clearing Swamp" />
+  </Node>
+  <Node name="-2Ifxid">
+    <Key key="Name" value="Rivergleam Clearing Railway Depot" />
+  </Node>
+  <Node name="2LrQEt">
+    <Key key="Name" value="Tempest Timberland" />
+  </Node>
+  <Node name="1if8bW">
+    <Key key="Name" value="Tempest Timberland Ruins" />
+  </Node>
+  <Node name="18gyb4">
+    <Key key="Name" value="Creeping Marsh" />
+  </Node>
+  <Node name="-sC449">
+    <Key key="Name" value="Riverrise Fields" />
+  </Node>
+  <Node name="-182Vq0">
+    <Key key="Name" value="Riverrise City" />
+  </Node>
+</Category>

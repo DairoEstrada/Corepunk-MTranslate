@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_specialization_mastery_blast_medic" type="external">
+  <Key key="_npc_Hey_there_" value="Salut!" voiceSettingsId="Giaghj5sWt0LknvXTroz" />
+  <Key key="_npc_Sup_" value="Souper?" voiceSettingsId="Giaghj5sWt0LknvXTroz" />
+  <Key key="_npc_What_s_up_" value="Quoi de neuf?" voiceSettingsId="Giaghj5sWt0LknvXTroz" />
+  <Key key="_npc_Hey_you_" value="Hey vous!" voiceSettingsId="Giaghj5sWt0LknvXTroz" />
+  <Key key="_npc_Yo_" value="Yo!" voiceSettingsId="Giaghj5sWt0LknvXTroz" />
+  <Key key="_npc__Sup__buddy_" value="«Sup, mon pote." voiceSettingsId="Giaghj5sWt0LknvXTroz" />
+  <Key key="_npc_How_s_tricks_" value="Comment les astuces?" voiceSettingsId="Giaghj5sWt0LknvXTroz" />
+</Node>

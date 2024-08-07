@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_gareth_rucker" type="external">
-  <Key key="_npc_Hey_there_" value="Hola." />
-  <Key key="_npc_Oh__hi_" value="¡Oh hola!" />
-  <Key key="_npc_Greetings_" value="Saludos." />
-  <Key key="_npc_Welcome_" value="Welcome." />
-</Node>

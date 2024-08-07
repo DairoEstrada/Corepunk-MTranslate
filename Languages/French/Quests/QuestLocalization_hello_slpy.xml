@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_slpy" type="external">
+  <Key key="_npc_Zzz____Hi_" value="Zzz ... salut." />
+  <Key key="_npc_Hey_there____yawn" value="Hé là ... bâillement" />
+  <Key key="_npc_Morning___" value="Matin..." />
+  <Key key="_npc_Sleepy_greetings___" value="Salutations endormies ..." />
+</Node>

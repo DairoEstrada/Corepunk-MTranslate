@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_brownie_town" type="external">
+  <Key key="_npc_Hee_hee__am_I_who__Depends_for" value="Hee-hee, eu sou quem?Depende de quem você está olhando.Hee-hee.Um viajante, como você.Hee-hee." voice="Male" />
+  <Key key="_npc_This_place_where_I_trade_in_my" value="Este lugar onde eu troco minhas coisas por suas coisas." voice="Male" />
+  <Key key="_npc_Be_on_my_feet_all_day__do_diff" value="Fique de pé o dia todo, faça coisas diferentes: barganha ', vendendo', comprando ', argumentando.Eu venho aqui da minha aldeia.Este lugar não ao redor da corna!longo caminho para a minha idade." voice="Male" />
+</Node>

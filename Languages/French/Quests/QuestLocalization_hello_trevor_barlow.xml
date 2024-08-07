@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_trevor_barlow" type="external">
+  <Key key="_npc_Secrets_await_" value="Les secrets vous attendent." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_The_light_greets_you_" value="La lumière vous accueille." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Welcome_to_the_fold_" value="Bienvenue dans le giron." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_The_night_is_ours_" value="La nuit est la nôtre." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Greetings__seeker_" value="Salutations, chercheur." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Light_bless_the_king_" value="La lumière bénisse le roi!" voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Have_you_praised_the_king_toda" value="Avez-vous félicité le roi aujourd'hui?" voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+</Node>

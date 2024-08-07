@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_pesky_pests" type="external">
+  <Key key="_npc_Uh___" value="Pare de pensar tão alto.Não podemos nos concentrar." voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+  <Key key="_npc_Hey__pal_" value="Ei, amigo." voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
+</Node>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_seaonna" type="external">
+  <Key key="_npc_I_m_Seaonna__like__the_biggest" value="Je suis en mer, comme la plus grande pop star de l'océan!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Sorry__that_s_not_me_anymore__" value="Désolé, ce n'est plus moi.Maintenant, je me détends juste ici." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Catching_the_high_tide__I_made" value="En prenant la marée haute, j'ai fait une nouvelle vie pour moi." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_My_melodies_promise_bliss__but" value="Mes mélodies promettent un bonheur, mais le prix est profond." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Enough_with_the_kelp_and_seawe" value="Assez avec le varech et les algues, vos habitants de terre ont les meilleures mauvaises herbes terrestres de tous les temps." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_If_you_have_some_land_weed__my" value="Si vous avez de l'herbe terrestre, ma voix vous coupera le souffle." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Oh__I_m_just_shell_abrating_my" value="Oh, je suis juste abrétique ma nouvelle vie!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Care_to_join_me_for_a_song____" value="Vous voulez vous rejoindre pour une chanson ... ou autre chose?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Have_you_ever_heard_the_phrase" value="Avez-vous déjà entendu la phrase, vous grattez ma nageoire, je gratte le vôtre?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Whatever_you_heard_about_me_is" value="Tout ce que vous avez entendu parler de moi n'est pas vrai!Je ne le défendrai pas!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_No__it_s_high__how_are_you_" value="No, it's high, how are you?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_This_dreamy_place_is_Mermaid_L" value="Cet endroit rêveur est le lac de sirène, avec de l'eau qui ressemble à des diamants." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Rumors_say_the_sparkles_are_ac" value="Les rumeurs disent que les étincelles sont en fait des corps, mais je ne pense pas que cette histoire ait des jambes." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_There_s_something_quiet_about_" value="Il y a cependant quelque chose de calme dans ces eaux, quelque chose, d'une beauté obsédante." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Wouldn_t_you_love_to_live_in_a" value="N'aimeriez-vous pas vivre dans un endroit comme celui-ci pour toujours?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Of_course__I_could_use_help__s" value="Bien sûr, je pourrais utiliser de l'aide, voir des jambes?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_You_re_a_lifesaver____or_shoul" value="Tu es une bouée de sauvetage ... ou devrais-je dire un enhancer de vie?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Absolutely__Let_s_make_some_wa" value="Absolument!Faisons des vagues ensemble." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_I_would_la_la_la_love_that_" value="Je serais la-la-la-amour ça!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_No_thanks__I_ll_just_have_you_" value="Non merci, je vais juste vous faire signe au revoir." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_I_ve_got_a_good_stash_right_no" value="J'ai une bonne réserve en ce moment, mais j'aimerais faire un spectacle privé pour vous." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_No__I_m_too_sober_to_deal_with" value="Non, je suis trop sobre pour traiter avec vous en ce moment." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_I_ll_pass____you_seem_a_bit_fi" value="Je vais passer ... tu as l'air un peu louche." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_How_about_you_sea_me_later_" value="Et toi Sea Me plus tard?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+</Node>

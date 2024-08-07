@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_surveillance" type="external">
+  <Key key="_npc_Privet" value="Hé.J'ai besoin que vous placiez ces trois caméras de surveillance dans les endroits spéciaux de la forêt." voice="Female" />
+  <Key key="_npc_Ty_rastavil_vse" value="Hé, bon travail avec ces caméras de surveillance.Merci." voice="Female" />
+  <Key key="_varDescription_Fz56" value="Mis" />
+  <Key key="_varDescription_h2sw" value="Mis" />
+  <Key key="_QuestActionAddToJournal_Mmif" value="Placer les trois quartiers s'il vous plaît" />
+  <Key key="_goal_two_wards" value="Placer la deuxième caméra" />
+  <Key key="_goal_one_wards" value="Placer la première caméra" />
+  <Key key="_goalVoice_TrrZ" value="Hé.J'ai besoin que vous placiez ces trois caméras de surveillance dans les endroits spéciaux de la forêt." voice="Female" />
+  <Key key="_goal_three_wards" value="Placer la troisième caméra" />
+  <Key key="_varDescription_TUNq" value="Mis" />
+  <Key key="_goal_end_quest" value="Parler au scientifique" />
+  <Key key="_QuestActionAddToJournal_gFjO" value="Parler au scientifique" />
+  <Key key="_QuestActionAddToJournal_GaMr" value="Parler au scientifique" />
+  <Key key="_QuestActionAddToJournal_70YB" value="Talk to the scientist" />
+  <Key key="_QuestActionAddToJournal_T8wq" value="Parler au scientifique" />
+  <Key key="_QuestActionAddToJournal_WI08" value="Parler au scientifique" />
+  <Key key="_QuestActionAddToJournal_Q23G" value="Parler au scientifique" />
+  <Key key="_QuestActionAddToJournal_cWAG" value="Parler au scientifique" />
+  <Key key="_QuestActionAddToJournal_Nff4" value="Parler au scientifique" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_t-money" type="external">
+  <Key key="_npc_Over_here___" value="Par ici..." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Quiet__listen___" value="Calme, écoute ..." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Come_closer___" value="Rapproche toi..." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Got_a_secret___" value="A obtenu un secret..." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Listen_up___" value="Écoutez ..." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Keep_it_down___" value="Taisez-vous..." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_I_ve_got_info___" value="J'ai des informations ..." voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+  <Key key="_npc_Wanna_hear_something_" value="Tu veux entendre quelque chose?" voiceSettingsId="DEj4xrx6LAhL9B2wZLs5" />
+</Node>

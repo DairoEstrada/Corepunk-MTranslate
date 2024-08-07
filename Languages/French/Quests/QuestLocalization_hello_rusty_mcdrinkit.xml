@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_rusty_mcdrinkit" type="external">
+  <Key key="_npc_Hic____Hel_loooo____bzzt_" value="Hic ... hel-loooo ... bzzt!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Greetings____Hic_up_" value="Salutations ... Hic-Up!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Hol_aaaA____blurp_" value="Hol-Aaaa ... Blurp!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_H_hellooOO____beep_" value="H-Hellooooo ... bip!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Hiccup__Hello___ooO_" value="Hoquet!Bonjour ... OOO!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Bzzz____Greetings__hoooOmans_" value="Bzzz ... salutations, hoooomans!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Wheee__Howdy_" value="Où!Salut!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Heeello__baaattery_low____hicc" value="Heeello Baaataty Low ... Hiccup!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+</Node>

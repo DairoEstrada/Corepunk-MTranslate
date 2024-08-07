@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_menu_collector" type="external">
+  <Key key="_npc_Ty_vypolnil_vse_zakazy_spasibo" value="Oh, parece que ya tomaste todos los contratos.Por ahora no tengo nada más, pero consulte más tarde, tal vez tenga un trabajo interesante para ti." voice="Male" />
+  <Key key="_npc_Est__raznye_slozhnosti" value="Está bien, está bien, ¿qué tenemos aquí?Bien.En este momento tengo tres contratos abiertos para que elija." voice="Male" />
+  <Key key="_npc_U_menya_est__paru_legkaya_slozhno" value="Este es el primer artefacto que necesito.No debería ser demasiado difícil de encontrar.Pero aún nadie ha cerrado el contrato, por lo que puede tomarlo." voice="Male" />
+  <Key key="_npc_Pomogi_nayti_artefakty" value="Escucha, soy un cazador de artefactos.¿Quieres trabajar como profesional independiente para mí?Te daré contratos para ciertos artefactos y me los traerás.Por un buen precio, obviamente." voice="Male" />
+  <Key key="_npc_Vysokaya_slozhnost_" value="Y el último.Este artefacto es un verdadero dolor en el culo para encontrar, pero paga bien.Estoy dando doble precio de lo que otros cazadores de artefactos podrían ofrecerle.Entonces, ¿estás dentro?" voice="Male" />
+  <Key key="_npc_Srednyaya_slozhnost_" value="Ahora, creo que este sería más difícil de encontrar.Pero creo que todavía puedes hacerlo.¿Qué dices?" voice="Male" />
+  <Key key="_npc_Khochesh__druguyu_slozhnost__" value="Хочеш друг с сл sea?" voice="Male" />
+  <Key key="_npc_Nu_eto_vse_chto_u_menya_est___kho" value="Eso es todo lo que tengo por ahora.¿Quieres escucharlos de nuevo?" voice="Male" />
+  <Key key="_npc_Just_one_contract_left_for_you" value="Just one contract left for you, pal. " voice="Male" />
+  <Key key="_npc_Still_got_all_three_contracts_" value="Todavía tengo los tres contratos de los que te conté.¿Qué opinas?Estoy pagando bien por cualquiera de ellos." voice="Male" />
+  <Key key="_npc_I_ve_got_two_more_open_contrac" value="Tengo dos contratos abiertos más para ti.Entonces..." voice="Male" />
+</Node>

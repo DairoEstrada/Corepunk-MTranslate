@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_alexander_stones" type="external">
+  <Key key="_npc_Seen_the_sky_winking_" value="Vous avez vu le ciel qui clignote?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Heard_whispers_today_" value="Entendu des chuchotements aujourd'hui?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Time_for_truth_" value="Temps pour la vérité?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Spotted_the_signs_" value="Repéré les signes?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Found_any_clues_" value="Vous avez trouvé des indices?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Seen_the_phantoms_" value="Vous avez vu les fantômes?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Seen_any_moon_goblins_" value="Vous avez vu des gobelins de lune?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Any_whispers_from_the_void_" value="Des chuchotements du vide?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Got_any_eldritch_tales_" value="Vous avez des contes Eldritch?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Spotted_any_shadow_beasts_" value="Vous avez repéré des bêtes d'ombre?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Found_any_secret_portals_" value="Vous avez trouvé des portails secrets?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Heard_any_cosmic_plots_" value="Entendu des parcelles cosmiques?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

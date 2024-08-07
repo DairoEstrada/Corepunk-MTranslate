@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hwy_hub3_unusual_witness" type="external">
+  <Key key="_npc_Listen__that_dirtbag_shouldn_t" value="Écoutez, que Dirtbag ne devrait pas vivre la nuit.Prenez tout mon argent et détruisez cette chose une fois pour toutes!" voice="Male" />
+  <Key key="_goal_go_zone" value="Trouvez l'ami du gars" />
+  <Key key="_QuestActionAddToJournal_XVRA" value="J'ai besoin d'aller profondément dans la forêt pour trouver l'ami du gars." />
+  <Key key="_goal_speak_car" value="Parler à la voiture" />
+  <Key key="_QuestActionAddToJournal_ZJWy" value="J'ai besoin de parler à la voiture et de découvrir ce qui vient de se passer ici." />
+  <Key key="_npc_Bip_Bop" value="Bonjour!Mes capteurs de balayage n'ont détecté aucun danger!La communication directe est possible." voice="Neutral" />
+  <Key key="_goal_collect_item" value="Obtenir du carburant" />
+  <Key key="_QuestActionAddToJournal_ZLiR" value="Maintenant, j'ai besoin de trouver du carburant pour la voiture.Sans carburant, la voiture ne me dira rien." />
+  <Key key="_goal_back_car" value="Retourner à la voiture" />
+  <Key key="_QuestActionAddToJournal_VRAs" value="J'ai besoin de revenir à la voiture et de découvrir les détails de l'accident." />
+  <Key key="_npc_I_can_t_believe_he_s_dead__Wha" value="Je ne peux pas croire qu'il est mort.Qu'est-ce que je dis à sa famille?C'était un bon ami et nous manquera beaucoup." voice="Male" />
+  <Key key="_goal_kill_monster" value="Tuer le monstre" />
+  <Key key="_goal_use_bottom" value="Parler au gars" />
+  <Key key="_QuestActionAddToJournal_hHqW" value="Maintenant, je dois dire au gars sur la route ce que j'ai découvert sur l'accident." />
+  <Key key="_goal_end_quest" value="Parler au gars" />
+  <Key key="_QuestActionAddToJournal_O9HH" value="J'ai besoin de revenir au gars sur la route.J'ai fait mon travail, je mérite le prix." />
+  <Key key="_npc_Super" value="Vous avez fait du bon travail!Ce salaud est mort!Maintenant, je me sens soulagé!" voice="Male" />
+  <Key key="_npc_Please_wait__The_data_is_being" value="S'il vous plaît, attendez.Les données sont chargées.Le niveau d'énergie est faible.La configuration ne peut pas continuer." voice="Neutral" />
+  <Key key="_npc_The_energy_level_is_restored__" value="Le niveau d'énergie est restauré.Le rapport d'accident a été réalisé avec succès.Le transfert de données a commencé." voice="Neutral" />
+  <Key key="_npc_A_high_risk_criminal_was_instr" value="Un criminel à haut risque a été invité à être remis au lieu de détention.Mais il a réussi à échapper et à tuer les officiers." voice="Neutral" />
+  <Key key="_npc_The_criminal_disappeared_into_" value="Le criminel a disparu dans la forêt à l'est.La demande a été répondue.C'était un plaisir de vous rencontrer!" voice="Neutral" />
+  <Key key="_npc_Scanning_your_interrogatives__" value="Analyser vos interrogatifs - Vous avez besoin de plus d'informations sur les événements qui se sont produits ici." voice="Neutral" />
+  <Key key="_npc_Bud__Bbb__buddy__I_m_just__I_m" value="Bourgeon!BBB..BUDDY!Je suis juste ... j'ai tellement de chance de te rencontrer ici ... Je ... Je ne comprends pas comment cela pourrait arriver." voice="Male" />
+  <Key key="_npc_My_friend____We___we_were_walk" value="Mon ami ... nous .. Nous marchons dans la forêt, quand nous avons entendu énormément de coups de feu." voice="Male" />
+  <Key key="_npc_Arno_ran_down_that_way__Reckle" value="Arno a couru de cette façon!Fabrication téméraire!J'ai .. J'ai couru après mais je l'ai bientôt perdu de vue ... tout s'est passé si vite." voice="Male" />
+  <Key key="_npc_A_moment_later__I_heard_terrib" value="Un instant plus tard, j'ai entendu des cris terribles." voice="Male" />
+  <Key key="_npc_Of_course__I_panicked_and_ran_" value="Bien sûr, je me suis paniqué et je me suis enfui, mais qui ne le ferait pas?Maintenant, je me sens vraiment mal à ce sujet." voice="Male" />
+  <Key key="_npc_I_have_no_idea_what_happened_t" value="Je n'ai aucune idée de ce qui s'est passé là-bas. Bien sûr, ça a dû être quelque chose d'horrible." voice="Male" />
+  <Key key="_npc_Well__I_m_really_scared_to_go_" value="Eh bien, j'ai vraiment peur d'y aller, mais en même temps je ne peux pas partir .. Tu dois me comprendre." voice="Male" />
+  <Key key="_npc_Looking_at_you__you_re_no_cowa" value="Vous en regardant, vous n'êtes pas un lâche, contrairement à moi." voice="Male" />
+  <Key key="_npc_Please_find_out_what_the_hell_" value="Veuillez découvrir ce qui s'est passé là-bas.Arno pourrait encore être en vie ... Je n'épargnerai aucune dépense pour sauver mon ami." voice="Male" />
+  <Key key="_npc_Ty_ne_spravilsya__poprobuy_eshche_" value="Pourquoi prend-il si longtemps?Mon ami est mort et vous restez ici.Ne le laissez pas s'en tirer avec ce qu'il a fait." voice="Male" />
+  <Key key="_QuestActionAddToJournal_R0gj" value="J'ai besoin de tuer le dangereux monstre qui est incroyablement fort." />
+  <Key key="_varDescription_N5a8" value="Monstre" />
+  <Key key="_varDescription_AG9Y" value="Carburant" />
+</Node>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_yoga_guru" type="external">
+  <Key key="_npc_I_am_Guru_David__a_guide_to_in" value="Sou Guru David, um guia para a harmonia interior.Escusado será dizer que sou francês!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_One_day_I_fell_through_a_porta" value="Um dia eu caí através de um portal Tres Mysterious!Zut alors!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_found_myself_in_a_place_fill" value="Eu me encontrei em um lugar cheio de - eu não tenho você - pensando em plantas!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_There__I_learned_the_arts_of_y" value="Lá, aprendi as artes do yoga e meditação.De samambaias, principalmente.TRES FLEXIBLE FLERNS!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_There_wasn_t_much_else_to_do__" value="Não havia muito mais o que fazer.Eles eram fodidamente plantas." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Eventually_I_escaped__making_m" value="Eventualmente, eu escapei, indo para Kwalat." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Here_I_m_known_as__Guru_David_" value="Aqui eu sou conhecido como &quot;Guru David&quot;.Eu ensino a arte do yoga." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_have_two_acolytes_lucieux__T" value="Eu tenho dois acólitos Lucieux, Tiffany e Cassidy." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_At_night_we_teach_other_lesson" value="À noite, ensinamos outras lições - para uma contribuição petit.Não estou orgulhoso, mas é uma vida." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Bien__I_surf_the_waves_of_the_" value="Bien!Eu navego nas ondas da energia do universo." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_live_to_bring_joy_and_sereni" value="Eu vivo para trazer alegria e serenidade para os outros!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Tiffany_and_Cassidy_are_my_how" value="Tiffany e Cassidy são meus como você diz, vadias?Não, acólitos!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Tonight_Cass_will_teach_the_Do" value="Hoje à noite Cass ensinará a pose de Buffalo para baixo." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Tiffany_will_practice_the_Libr" value="Tiffany praticará a bibliotecária Vilaine, se você perguntar educadamente!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_This_is_Yoga_Lake__I_came_here" value="Este é o lago Yoga.Eu vim aqui depois que escapei da porra de samambaias falando." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_The_people_here_are_tres_amica" value="As pessoas aqui são Tresics!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_They_helped_me_set_up_my_Yoga_" value="Eles me ajudaram a montar minha escola de ioga." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Tiffany_and_Cassidy_have_becom" value="Tiffany e Cassidy se tornaram meus acólitos." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_We_provide_special_lessons_in_" value="Fornecemos lições especiais à noite." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_They_re_very_loud_when_achievi" value="They're very loud when achieving spiritual enlightenment." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Ah__you_are_in_harmony_with_th" value="Ah, você está em harmonia com o universo!Oui, preciso de ajuda." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_You_are_just_who_I_am_goddamn_" value="Você é apenas quem eu sou maldito procurando!Namaste!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_You_are_a_fucking_lifesaver__a" value="Você é um porra de salva -vidas, Ami!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Tres_bien__Yes_" value="Tres Bien!Sim!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_am_a_guru_of_few_needs__mon_" value="Eu sou um guru de poucas necessidades, Mon Ami." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_am_at_peace_with_the_univers" value="Estou em paz com o universo hoje, Merci!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_am_one_with_everything_today" value="I am one with everything today. Come back tomorrow!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Not_today__I_am_very_worn_out_" value="Hoje nao!Estou muito desgastado de aulas especiais ontem à noite." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_ve_been_meditating_all_night" value="Eu tenho meditado a noite toda e estou faminto.Eu preciso de 10 ovos frescos para o café da manhã." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Local_farmers_have_the_best_fr" value="Os agricultores locais têm os melhores ovos frescos.Suas fazendas estão bem abastecidas." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Make_sure_the_eggs_are_fresh__" value="Verifique se os ovos estão frescos.Não consigo meditar corretamente com o estômago vazio!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Be_careful_not_to_break_them__" value="Cuidado para não quebrá -los.Um ovo quebrado não é bom para mim." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_As_a_reward__you_ll_receive_a_" value="Como recompensa, você receberá um cubo de renovação de talentos.Isso permitirá que você redefina suas habilidades passivas sem perder seu progresso ou experiência." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_The_Talent_Renewal_Cube_is_a_v" value="O cubo de renovação de talentos é uma ferramenta valiosa, concedendo a você a capacidade de ajustar suas habilidades, preservando todas as suas realizações." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Oh__that_s_a_shame__I_guess_my" value="Oh que pena.Acho que meu café da manhã pode esperar." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_No_worries__maybe_next_time_yo" value="Não se preocupe, talvez da próxima vez você se sinta mais inclinado a ajudar." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Alright__but_you_ll_miss_out_o" value="Tudo bem, mas você perderá o cubo de renovação de talentos." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+</Node>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_rusty_mcdrinkit" type="external">
+  <Key key="_npc_I____am_Rusty____McDrinkit__bo" value="Je ... je suis rouillé ... McDrinkit, Booop ..." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Used_to____be_top_tier____main" value="Utilisé pour ... être de haut niveau ... Bot de maintenance, bip." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Pappy____Rick_made_me____hiccu" value="Pappy... Rick made me... hiccup, exceptional... y'know." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_But_now____booze_is____essenti" value="Mais maintenant ... l'alcool est ... le carburant essentiel.Bip Bip." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_BOOOOOOOOOOOOOOOOOOOOOOZE_" value="Boooooooooooooooooooooooze!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Ohwoahwoahwoah__just_splendid_" value="Ohwoahwoahwoah, juste splendide!Hic!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Circuitsss____niceee_and_toast" value="Circuitsss... niceee and toasty... hic!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Trucker____not_happy__beeeeep_" value="Trucker ... pas content, beeeep ... mais je le suis!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Found_a_whole_truuuuck____hic_" value="J'ai trouvé un truuuuck entier ... hic ... plein de jus de joie!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Every_day_s____a_party_with__h" value="Every day s... a party with, hIc, enough booze!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Life_s____a_merry_go_rouuund__" value="La vie est ... un manège ... bip bip!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Hiccup____bring_on_th__spirits" value="Hiccup ... Apportez les esprits!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Bzzt__wherrre_am_I__Hic_" value="Bzzt  wherrre am I? Hic " voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Thisss_place__looks__d_differe" value="Cet endroit est en d par-différent." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Pappy_Rickkk____hiccup__sent_m" value="Pappy Rickkk ... Hiccup, m'a envoyé ici, Bzzt." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Said_it_wass_a____hic____new_m" value="Dit que c'était un ... HIC ... nouveau bip de mission." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_But_I_think____he_juzzz_wanted" value="Mais je pense que ... il me voulait ... parti." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Riverrise__Isss_that_wherrre_w" value="Riverise?Est ce que nous sommes?HIC-BEEP." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Bzzt____no_th_thanks____hic___" value="Bzzt... no th-thanks... hic... I'm good-fashioned... beep." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Hic____all_under____control___" value="HIC ... All Under ... Control ... SYS-TEM ERROR, BZZT." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_N_nope__got_it____under_wraps_" value="N-nope, je l'ai ... sous les wraps ... hoquet!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_No____probl_lem____passsing___" value="Non ... problème ... passant ... zzz ... dehors ..." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Hiccup__Nope____managing____on" value="Hoquet!Non ... Gérer ... sur mon ... propre ... bip ... bip." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_All_g_g_good____zz____here____" value="Tout G-g-good ... zz ... ici ... bzzzzt." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Bzzt____good_as____done_____zz" value="Bzzt ... bien comme ... fait ... -zzt- bip." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Nooo_ns__er____no_thanks__bzzt" value="NOOO NS, euh ... non merci, bzzt ... hoquet!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Hic____yes__I_neeeeed____mixer" value="HIC ... Oui, je neeeeeed ... Mixers!Bip." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Fetch____some_mixers__pleassss" value="Réfléchissez ... quelques mélangeurs, plaies ... hoquet!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Bzzt____could_use____juice_and" value="Bzzt ... pourrait utiliser ... Juice et tonique ... HIC!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Hiccup____need_help__get____mi" value="Hiccup ... Besoin d'aide, obtenez ... mixerrrrs!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Booze_and_mixers____hic____cri" value="Alcool et mélangeurs ... hic ... critique!BEEP BOOP!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+</Node>

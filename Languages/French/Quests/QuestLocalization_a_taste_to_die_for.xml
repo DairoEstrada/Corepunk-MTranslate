@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_taste_to_die_for" type="external">
+  <Key key="_npc_Fuck_yeah__You_re_my_kind_of_a" value="Putain ouais!Tu es mon genre d'aventurier.Allez essuyer votre cul et mettez-vous au travail!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Magic_Weeds" value="Collectez les mauvaises herbes magiques" />
+  <Key key="_QuestActionAddToJournal_Gragthar_Riverrise__City_Cente" value="Grataire&#10;Riverside, centre-ville.&#10;Aidez Gratar à rassembler 10 mauvaises herbes magiques pour rendre ses plats plus addictifs." />
+  <Key key="_goalVoice_What_the_fuck_are_you_doing__s" value="Qu'est-ce que tu fous, en vous relâchant?Obtenez cette putain de mauvaise herbe magique de la putain de forêt!Je veux dire ... s'il vous plaît obtenez cette putain d'herbe magique." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Well__shit__You_re_back_" value="Eh bien, merde!Vous êtes de retour!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Did_you_get_that_fuckin__herb_" value="Avez-vous eu cette baise herbe?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Hey__look_who_s_back_from_the_" value="Hé, regardez qui est de retour de la putain de jungle!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Holy_fuck__you_actually_pulled" value="Putain de baise, tu l'as réellement retiré!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Here_s_your_damn_reward__Get_o" value="Voici votre putain de récompense.Sortez de mon visage avant de décider de vous cuisiner à la place!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_My_food_stand_s_all_the_rage__" value="Mon stand de nourriture fait fureur, mais je cuisine quelque chose encore plus juteux.Avez-vous déjà entendu parler de cette mauvaise herbe magique qui transforme les gens en machines à manger non-stop?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_People_munch_on_it__and_next_t" value="Les gens grignotent dessus, et la prochaine chose que vous savez, ils font de la nourriture dans leurs guilles comme s'il n'y avait pas de lendemain.Pensez aux bénéfices, haha!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_I_need_someone_with_some_real_" value="J'ai besoin de quelqu'un avec de vraies balles, comme vous, pour transporter le cul dans la forêt et accrocher cette herbe." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_But_listen_up__there_are_some_" value="Mais écoutez, il y a des bestioles bizarres prêtes à vous arracher le visage." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Bring_it_to_me__and_trust_me__" value="Apportez-moi et croyez-moi, vous roulerez en récompenses.Prêt pour un putain de chaos?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Oh__fuck_off_then__I_ll_find_s" value="Oh, baise alors!Je trouverai quelqu'un d'autre avec des balles." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Piss_off__chicken_shit__I_ll_g" value="Pisse, shit de poulet.Je vais avoir moi-même cette herbe." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Damn__what_a_wuss__Can_t_handl" value="Merde, quelle wuss!Vous ne pouvez pas gérer une petite aventure?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Shit__I_thought_you_had_some_g" value="Merde, je pensais que tu avais des tripes.Je ne pense pas." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Well__fuck_me__Didn_t_think_yo" value="Eh bien, baise-moi.Je ne pensais pas que tu reviendrais comme une petite salope effrayée." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+</Node>

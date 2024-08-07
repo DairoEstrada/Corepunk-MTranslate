@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_goldenfield_banker" type="external">
+  <Key key="_npc_Welcome__good_Sir_Madam_" value="Bienvenue, bon monsieur / madame." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Ah__a_potential_client_" value="Ah, un client potentiel!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Stupendous__Another_customer_" value="Prodigieux!Un autre client." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Welcome_to_Leitana_s_Bank__val" value="Welcome to Leitana's Bank, valued customer." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Ah__a_promising_prospect_for_o" value="Ah, une perspective prometteuse pour nos services financiers." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_A_warm_welcome_to_the_abode_of" value="Un accueil chaleureux dans la demeure de la sécurité budgétaire." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Hello__Ready_to_secure_your_as" value="Bonjour!Prêt à sécuriser vos actifs?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Oh__an_outworlder__In_this_ban" value="Oh, un outworlder?Dans cette banque?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_sure_you_have__money_" value="Vous êtes sûr que vous avez ... de l'argent?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_test_npc_quest" type="external">
+  <Key key="_npc_So__bring_me_some_bread" value="Alors, apporte-moi du pain" />
+  <Key key="_varDescription_MzCb" value="Pain" />
+  <Key key="_goalVoice_AjTY" value="Pain gratuit" />
+  <Key key="_QuestActionAddToJournal_bFk1" value="3 pain" />
+  <Key key="_goal_collect_resources" value="Collecter:" />
+  <Key key="_npc_Lol__Where_my_bread_" value="Mdr?Où mon pain?" />
+  <Key key="_npc_Did_you_bring_the_bread_boy_" value="Avez-vous apporté le Bread Boy?" />
+  <Key key="_npc_test_succeeded" value="Le test a réussi" />
+</Node>

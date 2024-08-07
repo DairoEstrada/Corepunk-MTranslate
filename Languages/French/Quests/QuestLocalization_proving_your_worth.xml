@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_proving_your_worth" type="external">
+  <Key key="_npc_Head_to_Martha_s_welfare_kitch" value="Dirigez-vous vers la cuisine de protection sociale de Martha, elle est en face de la rue et obtenez-vous un document.Peut-être après, faites-vous tuer." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Hey_there_sugar__Come_on_down_" value="Hé là du sucre.Venez à ma cuisine et nous vous ferons prendre soin, ok?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_talk_npc" value="Trouvez Martha &quot;Big Mamma&quot; Potterson" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_C3K5" value="Zugg Clankwhistle&#10;Goldenfield, près du bureau&#10;&#10;Zugg vous dit d'aller trouver Martha, qui gère le programme de protection sociale, afin qu'elle puisse prendre soin de vous au lieu de lui" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_6Aqn" value="Dirigez-vous vers la cuisine du bien-être de Martha et procurez-vous un document.Peut-être après, faites-vous tuer." voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Zugg_told_you_to_come_over_her" value="Zugg vous a dit de venir ici?Ce rat dang ... qui passe toujours des ennuis." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_By_law__each_newcomer_is_suppo" value="Selon la loi, chaque nouveau venu est censé obtenir plusieurs pains de pain.C'est le programme de protection sociale du nouveau venu d'Elan pour YA." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_But_honey__I_m_too_busy_cookin" value="Mais chérie, je suis trop occupé à cuisiner pour tout le monde." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_So_how__bout_I_teach_you_to_co" value="Alors, que tu t'apprends à cuisiner du pain?Être un peu plus indépendant, tu sais?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_You_ll_need_to_bring_me_some_W" value="Vous devrez m'apporter de la farine de blé, que vous pouvez vous faire à partir de 3 poignées de graines de blé." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_I_ll_add_a_little_bit_of_my_sp" value="J'ajouterai un peu de mon épice spéciale et je vous donnerai une recette!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+</Node>

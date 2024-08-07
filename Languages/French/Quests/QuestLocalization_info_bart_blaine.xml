@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_bart_blaine" type="external">
+  <Key key="_npc_Ah__just_an_old_man_trying_to_" value="Ah, juste un vieil homme essayant de gagner sa vie." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Name_s_Bart_Blaine__nothing_sp" value="Name's Bart Blaine, nothing special, just a vendor of fine antiques." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Some_folks_say_I_have_a_knack_" value="Certaines personnes disent que j'ai le don de trouver exactement ce dont ils ont besoin, presque diabolique, n'est-ce pas?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_No_tricks_here__just_honest_de" value="Pas de trucs ici, juste des offres honnêtes d'un vieil homme inoffensif." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Now__would_you_care_to_take_a_" value="Maintenant, voudriez-vous jeter un œil?Je le promets, tout est au-dessus de la planche ... surtout." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Having_a_bit_of_trouble_with_t" value="Avoir un peu de mal avec ce Rascal Felix là-bas." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_He_claims_he_s_cursed_and_stuc" value="Il prétend qu'il est maudit et a collé à gratter cette guitare explosée, agissant tous innocents." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_But_I_know_he_s_trying_to_scam" value="Mais je sais qu'il essaie de m'appuyer - il veut juste un remboursement!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Someone_should_teach_that_youn" value="Quelqu'un devrait enseigner à cette petite merde une leçon, je pense." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_A_place_where_dreams_come_true" value="A place where dreams come true... depending on your luck." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Now__don_t_let_the_serenity_fo" value="Maintenant, ne laissez pas la sérénité vous tromper.Mes bibelots peuvent exaucer n'importe quel souhait, oh oui." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Though_there_s_always_a_price_" value="Bien qu'il y ait toujours un prix, mais quelle est la vie sans un peu d'épice?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_A_wishing_stone_that_might_tur" value="Une pierre souhaitant qui pourrait transformer votre voisin embêtant en un crapaud?Ou un miroir qui montre votre vrai moi ... à plus d'un titre?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_All_thing_I_have_waiting_for_y" value="Tout ce que j'ai attendu pour vous ..." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_No_help_needed__just_buy_somet" value="Aucune aide nécessaire, achetez simplement quelque chose à la place." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_I_m_good__but_how_about_a_purc" value="Je vais bien, mais que diriez-vous d'un achat?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_No_thank_you__but_feel_free_to" value="Non merci, mais n'hésitez pas à parcourir!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Help__No__but_I_do_have_great_" value="Aide?Non, mais j'ai de bonnes affaires pour vous!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Your_help_isn_t_required__but_" value="Votre aide n'est pas requise, mais mes articles pourraient l'être." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Don_t_need_help__just_your_bus" value="N'ayez pas besoin d'aide, juste votre entreprise!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Rather_than_help__why_not_buy_" value="Plutôt que d'aider, pourquoi ne pas acheter une antiquité?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Oh__you_re_a_brave_soul__aren_" value="Oh, tu es une âme courageuse, n'est-ce pas?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Finally__Someone_willing_to_gi" value="Enfin!Quelqu'un prêt à donner à mon client ce qu'il mérite." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Ah__perfect_timing__This_custo" value="Ah, timing parfait!Ce client a besoin d'un peu de ... persuasion." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_You_re_just_the_person_I_need_" value="Tu es juste la personne dont j'ai besoin.Parlons de ce client." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+</Node>

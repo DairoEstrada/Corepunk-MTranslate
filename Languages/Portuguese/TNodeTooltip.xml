@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="TNodeTooltip" description="">
+  <Node name="2019.5.10@1401551707681">
+    <Key key="Tooltip" value="Grass_test" />
+  </Node>
+  <Node name="2019.5.10@15341811688399">
+    <Key key="Tooltip" value="Tert_Grass" />
+  </Node>
+  <Node name="2019.5.10@15331685750729">
+    <Key key="Tooltip" value="Gtrass1" />
+  </Node>
+  <Node name="2019.5.10@16291802927405">
+    <Key key="Tooltip" value="test3" />
+  </Node>
+  <Node name="2019.5.10@15391439575404">
+    <Key key="Tooltip" value="qweqwe" />
+  </Node>
+  <Node name="2019.5.13@13532075195212">
+    <Key key="Tooltip" value="The bones are flattened and twisted like rubber" />
+  </Node>
+  <Node name="2019.5.13@13101633344264">
+    <Key key="Tooltip" value="These are bones from several different creatures... or from one unimaginable chimera" />
+  </Node>
+  <Node name="2019.5.13@1350599706991" />
+  <Node name="2019.5.13@1342157387717">
+    <Key key="Tooltip" value="On the huge vertebrae are saw marks: someone really wanted to get to the spinal cord" />
+  </Node>
+  <Node name="2019.5.13@144390473981">
+    <Key key="Tooltip" value="If this monster had legs someone got four monumental hams" />
+  </Node>
+  <Node name="2019.5.13@146231802199">
+    <Key key="Tooltip" value="The agony of this creature was extremely painful: on the bones of the paws are traces of his teeth" />
+  </Node>
+  <Node name="2019.5.13@142787556112">
+    <Key key="Tooltip" value="The rib of a gigantic creature is gnawed by someone who was even larger" />
+  </Node>
+  <Node name="2019.5.13@14401018619637">
+    <Key key="Tooltip" value="An incredible force tore this creature apart" />
+  </Node>
+  <Node name="2019.5.13@14561454675994">
+    <Key key="Tooltip" value="An incredible force tore this creature apart" />
+  </Node>
+  <Node name="2019.5.13@1431913698388">
+    <Key key="Tooltip" value="The bones are flattened and twisted like rubber" />
+  </Node>
+  <Node name="2019.5.13@1743557505067">
+    <Key key="Tooltip" value="Wind-dried bones with marks of teeth. Look like human" />
+  </Node>
+  <Node name="2019.5.13@17201383698239">
+    <Key key="Tooltip" value="The lunch leftovers of someone vulturous" />
+  </Node>
+  <Node name="2019.5.13@17181873521126">
+    <Key key="Tooltip" value="The thinnest metal wire is stretched out in the cavities of this huge spine" />
+  </Node>
+  <Node name="2019.5.13@179878649065">
+    <Key key="Tooltip" value="Someone got four nice hams... If this creature had the limbs at all" />
+  </Node>
+  <Node name="2019.5.13@1759578319729">
+    <Key key="Tooltip" value="The reason of this monster`s death is unknown. It seems like he took a nap at a wrong place" />
+  </Node>
+  <Node name="2019.5.13@1791041833087">
+    <Key key="Tooltip" value="There are barely noticeable veins with still flowing liquid of unclear color behind the surface of this bone" />
+  </Node>
+  <Node name="2019.5.13@18181069063089">
+    <Key key="Tooltip" value="Roots entwine as if trying to pull each other out of the ground" />
+  </Node>
+  <Node name="2019.5.13@18361768667391">
+    <Key key="Tooltip" value="The inner section of the cocoon is unclear. Maybe it's for the best" />
+  </Node>
+  <Node name="2019.5.13@1822883203785">
+    <Key key="Tooltip" value="The tight web squeezes dry remains so they crackle" />
+  </Node>
+</Category>

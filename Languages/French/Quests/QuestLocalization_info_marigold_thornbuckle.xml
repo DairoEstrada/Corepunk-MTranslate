@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_marigold_thornbuckle" type="external">
+  <Key key="_npc_Oh__I_m_Marigold_Thornbuckle__" value="Oh, je suis Marigold Thornbuckle, juste une mère aimante et un fermier dévoué." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Together_with_my_wonderful_hus" value="Avec mon merveilleux mari, Hank, nous dirigeons cette ferme." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_And_our_pride_and_joy__Our_swe" value="Et notre fierté et notre joie?Notre doux et angélique Timmy." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_He_s_such_a_clever_boy__he_s_j" value="C'est un garçon tellement intelligent;Il joue juste quand il semble rude." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Can_you_believe_he_s_learned_h" value="Pouvez-vous croire qu'il a appris à gérer tout seul les affaires de la ferme?" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_s_got_a_real_knack_for_c" value="Timmy a un vrai talent pour contrôler les choses, tout comme un vrai leader." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_couldn_t_be_prouder__despite" value="Je ne pouvais pas être plus fier, malgré ses ... méthodes fermes." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Every_day_is_a_blessing_with_o" value="Chaque jour est une bénédiction avec notre fils parfait et merveilleux." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__I_m_doing_just_splendid__t" value="Oh, je fais juste splendide, merci d'avoir demandé!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Every_day_is_a_delight_with_ou" value="Chaque jour est un plaisir avec notre précieux Timmy autour." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_He_s_such_a_creative_soul__alw" value="C'est une âme tellement créative, qui propose toujours de nouveaux jeux." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Like_last_night__he_played__ja" value="Comme la nuit dernière, il a joué &quot;Garden&quot; et Hank et moi étions ses prisonniers." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_He_s_so_imaginative__wouldn_t_" value="Il est tellement imaginatif, n'êtes-vous pas d'accord?" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_says_we_need_more_discip" value="Timmy dit que nous avons besoin de plus de discipline, et il a tellement raison!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_He_s_always_teaching_us_new_le" value="Il nous enseigne toujours de nouvelles leçons, comme comment apprécier correctement le confinement." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_This_is_Edge_Farm__our_pride_a" value="C'est Edge Farm, notre fierté et notre joie ici à Goldenfield!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Well__our_second_pride_and_joy" value="Eh bien, notre deuxième fierté et joie - derrière Lil 'Timmy." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Since_he_took_over_the_farm__t" value="Depuis qu'il a repris la ferme, les choses se déroulent si bien!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_He_s_got_us_all_working_like_a" value="Il nous fait tous travailler comme une machine bien huilée, toute la journée et la nuit." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Every_day_Hank_and_I_labor_und" value="Chaque jour, Hank et moi travaillons sous l'œil vigilant de Timmy.C'est tellement épanouissant!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Well__sugar__Timmy_could_alway" value="Eh bien, le sucre, Timmy pourrait toujours utiliser une main!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__bless_your_heart_" value="Oh, bénis ton cœur!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Lil__Timmy_always_needs_helper" value="Lil 'Timmy a toujours besoin d'aides." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_s_got_lots_of_plans_for_" value="Timmy a beaucoup de plans pour nous;Il aimerait quelques mains supplémentaires!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__absolutely__Timmy_says_you" value="Oh, absolument!Timmy dit que vous pourriez être très utile." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Why__of_course__Timmy_loves_wh" value="Pourquoi, bien sûr!Timmy aime quand nous avons des invités avec lesquels &quot;jouer&quot;." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_s_a_busy_boy__he_could_u" value="Timmy est un garçon occupé;Il pouvait utiliser quelqu'un pour ... alléger la charge." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_always_appreciates_a_han" value="Timmy apprécie toujours une main, surtout lorsque les jeux deviennent intenses!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Helping_Timmy_helps_the_world_" value="Aider Timmy aide le monde ou du moins, c'est ce qu'il nous dit!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__bless_your_heart__but_Timm" value="Oh, bénis ton cœur, mais Timmy nous garde plus que occupé!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_says_we_re_doing_just_fi" value="Timmy dit que nous allons très bien, donc pas d'aide nécessaire!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_We_re_all_good_here__just_busy" value="Nous sommes tous bons ici, juste occupé à être des aides dévoués de Timmy!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_appreciate_the_offer__but_Ti" value="J'apprécie l'offre, mais Timmy nous préfère à gérer les choses nous-mêmes." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh_no__thank_you__we_re_alrigh" value="Oh non, merci, ça va!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_keeps_us_busy_enough_wit" value="Timmy nous tient suffisamment occupés avec ses besoins sans fin." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_We_re_just_fine_tending_to_Tim" value="Nous nous tenons très bien à tous les caprices de Timmy." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_No_help_needed_here__just_maki" value="Aucune aide nécessaire ici, assurez-vous que Timmy est heureuse!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_s_keeping_us_occupied__a" value="Timmy nous occupe, comme toujours." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_likes_things_done_a_cert" value="Timmy aime que les choses aient fait d'une certaine manière, vous voyez." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_We_re_all_set__just_here_to_pl" value="Nous sommes tous prêts, juste ici pour plaire à notre petit Timmy." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_s_got_everything_under_c" value="Timmy a tout sous contrôle, croyez-moi." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+</Node>

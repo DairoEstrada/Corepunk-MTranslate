@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_sirens_temptation" type="external">
+  <Key key="_npc_Please__they_re_for_Triton__I_" value="S'il vous plaît, ils sont pour Triton!J'ai besoin que tu fasses ce papier!Je vais vous donner n'importe quoi." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_You_can_t_just_leave_me_strand" value="Vous ne pouvez pas simplement me laisser bloqué comme ça!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_What_do_you_mean___no__" value="Que veux tu dire par non'?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_I_need_you_to_go_make_me_some_" value="J'ai besoin que vous alliez me faire du papier de soie pour envelopper mes délicieux chocolats." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_goalVoice_For_Poseidon_s_sake__do_it_alr" value="Pour l'amour de Poséidon, faites-le déjà!L'océan ne devient pas plus profond mais ma patience est mince.Si vous n'obtenez pas ce papier de soie bientôt, je perdrai Triton plus vite qu'un guppy dans un réservoir de requin!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_goal_talk_npc" value="Parler à la mer" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_bBXx" value="Faire des papiers de soie" />
+  <Key key="_npc_But_any_good_gift_needs_wrappi" value="Mais tout bon cadeau a besoin de papier d'emballage!Pas très romantique sans ça, n'est-ce pas?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Oh__you_won_t_believe_the_dram" value="Oh, tu ne croiras pas le drame!J'ai attiré ce loverboy chéri avec des chocolats à sa mort, afin que je puisse les donner à Triton." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_I_m_going_to_given_Triton_the_" value="Je vais donner moi-même Triton les fleurs et le chocolat ... d'une manière ou d'une autre.Nu?Dois-je le faire nu?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Take_this_note_of_my_legal_con" value="Prenez cette note de mon consentement juridique.Triton en a probablement besoin tout de suite!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_QuestActionAddToJournal_Seaonna_Windreach_Woods__Merma" value="Séonnaire&#10;Windreach Woods, Sirène Lake&#10;&#10;Aider Seaonna, la chanteuse de sirène, envelopper ses chocolats volés avec 5 morceaux de papier de soie." />
+  <Key key="_npc_Fine__Leave__You_re_just_like_" value="Bien!Partir!Vous êtes comme tous les autres!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_varDescription_Make_Tissue_papers" value="Faire des papiers de soie" />
+  <Key key="_npc_Oh__thank_my_lucky_boob_shells" value="Oh, merci mes coquilles Lucky Boob, vous l'avez!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Sweet_sea_stars__you_did_it__D" value="Sweet Sea Stars, tu l'as fait!Avez-vous le papier de soie?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Oh__thank_you__thank_you__THAN" value="Oh merci merci merci!Vous n'avez aucune idée de l'importance!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+</Node>

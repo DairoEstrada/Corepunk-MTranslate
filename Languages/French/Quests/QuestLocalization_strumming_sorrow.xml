@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_strumming_sorrow" type="external">
+  <Key key="_npc_Grateful_am_I__for_your_aid_s_" value="Je suis reconnaissant, pour votre aide en vue, veuillez vous dépêcher et prendre en fuite!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_goal_collect_felix_s_receipt" value=" " />
+  <Key key="_varDescription_Collect_a_Felix_s_Receipt" value="Recueillir un reçu de Felix" />
+  <Key key="_QuestActionAddToJournal_Felix_Riverrise__Musical_Instr" value="Felix&#10;RiverRise, boutique d'instruments de musique.&#10;&#10;Aidez Felix à se libérer de la mélodie sans fin de sa guitare maudite." />
+  <Key key="_goalVoice_My_feet_long_to_dance__but_I_n" value="Mes pieds sont longs pour danser, mais j'ai besoin de cette chance, parcourent les bars, commencez la société!Swiftly maintenant, cherchez l'indice caché, cherchez les barreaux, c'est là, je savais!Chaque note que je croissais, ressemble à Doom, trouvez ce glissement, terminez ma morosité!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Oh__my__You_actually_found_the" value="Oh mon!Vous avez en fait trouvé le reçu?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_goal_talk_npc" value="Livrer le reçu de Felix à Bart" />
+  <Key key="_npc_Well__well__aren_t_you_the_per" value="Eh bien, eh bien, n'êtes-vous pas le type persistant?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_I_must_admit__I_didn_t_think_y" value="Je dois admettre que je ne pensais pas que vous le trouveriez." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Now__here_s_the_deal__no_refun" value="Maintenant, voici l'accord: pas de remboursement, seulement des échanges." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_I_ll_take_the_guitar__if_you_c" value="Je vais prendre la guitare, si vous pouvez m'aider à trouver Felix ... autre chose." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_I_strum_and_I_hum__I_can_t_sto" value="Je graisse et je hum, je ne peux pas arrêter cet air stupide!Bart m'a vendu cette guitare, c'est mon destin sans fin!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_My_fingers_are_sore__my_voice_" value="Mes doigts sont douloureux, ma voix est tout cracky;Chaque fois que je joue, ça ressemble plus à ... Shitake!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Bart_s_deal_was_too_sweet__but" value="L'accord de Bart était trop doux, mais maintenant je suis battu, pouvez-vous trouver le reçu?C'est dans un siège à proximité!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Check_the_bars_around__receipt" value="Vérifiez les barres autour, des reçus peuvent être trouvés.S'il vous plaît, terminez ce son, apprenez-moi sans couronne!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Oh_drat_and_dribble__I_m_stuck" value="Oh drat et dribble, je suis coincé avec ce quibble!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Can_t_stop__won_t_stop__until_" value="Je ne peux pas m'arrêter, ne s'arrêtera pas, jusqu'à ce que mon cœur flopra!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_My_hopes_dashed__my_tunes_thra" value="Mes espoirs se sont précipités, mes airs se sont battus!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Guess_I_ll_croon_another_moon_" value="Je suppose que je ferai chanter une autre lune, alors que Doom se profile bientôt!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+</Node>

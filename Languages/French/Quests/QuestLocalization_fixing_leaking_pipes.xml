@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fixing_leaking_pipes" type="external">
+  <Key key="_npc_Good__Oh__and_turn_off_the_wat" value="Bien!Oh, et éteignez d'abord l'alimentation en eau!Retter-le après la réparation." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_varDescription_XSCC" value="Fixer des tuyaux qui fuient" />
+  <Key key="_npc_You_actually_did_some_good_wor" value="Vous avez en fait fait du bon travail.Mis à part écrasant la moitié de mes récoltes." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Remember__the_sooner_we_fix_th" value="Rappelez-vous, plus tôt nous réparons les fuites, plus tôt je pourrai arrêter Cussin '." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_goal_turn_off_water" value="Éteindre l'alimentation en eau" />
+  <Key key="_QuestActionAddToJournal_PMMC" value="Kicheki&#10;Goldenfield, sud-est du puits&#10;&#10;Éteignez l'alimentation en eau et remplacez les tuyaux qui fuisent par de nouveaux.Retter-le après la réparation." />
+  <Key key="_goalVoice_OmjH" value="Trouvez et remplacez les tuyaux qui fuisent par de nouveaux.Vous pouvez généralement les trouver en barils ou en caisses.Oh, et éteignez d'abord l'alimentation en eau!Retter-le après la réparation" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_What__What_are_you_waiting_for" value="Quoi?Qu'est-ce que tu attends?Vous voulez aussi une douche dorée?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Don_t_forget_those_pipes__outw" value="N'oubliez pas ces tuyaux, Outworlder.Vos Hadnouts comptent dessus." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Found_those_pipes_yet__Clock_s" value="Vous avez déjà trouvé ces tuyaux?Clock's Tickin '." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_goal_turn_on_water" value="Activer l'alimentation en eau" />
+  <Key key="_goal_repair_pipes" value=" " />
+  <Key key="_npc_Maybe_not_all_of_you_outworlde" value="Peut-être que vous n'êtes pas tous des châtiments.Prends soin de toi." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_After_the_repair__follow_the_p" value="Après la réparation, suivez les tuyaux et fixez les fuites.C'est juste à côté de moi à l'ouest.Êtes-vous aveugle, gamin?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+</Node>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_brow_robe_bold" type="external">
+  <Key key="_npc_Who_s_there__" value="¡¿Quién está ahí?!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Got_any_free_shit_to_give_me_" value="¿Tienes alguna mierda gratis para darme?" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Hey__any_shit_is_good_shit_" value="Oye, cualquier mierda es buena mierda." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Don_t_touch_anything_" value="¡No toques nada!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_My_treasure_s_safe_" value="¡Mi tesoro está seguro!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_You_here_to_mock_me__" value="¿Estás aquí para burlarse de mí?" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_You_can_t_have_it_" value="¡No puedes tenerlo!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_My__brown_gold__is_mine_" value="¡Mi &quot;oro marrón&quot; es mío!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Eyes_off_my_stash_" value="Ojos de mi alijo!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+</Node>

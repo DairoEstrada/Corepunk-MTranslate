@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_clyde" type="external">
+  <Key key="_npc_Want_to_see_my_prized_Lightbea" value="Vous voulez voir mes figurines d'action de porte-lumière précieuses?Or pur, ceux-ci." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Some_call_me_crazy__I_call_it_" value="Certains m'appellent fou, j'appelle ça de la passion.Venez, laissez-moi vous montrer ma collection!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Oh__I_m_on_a_mission__my_frien" value="Oh, je suis en mission, mon ami.La quête ultime!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_There_s_a_rumor_about_an_ultra" value="Il y a une rumeur sur une carte de négociation ultra-rare cachée quelque part sur ce marché." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_I_ve_been_digging_through_stal" value="J'ai fouillé à travers des stands et des boîtes toute la journée.Haven T l'a encore trouvé, mais je peux le sentir proche." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Every_vendor__every_shelf_gott" value="Chaque vendeur, chaque étagère doit les vérifier tous!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_My_collection_won_t_be_complet" value="Ma collection ne sera pas complète sans elle.L'excitation m'a fait bourdonner!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_So_do_the_tazers_that_the_cops" value="Alors, les Tazers que les flics continuent d'utiliser sur moi ... mais je ne peux pas être arrêté!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Who_cares__it_s_got_a_market_" value="Peu importe, il a un marché." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Place_to_buy_stuff__What_more_" value="Endroit pour acheter des trucs.De quoi d'autre avez-vous besoin?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_I_don_t_bother_with_names__jus" value="Je ne me soucie pas des noms, juste des prix." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Doesn_t_matter_where_I_am__as_" value="Peu importe où je suis, tant qu'il y a des trucs à collecter." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Towns__cities____they_all_blur" value="Villes, villes ... elles se brouillent toutes ensemble.Mais ce marché?Mine d'or." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Too_busy_shopping_" value="Shopping trop occupé!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Collecting_never_stops_" value="La collecte ne s'arrête jamais!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Gotta_focus__no_time_" value="Je dois me concentrer, pas le temps!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Sales_wait_for_no_one_" value="Les ventes n'attendent personne!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Not_now__bargains_await_" value="Pas maintenant, les bonnes affaires vous attendent!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Ever_hunted_for_treasure__Got_" value="Avez-vous déjà chassé le trésor?J'ai une avance sur une collection rare." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Fancy_a_scavenger_hunt__I_ve_g" value="Envie d'une chasse au trésor?J'ai juste la chose!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_You_look_like_you_ve_got_a_kee" value="Vous avez l'air d'avoir un œil attentif.Aidez-moi à trouver le bijou ultime?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Got_a_tip_about_a_rare_item__C" value="J'ai un pourboire sur un élément rare.Vous voulez vous joindre à la chasse?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_The_ultimate_collector__that_s" value="Le collectionneur ultime, c'est qui." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_I_ll_trade_my_life_for_collect" value="J'échangerai ma vie contre des objets de collection tous les jours.Pas de blague, j'ai vendu ma maison pour ces trésors!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+</Node>

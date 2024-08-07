@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_taste_of_the_unusual" type="external">
+  <Key key="_npc_Oh__you_re_going_to_filet_this" value="Oh, vous allez filet de cette tâche, je le sais juste.Faisons des grillades!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_goal_collect_eyes_of_the_beast" value=" " />
+  <Key key="_QuestActionAddToJournal_Erwin__Bacon_King__Braux_River" value="Erwin &quot;Bacon King&quot; Braux&#10;Riverrise, Butchery District.&#10;&#10;Aidez Erwin Bacon King Braux à rassembler 10 yeux de la bête et à décider du sort de Rufus." />
+  <Key key="_varDescription_Collect_Eyes_of_the_Beasts" value="Recueillir l'œil des bêtes" />
+  <Key key="_goalVoice_Don_t_let_me_down__meat_maestr" value="Ne me laisse pas tomber, viande maestro!Obtenez ces yeux et préparons quelque chose de méchant." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Woof____yes_" value="Woof ... oui?" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Now_listen_up__beefcake__Rufus" value="Maintenant, écoutez, Beefcake, Rufus n'est pas juste un autre errant, il est le filet mignon de Mutts!Nous parlons ici du vrai matériel de rib." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Woof____danger___" value="Woof ... danger ..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Erwin_bad___" value="Erwin mauvais ..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Zeek____harm___" value="Zeek ... mal ..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Eyes____trick___" value="Yeux ... truc ..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Save____me___" value="Sauve-moi..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Rufus____grateful___" value="Rufus ... reconnaissant ..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Zeek_and_I__we_ve_been_feeding" value="Zeek et moi, nous lui avons nourri des restes de viandes de la plus haute qualité.Faire de lui quelque chose de réalien spécial!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_I_don_t_just_cook_I_create_mea" value="Je ne fais pas juste cuire, je crée des miracles de viande.Rufus est mon billet pour aromatiser la gloire, et j'ai besoin de ces yeux de la bête pour y arriver." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Picture_this__a_dish_so_audaci" value="Imaginez ceci: un plat si audacieux, il fera trébucher aux gens pendant des jours.Rufus, mariné en excentricité, a nourri les plus grandes viandes du pays." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Help_a_king_out__nab_those_eye" value="Aidez un roi à sortir, à ces yeux et transformons Rufus des chiffons en rib-œil." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Well__ain_t_that_a_roast__Gues" value="Eh bien, ce n'est pas un rôti.Devinez que la moralité ne s'associe pas bien à de rares coupes." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Suit_yourself__My_cleaver_know" value="Comme vous voudrez.Mon couperet ne connaît aucune conscience." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_No_worries__meatloaf__But_reme" value="Pas de soucis, pain de viande.Mais rappelez-vous, la justice ne sera pas aussi tendre que Rufus." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Pity__You_won_t_get_a_taste_of" value="Pitié!Vous n'aurez pas un avant-goût de mon Magnum Opus." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_Alright__saint__but_don_t_come" value="Très bien, Saint, mais ne pleure pas quand vous manquez la fête de la viande du siècle." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_goal_talk_npc" value="Livrer l'œil de la bête à Rufus" />
+</Node>

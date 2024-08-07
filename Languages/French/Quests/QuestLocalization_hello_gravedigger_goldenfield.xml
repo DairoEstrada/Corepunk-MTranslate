@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_gravedigger_goldenfield" type="external">
+  <Key key="_npc_Greetings__fellow_mortal_" value="Salutations, camarade mortel." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Ah__a_living_soul_" value="Ah, une âme vivante." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_G_day_" value="G'Day." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Cold_out__ain_t_it_" value="Froid, n'est-ce pas?" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_You_dead__or_alive_" value="Vous êtes mort ou vivant?" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Thanks_for_visiting_ol__Morty_" value="Merci d'avoir visité Ol 'Morty." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Nobody_gets_out_alive_" value="Personne ne sort vivant ..." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+</Node>

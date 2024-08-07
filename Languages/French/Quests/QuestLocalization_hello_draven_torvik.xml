@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_draven_torvik" type="external">
+  <Key key="_npc_Yo__need_anything_" value="Yo, besoin de quelque chose?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Hey_dude__how_s_it_going_" value="Hé mec, comment ça va?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Sup__need_some_help_" value="Sup, besoin d'aide?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_What_s_up__friend_" value="Quoi de neuf, ami?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Hey_there__where_you_from_" value="Hé là, d'où venez-vous?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_Need_a_hand_" value="Besoin d'un coup de main?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_What_brings_you_here__dude_" value="Qu'est-ce qui vous amène ici, mec?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+  <Key key="_npc_All_good__Anything_you_need_" value="Tout bon? Tout ce dont tu as besoin?" voiceSettingsId="WAW0VfaHH71iFHemzyW6" />
+</Node>

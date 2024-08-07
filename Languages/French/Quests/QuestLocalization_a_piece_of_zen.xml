@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_piece_of_zen" type="external">
+  <Key key="_npc_By_god__we_re_not_gonna_let_hi" value="Par Dieu, nous ne laisserons pas l'histoire nous condamner à la faim!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Did_you_manage_to_get_the_pie_" value="Avez-vous réussi à obtenir la tarte?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Wonderful__You_ve_brought_it__" value="Wonderful! You ve brought it! Is this McDonny's, or homemade?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_oh__it_s_so_fresh__I_can_taste" value="oh, it's so fresh! I can taste the bubbles - er, berries." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_May_your_journey_be_as_sweet_a" value="Que votre voyage soit aussi doux que cette tarte." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_goal_collect_item" value="Récupérez un morceau de tarte au Goldenroast Cafe." />
+  <Key key="_npc_Alright__but_do_remember__bala" value="Très bien, mais rappelez-vous, les chakras équilibrés vont mieux avec une alimentation équilibrée." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Bummer__Let_me_know_if_you_med" value="Déception!Faites-moi savoir si vous méditez dessus." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Oh__that_s_a_bummer__Guess_I_l" value="Oh, c'est une déception.Je suppose que je devrai trouver mon zen sans tarte aujourd'hui." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Could_you_fetch_one_for_me_fro" value="Pourriez-vous en chercher un pour moi depuis le café?Je serais éternellement reconnaissant!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Guru_David_used_the_last_pie_a" value="Guru David a utilisé la dernière tarte ici pour un .. euh ... différent type de gâterie." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Nothing_says__inner_peace__qui" value="Rien ne dit «paix intérieure» comme un morceau de mon dessert préféré." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_A_delicious_piece_of_blueberry" value="Un délicieux morceau de tarte aux myrtilles." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_You_know_what_would_complete_t" value="Vous savez ce qui complèterait ce chemin vers le zen spirituel?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Whew__That_was_an_intense_sess" value="Ouf!Ce fut une session intense avec Guru David.Je me sens à la fois énergisé et affamé!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_QuestActionAddToJournal_Tiffany_Goldenfield__Yoga_Hous" value="Tiffany&#10;Goldenfield, Yoga House.&#10;&#10;Aidez Tiffany Aurora à réaliser son bonheur post-yoga en lui apportant un morceau de tarte aux myrtilles." />
+  <Key key="_goalVoice_I_m_seriously_craving_that_blu" value="J'ai vraiment envie de cette tarte aux myrtilles!Une chance en trouver une?Rappelez-vous, je compte sur cette tarte pour terminer mon voyage vers Zen.Vous pouvez généralement trouver une tarte à la boulangerie locale, ou peut-être que quelqu'un ici connaît une excellente recette?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+</Node>

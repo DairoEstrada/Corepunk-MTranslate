@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_herb_your_enthusiasm" type="external">
+  <Key key="_npc_Hey__bredren__Got_what_I_need_" value="¡Oye, Bedren!¿Tienes lo que necesito?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_You_got_me__mon__Big_up_yourse" value="¡Me tienes, lunes!¡Grande mismo!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_goal_collect_clovers_items" value=" " />
+  <Key key="_goal_collect_mushroom_items" value=" " />
+  <Key key="_npc_You_back_already__mon__How_lon" value="Ya estás de vuelta, lon?¿Cuánto tiempo ha pasado?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_varDescription_c2kB" value="Recoger tréboles de seis hojas" />
+  <Key key="_varDescription_6A4x" value="Recoge un hongo neón" />
+  <Key key="_npc_Righteous__mon__You_got__em_" value="¡Justo, lun!¡Los tienes!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Respect__bredren_" value="Respeto, Bredren." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Bless_up__This_is_gonna_be_a_t" value="¡Bendecir!Este será un viaje para recordar, ¡gracias a ti!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Spend_that_gold_wisely__and_ke" value="Gasta ese oro sabiamente y mantén las vibraciones Irie, lunes." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Hey_man__Jah__I_ve_got_wind_of" value="¡Hola hombre, Jah!Tengo viento de algo fresco y malvado de neon Lady Luck de Nia.Es el último zumbido de Maxwell." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Thing_is__I_m_so_high__I_feel_" value="La cosa es que estoy tan alto, siento que estoy en una simulación o sumtin." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_I_need_you_to_grab_me_two_Six_" value="Necesito que me agarres de dos tréboles de seis hojas y un hongo neón." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Aw__too_busy_for_me__That_s_a_" value="Aw, ¿demasiado ocupado para mí?Eso es un fastidio, lunes." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Guess_I_ll_just_make_do_with_w" value="Supongo que solo me haré con lo que tengo por ahora.Mantente irie, lunes." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_QuestActionAddToJournal_Jahri_Roots_Goldenfield__west_" value="Raíces jahri&#10;Goldenfield, al oeste de la estación de combustible.&#10;&#10;Ayuda a Jahri Roots a reunir ingredientes para una nueva mezcla de hierbas." />
+  <Key key="_goalVoice_Yo_mate__how_s_the_hunt_for_th" value="Yo amigo, ¿cómo está la búsqueda de esos tréboles de seis hojas y el hongo neón?Revise todos los arbustos, lunes.Tengo que haber sumtin en dem." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_varDescription_Collect_Six_Leaf_Clovers" value="Recoger tréboles de seis hojas" />
+  <Key key="_varDescription_Collect_a_Neon_Mushroom" value="Recoge un hongo neón" />
+  <Key key="_npc_For_real__mon__help_a_brother_" value="De verdad, Mon, ayuda a un hermano.¡Jah bendiga!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Blessed_love__I_ll_be_right_he" value="Amor bendito, estaré aquí esperando la magia, hombre." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_juricksic_quest" type="external">
+  <Key key="_npc_Get_moving__space_cadet_" value="Faites bouger, cadet de l'espace." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Whoa_there__you_really_think_y" value="Whoa là-bas, tu penses vraiment que tu es trop bon pour ça, hein?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Alright__but_don_t_come_crying" value="Très bien, mais ne me pleure pas quand vous êtes soufflé en morceaux de quête-o-tron." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Fine__leave_it_to_the_genius_d" value="Très bien, laissez le génie ivre pour sauver le monde.Pas de biggie." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Really__Can_t_handle_a_bit_of_" value="Vraiment?Vous ne pouvez pas gérer un peu de métal?Pathétique." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_goalVoice_Hey__genius__you_plan_on_getti" value="Hé, génie, vous prévoyez d'obtenir ce métal météorique, ou un écureuil vous a-t-il distrait?Cela fait environ cinq minutes de trop longtemps que je ne vous ai pas dit de récupérer cette merde.Et que ça saute!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_goal_talk_npc" value="Retour à Pappy Rick" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_O6GV" value="Collectez le métal météorique" />
+  <Key key="_npc_I_need_3_Meteoric_Metal_to_fin" value="J'ai besoin de 3 métaux météoriques pour terminer mon schéma.Vous pensez pouvoir gérer cela, ou est-ce trop pour votre cerveau chétif?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Here_s_the_plan__and_it_s_geni" value="Voici le plan, et c'est un génie parce que, eh bien, ça est venu de moi.Robots non virgins?Beaucoup moins meurtrier.Nous faisons cette boîte à faire une amie." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Alright__rookie__we_ve_got_a_s" value="Très bien, recrue, nous avons une situation.Quest-O-Tron veut que je morte, et je ne suis pas désireux de devenir des croquettes de robot." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Just_don_t_slow_me_down_with_y" value="Ne me ralentissez pas avec votre incompétence, d'accord?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_QuestActionAddToJournal_Pappy_Rick__Windreach_Woods__F" value="Pappy Rick&#10;Windreach Woods, Fisher House.&#10;&#10;Aidez Pappy Rick à collecter 3 métaux météoriques pour créer une petite amie pour Quest-O-Tron et à prévenir un assassinat." />
+  <Key key="_npc_Guess_you_prefer_watching_me_g" value="Je suppose que vous préférez me regarder me faire assassinter par un robot.Trinquons à ça!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_varDescription_Collect_Meteoric_Metal" value="Collectez le métal météorique" />
+  <Key key="_npc_Now_get_outta_here_before_I_so" value="Maintenant, sortez ici avant de sobrer et de réaliser à quel point il vous faisait confiance." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Here_s_a_vial_of_my_portal_flu" value="Voici un flacon de mon fluide de portail pour ... quelle que soit la baise que vous faites." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_It_won_t_get_you_out_of_here__" value="Cela ne vous fera pas sortir d'ici, pas que je me fasse une merde." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Well__butter_my_biscuits__you_" value="Eh bien, beurre mes biscuits, tu l'as fait!Color moi surpris, cadet de l'espace." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Well__well__look_who_decided_t" value="Eh bien, regardez qui a décidé de se présenter!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+</Node>

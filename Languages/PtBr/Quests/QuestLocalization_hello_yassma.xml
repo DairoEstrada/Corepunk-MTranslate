@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_yassma" type="external">
-  <Key key="_npc_Ready_for_some____um__conversa" value="Pronto para alguns ... hum, conversa?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
-  <Key key="_npc_Hello__handsome____or_beautifu" value="Olá, bonito ... ou lindo ... quero dizer, oi." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
-  <Key key="_npc_Want_to_see_more____of_my_move" value="Quer ver mais ... dos meus movimentos?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
-  <Key key="_npc_Ready_to_be_dazzled____by_my__" value="Pronto para ficar deslumbrado ... pelo meu, uh, palavras?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
-  <Key key="_npc_Prepare_to_be_enchanted____by_" value="Prepare -se para ficar encantado ... pelo meu olá." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
-</Node>

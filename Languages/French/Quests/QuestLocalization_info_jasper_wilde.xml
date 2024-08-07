@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_jasper_wilde" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Name_s_Jasper__Jasper_Wilde__I" value="Nom's Jasper, Jasper Wilde.Je suis astronaute, ou du moins que j'étais avant de me retrouver ici." voice="Male" />
+  <Key key="_npc_Jasper_s_the_name__space_explo" value="Jasper est le nom, Space Exploration est le jeu.Eh bien, c'était ..." voice="Male" />
+  <Key key="_npc_Just_an_astronaut_who_took_a_w" value="Juste un astronaute qui a pris un mauvais tour à la Voie lactée, maintenant je suppose que je suis un pionnier planétaire!" voice="Male" />
+  <Key key="_npc_Well__I_ve_been_thrown_from_on" value="Eh bien, j'ai été jeté d'un univers à l'autre, alors je ne peux pas me plaindre, non?" voice="Male" />
+  <Key key="_npc_Taking_it_one_alien_plant_at_a" value="En prenant une usine extraterrestre à la fois, en restant positif!" voice="Male" />
+  <Key key="_npc_Can_t_say_it_s_been_a_bed_of_r" value="Je ne peux pas dire que ça a été un lit de roses, plus comme un lit d'épines extraterrestres!" voice="Male" />
+</Node>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_zibb_the_zest_throttlebreech" type="external">
+  <Key key="_npc_Ahoy__seeker_" value="Ahoy, buscador." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Welcome__wanderer_" value="Bem -vindo, Wanderer." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Greetings__traveler_" value="Saudações, viajante." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Enter_the_revelry_" value="Digite a folia." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Embrace_the_moment_" value="Abrace o momento." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Hello__spirit_" value="Olá, espírito." voiceSettingsId="_Zest_Throttlebreech" />
+  <Key key="_npc_Join_the_dance_" value="Junte -se à dança." voiceSettingsId="_Zest_Throttlebreech" />
+</Node>

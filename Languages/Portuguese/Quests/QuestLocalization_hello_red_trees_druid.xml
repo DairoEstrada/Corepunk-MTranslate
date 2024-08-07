@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_red_trees_druid" type="external">
+  <Key key="_npc_Damn_it__another_one_" value="Droga, outro!" voiceSettingsId="yFiyE8qnRrJomvcydoE9" />
+  <Key key="_npc_Stupid_tree__Oh__hi_" value="Stupid tree! Oh, hi." voiceSettingsId="yFiyE8qnRrJomvcydoE9" />
+  <Key key="_npc_What_the_fuck_now__" value="Que porra agora?!" voiceSettingsId="yFiyE8qnRrJomvcydoE9" />
+  <Key key="_npc_Get_outta_here__you_shity_shru" value="Saia daqui, seu arbusto de Shity!" voiceSettingsId="yFiyE8qnRrJomvcydoE9" />
+  <Key key="_npc_You_want_something__leaf_brain" value="You want something, leaf-brain?" voiceSettingsId="yFiyE8qnRrJomvcydoE9" />
+  <Key key="_npc_Fucking_foliage__Oh__it_s_you_" value="Porra da folhagem Oh, é você." voiceSettingsId="yFiyE8qnRrJomvcydoE9" />
+  <Key key="_npc_Hey__tree_hugger_" value="Ei, Hugger de árvore!" voiceSettingsId="yFiyE8qnRrJomvcydoE9" />
+  <Key key="_npc_You_here_to_watch_the_shitshow" value="Você aqui para assistir o show de merda?" voiceSettingsId="yFiyE8qnRrJomvcydoE9" />
+</Node>

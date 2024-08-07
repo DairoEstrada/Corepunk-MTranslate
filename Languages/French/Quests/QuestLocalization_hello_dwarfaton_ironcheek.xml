@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_dwarfaton_ironcheek" type="external">
+  <Key key="_npc_Greetings__human_" value="Salutations, humain." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Salutations_" value="Salutations." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Identify_yourself__traveler_" value="Identifiez-vous, voyageur." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Affirmative__greetings_" value="Affirmatif, salutations." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Greetings__organic_" value="Salutations, bio." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Welcome__flesh_being_" value="Bienvenue, chair." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Hello__living_" value="Bonjour, vivant." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+</Node>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dorik_oakenshield" type="external">
+  <Key key="_npc_Try_ta__keep_it_down___the_spe" value="Essayez de «garder le bas - les spectres pourraient nous entendre!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_The_name_s_Dorik_Oakenshield__" value="Dorik Oakenshield du nom,." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Been_diggin__in_this_old_quarr" value="Diggin 'dans cette vieille carrière pendant ce qui ressemble à des siècles." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Seen_enough_down_here_to_know_" value="Vu assez ici pour savoir que les chuchotements de la carrière ne sont pas seulement des échos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Find_anything_odd_around_here_" value="Vous trouverez quelque chose d'étrange ici?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_If_you_do__leave_me_the_hell_o" value="Si vous le faites, laissez-moi l'enfer." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_A_bit_nervous__to_be_honest__F" value="Un peu nerveux, pour être honnête.On dirait que la carrière est vivante ce soir." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Every_creak_could_be_a_ghoul_s" value="Chaque crier pourrait être une goutte qui se faufile sur nous." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_There_s_something_weird_happen" value="Il se passe quelque chose de bizarre ici - je sais qu'il y en a!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Alex_s_worried_too__even_if_he" value="Alex s'inquiète aussi, même s'il ne le montre pas." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Some_say_this_quarry_s_cursed_" value="Certains disent que cette carrière est maudite - et par là, je veux dire moi." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_There_s_more_buried_here_than_" value="Il y a plus enterré ici que de simples minerais précieux." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_The_walls_are_full_of_stories_" value="Les murs sont pleins d'histoires et de secrets." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_We_re_standing_on_ancient__mys" value="Nous nous tenons sur des terrains anciens et mystérieux.Marcher soigneusement." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Don_t_let_the_shadows_fool_ya_" value="Ne laissez pas les ombres vous tromper." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Actually__yes__There_s_somethi" value="En fait, oui.Il y a quelque chose de étrange, et je pourrais utiliser la preuve." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_I_ve_got_just_the_thing_for_ya" value="J'ai juste la chose pour toi '." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Sure___maybe_it_ll_keep_my_min" value="Bien sûr - peut-être que ça va garder mon esprit des choses!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Aye___something_strange_is_hap" value="Oui - quelque chose d'étrange se passe »." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_I_m_good_laddie__but_thanks_" value="Je suis bon Laddie, mais merci." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_No_need___the_quarry_is_quiet_" value="Pas besoin - la carrière est calme aujourd'hui." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Why_don_cha_go_ask_Alex_" value="Pourquoi Don'cha va demander à Alex?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Can_t_have_a_newbie_go_digging" value="Je ne peux pas avoir un débutant à creuser." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+</Node>

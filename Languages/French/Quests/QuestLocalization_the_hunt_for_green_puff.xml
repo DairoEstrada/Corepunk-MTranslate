@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_hunt_for_green_puff" type="external">
+  <Key key="_goal_collect_jugs" value=" " />
+  <Key key="_goal_talk_npc" value="Retour à Mary Jane" />
+  <Key key="_goalVoice_Okay__uh__just_a_reminder____t" value="D'accord, euh, juste un rappel ... ces cruches et pages sont cachées dans le fort.Et euh, essayez de ne pas vous faire prendre.Mon père est en cours de course en ce moment, mais s'il revient, il va nous exécuter tous les deux.Je ne peux pas insister suffisamment à quel point il est important de rester sous le radar.J'aime ma tête loin de mon cul." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Wait__really__I_thought_you_wa" value="Attendez, vraiment?Je pensais que tu voulais la cachette." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Uh____are_you_sure__Thought_th" value="Euh ... tu es sûr?Pensait que ce genre de choses semblait jolie ... importante." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goal_collect_pages" value="Trouver le livre de Mary Jane" />
+  <Key key="_npc_If_you_could_find_those_jugs_a" value="Si vous pouviez trouver ces cruches et les pages du livre pour elle, ils sont euh ... le vôtre.J-juste ne le dites à personne.Je pourrais avoir beaucoup de problèmes!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_know_my_dad_wouldn_t_approve" value="Je sais que mon père n'approuverait pas cela, mais je vous en dois vraiment un pour faire face à ce païen." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_And__well__some_pages_from_her" value="Et, bien, certaines pages de son livre très important ont été déchirées et sont empilées ailleurs." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_My_dad_separates_confiscated_i" value="Mon père sépare les objets confisqués dans ces cruches brunes avec des cordes quelque part à l'intérieur du fort." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Hey__um__so_that_stash___" value="Hé, euh, donc cette cachette ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_QuestActionAddToJournal_Themis_Windreach_Woods__Fort__" value="Themis&#10;Windreach Woods, Fort.&#10;&#10;Aider Mary Jane Greenpuff en récupérant sa réserve cachée et ses pages de livres du fort à Windreach Woods." />
+  <Key key="_npc_Oh__well__that_s_surprising__I" value="Oh, eh bien, c'est surprenant.Je veux dire que je pourrais toujours dire à mon père ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_varDescription_Collect_brown_jugs" value="Recueillir les cruches brunes" />
+  <Key key="_npc_Whoa__you_actually_found_every" value="Whoa, vous avez tout trouvé.C'est incroyable, mec.Vous voulez une bouffée?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_J_just_uh__be_discreet_and_kee" value="J-juste euh, soyez discret et gardez-le entre nous." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Far_out__You_didn_t_smoke_all_" value="Loin!Vous n'avez pas fumé toute ma cachette, n'est-ce pas?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

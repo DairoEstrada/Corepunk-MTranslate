@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_orange_rescue_costume" type="external">
+  <Key key="_npc_No_suit__huh_" value="Pas de costume, hein?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Checked_your_insurance_" value="Vérifié votre assurance?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Auditioning_for_Darwin_Awards_" value="Auditionner pour Darwin Awards?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Lost_your_suit_" value="Vous avez perdu votre costume?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Brave_or_broke_" value="Brave ou cassé?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Forgot_your_gear_" value="Vous avez oublié votre équipement?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Real_daredevil__huh_" value="Real Daredevil, hein?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_This_suit_isn_t_a_fashion_stat" value="Ce costume n'est pas une déclaration de mode." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+</Node>

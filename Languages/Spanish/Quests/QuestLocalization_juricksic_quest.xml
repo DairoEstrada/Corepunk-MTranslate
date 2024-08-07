@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_juricksic_quest" type="external">
+  <Key key="_npc_Get_moving__space_cadet_" value="Ponte en movimiento, Space Cadet." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Whoa_there__you_really_think_y" value="Whoa ahí, realmente crees que eres demasiado bueno para esto, ¿eh?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Alright__but_don_t_come_crying" value="Muy bien, pero no vengas a llorar conmigo cuando estás volado por Quest-o-tron." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Fine__leave_it_to_the_genius_d" value="Bien, déjelo en el genio borracho para salvar al mundo nuevamente.No Biggie." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Really__Can_t_handle_a_bit_of_" value="¿En realidad?¿No puedes manejar un poco de metal?Patético." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_goalVoice_Hey__genius__you_plan_on_getti" value="Oye, genio, ¿planeas obtener ese metal meteórico, o te distrajo una ardilla?Han pasado unos cinco minutos demasiado tiempo desde que te dije que trajeras esa mierda.¡Chop-chop!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_goal_talk_npc" value="Regresar a Pappy Rick" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_O6GV" value="Recolectar metal meteórico" />
+  <Key key="_npc_I_need_3_Meteoric_Metal_to_fin" value="Necesito 3 metal meteórico para terminar mi esquema.¿Crees que puedes manejar eso, o es demasiado para tu pequeño cerebro?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Here_s_the_plan__and_it_s_geni" value="Aquí está el plan, y es genial porque, bueno, vino de mí.¿Robots no virgen?Mucho menos asesino.Estamos haciendo esta lata una amiga." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Alright__rookie__we_ve_got_a_s" value="Muy bien, novato, tenemos una situación.Quest-o-tron me quiere muerto, y no estoy interesado en convertirme en robot croquetas." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Just_don_t_slow_me_down_with_y" value="Simplemente no me ralentice con su incompetencia, ¿de acuerdo?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_QuestActionAddToJournal_Pappy_Rick__Windreach_Woods__F" value="Pappy Rick&#10;Windreach Woods, Fisher House.&#10;&#10;Ayude a Pappy Rick a recolectar 3 metales meteóricos para crear una novia para Quest-O-Tron y evitar un asesinato." />
+  <Key key="_npc_Guess_you_prefer_watching_me_g" value="Supongo que prefieres verme ser asesinado por un robot.¡Salud a eso!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_varDescription_Collect_Meteoric_Metal" value="Recolectar metal meteórico" />
+  <Key key="_npc_Now_get_outta_here_before_I_so" value="Ahora salga de aquí antes de que me sobrense y me dé cuenta de qué error fue confiar en usted." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Here_s_a_vial_of_my_portal_flu" value="Aquí hay un vial de mi líquido portal para ... sea lo que sea que estés haciendo." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_It_won_t_get_you_out_of_here__" value="No te sacará de aquí, no es que me importa una mierda." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Well__butter_my_biscuits__you_" value="Bueno, mantequilla mis galletas, ¡realmente lo hiciste!Colorame sorprendido, cadete espacial." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Well__well__look_who_decided_t" value="Bueno, bueno, ¡mira quién decidió aparecer!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+</Node>

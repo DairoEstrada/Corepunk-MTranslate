@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_silas_whitlock" type="external">
+  <Key key="_npc_Oh__um__I_m_Silas_Whitlock__th" value="Oh, euh, je suis Silas Whitlock, le maire, euh, assistant, bien sûr." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Nothing_out_of_the_ordinary_he" value="Rien de l'ordinaire ici, juste, vous savez, à faire des tâches de routine." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Yes__yes__I_m_supposed_to_be_h" value="Oui, oui, je suis censé être ici, tout est parfaitement normal." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_This_is_all__you_know__part_of" value="C'est tout, vous savez, une partie de mon travail, enterrant cela, euh, coffre.Totalement routine." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Oh__I_m__um__doing_great__real" value="Oh, je suis vraiment très bien!Juste un peu nerveux, tu sais?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_The_city_s_inaugural_treasure_" value="La chasse au trésor inaugurale de la ville est un gros problème!Tant d'excitation dans l'air!" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Everyone_s_buzzing_about_the_t" value="Tout le monde bourdonne sur les trésors qu'ils trouveront.Des trucs totalement délicieux vous attendent!" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Of_course__not_this_chest__Def" value="Bien sûr, pas ce coffre.Certainement rien d'intéressant ici, non." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_But_overall__it_s_a_thrilling_" value="Mais dans l'ensemble, c'est un moment passionnant pour RiverRise.J'ai hâte de voir comment tout se déroule!" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Oh__this__This_is_Riverrise__a" value="Oh, ça?C'est RiverRise, une ville absolument spectaculaire sur Whisperwind Isle!" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_It_s_bustling_with_activity__T" value="C'est animé d'activité!Les quartiers de fabrication à eux seuls sont un spectacle à voir." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_The_heart_of_commerce__right_h" value="Le cœur du commerce, ici!Vous devriez certainement consulter la place du marché." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Goldenfield_nearby_supplies_th" value="Goldenfield à proximité fournit la nourriture la plus fraîche.Le produit là-bas?Simplement le meilleur!" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_But_you_know_what__The_real_ge" value="Mais tu sais quoi?Les vrais joyaux se trouvent dans la partie orientale de la ville, près des quais.Tant de choses à voir là-bas!" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_And_don_t_forget_the_tavern__I" value="Et n'oubliez pas la taverne!C'est l'endroit le plus vivant avec des histoires et des aventures qui attendent de commencer." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Seriously__you_should_absolute" value="Sérieusement, vous devriez absolument vous promener, il y a toujours quelque chose d'excitant partout mais ici!" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Oh__no_need__you_wouldn_t_want" value="Oh, pas besoin, vous ne voudriez pas gâcher la surprise." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_I_ve_got_this_covered__wouldn_" value="J'ai cela couvert;Je ne voudrais pas que vous ayez un avantage injuste." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Thanks__but_keeping_this_a_sec" value="Merci, mais garder cela un secret rend la chasse plus excitante." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Appreciate_the_offer__but_bett" value="Appréciez l'offre, mais mieux vaut ne donner à personne une longueur d'avance." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Actually__yes__How_about_you_s" value="En fait, oui!Que diriez-vous de commencer par creuser ailleurs?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Thanks_for_asking__There_s_a_g" value="Merci d'avoir posé la question!Il y a un bon endroit pour commencer juste au-dessus de cette colline." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Perfect_timing__Why_don_t_you_" value="Timing parfait!Pourquoi ne vous dirigez-vous pas au bord de la forêt et commencez-vous à chercher des indices?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Sure_thing__I_could_use_someon" value="Chose sûre!Je pourrais utiliser quelqu'un pour marquer la zone pour nos participants à la chasse au trésor." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+</Node>

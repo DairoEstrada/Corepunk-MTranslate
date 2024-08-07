@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_monster_enthusiast" type="external">
+  <Key key="_npc_Well__hello_there_" value="Salut tout le monde!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Ahoy__fellow_traveler_" value="Ahoy, autre voyageur!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Heya__buddy_" value="Heya, mon pote!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Find_anything____weird_out_the" value="Vous trouverez quelque chose ... bizarre là-bas?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_You_look____dissectable_" value="Vous regardez ... disséquable." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Hello_there__specimen_" value="Bonjour, spécimen." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_What_s_inside_of_you_" value="Qu'y a-t-il à l'intérieur de vous?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Whatcha_hunting_" value="Quelle chasse à la chasse?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+</Node>

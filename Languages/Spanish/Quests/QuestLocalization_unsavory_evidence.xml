@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_unsavory_evidence" type="external">
+  <Key key="_npc_Shit__you_re_gonna_leave_me_ha" value="Mierda, ¿me vas a dejar colgado?¡Ambos estamos jodidos si Triton me implica!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Don_t_back_out_now__damn_it__T" value="¡No vuelvas a salir ahora, maldita sea!Esto podría salvarme el culo." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_What_the_FUCK__We_need_to_move" value="¿Qué diablos?Necesitamos movernos rápido antes de que Triton me indique el dedo." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Are_you_fucking_kidding_me__Th" value="¿Estás bromeando?¡Esto es serio!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_goalVoice_Don_t_fuck_this_up__Head_to_th" value="¡No se jodas esto!Dirígete a la casa abandonada en la colina para la sartén y esa deliciosa ... me refiero a la receta retorcida para el estofado de bebés.¡Encontrarás la casa justo al noroeste de Windstone Village!Después, recuerde que Quaridor Vex es su parada final.Está patrullando cerca del lugar de la Guardia en West Windstone Village." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_goal_collect_suspicious" value=" " />
+  <Key key="_goal_collect_recipe" value=" " />
+  <Key key="_goal_talk_npc" value="Trae a Quaridor Vex" />
+  <Key key="_npc_He_ll_have_your_last_task_to_g" value="Él tendrá su última tarea para reunir más evidencia." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_You_ll_need_to_find_a_pan_and_" value="Necesitará encontrar una sartén y, de todas las cosas, una receta para el estofado de bebés.Sé que suena loco, pero solo consigue esos artículos y llévelos a Quaridor." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_DON_T_ASK_ME_HOW_I_KNOW_THAT_" value="¡No me preguntes cómo sé eso!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_I_need_you_to_head_to_the_aban" value="Necesito que te dirijas a la casa abandonada en la colina, justo al noreste del pueblo.Triton lo ha estado usando para sus ... sesiones de cocina desordenadas." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_I_m_worried_he_s_going_to_impl" value="Me preocupa que me implique si no actuamos rápido.Boss dice que reunir esta evidencia me da inmunidad." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Alright__we_ve_got_a_fucked_up" value="Muy bien, tenemos un trabajo jodido que hacer.Triton ha estado a una mierda real, y necesitamos reunir evidencia en su contra." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_QuestActionAddToJournal_Gusto_Grubhunter_Windstone_Vil" value="Grubhunter&#10;Windstone Village, lugar de guardia: South West.&#10;&#10;Ayude a Gusto Grubhunter a reunir evidencia contra Triton recuperando una sartén, una receta para el estofado de bebés y llevarlo a Quaridor Vex." />
+  <Key key="_npc_Seriously__Fucking_seriously__" value="¿En serio?Jodidamente en serio?Esto es hacer o morir para mí, ¿lo entiendes?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_varDescription_Collect_Suspicious_Pan" value="Recoge una sartén sospechosa" />
+  <Key key="_varDescription_Collect__Baby_Stew_Recipe_" value="Recoge &quot;receta de estofado de bebé&quot;" />
+  <Key key="_npc_Or_would_you_guess_I_have_one_" value="¿O supongo que tengo una última evidencia para encontrar?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_You_d_think_that_d_be_the_end_" value="Pensarías que ese sería el final, ¿verdad?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Isn_t_this_exactly_what_we_nee" value="¿No es esto exactamente lo que necesitábamos?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Is_this_the_evidence_the_boss_" value="¿Es esta la evidencia que el jefe estaba pidiendo?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Boss_says_gathering_this_evide" value="Boss dice que reunir esta evidencia me da inmunidad.Y eso es realmente importante en este momento." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+</Node>

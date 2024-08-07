@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_zarnok" type="external">
+  <Key key="_npc_Time_for_our__quest__" value="Il est temps pour notre &quot;quête&quot;!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Ah__another_player_" value="Ah, un autre joueur!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Ready_for_the__show__" value="Prêt pour le &quot;spectacle&quot;?" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_On_cue__I_see_" value="Au moment, je vois." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Ah__another_NPC_" value="Ah, un autre PNJ!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Another_quest__perhaps_" value="Another quest, perhaps?" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Wow__what_kind_of_zany_charact" value="Wow, quel genre de personnage loufoque êtes-vous?" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+</Node>

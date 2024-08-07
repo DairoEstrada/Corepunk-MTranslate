@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_durzo_dicey_dunwaddle" type="external">
+  <Key key="_npc_Roll_the_dice_" value="Lancer les dés?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Wanna_wager_" value="Tu veux parier?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Got_a_minute_" value="Vous avez une minute?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Jackpot_time_" value="Temps de jackpot!" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_I_bet_you_d_stop_by_" value="Je parie que tu ne s'arrêterais pas!" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Hey__hey__gambler_" value="Hé, hé, joueur!" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Ready_to_play_" value="Prêt à jouer?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Feeling_daring_" value="Vous vous sentez audacieux?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+</Node>

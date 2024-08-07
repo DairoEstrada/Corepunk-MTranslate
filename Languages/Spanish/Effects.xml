@@ -1,0 +1,4093 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Effects" description="">
+  <Node name="O8FCeSDXcW3">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="O8FCeyRJLES">
+    <Key key="Name" value="Grito de Guerra" />
+    <Key key="Description" value="{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}." />
+  </Node>
+  <Node name="O8FCeNwQM6e">
+    <Key key="Name" value="Rugido Atronador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.ArmK+}}.&#xA;{{Modifiers.1.nm}} se disminuye en {{Data.0.RsK+}}." />
+  </Node>
+  <Node name="O8FCeT2rxU0">
+    <Key key="Name" value="Especificación de Campeón 1 - R" />
+    <Key key="Description" value="El próximo ataque básico del Destructor inflige daño en área." />
+  </Node>
+  <Node name="O8FCf3x3RJW">
+    <Key key="Name" value="Estoicismo del Ronin" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;" />
+  </Node>
+  <Node name="O8FCf3d2Zc3">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGefwfa2W">
+    <Key key="Name" value="Ceguera" />
+    <Key key="Description" value="Cegado." />
+  </Node>
+  <Node name="7iJGeQg4PRO">
+    <Key key="Name" value="Encanto" />
+    <Key key="Description" value="Encantado." />
+  </Node>
+  <Node name="7iJGearTR9F">
+    <Key key="Name" value="Desarmar" />
+    <Key key="Description" value="Desarmado." />
+  </Node>
+  <Node name="7iJGeBQSy6i">
+    <Key key="Name" value="Miedo" />
+    <Key key="Description" value="Asustado." />
+  </Node>
+  <Node name="7iJGf1GZdB4">
+    <Key key="Name" value="Inmovilización" />
+    <Key key="Description" value="Inmovilizado." />
+  </Node>
+  <Node name="7iJGeGVf7HV">
+    <Key key="Name" value="Silencio" />
+    <Key key="Description" value="Silenciado." />
+  </Node>
+  <Node name="7iJGeVmGisc">
+    <Key key="Name" value="Dormir" />
+    <Key key="Description" value="Dormido." />
+  </Node>
+  <Node name="7iJGer68KK0">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGeLasGF9">
+    <Key key="Name" value="Provocación" />
+    <Key key="Description" value="Provocado." />
+  </Node>
+  <Node name="O8FCedVqUI0">
+    <Key key="Name" value="Frenesí de Batalla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeTDuUjn">
+    <Key key="Name" value="Frenesí de Batalla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeYJE7S9">
+    <Key key="Name" value="Frenesí de Batalla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeJnSXBN">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Los autoataques ahora infligen daño en área." />
+  </Node>
+  <Node name="O8FCeWxjMc7">
+    <Key key="Name" value="Cambio de Postura" />
+    <Key key="Description" value="El próximo autoataque empuja a los enemigos 2 metros." />
+  </Node>
+  <Node name="O8FCeRt8Hmg">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeTW6cuf">
+    <Key key="Name" value="Inmovilización" />
+    <Key key="Description" value="Inmovilizado." />
+  </Node>
+  <Node name="O8FCeTxQDCV">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeU4QwJ9">
+    <Key key="Name" value="Flechas de Arpón" />
+    <Key key="Description" value="Flechas clavadas." />
+  </Node>
+  <Node name="O8FCfEPAkha">
+    <Key key="Name" value="Lluvia de Flechas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCfJUNT4L">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7iJGekPi7Ss">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Inmovilizado." />
+  </Node>
+  <Node name="7iJGefX5h2H">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Prueba." />
+  </Node>
+  <Node name="7iJGeaQAr31">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Prueba." />
+  </Node>
+  <Node name="7iJGekaj23D">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Prueba." />
+  </Node>
+  <Node name="O8FCedHEXq5">
+    <Key key="Name" value="Especificación de Paladín 1 - Q" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.0.val}}.&#xD;" />
+  </Node>
+  <Node name="7iJGeJ24Oei">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="X daño cada 1 segundo." />
+  </Node>
+  <Node name="O8FCf2yqKHQ">
+    <Key key="Name" value="Veneno de Escarabajo" />
+    <Key key="Description" value="X daño cada 1 segundo." />
+  </Node>
+  <Node name="O8FCf84CzSp">
+    <Key key="Name" value="Veneno de Escarabajo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeXSzBf0">
+    <Key key="Name" value="Corte Penetrante" />
+    <Key key="Description" value="{{Data.0.AC1}} daño cada 1 segundo." />
+  </Node>
+  <Node name="O8FCeSNkbDW">
+    <Key key="Name" value="Corte Penetrante" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeXT5nrn">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="O8FCeXTMEQH">
+    <Key key="Name" value="Furia del Alce" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;" />
+  </Node>
+  <Node name="O8FCecYZ4Wc">
+    <Key key="Name" value="Concha" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;" />
+  </Node>
+  <Node name="O8FCecYhtJR">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="O8FCeSTwvwF">
+    <Key key="Name" value="Enfurecimiento de la Flor" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}.&#xD;" />
+  </Node>
+  <Node name="O8FCeXZAwtn">
+    <Key key="Name" value="Marchitar" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeSUWNiK">
+    <Key key="Name" value="Veneno de Hongo" />
+    <Key key="Description" value="2 daño cada 1 segundo." />
+  </Node>
+  <Node name="O8FCeXZjiKJ">
+    <Key key="Name" value="Maldición de Hongo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeXTDtbt">
+    <Key key="Name" value="Decadencia" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeXZsjAT">
+    <Key key="Name" value="Inmovilización" />
+    <Key key="Description" value="Inmovilizado." />
+  </Node>
+  <Node name="O8FCeSUfTZd">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="O8FCeSUrrDM">
+    <Key key="Name" value="Pantalla de Humo" />
+    <Key key="Description" value="Cegado.&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}.&#xD;" />
+  </Node>
+  <Node name="O8FCecfMPgy">
+    <Key key="Name" value="Tambor" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeXa5yGq">
+    <Key key="Name" value="Tambor" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}.&#xD;" />
+  </Node>
+  <Node name="O8FCeIKQKUn">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCecjH9vW">
+    <Key key="Name" value="Invencibilidad" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}.&#xD;" />
+  </Node>
+  <Node name="O8FCeSYdcIS">
+    <Key key="Name" value="Infección" />
+    <Key key="Description" value="{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}.&#xD;&#xA;{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xD;" />
+  </Node>
+  <Node name="O8FCeXdu2A3">
+    <Key key="Name" value="Infección" />
+    <Key key="Description" value="X daño cada 1 segundo." />
+  </Node>
+  <Node name="aYvt0M">
+    <Key key="Name" value="Fusión" />
+    <Key key="Description" value="Cura {{Data.0.ADF}} cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqkQudB1">
+    <Key key="Name" value="Veneno de Escarabajo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeRqAFN9">
+    <Key key="Name" value="Especificación de Campeón 1 - E1" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}." />
+  </Node>
+  <Node name="7h7vqaG3sxL" />
+  <Node name="aGniMG">
+    <Key key="Name" value="Postura del Cazador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="aLFiUD">
+    <Key key="Name" value="Postura del Cazador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="QAVt4E">
+    <Key key="Name" value="Cambio de Postura" />
+    <Key key="Description" value="El próximo autoataque desarma al objetivo por 2 segundos." />
+  </Node>
+  <Node name="aMBbQd" />
+  <Node name="O8FCeJfcz60">
+    <Key key="Name" value="Vulnerabilidad" />
+    <Key key="Description" value="Las habilidades del Legionario tienen un efecto adicional." />
+  </Node>
+  <Node name="O8FCeIiLE2s">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="O8FCeIigsia">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeNiuWJ4">
+    <Key key="Name" value="Provocación" />
+    <Key key="Description" value="Provocado." />
+  </Node>
+  <Node name="Zv0qP4">
+    <Key key="Name" value="Imparable" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}.&#xD;" />
+  </Node>
+  <Node name="aYKHwM">
+    <Key key="Name" value="Ceguera" />
+    <Key key="Description" value="Cegado." />
+  </Node>
+
+
+  <Node name="kijJ7R">
+    <Key key="Name" value="Bomba Cegadora" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.Ipd+}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Data.0.Imd+}}.&#xD;" />
+  </Node>
+  <Node name="7iJGeJ3Bzn1" />
+  <Node name="7iJGeO7DxHI">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Cegado.&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}." />
+  </Node>
+  <Node name="7iJGeDw3gse">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="O8FCeSOLzf3">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Sobrecalentado" />
+  </Node>
+  <Node name="O8FCeSOftxW" />
+  <Node name="O8FCei2GS4k">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.MsK-}}." />
+  </Node>
+  <Node name="O8FCeNeuuaV">
+    <Key key="Name" value="Especificación de Paladín 1 - T" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCeIZhRSi">
+    <Key key="Name" value="Especificación de Paladín 1 - T" />
+    <Key key="Description" value="Cura {{Data.0.ADF}} cada 1 segundo." />
+  </Node>
+  <Node name="O8FCeIZ7xgq">
+    <Key key="Name" value="Especificación de Paladín 1 - T" />
+    <Key key="Description" value="El próximo ataque básico del Paladín inflige {{Data.0.ADF}} daño mágico adicional y aplica un efecto de curación al Paladín." />
+  </Node>
+  <Node name="7iJGeO6K6X8">
+    <Key key="Name" value="Fusión" />
+    <Key key="Description" value="Cada ataque básico inflige {{Data.0.ADF}} daño mágico adicional al objetivo.&#xD;" />
+  </Node>
+  <Node name="1105giw">
+    <Key key="Name" value="Fusión" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.MsK+}}." />
+  </Node>
+  <Node name="ZftXeK">
+    <Key key="Name" value="Fusión" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.MsK-}}." />
+  </Node>
+  <Node name="PVQq2V">
+    <Key key="Name" value="Fusión" />
+    <Key key="Description" value="Absorbe {{Data.0.ADF}} daño.&#xA;El bombardero refleja el 10% del daño entrante." />
+  </Node>
+  <Node name="7iJGeJ1QABP">
+    <Key key="Name" value="Especificación de Bombardero 1 - T" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en 20%." />
+  </Node>
+  <Node name="7iJGedMOCg1">
+    <Key key="Name" value="Especificación de Bombardero 1 - T" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en 20%." />
+  </Node>
+  <Node name="7iJGeO6cRM5">
+    <Key key="Name" value="Especificación de Bombardero 1 - T" />
+    <Key key="Description" value="El ataque básico del bombardero inflige daño en área.&#xD;&#xA;Cada ataque básico inflige {{Data.0.ADF}} daño físico adicional al objetivo." />
+  </Node>
+  <Node name="7iJGedMihLU">
+    <Key key="Name" value="Especificación de Bombardero 1 - T" />
+    <Key key="Description" value="Buff 2" />
+  </Node>
+  <Node name="7iJGdtb7L3f">
+    <Key key="Name" value="Especificación de Bombardero 1 - T" />
+  </Node>
+  <Node name="7iJGeiRaSLz">
+    <Key key="Name" value="Especificación de Bombardero 1 - T" />
+  </Node>
+  <Node name="7iJGeYHU1PS">
+    <Key key="Name" value="Especificación de Bombardero 1 - T" />
+    <Key key="Description" value="Buff 1" />
+  </Node>
+  <Node name="7iJGeiRvs1Q">
+    <Key key="Name" value="Especificación de Bombardero 1 - T" />
+    <Key key="Description" value="Buff 3" />
+  </Node>
+  <Node name="fdWdVz">
+    <Key key="Name" value="Especificación de Bombardero 1 - W1" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7iJGeO6tMOQ">
+    <Key key="Name" value="Flechas de Arpón" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqr27Yz4" />
+  <Node name="7iJGeO7KfUb" />
+  <Node name="7iJGdtaHmDT" />
+  <Node name="7h7vqG2u7GJ">
+    <Key key="Name" value="Robot" />
+    <Key key="Description" value="Estás en un robot.&#xA;{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;" />
+  </Node>
+  <Node name="7h7vqL1ITW0" />
+  <Node name="7iJGdyftdiU">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGe3m7EPh">
+    <Key key="Name" value="Doble Problema" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCe3HCFI3">
+    <Key key="Name" value="Especificación de Paladín 1 - W" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="O8FCePePCVx">
+    <Key key="Name" value="Especificación de Paladín 1 - W" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} daño." />
+  </Node>
+  <Node name="O8FCeSbNVBJ">
+    <Key key="Name" value="Especificación de Paladín 1 - E" />
+    <Key key="Description" value="El objetivo está marcado.&#xD;&#xA;Al final de la acción, la marca explota, inflige daño verdadero y parte de todo el daño recibido mientras el objetivo estaba marcado.&#xD;" />
+  </Node>
+  <Node name="O8FCeU8gGt0" />
+  <Node name="O8FCe8dBJGx">
+    <Key key="Name" value="Especificación de Paladín 1 - T" />
+    <Key key="Description" value="El próximo ataque básico del Paladín inflige {{Data.0.ADF}} daño mágico adicional y aplica un efecto de curación al Paladín." />
+  </Node>
+  <Node name="O8FCeIpSxTJ">
+    <Key key="Name" value="Piel de Hierro" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+  </Node>
+  <Node name="O8FCe05y4jZ">
+    <Key key="Name" value="Universal: Escudo" />
+    <Key key="Description" value="Tienes un escudo." />
+  </Node>
+  <Node name="O8FCe01OSdk">
+    <Key key="Name" value="Universal: Enraizar" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="O8FCe568vwx">
+    <Key key="Name" value="Universal: Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.ACP1}}." />
+  </Node>
+
+
+
+<Node name="O8FCeABtepy">
+    <Key key="Name" value="Universal: Sprint" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqqWfIWS">
+    <Key key="Name" value="Mordedura Paralizante" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqQ71e1d">
+    <Key key="Name" value="Furia del Lobo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;" />
+  </Node>
+  <Node name="7iJGdtgJ6gW" />
+  <Node name="O8FCe4z3jd4">
+    <Key key="Name" value="D1W - Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGdtbWTsx">
+    <Key key="Name" value="D1W - Enraizar" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7iJGdtb1HeN">
+    <Key key="Name" value="D1W - Agujero Negro" />
+    <Key key="Description" value="Atrae hacia adentro." />
+  </Node>
+  <Node name="7iJGdtht0MB">
+    <Key key="Name" value="D1W - Quemadura" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="O8FCeNtsSnW">
+    <Key key="Name" value="D1T - Calor" />
+    <Key key="Description" value="Calor." />
+  </Node>
+  <Node name="7iJGdtpBjLH">
+    <Key key="Name" value="Especificación de Francotirador 1 - T" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7iJGe3mdidF">
+    <Key key="Name" value="Especificación de Francotirador 1 - Q" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7iJGe8rsJRQ">
+    <Key key="Name" value="Especificación de Francotirador 1 - T" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqvcXjsz">
+    <Key key="Name" value="Lodo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}} m." />
+  </Node>
+  <Node name="7h7vqQ7fT2i">
+    <Key key="Name" value="Sangrar" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqQ7tBWH">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGeDx50An">
+    <Key key="Name" value="Especificación de Francotirador 1 - R" />
+    <Key key="Description" value="Los disparos ganan un efecto adicional." />
+  </Node>
+  <Node name="7iJGdtps1HX">
+    <Key key="Name" value="Especificación de Ingeniero 2 - Q" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.Omd+}}." />
+  </Node>
+  <Node name="7iJGdtarQEu">
+    <Key key="Name" value="Especificación de Ingeniero 2 - Q" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.Omd+}}." />
+  </Node>
+  <Node name="7iJGdygfMkt">
+    <Key key="Name" value="Especificación de Ingeniero 2 - W" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.MsK-}}." />
+  </Node>
+  <Node name="7iJGdtbRWE7">
+    <Key key="Name" value="Especificación de Ingeniero 2 - W" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.MsK+}}." />
+  </Node>
+  <Node name="7iJGdz5TpgQ">
+    <Key key="Name" value="Especificación de Ingeniero 2 - W" />
+    <Key key="Description" value="Durabilidad de la torreta." />
+  </Node>
+  <Node name="7iJGdtvCYCW">
+    <Key key="Name" value="Especificación de Ingeniero 2 - W" />
+    <Key key="Description" value="Temp - Oculto" />
+  </Node>
+  <Node name="7iJGdu1YiYz">
+    <Key key="Name" value="Especificación de Ingeniero 1 - T" />
+    <Key key="Description" value="Aura - Temp" />
+  </Node>
+  <Node name="7iJGdtpERKp">
+    <Key key="Name" value="Especificación de Ingeniero 2 - E" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGe3zkiv2">
+    <Key key="Name" value="Especificación de Ingeniero 2 - E" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AsK+}}." />
+  </Node>
+  <Node name="7iJGdyuQi4f">
+    <Key key="Name" value="Especificación de Ingeniero 2 - E" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.MsK-}}." />
+  </Node>
+  <Node name="7iJGdyuuIyf">
+    <Key key="Name" value="Especificación de Ingeniero 2 - R" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} daño." />
+  </Node>
+  <Node name="7iJGdtpeeEM">
+    <Key key="Name" value="Especificación de Ingeniero 2 - R" />
+    <Key key="Description" value="Puntos de combo - x2." />
+  </Node>
+  <Node name="7iJGdtaZ5Tr">
+    <Key key="Name" value="Especificación de Ingeniero 2 - R" />
+    <Key key="Description" value="Temp" />
+  </Node>
+  <Node name="7iJGe3m5a4i">
+    <Key key="Name" value="Especificación de Ingeniero 2 - T" />
+    <Key key="Description" value="Puntos de combo." />
+  </Node>
+  <Node name="7iJGdz76vPv">
+    <Key key="Name" value="Especificación de Ingeniero 2 - T" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.Arm+}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Data.0.Rs+}}.&#xD;&#xA;" />
+  </Node>
+  <Node name="7h7vqaHyXzg">
+    <Key key="Name" value="Mala Suerte" />
+    <Key key="Description" value="No puedes invocar mascotas." />
+  </Node>
+  <Node name="7h7vqL2T0Af">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqVBegI9">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGdz6HnhQ">
+    <Key key="Name" value="Especificación de Francotirador 1 - T" />
+    <Key key="Description" value="Invisible." />
+  </Node>
+  <Node name="7iJGeTCTs3d" />
+  <Node name="7iJGdtbZm6q">
+    <Key key="Name" value="Nombre" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7h7vqqWZfu6">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7iJGe8yHzz6" />
+  <Node name="O8FCeScGYYA">
+    <Key key="Name" value="D1R - Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGdz5Hh3s" />
+  <Node name="7iJGeDxWOSJ">
+    <Key key="Name" value="Furia del Elfo" />
+    <Key key="Description" value="Inflige {{Data.0.AC1}} de autoataque, y un tic de {{Data.0.AC2}} daño" />
+  </Node>
+  <Node name="7iJGdygu5S3">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturde por 0.5 segundos." />
+  </Node>
+  <Node name="7iJGdtbMVYs">
+    <Key key="Name" value="Anciano" />
+    <Key key="Description" value="+10 fuerza" />
+  </Node>
+  <Node name="7iJGdygfiwb">
+    <Key key="Name" value="Tortuga Rápida" />
+    <Key key="Description" value="Ralentiza un 50%" />
+  </Node>
+  <Node name="7iJGe8sDA10">
+    <Key key="Name" value="Tóxico" />
+    <Key key="Description" value="Inflige 10 daño cada segundo" />
+  </Node>
+  <Node name="7iJGe3mz0wr">
+    <Key key="Name" value="Miedo de Fuerza" />
+    <Key key="Description" value="-10 bono de armadura&#xA;aturde 1.5 segundos" />
+  </Node>
+  <Node name="7iJGeJ31gsG">
+    <Key key="Name" value="Curación Continua" />
+    <Key key="Description" value="Cura cada segundo" />
+  </Node>
+  <Node name="7h7vqFwEIDs">
+    <Key key="Name" value="Bono de Armadura" />
+    <Key key="Description" value="Incrementa armadura en 10 y poder de hechizo en 50" />
+  </Node>
+  <Node name="7h7vqL1jjMv">
+    <Key key="Name" value="Mega Bono" />
+    <Key key="Description" value="Incrementa poder de ataque en 15, velocidad de ataque en 25 y salud del jugador en 200" />
+  </Node>
+  <Node name="7h7vqL2KaXh">
+    <Key key="Name" value="Bendición del Santuario" />
+    <Key key="Description" value="Incrementa salud y poder de ataque en 100, salud en 500 y regeneración de salud en 20 por segundo." />
+  </Node>
+  <Node name="7iJGdthwnWM" />
+  <Node name="7iJGdtaeWJO" />
+  <Node name="7iJGe8smMJL" />
+  <Node name="7iJGeDxzG3m">
+    <Key key="Name" value="Ración Seca" />
+    <Key key="Description" value="Cura cada segundo&#xD;" />
+  </Node>
+
+
+
+<Node name="7iJGdtbLSTI">
+    <Key key="Name" value="Universal: Escudo" />
+    <Key key="Description" value="Absorbe {{Data.0.ADF}} daño." />
+  </Node>
+  <Node name="7h7vqFvE5xc">
+    <Key key="Name" value="Penalización por Muerte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}&#xA;{{Modifiers.2.nm}} se disminuye en {{Modifiers.2.val}}" />
+  </Node>
+  <Node name="7h7vqL1PpPi">
+    <Key key="Name" value="Poder Acumulativo" />
+    <Key key="Description" value="Por cada objetivo golpeado por la habilidad, el siguiente ataque del Destructor aumenta en {{Data.0.ACP1}}." />
+  </Node>
+  <Node name="7h7vqFw94NL">
+    <Key key="Name" value="Cha_S1_Q_1" />
+    <Key key="Description" value="El próximo ataque básico del Destructor inflige un 20% de daño adicional." />
+  </Node>
+  <Node name="7h7vqQ6fZi4">
+    <Key key="Name" value="CHA_S1_W_1" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqFxIjOw">
+    <Key key="Name" value="CHA_S1_W_3" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7h7vqFwpv72">
+    <Key key="Name" value="Grito de Mando" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqFwSsci">
+    <Key key="Name" value="Muerte Súbita" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqFvwZLj">
+    <Key key="Name" value="Triturador de Armaduras" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqFvMKGF">
+    <Key key="Name" value="Cha_S1_E3" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqL2Ys02">
+    <Key key="Name" value="Desgarrar" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}." />
+  </Node>
+  <Node name="7h7vqQ7p1ZU">
+    <Key key="Name" value="Especificación de Chamán 3 - T" />
+    <Key key="Description" value="Las habilidades del chamán tienen un efecto adicional." />
+  </Node>
+  <Node name="7h7vqL2UQpV">
+    <Key key="Name" value="Maestría Elemental" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqFwE9hf">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7h7vqFxMAGS">
+    <Key key="Name" value="Desgarrar" />
+    <Key key="Description" value="Los próximos 4 ataques básicos del chamán reducen la armadura y resistencia del objetivo." />
+  </Node>
+  <Node name="7h7vqVBzgxR">
+    <Key key="Name" value="Trance Espiritual" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.ACP1}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Data.0.ACP2}}.&#xD;" />
+  </Node>
+  <Node name="7h7vqL2Igp1">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7h7vqFx1n1a">
+    <Key key="Name" value="Provocar" />
+    <Key key="Description" value="Provocado." />
+  </Node>
+  <Node name="7h7vqFwvVvy">
+    <Key key="Name" value="w1v3" />
+  </Node>
+  <Node name="7h7vqFxyJsm">
+    <Key key="Name" value="Agresión Saludable" />
+    <Key key="Description" value="El daño se incrementa en un 8%" />
+  </Node>
+  <Node name="7h7vqFwgK8B">
+    <Key key="Name" value="Fuerza Acumulada" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqFyEDfI">
+    <Key key="Name" value="w3v1" />
+  </Node>
+  <Node name="7h7vqFw2gPd">
+    <Key key="Name" value="Anti-Curación" />
+    <Key key="Description" value="La curación entrante se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqFwziIL">
+    <Key key="Name" value="w5v1_1" />
+  </Node>
+  <Node name="7h7vqFwOwPX" />
+  <Node name="7h7vqFwDS3i">
+    <Key key="Name" value="Llamada de lo Salvaje" />
+    <Key key="Description" value="El objetivo principal para el lobo.&#xD;" />
+  </Node>
+  <Node name="7h7vqFxBE1s">
+    <Key key="Name" value="w5v1" />
+    <Key key="Description" value="El daño de tu próxima habilidad no definitiva se incrementa en un 30%" />
+  </Node>
+  <Node name="7h7vqFvGuyS">
+    <Key key="Name" value="w4v2" />
+  </Node>
+  <Node name="7h7vqQ5iRGx">
+    <Key key="Name" value="Subidón de Adrenalina" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqkQmkCN">
+    <Key key="Name" value="Silencio" />
+    <Key key="Description" value="Silenciado." />
+  </Node>
+  <Node name="7h7vqFvJgqO">
+    <Key key="Name" value="Especificación de Bombardero 1 - Q" />
+    <Key key="Description" value="Invisible." />
+  </Node>
+  <Node name="7h7vqL2C362">
+    <Key key="Name" value="Granada Aturdidora" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7h7vqFvga4D">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.MsK-}}." />
+  </Node>
+  <Node name="7h7vqL0eLSs">
+    <Key key="Name" value="Especificación de Bombardero 1 - W" />
+    <Key key="Description" value="Se vuelve invisible después de:" />
+  </Node>
+  <Node name="7h7vqQ5rkDM" />
+  <Node name="7h7vqFwkiFy">
+    <Key key="Name" value="Enredar" />
+    <Key key="Description" value="Enredado." />
+  </Node>
+  <Node name="7h7vqFxSsUZ">
+    <Key key="Name" value="Hambre del Superviviente Solitario" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.ACP1}}" />
+  </Node>
+  <Node name="7h7vqFxWeHg">
+    <Key key="Name" value="Hambre del Superviviente Solitario" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.ACP1}}" />
+  </Node>
+  <Node name="7h7vqL2jK4w">
+    <Key key="Name" value="Hambre del Superviviente Solitario" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.ACP1}}" />
+  </Node>
+  <Node name="7h7vqFx7Srb">
+    <Key key="Name" value="ef_tal_as4v1" />
+  </Node>
+  <Node name="7h7vqFwEX3K">
+    <Key key="Name" value="Llamada de lo Salvaje" />
+    <Key key="Description" value="Los ataques del lobo tienen un efecto en el impacto." />
+  </Node>
+  <Node name="7h7vqFwvgQa">
+    <Key key="Name" value="ar5v1 marca" />
+    <Key key="Description" value="Marca del cazador" />
+  </Node>
+  <Node name="7h7vqFw9Ayj">
+    <Key key="Name" value="ar5v1 acumulación" />
+    <Key key="Description" value="Acumulaciones" />
+  </Node>
+  <Node name="7h7vqL1NAKQ">
+    <Key key="Name" value="ar5v1_1" />
+    <Key key="Description" value="La velocidad de movimiento aumenta en un 30%" />
+  </Node>
+  <Node name="7h7vqVBn9nF">
+    <Key key="Name" value="ar5v1_2" />
+    <Key key="Description" value="La velocidad de movimiento aumenta en un 50%" />
+  </Node>
+  <Node name="7h7vqaGzLhz">
+    <Key key="Name" value="ar5v1_3" />
+    <Key key="Description" value="La velocidad de movimiento aumenta en un 70%" />
+  </Node>
+  <Node name="7h7vqQ7a6x6">
+    <Key key="Name" value="t2v2 aura" />
+  </Node>
+  <Node name="7h7vqaI0pbt">
+    <Key key="Name" value="t2v3 aura" />
+  </Node>
+  <Node name="7h7vqfND2Sz">
+    <Key key="Name" value="Aura Amenazante" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+  </Node>
+  <Node name="7h7vqVCnjVK">
+    <Key key="Name" value="Presencia del Protector" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+  </Node>
+  <Node name="7h7vqFvg2ky">
+    <Key key="Name" value="Dolor Retardado" />
+    <Key key="Description" value="Inmune al daño." />
+  </Node>
+  <Node name="7h7vqFvi3jW">
+    <Key key="Name" value="Dolor Retardado" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} daño por segundo" />
+  </Node>
+  <Node name="7h7vqFwEHwC">
+    <Key key="Name" value="ar3v3" />
+  </Node>
+
+
+
+<Node name="7h7vqFxF1Ix">
+    <Key key="Name" value="Lento y Constante" />
+    <Key key="Description" value="Capaz de detectar guardianes." />
+  </Node>
+  <Node name="7h7vqFwpRbY">
+    <Key key="Name" value="ar3v2" />
+  </Node>
+  <Node name="7h7vqFwqEnb">
+    <Key key="Name" value="ar3v2_sincrítico" />
+  </Node>
+  <Node name="7h7vqQ6BUS8">
+    <Key key="Name" value="Veneno Débil" />
+    <Key key="Description" value="Cuando se acumula 5 veces, el héroe se envenena." />
+  </Node>
+  <Node name="7h7vqaHxdI9">
+    <Key key="Name" value="Resistencia al Veneno" />
+    <Key key="Description" value="Protección contra el veneno del sabbat." />
+  </Node>
+  <Node name="7h7vqfNAUZS">
+    <Key key="Name" value="Pantalla de Humo" />
+    <Key key="Description" value="Proporciona un 30% de protección contra el daño." />
+  </Node>
+  <Node name="7h7vqFxMXyv">
+    <Key key="Name" value="Furia de la Maleza" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}." />
+  </Node>
+  <Node name="7h7vqQ7s7qq">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqFvQ0j8" />
+  <Node name="7h7vqaHhpRP">
+    <Key key="Name" value="Guardián de Curación" />
+    <Key key="Description" value="Cura un 8% de Salud cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqQ7UUyR">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7h7vqVBQjBc">
+    <Key key="Name" value="Veneno Fuerte" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqL250Bv">
+    <Key key="Name" value="Furia de Sangre" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;" />
+  </Node>
+  <Node name="7h7vqVB5xIR">
+    <Key key="Name" value="Lento" />
+  </Node>
+  <Node name="7iJGdtcHc0Z">
+    <Key key="Name" value="Maestría" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7iJGeiXpX0D">
+    <Key key="Name" value="Escudo Arriba" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;" />
+  </Node>
+  <Node name="7h7vqFxK2iw">
+    <Key key="Name" value="Maestría Acumulada" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} daño." />
+  </Node>
+  <Node name="7h7vqFwLReZ">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7h7vqFzkWzL">
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}.&#xD;" />
+    <Key key="Name" value="Lanzamiento Perfeccionado" />
+  </Node>
+  <Node name="7h7vqL4yVa8">
+    <Key key="Name" value="Lanzamiento Perfeccionado" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;" />
+  </Node>
+  <Node name="7h7vqFwTPqa">
+    <Key key="Name" value="COMBO" />
+  </Node>
+  <Node name="7h7vqFvpegQ">
+    <Key key="Name" value="as1v2" />
+    <Key key="Description" value="La penetración de armadura y resistencia de la próxima habilidad aumentada." />
+  </Node>
+  <Node name="7h7vqFvMqxu">
+    <Key key="Name" value="as1v2 Enfriamiento" />
+    <Key key="Description" value="El talento as1v2 está en enfriamiento." />
+  </Node>
+  <Node name="7h7vqL1E0Dd">
+    <Key key="Name" value="Golpe de Sombra" />
+    <Key key="Description" value="{{Modifiers.0.nm}}/{{Modifiers.1.nm}} se incrementa en {{Data.0.ACP1}}." />
+  </Node>
+  <Node name="7h7vqFvM1Nb">
+    <Key key="Name" value="ar5v1 cd" />
+    <Key key="Description" value="ar5v1 en enfriamiento." />
+  </Node>
+  <Node name="7h7vqQ7CkOp">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7iJGdyhbBLV">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7iJGdygckXi">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vrAsJQBG" />
+  <Node name="7h7vsQA6sTr" />
+  <Node name="7h7vqfLpYeV" />
+  <Node name="7h7vqaHQJt0" />
+  <Node name="7h7vqL2iGSa">
+    <Key key="Name" value="Instinto Primitivo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}.&#xD;&#xA;" />
+  </Node>
+  <Node name="7h7vqaHciTv">
+    <Key key="Name" value="Entumecimiento" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo, y enraizado." />
+  </Node>
+  <Node name="7h7vqQ7pay3">
+    <Key key="Name" value="Marca del Cazador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}." />
+  </Node>
+  <Node name="7iJGdtbd3aa">
+    <Key key="Name" value="Armadura Primitiva" />
+    <Key key="Description" value="Refleja el 100% del daño mágico al atacante." />
+  </Node>
+  <Node name="7iJGe3mLX1R">
+    <Key key="Name" value="Inspiración" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqVCOaug" />
+  <Node name="7h7vqQ7CKkW" />
+  <Node name="7h7vqFwnNY1">
+    <Key key="Name" value="Impulso Heroico" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+  </Node>
+  <Node name="7h7vqFvMcZp">
+    <Key key="Name" value="Trance Espiritual" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.ACP1}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Data.0.ACP2}}.&#xD;" />
+  </Node>
+  <Node name="7h7vqFvDia8">
+    <Key key="Name" value="Desencadenado" />
+    <Key key="Description" value="{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}." />
+  </Node>
+  <Node name="7h7vqFxFmdI">
+    <Key key="Name" value="Orden de Ataque" />
+    <Key key="Description" value="Ordena al lobo atacar al objetivo." />
+  </Node>
+  <Node name="7iJGdtbFiOb">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7h7vqQIZSiv">
+    <Key key="Name" value="Santuario" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqLDMNc7">
+    <Key key="Name" value="Santuario" />
+    <Key key="Description" value="{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;&#xA;{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;" />
+  </Node>
+  <Node name="7h7vqkSFckr">
+    <Key key="Name" value="Regeneración Adicional" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa temporalmente en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqL1ET9V">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqL1FmT8">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7iJGdyfUzw8">
+    <Key key="Name" value="Curar" />
+    <Key key="Description" value="Trata animales." />
+  </Node>
+  <Node name="7iJGdtbsELr">
+    <Key key="Name" value="Animal Feliz" />
+    <Key key="Description" value="Están felices de estar vivos." />
+  </Node>
+  <Node name="7h7vqFvQZIT">
+    <Key key="Name" value="Doble Problema" />
+    <Key key="Description" value="Invisible." />
+  </Node>
+  <Node name="7h7vqFwwFFr" />
+  <Node name="7h7vqFvWKqu">
+    <Key key="Name" value="t2v1" />
+    <Key key="Description" value="Reflejar daño." />
+  </Node>
+  <Node name="7h7vqFxAPOC">
+    <Key key="Name" value="Templado por la Batalla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+  </Node>
+  <Node name="7h7vqL1LQfF">
+    <Key key="Name" value="t1v2" />
+    <Key key="Description" value="Evita el primer daño." />
+  </Node>
+  <Node name="7h7vqQ7gjip">
+    <Key key="Name" value="t4v2" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} daño." />
+  </Node>
+
+
+
+ <Node name="7h7vqFvgROW">
+    <Key key="Name" value="Almas Vengativas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqL2TD9w">
+    <Key key="Name" value="Resistencia Estoica" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqaIAMJE">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7h7vqL1dTaU">
+    <Key key="Name" value="T4V3" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+  </Node>
+  <Node name="7h7vqFwQca5">
+    <Key key="Name" value="Rebote" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+  </Node>
+  <Node name="7h7vqFxbEBU">
+    <Key key="Name" value="Última Resistencia" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqVCVJSn" />
+  <Node name="7h7vqFw1cZD" />
+  <Node name="7h7vqQ6UBuE" />
+  <Node name="7h7vqVBvKsO">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7h7vqQ7ECJG">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqVCRKq4">
+    <Key key="Name" value="Disparo Apuntado" />
+    <Key key="Description" value="Cada quinto ataque inflige daño adicional y ralentiza al objetivo." />
+  </Node>
+  <Node name="7iJGe8qq8fm">
+    <Key key="Description" value="Debilita al animal." />
+  </Node>
+  <Node name="7h7vqqX3KS1" />
+  <Node name="7h7vr5nhcwM" />
+  <Node name="7h7vqFvV606">
+    <Key key="Name" value="Veneno Mortal" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqL0kYJk">
+    <Key key="Name" value="Disminución de Curación" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqFvYav2">
+    <Key key="Name" value="Bomba Cegadora" />
+    <Key key="Description" value="Absorbe {{Data.0.AC3}} daño." />
+  </Node>
+  <Node name="7iJGdtayEKr">
+    <Key key="Description" value="10 daño cada 5 segundos." />
+  </Node>
+  <Node name="7h7vqvbiuAe">
+    <Key key="Name" value="Golpe Demoledor" />
+    <Key key="Description" value="Ejecuta los próximos {{CurrentStack}} ataques básicos a velocidad máxima de ataque." />
+  </Node>
+  <Node name="7h7vr0h1j29">
+    <Key key="Name" value="Desfibrilador Neo" />
+    <Key key="Description" value="La próxima curación o escudo se incrementa en {{Data.0.ACP1}}." />
+  </Node>
+  <Node name="7h7vr5nEAYV">
+    <Key key="Name" value="Catalizador Extremo" />
+    <Key key="Description" value="El daño de la próxima habilidad se incrementa en {{Data.0.ACP2}}." />
+  </Node>
+  <Node name="7h7vqQ6EtV0">
+    <Key key="Name" value="Maldición" />
+    <Key key="Description" value="Efecto de pavo." />
+  </Node>
+  <Node name="7h7vqFvVzgw">
+    <Key key="Name" value="Maldición" />
+    <Key key="Description" value="Efecto de pavo." />
+  </Node>
+  <Node name="7h7vqFvPqQ2">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7h7vqQ61tnC">
+    <Key key="Name" value="Golpe Disruptivo" />
+    <Key key="Description" value="No se pueden usar habilidades de dash." />
+  </Node>
+  <Node name="7h7vqL20PmL">
+    <Key key="Name" value="Emoción de la Caza" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqL1HRsi">
+    <Key key="Name" value="Reducción de Armadura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqQ6UIFH">
+    <Key key="Name" value="Reducción de Resistencia Mágica" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqfMJUB4">
+    <Key key="Name" value="Esprintar" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqqWkMUH">
+    <Key key="Name" value="Disminución de Curación" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vr5nWp1k">
+    <Key key="Name" value="Bendición de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vrL3APUq">
+    <Key key="Name" value="Disminución de Velocidad de Ataque" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vraJe4ps">
+    <Key key="Name" value="Al Impacto" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} en el próximo ataque." />
+  </Node>
+  <Node name="7h7vrfOx7bH">
+    <Key key="Name" value="Escudo" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} daño." />
+  </Node>
+  <Node name="7h7vrveaRHJ">
+    <Key key="Name" value="Aumento de Daño" />
+    <Key key="Description" value="{{Modifiers.1.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vsAvI5fd">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqQ5wu57">
+    <Key key="Name" value="Disminuir Daño" />
+    <Key key="Description" value="Disminuye el daño de la anomalía." />
+  </Node>
+  <Node name="7h7vqL0ifd6">
+    <Key key="Name" value="Nube Tóxica" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} daño por segundo." />
+  </Node>
+  <Node name="7h7vqFvGiB0">
+    <Key key="Name" value="Bestia Gregaria" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqQ5gAyj">
+    <Key key="Name" value="Mordisco Calculado" />
+    <Key key="Description" value="El daño del próximo Mordisco Calculado se incrementa en {{Data.0.ACP1}}" />
+  </Node>
+  <Node name="7h7vqfLN4Rq">
+    <Key key="Name" value="Furia de los Jóvenes" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}" />
+  </Node>
+  <Node name="7h7vqqVs5NY">
+    <Key key="Name" value="Aplastar Armadura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqvb5RBp">
+    <Key key="Name" value="Mordisco Calculado" />
+    <Key key="Description" value="Modifica los efectos de otras habilidades de los Depredadores del Bosque." />
+  </Node>
+  <Node name="7h7vr5mZEmG">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vrFxB7DR">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vrL2Ofey">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="7h7vrVCyXGY">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vrfNRyrI">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqQ7khyL">
+    <Key key="Name" value="Instinto de Cazador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+  </Node>
+  <Node name="7h7vqVCzGub">
+    <Key key="Name" value="Instinto de Cazador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+  </Node>
+  <Node name="7h7vqaIBXum">
+    <Key key="Name" value="Instinto de Cazador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}" />
+  </Node>
+  <Node name="7h7vqkSccsk">
+    <Key key="Name" value="Evisceración" />
+    <Key key="Description" value="Al acumularse cinco veces, recibe evisceración." />
+  </Node>
+  <Node name="7h7vr0iGpzD">
+    <Key key="Name" value="Corteza de Hierro" />
+    <Key key="Description" value="Inflige 10 de daño al atacante.&#xA;{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vrAtnEwQ">
+    <Key key="Name" value="Bendición de Primavera" />
+    <Key key="Description" value="Regenera 0.5% de la salud máxima por segundo" />
+  </Node>
+  <Node name="7h7vqVAsdnu">
+    <Key key="Name" value="Floración" />
+    <Key key="Description" value="Cura {{Data.0.ADF}} cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqFveGqi">
+    <Key key="Name" value="Marchitamiento" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqQ67D5E">
+    <Key key="Name" value="Espíritu del Bosque" />
+    <Key key="Description" value="Cuando se acumula diez veces, se usa una curación." />
+  </Node>
+  <Node name="7h7vqFvWFy0">
+    <Key key="Name" value="BOM_S1_T_1" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqFvsD6R">
+    <Key key="Name" value="Escudo" />
+    <Key key="Description" value="Absorbe {{Data.0.ADF}} daño." />
+  </Node>
+  <Node name="7h7vqL14x6r">
+    <Key key="Name" value="Guardián de la Velocidad" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqVBYxT0" />
+  <Node name="7h7vqaGpMEh">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqFwJK1n">
+    <Key key="Name" value="Explosión Destrozadora" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}." />
+  </Node>
+  <Node name="7h7vqFwqFkV">
+    <Key key="Name" value="BOM_S1_E_5" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vqFvNm77">
+    <Key key="Name" value="Calidez de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.FEI}}." />
+  </Node>
+  <Node name="7h7vqFwRVWY">
+    <Key key="Name" value="Arma Envenenada" />
+    <Key key="Description" value="Cada ataque básico envenena al objetivo con {{Data.0.ADF}}." />
+  </Node>
+  <Node name="7h7vqL1eJZO">
+    <Key key="Name" value="Arma Envenenada" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqQ6sNG7">
+    <Key key="Name" value="Tortuga" />
+    <Key key="Description" value="Cada ataque básico otorga una {{Data.0.ACP1}} oportunidad de ralentizar a los enemigos en un 20% durante 4 segundos." />
+  </Node>
+  <Node name="7h7vqVC4x8g">
+    <Key key="Name" value="Tortuga" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.MsK-}}." />
+  </Node>
+  <Node name="7h7vqaHHUpH">
+    <Key key="Name" value="Golpe de Relámpago" />
+    <Key key="Description" value="Cuando el héroe recibe daño, el enemigo recibe un golpe de relámpago, que rebota en los objetivos 2 veces." />
+  </Node>
+  <Node name="7h7vqfMdCjt">
+    <Key key="Name" value="Armadura Adaptativa" />
+    <Key key="Description" value="Cada daño físico recibido aumenta la armadura del héroe.&#xA;" />
+  </Node>
+  <Node name="7h7vqqXAcim">
+    <Key key="Name" value="Escudo Explosivo" />
+    <Key key="Description" value="Absorbe {{Data.0.Sh}} daño. Si el escudo es destruido, ocurre una explosión y los enemigos son dañados por {{Data.0.ADF}}." />
+  </Node>
+  <Node name="7h7vqvcObfU">
+    <Key key="Name" value="Ojo de Halcón" />
+    <Key key="Description" value="Otorga un {{Data.0.V+}} rango de visión." />
+  </Node>
+  <Node name="7h7vr0hbZNi">
+    <Key key="Name" value="Furia" />
+    <Key key="Description" value="El daño del héroe se incrementa en {{Data.0.ACP1}}." />
+  </Node>
+  <Node name="7h7vraJ69qM">
+    <Key key="Name" value="Trampa de Fuego" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vrkTVsJ6">
+    <Key key="Name" value="Trampa Mortal" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7h7vr5nr2NK">
+    <Key key="Name" value="Vulnerabilidad de Shishiga" />
+    <Key key="Description" value="El próximo ataque básico del héroe inflige {{Data.0.ADF}} daño mágico adicional a Shishiga." />
+  </Node>
+  <Node name="7iJGein0Cad">
+    <Key key="Name" value="Vulnerabilidad de Floceras" />
+    <Key key="Description" value="El próximo ataque básico del héroe inflige {{Data.0.ADF}} daño mágico adicional a Flocera." />
+  </Node>
+  <Node name="7iJGeisCLVT">
+    <Key key="Name" value="Vulnerabilidad de Gnoose" />
+    <Key key="Description" value="El próximo ataque básico del héroe inflige {{Data.0.ADF}} daño mágico adicional a Gnoose." />
+  </Node>
+  <Node name="7iJGdtgQg05">
+    <Key key="Name" value="Poder de Ataque" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa temporalmente en {{Data.0.Ap+}}." />
+  </Node>
+  <Node name="7iJGdymg5rv">
+    <Key key="Name" value="Poder de Hechizo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa temporalmente en {{Data.0.Sp+}}." />
+  </Node>
+  <Node name="7iJGe3ruAwA">
+    <Key key="Name" value="Poder de Hechizo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa temporalmente en {{Data.0.Sp+}}." />
+  </Node>
+  <Node name="7iJGe8x7dQD">
+    <Key key="Name" value="Poder de Ataque" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa temporalmente en {{Data.0.Ap+}}." />
+  </Node>
+  <Node name="7h7vqkQXiOI">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1.5 segundos." />
+  </Node>
+  <Node name="7h7vqFvmG9a">
+    <Key key="Name" value="Infección" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} daño después de 5 segundos." />
+  </Node>
+  <Node name="7h7vqFwTQrZ">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Enraizado" />
+  </Node>
+  <Node name="7h7vrfNrdKb">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Enraizado." />
+  </Node>
+  <Node name="7h7vqFvH7YN">
+    <Key key="Name" value="Nube de Esporas" />
+    <Key key="Description" value="7 daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqQ5trqf">
+    <Key key="Name" value="Charco de Ácido" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqVBBzmN">
+    <Key key="Name" value="Ignición" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+  </Node>
+  <Node name="7h7vqFx1DqI">
+    <Key key="Name" value="Drenaje de Vida" />
+    <Key key="Description" value="Transfiere {{Data.0.ADF}} HP cada segundo a la bruja Shishiga." />
+  </Node>
+  <Node name="7h7vqL2EVZr">
+    <Key key="Name" value="Poder de Brujería" />
+    <Key key="Description" value="El poder de Drenaje de Vida se incrementa en {{Data.0.ACP1}}.&#xA;{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqL0cBk2">
+    <Key key="Name" value="Absorbiendo el Poder de Brujería" />
+    <Key key="Description" value="En 5 segundos, la bruja Shishiga toma este objetivo y obtiene Poder de Brujería." />
+  </Node>
+  <Node name="7h7vqaGRcVn">
+    <Key key="Name" value="Escudo de Brujería" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} daño.&#xA;Resiste al control de masas." />
+  </Node>
+  <Node name="7h7vqVBzfVq">
+    <Key key="Name" value="Vigor Resistente" />
+    <Key key="Description" value="Inmune a los efectos de control de masas.&#xA;El 50% de la armadura y resistencia mágica del Legionario se convierte en poder de ataque adicional.&#xA;{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}." />
+  </Node>
+  <Node name="7h7vqaHU9k8">
+    <Key key="Name" value="Explosión de Napalm" />
+    <Key key="Description" value="10 daño cada 1 segundo&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}&#xA;{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;&#xA;" />
+  </Node>
+  <Node name="7h7vqfMuPmZ">
+    <Key key="Name" value="¡Ayuda!" />
+    <Key key="Description" value="¡Ayuda! ¡Ayuda! ¡Ayuda!" />
+  </Node>
+  <Node name="7h7vqFy4wv2">
+    <Key key="Name" value="¡Dinamita!" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+  </Node>
+  <Node name="7h7vqL3JcRD">
+    <Key key="Name" value="¡Ayuda!" />
+    <Key key="Description" value="¡Ayuda! ¡Ayuda! ¡Ayuda!" />
+  </Node>
+  <Node name="7h7vqL0QQ1m">
+    <Key key="Name" value="Vínculo de Alma" />
+    <Key key="Description" value="Almas vinculadas" />
+  </Node>
+  <Node name="7h7vqFvCGrT">
+    <Key key="Name" value="Vínculo de Alma" />
+    <Key key="Description" value="Almas vinculadas." />
+  </Node>
+  <Node name="7h7vqFvym3D">
+    <Key key="Name" value="Primero" />
+  </Node>
+  <Node name="7h7vqL1BIBX">
+    <Key key="Name" value="Segundo" />
+  </Node>
+  <Node name="7h7vqFvGMtG">
+    <Key key="Name" value="Ayudando" />
+    <Key key="Description" value="Grita por ayuda." />
+  </Node>
+  <Node name="7h7vqQ8WASq" />
+<Node name="7h7vqFvPtxR" />
+<Node name="7h7vqL1MHn2" />
+<Node name="7h7vqFw3Ohn" />
+<Node name="7h7vqVCHRFA" />
+<Node name="7h7vqFx2m5n" />
+<Node name="7h7vqkS6ps5" />
+<Node name="7h7vqFw5E7N">
+    <Key key="Name" value="Infección" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+</Node>
+<Node name="7h7vqL0t5ua">
+    <Key key="Name" value="Daño Continuo" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} cada 1 segundo." />
+</Node>
+<Node name="7h7vqL14pTQ">
+    <Key key="Name" value="Invisibilidad" />
+    <Key key="Description" value="Invisible." />
+</Node>
+<Node name="7h7vqL0cCy3">
+    <Key key="Name" value="Incremento de Probabilidad Crítica" />
+    <Key key="Description" value="La probabilidad crítica del próximo ataque básico aumenta en un 20%&#xA;" />
+</Node>
+<Node name="7h7vqQ6JA2v">
+    <Key key="Name" value="Ardiente" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} por 1 seg." />
+</Node>
+<Node name="7h7vqL16ikE">
+    <Key key="Name" value="Aura Ardiente" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} daño por segundo en un rango de 5 m." />
+</Node>
+<Node name="7h7vqL1I74d">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} daño cada 1 segundo." />
+</Node>
+<Node name="7h7vqL1T6rf">
+    <Key key="Name" value="Marca de Muerte" />
+    <Key key="Description" value="El próximo ataque básico inflige {{Data.0.ADF}} daño adicional." />
+</Node>
+<Node name="7h7vqVDBmmh">
+    <Key key="Name" value="Terremoto" />
+    <Key key="Description" value="Aturde." />
+</Node>
+<Node name="8vM1arxID9f">
+    <Key key="Name" value="Frenesí de Batalla" />
+    <Key key="Description" value="Frenesí de Batalla está activo." />
+</Node>
+<Node name="8vM1asXhgQz">
+    <Key key="Name" value="¡Dinamita!" />
+    <Key key="Description" value="¡Eso es lo que Shishiga quiere explotar!" />
+</Node>
+<Node name="FiAPrX">
+    <Key key="Name" value="Sangrado Crítico" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+</Node>
+<Node name="Uyq6dm">
+    <Key key="Name" value="Aura de Daño" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="5YM3PK">
+    <Key key="Name" value="Instinto Depredador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="AdifDV">
+    <Key key="Name" value="Instinto Depredador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="Fj0wKN">
+    <Key key="Name" value="Instinto Depredador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}" />
+</Node>
+<Node name="5ajXTB">
+    <Key key="Name" value="Piel Adaptativa" />
+    <Key key="Description" value="Cura {{Data.0.ADF}} cada 1 segundo." />
+</Node>
+<Node name="AkORFG">
+    <Key key="Name" value="Regeneración de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="eu83Jy">
+    <Key key="Name" value="Debuff de Rugido" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}&#xA;" />
+</Node>
+<Node name="UidIga">
+    <Key key="Name" value="Depredador Primitivo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}" />
+</Node>
+<Node name="5J0K4c">
+    <Key key="Name" value="Marca del Cazador" />
+    <Key key="Description" value="Cuando se acumula 5 veces, los raptores usan Dash." />
+</Node>
+<Node name="Zhen9d">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+</Node>
+<Node name="ensjUZ">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} daño por 1 segundo.&#xA;Enraizado." />
+</Node>
+<Node name="10ER4Pa">
+    <Key key="Name" value="Invocar Veneno" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} daño cada 1 segundo.&#xA;Si el efecto del veneno permanece durante todo el período de acción, se invoca un pequeño mob al azar." />
+</Node>
+<Node name="1FUGbAM">
+    <Key key="Name" value="Ataque Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}" />
+</Node>
+<Node name="1ZqPGjF">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+</Node>
+<Node name="1evcd9u">
+    <Key key="Name" value="Aplastamiento de Armadura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+</Node>
+<Node name="1k0qRx4">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="25MG2gi">
+    <Key key="Name" value="Abejas" />
+    <Key key="Description" value="El daño de las abejas se incrementa en {{Data.0.ACP1}}." />
+</Node>
+<Node name="2FWiamC">
+    <Key key="Name" value="Frenesí" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="2exqAcD">
+    <Key key="Name" value="Frenesí Mortal" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="2k33fO5">
+    <Key key="Name" value="Alas de la Muerte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="2q8Ggcz">
+    <Key key="Name" value="Facilidad de Muerte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="PjTWVQ">
+    <Key key="Name" value="Invulnerable a Carga" />
+    <Key key="Description" value="La próxima carga del Venado de Madera será crítica." />
+</Node>
+<Node name="8vM1ax7XsKu">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="5pSj22">
+    <Key key="Name" value="Nombre del Efecto de Prueba" />
+    <Key key="Description" value="Descripción del Efecto de Prueba" />
+</Node>
+<Node name="GCAjV5">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="621F9P">
+    <Key key="Name" value="Disparo de Biosteroides" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="B7EYMc">
+    <Key key="Name" value="Disparo Doble de Biosteroides" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="GCQpPO">
+    <Key key="Name" value="Disparo Triple de Biosteroides" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="LHdISB">
+    <Key key="Name" value="Píldoras Mágicas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="QMqgXT">
+    <Key key="Name" value="Cápsulas Mágicas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="VS3BbG">
+    <Key key="Name" value="Bomba Mágica" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="aXGiGe">
+    <Key key="Name" value="Píldoras Doble de Droga Psiónica" />
+</Node>
+<Node name="fcTEEF">
+    <Key key="Name" value="Ungüento Restaurador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="khg6GQ">
+    <Key key="Name" value="Ungüento Analgésico Restaurador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="qntkXv">
+    <Key key="Name" value="Ungüento Restaurador Todo-curación" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="vt6P1T">
+    <Key key="Name" value="Tubo de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="10yJ3bi">
+    <Key key="Name" value="Tubo de Maná de Caballero" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="163VPhr">
+    <Key key="Name" value="Pipa de Paz Mental" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="1B8hvu1">
+    <Key key="Name" value="Ungüento de Titanio" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="1GDvIDz">
+    <Key key="Name" value="Ungüento de Titanio Fortificado" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="1LJ7vCL">
+    <Key key="Name" value="Ungüento de Titanio Ultra" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="1QOMM0D">
+    <Key key="Name" value="Alivio de Quemaduras" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="62LN1m">
+    <Key key="Name" value="Protector Solar Invisible" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="B7YFgM">
+    <Key key="Name" value="Crema Extra Protectora" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="GCkZVv">
+    <Key key="Name" value="Inyección de Adrenalina" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="LHxwnX">
+    <Key key="Name" value="Dosis Doble de Adrenalina" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="QNAHdL">
+    <Key key="Name" value="Sobredosis de Adrenalina" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="VSMezI">
+    <Key key="Name" value="Pequeño Cigarro" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="aXZ0YR">
+    <Key key="Name" value="Cigarro Fuerte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="fcma3Q">
+    <Key key="Name" value="Cigarro Gigante" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="khzQtq">
+    <Key key="Name" value="Píldoras Divertidas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="qiBv8w">
+    <Key key="Name" value="Píldoras Alegres" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="vtOIH5">
+    <Key key="Name" value="Píldoras Absurdas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="10ybEp6">
+    <Key key="Name" value="Analgésicos Falsos" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="163ivMx">
+    <Key key="Name" value="Lote de Analgésicos" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="1B91T4p">
+    <Key key="Name" value="Analgésicos Ultra" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="1GEDqe9">
+    <Key key="Name" value="Frasco de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="1LJQLSn">
+    <Key key="Name" value="Ampolla de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="1QOck3Y">
+    <Key key="Name" value="Jarra de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3DpQgv">
+    <Key key="Name" value="CHA S1 W 5" />
+    <Key key="Description" value="CHA S1 W 5" />
+</Node>
+<Node name="DOQvRC">
+    <Key key="Name" value="Movilidad Desatada" />
+    <Key key="Description" value="La resistencia a lentitud se incrementa en un 50%." />
+</Node>
+<Node name="3SuXyU">
+    <Key key="Name" value="BOM S1 Q 5" />
+    <Key key="Description" value="Puede usar la habilidad dos veces." />
+</Node>
+<Node name="AE9ZIL">
+    <Key key="Name" value="BOM S1 Q 5" />
+    <Key key="Description" value="Inflige {{Data.0.ADF2}} daño 2 segundos después de la última explosión." />
+</Node>
+<Node name="FJzZvN">
+    <Key key="Name" value="Grito de Ayuda" />
+    <Key key="Description" value="Llama a los vecinos para que lo ayuden." />
+</Node>
+<Node name="PUniH5">
+    <Key key="Name" value="Ayudando" />
+    <Key key="Description" value="Intenta ayudar." />
+</Node>
+<Node name="57Q97S">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Enraizado." />
+</Node>
+<Node name="5JYsbJ">
+    <Key key="Description" value="CICLO {{Data.0.ADF}}" />
+</Node>
+<Node name="5Jvkmk">
+    <Key key="Name" value="Fusión" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;&#xA;Refleja el 20% del daño." />
+</Node>
+<Node name="FUNgRQ">
+    <Key key="Name" value="B1R" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en un 10%.&#xD;&#xA;{{Modifiers.1.nm}} se disminuye en un 10%.&#xD;" />
+</Node>
+<Node name="PesJAy">
+    <Key key="Name" value="B1R R2" />
+</Node>
+<Node name="5EM51p">
+    <Key key="Name" value="Enraizar" />
+    <Key key="Description" value="Enraizado." />
+</Node>
+<Node name="PfHZ1W">
+    <Key key="Name" value="Experto en Lanzamiento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.1.val}}&#xA;" />
+</Node>
+<Node name="AFfFuz">
+    <Key key="Name" value="Red de Amarre" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}" />
+</Node>
+<Node name="5BGMO2">
+    <Key key="Name" value="Restricción Corrosiva" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se disminuye en {{Modifiers.1.val}}" />
+</Node>
+<Node name="FPP7gw">
+    <Key key="Name" value="Flecha Ígnea" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} cada 1 segundo." />
+</Node>
+<Node name="5FYC7d">
+    <Key key="Name" value="CHA S2 W2" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} cada 1 segundo." />
+</Node>
+<Node name="jwdibq">
+    <Key key="Name" value="Disminución de Curación" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+</Node>
+<Node name="q1rQmX">
+    <Key key="Name" value="Correr" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="FVJs2k">
+    <Key key="Name" value="CHA S2 T 1" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} cada 1 segundo." />
+</Node>
+<Node name="Um2hV3">
+    <Key key="Name" value="Desarmar" />
+    <Key key="Description" value="Desarmado." />
+</Node>
+<Node name="5F1M8n">
+    <Key key="Name" value="Eco de Escudo" />
+    <Key key="Description" value="El Bombardero puede activar un escudo." />
+</Node>
+<Node name="LWJ5Ze">
+    <Key key="Name" value="Maestría de Golpe Múltiple" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7h7vqL3RZEx">
+    <Key key="Name" value="Furia Resiliente" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="anq3U0">
+    <Key key="Name" value="Espíritu de Lucha" />
+    <Key key="Description" value="El poder de ataque/hechizo se incrementa en {{Data.0.ACP2}}" />
+</Node>
+<Node name="CAAaiQ">
+    <Key key="Name" value="Precisión Acechante" />
+    <Key key="Description" value="La probabilidad de golpe crítico se incrementa en {{Data.0.ACP1}}." />
+</Node>
+<Node name="HFYqJC">
+    <Key key="Name" value="Gracia Luminosa" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="MKiz60">
+    <Key key="Name" value="Respiro Sereno" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="79Yirw">
+    <Key key="Name" value="h2v1" />
+</Node>
+<Node name="6BKpDHVcmx">
+    <Key key="Name" value="Runa: Espinas" />
+    <Key key="Description" value="Cuando recibes un ataque, inflige &lt;rh&gt;&lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [({{Data.0.AC1}})&lt;/rh&gt;&lt;r&gt;[&lt;gray&gt;({{Data.0.AC2}} - {{Data.0.AC3}})&lt;/gray&gt;&lt;/r&gt; + ({{Data.0.ACP1}})Armadura] DañoFísico al atacante." />
+</Node>
+<Node name="6BKpNRzTsz">
+    <Key key="Name" value="Golpear y Correr" />
+    <Key key="Description" value="Las habilidades que infligen daño causan un 10% adicional de (Poder de Hechizo) en daño mágico &#xA; (20 segundos de tiempo de reutilización)." />
+</Node>
+<Node name="6BKpSXczZf">
+    <Key key="Name" value="Trueno" />
+    <Key key="Description" value="Recibir o infligir daño hace que empieces a infligir &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})BonusHP_loc] DañoMágico por segundo a los enemigos cercanos durante 3 segundos." />
+</Node>
+<Node name="6BKinrDa68">
+    <Key key="Name" value="Trueno" />
+    <Key key="Description" value="Infligir {{Data.0.ADF}} de daño cada segundo a los enemigos cercanos." />
+</Node>
+<Node name="6BKihkt3n7">
+    <Key key="Name" value="Quémalos a Todos" />
+    <Key key="Description" value="Infligir daño hace que empieces a infligir un 0.5% (Salud) de daño mágico por segundo a los enemigos cercanos durante 4 segundos." />
+</Node>
+<Node name="6BKihkJsAm">
+    <Key key="Name" value="Runa: Mátalos a Todos" />
+    <Key key="Description" value="Infligir daño a un enemigo causa un 15% adicional de daño físico &#xA;(Poder de Ataque) (20 segundos)." />
+</Node>
+<Node name="6BKp36t8kx" />
+<Node name="6BKisw1XnD">
+    <Key key="Name" value="Runa: Buen Equilibrio" />
+    <Key key="Description" value="Después de usar una habilidad, tu siguiente ataque básico se mejora con un &#xA;50% adicional de daño de arma." />
+</Node>
+<Node name="6BKiy2VMac">
+    <Key key="Name" value="Atascado: Enfurecer" />
+    <Key key="Description" value="el daño aumenta en 1%" />
+</Node>
+<Node name="6BKp37pOzn">
+    <Key key="Name" value="Runa: Enfurecer" />
+    <Key key="Description" value="Cuando golpeas al objetivo, tu daño aumenta en un 1%. El efecto &#xA;se acumula hasta 10 veces." />
+</Node>
+<Node name="6BKisxDTEk">
+    <Key key="Name" value="Flujo de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="6BKihmb5tq">
+    <Key key="Name" value="Runa: Río" />
+    <Key key="Description" value="Al recibir daño, restaura ({{Data.0.AC4}}) MPMax por segundo durante {{Data.0.AC1}} segundos." />
+</Node>
+<Node name="6BKihk7NVS">
+    <Key key="Name" value="Runa: Velocidad" />
+    <Key key="Description" value="Velocidad de Movimiento 10%" />
+</Node>
+<Node name="7Gbn2Y">
+    <Key key="Name" value="h2v2" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="MX5LR6">
+    <Key key="Name" value="h3v3" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="RcJs5p">
+    <Key key="Name" value="Transferencia Mística" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="WhizMh">
+    <Key key="Name" value="Transferencia Mística" />
+    <Key key="Description" value="La curación se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="2YLPN9">
+    <Key key="Name" value="Barrera Desbordante" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} de daño." />
+</Node>
+<Node name="nJivyL">
+    <Key key="Name" value="Defensa con Escudo" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} de daño físico." />
+</Node>
+<Node name="7dbN4m">
+    <Key key="Name" value="Defensa con Escudo" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} de daño mágico." />
+</Node>
+<Node name="2dwc2r">
+    <Key key="Name" value="Auge Heroico" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7jBSxE">
+    <Key key="Name" value="ar2v3" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtbAIRG">
+    <Key key="Name" value="ar1v2" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="CpNyja">
+    <Key key="Name" value="Aumento de Velocidad" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="55TZKP">
+    <Key key="Name" value="ar4v2" />
+</Node>
+<Node name="57Jdgr">
+    <Key key="Name" value="Enjambre de Abejas" />
+    <Key key="Description" value="Inflige daño a la unidad cercana." />
+</Node>
+<Node name="7h7vqFvVWWx">
+    <Key key="Name" value="Acumulador de Críticos" />
+    <Key key="Description" value="{{Modifiers.0.nm}}/{{Modifiers.0.nm}} se incrementa en {{Data.0.ACP2}}." />
+</Node>
+<Node name="7iJGdts5Qua">
+    <Key key="Name" value="chip #1" />
+    <Key key="Description" value="Tu arma ahora tiene un efecto adicional cuando inflige daño." />
+</Node>
+<Node name="55qECw">
+    <Key key="Name" value="Rabia Comer" />
+</Node>
+<Node name="KLeWWq">
+    <Key key="Name" value="Frenesí" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="PQbFOS">
+    <Key key="Name" value="Disminuir Curación" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+</Node>
+<Node name="PQVtk0">
+    <Key key="Name" value="Lentitud" />
+    <Key key="Description" value="Lento." />
+</Node>
+<Node name="Zb8DUP">
+    <Key key="Name" value="Correr" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="55p78W">
+    <Key key="Name" value="Lentitud" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Data.0.ACP1}}." />
+</Node>
+<Node name="FGIbZP">
+    <Key key="Name" value="Piedra" />
+    <Key key="Description" value="Enraizado." />
+</Node>
+<Node name="ABHQ6Q">
+    <Key key="Name" value="Lentitud" />
+    <Key key="Description" value="Lento." />
+</Node>
+<Node name="FGU6Yu">
+    <Key key="Name" value="Aplastamiento de Armadura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}" />
+</Node>
+<Node name="KLgX0N">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="FHMevY">
+    <Key key="Name" value="Lentitud" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+</Node>
+<Node name="FIGaQS">
+    <Key key="Name" value="Drenaje de Vida" />
+    <Key key="Description" value="Drena {{Data.0.ADF}} por 1 segundo.&#xA;{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+</Node>
+<Node name="AAT0Ee" />
+<Node name="PQFa9v">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="{{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="55mWiq">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="{{Data.0.ADF}} cada 1 segundo." />
+</Node>
+<Node name="259Xd90">
+    <Key key="Name" value="Prisa" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="2AEiNXP">
+    <Key key="Name" value="Escudo" />
+    <Key key="Description" value="Absorbe {{ShieldValue}} de daño." />
+</Node>
+<Node name="2v11wQB">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="35BQYDI">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="306EP1p">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="3Zgn5VG">
+    <Key key="Name" value="Lentitud T1" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}" />
+</Node>
+<Node name="FGcQxB">
+    <Key key="Name" value="Lentitud T2" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}.&#xA;" />
+</Node>
+<Node name="KLq6Yv">
+    <Key key="Name" value="Lentitud T3" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}.&#xA;El daño entrante se incrementa en {{Modifiers.1.val}}.&#xA;{{Modifiers.3.nm}} se disminuye en {{Modifiers.3.val}}" />
+</Node>
+<Node name="egPt2Y">
+    <Key key="Name" value="lamprea" />
+    <Key key="Description" value="El próximo ataque inflige daño adicional." />
+</Node>
+<Node name="FGBTMF">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="{{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="UVSKM7">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="{{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="55JcEN">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="{{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="Zayprp">
+    <Key key="Description" value="Después de usar la habilidad, el próximo ataque se potencia con &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [({{Data.0.ACP2}})Daño de Arma + ({{Data.0.ACP1}})Bonus de Poder de Ataque_loc] Daño Físico (se activa una vez cada 2.5 segundos)." />
+</Node>
+<Node name="1UZ3t8R">
+    <Key key="Name" value="Boca" />
+    <Key key="Description" value="Al infligir daño con habilidades, restaura &lt;heal&gt;{{Data.0.ADF}}&lt;/heal&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) daño infligido] como HPMax al aliado cercano más herido." />
+</Node>
+<Node name="7iJGdtb252S">
+    <Key key="Name" value="Daño de Arma" />
+    <Key key="Description" value="Incrementa el Daño de Arma." />
+</Node>
+<Node name="7iJGdygEi17">
+    <Key key="Name" value="Conversión" />
+    <Key key="Description" value="Convierte el daño de arma en SP." />
+</Node>
+<Node name="7iJGe3mRMWv">
+    <Key key="Name" value="Poder de Crítico Físico" />
+    <Key key="Description" value="Incrementa el Poder de Crítico Físico." />
+</Node>
+<Node name="7iJGe8rdjwy">
+    <Key key="Name" value="Poder de Crítico Mágico" />
+    <Key key="Description" value="Incrementa el Poder de Crítico Mágico." />
+</Node>
+<Node name="7iJGeTE26AN">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})%&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGeDwrFAk">
+    <Key key="Name" value="Penetración de Armadura" />
+    <Key key="Description" value="Incrementa la Penetración de Armadura." />
+</Node>
+<Node name="7iJGeTCWy2Y">
+    <Key key="Name" value="Prisa" />
+    <Key key="Description" value="Incrementa la Prisa." />
+</Node>
+<Node name="7iJGeO7Kijb">
+    <Key key="Name" value="Velocidad de Ataque" />
+    <Key key="Description" value="Incrementa la Velocidad de Ataque." />
+</Node>
+<Node name="7iJGeJ28Ufj">
+    <Key key="Name" value="Incrementar Penetración Mágica" />
+    <Key key="Description" value="Incrementar Penetración Mágica." />
+</Node>
+<Node name="7iJGdtbXwbr">
+    <Key key="Name" value="Probabilidad de Crítico Físico" />
+    <Key key="Description" value="Sin bonificación." />
+</Node>
+<Node name="7iJGdygkkn5">
+    <Key key="Name" value="Poder de Crítico Mágico" />
+    <Key key="Description" value="Sin bonificación." />
+</Node>
+<Node name="7iJGe3my8GG">
+    <Key key="Name" value="Penetración de Armadura" />
+    <Key key="Description" value="Sin bonificación." />
+</Node>
+<Node name="7iJGe8sAU9q">
+    <Key key="Name" value="Penetración Mágica" />
+    <Key key="Description" value="Sin bonificación." />
+</Node>
+<Node name="7iJGeDxMiEX">
+    <Key key="Name" value="Velocidad de Ataque" />
+    <Key key="Description" value="Sin bonificación." />
+</Node>
+<Node name="7iJGeJ2ZA0B">
+    <Key key="Name" value="Prisa" />
+    <Key key="Description" value="Sin bonificación." />
+</Node>
+<Node name="7iJGdtcMvRr">
+    <Key key="Name" value="Tipo de Ojo" />
+    <Key key="Description" value="Chip de Meta Veneno" />
+</Node>
+<Node name="7iJGdyhaEei">
+    <Key key="Name" value="Espadas" />
+    <Key key="Description" value="Chip Bonificación AP" />
+</Node>
+<Node name="7iJGe3nnxk8">
+    <Key key="Name" value="Casco" />
+    <Key key="Description" value="Chip Curación" />
+</Node>
+<Node name="7iJGe8t0Rz9">
+    <Key key="Name" value="Colmillo" />
+    <Key key="Description" value="Chip Roba HP" />
+</Node>
+<Node name="7iJGeDyEvgp">
+    <Key key="Name" value="Rango de Ataque" />
+    <Key key="Description" value="Sin bonificación." />
+</Node>
+<Node name="7iJGeJ3RQmL">
+    <Key key="Name" value="Reducir costo de maná de habilidades" />
+    <Key key="Description" value="{{Modifiers.0.iv}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGete24NQ">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})%&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGeO8pqWy">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})%&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGf8uchri">
+    <Key key="Description" value="Disminuye {{Modifiers.0.iv}} por &lt;rh&gt;{{Data.0.AC3}}&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; segundos." />
+</Node>
+<Node name="7iJGedOQSs9">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe8tE93y">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtccN9i">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})%&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGeyjEHum">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})%&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGfDzpxOM">
+    <Key key="Description" value="Disminuye {{Modifiers.0.iv}} por &lt;rh&gt;{{Data.0.AC3}}&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGeiTcfEn">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeDyQMJO">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdyhphvu">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})%&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGeYJEHNp">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGf3pQVmK">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfJ528pb">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeiYprgK">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeJ3cb1R">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe3i1uJr">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+</Node>
+<Node name="AAwHar">
+    <Key key="Name" value="Ventisca" />
+    <Key key="Description" value="Recibir o infligir daño hace que empieces a infligir &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})BonusHP_loc] DañoMágico por segundo a los enemigos cercanos durante 3 segundos." />
+</Node>
+<Node name="55j507">
+    <Key key="Name" value="Ventisca" />
+    <Key key="Description" value="Infligir {{Data.0.ADF}} de daño cada segundo a los enemigos cercanos." />
+</Node>
+<Node name="1v1g2fg">
+    <Key key="Description" value="Al recibir daño, restaura ({{Data.0.AC4}}) MPMax por segundo durante {{Data.0.AC1}} segundos." />
+</Node>
+<Node name="1ZfhbcM">
+    <Key key="Name" value="Colmillo" />
+    <Key key="Description" value="Al infligir daño con habilidades, restaura &lt;heal&gt;{{Data.0.ADF}}&lt;/heal&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) daño infligido] como HPMax al aliado cercano más herido." />
+</Node>
+<Node name="103jVnv">
+    <Key key="Description" value="Cuando recibes un ataque, inflige &lt;rh&gt;&lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [({{Data.0.AC1}})&lt;/rh&gt;&lt;r&gt;[&lt;gray&gt;({{Data.0.AC2}} - {{Data.0.AC3}})&lt;/gray&gt;&lt;/r&gt; + ({{Data.0.ACP1}})Armadura] DañoFísico al atacante." />
+</Node>
+<Node name="jmeYjU">
+    <Key key="Description" value="Después de usar la habilidad, el próximo ataque se potencia con &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [({{Data.0.ACP2}})Daño de Arma + ({{Data.0.ACP1}})Bonus de Poder de Ataque_loc] Daño Físico (se activa una vez cada 2.5 segundos)." />
+</Node>
+<Node name="7h7vqFvmuKR">
+    <Key key="Name" value="Calor de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="7h7vqL0z4aj">
+    <Key key="Name" value="Calor de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="7h7vqQ6BEGQ">
+    <Key key="Name" value="Calor de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="7h7vqVBNOQK">
+    <Key key="Name" value="Calor de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="7h7vqaGZXsf">
+    <Key key="Name" value="Calor de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="7h7vqfLmhUn">
+    <Key key="Name" value="Calor de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="7iJGdtaJZfQ">
+    <Key key="Description" value="Al recibir daño mágico de habilidades, refleja &lt;md&gt;({{Data.0.AC1}})&lt;/md&gt; + ({{Data.0.ACP1}}) del próximo DañoMágico de vuelta al atacante." />
+</Node>
+<Node name="7iJGdyfZ9VM">
+    <Key key="Name" value="Escudo" />
+</Node>
+<Node name="7iJGe3kmPXM">
+    <Key key="Name" value="Reflejo de Hechizo" />
+    <Key key="Description" value="Refleja el próximo daño mágico." />
+</Node>
+<Node name="7iJGeJ1ZDwu">
+    <Key key="Name" value="Escudo" />
+    <Key key="Description" value="Escudado." />
+</Node>
+<Node name="7iJGfTDXAvW">
+    <Key key="Description" value="Infligir DañoMágico con habilidades hace que los enemigos ardan por &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Bonus de Poder de Hechizo_loc + 0.5% de HPMax del objetivo] DañoMágico por segundo durante 3 segundos." />
+</Node>
+<Node name="7iJGfYInECF">
+    <Key key="Name" value="Quemadura" />
+    <Key key="Description" value="- Infligir [(7-10) + (2%) de poder de hechizo adicional + 0.5% de la salud máxima del objetivo] daño mágico por segundo durante 3 segundos." />
+</Node>
+<Node name="7iJGdyfxX9D">
+    <Key key="Description" value="Al usar habilidades de curación o escudo en tu aliado, ellos reciben una carga que mejora su ataque en &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (Poder de Curación + Poder de Escudo)]." />
+</Node>
+<Node name="7h7vr5n4EO4">
+    <Key key="Name" value="Explosión" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.ACP1}} por {{CurrentStack}} ataques." />
+</Node>
+<Node name="259ftik">
+    <Key key="Description" value="Matar o asistir incrementa tu Poder de Curación y Poder de Escudo en (0.5%) por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte pierde todas las acumulaciones." />
+</Node>
+<Node name="55kpe1">
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+    <Key key="Name" value="Destello" />
+</Node>
+<Node name="2FK7ZSk">
+    <Key key="Description" value="- Matar o asistir incrementa tu HLPower y SLPower en (0.5%) por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="KLOq8h">
+    <Key key="Name" value="Destello Cegador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="9cePJXup8fF">
+    <Key key="Description" value="Matar o asistir incrementa tu ResistBase en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="7h7vqFwIeui">
+    <Key key="Name" value="Impulso de Daño Dinámico" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="BLjxg1">
+    <Key key="Name" value="Ataque Frenético" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="KKt59y">
+    <Key key="Name" value="Catalizador de Carga" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="9cePIIceiOE">
+    <Key key="Description" value="Al recibir daño mágico de habilidades, refleja &lt;md&gt;({{Data.0.AC1}})&lt;/md&gt; + ({{Data.0.ACP1}}) del próximo DañoMágico de vuelta al atacante." />
+</Node>
+<Node name="9cePIXtHj9m">
+    <Key key="Description" value="Consume {{Data.0.ACP2}} poder de artefacto pero incrementa &lt;rh&gt;{{Data.0.AC1}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC2}}-{{Data.0.AC3}})%&lt;/gray&gt;&lt;/r&gt;Velocidad de Movimiento Final KPositiva" />
+</Node>
+<Node name="9cePIi8tJcn">
+    <Key key="Description" value="Consume 80% del poder del artefacto pero incrementa ({{Data.0.ACP1}}) Velocidad de Movimiento Final KPositiva y extra {{Data.0.ACP3}} = [5% + ({{Data.0.ACP2}}) Bonus de Poder de Hechizo_loc] por 1 segundo, después de control severo. (Tiempo de recarga 30 segundos)." />
+</Node>
+<Node name="9cePJ3OTxdT">
+    <Key key="Description" value="Cada vez que se disipa tu habilidad de daño a lo largo del tiempo, el objetivo recibe instantáneamente ({{Data.0.AC1}}) + ({{Data.0.ACP1}}) el daño de esta habilidad." />
+</Node>
+<Node name="7iJGfyiz9OX">
+    <Key key="Description" value="Después de usar la habilidad, el próximo ataque se potencia con &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.ACP2}})Poder de Ataque Base + ({{Data.0.ACP1}})Bonus de Poder de Hechizo_loc] DañoMágico (se activa una vez cada 2 segundos)." />
+</Node>
+<Node name="7h7vqfLfcxJ">
+    <Key key="Description" value="Al usar habilidades de curación o escudo, obtienes 1 carga, al alcanzar 10 cargas, tu próxima habilidad de curación o escudo obtendrá &lt;heal&gt;{{Data.0.ADF}}&lt;/heal&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (HLPower + SLPower)] y también te afectará al 50%. Después de usar la habilidad, todas las cargas desaparecen." />
+</Node>
+<Node name="9cePINhryWf">
+    <Key key="Description" value="Al recibir daño mágico de habilidades, refleja &lt;md&gt;({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}})&lt;/md&gt; + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}}) del próximo DañoMágico de vuelta al atacante." />
+</Node>
+<Node name="9cePIcyTyYd">
+    <Key key="Description" value="Consume {{Data.0.ACP2}} poder de artefacto pero incrementa &lt;rh&gt;{{Data.0.AC1}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC2}}-{{Data.0.AC3}})%&lt;/gray&gt;&lt;/r&gt;Velocidad de Movimiento Final KPositiva&#xA;" />
+</Node>
+<Node name="9cePItE5YGU">
+    <Key key="Description" value="Consume 80% del poder del artefacto pero incrementa ({{Data.0.ACP1}}) Velocidad de Movimiento Final KPositiva y extra {{Data.0.ACP3}} = [5% + ({{Data.0.ACP2}}) Bonus de Poder de Hechizo_loc] por 1 segundo, después de control severo. (Tiempo de recarga 30 segundos)." />
+</Node>
+<Node name="7iJGfiYTqRQ">
+    <Key key="Description" value="Infligir DañoMágico con habilidades hace que los enemigos ardan por &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) Bonus de Poder de Hechizo_loc + 0.5% de HPMax del objetivo] DañoMágico por segundo durante 3 segundos." />
+</Node>
+<Node name="9cePJ8TgBAi">
+    <Key key="Description" value="Cada vez que se disipa tu habilidad de daño a lo largo del tiempo, el objetivo recibe instantáneamente ({{Data.0.AC1}}) + ({{Data.0.ACP1}}) el daño de esta habilidad." />
+</Node>
+<Node name="7iJGg3pCVY4">
+    <Key key="Description" value="Después de usar la habilidad, el próximo ataque se potencia con &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.ACP2}})Poder de Ataque Base + ({{Data.0.ACP1}})Bonus de Poder de Hechizo_loc] DañoMágico (se activa una vez cada 2 segundos)." />
+</Node>
+<Node name="7h7vqVBH373">
+    <Key key="Description" value="Al usar habilidades de curación o escudo en tu aliado, ellos reciben una carga que mejora su ataque en &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (HLPower + SLPower)] DañoMágico." />
+</Node>
+<Node name="7h7vqqWMW3T">
+    <Key key="Description" value="Al usar habilidades de curación o escudo, obtienes 1 carga, al alcanzar 10 cargas, tu próxima habilidad de curación o escudo obtendrá &lt;heal&gt;{{Data.0.ADF}}&lt;/heal&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (HLPower + SLPower)] y también te afectará al 50%. Después de usar la habilidad, todas las cargas desaparecen." />
+</Node>
+<Node name="9cePISi48bR">
+    <Key key="Description" value="Al recibir daño mágico de habilidades, refleja &lt;md&gt;({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}})&lt;/md&gt; + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}}) del próximo DañoMágico de vuelta al atacante." />
+</Node>
+<Node name="9cePIi3g8j4">
+    <Key key="Description" value="Consume 80% del poder del artefacto pero incrementa ({{Data.0.ACP1}})Velocidad de Movimiento Final KPositiva" />
+</Node>
+<Node name="9cePIyJHiD4">
+    <Key key="Description" value="Consume 80% del poder del artefacto pero incrementa ({{Data.0.ACP1}})Velocidad de Movimiento Final KPositiva y extra {{Data.0.ACP3}} = [5% + ({{Data.0.ACP2}})Bonus de Poder de Hechizo_loc] por 1 segundo, después de control severo. (Tiempo de recarga 30 segundos)." />
+</Node>
+<Node name="7iJGftdg2rN">
+    <Key key="Description" value="Infligir DañoMágico con habilidades hace que los enemigos ardan por &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Bonus de Poder de Hechizo_loc + 0.5% de HPMax del objetivo] DañoMágico por segundo durante 3 segundos." />
+</Node>
+<Node name="9cePJDYtL0T">
+    <Key key="Description" value="Cada vez que se disipa tu habilidad de daño a lo largo del tiempo, el objetivo recibe instantáneamente ({{Data.0.AC1}}) + ({{Data.0.ACP1}}) el daño de esta habilidad." />
+</Node>
+<Node name="7iJGdtaNrA2">
+    <Key key="Description" value="Después de usar la habilidad, el próximo ataque se potencia con &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Bonus de Poder de Hechizo_loc] DañoMágico (se activa una vez cada 2 segundos)." />
+</Node>
+<Node name="7h7vqaGTD6h">
+    <Key key="Description" value="Al usar habilidades de curación o escudo en tu aliado, ellos reciben una carga que mejora su ataque en &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (HLPower + SLPower)] DañoMágico." />
+</Node>
+<Node name="7h7vqvbZh2d">
+    <Key key="Description" value="Al usar habilidades de curación o escudo, obtienes 1 carga, al alcanzar 10 cargas, tu próxima habilidad de curación o escudo obtendrá &lt;heal&gt;{{Data.0.ADF}}&lt;/heal&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (HLPower + SLPower)] y también te afectará al 50%. Después de usar la habilidad, todas las cargas desaparecen." />
+</Node>
+<Node name="1ekvBbb">
+    <Key key="Description" value="Al infligir daño con habilidades, restaura &lt;heal&gt;{{Data.0.ADF}}&lt;/heal&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) daño infligido] como HPMax al aliado más herido cercano." />
+</Node>
+<Node name="PQYP18">
+    <Key key="Description" value="Recibir o infligir daño hace que comiences a infligir &lt;md&gt;{{Data.0.ADF}}&lt;/md&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Bonus de HP_loc] DañoMágico por segundo a los enemigos cercanos durante 3 segundos." />
+</Node>
+<Node name="prrtAy">
+    <Key key="Description" value="Después de usar la habilidad, el próximo ataque se potencia con &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Bonus de Poder de Ataque_loc] DañoFísico (se activa una vez cada 2.5 segundos)." />
+</Node>
+<Node name="25C6XVg">
+    <Key key="Description" value="Al recibir daño, restaura ({{Data.0.AC4}})MPMax por segundo durante {{Data.0.AC1}} segundos." />
+</Node>
+<Node name="1FJOiOT">
+    <Key key="Description" value="Al ser golpeado por un ataque, inflige &lt;pd&gt;{{Data.0.ADF}}&lt;/pd&gt; = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Armadura] DañoFísico al atacante." />
+</Node>
+<Node name="9cePJSpYmkE">
+    <Key key="Description" value="Matar o asistir incrementa tu MPMax en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones.{{Events.1.Actions.0.Effect.GameUnitEffectBuff}}" />
+</Node>
+<Node name="2KPJjQ7">
+    <Key key="Description" value="- Matar o asistir incrementa la fuerza de tu objeto en 1% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="2ZevNi5">
+    <Key key="Description" value="Matar o asistir incrementa tu Poder de Ataque en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="35B7SfA">
+    <Key key="Description" value="Matar o asistir incrementa tu Armadura en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="2pvVuGi">
+    <Key key="Description" value="Matar o asistir incrementa tu Poder de Hechizo en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="9cePJiAWfTz">
+    <Key key="Description" value="Matar o asistir incrementa tu HPMax en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="2v0i5ma">
+    <Key key="Description" value="Matar o asistir incrementa tu Poder de Hechizo en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="9cePJd01Rzi">
+    <Key key="Description" value="Matar o asistir incrementa tu ResistBase en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="9cePJNjLZnd">
+    <Key key="Description" value="Matar o asistir incrementa tu MPMax en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="3AGJef0">
+    <Key key="Description" value="Matar o asistir incrementa tu Armadura en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones. {{Events.1.Actions.0.Effect.GameUnitEffectBuff.0.Data.MES}}" />
+</Node>
+<Node name="9cePJtFj2WW">
+    <Key key="Description" value="Matar o asistir incrementa tu HPMax en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="2ek7Yvd">
+    <Key key="Description" value="Matar o asistir incrementa tu Poder de Ataque en 0.5% por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="2PUW4VI">
+    <Key key="Description" value="- Matar o asistir incrementa la fuerza de tu objeto en 1% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="2AEvPUO">
+    <Key key="Description" value="Matar o asistir incrementa tu HLPower y SLPower en (0.5%) por {{Data.0.ADF}} minutos. Máx &lt;rh&gt;({{Data.0.St}})&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt; acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="2jqJjMh">
+    <Key key="Description" value="- Matar o asistir incrementa tu Poder de Ataque en 0.5% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="9cePJyKwIqx">
+    <Key key="Description" value="- Matar o asistir incrementa tu HPMax en 0.5% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="9cePJi5Dik7">
+    <Key key="Description" value="- Matar o asistir incrementa tu ResistBase en 0.5% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="3FLVpbq">
+    <Key key="Description" value="- Matar o asistir incrementa tu Armadura en 0.5% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="2UZiE4p">
+    <Key key="Description" value="- Matar o asistir incrementa la fuerza de tu objeto en 1% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="9cePJIe9D5M">
+    <Key key="Description" value="- Matar o asistir incrementa tu MPMax en 0.5% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="305vFZi">
+    <Key key="Description" value="- Matar o asistir incrementa tu Poder de Hechizo en 0.5% por {{Data.0.ADF}} minutos. Máx ({{Data.0.St}}) acumulaciones. Después de la muerte se pierden todas las acumulaciones." />
+</Node>
+<Node name="74yKyK" />
+<Node name="CMcekt">
+    <Key key="Name" value="Asalto Penetrante" />
+    <Key key="Description" value="{{Modifiers.0.nm}}/{{Modifiers.1.nm}} se incrementa en {{Data.0.AC2}}." />
+</Node>
+<Node name="7h7vqFw4q7F">
+    <Key key="Name" value="Danza de las Sombras" />
+    <Key key="Description" value="El siguiente ataque automático tiene un 10% de probabilidad de golpe crítico.&#xD;" />
+</Node>
+<Node name="FFeGd9">
+    <Key key="Name" value="111" />
+</Node>
+<Node name="55F1U7">
+    <Key key="Name" value="Catalizador de Carga" />
+    <Key key="Description" value="Por cada habilidad utilizada por el héroe, aliados o enemigos dentro de un radio de 10 unidades, el héroe gana cargas. A las 10 cargas, la siguiente habilidad infligirá un 25% más de daño." />
+</Node>
+<Node name="Kiha1q">
+    <Key key="Name" value="Maestro de la Espada" />
+    <Key key="Description" value="Cuando el jugador realiza un golpe crítico, gana una acumulación de Maestro de la Espada. A las 5 acumulaciones, su próxima habilidad inflige un 20% más de daño y consume todas las acumulaciones." />
+</Node>
+<Node name="7h7vqFygEjt">
+    <Key key="Name" value="Maestro de la Espada" />
+    <Key key="Description" value="El daño de habilidades se incrementa en un 25%" />
+</Node>
+<Node name="9cePISiGEFb">
+    <Key key="Name" value="Controlador" />
+</Node>
+<Node name="9cePIXtSTvJ">
+    <Key key="Name" value="Instinto del Explorador" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="9cePINi0xWB">
+    <Key key="Name" value="Asalto Implacable" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7h7vqFvGLCi">
+    <Key key="Name" value="Desencadenado" />
+    <Key key="Description" value="Inmunidad a efectos de reducción de movimiento" />
+</Node>
+<Node name="7h7vqVAwime">
+    <Key key="Name" value="Tirador Estacionario" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7h7vqaGFjyY">
+    <Key key="Name" value="Ecos Benevolentes" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="bnyJwC">
+    <Key key="Name" value="Resonancia Última" />
+    <Key key="Description" value="El coste de maná de las habilidades de curación se reduce en un 90%." />
+</Node>
+<Node name="7h7vqkQjK5H">
+    <Key key="Name" value="Restauración Acumulada" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}." />
+</Node>
+<Node name="gsN5Yq">
+    <Key key="Name" value="Rebobinado de Emergencia" />
+    <Key key="Description" value="Reduce el tiempo de reutilización de las habilidades en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7h7vqFw5PXM">
+    <Key key="Name" value="Escudo de Maná" />
+    <Key key="Description" value="Absorbe {{Data.0.Sh}} daño." />
+</Node>
+<Node name="7h7vqfMCnjc">
+    <Key key="Name" value="Asalto Enfocado" />
+    <Key key="Description" value="El daño de habilidad recibido se incrementa en {{Data.0.ADF}}%" />
+</Node>
+<Node name="7h7vqkRcfV3">
+    <Key key="Name" value="Resolución del Errante" />
+    <Key key="Description" value="El daño recibido se reduce en un 5%." />
+</Node>
+<Node name="7h7vqqWqgiw">
+    <Key key="Name" value="Lobo Solitario" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="PuA50J">
+    <Key key="Name" value="Autosuficiencia" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7h7vqvc3m5N">
+    <Key key="Name" value="Forjado en Llamas" />
+    <Key key="Description" value="El atributo principal se incrementa en {{Data.0.AC1}}%.&#xA;" />
+</Node>
+<Node name="a4ffLR">
+    <Key key="Name" value="Guardián de lo Salvaje" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7h7vr0hOUrN">
+    <Key key="Name" value="Guardián de lo Salvaje" />
+    <Key key="Description" value="Protegido." />
+</Node>
+<Node name="f9usrO" />
+<Node name="vPVazJ">
+    <Key key="Name" value="Aura de Ferocidad" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="10UiIfr">
+    <Key key="Name" value="Protección del Guardián" />
+    <Key key="Description" value="El daño recibido se disminuye en {{Modifiers.0.val}}." />
+</Node>
+<Node name="15ZvWuh">
+    <Key key="Name" value="Presencia Empoderadora" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7h7vqFvrFNT">
+    <Key key="Name" value="Ascensión Radiante" />
+    <Key key="Description" value="Invulnerabilidad." />
+</Node>
+<Node name="7h7vqL15x7w">
+    <Key key="Name" value="Marca de Vampirismo" />
+    <Key key="Description" value="Concede 5% de vampirismo al atacante." />
+</Node>
+<Node name="7h7vqQ6OStH">
+    <Key key="Name" value="Aura Empoderadora" />
+    <Key key="Description" value="El atributo principal se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1pt3myN">
+    <Key key="Name" value="Arroyo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7h7vqL0UykN">
+    <Key key="Name" value="Infestación" />
+    <Key key="Description" value="Genera 3 Bebés Araña cuando se acaba el tiempo." />
+</Node>
+<Node name="7h7vqVB6Qji">
+    <Key key="Name" value="Feromona" />
+    <Key key="Description" value="Huele a feromonas." />
+</Node>
+<Node name="7h7vqL0WZpC">
+    <Key key="Name" value="Caballo Oscuro" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;" />
+</Node>
+<Node name="7h7vqQ5jh9F">
+    <Key key="Name" value="Caballo Oscuro" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;" />
+</Node>
+<Node name="7h7vqVAwvHF">
+    <Key key="Name" value="Caballo Oscuro" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;" />
+</Node>
+<Node name="7h7vqaGPF4b">
+    <Key key="Name" value="Susurro" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;" />
+</Node>
+<Node name="7h7vqfLcrmu">
+    <Key key="Name" value="Susurro" />
+</Node>
+<Node name="7h7vqkQq0ma">
+    <Key key="Name" value="Susurro" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="2AHJ9kj">
+    <Key key="Name" value="Flujo de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="206tWET">
+    <Key key="Name" value="Flujo de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe8r11tQ">
+    <Key key="Description" value="Al recibir daño mágico de habilidades, refleja &lt;md&gt;({{Data.0.AC1}})&lt;/md&gt; + ({{Data.0.ACP1}}) del siguiente Daño Mágico al atacante." />
+</Node>
+<Node name="7iJGeDwDCW1">
+    <Key key="Description" value="Al recibir daño mágico de habilidades, refleja &lt;md&gt;({{Data.0.AC1}})&lt;/md&gt; + ({{Data.0.ACP1}}) del siguiente Daño Mágico al atacante." />
+</Node>
+<Node name="KLM8QZ">
+    <Key key="Name" value="Tormenta" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño cada segundo a los enemigos cercanos." />
+</Node>
+<Node name="7h7vqFvJu9v">
+    <Key key="Name" value="Membrana" />
+    <Key key="Description" value="El siguiente ataque inflige {{Data.0.ADF}} de daño al impactar." />
+</Node>
+<Node name="FGCdEV">
+    <Key key="Name" value="Destello Vívido" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1uyG1Hb">
+    <Key key="Name" value="Rápido Arroyo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="203SC92">
+    <Key key="Name" value="Arroyo Rocoso" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1KMqUQh">
+    <Key key="Name" value="Niebla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1PS2uUA">
+    <Key key="Name" value="Niebla Oscura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1UXF5XM">
+    <Key key="Name" value="Niebla Pesada" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="AB0Aa3">
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="PQbAwB">
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="UViMLP">
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="Zb0aq9">
+    <Key key="Name" value="Cicatriz" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="egCxXy">
+    <Key key="Name" value="Cicatriz Dentada" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="jmP7vf">
+    <Key key="Name" value="Cicatriz Sangrienta" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="157Ep7O">
+    <Key key="Name" value="Caparazón" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1ACR3rF">
+    <Key key="Name" value="Caparazón Duro" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1FHdErN">
+    <Key key="Name" value="Caparazón Impenetrable" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="prbK1P">
+    <Key key="Name" value="Viento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1022H8K">
+    <Key key="Name" value="Viento Fuerte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="uwq6a7">
+    <Key key="Name" value="Viento Frío" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1ZcRYP9">
+    <Key key="Name" value="Lobo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1eheMje">
+    <Key key="Name" value="Lobo Hambriento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1jnrXIN">
+    <Key key="Name" value="Lobo Feroz" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="9cePIIdR6qr">
+    <Key key="Name" value="Impulso" />
+    <Key key="Description" value="La fuerza del objeto se incrementa en {{Data.0.ADF}}" />
+</Node>
+<Node name="9cePISir8Wf">
+    <Key key="Name" value="Impulso Loco" />
+    <Key key="Description" value="La fuerza del objeto se incrementa en {{Data.0.ADF}}" />
+</Node>
+<Node name="9cePIXu3IJm">
+    <Key key="Name" value="Impulso Irresistible" />
+    <Key key="Description" value="La fuerza del objeto se incrementa en {{Data.0.ADF}}" />
+</Node>
+<Node name="9cePIId1ugi">
+    <Key key="Description" value="{{Modifiers.0.val}}" />
+</Node>
+<Node name="9cePIIdPFHL">
+    <Key key="Description" value="Si has hecho daño mayor al 30% de la HP máxima de tu objetivo en 2 segundos o menos, los siguientes 4 ataques tendrán ({{Data.0.ACP1}}) Velocidad de Ataque." />
+</Node>
+<Node name="7h7vqFwMT4B" />
+<Node name="7h7vqL1Ydm8" />
+<Node name="7iJGeiWrGa0" />
+<Node name="7h7vqfMOz0V">
+    <Key key="Description" value="Cuando recibes daño superior al 30% de tu salud en 3 segundos, se otorga &lt;rh&gt;(&lt;shield&gt;{{Data.0.Sh}}&lt;/shield&gt;)Escudo = [({{Data.0.AC1}})&lt;/rh&gt;&lt;r&gt;[&lt;gray&gt;({{Data.0.AC2}}-{{Data.0.AC3}})&lt;/gray&gt;&lt;/r&gt; + ({{Data.0.ACP1}})Bonus de Poder de Ataque] durante 5 seg. (Reutilización de 30 segundos)." />
+</Node>
+<Node name="7h7vqQ6mPwh">
+    <Key key="Description" value="Cuando recibes daño superior al 30% de tu HP máxima en 3 segundos, se otorga &lt;rh&gt;(&lt;shield&gt;{{Data.0.Sh}}&lt;/shield&gt;)escudo&lt;/shield&gt; = [({{Data.0.AC1}})&lt;/rh&gt;&lt;r&gt;[&lt;gray&gt;({{Data.0.AC2}} + {{Data.0.AC3}})&lt;/gray&gt;&lt;/r&gt; + ({{Data.0.ACP1}})Bonus de Poder de Hechizo] durante 5 seg. (Reutilización de 30 segundos)." />
+</Node>
+<Node name="7h7vqkRenQY">
+    <Key key="Description" value="Cuando recibes daño superior al 30% de tu salud, se otorga (&lt;shield&gt;{{Data.0.Sh}}&lt;/shield&gt;)Escudo = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Bonus de Poder de Ataque] durante 5 seg. (Reutilización de 30 segundos)." />
+</Node>
+<Node name="7h7vqVByrCA">
+    <Key key="Description" value="Cuando recibes daño superior al 30% de tu HP máxima en 3 segundos, se otorga &lt;rh&gt;(&lt;shield&gt;{{Data.0.Sh}}&lt;/shield&gt;)escudo&lt;/shield&gt; = [({{Data.0.AC1}})&lt;/rh&gt;&lt;r&gt;[&lt;gray&gt;({{Data.0.AC2}} + {{Data.0.AC3}})&lt;/gray&gt;&lt;/r&gt; + ({{Data.0.ACP1}})Bonus de Poder de Hechizo] durante 5 seg. (Reutilización de 30 segundos)." />
+</Node>
+<Node name="7h7vqqWubR9">
+    <Key key="Description" value="Cuando recibes daño superior al 30% de tu salud, se otorga (&lt;shield&gt;{{Data.0.Sh}}&lt;/shield&gt;)Escudo = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Bonus de Poder de Ataque] durante 5 seg. (Reutilización de 30 segundos)." />
+</Node>
+<Node name="7h7vqaHCnCS">
+    <Key key="Description" value="Cuando recibes daño superior al 30% de tu HP máxima en 2 segundos, se otorga (&lt;shield&gt;{{Data.0.Sh}}&lt;/shield&gt;)Escudo = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})Bonus de Poder de Hechizo] durante 5 seg. (Reutilización de 30 segundos)." />
+</Node>
+<Node name="prvk3X">
+    <Key key="Name" value="Armadura Reforzada" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7h7vqFvWBnN">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})%&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="AB9Rhr">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} cada 1 segundo." />
+</Node>
+<Node name="FIMF74">
+    <Key key="Name" value="Ralentizar" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se disminuye en {{Modifiers.0.val}}." />
+</Node>
+<Node name="1psjTKp">
+    <Key key="Name" value="Calabaza Horneada Dulce" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="1uxxZjn">
+    <Key key="Name" value="Calabaza Rellena con Hoja de Velo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="2039yZC">
+    <Key key="Name" value="Pollo Crujiente" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="258MOZ2">
+    <Key key="Name" value="Estofado de Pescado con Piñones" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="2ADZJCF">
+    <Key key="Name" value="Pan de Bayas Silvestres" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="2pusOmD">
+    <Key key="Name" value="Magdalenas de Gemas y Arándanos" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="2v04g4p">
+    <Key key="Name" value="Sopa de Champiñones Sabrosa" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.Hpr+}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Data.0.Mpr+}}" />
+</Node>
+<Node name="305H049">
+    <Key key="Name" value="Magdalenas de Gemas y Arándanos" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="35ATMg2">
+    <Key key="Name" value="Ensalada de Repollo y Zanahoria" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3AFfnmF">
+    <Key key="Name" value="Ensalada de Esencia de Globolifer" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="3FKt3zm">
+    <Key key="Name" value="Salteado de Costillas y Cebolla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3KQ5Tir">
+    <Key key="Name" value="Cazuela de Thornorb" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3PVHwZW">
+    <Key key="Name" value="Puré de Sandía Dulce" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3UaUKVK">
+    <Key key="Name" value="Ensalada de Sandía con Hoja de Atracción" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3ZfhDgQ">
+    <Key key="Name" value="Patas de Aves Asadas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3ekudHP">
+    <Key key="Name" value="Aves de Globolifer" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3jr73Q0">
+    <Key key="Name" value="Costillas Fritas Crujientes" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3pwJMu2">
+    <Key key="Name" value="Banquete de Costillas de Gemnut" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="3v1VffY">
+    <Key key="Name" value="Pastel de Arándanos" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="406i1De">
+    <Key key="Name" value="Pastel de Roble" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="45BvLf7">
+    <Key key="Name" value="Berenjena Horneada" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="4AH7m6c">
+    <Key key="Name" value="Berenjena a la Parrilla Crujiente" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="4FMKBbU">
+    <Key key="Name" value="Pescado a la Parrilla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="4KRWYLi">
+    <Key key="Name" value="Pescado a la Parrilla con Hojas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="4PWj0iv">
+    <Key key="Name" value="Pan de Calabaza" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="4UbwNr2">
+    <Key key="Name" value="Pan de Globolifer" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="4Zh8jmO">
+    <Key key="Name" value="Bayas y Crema" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="4enL89e">
+    <Key key="Name" value="Bayas y Crema de Globolifer" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="57SyzX">
+    <Key key="Name" value="Radiación" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} por cada 1 segundo." />
+</Node>
+<Node name="7iJGeYIPKrS">
+    <Key key="Name" value="Arándano" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeiY1XTp">
+    <Key key="Name" value="Pan" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGdygyeFC">
+    <Key key="Name" value="Repollo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGedNbbUK">
+    <Key key="Name" value="Zanahoria" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeyiQIAF">
+    <Key key="Name" value="Queso" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGe8sNGW5">
+    <Key key="Name" value="Maíz" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGfDz3FJF">
+    <Key key="Name" value="Huevo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGe3nB0Eh">
+    <Key key="Name" value="Berenjena" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGdtbmAtC">
+    <Key key="Name" value="Cebolla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeDxaICs">
+    <Key key="Name" value="Pedazo de calabaza" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeiSiwBx">
+    <Key key="Name" value="Pedazo de Sandía" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGf3idf2I">
+    <Key key="Name" value="Pata de Aves" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeJ2nhgy">
+    <Key key="Name" value="Semillas de Calabaza" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeTDCayi">
+    <Key key="Name" value="Champiñón Rojo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGetdDtgd">
+    <Key key="Name" value="Filete de Pescado Rojo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGf8tqxi5">
+    <Key key="Name" value="Costillas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeO80HbL">
+    <Key key="Name" value="Champiñón Púrpura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGe8rg46N">
+    <Key key="Name" value="Avellana" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdygPThx">
+    <Key key="Name" value="Oruga de Seda" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdygMIU6">
+    <Key key="Name" value="Costillas Fritas Crujientes" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtbjGg5">
+    <Key key="Name" value="Penalización de Muerte" />
+    <Key key="Description" value="Reduce todos los atributos en un 10%." />
+</Node>
+<Node name="7iJGeiY3CsU">
+    <Key key="Name" value="Galleta Mágica" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGf3ifHar">
+    <Key key="Name" value="Nuggets de Oruga" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGfJ4I47I">
+    <Key key="Name" value="Pasta de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGfYJuJZY">
+    <Key key="Name" value="Chokwalatte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGfiZVd4S">
+    <Key key="Name" value="Stinkers" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGg3q9H8a">
+    <Key key="Name" value="Nutsy" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGgJ5i35p">
+    <Key key="Name" value="Té de Loto" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGgYLQeKm">
+    <Key key="Name" value="Pasta &quot;Bloodonjeze&quot;" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="jm4iZC">
+    <Key key="Name" value="Calidez de la Fogata" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.FEI}}." />
+</Node>
+<Node name="efs6jX">
+    <Key key="Name" value="Calidez de la Fogata" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.FEI}}." />
+</Node>
+<Node name="7iJGdyfmjzP">
+    <Key key="Name" value="Fogata con Raíces de Árbol" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGdtanUrB">
+    <Key key="Name" value="Fogata de Corteza de Piedra" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGeJ1t9si">
+    <Key key="Name" value="Calidez de la Fogata" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}} máxima Salud por segundo.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}} máxima Maná por segundo.&#xA;{{Modifiers.2.nm}} se incrementa en {{Data.0.FEI}}." />
+</Node>
+<Node name="7iJGdtbEMBS">
+    <Key key="Name" value="Galleta Mágica" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdygR1Os">
+    <Key key="Name" value="Galleta Mágica" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe3mivzH">
+    <Key key="Name" value="Nuggets de Oruga" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe8rwam0">
+    <Key key="Name" value="Nuggets de Oruga" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeDxDLPZ">
+    <Key key="Name" value="Chokwalatte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeJ2RXib">
+    <Key key="Name" value="Stinkers" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeO7ehsv">
+    <Key key="Name" value="Raíz Antigua" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeYI5uEy">
+    <Key key="Name" value="Nutsy" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGedNJAGk">
+    <Key key="Name" value="Tacos Gonados" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeTCskd2">
+    <Key key="Name" value="Tacos Gonados" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeiSZs3d">
+    <Key key="Name" value="Ensalada Afortunada" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtaXMtT" />
+<Node name="7iJGdtbTrpc">
+    <Key key="Description" value="{{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeDw8iCc">
+    <Key key="Name" value="Queso Dorpurplu" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeYH3dh4">
+    <Key key="Name" value="Gran Bob" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGedMHiPL">
+    <Key key="Name" value="Gran Bob" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeyh6dAs">
+    <Key key="Name" value="Jamón Curado" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGfDxkgdk">
+    <Key key="Name" value="Rollito de Sushi de Pescado" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGfiYEJgd">
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfYIbuYS">
+    <Key key="Name" value="Dragón Púrpura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeJ1iWKp">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="{{Data.0.ADF}} daño cada 1 segundo." />
+</Node>
+<Node name="7iJGeTCbG5C">
+    <Key key="Name" value="Aplastar Armadura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}.&#xA;{{Modifiers.1.nm}} se reduce en {{Modifiers.1.val}}." />
+</Node>
+<Node name="7iJGeiXWyDc">
+    <Key key="Name" value="Aplastar Armadura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGetcjcvE">
+    <Key key="Name" value="Lento" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGdtca36F">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="7iJGdyhvQ7v">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="Inflige {{Cant find path by object : Extensions.Abilities.IAbilityData.0.ADF}}" />
+</Node>
+<Node name="7iJGdtct6zv">
+    <Key key="Name" value="11sr4" />
+</Node>
+<Node name="7iJGe3iHhgC">
+    <Key key="Name" value="Nuggets de Quillperl" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGdta42PQ">
+    <Key key="Name" value="Gelatina de Médula" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGdyfGb93">
+    <Key key="Name" value="Tostada de Huevo Energético" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGe3kSz4u">
+    <Key key="Name" value="Hot-Bug" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGe8qgajM">
+    <Key key="Name" value="Marrmelade" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeDvuO9V">
+    <Key key="Name" value="Sándwich de Titán" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeJ16x5z">
+    <Key key="Name" value="Máximo Saludable" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeO6K8ad">
+    <Key key="Name" value="Palomitas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeTBWk7r">
+    <Key key="Name" value="Palomitas de Roble" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeYGjGt8">
+    <Key key="Name" value="Bocado de Rebbit" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGedLySIT">
+    <Key key="Name" value="Chips de Calabaza" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeiRBHBW">
+    <Key key="Name" value="Magdalenas de Arándanos y Avellana" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGeygwy2f">
+    <Key key="Name" value="Galletas Mágicas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se reduce en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGf3nBt1V">
+    <Key key="Name" value="Pastel Chesemana" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGf8sOZmt">
+    <Key key="Name" value="Pasta &quot;Bloodonjeze&quot;" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se reduce en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGfDxbkSb">
+    <Key key="Name" value="Té de Loto" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfJ2pz7A">
+    <Key key="Name" value="Rollito de Adrenalina" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfYIS9mx">
+    <Key key="Name" value="Té de JeddEye" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfdNefvX">
+    <Key key="Name" value="Pizza de Ojo de Monstruo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfiSuBWT">
+    <Key key="Name" value="Tacos de Planta Monstruosa" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfiYAm4F">
+    <Key key="Name" value="Sándwich de Mike Monstruoso" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGftdNT1e">
+    <Key key="Name" value="Brocheta de Ojo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfyicG01">
+    <Key key="Name" value="Pasta de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtag0vI">
+    <Key key="Name" value="Pastel Chesemana" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGdyfveOz">
+    <Key key="Name" value="Ensalada Afortunada" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe8rOufP">
+    <Key key="Name" value="Tacos de Planta Monstruosa" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeDwcyKO">
+    <Key key="Name" value="Sándwich de Mike Monstruoso" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGdtatmdr">
+    <Key key="Name" value="Rollito de Adrenalina" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGdyg6ZgA">
+    <Key key="Name" value="Ramen" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGe3mK0Eu">
+    <Key key="Name" value="Té de JeddEye" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGe8rWVN1">
+    <Key key="Name" value="Pizza de Ojo de Monstruo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeDwj5Uh">
+    <Key key="Name" value="Brocheta de Ojo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeJ2AqJ3">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="7iJGdtbJH3z">
+    <Key key="Name" value="Disminución de Visión" />
+    <Key key="Description" value="La visión se reduce." />
+</Node>
+<Node name="7iJGdtabX4a">
+    <Key key="Name" value="Vigor" />
+    <Key key="Description" value="El próximo ataque inflige daño adicional." />
+</Node>
+<Node name="7h7vqL0sGHz">
+    <Key key="Name" value="Capullo" />
+    <Key key="Description" value="El próximo ataque inflige {{Data.0.ADF}} de daño al impacto." />
+</Node>
+<Node name="7h7vqQ64PEL">
+    <Key key="Name" value="Telaraña" />
+    <Key key="Description" value="El próximo ataque inflige {{Data.0.ADF}} de daño al impacto." />
+</Node>
+<Node name="7h7vqkR0ETR">
+    <Key key="Name" value="Manta" />
+    <Key key="Description" value="Cuando acumules 10 cargas, la próxima habilidad de curación o protección ganará {{Data.0.ADF}}." />
+</Node>
+<Node name="7iJGdyftsSE">
+    <Key key="Name" value="Techo" />
+    <Key key="Description" value="Cuando acumules 10 cargas, la próxima habilidad de curación o protección ganará {{Data.0.ADF}}." />
+</Node>
+<Node name="7iJGe3m63Id">
+    <Key key="Name" value="Capa" />
+    <Key key="Description" value="Cuando acumules 10 cargas, la próxima habilidad de curación o protección ganará {{Data.0.ADF}}." />
+</Node>
+<Node name="7iJGe8qwjih">
+    <Key key="Name" value="Cadáver de Animal" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGf3nMSGu">
+    <Key key="Name" value="Tocino y Huevos" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGf8sYqyc">
+    <Key key="Name" value="Cadáver Asado" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGfDxmBBj">
+    <Key key="Name" value="Cadáver a la Parrilla" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGeiRYMiN">
+    <Key key="Name" value="Ensalada de Huevo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGdtbQtUe">
+    <Key key="Name" value="Pan de Herbaglobo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtb4yh6">
+    <Key key="Name" value="Tostada de Huevo Energético" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfYJg4Ij">
+    <Key key="Name" value="Estofado de Pescado con Piña" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdygMs9L">
+    <Key key="Name" value="Sándwich de Titán" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfdOtXHB">
+    <Key key="Name" value="Palomitas de Roble" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfTDF6eY">
+    <Key key="Name" value="Ramen" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeiRdxGx">
+    <Key key="Name" value="Escudo" />
+    <Key key="Description" value="Protegido." />
+</Node>
+<Node name="7iJGdtcivxX">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})%&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGdyi1zu9">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGe3iF1Nu">
+    <Key key="Description" value="Incrementa {{Modifiers.0.iv}} en &lt;rh&gt;{{Data.0.AC3}}&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Data.0.AC1}}-{{Data.0.AC2}})&lt;/gray&gt;&lt;/r&gt;" />
+</Node>
+<Node name="7iJGfO82bI5">
+    <Key key="Name" value="Tacos Gonados" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe3kxejS">
+    <Key key="Name" value="Contador de Ataque Principal" />
+    <Key key="Description" value="Total de Ataques: {{CurrentStack}}" />
+</Node>
+<Node name="7iJGe8rARJt">
+    <Key key="Name" value="Temporizador" />
+    <Key key="Description" value="Tiempo para detener el conteo" />
+</Node>
+<Node name="7iJGeDwMkx9">
+    <Key key="Name" value="Detener" />
+    <Key key="Description" value="Detén el ataque y espera 5 segundos para restaurar el contador" />
+</Node>
+<Node name="7iJGdtaexgm">
+    <Key key="Name" value="Calor de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}} salud máxima por segundo.&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}} maná máximo por segundo.&#xA;{{Modifiers.2.nm}} se incrementa en {{Data.0.FEI}}." />
+</Node>
+<Node name="7iJGdyfsJbt">
+    <Key key="Name" value="Calor de la Hoguera" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.FEI}}." />
+</Node>
+<Node name="7iJGdtbiMxT">
+    <Key key="Name" value="Empoderamiento de Racha de Asesinatos" />
+    <Key key="Description" value="El poder de ataque o el poder de hechizo (adaptativo) se incrementa en {{Data.0.ACP2}}" />
+</Node>
+<Node name="7h7vqFwNASk">
+    <Key key="Name" value="Filo Sediento de Sangre" />
+    <Key key="Description" value="{{Modifiers.0.nm}}/{{Modifiers.1.nm}} se incrementa en {{Data.0.AC1}}." />
+</Node>
+<Node name="7iJGdtbOiSg">
+    <Key key="Name" value="Depredador" />
+    <Key key="Description" value="Recibe más daño de Depredador" />
+</Node>
+<Node name="7iJGdygeBnW" />
+<Node name="Wgx5PC">
+    <Key key="Name" value="Flujo de Maná" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="bnA1j9">
+    <Key key="Name" value="Poder Concentrado" />
+    <Key key="Description" value="El daño de la habilidad se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7h7vqL1Mnzi">
+    <Key key="Name" value="Cascada de Crono" />
+    <Key key="Description" value="Al usar una habilidad, reduce el tiempo de reutilización restante de otras habilidades en 1 segundo." />
+</Node>
+<Node name="FH9SVx">
+    <Key key="Name" value="Defensor Firme" />
+    <Key key="Description" value="{{Modifiers.0.nm}} y {{Modifiers.1.nm}} se incrementan en {{Modifiers.0.val}}" />
+</Node>
+<Node name="2E5Uu1uRdUC">
+    <Key key="Name" value="Indomable" />
+    <Key key="Description" value="No puede recibir un golpe crítico." />
+</Node>
+<Node name="UzRScx">
+    <Key key="Name" value="Escape Desesperado" />
+    <Key key="Description" value="Invisibilidad." />
+</Node>
+<Node name="2E5Uu1phiGK">
+    <Key key="Name" value="Asalto Implacable" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtbHtry">
+    <Key key="Name" value="Reflejos Felinos" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtarR3r">
+    <Key key="Name" value="Saltos y Límites" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGdyg4XIJ">
+    <Key key="Name" value="Desatado" />
+    <Key key="Description" value="Inmunidad a efectos que impiden el movimiento." />
+</Node>
+<Node name="7iJGe3mLN7y" />
+<Node name="7iJGe8re5rq">
+    <Key key="Name" value="Maestría de Alcance" />
+    <Key key="Description" value="Al alcanzar 5 cargas, la próxima habilidad ganará 3 metros en su rango de aplicación." />
+</Node>
+<Node name="7iJGeDwwtJJ">
+    <Key key="Name" value="Maestría de Alcance" />
+    <Key key="Description" value="El rango de las habilidades se incrementa en 3 metros." />
+</Node>
+<Node name="7iJGdyhZJXu">
+    <Key key="Name" value="Maestría de Alcance" />
+    <Key key="Description" value="El rango de las habilidades se incrementa en 3 metros." />
+</Node>
+<Node name="7iJGdtbDtUy" />
+<Node name="7h7vqfLSXmH">
+    <Key key="Name" value="111у" />
+</Node>
+<Node name="6GUsrm">
+    <Key key="Name" value="Surge Represalia" />
+    <Key key="Description" value="Refleja el daño de los ataques automáticos." />
+</Node>
+<Node name="GR6TLd">
+    <Key key="Name" value="ввф" />
+</Node>
+<Node name="7h7vqQ5fpRD">
+    <Key key="Name" value="Tirador Estacionario" />
+    <Key key="Description" value="El rango de los ataques y habilidades se incrementa en 3m." />
+</Node>
+<Node name="7iJGdyhOAe2">
+    <Key key="Name" value="Sintonización Crítica" />
+    <Key key="Description" value="Cura {{Data.0.ADF}}." />
+</Node>
+<Node name="55wkJ0">
+    <Key key="Name" value="Lentitud" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}." />
+</Node>
+<Node name="ABA7Nu">
+    <Key key="Name" value="Raíz" />
+    <Key key="Description" value="Enraizado." />
+</Node>
+<Node name="FGOP5x">
+    <Key key="Name" value="Movilidad Desatada" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGdtaQUP6">
+    <Key key="Name" value="Venganza de los Interrumpidos" />
+    <Key key="Description" value="El daño de la habilidad se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGdtau9wC">
+    <Key key="Name" value="Retribución de Égida" />
+    <Key key="Description" value="Absorbe {{Data.0.Sh}} de daño." />
+</Node>
+<Node name="7iJGeyhIXeh" />
+<Node name="7iJGe8ryxF3">
+    <Key key="Name" value="1eee" />
+</Node>
+<Node name="7iJGdtbi5tz">
+    <Key key="Name" value="Rejuvenecimiento Purificante" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtakteg">
+    <Key key="Name" value="Transmutación Eldritch" />
+    <Key key="Description" value="El daño se incrementa en {{Modifiers.0.val}}.&#xA;El daño recibido se reduce en 10%." />
+</Node>
+<Node name="7iJGdtcpiEX">
+    <Key key="Name" value="Eco Protector" />
+    <Key key="Description" value="Absorbe {{Data.0.Sh}}." />
+</Node>
+<Node name="7iJGdtbJNLg">
+    <Key key="Name" value="Bastión Energizado" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtbR3LK">
+    <Key key="Name" value="Fortaleza Dinámica" />
+    <Key key="Description" value="{{Modifiers.0.nm}} o {{Modifiers.1.nm}} (adaptativo) se incrementa en {{Data.0.AC1}}.&#xA;" />
+</Node>
+<Node name="7iJGdtbRObS">
+    <Key key="Name" value="Táctica de Asalto Coordinado" />
+    <Key key="Description" value="Al alcanzar 3 cargas, el autoataque enemigo te aturdirá." />
+</Node>
+<Node name="1Af9Q32" />
+<Node name="7iJGdtbZRYS">
+    <Key key="Name" value="Experto en Control Duro" />
+    <Key key="Description" value="El próximo ataque contra ti cura al atacante un 5% de su salud máxima." />
+</Node>
+<Node name="ACin4r">
+    <Key key="Name" value="Actual" />
+</Node>
+<Node name="FHw7t5">
+    <Key key="Name" value="OBJETIVO" />
+</Node>
+<Node name="KN8dfe">
+    <Key key="Name" value="EMISOR" />
+</Node>
+<Node name="PSL6T7">
+    <Key key="Name" value="ARG!!!Emisor" />
+</Node>
+<Node name="UXXLia">
+    <Key key="Name" value="ARG!!!Objetivo" />
+</Node>
+<Node name="581r2k">
+    <Key key="Name" value="Invulnerabilidad" />
+    <Key key="Description" value="Invulnerabilidad." />
+</Node>
+<Node name="7iJGdtaNAf2">
+    <Key key="Name" value="Amplificar Debilidad" />
+    <Key key="Description" value="El daño recibido se incrementa en un 10%" />
+</Node>
+<Node name="7iJGe3mCNP9">
+    <Key key="Name" value="Maldición Debilitante" />
+    <Key key="Description" value="El daño infligido se reduce en un 10%" />
+</Node>
+<Node name="55mFvD">
+    <Key key="Name" value="Curación Focalizada" />
+    <Key key="Description" value="La curación y protección recibidas del emisor se incrementan en {{Data.0.ADF}}%" />
+</Node>
+<Node name="7iJGdtabzQ8">
+    <Key key="Name" value="Aterrizado" />
+    <Key key="Description" value="No puede usar habilidades de dash." />
+</Node>
+<Node name="7iJGdyg0fjS">
+    <Key key="Name" value="Desarmar" />
+    <Key key="Description" value="Desarmado." />
+</Node>
+<Node name="7iJGe3muQpS">
+    <Key key="Name" value="Sprint" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe3mG2Fd">
+    <Key key="Name" value="Miedo" />
+    <Key key="Description" value="Atemorizado" />
+</Node>
+<Node name="7iJGdyghwKs">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño por segundo." />
+</Node>
+<Node name="7iJGeDxO8Rg">
+    <Key key="Name" value="Chamán Q5" />
+    <Key key="Description" value="Puede usar volteretas." />
+</Node>
+<Node name="7iJGdtb0z9H" />
+<Node name="9cePIIciC37">
+    <Key key="Name" value="Asalto Implacable" />
+</Node>
+<Node name="7iJGdtcLeAC">
+    <Key key="Name" value="dasda" />
+</Node>
+<Node name="7iJGdyfipRI">
+    <Key key="Name" value="Descarga Eléctrica" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} cada 1 segundo." />
+</Node>
+<Node name="56vmTS">
+    <Key key="Name" value="Elemento de Fuego" />
+    <Key key="Description" value="Elemento de Fuego está activo." />
+</Node>
+<Node name="ACDGTA">
+    <Key key="Name" value="Elemento de Agua" />
+    <Key key="Description" value="Elemento de Agua está activo." />
+</Node>
+<Node name="FHPsJt">
+    <Key key="Name" value="Elemento de Tierra" />
+    <Key key="Description" value="Elemento de Agua está activo." />
+</Node>
+<Node name="57Bhtp">
+    <Key key="Name" value="Vigor del Depredador" />
+    <Key key="Description" value="El Vigor del Depredador se está enfriando." />
+</Node>
+<Node name="ACOAfG">
+    <Key key="Name" value="Precisión de Francotirador" />
+    <Key key="Description" value="Aumenta el daño dependiendo de la distancia al objetivo." />
+</Node>
+<Node name="FHaU9Y">
+    <Key key="Name" value="Compensación Armónica" />
+    <Key key="Description" value="Reduce el costo de recursos de las habilidades en un 10%." />
+</Node>
+<Node name="KMnyHD">
+    <Key key="Name" value="Redirección Etérica" />
+    <Key key="Description" value="El 10% del daño recibido se redirige a Maná en lugar de Salud." />
+</Node>
+<Node name="PS0RyS">
+    <Key key="Name" value="Reservorio Etérico" />
+    <Key key="Description" value="Aumenta el Maná máximo del personaje en un 10%." />
+</Node>
+<Node name="UXCrk1">
+    <Key key="Name" value="Sifón de Maná" />
+    <Key key="Description" value="Las habilidades que infligen daño restauran el 2% del daño infligido como Maná." />
+</Node>
+<Node name="ZcPAxv">
+    <Key key="Name" value="Perspicacia Arcana" />
+    <Key key="Description" value="Reduce el tiempo de reutilización de todas las habilidades en un 20%." />
+</Node>
+<Node name="ehbSrN">
+    <Key key="Name" value="Cascada de Crono" />
+    <Key key="Description" value="Al usar una habilidad, reduce el tiempo de reutilización restante de otras habilidades en 1 segundo." />
+</Node>
+<Node name="jnriby">
+    <Key key="Name" value="Compensación Armónica" />
+    <Key key="Description" value="Aumenta el poder de curación y escudo en un 10%, pero reduce el daño en un 10%." />
+</Node>
+<Node name="pt4BwN">
+    <Key key="Name" value="Fortificación Crono" />
+    <Key key="Description" value="La duración de los escudos aplicados por el personaje se duplica." />
+</Node>
+<Node name="uyGY5q">
+    <Key key="Name" value="Maestro del Escudo" />
+    <Key key="Description" value="Las habilidades del personaje que aplican escudos ahora tienen 2 cargas." />
+</Node>
+<Node name="103UpYK">
+    <Key key="Name" value="Baluarte" />
+    <Key key="Description" value="Todos los golpes críticos recibidos por el personaje tienen un multiplicador de daño crítico reducido del 50%." />
+</Node>
+<Node name="158hk6N">
+    <Key key="Name" value="Juggernaut" />
+    <Key key="Description" value="Aumenta la salud máxima del personaje en un 10%." />
+</Node>
+<Node name="1ADvCF8">
+    <Key key="Name" value="Tenacidad" />
+    <Key key="Description" value="Reduce la duración de los efectos de control de masas en el personaje en un 30%." />
+</Node>
+<Node name="1FJ9Gej">
+    <Key key="Name" value="Aumento de Fuerza Vital" />
+    <Key key="Description" value="El poder de ataque o el poder de hechizo (adaptativo) se incrementa en {{Data.0.ADF}}." />
+</Node>
+<Node name="1KOMFkk">
+    <Key key="Name" value="Sed de Sangre" />
+    <Key key="Description" value="El poder de ataque o el poder de hechizo (adaptativo) se incrementa en {{Data.0.ACP1}}." />
+</Node>
+<Node name="1PTZ2Sb">
+    <Key key="Name" value="Hogueras Acogedoras" />
+    <Key key="Description" value="Todas las hogueras tienen un efecto de detección de invisibilidad en un radio de 15 metros." />
+</Node>
+<Node name="1UYmSOb">
+    <Key key="Name" value="Prevención de Furtividad" />
+    <Key key="Description" value="El personaje no puede ser abordado sin ser notado, por lo tanto, todos los efectos de ataques por detrás y desde la invisibilidad no funcionan." />
+</Node>
+<Node name="1ZdyiNr">
+    <Key key="Name" value="Sistema de Mejora de Duración" />
+    <Key key="Description" value="Todos los efectos positivos de 1 minuto de duración o más en el personaje son un 20% más fuertes y duran un 40% más." />
+</Node>
+<Node name="5WNa6e">
+    <Key key="Name" value="Golpe Verdadero" />
+    <Key key="Description" value="El tercer ataque básico inflige un daño verdadero adicional." />
+</Node>
+<Node name="7iJGdtbOwy8">
+    <Key key="Name" value="Ataque Sorpresa" />
+    <Key key="Description" value="La probabilidad de crítico físico o mágico (adaptativo) se incrementa en un 30%." />
+</Node>
+<Node name="55DLwR">
+    <Key key="Name" value="Toque Purificador" />
+    <Key key="Description" value="Toque Purificador se está enfriando." />
+</Node>
+<Node name="AAQ24x">
+    <Key key="Name" value="Defensa Escudada" />
+    <Key key="Description" value="Defensa Escudada se está enfriando." />
+</Node>
+<Node name="FFcTU6">
+    <Key key="Name" value="Dolor Atrasado" />
+    <Key key="Description" value="Dolor Atrasado se está enfriando." />
+</Node>
+<Node name="7iJGdtayQhD">
+    <Key key="Name" value="Última Defensa" />
+    <Key key="Description" value="Última Defensa se está enfriando." />
+</Node>
+<Node name="7iJGdygB0pe">
+    <Key key="Name" value="Artista del Escape" />
+    <Key key="Description" value="Artista del Escape se está enfriando." />
+</Node>
+<Node name="7iJGe3mQUib">
+    <Key key="Name" value="Danza de las Sombras" />
+    <Key key="Description" value="Danza de las Sombras se está enfriando." />
+</Node>
+<Node name="7iJGe8reaH7">
+    <Key key="Name" value="Depredador" />
+    <Key key="Description" value="Depredador se está enfriando." />
+</Node>
+<Node name="7iJGeDwsBGq">
+    <Key key="Name" value="Escape Desesperado" />
+    <Key key="Description" value="Escape Desesperado se está enfriando." />
+</Node>
+<Node name="7iJGeJ24hSU">
+    <Key key="Name" value="Lento pero Seguro" />
+    <Key key="Description" value="Lento pero Seguro se está enfriando." />
+</Node>
+
+  
+  <Node name="7iJGeO7IjGV">
+    <Key key="Name" value="Guardián de lo Salvaje" />
+    <Key key="Description" value="Guardián de lo Salvaje se está enfriando." />
+</Node>
+<Node name="7iJGdta6B5j">
+    <Key key="Name" value="Tótem de Tierra" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe3kWnsi">
+    <Key key="Name" value="Tótem de Tierra" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdyfKLuh">
+    <Key key="Name" value="Tótem de Agua" />
+    <Key key="Description" value="Cura {{Data.0.ADF}} cada 0.75 segundos." />
+</Node>
+<Node name="7iJGe3nAx7e">
+    <Key key="Name" value="Lentitud" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtbkI3d">
+    <Key key="Name" value="Maestro" />
+</Node>
+<Node name="7iJGdygxYcw">
+    <Key key="Name" value="golpear Emisor" />
+</Node>
+<Node name="7iJGdtbxkid">
+    <Key key="Name" value="Belicista R1" />
+    <Key key="Description" value="Belicista R1" />
+</Node>
+<Node name="7iJGdyhA47y">
+    <Key key="Name" value="Belicista R2" />
+    <Key key="Description" value="Belicista R2" />
+</Node>
+<Node name="7iJGdtcfEab">
+    <Key key="Name" value="Belicista R1" />
+    <Key key="Description" value="Q potencia el próximo ataque automático dentro de 2 segundos.&#xD;&#xA;W otorga al chamán +100% a los beneficios de habilidades pasivas.&#xD;&#xA;E no tiene tiempo de reutilización.&#xA;Consume 10 maná por segundo." />
+</Node>
+<Node name="7iJGdyffwEY">
+    <Key key="Name" value="Marca de Vampirismo" />
+    <Key key="Description" value="Los enemigos tienen vampirismo aumentado al dañarte." />
+</Node>
+<Node name="7iJGdyfeZXF">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGeJ1mPPb">
+    <Key key="Name" value="Sangrar" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGf8sd5sP">
+    <Key key="Name" value="Raíz" />
+    <Key key="Description" value="Enraizado." />
+</Node>
+<Node name="FFiP9a">
+    <Key key="Name" value="Chamán R1" />
+    <Key key="Description" value="El siguiente ataque inflige {{Data.0.ADF}} de daño adicional." />
+</Node>
+<Node name="55I31W">
+    <Key key="Name" value="11111" />
+</Node>
+<Node name="2E5Uu1q1guM">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="7iJGdygLPGi" />
+<Node name="2E5UuC0SywV">
+    <Key key="Name" value="Romper Armadura" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}." />
+</Node>
+<Node name="3FLw9dk" />
+<Node name="3KR8Yum" />
+<Node name="7h7vrVInprj" />
+<Node name="7h7vqvbq8Gb" />
+<Node name="7iJGe3mBbc9">
+    <Key key="Name" value="Lentitud" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfJ438eN">
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+    <Key key="Name" value="Bayas y Crema de Flora" />
+</Node>
+<Node name="7iJGfTETSTY">
+    <Key key="Name" value="Chokwalatte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe8s4BIO">
+    <Key key="Name" value="Ensalada de Sandía de Hoja Lure" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdygdcXd">
+    <Key key="Name" value="Nuggets de Quillperl" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeJ2UNbK">
+    <Key key="Name" value="Pollo de Globo Flora" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfDyqbQf">
+    <Key key="Name" value="Festín de Costillas de Gemnut" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGfO9FtiD">
+    <Key key="Name" value="Pastel de Roble" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="C47apatZPNv" />
+<Node name="7iJGe3mrjn4">
+    <Key key="Name" value="Calabaza Rellena de Hoja de Velo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeDxGe9P">
+    <Key key="Name" value="Cazuela de Thornorb" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe3mCDjU">
+    <Key key="Name" value="Ensalada de la Suerte" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Data.0.AC1}}" />
+</Node>
+<Node name="7iJGe8rJQTd">
+    <Key key="Name" value="Enfriamiento de Belicista R1" />
+    <Key key="Description" value="Belicista R1 se está enfriando." />
+</Node>
+<Node name="7iJGeDwVmpf">
+    <Key key="Name" value="Belicista R2" />
+    <Key key="Description" value="Belicista R2 se está enfriando." />
+</Node>
+<Node name="7iJGeJ1hxaS">
+    <Key key="Name" value="Garra Poderosa" />
+    <Key key="Description" value="La Garra Poderosa del Lobo se está enfriando." />
+</Node>
+<Node name="7iJGdtc2AUE">
+    <Key key="Name" value="Belicista R2" />
+    <Key key="Description" value="El lobo invocado obtiene estadísticas aumentadas, crece en tamaño y genera más amenaza.&#xA;Consume 10 de maná por segundo." />
+</Node>
+<Node name="7iJGdtarPtO">
+    <Key key="Name" value="Flecha Venenosa" />
+    <Key key="Description" value="Flecha Venenosa Lista" />
+</Node>
+<Node name="7iJGdyg6EHK">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} cada 1 segundo mientras el objetivo está envenenado." />
+</Node>
+<Node name="7iJGdygeQCs">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="7iJGdtakP4M" />
+<Node name="7iJGdtdHCSj">
+    <Key key="Name" value="Sigilo" />
+    <Key key="Description" value="En Sigilo." />
+</Node>
+<Node name="7iJGdyfxhRi">
+    <Key key="Name" value="Dulce de Caramelo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGeDwfgWy">
+    <Key key="Name" value="Pescado Radioactivo" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGdtaJOxU">
+    <Key key="Name" value="Camuflaje" />
+    <Key key="Description" value="El Camuflaje se está preparando." />
+</Node>
+<Node name="7iJGdyfyHJa">
+    <Key key="Name" value="Cegar" />
+    <Key key="Description" value="Cegado." />
+</Node>
+<Node name="7iJGdtcm0Ze">
+    <Key key="Name" value="Resistencia a la Lentitud" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGdyhzNtb">
+    <Key key="Name" value="Sprint" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGdyhpELr">
+    <Key key="Name" value="Desarmar" />
+    <Key key="Description" value="Desarmado." />
+</Node>
+<Node name="7iJGdtcZmd9">
+    <Key key="Name" value="Daga Caída." />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGdtbLE8Y">
+    <Key key="Name" value="Protección de Sacrificio" />
+    <Key key="Description" value="Redirige el 50% del daño al Legionario." />
+</Node>
+<Node name="7iJGdtb3IQM">
+    <Key key="Name" value="Turbulencia" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se reduce en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGdtdIN9Q">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="{{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGdyiX1Kf">
+    <Key key="Name" value="Sprint" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe8tyiVM">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="{{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGdygYUfL">
+    <Key key="Name" value="Sprint" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="2E5Uu2jQKte">
+    <Key key="Name" value="Turbulencia" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe3i2QrU">
+    <Key key="Name" value="Eliminación" />
+    <Key key="Description" value="Puede arrancar las dagas de la víctima." />
+</Node>
+<Node name="7iJGdtbJS8R">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGeDxm6rL">
+    <Key key="Name" value="Corrupción" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGdtaTg4K">
+    <Key key="Name" value="Enfriamiento de Belicista R2" />
+    <Key key="Description" value="Belicista R2 se está enfriando." />
+</Node>
+<Node name="7ZeLZp" />
+<Node name="7h7vqFwrROs" />
+<Node name="7iJGdtbasnw">
+    <Key key="Name" value="Invisibilidad" />
+    <Key key="Description" value="Invisibilidad." />
+</Node>
+<Node name="2E5Uu6tQNMO">
+    <Key key="Name" value="Miedo" />
+    <Key key="Description" value="Miedo." />
+</Node>
+<Node name="2E5UuC08fc7">
+    <Key key="Name" value="Miedo" />
+    <Key key="Description" value="Atemorizado." />
+</Node>
+<Node name="Uk526I" />
+<Node name="7iJGdtagtZb" />
+<Node name="7iJGe3m0bMg">
+    <Key key="Description" value="{{Data.0.T}}" />
+</Node>
+<Node name="7iJGdtb3WD2">
+    <Key key="Name" value="Protección de Sacrificio" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xD;&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}.&#xD;&#xA;{{Modifiers.2.nm}} se incrementa en {{Modifiers.2.val}}.&#xD;" />
+</Node>
+<Node name="7iJGdtd5Bgy">
+    <Key key="Name" value="Minas Temibles" />
+    <Key key="Description" value="Si un bombardero te dispara, la mina detona y te atemoriza durante 2 segundos." />
+</Node>
+<Node name="7iJGe3iXyb6">
+    <Key key="Name" value="Miedo" />
+    <Key key="Description" value="Miedo." />
+</Node>
+<Node name="7iJGdyi3ifK">
+    <Key key="Name" value="Ecos de Protección" />
+    <Key key="Description" value="Las minas se están cargando." />
+</Node>
+<Node name="HOTtGe" />
+<Node name="erRNfe" />
+<Node name="9cePIIcg17j">
+    <Key key="Name" value="Escudo Espejo" />
+    <Key key="Description" value="Refleja el daño de la siguiente habilidad." />
+</Node>
+<Node name="7iJGdtbRuWj">
+    <Key key="Name" value="Fogatas Acogedoras" />
+    <Key key="Description" value="Visible para el Creador de la Fogata." />
+</Node>
+<Node name="7iJGdtaniQ3">
+    <Key key="Name" value="Raíz" />
+    <Key key="Description" value="Enraizado." />
+</Node>
+<Node name="7iJGdyfzuLZ">
+    <Key key="Name" value="Raíz" />
+    <Key key="Description" value="Enraizado." />
+</Node>
+<Node name="7iJGdtbbiiC">
+    <Key key="Name" value="Reflejos Fantasmales" />
+    <Key key="Description" value="Reflejos Fantasmales se está enfriando." />
+</Node>
+<Node name="7iJGdtaNQfj">
+    <Key key="Name" value="Silencio" />
+    <Key key="Description" value="Silencio." />
+</Node>
+<Node name="7iJGdyfatEO">
+    <Key key="Name" value="Drenaje de Vida" />
+</Node>
+<Node name="7iJGdtbvvUC">
+    <Key key="Name" value="Detección" />
+</Node>
+<Node name="7iJGdyh8OI9">
+    <Key key="Name" value="exclamación" />
+</Node>
+<Node name="7iJGe3nKzZX">
+    <Key key="Name" value="advertencia" />
+</Node>
+<Node name="7iJGe8s9gU5">
+    <Key key="Name" value="Quemar" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGdtdSnDv">
+    <Key key="Name" value="Quemar" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGdtaLGsm">
+    <Key key="Name" value="Subidón de Dopamina" />
+    <Key key="Description" value="Cura {{Data.0.ADF}} por 1 segundo." />
+</Node>
+<Node name="9cePINhgFyb">
+    <Key key="Name" value="Hongos Curativos" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}&#xA;" />
+</Node>
+<Node name="7iJGdygUcS1">
+    <Key key="Name" value="222" />
+</Node>
+<Node name="7iJGdtbGv0q">
+    <Key key="Name" value="2222" />
+</Node>
+<Node name="9cePIIcz9gF">
+    <Key key="Name" value="Hemorragia" />
+    <Key key="Description" value="Roba el 2% de la salud máxima por segundo." />
+</Node>
+<Node name="7iJGe3m3MLL">
+    <Key key="Name" value="Capullo" />
+    <Key key="Description" value="Inflige {{Data.0.AV}} cada 1 segundo." />
+</Node>
+<Node name="7iJGe3mVQR7">
+    <Key key="Name" value="CAMPO DE BATALLA DEL REY (ORIENTADO A PVP)" />
+    <Key key="Description" value="• 10 Honor otorgado por cada asesinato en PvP&#xA;• No se pierde Karma por cada asesinato en PvP&#xA;• Pierde 5 artículos aleatorios y 5 honor al morir&#xA;• El estado criminal no se aplica aquí&#xA;• Los mobs dejan caer artículos comerciables&#xA;• Matar a un mob otorga una gran cantidad de karma&#xA;• Los cofres contienen armas, artefactos, chips, runas y consumibles&#xA;• Teleportación permitida solo en santuarios." />
+</Node>
+<Node name="7iJGdygJDp6">
+    <Key key="Name" value="TIERRAS PROTEGIDAS POR LA LEY DEL REY (ORIENTADO A PVE)" />
+    <Key key="Description" value="• No se otorga Honor por actividad en PvP&#xD;&#xA;• El agresor pierde 500 de karma por cada asesinato en PvP&#xD;&#xA;• Pierde 1 recurso aleatorio del inventario al morir&#xD;&#xA;• Estado criminal otorgado con 1000 de karma&#xD;&#xA;• Los criminales pierden todo el botín al morir&#xD;&#xA;• Los mobs dejan caer oro&#xD;&#xA;• Matar a un mob otorga una pequeña cantidad de karma&#xD;&#xA;• Los cofres contienen aspectos, oro, recetas y consumibles&#xD;&#xA;• Teleportación permitida en todas partes." />
+</Node>
+<Node name="7iJGdtb56SS">
+    <Key key="Name" value="ZONA SEGURA (ORIENTADO A PVE)" />
+    <Key key="Description" value="• No se otorga Honor por actividad en PvP&#xA;• El agresor pierde 500 de karma por cada asesinato en PvP&#xA;• Pierde 1 recurso aleatorio del inventario al morir&#xA;• Estado criminal otorgado con 1000 de karma&#xA;• Los criminales pierden todo el botín al morir&#xA;• Los mobs dejan caer oro&#xA;• Matar a un mob otorga una pequeña cantidad de karma&#xA;• Los cofres contienen aspectos, oro, recetas y consumibles&#xA;• Teleportación permitida en todas partes." />
+</Node>
+<Node name="7iJGeJ1Fgcp">
+    <Key key="Name" value="Parálisis" />
+    <Key key="Description" value="Paralizado." />
+</Node>
+<Node name="7iJGeDw1jx3">
+    <Key key="Name" value="Neurotix" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se reduce en {{Modifiers.1.val}}&#xA;{{Modifiers.2.nm}} se reduce en {{Modifiers.2.val}}" />
+</Node>
+<Node name="7iJGdta891Z">
+    <Key key="Name" value="Telaraña" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGdtbOZ8h">
+    <Key key="Name" value="Telaraña" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGdygajTt">
+    <Key key="Name" value="Telaraña" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se incrementa en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGdyfzan9">
+    <Key key="Name" value="Enfurecimiento de la Reina Araña" />
+    <Key key="Description" value="Enfurecido." />
+</Node>
+<Node name="7iJGeDwRrDd">
+    <Key key="Name" value="Veneno Mortal" />
+    <Key key="Description" value="Inflige {{Data.0.AV}} cada 1 segundo." />
+</Node>
+<Node name="7iJGdtax4Vw">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño cada 1 segundo." />
+</Node>
+<Node name="7iJGdtaAVy1" />
+<Node name="7iJGdyiLGNI" />
+<Node name="7iJGdyg36vu" />
+<Node name="AP8uGk" />
+<Node name="7iJGdtbM3rI" />
+<Node name="7iJGdyfmbcA" />
+<Node name="7iJGe8sYGbi" />
+<Node name="7iJGe3kk46f" />
+<Node name="7iJGeDxm6tu" />
+<Node name="7iJGdtbPHBj" />
+<Node name="7iJGdtaRSy2" />
+<Node name="7iJGdtbMa2w" />
+<Node name="7iJGeO77p3g" />
+<Node name="7iJGdtbj7H3" />
+<Node name="7iJGeO83iaG" />
+<Node name="5FiO4C" />
+<Node name="7iJGdtasHhz">
+    <Key key="Name" value="Raíz" />
+    <Key key="Description" value="Enraizado." />
+</Node>
+<Node name="7iJGeYIhP7A">
+    <Key key="Name" value="Armadura con Púas" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}.&#xA;El daño de sangrado se incrementa en un 100%" />
+</Node>
+<Node name="7iJGdtbUxZL">
+    <Key key="Name" value="Asalto Acelerado" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}" />
+</Node>
+<Node name="7iJGe3khi9C">
+    <Key key="Name" value="Enfurecimiento" />
+    <Key key="Description" value="Enfurecido." />
+</Node>
+<Node name="7iJGe3ku9Br">
+    <Key key="Name" value="Gel Ácido" />
+    <Key key="Description" value="Inflige {{Data.0.ADF}} de daño y corrompe la armadura cada 0.5 segundos&#xA;" />
+</Node>
+<Node name="7iJGe8r9kik">
+    <Key key="Name" value="Armadura Corrupta" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se reduce en {{Modifiers.0.val}}&#xA;{{Modifiers.1.nm}} se reduce en {{Modifiers.1.val}}" />
+</Node>
+<Node name="7iJGdygMLwe">
+    <Key key="Name" value="Aturdir" />
+    <Key key="Description" value="Aturdido." />
+</Node>
+<Node name="A8a7MeI7GnH">
+    <Key key="Name" value="Motocicleta" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGe3iNKiO">
+    <Key key="Name" value="Motocicleta" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGeJ3zmUS">
+    <Key key="Name" value="Motocicleta" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+<Node name="7iJGeYJaVvH">
+    <Key key="Name" value="Motocicleta" />
+    <Key key="Description" value="{{Modifiers.0.nm}} se incrementa en {{Modifiers.0.val}}." />
+</Node>
+</Category>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_buck" type="external">
+  <Key key="_npc_Who__me__Uh____maybe_we_skip_t" value="Qui, moi?Euh ... peut-être que nous ignorons les noms." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_See__my_buddies_dared_me_to_do" value="Vous voyez, mes copains m'ont osé faire quelque chose de stupide." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Go_steal_some_fruit__It_ll_get" value="Allez voler des fruits!Ça nous fera tous haut!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_And_now_I_m_stuck_in_this_sill" value="Et maintenant, je suis coincé dans ce costume de lapin idiot, comme s'il ne pouvait pas empirer." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_They_ditched_me_here__laughing" value="Ils m'ont abandonné ici, riant tout le chemin du retour." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_But_you_know_what__Two_can_pla" value="Mais tu sais quoi? C'est un jeu qui se joue à deux." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_I_m_gonna_get_them_back_so_goo" value="Je vais les récupérer si bien, ils ne le verront jamais venir!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_So__yeah__that_s_me_normal_kid" value="Donc, oui, c'est moi gamin normal, farceur épique, prêt à se venger." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Oh_man__things_just_got_real_" value="Oh mec, les choses sont devenues réelles." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_After_they_ditched_me__I_was_t" value="Après m'avoir abandonné, j'étais totalement cuit à la vapeur, non?" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_But_then_it_hit_me__like_a_gli" value="Mais ensuite, ça m'a frappé, comme un problème dans la matrice." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_I_cooked_up_the_most_epic_pran" value="J'ai préparé la farce la plus épique de tous les temps." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_We_re_talking_next_level_stuff" value="Nous parlons de trucs de niveau supérieur, pas de casquette." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_They_won_t_even_know_what_hit_" value="Ils ne sauront même pas ce qui les a frappés." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_It_s_risky__sure__might_even_g" value="C'est risqué, bien sûr, pourrait même sortir des rails." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_But_trust_me__karma_s_a_wicked" value="Mais croyez-moi, Karma est une bête méchante." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Can_t_wait_to_see_their_faces_" value="J'ai hâte de voir leurs visages!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_So_yeah__feeling_pretty_awesom" value="Alors oui, se sentant assez génial, je ne vais pas mentir." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_You_don_t_know__Dude__this_is_" value="Tu ne sais pas?Mec, voici le champ violet des mauvaises herbes." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_It_s_where_the_magic_happens__" value="C'est là que la magie se produit, littéralement!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_These_plants_grow_some_wild_fr" value="Ces plantes poussent des fruits sauvages que vous ne trouvez nulle part ailleurs à Elan." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_They_re__like__totally_trippy_" value="Ils sont, comme, un désordre totalement trippant avec votre esprit un peu des trucs." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_People_come_here_for_the_fruit" value="Les gens viennent ici pour les fruits et restent pour l'aventure, si vous attrapez ma dérive." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_But_watch_out__it_s_kinda_dang" value="Mais attention, c'est un peu dangereux si vous ne faites pas attention." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Heard_some_people_saw_dragons_" value="J'ai entendu que certaines personnes avaient vu des dragons ou quoi que ce soit après avoir mangé le fruit." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Nah__got_it_covered_" value="Non, je l'ai couvert." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Don_t_worry__I_m_on_it_" value="Ne vous inquiétez pas, je suis là-dessus." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Handling_it_solo__thanks_" value="Le manipuler en solo, merci." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Appreciate_the_offer__but_I_m_" value="Appréciez l'offre, mais je vais bien." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_No_need__I_ve_got_my_plan_all_" value="Pas besoin, j'ai mon plan tous." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Bruh__you_gotta_help_" value="Bruh, tu dois aider." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_This_prank_is_gonna_be_lit_" value="Cette farce va être allumée!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Just_cracked_the_code__need_yo" value="Je viens de craquer le code, besoin de vos compétences." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Fam__you_in_for_some_epic_payb" value="Fam, vous pour un retour sur investissement épique?" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Yo__this_is_gonna_be_fire__nee" value="Yo, ça va être le feu, besoin de votre aide!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+</Node>

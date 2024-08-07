@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mining_lesson" type="external">
+  <Key key="_npc_Impressive_work__outworlder__M" value="Impresionante trabajo, Outworlder!Tal vez uno de tu tipo tiene potencial." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goalVoice_ILEz" value="Recuerde, extraiga al cristal suave de las venas de cristal suave y conviértalo en relleno de polvo.Y importa las criaturas." voice="Male" />
+  <Key key="_npc_Right_on__I_knew_you_had_it_in" value="¡Tocar el asunto exacto!Sabía que lo tenías en ti." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Remember__extract_Soft_Crystal" value="Recuerde, extraiga al cristal suave de las venas de cristal suave y conviértalo en relleno de polvo.Y importa las criaturas." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Quit_lollygagging_and_get_me_t" value="¡Deja de relleno de lollygaging y consígueme ese relleno de polvo!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_collect_resources" value="Relleno de polvo" />
+  <Key key="_QuestActionAddToJournal_JK6r" value="Ironvein thordal&#10;Goldenfield, cerca de la estación de combustible&#10;&#10;Demuestre su valor extrayendo cristal suave de las venas de cristal suave y procesándolo en relleno de polvo." />
+  <Key key="_npc_I_ve_seen_snails_move_faster_t" value="He visto que los caracoles se mueven más rápido que tú.¡Manos a la obra!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_What_s_taking_you_so_long__Get" value="¿Que te esta tomando tanto tiempo?Obtenga ese relleno de polvo ya." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Oh__and_one_more_thing__Alchem" value="Ah, y una cosa más.Los alquimistas no pueden tener suficiente de estas cosas de relleno de polvo." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Beats_me_why__Maybe_they_snort" value="Me supera por qué!Tal vez lo resoplen o lo espolvoren sobre sus traseros." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_All_I_know_is_they_pay_well_fo" value="Todo lo que sé es que pagan bien por ello.Así que déjame darte un corte de las ganancias ..." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

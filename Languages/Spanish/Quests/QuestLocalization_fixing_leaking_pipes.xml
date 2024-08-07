@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fixing_leaking_pipes" type="external">
+  <Key key="_npc_Good__Oh__and_turn_off_the_wat" value="¡Bien!¡Ah, y apague el suministro de agua primero!Vuelva a encender después de la reparación." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_varDescription_XSCC" value="Arreglar tuberías de fuga" />
+  <Key key="_npc_You_actually_did_some_good_wor" value="En realidad hiciste un buen trabajo.Aparte de aplastar la mitad de mis cultivos." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Remember__the_sooner_we_fix_th" value="Recuerde, cuanto antes arreglemos las fugas, antes puedo dejar de insistir." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_goal_turn_off_water" value="Apague el suministro de agua" />
+  <Key key="_QuestActionAddToJournal_PMMC" value="Kicheki&#10;Goldenfield, al sureste del pozo&#10;&#10;Apague el suministro de agua y reemplace las tuberías con fugas con otras nuevas.Vuelva a encenderlo después de la reparación." />
+  <Key key="_goalVoice_OmjH" value="Encuentre y reemplace las tuberías con fugas con otras nuevas.Por lo general, puede encontrarlos en barriles o cajas.¡Ah, y apague el suministro de agua primero!Volver a encenderlo después de la reparación" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_What__What_are_you_waiting_for" value="¿Qué?¿Que estas esperando?¿Quieres una ducha dorada también?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Don_t_forget_those_pipes__outw" value="No olvides esas tuberías, Outworlder.Tus Hadnouts están contando en eso." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Found_those_pipes_yet__Clock_s" value="Encontré esas tuberías todavía?Reloj está tickin '." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_goal_turn_on_water" value="Encienda el suministro de agua" />
+  <Key key="_goal_repair_pipes" value=" " />
+  <Key key="_npc_Maybe_not_all_of_you_outworlde" value="Tal vez no todos ustedes Outworlders son basura.Cuidarse." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_After_the_repair__follow_the_p" value="Después de la reparación, siga las tuberías y fije las fugas.Está justo a mi lado al oeste.¿Eres ciego, niño?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+</Node>

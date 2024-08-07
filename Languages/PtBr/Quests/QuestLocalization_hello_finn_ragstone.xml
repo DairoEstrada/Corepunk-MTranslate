@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_finn_ragstone" type="external">
-  <Key key="_npc_Greetings_" value="Saudações." />
-  <Key key="_npc_Hail__traveler_" value="Salve, viajante." />
-  <Key key="_npc_Well_met_" value="Well met." />
-  <Key key="_npc_Good_day_" value="Bom dia." />
-  <Key key="_npc_Hey_there_" value="Ei." />
-</Node>

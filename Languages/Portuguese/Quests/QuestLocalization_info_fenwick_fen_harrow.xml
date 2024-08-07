@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_fenwick_fen_harrow" type="external">
+  <Key key="_npc_I_m_Fenwick__just_call_me_Fen_" value="Eu sou fenwick, apenas me chame de fen.Isso é o que Grommuk me chama." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I____used_to_be_an_engineer__I" value="Eu ... costumava ser engenheiro, eu acho.Talvez um chef?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_hit_my_pretty_badly_when_I_g" value="Eu bati muito bem no meu quando cheguei aqui, e agora não me lembro muito." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Grommuk_found_me_wandering__no" value="Grommuk me encontrou vagando, agora trabalho aqui na serraria." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_think_I_m_okay__just____tryi" value="I think I m okay, just... trying to piece things together." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Life_is_a_puzzle_right_now__bu" value="A vida é um quebra -cabeça agora, mas tenho meu trabalho para me manter em andamento." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Can_t_remember__I_often_forget" value="Não me lembro.Costumo esquecer as coisas ... pessoas ... é realmente um problema." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Sometimes_I_do_remember_how_to" value="Às vezes me lembro de como construir máquinas.Incríveis!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_ve_been_trying_different_ber" value="Eu tenho tentado diferentes bagas e cogumelos ao redor da floresta na esperança de que ajudem." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_found_a_few_mushrooms_earlie" value="Encontrei alguns cogumelos hoje cedo que me fizeram sentir ... especial." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Have_you_asked_me_this_before_" value="Você já me perguntou isso antes?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_That_s_a_great_question__Some_" value="Essa é uma ótima pergunta.Algum tipo de serraria, eu acho.O que eu estava fazendo?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_You_should_ask_Eamon__He_proba" value="Você deve perguntar a Eamon.Ele provavelmente sabe mais do que eu." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Assuming_he_isn_t_drunk_right_" value="Supondo que ele não esteja bêbado agora." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_We_cut_uh____stone_here__Wait_" value="Nós cortamos uh ... pedra aqui.Espere, não, é madeira!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Well__there_are_trees__and_I_t" value="Bem, existem árvores, e acho que elas as cortam.E ... eu os cortei!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_bet_I_could_build_some_kinda" value="Aposto que poderia construir algum tipo de robô para acelerar isso ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_think_I_needed_help_with_som" value="I think I needed help with something..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Maybe__I_feel_like_there_was_s" value="Talvez?Eu sinto que havia algo que eu precisava ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Uh__let_me_think____Yeah_" value="Uh, deixe -me pensar ... sim." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_feel_like_I_could_use_help__" value="Eu sinto que poderia usar ajuda ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_don_t_think_so__but_I_could_" value="Acho que não, mas eu poderia estar errado." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_can_t_remember_needing_help_" value="Não me lembro de precisar de ajuda agora ... talvez mais tarde?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Probably_not_" value="Probably not." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_had_something_to_do__but____" value="Eu tinha algo para fazer, mas ... o quê?Acho que não era importante." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+</Node>

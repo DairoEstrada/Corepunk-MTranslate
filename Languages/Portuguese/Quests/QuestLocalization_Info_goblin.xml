@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_Info_goblin" type="external">
+  <Key key="who_are_u_answer" value="Aparentemente, o cara que todo mundo precisa quando um portal interdimensional se abre do nada perto de uma vila sonolenta." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="what_is_this_place_answer" value="Meh, apenas uma pequena vila, chamada Goldenfield." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_His_camp_is_pretty_close__Mayb" value="Seu acampamento está bem perto.Talvez você possa incomodá -lo." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Get_outta__here__Head_north_al" value="Saia daqui.Siga para o norte ao longo do caminho e fique de olho em um sujeito chamado Maxwell." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Wait__you_must_be_asking_about" value="Espere, você deve estar perguntando sobre toda a área.Bem, você está no Grande Reino de Elan, onde as oportunidades são infinitas e os impostos são baixos." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Who_else_would_greet_outworlde" value="Quem mais pode cumprimentar os Outworlders e eu?Espere, eu o cumprimentei quando você veio aqui?Caso contrário, saudações, outworlder!" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Think_I_m_gonna_treat_you_bett" value="Acha que vou te tratar melhor agora que você perguntou?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Get_used_to_it__you_ain_t_goin" value="Acostume -se a isso, você não está voltando para casa." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc__Wait__you_must_be_asking_abou" value="Espere, você deve estar perguntando sobre todo o plano de existência.Você está em Kwalat, o lixo do Multiverse." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+</Node>

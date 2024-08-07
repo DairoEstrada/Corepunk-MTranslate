@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_portal_perils" type="external">
+  <Key key="_npc_Spiffy__Go_squeeze_some_blood_" value="Spiffy! Go squeeze some blood from a log!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Now_if_you_hear_screams__don_t" value="Agora, se você ouvir gritos, não se preocupe, é apenas o aquecimento do portal." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_Haha__you_re_back__and_not_a_s" value="Haha, você está de volta, e não um arranhão em você!Ou esse é o seu sangue?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Well__I_ll_find_out_if_the_por" value="Bem, vou descobrir se o portal não abrir." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Hey_hey__look_who_s_back__How_" value="Ei ei, olhe quem está de volta!Como foi o banho de sangue?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_In_the_meantime__let_s_move_to" value="Enquanto isso, vamos para o próximo ritual!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_talk_npc" value="Retorne ao Driscoll-99" />
+  <Key key="_npc_Is_this_my__Herbal_delivery___" value="Esta é a minha [entrega de ervas]?Excelente!Esta é a minha primeira vez usando o suplemento [herbal]." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_collect_old_portal" value="Colete artefato do portal antigo" />
+  <Key key="_npc_You_re_looking_for_a_special_a" value="Você está procurando uma peça de artefato especial?Bem, boas notícias!Eu tenho o que você está procurando." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_You_see__the_old_portal_here_h" value="Veja bem, o antigo portal aqui está com defeito desde que foi destruído naquele incidente." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_need_a_very_peculiar_rituals" value="Eu preciso de rituais muito peculiares para recuperar as coisas.Muitos deles envolvem matar e sangue!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Right_now__I_need_you_to_colle" value="No momento, preciso que você colete 5 âmbar assassinando madeiras!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Help_me__and_I_ll_give_you_wha" value="Ajude -me, e eu te darei o que você quer.Isso é um [acordo]?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goalVoice_Don_t_forget__we_need_those_Ti" value="Não se esqueça, precisamos que aquelas madeiras mortas para avançar!Tire o âmbar de seus cadáveres e traga -o de volta para mim.Você também pode obtê -lo sem matar, mas isso não parece divertido!É um ritual vital para reiniciar o portal.Tente não obter lascas de madeira em uma ferida aberta!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_QuestActionAddToJournal_Driscoll_99_Westwind_Woods__Ol" value="Driscoll-99&#10;Westwind Woods, portal antigo.&#10;&#10;Ajude o Driscoll-99 na reparação do portal antigo, coletando 5 rostos de madeira roubados por madeiras." />
+  <Key key="_varDescription_Collect_Wooden_faces" value="Colete rostos de madeira" />
+  <Key key="_npc_Oh__no_worries__I_guess_wrestl" value="Oh, não se preocupe!Eu acho que lutar com demônios não estava na sua lista de tarefas hoje!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_That_s_fine__Perhaps_you_re_sa" value="Isso é bom!Talvez você esteja salvando seus heroicos por outra hora." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Of_course__take_your_time__Por" value="Claro, tome seu tempo!Afinal, a fixação do portal não é a xícara de chá de todos!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_No_problem__I_m_sure_the_porta" value="Sem problemas!Tenho certeza de que o portal e seus pequenos monstros não se importarão de esperar." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+</Node>

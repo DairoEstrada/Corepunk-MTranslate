@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dopy" type="external">
+  <Key key="_npc_Oh__um__I_m_DOPY__short_for_Do" value="Oh, hum, eu sou más, abreviado para o BOT de observância idiota." />
+  <Key key="_npc_They_built_me_to_scan_newcomer" value="Eles me construíram para examinar os recém -chegados aqui no Riverrise, mas uh ... eu fico um pouco distraído." />
+  <Key key="_npc_Apparently__there_was_a_glitch" value="Aparentemente, houve uma falha na minha fiação, então eu sou idiota na maioria das vezes." />
+  <Key key="_npc_But_hey__scanning_is_my_game__" value="Mas ei, a digitalização é o meu jogo, mesmo que às vezes esqueça por que estou aqui!" />
+  <Key key="_npc_Oh__I_m__uh__doing____somethin" value="Oh, I'm, uh, doing... something?" />
+  <Key key="_npc_Just_hanging_around__you_know_" value="Só por aí, você sabe, digitalizando coisas." />
+  <Key key="_npc_Sometimes_I_forget_what_I_m_su" value="Às vezes eu esqueço o que devo fazer, mas não se preocupe!" />
+  <Key key="_npc_Feelin__a_bit_dopey_as_usual__" value="Feelin' a bit dopey as usual, but still ticking!" />
+  <Key key="_npc_Oh__this__This_is_the_East_pie" value="Oh, isso?Este é o píer leste ... eu acho." />
+  <Key key="_npc_We_re_in_Riverrise__right__Yes" value="Estamos no RiverRise, certo?Sim, definitivamente o RiverRise na Ilha Whisperwind." />
+  <Key key="_npc_It_s_a_bustling_town_full_of_c" value="É uma cidade movimentada cheia de artesãos e, hum, outras pessoas interessantes." />
+  <Key key="_npc_I_m_supposed_to_scan_newcomers" value="Eu devo escanear os recém -chegados aqui, mas uau, olhe para essas nuvens!" />
+  <Key key="_npc_No_oops__Not_right_now_" value="NO-OOPS!Não agora." />
+  <Key key="_npc_All_good__I_think_" value="Tudo certo!Eu penso?" />
+  <Key key="_npc_Uh__I_think_I_ve_got_this____m" value="Uh, I think I ve got this... maybe." />
+  <Key key="_npc_Nope__Everything_s____wait__wh" value="Não!Tudo é ... espere, qual foi a pergunta?" />
+  <Key key="_npc_Uh__yeah__I_think_so____probab" value="Uh, sim?Eu acho que sim ... provavelmente ..." />
+  <Key key="_npc_Sure__why_not__Though__I_might" value="Claro, por que não?No entanto, eu poderia esquecer o que era ..." />
+  <Key key="_npc_Absolutely__I_mean__I_think_so" value="Absolutamente!Quero dizer, acho que sim ... deixe -me verificar?" />
+  <Key key="_npc_Help__Oh__definitely__Maybe__Y" value="Ajuda?Oh, definitivamente!Talvez.Sim definitivamente." />
+</Node>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_pig_crossbreed_experiment" type="external">
+  <Key key="_npc_Head_up_to_the_Skylight_Grassl" value="Dirígete a los pastizales de tragaluces y trae 2 gónadas de mamutboar." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_How_them_gonads_coming_along_" value="¿Cómo vienen las gónadas?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Remember__Skylight_Grasslands_" value="Recuerde, salas de tragua.No puedo perderlos." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Don_t_come_back_without_them_g" value="Don't come back without them gonads." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Attaboy__Now__don_t_get_squeam" value="Attaboy.Ahora, no me pongas apretado." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_YCv5" value="Recuperar gónadas de mamutboar" />
+  <Key key="_QuestActionAddToJournal_9eAL" value="Butch o'hara&#10;Goldenfield, cerca de Pig Farm&#10;&#10;Recoge gónadas de mamutboar de los pastizales de tragaluces para el experimento de Butch." />
+  <Key key="_goalVoice_QsgQ" value="Dirígete a los pastizales de tragaluces y trae 2 gónadas de mamutboar." voice="Male" />
+  <Key key="_varDescription_fLrW" value="Recuperar gónadas de mamutboar" />
+  <Key key="_goal_collect_gonads" value=" " />
+  <Key key="_npc_Well__I_ll_be____You_did_it__L" value="Bueno, lo seré ... lo hiciste.Llegemos a la cría '." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Not_you_and_me__of_course___yo" value="No tú y yo, por supuesto, tu recompensa es de la variedad financiera." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Now_you_can_call_yourself_a_re" value="Ahora puedes llamarte un carnicero normal.Simplemente no cerca de mis clientes." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

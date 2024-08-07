@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_threading_the_dream" type="external">
+  <Key key="_npc_Oh_heck_yeah__You_re_my_hero__" value="Oh diable ouais!Tu es mon héros, mec!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_goal_collect_strong_thread" value=" " />
+  <Key key="_goal_collect_cloth" value=" " />
+  <Key key="_QuestActionAddToJournal_Lila_Algernon_Riverrise__Scene" value="Lila Algernon&#10;Riverrise, scène.&#10;&#10;Aidez Lila Algernon à rassembler des matériaux pour élaborer une tenue accrocheuse pour son idole, Zara Rae." />
+  <Key key="_goalVoice_Hey__you_didn_t_forget_about_t" value="Hé, tu n'as pas oublié ce truc, non?J'ai besoin de 5 fils forts et 5 morceaux de tissu, pronto!Viens mec!Le spectacle de Zara est presque là, et je transpire comme un poulet dans une poêle!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Hey__Gimme_the_stuff_" value="Hé!Donnez les trucs!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_varDescription_Collect_Strong_Thread" value="Collectez un fil fort" />
+  <Key key="_varDescription_Collect_Cloth" value="Collectionner un chiffon" />
+  <Key key="_npc_Holy_crap__you_rock_harder_tha" value="Putain de merde, vous rockez plus fort que le vieux groupe de mon père!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Thanks_a_bajillion__Now_Zara_s" value="Merci un bajillion!Maintenant, Zara va se déplacer!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Here_s_a_little_something_for_" value="Voici un petit quelque chose pour toi, remontez le haut, ya Big Lug!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Listen_up__pal__Zara_Rae_s_sho" value="Écoutez, copain!Le spectacle de Zara Rae est ce soir, et elle doit voir à quel point je suis génial!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_m_gonna_make_her_an_outfit_s" value="Je vais lui faire une tenue si rad qu'elle pense que je suis le patron!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Problem_is__I_m_as_broke_as_my" value="Le problème est que je suis aussi fauché que la hanche de ma grand-mère!Et Lemme vous dit que ma grand-mère est super morte." voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_need_5_strong_threads_and_5_" value="J'ai besoin de 5 fils forts et 5 morceaux de tissu.Ouais, c'est une grande demande, mais qui d'autre va aider une star en devenir?" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Oh__come_on__Don_t_leave_me_ha" value="Oh, allez!Ne me laisse pas accrocher, mec.Que diable!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Aw__poop__Guess_I_ll_have_to_b" value="Aw, caca!Je suppose que je vais devoir supplier un autre meunier ..." voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Fine__leave_me_to_rot_in_lamen" value="Très bien, laissez-moi pourrir dans la boiterie.J'espère que vous êtes heureux!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_developer_goldenfield" type="external">
+  <Key key="_npc_Howdy_____Peace__man_" value="Salut!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Hey_there__cowboy__Don_t_tell_" value="Hé là, Cowboy!Ne dis pas à Maxwell que je t'ai appelé Cowboy." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Yo_" value="Yo!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Salutations_" value="SALUTATIONS!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Bless_up_" value="Bénir!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Bring_anything_good_" value="Apporter quelque chose de bien?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Whatcha_smoking_" value="Qu'est-ce qui fume?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Peace__man_" value="Homme de paix!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+</Node>

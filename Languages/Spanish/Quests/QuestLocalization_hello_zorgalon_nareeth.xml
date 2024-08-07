@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_zorgalon_nareeth" type="external">
+  <Key key="_npc_Welcome_to_the_show_" value="¡Bienvenido al show!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Love_is_in_the_air_" value="¡El amor está en el aire!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Let_s_make_a_match_" value="¡Hagamos un partido!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Are_you_ready__contestant_" value="¿Estás listo, concursante?" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Time_to_find_love_" value="¡Es hora de encontrar el amor!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Step_into_the_spotlight_" value="¡Entra en el centro de atención!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Spin_the_wheel_of_romance_" value="¡Gira la rueda del romance!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Today_could_be_your_lucky_day_" value="¡Hoy podría ser tu día de suerte!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+</Node>

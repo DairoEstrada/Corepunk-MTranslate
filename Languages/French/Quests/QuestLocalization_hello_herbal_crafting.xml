@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_herbal_crafting" type="external">
+  <Key key="_npc_I_love_you__bro__I_love_me__I_" value="I love this place. I love you. Cool outfit, bro.&#13;" voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Why_so_slow__Woah__I_can_t_fee" value="Pourquoi si lent?Woah, je ne peux pas sentir mes jambes." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Hey_man_" value="Hé mec!" voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

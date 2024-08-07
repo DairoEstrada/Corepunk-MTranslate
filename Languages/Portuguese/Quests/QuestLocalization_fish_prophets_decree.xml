@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fish_prophets_decree" type="external">
+  <Key key="_npc_The_fissssh_will_wait__But_bew" value="O fissss vai esperar.Mas cuidado, eles podem ficar mais fome.YESSSS." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_The_ansssient_one_mussst_be_re" value="The ansssient one mussst be ressspected, you sssee. Perhaps another time." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_goalVoice_Don_t_forget_the_thread__the_a" value="Não se esqueça do fio, o AnssSient se aproxima." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_In_return__I_ll_give_you_my_no" value="In return, I'll give you my note of legal consssnt for Triton." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Make_thisss_ssstrong_thread_fo" value="Make thisss ssstrong thread for me, and together, we shall pull the legendary fish from itsss watery realm." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_The_ansssient_one_demandsss_a_" value="O AnssSient exige -se um fio de lendária SsStrength." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Thisss_delicate_thread_of_mine" value="Thisss delicate thread of mine, hisss, it won't hold againssst itsss might." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_goal_talk_npc" value="Return to 'Ol Fins" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_bdcH" value="Make Strong Thread" />
+  <Key key="_npc_A_colossal_fish__untouched_by_" value="Um peixe colossal, intocado pelo tempo, a lua subirá das profundezas." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_The_ansssient_fish_godsss_have" value="The ansssient fish godsss have wissspered to me." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Your_act_of_kindnessss_will_be" value="Seu ato de bondade será lembrado pelos Deepsss." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Take_thisss_note__and_let_the_" value="Tome esta nota e deixe a fortuna da água o seguir." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_May_the_ansssient_fish_godsss_" value="Que a deusa dos peixes antiga te abençoe sempre SSS." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Here_sssss_your_reward__as_pro" value="Aqui estão sua recompensa, como promissido." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_QuestActionAddToJournal_Ol__Fins_Windstone_Vallage__Wi" value="Velhos barbatanas&#10;Windstone Vallage, Windstone Lake's.&#10;&#10;Ajude as barbatanas a pegar o peixe antigo, trazendo -lhe um fio de pesca mais forte." />
+  <Key key="_npc_The_ansssient_fish_godsss_grow" value="Os deuses dos peixes antigos ficam inquietos.Atrasar não, ou eles podem comer mais do que apenas sua captura." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_varDescription_Make_Strong_Thread" value="Faça um tópico forte" />
+  <Key key="_npc_This_thread_is_sssstrong_in_ch" value="Este tópico é de caráter ssSstrong." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Sssseer_of_the_depthsss_return" value="SSSSEER do DepthssS ReturnSSS!" voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+  <Key key="_npc_Yessss__you_have_the_favor_of_" value="Yessss, você tem o favor das onsscient." voiceSettingsId="jXkeB46JcPXXUSxzn3MD" />
+</Node>

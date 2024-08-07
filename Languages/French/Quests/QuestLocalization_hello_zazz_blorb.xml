@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_zazz_blorb" type="external">
+  <Key key="_npc_Dude__what__" value="Mec quoi?!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Uh__mid_song_here_" value="Euh, mi-chanson ici!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Seriously__now_" value="Sérieusement, maintenant?" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Not_the_time_" value="Pas l'heure!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Whoa__not_now_" value="Whoa, pas maintenant!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Can_t_talk__man_" value="Je ne peux pas parler, mec!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_m_on_stage_" value="Je suis sur scène!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_What_re_you_doing__" value="Que fais-tu?!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+</Node>

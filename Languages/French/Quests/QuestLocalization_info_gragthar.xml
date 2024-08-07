@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_gragthar" type="external">
+  <Key key="_npc_Name_s_Gragthar__Got_here_thro" value="Le nom est Gragthar.Je suis arrivé à travers une faille dimensionnelle." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Used_to_be_the_bottom_of_the_f" value="Était le bas de la chaîne alimentaire dans mon monde;Maintenant, je dirige le spectacle." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_I_peddle_exotic_delicacies__fa" value="Je colporte des spécialités exotiques, engraissant les beaux gens de Riverrise." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Those_delicious____delicious_l" value="Ces délicieux ... enculés à l'air délicieux ...." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_I_mean__I_just_like_to_see_peo" value="Je veux dire, j'aime juste voir des gens en bonne santé!Haha!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_How_am_I__How_the_fuck_are_you" value="Comment suis-je?Comment vas-tu ?!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_You_look_hungry__And_skinny_" value="Vous avez l'air faim.Et maigre!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Yes__you_definitely_need_some_" value="Oui, vous avez certainement besoin de viande sur ces os ..." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Why_don_t_you_buy_something_" value="Pourquoi n'achetez-vous pas quelque chose?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_This_is_Riverrise__stupid_" value="C'est Riverrise, stupide." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_You_people_really_got_the_brai" value="Vous avez vraiment le cerveau pour être du bétail, n'est-ce pas?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Anyway__managed_to_score_this_" value="Quoi qu'il en soit, a réussi à marquer ce sweet buckin 'pour vendre des spécialités importées de tous les mondes." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Do_you_know_what_a_store_is__d" value="Savez-vous ce qu'est un magasin, mannequin?Je ne t'enseigne pas l'économie." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Fuck_no__Just_piss_around_here" value="Baise non.Il suffit de faire chier ici et d'engraisser!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Just_buy_something_and_chill_" value="Achetez simplement quelque chose et refroidissez!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Hell_no__just_get_fat_and_enjo" value="Enfer non, grossir et profiter.J'ai besoin de toi ... tendre." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_No__Too_much_work_spoils_the_m" value="Non. Trop de travail gâche la viande ..." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Fuck_yeah__I_need_some_help_pe" value="Putain ouais, j'ai besoin d'aide pour colporter cette merde!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Hell_yes__Come_piss_around_wit" value="Oui bien sûr!Venez pisser avec mes marchandises!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Shit_yes__Help_me_sell_this_cr" value="Merde oui!Aidez-moi à vendre cette merde!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Fucking_perfect_timing__Need_a" value="Putain de timing parfait!Besoin d'une main poussant cette merde!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+</Node>

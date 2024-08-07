@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_npc_v2_q_b_post_officer" type="external">
-  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
-  <Key key="_npc_Post_officer__353_" value="Trabalhador postal nº 353. Há muito tempo, lembro -me de amigos me chamando de Jab.Amigos ... O que são esses?" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
-  <Key key="_npc_This_is_a_post_office__which_n" value="Este é um correio, que agora também é um escritório de registro de OutworLder.Que agora também é minha casa aparentemente." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
-  <Key key="_npc_I_can_t_keep_answering_all_of_" value="I can't keep answering all of your questions, people. I have work to do. I'm not on a date here. Sadly. " voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
-</Node>

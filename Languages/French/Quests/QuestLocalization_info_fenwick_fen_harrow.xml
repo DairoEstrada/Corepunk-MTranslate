@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_fenwick_fen_harrow" type="external">
+  <Key key="_npc_I_m_Fenwick__just_call_me_Fen_" value="Je suis Fenwick, appelle-moi juste Fen.C'est comme ça que Grommuk m'appelle." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I____used_to_be_an_engineer__I" value="Je ... était ingénieur, je pense.Peut-être un chef?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_hit_my_pretty_badly_when_I_g" value="J'ai frappé mon assez mal quand je suis arrivé ici, et maintenant je ne me souviens pas grand-chose." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Grommuk_found_me_wandering__no" value="Grommuk m'a trouvé errant, maintenant je travaille ici à la scierie." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_think_I_m_okay__just____tryi" value="Je pense que je vais bien, juste ... essayant de reconstituer les choses." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Life_is_a_puzzle_right_now__bu" value="La vie est un puzzle en ce moment, mais j'ai mon travail pour me faire avancer." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Can_t_remember__I_often_forget" value="Je ne me souviens pas.J'oublie souvent des choses ... les gens ... c'est un peu un problème, vraiment." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Sometimes_I_do_remember_how_to" value="Parfois, je me souviens comment construire des machines.Incroyables!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_ve_been_trying_different_ber" value="J'ai essayé différentes baies et champignons dans la forêt dans les espoirs qu'ils aident." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_found_a_few_mushrooms_earlie" value="J'ai trouvé quelques champignons plus tôt dans la journée qui m'ont fait me sentir ... spécial." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Have_you_asked_me_this_before_" value="Tu m'as déjà demandé ceci?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_That_s_a_great_question__Some_" value="C'est une excellente question.Une sorte de scierie, je pense.Qu'est-ce que je faisais?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_You_should_ask_Eamon__He_proba" value="Vous devriez demander à Eamon.Il en sait probablement plus que moi." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Assuming_he_isn_t_drunk_right_" value="En supposant qu'il n'est pas ivre en ce moment." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_We_cut_uh____stone_here__Wait_" value="Nous avons coupé euh ... Stone ici.Attendez, non, c'est du bois!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Well__there_are_trees__and_I_t" value="Eh bien, il y a des arbres, et je pense qu'ils les ont coupés.Et ... je les ai coupés!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_bet_I_could_build_some_kinda" value="Je parie que je pourrais construire un peu de robot pour accélérer cela ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_think_I_needed_help_with_som" value="Je pense que j'avais besoin d'aide pour quelque chose ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Maybe__I_feel_like_there_was_s" value="Peut être?J'ai l'impression qu'il y avait quelque chose dont j'avais besoin ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Uh__let_me_think____Yeah_" value="Euh, laissez-moi réfléchir ... ouais." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_feel_like_I_could_use_help__" value="J'ai l'impression de pouvoir utiliser de l'aide ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_don_t_think_so__but_I_could_" value="Je ne pense pas, mais je pouvais me tromper." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_can_t_remember_needing_help_" value="Je ne me souviens pas avoir besoin d'aide maintenant ... peut-être plus tard?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Probably_not_" value="Probablement pas." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_had_something_to_do__but____" value="J'avais quelque chose à faire, mais ... quoi?Je suppose que ce n'était pas important." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+</Node>

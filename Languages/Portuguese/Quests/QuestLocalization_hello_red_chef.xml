@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_red_chef" type="external">
+  <Key key="_npc_Ahoy__traveler_" value="Ahoy, viajante!" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Top_of_the_mornin__" value="Top da manhã!" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Welcome__matey_" value="Bem -vindo, companheiro!" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Greetings__friend_" value="Saudações amigo!" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Good_day_to_ya_" value="Bom dia para você!" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_What_brings_ya_here_" value="O que te traz aqui?" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+  <Key key="_npc_Hey__you_" value="Ei você!" voiceSettingsId="wrcRRN6lg2QSt2vWdk4T" />
+</Node>

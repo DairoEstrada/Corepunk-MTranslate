@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_themis" type="external">
+  <Key key="_npc_Uh__hello_there_" value="Euh, bonjour!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Whoops__hi_" value="Oups, salut!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__hey____didn_t_see_you_" value="Oh, hé ... je ne t'ai pas vu!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Ah__Didn_t_drop_anything__did_" value="Ah!Je n'ai rien laissé, n'est-ce pas?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Greetings__fellow_adventurer_" value="Salutations, collègue aventurier!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__hi__Oops____dropped_my_swo" value="Oh salut!Oups ... a de nouveau laissé tomber mon épée." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Hello__Watch_your_step_" value="Bonjour!SURVEILLEZ VOTRE PAS!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Just_doing_my____uh____job_" value="Je fais juste mon ... euh ... travail!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Woah__Almost_stabbed_you___" value="Woah!Vous a presque poignardé ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Light_bless_the____what_was_it" value="La légère bénisse le ... qu'est-ce que c'était?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_The_king_seems_ok____I_guess_" value="Le roi semble ok ... je suppose." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+</Node>

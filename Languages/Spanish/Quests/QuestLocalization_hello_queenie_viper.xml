@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_queenie_viper" type="external">
+  <Key key="_npc_Oh__y_you_again_" value="¡Oh, sí, de nuevo!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Whaaat_do_ya_want_" value="¿Qué quieres?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Hic__Look_who_s_here_" value="¡HIC!¡Mira quien esta aquí!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Bet_you_missed_me___" value="Apuesto a que me extrañaste ..." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Try_an__keep_up__hic_" value="¡Prueba y manténgase al día, hic!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_melody_of_misfortune" type="external">
+  <Key key="_npc_Bravo__brave_soul__This_twiste" value="Bravo, Brave Soul!Cet échange tordu sera une performance à part!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_varDescription_Collect_a_Cursed_Horn" value="Collecter une corne maudite" />
+  <Key key="_QuestActionAddToJournal_Bart_Blaine_Riverrise__Musical" value="Bart Blaine&#10;RiverRise, boutique d'instruments de musique.&#10;&#10;Aidez Felix à retourner sa guitare maudite en acquérant une corne maudite du bureau de poste de Riverrise." />
+  <Key key="_goalVoice_A_new_torment_awaits_at_the_Po" value="Un nouveau tourment attend au bureau de poste.Dépêchez-vous, avant que Felix ne tisse un autre morceau tragique!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Relief_at_last__yet_still_so_t" value="Relief enfin, mais toujours aussi déchiré, échangeant des cordes contre le Horny Horn!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Toot____wait____toot__The_horn" value="Toot ... attendez ... Toot!Le klaxon .... Toooooooot ... ne sera pas ... Toooot ... Arrêtez-vous!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Tooooot____just____tooooot____" value="Tooooot ... juste ... TooOoot ... Donnez-moi ... Toot ... la guitare ..." voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_npc_A_mix_of_joy_and_a_tiny_tear__" value="Un mélange de joie et une minuscule larme, je suis heureux d'avoir revenu à cet équipement étrange et maudit!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_goal_talk_npc" value="Livrer du klaxon maudit à Felix" />
+  <Key key="_npc_Here_s_your_music__my_friend__" value="Voici votre musique, mon ami, si passionné, mais maintenant nous savons pourquoi pas de remboursement, si vous savez ce que je veux dire?" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Ah__still_here_about_Felix_and" value="Ah, toujours là à propos de Felix et de sa petite situation?Tout à fait la symphonie de la souffrance, n'est-ce pas?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_He_snagged_that_guitar_from_me" value="Il m'a accroché cette guitare, pensant qu'il serait devenu le prochain grand barde.Envie de ça!Au lieu de cela, cela le joue comme un record battu." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_I_only_do_exchanges__no_refund" value="Je ne fais que des échanges, pas de remboursement.Mais ne croyez pas!Un klaxon maudit arrive bientôt au bureau de poste.Felix peut échanger sa misère contre un nouveau!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Fetch_the_horn_for_him__won_t_" value="Récupérer le klaxon pour lui, vous avez gagné?Il échangera un tourment pour un autre, mais la loi dit que je dois prendre des échanges." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Well__that_s_a_pity__The_curse" value="Eh bien, c'est dommage.Les cordes maudites continueront de jouer." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_No_worries__The_melodrama_cont" value="Pas de soucis!Le mélodrame continue pour Felix sans la corne." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Ah__afraid_of_a_little_curse_s" value="Ah, peur d'un peu d'échange de malédiction?Comment Droll!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Suit_yourself__Felix_can_keep_" value="Comme vous voudrez.Felix peut continuer à sérénade ses douleurs un peu plus longtemps." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_With_a_strum_and_a_hum__did_yo" value="Avec une gratte et un bourdonnement, avez-vous récupéré le prix maudit?" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+</Node>

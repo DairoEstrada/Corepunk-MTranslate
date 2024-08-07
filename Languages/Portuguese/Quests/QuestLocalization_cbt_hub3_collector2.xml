@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_collector2" type="external">
+  <Key key="_QuestActionAddToJournal_8iHh" value="Fale com o colecionador" />
+  <Key key="_QuestActionAddToJournal_NuZB" value="Dê o artefato ao colecionador" />
+  <Key key="_goal_end_quest" value="Traga o &quot;brinquedo de madeira&quot; para o caçador de artefatos" />
+  <Key key="_goalVoice_YQvr" value="Encontre um artefato como este" voice="Male" />
+  <Key key="_QuestActionAddToJournal_G57y" value="Encontre um artefato como este" />
+  <Key key="_goal_find_artefact" value="Encontre o artefato de &quot;brinquedo de madeira&quot;" />
+  <Key key="_npc_Prinesi_artefakt" value="Então, este é chamado de &quot;brinquedo de madeira pregado no chão&quot;.Você vai entregar isso para mim?" voice="Male" />
+  <Key key="_npc_O_da__davay_mne" value="Isso é muito bom.Traz um pouco de nostalgia.Obrigado, aqui está o seu salário." voice="Male" />
+</Node>

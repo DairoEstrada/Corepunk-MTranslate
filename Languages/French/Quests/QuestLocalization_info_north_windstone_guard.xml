@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_north_windstone_guard" type="external">
+  <Key key="_npc_Oh__I_m_Thaddeus_" value="Oh, je suis Thaddeus." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Born_into_a_family_of_esteemed" value="Né dans une famille de gardes estimés, donc c'était un peu forcé pour moi." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Truth_be_told__I_d_rather_be_c" value="À vrai dire, je préfère être recroquevillé sur une plage de sable avec un roman roman." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_The_sight_of_blood____oh_dear_" value="La vue du sang ... Oh mon Dieu, ça me rend mal à l'aise.Je vomir même parfois!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_But_here_I_am__armor_and_all__" value="Mais je suis ici, armure et tout, essayant de maintenir l'honneur de la famille." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_My_heart_races_even_at_the_tho" value="Mon cœur se précipite même à l'idée de l'aventure, mais pas dans le bon sens." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_To_be_clear__I_only_do_this_to" value="Pour être clair, je ne fais cela que pour payer les factures.Certainement pas mon premier choix de carrière." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__dear__not_great_if_I_m_bei" value="Oh, mon cher, pas génial si je suis honnête." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_I_just_had_to_watch_someone__u" value="Je devais juste regarder quelqu'un, euh, en quelque sorte, bien exploser ..." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_A_raider_hit_him_right_in_the_" value="Un raider l'a frappé en tête avec une grenade!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Got_bits_of_him_all_over_my_ar" value="J'ai des morceaux de lui partout dans mon armure, et je jure que je ne le ferai jamais propre." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Blood_and_viscera_everywhere__" value="Le sang et les viscères partout ... Oh, l'horreur et, ugh, les taches!" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_It_s_enough_to_make_anyone_los" value="Il suffit de faire perdre à quelqu'un son déjeuner - croyez-moi, je sais." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_I_d_trade_all_this_for_a_day_a" value="J'échangerais tout cela pendant une journée dans un spa, vraiment." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Is_it_too_much_to_ask_for_a_li" value="Est-ce trop de demander un peu de paix et de propreté?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__this_is__uh__Windstone_Vil" value="Oh, c'est, euh, Windstone Village ..." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Dirty__noisy__and_always_on_th" value="Diry, bruyant et toujours au bord du chaos." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_I_swear__if_it_weren_t_for_the" value="Je jure que, si ce n'était pas pour les fleurs ici, j'aurais boulonné il y a longtemps." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Truth_is__if_this_place_ever_g" value="La vérité est que si cet endroit est envahi, je me dirige vers une plage quelque part." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_I_m_sure_the_villagers_will_be" value="Je suis sûr que les villageois iront bien ..." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Could_you_handle_the__um___ick" value="Pourriez-vous gérer les pièces, euh, &quot;icky&quot;?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Take_care_of_the_scary_stuff_" value="Prenez soin des trucs effrayants." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_I_m__uh__not_exactly_the_brave" value="Je suis, euh, pas exactement l'âme la plus courageuse." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Could_you_deal_with_the_more__" value="Pourriez-vous gérer les tâches plus horribles pour moi?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Yes__please__I_prefer_my_foes_" value="Oui s'il vous plait!Je préfère que mes ennemis restent hypothétiques." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_I_m_more_of_a_dreamer_than_a_d" value="Je suis plus un rêveur qu'un failli, vous voyez." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Fighting_is_just_so____messy__" value="Le combat est tellement ... désordonné, tu ne penses pas?" voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__um__no_thanks__I_m_quite__" value="Oh, euh, non merci.Je suis tout à fait, euh, occupé avec ma lecture." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_I_d_rather_not__Got_a_compelli" value="Je ne préfère pas.J'ai une romance convaincante ici." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_I_m_quite_absorbed_in_this__um" value="Je suis assez absorbé par cela, euh, flottant papillon." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Not_now__The_flowers_are_quite" value="Pas maintenant.Les fleurs sont assez fascinantes." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+  <Key key="_npc_Oh__no__I_ve_got_my____um__hob" value="Oh, non, j'ai mes ... euh, les passe-temps à tendre." voiceSettingsId="84XSFUj9fOHUDfRTvusf" />
+</Node>

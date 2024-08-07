@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_reyalp" type="external">
+  <Key key="_npc_Oh__it_s_you__I_mean_me_" value="Oh c'est toi! Je veux dire moi!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_I_m_here_to_warn_you_about_our" value="Je suis ici pour vous avertir de notre - votre - avenir!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Finally__we_meet_" value="Enfin, nous nous rencontrons!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Long_time__no_see_" value="Cela fait longtemps qu'on ne s'est pas vu!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_It_s_me____you_" value="C'est moi ... toi!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Remember_me__You_will_" value="Souviens-toi de moi?Vous serez!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Ah__there_you_are_" value="Ah, voilà!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+</Node>

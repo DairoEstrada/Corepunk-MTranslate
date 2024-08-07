@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_imp_hunter_camp" type="external">
+  <Key key="_npc_HIC__Welcome__new_recruit_" value="Hic!Bem -vindo, novo recruta!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Ready_to_join_the_MURDER_SQUAD" value="Pronto para se juntar ao esquadrão de assassinato?" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Come_for_the_booze__stay_for_t" value="Venha para a bebida, fique para o Killin '!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_HOO_WEE__Fresh_meat_for_the_CR" value="Hoo-wee!Carne fresca para a cruzada!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Who_s_ready_to_PAINT_THE_TOWN_" value="Quem está pronto para pintar a cidade vermelha?!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Imps_won_t_know_what_hit__em_" value="Os Imps não sabem o que os atingiu!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Let_s_get_to_MURDERIN__" value="Vamos assassinar '!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Welcome_to_IMP_HELL__partner_" value="Bem -vindo ao IMP Hell, parceiro!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_HOO_WEE_" value="Hoo-wee!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_HEY_YOU_" value="EI VOCÊ!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_How_ya_doin__" value="Como vai você'?" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Yo_" value="Yo!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_HOWDY_PARTNER_" value="OLÁ, PARCEIRO!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Well__lookie_here_" value="Bem, olhe aqui!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Hey_there_" value="Ei!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_WHASSUP__" value="Whassup?!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+</Node>

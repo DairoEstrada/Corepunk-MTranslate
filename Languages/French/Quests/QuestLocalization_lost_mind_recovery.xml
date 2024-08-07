@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lost_mind_recovery" type="external">
+  <Key key="_npc_Jah_bless__bredren__This_shoul" value="Jah bénisse, Bredren.Cela devrait me ramener sur terre." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Remember__man__I_need_that_Adr" value="Rappelez-vous, mec, j'ai besoin de ce coup d'adrénaline." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Don_t_forget_the_Adrenaline_Sh" value="N'oubliez pas le coup d'adrénaline, Bredren." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Still_waiting_on_that_shot__ma" value="J'attends toujours ce coup, mec.Jah guide vos pas, tu sais?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Secured_that_Adrenaline_Shot_y" value="A encore assuré ce tir d'adrénaline, mon frère?Pourrait vraiment utiliser un coup de départ en ce moment." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Respect__That_s_what_I_needed_" value="Respect!C'est ce dont j'avais besoin." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_QuestActionAddToJournal_M30L" value="Racines de Jahri&#10;Goldenfield, à l'ouest de la station-service&#10;&#10;Aidez Jahri rebondir avec un plan d'adrénaline." />
+  <Key key="_goalVoice_Remember__man__I_need_that_Adr" value="Rappelez-vous, mec, j'ai besoin de ce coup d'adrénaline." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_varDescription_Y0MG" value="Tir d'adrénaline" />
+  <Key key="_npc_One_love__one_heart__you_feel_" value="Un amour, un cœur, tu me sens?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

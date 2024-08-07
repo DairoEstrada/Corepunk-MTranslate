@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_avigdor" type="external">
-  <Key key="_" value=" " voice="Male" />
-  <Key key="who_are_u_answer" value="Estoy trasero.Fitsyk Avigdor Butt.Y no dejaré que esos límites tomen mi tierra." voice="Male" />
-  <Key key="what_is_this_place_answer" value="Esto es Palmtree.Un rincón acogedor tranquilo en este mundo desordenado." voice="Male" />
-  <Key key="how_are_u_answer" value="¡Tratando de defender mis derechos en mi tierra!" voice="Male" />
-  <Key key="" value=" " />
-  <Key key="_npc_Well__those_Bounds_claim_I_mov" value="Bueno, esos límites afirman que moví mi cerca a tres pies a su tierra, cuando la estaba reparando.¡Así que una noche lo pusieron tres pies en mi tierra!¿Qué le parece eso?" voice="Male" />
-</Node>

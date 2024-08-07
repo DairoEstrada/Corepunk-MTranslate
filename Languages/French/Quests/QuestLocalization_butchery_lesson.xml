@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_butchery_lesson" type="external">
+  <Key key="_npc_Gather_Animal_Fat_and_turn_it_" value="Rassemblez la graisse animale et transformez-la en graisse cosmétique sur le banc d'artisanat." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goalVoice_Gather_Animal_Fat_and_turn_it_" value="Rassemblez la graisse animale et transformez-la en graisse cosmétique sur le banc d'artisanat.Si vous avez des problèmes avec les loups, essayez des tortues ou des sangliers." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_How_s_that_butchering_going__c" value="Comment va cette boucherie, champion?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Don_t_forget__Animal_Fat_becom" value="N'oubliez pas, la graisse animale devient la graisse cosmétique." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_What_s_the_hold_up__Afraid_of_" value="Quel est le maintien?Peur d'un peu gras?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Great__Remember__hunt_for_Wolv" value="Super!N'oubliez pas, chassez des loups, des sangliers ou des tortues et les boucher." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_QuestActionAddToJournal_F9gi" value="Butch O'Hara&#10;Goldenfield, près de la ferme porcine&#10;&#10;Rassemblez la graisse animale et transformez-la en graisse cosmétique sur le banc d'artisanat." />
+  <Key key="_npc_Well_done__Now__see_how_that_w" value="Bien joué!Maintenant, voyez comment ce n'était pas si difficile?Et regardez ce que vous avez appris!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_MtFF" value="Graisse cosmétique" />
+  <Key key="_varDescription_V87H" value="Graisse cosmétique" />
+  <Key key="_npc_You_still_have_one_more_test_b" value="Vous avez encore un test de plus avant de pouvoir vous appeler un vrai boucher ..." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

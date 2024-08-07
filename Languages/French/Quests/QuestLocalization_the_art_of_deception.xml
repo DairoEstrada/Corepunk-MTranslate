@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_art_of_deception" type="external">
+  <Key key="_npc_Don_t_tell_me_you_re_afraid_of" value="Ne me dites pas que vous avez peur de quelques peintures." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Scared_of_a_little_errand__huh" value="Effrayé d'une petite course, hein?" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_So_stop_asking_questions_and_g" value="Alors arrêtez de poser des questions et montez dans cette banque!" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_goalVoice_Remember__we_need_four_specifi" value="N'oubliez pas que nous avons besoin de quatre peintures spécifiques pour Lil 'Timmy.La banque les fera s'asseoir quelque part.Regardes autour." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_I_asked_him_why_they_re_being_" value="Je lui ai demandé pourquoi ils étaient livrés à la banque et il m'a appelé un homme Sigma!Je ne peux pas avoir ça." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Retour à Hank" />
+  <Key key="_npc_He_s_got_this_list_of_painting" value="Il a cette liste de peintures qu'il veut, qui sont toutes livrées à la banque pour lui." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Alright__champ__here_s_the_dea" value="Très bien, champion, voici l'affaire.Lil 'Timmy a un œil attentif pour l'art et un dernier travail qui doit faire.C'est notre temps de briller." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Please_tell_him_I_did_a_good_j" value="S'il vous plaît, dites-lui que j'ai fait du bon travail!Peut-être que je vais dormir à l'intérieur ce soir." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_QuestActionAddToJournal_Hank_Thornbuckle_Goldenfield__" value="Hank Thornbuckle&#10;Goldenfield, Edge Farm.&#10;&#10;Aidez Hank Thornbuckle avec une tâche mystérieuse attribuée par Lil 'Timmy - collectionnant 4 peintures précieuses de la banque." />
+  <Key key="_npc_I_didn_t_think_you_d_back_down" value="Je ne pensais pas que tu reculerais d'un simple travail." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_varDescription_Collect_Valuable_Painting" value="Collectez une peinture précieuse" />
+  <Key key="_npc_Here_s_my_finished_chore_list_" value="Voici ma liste de corvées finie pour 'Lil Timmy." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_You_did_it__Thank_you_" value="Tu l'as fait!Merci." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Did_you_get_the_paintings_" value="Avez-vous eu les peintures?" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Great__And_Timmy_said_to_ignor" value="Super!Et Timmy a dit d'ignorer quiconque dit de ne pas les prendre." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+</Node>

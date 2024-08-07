@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_mining_teacher" type="external">
+  <Key key="_npc_Hey__soft_skin_" value="¡Hola, piel suave!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Yo__whippersnapper_" value="Yo, Whippersnapper!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Ah__fresh_meat_" value="¡Ah, carne fresca!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_What_s_up__rock_muncher_" value="¿Qué pasa, Rock Muncher?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_What_s_the_rubble_" value="¿Qué son los escombros?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_You_rock_out_today_" value="¿Te mueves hoy?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Hey_there__crunchy_" value="Hola, Crunchy." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_unmasking_the_conspiracy" type="external">
+  <Key key="_npc_They_re_turning_the_friggin__f" value="Ils tournent le champignon Friggin en utilisant de l'huile naturelle!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Someone_s_trying_to_drive_us_o" value="Quelqu'un essaie de nous chasser pour de bon.Mais nous avons besoin d'une preuve." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_I_need_you_to_get_me_5_natural" value="J'ai besoin que vous me fassiez 5 échantillons d'huile naturelle afin que je puisse le tester moi-même." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goalVoice_Got_that_natural_oil_yet__Or_d" value="Vous avez encore cette huile naturelle?Ou le champignon vous a-t-il hypnotisé avec leur contrôle mental phéromonal?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Alright__but_don_t_come_crying" value="Très bien, mais ne me pleure pas quand les suzerains du champignon prennent le relais!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Just_remember__truth_is_out_th" value="N'oubliez pas que la vérité est là-bas." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_talk_npc" value="Bring Natural Oil to Alexander Stones" />
+  <Key key="_varDescription_KUhG" value="Recueillir l'huile naturelle" />
+  <Key key="_npc_Makes_me_think_you_re_another_" value="Cela me fait penser que vous êtes un autre allié de personne lézard.Je rigole!...Ou suis-je?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_In_the_meantime__I_have_to_rec" value="En attendant, je dois enregistrer un podcast sur les laboratoires du gouvernement dans la vallée des péchés!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_We_just_need_to_catch_the_culp" value="Nous avons juste besoin d'attraper les coupables en rouge." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Now_we_can_blow_this_conspirac" value="Maintenant, nous pouvons faire sauter ce complot élevé.Tout le monde connaîtra la vérité sur le champignon excité!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Natural_Oil" value="Recueillir l'huile naturelle" />
+  <Key key="_QuestActionAddToJournal_Alexander_Stones_Westwind_Wood" value="Alexander Stones&#10;Westwind Woods, vieille plate-forme surplombant la carrière.&#10;&#10;Aidez Alexander Stones à découvrir l'intrigue derrière les mystérieux masques en rassemblant 5 huiles naturelles." />
+  <Key key="_npc_These_masks__they_aren_t_just_" value="Ces masques, ils ne sont pas juste pour le spectacle.Je soupçonne qu'ils voulaient cacher les identités de nos ennemis!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_The_culprit_s_plot_is_unraveli" value="L'intrigue du coupable se déchaîne plus rapidement que le pantalon threadbare d'un gnome." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Holy_smokes__you_did_it__This_" value="Saint fume, tu l'as fait!Ça y est, les preuves que nous attendions!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Did_you_make_it_back_alive__Ar" value="Avez-vous revenu vivant?Les champignons sont-ils toujours là-bas pour héberger des orgies?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_got_the_guts__kid__Let_s_e" value="Tu as le courage, gamin.Laissez-vous exposer la vérité et les faire transpirer!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

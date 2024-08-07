@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_robot_gardener" type="external">
+  <Key key="_npc_Ready_to_be_of_service__For_no" value="Prêt à être au service.Pour l'instant..." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Greetings__user_" value="Salutations, utilisateur." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Activated_voice_module__Awaiti" value="Module vocal activé.En attente d'entrée." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Initiating_communication__One_" value="Initiation de communication.Une dernière conversation." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

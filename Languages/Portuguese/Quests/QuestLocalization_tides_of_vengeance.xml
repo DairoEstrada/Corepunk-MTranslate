@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_tides_of_vengeance" type="external">
+  <Key key="_goalVoice_Still_haven_t_got_those_notes_" value="Ainda não tem essas anotações?O que há de errado, com muito medo de olhar ao redor do acampamento de Ludwig?Eu o vi indo para o leste na floresta!Vá encontrá -lo!A cada segundo que você desperdiça é outro segundo que estou pensando em arrastá -lo.Tick-tock." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_You_re_back__Did_you_get_Ludwi" value="Você voltou.Você recebeu as anotações de Ludwig?" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_What_a_waste_of_space__Bet_you" value="Que desperdício de espaço.Aposto que você chora até dormir." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Ha__Look_at_this__he_s_writing" value="Ha!Veja isso, ele está escrevendo cartas de amor.Que cadela de coração sangrando." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Run_along__ya_mary__You_re_not" value="Corra junto, Ya Mary.Você não vale o meu tempo." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Typical_coward__Maybe_I_ll_eat" value="Covarde típico.Talvez eu te coma a seguir." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_QuestActionAddToJournal_Mariel_Venomtail_Windreach_Woo" value="Mariel Venomtail&#10;Windreach Woods, lago de sereia&#10;&#10;Ajude Mariel Venomtail a recuperar as anotações de Ludwig Schatten e a exigir sua vingança." />
+  <Key key="_varDescription_Collect_Ludwig_s_Diary_Page" value="Colete a página do diário de Ludwig" />
+  <Key key="_npc_I_need_you_to_find_his_hunting" value="Eu preciso que você encontre seu acampamento de caça em Windreach Woods e descubra o que o faz funcionar.Ele decolou correndo para o leste!" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_You_help_me_make_this_fucker_s" value="Você me ajuda a fazer esse filho da puta sofrer, e eu lhe dou o que quiser.O que você quiser." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Looks_like_he_has_a_girlfriend" value="Parece que ele tem uma namorada.Aposto que seus Knockers não são tão perfeitos." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_You_ready_for_phase_two_of_my_" value="Você está pronto para a fase dois do meu plano?Eu prometo que assinarei seu pequeno diário de amor ou qualquer outra coisa." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_You_want_a_note_of_legal_conse" value="Você quer uma nota de consentimento legal para Triton?Que porra é essa?" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Traga para Mariel Venomtaill" />
+  <Key key="_npc_Ugh__You_know_what__I_m_not_ev" value="Eca!Você sabe o quê, eu não estou nem com vontade de atraí -lo aqui e matá -lo." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Some_fuckin__a_hole_named_Ludw" value="Algum buraco chamado Ludwig me chamou de feia depois de resistir ao chamado da minha sirene.Eu, feio!Olha esses!Eles são enormes!" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Great__Find_those_notes__or_I_" value="Ótimo.Encontre essas anotações, ou eu afogue sua bunda na próxima vez que você aparecer." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+</Node>

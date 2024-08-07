@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_green_goblin_ears" type="external">
+  <Key key="_npc_Woah__it_s_not_what_it_looks_l" value="Woah, ce n'est pas à quoi ça ressemble!" voiceSettingsId="hgVZNUiiU3cJNyMDppmX" />
+  <Key key="_npc_Hey__I_wasn_t_doing_anything__" value="Hé!Je ne faisais rien, je le jure!" voiceSettingsId="hgVZNUiiU3cJNyMDppmX" />
+  <Key key="_npc_Quick__help__My_brother_s_car_" value="Aide rapide!La voiture de mon frère a coulé!" voiceSettingsId="hgVZNUiiU3cJNyMDppmX" />
+  <Key key="_npc_You_didn_t_see_anything__did_y" value="Vous n'avez rien vu, est-ce que vous?" voiceSettingsId="hgVZNUiiU3cJNyMDppmX" />
+  <Key key="_npc_I_didn_t_do_it_" value="Je ne l'ai pas fait!" voiceSettingsId="hgVZNUiiU3cJNyMDppmX" />
+  <Key key="_npc_Can_you_help__He_s_underwater_" value="Pouvez-vous aider?Il est sous l'eau!" voiceSettingsId="hgVZNUiiU3cJNyMDppmX" />
+</Node>

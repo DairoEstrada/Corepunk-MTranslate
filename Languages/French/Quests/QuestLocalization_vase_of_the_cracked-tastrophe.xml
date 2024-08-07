@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_vase_of_the_cracked-tastrophe" type="external">
+  <Key key="_npc_Thank_you__I_knew_I_could_coun" value="Merci!Je savais que je pouvais compter sur toi." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Excellent__Let_s_get_that_vase" value="Excellent!Remettons à nouveau ce vase à la recherche de tout neuf." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Hey__how_s_the_repair_going_" value="Hey, how's the repair going?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Ah__brilliant_job__The_vase_lo" value="Ah, travail brillant!Le vase a l'air aussi bien que nouveau." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Here_s_your_reward__as_promise" value="Voici votre récompense, comme promis." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__sometimes_a_small_ef" value="N'oubliez pas que parfois un petit effort mène à de grandes récompenses à l'avenir." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Ceramics" value="Recueillir la céramique" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_So__I_recently_traded_for_this" value="Donc, j'ai récemment échangé pour cet étrange vase en argile à partir d'un outworlder.Il a ces marques qui semblent anciennes ou quelque chose comme ça." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Problem_is__the_vase_is_cracke" value="Problem is, the vase is cracked in a few spots. I need your help to fix it up. Think you can craft some ceramics to patch it?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_ll_make_it_worth_your_while_" value="Je vais en faire la peine avec un peu de paiement." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_Griz_Turner_Goldenfield__near_" value="Griz Turner&#10;Goldenfield, near Artifact shop.&#10;&#10;Help Griz Ironfoot repair a unique clay vase with ceramics." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Don_t_forget__I_need_some_cera" value="N'oubliez pas, j'ai besoin de céramiques pour réparer ces fissures.Regardez autour de vous, je pense que vous aurez besoin de fossiles anciens extraits de pierre.En dehors de Goldenfield, il y a certainement beaucoup de rochers à vérifier." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_That_s_too_bad__We_could_have_" value="C'est dommage.Nous aurions pu faire quelque chose de génial." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Alright__no_worries__If_you_ch" value="Très bien, pas de soucis.Si vous changez d'avis, je suis là." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_see__Well__maybe_next_time_t" value="Je vois.Eh bien, peut-être la prochaine fois alors." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

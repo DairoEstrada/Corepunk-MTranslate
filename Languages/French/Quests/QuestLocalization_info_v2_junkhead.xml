@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_junkhead" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_I_m_Mr__Junkhead__That_s_what_" value="Je suis M. Junkhead.C'est ce qu'ils m'appellent." voice="Male" />
+  <Key key="_npc_This_is_my_home__I_been_raised" value="C'est ma maison.J'ai été élevé dans un petit quartier quadarien et c'est toujours dans mon cœur.Mais c'est ma maison.Le detesté.Que demandiez-vous?" voice="Male" />
+  <Key key="_npc_Better_than_you_" value="Mieux que toi." voice="Male" />
+</Node>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_hunterslodge_chef" type="external">
+  <Key key="_npc_Oh__great__another_critic_" value="Oh, génial, un autre critique." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Oh_look__another_customer_who_" value="Oh regardez, un autre client qui pouvait sauter un repas." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Here_for_soup_or_rumors_" value="Ici pour la soupe ou les rumeurs?" voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Can_t_wait_to_hear_your_compla" value="J'ai hâte d'entendre vos plaintes." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_Hungry_or_just_nosy_" value="Hungry ou tout simplement fouineur?" voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+  <Key key="_npc_My_broth_uses_deer_bones____ju" value="My broth uses deer bones... just so you know." voiceSettingsId="lvQVO2aJeUwckAvmFLFY" />
+</Node>

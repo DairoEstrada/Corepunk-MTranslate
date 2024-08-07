@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_case_against_triton" type="external">
+  <Key key="_goal_talk_npc" value="Parlez à Roderick &quot;Darkspike&quot; Thinklatch" />
+  <Key key="_npc_You_ve_got_stone_cold_feet__hu" value="Vous avez des pieds froids en pierre, hein?Pas de soucis, aux prises avec les astuces de Triton n'est pas la tasse de thé de tout le monde." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_goalVoice_Move_it__champ__Time_to_hustle" value="Déplacez-le, champion!Il est temps de se bousculer vers la place des gardes à Windstone Village et de voir ce que Roderick 'Darkspike' Thinklatch a sur notre ami glissant Triton." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_That_spike_helmeted_bruiser_ha" value="Ce meurtrier à pointe a eu un rodage avec Triton qui pourrait bien être la broche du corps à corps dont nous avons besoin.Vous le trouverez à la place du garde!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_For_round_one__you_ll_tag_in_w" value="Pour la première ronde, vous allez avec Roderick 'Darkspike' Thinklatch.C'est pour le bien de l'humanité!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_If_you_don_t_help_me__Triton_w" value="Si vous ne m'aidez pas, Triton ne verra jamais sa journée devant le tribunal - et vous ne verrez jamais ce qu'il vous a promis." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Well__guess_you_re_dropping_th" value="Eh bien, je suppose que vous laisse tomber le ballon.Que diriez-vous de vous laisser tomber du haut d'une cage?" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Spoiler_alert__it_s_mostly_bab" value="Alerte de spoiler: ce sont surtout des squelettes pour bébés!" voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Here_s_the_game_plan__we_need_" value="Voici le plan de match: nous avons besoin de la saleté sur Triton pour contrer ses mouvements.Il est temps de découvrir quels squelettes il se cache dans ses vestiaires." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_He_s_trying_to_put_us_in_a_leg" value="Il essaie de nous mettre dans une prise de tête légale, mais je sais qu'il a jeté des coudes illégaux." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Listen_up__contender__We_got_o" value="Écoutez, concurrent!Nous avons eu un combat de titre contre ce Triton de Lowlife." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Here_s_a_reward_for_coming_to_" value="Voici une récompense pour être venue vers moi et avoir obtenu l'histoire." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_ll_guide_you_to_the_evidence" value="Je vous guiderai vers les preuves.Vous le prenez et faites ce qui doit être fait." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_The_two_of_us_had_an____alterc" value="Nous avons tous les deux eu une ... altercation la semaine dernière." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_QuestActionAddToJournal_Brawny_Barrelbuckle_Windstone_" value="Barilbuckle&#10;Windstone Village, Street Gym.&#10;&#10;Rassemblez des preuves des méfaits de Triton pour aider Brewny Barrelbuckle à résoudre une assignation légale.Commencez par parler aux gardes - en particulier, Roderick Darkspike." />
+  <Key key="_npc_Ducking_out__What_a_wimp__we_l" value="S'abandonner?Quelle mauviette, nous devrons simplement trouver un autre concurrent pour cette confrontation." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+  <Key key="_npc_Triton_s_reign_of_terror_ends_" value="Le règne de terreur de Triton se termine maintenant." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_What_s_this_about_Triton__I_ha" value="Qu'est-ce que c'est de Triton?Je déteste ce putain de gars!" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Alright__tag_team_time__Let_s_" value="Très bien, le temps de l'équipe!Laissons le coude légal sur Triton et envoyons-le voir The Undertaker." voiceSettingsId="0kQ79FlQdxBRtAf4BofC" />
+</Node>

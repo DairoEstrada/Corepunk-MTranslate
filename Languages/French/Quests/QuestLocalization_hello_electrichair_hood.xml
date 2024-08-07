@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_electrichair_hood" type="external">
+  <Key key="_npc_Step_closer__friend_" value="Se rapprochez, ami." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Fancy_a_jolt_" value="Envie d'une secousse?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Feel_the_surge_" value="Sentez la montée en puissance!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Taste_the_lightning_" value="Goûtez la foudre?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Ready_for_thrills_" value="Prêt pour les sensations fortes?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Come__don_t_be_shy_" value="Viens, ne sois pas timide." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Embrace_the_spark_" value="Embrassez l'étincelle!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Curious__aren_t_you_" value="Curieux, n'est-ce pas?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Welcome__brave_soul_" value="Bienvenue, Brave Soul." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Care_for_a_shock_" value="Prendre soin d'un choc?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Electrifying_day__isn_t_it_" value="Jour électrisant, n'est-ce pas?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Feel_the_power_" value="Ressentez la puissance?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Ready_for_a_jolt_" value="Prêt pour une secousse?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Hello__sparky_" value="Bonjour, Sparky." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Come_closer__won_t_you_" value="Vous rapprochez, n'est-ce pas?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+</Node>

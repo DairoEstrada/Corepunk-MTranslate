@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_senior_officer" type="external">
+  <Key key="_npc_It_s_me_who_should_be_asking_t" value="C'est moi qui devrait poser cette question.Dans ma jeunesse, il n'y avait aucune excuse pour une telle insolence!" voice="Male" />
+  <Key key="_npc_Important_papers_have_been_kep" value="Des papiers importants ont été conservés dans cette maison depuis la fondation de ce village.Mon travail consiste à les garder des voyageurs suspects!" voice="Male" />
+  <Key key="_npc_Don_t_distract_me_from_doing_m" value="Ne me distrayez pas de faire mon travail!" voice="Male" />
+</Node>

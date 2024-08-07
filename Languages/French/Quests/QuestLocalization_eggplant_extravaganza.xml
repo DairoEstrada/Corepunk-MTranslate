@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eggplant_extravaganza" type="external">
+  <Key key="_npc_How_s_the_eggplant_hunt_going_" value="Comment va la chasse aux aubergines?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_YWHi" value="Collectez les aubergines" />
+  <Key key="_npc_Thank_you__kind_soul__Let_s_se" value="Merci, aimable âme.Voyons quel genre de tarte je me retrouve ce soir." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_goal_collect_food" value=" " />
+  <Key key="_npc_Ah__you_re_back__Wow__those_ar" value="Ah, vous revenez!Wow, ceux-ci sont plus gros que je ne le pensais." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Here_s_a_reward_for_your_effor" value="Voici une récompense pour vos efforts." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_You_ve_given_me_a_moment_s_dis" value="Vous m'avez donné une distraction du moment de ma situation particulière.Merci." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Remember__I_ll_be_busy____baki" value="Rappelez-vous, je serai occupé ... cuire ... alors je te verrai demain." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_You_know__you_could_make_yours" value="Vous savez, vous pourriez vous rendre utile une fois de plus.Sans Zikk, c'était tellement occupé." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_ve_been_baking_all_these_pie" value="J'ai cuisiné toutes ces tartes et je pensais ... qu'en est-il des aubergines?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_mean__they_re_everywhere__ri" value="Je veux dire, ils sont partout, non?Pourrait faire un Nigh décent ... Pie ... Amirite?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Say__if_you_could_bring_me_bac" value="Dites, si vous pouviez me ramener des aubergines et me laisser le reste de la journée ... eh bien je vous paierais pour cela." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_QuestActionAddToJournal_Greta_Grubb_Goldenfield__South" value="Greta Grubb&#10;Goldenfield, Southern House&#10;&#10;Aidez Greta Grubb à rassembler les aubergines pour cuire une «tarte d'aubergine» et lui donner une pause légère dans son travail sans fin." />
+  <Key key="_goalVoice_Could_you_gather_five_eggplant" value="Pourriez-vous rassembler cinq aubergines pour moi?Ils sont dans les champs à proximité.Vous les trouverez probablement pas trop loin de Goldenfield.Rappelez-vous, j'en ai besoin de cinq pour que je puisse commencer ce projet de cuisson." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_Collect_Eggplants" value="Collectez les aubergines" />
+  <Key key="_npc_I_understand__it_s_a_strange_r" value="Je comprends, c'est une demande étrange.La prochaine fois peut-être." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Alright__perhaps_another_day_w" value="D'accord, peut-être qu'un autre jour apportera différentes opportunités." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+</Node>

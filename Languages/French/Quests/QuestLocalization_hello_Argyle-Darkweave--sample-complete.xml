@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_Argyle-Darkweave--sample-complete" type="external">
+  <Key key="_npc_Step_into_my_shadowy_corner__w" value="Entrez dans mon coin sombre, Wanderer." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Ah__a_new_face__Interested_in_" value="Ah, un nouveau visage.Intéressé par quelque chose ... remplissage de chaussettes?" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Well_met__stranger__Care_for_a" value="Bien rencontré, étranger.Prendre soin d'une bonne affaire?" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Hello__dear_traveler__May_I_in" value="Bonjour, cher voyageur.Puis-je vous intéresser à certains couvre-pieds captivants?" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Welcome__brave_one__Looking_fo" value="Bienvenue, courageuse.Vous cherchez une chaussette pour éliminer?" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+</Node>

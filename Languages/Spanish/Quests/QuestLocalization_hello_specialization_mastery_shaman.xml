@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_specialization_mastery_shaman" type="external">
+  <Key key="_npc_Lightning_never_strikes_twice_" value="Lightning nunca golpea dos veces ... ¡pero yo sí!" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_npc_The_spirits_greet_you_" value="Los espíritus te saludan." voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_npc_Yes__you_can_pet_my_wolf_" value="Sí, puedes acariciar a mi lobo." voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_npc_Thunder_bless_you_" value="Truenos te bendiga." voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_npc_I_m_famished__Do_you_have_any_" value="Estoy famélico.¿Tienes semillas de amapola?" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_npc_Honor_and_elemental_strength_" value="Honor y fuerza elemental!" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+</Node>

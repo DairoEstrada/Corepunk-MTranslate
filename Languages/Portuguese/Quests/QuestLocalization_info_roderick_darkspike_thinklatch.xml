@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_roderick_darkspike_thinklatch" type="external">
+  <Key key="_npc_By_day__a_simple_guard_named_R" value="Durante o dia, um guarda simples chamado Roderick.À noite, seu pior pesadelo." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_m_the_spike_headed_hero_this" value="Eu sou o herói com cabeça de espiga que esta vila merece.O crime é meu inimigo." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Think_you_know_fear__You_haven" value="Acha que você conhece medo?Você não conheceu Darkspike." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_In_a_world_gone_mad__I_m_the_s" value="Em um mundo enlouquecido, eu sou o vingador ardente.Justiça, serviu bruscamente para suas canelas." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Got_a_problem__I_m_the_solutio" value="Tenho um problema?Eu sou a solução, embrulhada em metal e fúria." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc____" value="..." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Please_don_t_tell_my_boss_abou" value="Por favor, não conte ao meu chefe sobre isso." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Feeling_invincible__like_a_spi" value="Sentindo -se invencível, como um juggernaut com cravos em um mundo de pessoas de papel." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Took_down_three_scumbags_befor" value="Derrubou três babacas antes do almoço.Estou pegando fogo, baby!" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Ain_t_felt_this_pumped_since_D" value="Ain T sentiu isso bombeado desde que Dicey perdeu nossa última aposta.Oh, o sabor doce da vitória!" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Don_t_let_Dicey_fool_you_with_" value="Não deixe Dicey enganá -lo com o absurdo &quot;Dicey's Dungeon&quot;." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_call_it__The_Spike_Sanctuary" value="Eu chamo de &quot;o Spike Sanctuary&quot;, minha fortaleza pessoal de justiça." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Windstone_might_be_quaint__but" value="Windstone pode ser singular, mas tem sua parte justa de problemas.É aí que eu entro." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Think_of_it_as_my_hideout__whe" value="Pense nisso como meu esconderijo, onde a justiça é nítida e os vilões chegam ao seu fim." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Call_it_what_you_want__just_kn" value="Chame o que quiser, apenas saiba disso: os criminosos não duram muito por aqui." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Absolutely__Justice_always_nee" value="Absolutamente!A justiça sempre precisa de uma ajuda." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Feeling_lucky__Step_up_and_joi" value="Sentindo-se sortudo?Avance e junte -se à minha busca por vingança!" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Oh__you_ve_come_to_the_right_h" value="Oh, você veio ao herói certo.Vamos livrar este lugar de escória juntos." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Victory_tastes_better_with_all" value="Victory tastes better with allies. Ready to fight the underworld?" voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_You_re_in_luck__I_ve_got_just_" value="Você está com sorte;Eu tenho apenas o desafio para uma alma corajosa como você." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Perfect_timing__I_could_use_a_" value="No momento ideal!Eu poderia usar um ajudante com algum backbone." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Justice_works_solo_" value="Justiça trabalha sozinho." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_This_is_my_crusade_" value="Esta é a minha cruzada." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_tread_alone_" value="I tread alone." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Your_help__Unnecessary_" value="Sua ajuda? Desnecessário." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_m_a_one_man_army_" value="I'm a one-man army." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Sidekicks_slow_me_down_" value="Sidekicks me desacelera." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Got_this_covered_" value="Tenho isso coberto." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Crime_fears_me_solo_" value="Crime fears me solo." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+</Node>

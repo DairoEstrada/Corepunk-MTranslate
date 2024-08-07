@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_pages_to_protect" type="external">
+  <Key key="_npc_Wait__you_re_saying_no__That_s" value="Attendez, vous dites non?C'est génial." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_help_draven" value="Page ancienne draven" />
+  <Key key="_goal_help_balthazar" value="Page ancienne Balthazar" />
+  <Key key="_goalVoice_Hey__remember__those_pages____" value="Hé, rappelez-vous, ces pages ... Draven Torvik et Balthazar pourraient les avoir.Balthazar devrait être comme, juste au sud de la maison de route.Il a juste besoin d'une ceinture noire et d'un diplôme en philosophie!Et Balthazar ... Oh ouais, il est au sud-ouest à la place de parking." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Draven_should_be_southwest__at" value="Draven devrait être au sud-ouest, à la place de parking avec son vélo.Balthazar complotera la maison de route." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_just_hope_it_s_nothing_sexua" value="J'espère juste que ce n'est rien de sexuel.Sauf si vous êtes comme, dans cela.Je ne suis pas dans ça ... êtes-vous là-dedans?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Whoa__whoa____Why_the_buzzkill" value="Whoa, whoa ... Pourquoi le Buzzkill, mec?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_talk_npc" value="Apportez la page à Mary Jane" />
+  <Key key="_npc_They_re_probably_gonna_make_yo" value="Ils vont probablement vous faire faire des trucs étranges pour les récupérer." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Draven_Torvik_and_Balthazar_ha" value="Draven Torvik et Balthazar les ont.Ou était-ce quelqu'un d'autre?Non, non, c'était définitivement eux." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Oh_wow__yeah__I_remember____I_" value="Oh wow, ouais, je me souviens ... Je pense que je sais où se trouvent d'autres pages de livres, mec." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Let_s_get_this_thing_translate" value="Faisons cette chose traduite, et nous pouvons trouver cet artefact groovy ..." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Eh__that_s_ok__You_can_tell_me" value="Eh, ça va.Vous pouvez m'en parler plus tard." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Whoa__dude__you_did_it__Did_th" value="Whoa, mec, tu l'as fait.Vous ont-ils fait faire des trucs de sexe étranges?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_You_ve_returned__Cowabunga_dud" value="Vous êtes revenu!Cowabunga mec!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Groovy__man__Let_s_make_Mother" value="Groovy, mec.Rendons à Mère Nature fier." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_QuestActionAddToJournal_Mary_Jane_Greenpuff_Windreach_" value="Mary Jane Greenpuff&#10;Windreach Woods, Road House.&#10;&#10;Aidez Mary Jane Greenpuff à récupérer les deux pages manquantes de l'ancien livre de Draven Torvik et Balthazar." />
+  <Key key="_npc_Huh__Really__That_s_like__not_" value="Hein?Vraiment?C'est comme, pas cool, mec.Pas cool." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

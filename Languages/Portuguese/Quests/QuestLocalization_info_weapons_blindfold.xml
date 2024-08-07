@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_weapons_blindfold" type="external">
+  <Key key="_npc_Ah__the_age_old_question__Blix" value="Ah, a pergunta antiga!Blix Ironsight, a seu serviço." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Once_a_formidable_adventurer__" value="Uma vez um aventureiro formidável, agora um humilde comerciante." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_I_scour_the_Windreach_Woods_fo" value="Eu vasculho os bosques de Windreach em busca de tesouros escondidos." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Every_piece_I_sell_has_a_story" value="Cada peça que eu vendo tem uma história algumas verdadeiras, outras ... bem, embelezadas." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Lost_this_eye_in_a_duel_with_a" value="Perdi esse olho em um duelo com um dragão, ou assim a história vai!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Ah__life_s_a_bit_tough_lately_" value="Ah, a vida é um pouco difícil ultimamente." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_The_hustle_and_bustle_has_slow" value="A agitação diminuiu e as vendas não são o que costumavam ser." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Adventurers_seem_to_prefer_buy" value="Os aventureiros parecem preferir comprar diretamente das forjas." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Plus__more_of_them_than_ever_a" value="Além disso, mais deles do que nunca estão sobrevivendo às minhas &quot;tarefas&quot; ..." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_But_now_that_you_re_here__my_f" value="Mas agora que você está aqui, minhas fortunas estão olhando para cima!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Always_a_pleasure_to_see_a_new" value="Always a pleasure to see a new face in need of quality gear." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_And_that_sure_is_a_nice_weapon" value="E essa com certeza é uma bela arma que você tem lá ..." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_So__my_friend__let_s_turn_this" value="Então, meu amigo, vamos dar uma queda!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_You_found_your_way_to_Windston" value="Você encontrou o seu caminho para o mercado de armas de Windstone Village." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_This_is_where_legends_are_forg" value="É aqui que as lendas são forjadas." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Our_blades_have_tasted_the_blo" value="Nossas lâminas provaram o sangue de monstros!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Our_armor_has_withstood_the_mi" value="Nossa armadura resistiu aos mais poderosos golpes!" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_All_of_which_can_be_yours__for" value="Tudo isso pode ser seu, pelo preço certo, é claro." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_So__what_are_you_looking_for_" value="Então o que você está procurando?" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Got_just_the_thing_for_someone" value="Tenho exatamente o problema de alguém de seus ... talentos." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_A_brave_soul_like_you_" value="Uma alma corajosa como você?" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Perfect_timing__I_have_a__spec" value="No momento ideal.Eu tenho uma &quot;missão especial." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Fancy_your_chances_in_the_wood" value="Gosta de suas chances na floresta?" voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_If_you_die__I_ll_grab_your_stu" value="Se você morrer, eu vou pegar suas coisas." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Nice_gear__Try_not_to_drop_it_" value="Belo equipamento.Tente não largá -lo lá fora." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Nah__you_look_too_smart_" value="Não, você parece muito inteligente." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_I_wouldn_t_dare_rob_you_of_you" value="Eu não ousaria roubar seu equipamento suado ..." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_You_seem____a_bit_too_savvy_" value="Você parece ... um pouco experiente demais." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_I_m_looking_for_a_different_ki" value="Estou procurando um tipo diferente de aventureiro." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Let_s_save_your_talents_for_so" value="Vamos salvar seus talentos para algo mais ... frutífero." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_You_got_nothing_I_can____er___" value="Você não tem nada que eu possa ... er ... não importa." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_Another_time__when_you_re_less" value="Outra vez, quando você é menos ... cauteloso." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+  <Key key="_npc_No__keep_your_valuables_I_mean" value="Não, mantenha seus objetos de valor, quero dizer espírito heróico- intacto." voiceSettingsId="26HD7q6f4MF0mdsL95yU" />
+</Node>

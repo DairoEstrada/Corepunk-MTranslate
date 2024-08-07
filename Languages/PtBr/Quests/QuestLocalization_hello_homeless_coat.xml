@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_homeless_coat" type="external">
-  <Key key="_npc_Where_did_you_come_from_" value="De onde você veio?" voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
-  <Key key="_npc_Hello__This_is_our_territory__" value="Olá.Este é o nosso território.Então observe seu passo!" voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
-  <Key key="_npc_Oy__Mind_the_bucket_of_shit_by" value="Oy!Lembre -se do balde de merda pelo seu pé!" voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
-  <Key key="_npc_You_d_better_talk_to_Sofia_ove" value="É melhor você conversar com Sofia ali.Estou tendo um dos meus episódios." voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
-  <Key key="_npc_Hello__Got_anything_to_smoke__" value="Olá.Tem alguma coisa para fumar?Whack, talvez?" voiceSettingsId="Y2N9S7Xrf4rkQSIB2oLD" />
-</Node>

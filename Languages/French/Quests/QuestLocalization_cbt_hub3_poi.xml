@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_poi" type="external">
+  <Key key="_npc_Privet_naydi_tochki_interesa" value="Hey there. I know that there are eight POINTS OF INTEREST in this forest. I want you to show me each of those. " voice="Female" />
+  <Key key="_goal_find_poi" value="Trouvez tous les points d'intérêt dans la zone de la forêt de mana" />
+  <Key key="_varDescription_Id2g" value="Points d'interêts" />
+  <Key key="_QuestActionAddToJournal_BuaQ" value="Find all points of interest" />
+  <Key key="_npc_Ty_vse_otkryl_" value="Merci, j'ai fait des enregistrements de chaque point d'intérêt dans ce domaine.C'était très utile.Ici, j'ai quelque chose pour vous rembourser." voice="Female" />
+  <Key key="_goal_end_quest" value="Speak to the Scientist" />
+  <Key key="_QuestActionAddToJournal_9wHt" value="Retour au scientifique et signalez" />
+  <Key key="_goal_find_two" value="Météorite tombée" />
+  <Key key="_goalVoice_RIN4" value="Trouvez tous les points d'intérêt pour la forêt" voice="Female" />
+  <Key key="_goal_find_one" value="Brillant bien" />
+  <Key key="_QuestActionAddToJournal_Eysz" value="Retour au scientifique et signalez" />
+  <Key key="_goal_find_three" value="À trois ponts" />
+  <Key key="_goal_find_four" value="Tombe ancienne" />
+  <Key key="_goal_find_five" value="Grand arbre" />
+  <Key key="_goal_find_six" value="Holy Waterfal" />
+  <Key key="_goal_find_seven" value="Lac mana" />
+  <Key key="_goal_find_eight" value="Super ordinateur" />
+  <Key key="_QuestActionAddToJournal_Pvui" value="Le point numéro un est prêt" />
+  <Key key="_assistant_phrase_F17T" value="D'accord, brillant bien, très beau." voice="Female" />
+  <Key key="_QuestActionAddToJournal_5dgm" value="Le point numéro deux est prêt" />
+  <Key key="_assistant_phrase_LqG9" value="Une météorite tombée, wow.Ne vous en approchez pas trop, pourrait être dangereux." voice="Female" />
+  <Key key="_QuestActionAddToJournal_6iRu" value="Le point numéro six est prêt" />
+  <Key key="_assistant_phrase_99Nc" value="Ce doit être l'endroit où les anciens habitants de la forêt ont fait leurs rituels.Impressionnant.Comment ont-ils déplacé toutes ces énormes pierres?" voice="Female" />
+  <Key key="_QuestActionAddToJournal_4TdV" value="Retour au scientifique et signalez" />
+  <Key key="_QuestActionAddToJournal_8wqI" value="Le point numéro sept est prêt" />
+  <Key key="_assistant_phrase_XIBs" value="A mana lake! How does it manage to keep its liquid form on the surface? Don't come too close, it'll make you hallucinate. " voice="Female" />
+  <Key key="_QuestActionAddToJournal_60Sf" value="Retour au scientifique et signalez" />
+  <Key key="_QuestActionAddToJournal_GpFE" value="Le point numéro huit est prêt" />
+  <Key key="_assistant_phrase_YN1z" value="I wonder if the old forest dwellers took orders from this computer believing it to be some kind of spirit. " voice="Female" />
+  <Key key="_QuestActionAddToJournal_I3yh" value="Retour au scientifique et signalez" />
+  <Key key="_QuestActionAddToJournal_Iwuq" value="Le point numéro cinq est prêt" />
+  <Key key="_assistant_phrase_aUi4" value="Je ne peux pas le croire.Ainsi, le grand arbre de sagesse existe." voice="Female" />
+  <Key key="_QuestActionAddToJournal_KFFZ" value="Return to the scientist and report" />
+  <Key key="_QuestActionAddToJournal_bcUY" value="Le point numéro quatre est prêt" />
+  <Key key="_assistant_phrase_5HZt" value="Ce doit être le tombeau d'un ancien guerrier.Probablement avant que les extraterrestres ne viennent ici.La technologie est très différente." voice="Female" />
+  <Key key="_QuestActionAddToJournal_9vJG" value="Retour au scientifique et signalez" />
+  <Key key="_QuestActionAddToJournal_KKJQ" value="Le point numéro trois est prêt" />
+  <Key key="_assistant_phrase_Nn7O" value="Que fait ce trois ponts ici, au milieu de la forêt?Incroyable!Vous trouverez peut-être quelque chose de valeur à l'intérieur." voice="Female" />
+  <Key key="_QuestActionAddToJournal_dJUI" value="Retour au scientifique et signalez" />
+</Node>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_bones_exhumation_reburial" type="external">
+  <Key key="_npc_Appreciate_it__The_dead_ll_tha" value="L'apprécie.Les morts vous remercient." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_The_dead_ain_t_patient__y_know" value="Les morts ne sont pas patients, tu sais?" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_How_s_the_bone_hunt_going_" value="Comment va la chasse aux os?" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Got_those_remains_yet_" value="Vous avez encore ces restes?" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Good_work__These_bones_ll_rest" value="Bon travail.Ces os seront plus faciles maintenant." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_goal_collect_remains" value=" " />
+  <Key key="_goalVoice_fdKy" value="Fouiller autour de 10 restes des corps sans vie dispersés dans les forêts encerclant Goldenfield.Ces os, ils sont la clé de certains rites funéraires appropriés, maintient les morts silencieux et satisfaits." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_QuestActionAddToJournal_X9qM" value="Mortimer Gloomsworth&#10;Goldenfield, près du cimetière&#10;&#10;Récupérez les os de Goldenfield pour Mortimer Gloomsworth pour enterrer dans le cimetière." />
+  <Key key="_varDescription_cu6t" value="Récupérer les restes" />
+  <Key key="_npc_Rummage_around_for_10_remains_" value="Fouiller autour de 10 restes des corps sans vie dispersés dans les forêts encerclant Goldenfield." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Those_bones_are_the_key_to_som" value="Ces os sont la clé de certains rites funéraires appropriés qui gardent mes impulsions satisfaites." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Plus__here_s_a_little_reward__" value="De plus, voici une petite récompense - est tombé des corps, alors je pense que vous l'avez gagné." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+</Node>

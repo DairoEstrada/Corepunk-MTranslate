@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_elusive_cheese" type="external">
+  <Key key="_npc_Alright__alright__Just_take_th" value="D'accord d'accord.Prenez simplement cette tâche et laissez-moi être, s'il vous plaît.Trouvez le fromage et laissez voir ce qui se passe." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_goal_collect_aged_cheese" value=" " />
+  <Key key="_varDescription_Pick_up_Cheese_from_the_Post_O" value="Ramasser du fromage au bureau de poste" />
+  <Key key="_QuestActionAddToJournal_Seldon_Moor_Riverrise__City_Pi" value="Seldon Moor&#10;RiverRise, City Pier 2&#10;&#10;Aidez Seldon Moor à récupérer un morceau de fromage sans le tuer accidentellement." />
+  <Key key="_goalVoice_Did_you_find_the_cheese_at_the" value="Avez-vous déjà trouvé le fromage au bureau de poste?C'est bon si vous ne l'avez pas fait, nous n'avons pas à parler à nouveau." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Is_it_over__Please_tell_me_it_" value="Est-ce fini?S'il vous plaît dites-moi que c'est fini." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Oh____you_actually_found_it_" value="Oh ... tu l'as vraiment trouvé." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_And_it_s_delicious_" value="Et c'est délicieux!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Wait____is_this_Meunster__This" value="Attendez ... est-ce que c'est Meunster?C'est pour Beldon Loor ...." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_I_m_deathly_allergic__You_idio" value="Je suis mortel allergique!Tu es idiot ... tu m'as presque tué à nouveau!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Here_take_this__and_stay_the_h" value="Ici, prenez ceci et éloignez-vous de moi." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_You_re_saying_no__Is_this_some" value="Vous dites non?Est-ce une sorte de truc?" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Please__don_t_hurt_me__Fine__I" value="S'il vous plaît, ne me blessez pas!Très bien, je vais comprendre quelque chose d'autre." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_No__But____You_re_not_going_to" value="Non?Mais ... tu ne vas pas partir, n'est-ce pas?" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Hopefully_you_don_t_wind_up_ki" value="J'espère que vous ne finissez pas par me tuer dans le processus ..." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_It_s_just_cheese__you_know__A_" value="C'est juste du fromage, tu sais?Une tâche simple." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Fine__Fine__If_fetching_cheese" value="Bien!Bien!Si la récupération du fromage vous tiendra occupé et hors de mes cheveux, alors allez en chercher!S'il te plaît!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+</Node>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_blue_ball" type="external">
+  <Key key="_npc_Welcome__Meat_Puppet_" value="Bem -vindo, Carne Puppet!" voiceSettingsId="zMUvWn90WHNIuXCvJB7s" />
+  <Key key="_npc_Hello__primitive_low_frequency" value="Olá, Goo-Brain Primitivo de baixa frequência!" voiceSettingsId="zMUvWn90WHNIuXCvJB7s" />
+  <Key key="_npc_Fleshy_one__Do_you_have_an_art" value="Um carnudo!Você tem um artefato?Que tipo de metal você deseja?" voiceSettingsId="zMUvWn90WHNIuXCvJB7s" />
+  <Key key="_npc_Ah__another_inferior_mucus_bas" value="Ah, outra abordagem inferior à base de muco." voiceSettingsId="zMUvWn90WHNIuXCvJB7s" />
+</Node>

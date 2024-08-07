@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_bread_making_lesson" type="external">
+  <Key key="_goalVoice_La64" value="Apportez-moi de la farine de blé.Regardez autour de vous, chérie.C'est la saison des récoltes, et vous pourriez trouver des restes de blé dans les champs autour de Goldenfield Town ou dans des caisses et des sacs.Vous pouvez traiter 3 poignées de graines de blé dans la farine sur mon banc de cuisson." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Don_t_forget_that_Wheat_Flour_" value="N'oubliez pas cette farine de blé, l'hon.Nous ne pouvons pas cuire du pain sans lui." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_How_s_the_flour_hunt_going__da" value="Comment va la chasse à la farine, chérie?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Remember__the_fresher_the_flou" value="N'oubliez pas que plus la farine est fraîche, meilleure est le pain." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_You_re_a_peach__darling__Let_s" value="Tu es une pêche, chérie.Passons à la cuisson!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_QuestActionAddToJournal_KpHO" value="Martha &quot;Big Mamma&quot; Potterson&#10;Goldenfield, près de la cuisine de protection sociale.&#10;&#10;Apportez de la farine de blé pour la grande maman afin qu'elle puisse fournir aux nouveaux arrivants de la nourriture.3 poignées de graines de blé sont nécessaires pour faire de la farine.Les graines de blé peuvent être trouvées dans des caisses et des sacs tout autour de Goldenfield." />
+  <Key key="_npc_Bring_me_some_Wheat_Flour__Loo" value="Apportez-moi de la farine de blé.Regardez autour de vous, chérie.C'est la saison des récoltes, et vous pourriez trouver des restes de blé dans les champs autour de Goldenfield Town ou dans des caisses et des sacs." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_npc_Well__I_ll_be_a_monkey_s_uncle" value="Eh bien, je serai un oncle d'un singe!Tu l'as fait.Voici votre récompense." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_varDescription_eSD9" value="Farine de blé" />
+  <Key key="_goal_speak_npc" value="Apportez de la farine de blé à &quot;Big Mamma&quot;" />
+  <Key key="_varDescription_gg3T" value="Farine de blé" />
+  <Key key="_npc_You_can_process_3_handfuls_of_" value="Vous pouvez traiter 3 poignées de graines de blé dans la farine sur mon banc de cuisson." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_You_took_to_that_quick__I_bet_" value="Vous avez pris cela rapidement.Je parie que vous pourriez aussi apprendre d'autres compétences!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_There_s_plenty_a__locals_aroun" value="Il y a beaucoup de «locaux ici que le gouvernement paie pour enseigner." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Why_don_t_you_hunt__em_down_" value="Pourquoi ne les chasse pas?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_There_s_a_lumberjack_and_a_min" value="Il y a un bûcheron et un mineur par la station-service." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_An_alchemist_back_behind_the_b" value="Un alchimiste de retour derrière la banque." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_And_a_workshop_with_a_couple_o" value="Et un atelier avec quelques artisans d'armes ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+</Node>

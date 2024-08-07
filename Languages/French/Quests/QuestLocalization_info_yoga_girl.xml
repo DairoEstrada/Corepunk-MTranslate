@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_yoga_girl" type="external">
+  <Key key="_npc_I_m_Tiffany_Aurora__a_spiritua" value="Je suis Tiffany Aurora, un voyager spirituel avec un corps de garce d'un autre monde!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_came_here_with_my_friend_Cas" value="Je suis venu ici avec mon amie Cassidy." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Back_home_I_was_a_professional" value="De retour chez moi, j'étais une danseuse professionnelle, mais chic, comprenez-vous?Pas de touche!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Cass_got_me_into_that_mystic_m" value="Cass m'a fait entrer dans ce mystique mumbo-jumbo.Je n'y croyais pas vraiment.Garçon je me trompais!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_was_getting_spiritually_clea" value="Je me nettoyais spirituellement par ce mec mystique quand tout a commencé à briller.L'univers a en quelque sorte explosé et nous nous sommes retrouvés ici!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_mean__talk_about_your_bad_tr" value="Je veux dire, parlez de vos mauvais voyages!Ai-je raison?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Fortunately__we_met_up_with_Gu" value="Heureusement, nous avons rencontré Guru David.Il est français." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_He_s_a_fake__sure__but_he_s_al" value="C'est un faux, bien sûr, mais il va bien." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_He_puts_us_up_at_his_place_" value="Il nous met chez lui." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_At_night_we_party_with_paying_" value="La nuit, nous faisons la fête avec des invités payants dans la maison de yoga." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_mean__a_girl_s_gotta_live__e" value="Je veux dire, une fille doit vivre, même sur cette stupide planète!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Okay_I_guess_" value="D'accord je suppose." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_could_use_a_puff_of_Mango_Ta" value="Je pourrais utiliser une bouffée de tango de mango, mais je ne suis pas sûr qu'elle pousse même ici!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Business_has_been_pretty_good_" value="Les affaires ont été assez bonnes." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_We_ve_been_teaching_the_locals" value="Nous avons enseigné aux habitants toutes sortes de nouvelles choses!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Sometimes_they_pay_us_in_cabba" value="Parfois, ils nous paient dans des choux ou autre chose." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_We_gotta_eat__right_" value="Nous devons manger, non?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_This_is_Goldenfield__It_s_a_vi" value="C'est Goldenfield.C'est un village plein de pauvres et de choses." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_My_friend_and_I_live_in_the_Yo" value="Mon ami et moi vivons dans la maison de yoga avec Guru David." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_We_teach_special_lessons_at_ni" value="Nous enseignons des leçons spéciales la nuit.Je l'appelle &quot;Yoga avec Lube." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_It_ain_t_so_different_from_wha" value="Ce n'est pas si différent de ce que je faisais sur ma planète natale, pour être honnête." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Are_you_open_to_an_enlightenin" value="Êtes-vous ouvert à une expérience éclairante?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Wow__Really__That_s_so_sweet_o" value="Ouah.Vraiment?C'est très gentil de ta part!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Why_thank_you__I_m_very_gratef" value="Pourquoi merci!Je suis très reconnaissant quand les gens me font des faveurs et des choses." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_do__but_NO_TOUCHING__Not_wit" value="Je le fais, mais pas de touche.Pas sans invitation, je veux dire." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_m_all_set_for_now__It_s_almo" value="Je suis prêt pour l'instant.Il est presque temps pour une autre leçon spéciale." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Nah__I_m_too_sore_for_any_acti" value="Nah.Je suis trop douloureux pour toute action." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_My_world_is_karmically_balance" value="Mon monde est karmalement équilibré en ce moment, merci!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_m_fine__Go_ask_some_poor_per" value="Je vais bien.Allez demander à une personne pauvre." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+</Node>

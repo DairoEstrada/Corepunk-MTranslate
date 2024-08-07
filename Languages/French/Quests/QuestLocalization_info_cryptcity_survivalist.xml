@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_cryptcity_survivalist" type="external">
+  <Key key="_npc_I_am_Talora_Vex__by_the_Light_" value="Je suis Talora Vex, par la bénédiction de la lumière, un censur pour les gardiens." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_My_job_is_to_locate_and_neutra" value="Mon travail consiste à localiser et à neutraliser les artefacts dangereux des temps anciens." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_I_m_currently_stationed_here__" value="Je suis actuellement stationné ici, dans les Westwind Woods, aux ruines de Crypt City." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_I_will_find_the_relics_here_an" value="Je vais trouver les reliques ici et les neutraliserai." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_Get_in_my_way_and_I_will_carve" value="Me gênant et je vous taillerai dans des sushis.Ou sashimi.Selon ce qui n'a pas de riz." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_Protecting_society_from_unseen" value="Protéger la société contre les dangers invisibles est mon devoir envers le roi et envers la lumière." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_Death_has_little_fear_when_you" value="La mort a peu de peur quand vous avez vu autant d'obscurité que moi." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_Alive_still__I_ve_encountered_" value="Alive encore.J'ai rencontré de nombreux défis, mais ma détermination est ininterrompue." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_These_Crypt_City_ruins_are_tre" value="Ces ruines de Crypt City sont perfides, mais j'ai survécu pire." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_I_am_a_Censor__We_fight_for_th" value="Je suis un censeur.Nous nous battons pour le roi et la lumière jusqu'à ce que nous soyons victorieux ou mourons." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_I_thrive_in_violence__It_s_the" value="Je prospère dans la violence.Ce sont les moments calmes qui me rendent fou." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_Keepers_are_not_deterred_from_" value="Les gardiens ne sont pas dissuadés de faire ce qui doit être fait." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_These_are_the_ruins_of_Crypt_C" value="Ce sont les ruines de Crypt City.Personne ne sait grand-chose à leur sujet: ils sont de son âge oublié." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_This_is_a_very_bad_place__It_s" value="C'est un très mauvais endroit.Il est rempli de vieux pièges et d'artefacts dangereux." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_Dark_forces_linger__lured_by_f" value="Les forces sombres s'attardent, attirées par la sorcellerie interdite et la technologie folle." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_For_too_long_have_the_Keepers_" value="Pendant trop longtemps, les gardiens ont ignoré ce péril.Mais maintenant, ils m'ont envoyé." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_I_love_it_here__there_are_plen" value="J'adore ici: il y a beaucoup d'artefacts à trouver et de mauvaises choses à tuer." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_If_you_seek_a_deadly_challenge" value="Si vous cherchez un défi mortel, oui." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_In_the_King_s_name__will_you_f" value="Au nom du roi, allez-vous vous battre et mourir comme un soldat?" voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_Indeed__But_if_you_cross_me__y" value="En effet.Mais si vous me croisez, vous mourrez." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_If_the_Light_calls_you__who_am" value="Si la lumière vous appelle, qui suis-je pour vous gêner?" voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_A_wise_soldier_takes_assistanc" value="Un soldat sage prend de l'aide lorsqu'il est offert." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_By_the_King__I_ve_got_this_han" value="Par le roi, je l'ai manipulé." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_From_you__Hah__Censors_need_no" value="De toi?Hah.Les censeurs n'ont pas besoin d'aide." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_No__But_I_m_sure_something_ter" value="Non. Mais je suis sûr que quelque chose de terrible sera actuellement." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_If_you_wish_to_join_the_Keeper" value="Si vous souhaitez rejoindre les gardiens, allez dans une ville et faites-le." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+  <Key key="_npc_I_am_a_soldier_of_the_King__Yo" value="Je suis un soldat du roi.Vous êtes un Dilletante.Non." voiceSettingsId="RCKBWuPP9Gu4RPpAiGSe" />
+</Node>

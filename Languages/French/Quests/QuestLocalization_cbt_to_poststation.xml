@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_to_poststation" type="external">
+  <Key key="_npc_Won_t_be_a_problem_to_find_it_" value="Ne sera pas un problème pour le trouver.Restez simplement sur la route." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goal_goto_second_village" value="Allez à RiverRise.Je suis à l'est de Goldenfield.Restez simplement sur la route." />
+  <Key key="_npc_I_see__Another_outworlder_" value="Je vois.Un autre outworlder." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goal_talk_to_officer" value="Parler à l'officier de poste" />
+  <Key key="_goal_goto_poststation" value="Trouvez la station de poste et inscrivez-vous là-bas" />
+  <Key key="_QuestActionAddToJournal_Y0MK" value="Zugg Clankwhistle&#10;Goldenfield, près du bureau&#10;&#10;Faire une visite à l'administration RiverRise" />
+  <Key key="_QuestActionAddToJournal_GPzW" value="Faire une visite à l'administration RiverRise" />
+  <Key key="_goalVoice_I1iG" value="Si vous cherchez à gagner votre donjon, la station de mana locale est un bon pari.Mais ils ne vous accueillent pas sans licence.Vous pouvez le faire passer à l'administration de RiverRise, l'avez-vous?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+</Node>

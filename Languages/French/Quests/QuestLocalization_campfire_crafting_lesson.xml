@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_campfire_crafting_lesson" type="external">
+  <Key key="_goalVoice_Go_on__fetch_the_wood__It_s_ri" value="Continuez, récupérez le bois.C'est juste dans le camp, et vous n'aurez pas à faire attention à la faune ici.C'est la partie sûre ... pour l'instant." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_QuestActionAddToJournal_Gy88" value="Maxwell Sterling&#10;Goldenfield, près de la tente de blé&#10;&#10;Apprenez les cordes de survie en rassemblant du bois pour un feu de camp." />
+  <Key key="_varDescription_SIO8" value="Bois" />
+  <Key key="_varDescription_6Yg4" value="Bois" />
+  <Key key="_npc_Go_on__fetch_the_wood__It_s_ri" value="Continuez, récupérez le bois.C'est juste dans le camp, et vous n'aurez pas à faire attention à la faune ici." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Try_not_to_give_yourself_a_spl" value="Essayez de ne pas vous donner un éclat." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_How_s_the_wood_hunt_going__new" value="Comment va la chasse au bois, débutant?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Don_t_forget__3_pieces__Not_2_" value="N'oubliez pas!3 pièces.Pas 2. pas 4. 3." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Haven_t_frozen_to_death_yet__h" value="Vous n'avez pas encore gelé à mort, hein?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Well__look_who_s_not_an_idiot_" value="Eh bien, regardez qui n'est pas un idiot!" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Here_s_how_to_make_a_campfire_" value="Voici comment faire un feu de camp et quelques matchs.Vous aurez besoin d'em." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+</Node>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_ign_quest" type="external">
+  <Key key="_node_NODE_2020_5_19_11481929870845_2__Zadanie_vzyato__" value="Vraiment?D'ACCORD.Allez vers le nord et gardez le chemin.Et lorsque vous atteignez le marais, vous êtes au bon endroit.Trouvez Bob, il saura quoi faire." />
+  <Key key="_node_NODE_2020_5_19_1150950361282_2__Reshit__vopros_s_Bossom_voennykh" value="Merci!Sois prudent.Les portes sont à l'est, mais elles sont verrouillées de l'intérieur.Tu vas devoir trouver un moyen sur le mur." />
+  <Key key="_goal_IQgoalTalkToBuddy" value="Parlez avec Hawkeyed Bob" />
+  <Key key="_QuestActionAddToJournal_BCXa" value="Gerful Roody, barman: - Besoin de réparer la bombasse-9000.Pouvez-vous apporter une traction des cordes à partir du dépotoir des ordures?Hawkeed Bob à l'entrée peut vous dire où les trouver." />
+  <Key key="_goal_IQgoalDealWithBoss" value="Deal with soldiers" />
+  <Key key="_QuestActionAddToJournal_WTsv" value="Hawkeyed Bob, gardien de la décharge de poubelle: - Le dépotoir des ordures est capturé par certains soldats.Leur patron, le commissaire Fabrago, contrôle toutes les parties.Les portes sont verrouillées de l'intérieur, mais vous comprendrez cela." />
+  <Key key="_QuestActionAddToJournal_c7Ii" value="Le commissaire Fabrago, chef des combattants de Lost Front: - Vous devriez être cantonné pour avoir tué les soldats de l'Empire!" />
+  <Key key="_QuestActionAddToJournal_cuJ5" value="Le commissaire Fabrago est tué." />
+  <Key key="_node_NODE_2020_5_20_1157269483028_1__On_tam_chto_to_stroit__Vse_tran" value="Roody vous a envoyé?Je sais que j'ai promis de l'aider avec la poupée, mais toutes les pièces de rechange sont à la déchets et j'ai peur d'y aller maintenant." />
+  <Key key="_node_NODE_2020_5_20_11422049924462_3__Ya_dazhe_ne_v_obide__Esli_soldat" value="Toi.Écoute attentivement.Je suis le commissaire Fabrago.Commandant de l'unité spéciale de l'expédition Corp du True Empire." />
+  <Key key="_node_NODE_2020_5_20_1116270240236_3__Ty_dobyvaesh__mne_tank___na_khod" value="Nous avons été envoyés dans ce monde au moyen du portail pour trouver et ramener une nouvelle arme pour détruire les ennemis de l'Empire.J'aurais dû vous exécuter pour avoir tué les soldats de l'Empire, mais il y a un moyen de vous racheter ..." />
+  <Key key="_node_NODE_2020_5_27_1025297967258_1__VETKA_BUDET_DORABOTANA_POZZhE" value="Trouvez et activez un transformateur à trois tensions et je vous épargnerai.Ce pourrait être un peu, umm choquant.Il est" />
+  <Key key="_node_NODE_2020_5_29_12181941194315_5__Nuzhny_zapchasti___dogovarivaysya" value="Si vous pouviez obtenir les pièces, je vais aider Roody.Je pense que vous devrez traiter avec des soldats pour les obtenir." />
+  <Key key="_node_NODE_2020_6_4_173259242808_1__Oh_really_that_would_be_great_" value="Ce serait formidable si vous pouviez trouver Bob et lui rappeler mon problème.Je vous rembourserais généreusement." />
+  <Key key="_node_NODE_2020_6_4_172027015011_3__Some_soldiers_posted_up_there_" value="Certains soldats s'y sont affichés il y a quelques jours.Ils tirent sur tous ceux qui essaient d'entrer dans le dépotoir." />
+  <Key key="_node_NODE_2020_6_4_171577343516_3__" value="Vous mourrez maintenant." />
+  <Key key="_goal_idBotParts" value="Obtenez des pièces pour Dancing Bot" />
+  <Key key="_varDescription_BEQk" value="les pièces" />
+  <Key key="_node_NODE_2020_6_9_14591184613789_6__Ok_then_" value="Alors ok." />
+  <Key key="_node_NODE_2020_6_9_14591677827089_6__Fine_" value="Bien." />
+  <Key key="_node_NODE_2020_6_9_1481135327588_6__Great_" value="Super, ils sont quelque part à proximité." />
+  <Key key="_npc_Bob_agreed_to_help_" value="Bob a accepté d'aider?" />
+  <Key key="_npc_Excellent__Your_life_will_be_t" value="Excellent!Votre vie sera la récompense de vos efforts." />
+  <Key key="_npc_Have_you_fixed_the_electricity" value="Avez-vous déjà corrigé l'électricité?" />
+  <Key key="_QuestActionAddToJournal_FQ7O" value="J'ai activé tous les transformateurs.Il est temps de retourner à Fabrago" />
+  <Key key="_QuestActionAddToJournal_RYZW" value="J'ai activé tous les transformateurs.Il est temps de retourner à Fabrago" />
+  <Key key="_QuestActionAssistentPhrase_YGG2" value="phrasenumber21" />
+  <Key key="_npc_Great__I_ll_fix_the_robot__You" value="Super.Je vais réparer le robot.Vous pouvez le dire à Roody." />
+  <Key key="_goal_goto_bob" value="Ramenez des pièces à Bob" />
+  <Key key="_QuestActionAddToJournal_dCu7" value="J'ai collecté toutes les parties, j'ai besoin de les amener à Bob qui vit dans les marécages" />
+  <Key key="_npc_Have_you_collected_the_parts_y" value="Avez-vous déjà collecté les pièces?" />
+  <Key key="_goal_goto_roody" value="Bring back Roody good news." />
+  <Key key="_QuestActionAddToJournal_Hk30" value="Bob a accepté de réparer le robot.J'ai besoin de revenir vers elle et de parler de cela." />
+  <Key key="_goal_activ_transformers" value="Activez les transformateurs de tension." />
+  <Key key="_QuestActionAddToJournal_eexh" value="Fabrago m'a demandé de trouver et d'activer le transformateur de tension.Il peut y avoir quelque part à proximité." />
+  <Key key="_varDescription_cngG" value="Transformateurs de tension" />
+  <Key key="_goal_back_to_fabrago" value="Retour à Fabrago" />
+  <Key key="_QuestActionAddToJournal_YK6R" value="J'ai activé tous les transformateurs.Il est temps de retourner à Fabrago" />
+  <Key key="_goal_find_dancedrive" value="Finde Dance-Drive Module" />
+</Node>

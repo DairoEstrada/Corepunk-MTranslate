@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_skull_mask" type="external">
+  <Key key="_npc_Got_any_spare_bones_" value="Vous avez des os de rechange?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Bone_tastic_to_see_you_" value="Osseux pour vous voir." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Life_or_death__friend_" value="La vie ou la mort, ami?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Need_a_bone_buyer_" value="Besoin d'un acheteur d'os?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Joints_creaking_yet_" value="Les articulations grinçaient encore?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_At_death_s_door__or_just_visit" value="À la porte de la mort, ou simplement visiter?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Any_bones_for_sale_" value="Des os à vendre?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_How_s_it_going__skullhead_" value="Comment ça va, Skullhead?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Greetings__flesh_bearer_" value="Salutations, porteurs de chair." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Spine_tingling_day__isn_t_it_" value="Spine-tingling day, isn't it?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+</Node>

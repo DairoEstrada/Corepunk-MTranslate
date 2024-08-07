@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_poi" type="external">
+  <Key key="_npc_Privet_naydi_tochki_interesa" value="Hey there. I know that there are eight POINTS OF INTEREST in this forest. I want you to show me each of those. " voice="Female" />
+  <Key key="_goal_find_poi" value="Encontre todos os pontos de interesse na área da floresta de mana" />
+  <Key key="_varDescription_Id2g" value="Pontos de interesse" />
+  <Key key="_QuestActionAddToJournal_BuaQ" value="Encontre todos os pontos de interesse" />
+  <Key key="_npc_Ty_vse_otkryl_" value="Obrigado, fiz gravações de todos os pontos de interesse nesta área.Isso foi muito útil.Aqui, eu tenho algo para retribuir você." voice="Female" />
+  <Key key="_goal_end_quest" value="Fale com o cientista" />
+  <Key key="_QuestActionAddToJournal_9wHt" value="Retornar ao cientista e relatar" />
+  <Key key="_goal_find_two" value="Meteorito caído" />
+  <Key key="_goalVoice_RIN4" value="Encontre todos os pontos de interesse na floresta" voice="Female" />
+  <Key key="_goal_find_one" value="Brilhando bem" />
+  <Key key="_QuestActionAddToJournal_Eysz" value="Retornar ao cientista e relatar" />
+  <Key key="_goal_find_three" value="Três andares" />
+  <Key key="_goal_find_four" value="Túmulo antigo" />
+  <Key key="_goal_find_five" value="Grande árvore" />
+  <Key key="_goal_find_six" value="Cachoeira benta" />
+  <Key key="_goal_find_seven" value="Lago Mana" />
+  <Key key="_goal_find_eight" value="Super computador" />
+  <Key key="_QuestActionAddToJournal_Pvui" value="Ponto número um está pronto" />
+  <Key key="_assistant_phrase_F17T" value="Ok, brilhando bem, muito bonito." voice="Female" />
+  <Key key="_QuestActionAddToJournal_5dgm" value="O ponto número dois está pronto" />
+  <Key key="_assistant_phrase_LqG9" value="Um meteorito caído, uau.Não chegue muito perto disso, pode ser perigoso." voice="Female" />
+  <Key key="_QuestActionAddToJournal_6iRu" value="Ponto número seis está pronto" />
+  <Key key="_assistant_phrase_99Nc" value="It must be the place where the old inhabitants of the forest made their rituals. Impressive. How did they move all those huge stones?" voice="Female" />
+  <Key key="_QuestActionAddToJournal_4TdV" value="Retornar ao cientista e relatar" />
+  <Key key="_QuestActionAddToJournal_8wqI" value="O ponto número sete está pronto" />
+  <Key key="_assistant_phrase_XIBs" value="Um lago mana!Como isso consegue manter sua forma líquida na superfície?Não chegue muito perto, isso fará você alucinar." voice="Female" />
+  <Key key="_QuestActionAddToJournal_60Sf" value="Retornar ao cientista e relatar" />
+  <Key key="_QuestActionAddToJournal_GpFE" value="Ponto número oito está pronto" />
+  <Key key="_assistant_phrase_YN1z" value="Gostaria de saber se os antigos moradores da floresta receberam ordens desse computador, acreditando que era algum tipo de espírito." voice="Female" />
+  <Key key="_QuestActionAddToJournal_I3yh" value="Retornar ao cientista e relatar" />
+  <Key key="_QuestActionAddToJournal_Iwuq" value="O ponto número cinco está pronto" />
+  <Key key="_assistant_phrase_aUi4" value="I can't believe it. So the Great Tree of Wisdom does exist. " voice="Female" />
+  <Key key="_QuestActionAddToJournal_KFFZ" value="Retornar ao cientista e relatar" />
+  <Key key="_QuestActionAddToJournal_bcUY" value="Ponto número quatro está pronto" />
+  <Key key="_assistant_phrase_5HZt" value="Este deve ser o túmulo de um guerreiro antigo.Provavelmente antes de Aliens chegarem aqui.A tecnologia é muito diferente." voice="Female" />
+  <Key key="_QuestActionAddToJournal_9vJG" value="Retornar ao cientista e relatar" />
+  <Key key="_QuestActionAddToJournal_KKJQ" value="Ponto número três está pronto" />
+  <Key key="_assistant_phrase_Nn7O" value="O que este três andares está fazendo aqui, no meio da floresta?Incrível!Talvez você encontre algo de valor dentro." voice="Female" />
+  <Key key="_QuestActionAddToJournal_dJUI" value="Retornar ao cientista e relatar" />
+</Node>

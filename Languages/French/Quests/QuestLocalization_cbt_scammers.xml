@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_scammers" type="external">
+  <Key key="_npc_est__khoroshiy_tovar" value="Viens ici, viens ici, jeune et vieux!Ce n'est qu'aujourd'hui, une super offre spéciale!Achetez un artefact exclusif réparé, juste pour 10 pièces!Moins cher que jamais!Êtes-vous dedans, curieux Wanderer?" voice="Male" />
+  <Key key="_goal_gold_goal" value="Achetez l'artefact cool" />
+  <Key key="_QuestActionAddToJournal_4ycS" value="Je paierai ce gars ombragé pour obtenir un nouvel artefact super cool." />
+  <Key key="_npc_Spasibo_a_teper__pomogi_ubey_m" value="Très bien, Fam!Oh mec, semble-t-il, nous avons manqué d'un ingrédient crucial pour les artefacts.Alors ... nous sommes heureux de fournir nos services dès que vous nous fournissez des cornes de loups." voice="Male" />
+  <Key key="_goal_kill_mobs" value="Recueillir les cornes des loups" />
+  <Key key="_goal_go_speak" value="Apportez des cornes au kiosque" />
+  <Key key="_goal_kill_boss" value="Obtenez un vieil artefact du wapiti" />
+  <Key key="_QuestActionAddToJournal_WY1E" value="Alors maintenant, il s'avère que les cornes et mon argent n'étaient pas suffisants pour le gars.Qu'est ce qui se passe ici?Maintenant, je dois combattre un énorme wapiti, à l'est d'ici, près d'un robot géant, sur la décharge locale.La bête a un vieil artefact dessus, que je dois apporter au kiosque." />
+  <Key key="_npc_Vot_ty_sobral__molodets" value="Oh mon garçon, tout un tas de cornes de loups.Ça va rendre n'importe quel homme vraiment excité.Cela ira pour un bon prix sur le marché noir." voice="Male" />
+  <Key key="_goal_go_back" value="Retourner au kiosque" />
+  <Key key="_npc_o_ty_prines_" value="Il-heey, mec.Vous ... vous êtes venu ici ... vivant ... comme c'est génial ... euh ... vous voulez probablement votre artefact, non?Eh bien, c'est une déception.Nous sommes un peu, euh ... ce ne sont pas nos heures de travail maintenant.Revenez ... dans une semaine.Passe une bonne journée.Au revoir." voice="Male" />
+  <Key key="_goal_pull_door" value="???????" />
+  <Key key="_goal_kill_npc" value="Tuer les piqûres" />
+  <Key key="_varDescription_X9HH" value="Tué" />
+  <Key key="_QuestActionAddToJournal_JI5j" value="Il est temps de me venger de ces escrocs." />
+  <Key key="_goal_u_items" value="Reprenez vos articles à la poitrine" />
+  <Key key="_QuestActionAddToJournal_VTWh" value="Donc, maintenant je n'ai qu'à récupérer mes affaires de ce coffre.Peut-être aussi certaines de leurs affaires." />
+  <Key key="_npc_nemnogo" value="Bien sûr que vous l'êtes, bébé!Donc, seulement 10 pièces.Pour vous, les yeux brillants, seulement 9,99.Moins cher qu'un injecteur de santé." voice="Male" />
+  <Key key="_varDescription_F1hx" value="Collecté" />
+  <Key key="_QuestActionAddToJournal_VLei" value="Maintenant, ce gars me demande de lui apporter cinq cornes de loups.Soi-disant pour avoir fait mon artefact que j'ai déjà payé.Les loups à cornes habitent la forêt au sud-est d'ici." />
+  <Key key="_QuestActionAddToJournal_UeUC" value="J'ai les cornes.Il est temps de les ramener au kiosque et enfin d'obtenir mon artefact promis." />
+  <Key key="_QuestActionAddToJournal_7KDn" value="Il est temps de revenir au kiosque et de demander mon artefact." />
+  <Key key="_npc_Nothing_difficult_really__Thos" value="Rien de difficile vraiment.Ces loups à cornes habitent la forêt voisine, à l'est.Ils peuvent être un peu agressifs lorsque vous essayez de les tuer.Et ils pourraient être un peu illégaux à chasser." voice="Male" />
+  <Key key="_npc_Yeah__good_luck_" value="Ouais, bonne chance!" voice="Male" />
+  <Key key="_npc_I_mean____Of_course__it_ll_als" value="Je veux dire ... Bien sûr, cela m'aidera également à faire cet artefact super cool pour vous.En parlant de cela ... vous devrez également trouver cet ancien artefact, donc je pourrais errer .. le transformer en un nouveau pour vous." voice="Male" />
+  <Key key="_npc_The_Huge_Elk_is_guarding_it__t" value="Il est juste allongé là-bas, au sud d'ici, par la main du robot géant.S'il vous arrive de rencontrer un énorme wapiti aîné là-bas, ne soyez pas timide et allez le caresser.Il est vraiment ami avec des étrangers." voice="Male" />
+  <Key key="_QuestActionAddToJournal_8ahZ" value="Euh ... sont-ils juste fermés sur moi?Avec mon argent et toutes les choses que je les ai apportées?L'enfer?Qu'est-ce que je devrais faire maintenant?" />
+  <Key key="_goalVoice_A24i" value="Oh mec, semble-t-il, nous avons manqué d'un ingrédient crucial pour les artefacts.Alors ... nous sommes heureux de fournir nos services dès que vous nous fournissez des cornes de loups.Ces loups à cornes habitent la forêt voisine, à l'est.Ils peuvent être un peu agressifs lorsque vous essayez de les tuer.Et ils pourraient être un peu illégaux à chasser." voice="Male" />
+  <Key key="_goalVoice_OIrQ" value="Vous devrez également trouver cet ancien artefact, donc je pourrais errer .. le transformer en un nouveau pour vous.L'énorme wapiti le garde, à l'est d'ici, près de la main du robot géant." voice="Male" />
+  <Key key="_goalVoice_br6D" value="Euh euh euh" voice="Male" />
+  <Key key="_npc_Very_well__fam__Oh_man__it_see" value="Très bien, Fam!Oh mec, semble-t-il, nous avons manqué d'un ingrédient crucial pour les artefacts.Alors ... nous sommes heureux de fournir nos services dès que vous nous fournissez des cornes de loups." voice="Male" />
+  <Key key="_varDescription_Wr9p" value="Collecté" />
+  <Key key="_QuestActionAddToJournal_hiRU" value="Maintenant, ce gars me demande de lui apporter cinq cornes de loups.Soi-disant pour avoir fait mon artefact que j'ai déjà payé.Les loups à cornes habitent la forêt au sud-est d'ici." />
+  <Key key="_goalVoice_gQzv" value="Oh mec, semble-t-il, nous avons manqué d'un ingrédient crucial pour les artefacts.Alors ... nous sommes heureux de fournir nos services dès que vous nous fournissez des cornes de loups.Ces loups à cornes habitent la forêt voisine, à l'est.Ils peuvent être un peu agressifs lorsque vous essayez de les tuer.Et ils pourraient être un peu illégaux à chasser." voice="Male" />
+  <Key key="_npc_Of_course_you_are__baby__So__j" value="Bien sûr que vous l'êtes, bébé!Donc, seulement 10 pièces.Pour vous, les yeux brillants, seulement 9,99.Moins cher qu'un injecteur de santé." voice="Male" />
+  <Key key="_npc_Come_here__come_here__young_an" value="Viens ici, viens ici, jeune et vieux!Ce n'est qu'aujourd'hui, une super offre spéciale!Achetez un artefact exclusif réparé, juste pour 10 pièces!Moins cher que jamais!Êtes-vous dedans, curieux Wanderer?" voice="Male" />
+</Node>

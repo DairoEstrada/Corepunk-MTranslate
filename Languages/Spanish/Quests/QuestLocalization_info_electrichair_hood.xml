@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_electrichair_hood" type="external">
+  <Key key="_npc_Obadiah_Flint__the_man_the_lig" value="Obadías Flint, el hombre que el rayo no pudo matar." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Struck_me_once__then_again__bu" value="Me golpeó una vez, y otra vez, pero solo me hizo más fuerte.Curioso, ¿no?" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Some_say_I_m_mad__others_say_I" value="Algunos dicen que estoy enojado, otros dicen que soy elegido.La verdad es que me encanta una buena sacudida." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Funny_thing__Once_you_embrace_" value="Cosa graciosa.Una vez que abraza el dolor, comienzas a anhelarlo." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Pain__pleasure__What_really_is" value="¿Dolor, placer?¿Cuál es realmente la diferencia ..." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Shocking__I_know_" value="Impactante, lo sé." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Oh__I_m_just_crackling_with_en" value="Oh, solo estoy chirriante de energía, gracias por preguntar." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Just_shocked_myself_on_the_cha" value="Simplemente me sorprendí en la silla.¡La electricidad me mantiene en forma y alimentado!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_I_have_to_admit__it_s_a_bit_lo" value="Tengo que admitir que es un poco solo.Esta silla no parece favorecer muchas otras almas." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_They_fried__you_see__They_re_a" value="Se fríen, ya ves.Todos son solo cáscaras sin vida ahora." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_But_one_day__I_will_find_the_o" value="¡Pero un día, encontraré a los otros elegidos por la conmoción!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_And_then_our_purpose_will_be_c" value="Y entonces nuestro propósito será claro." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_This_here_is_where_the_storm_s" value="Aquí es donde me escupe la tormenta, justo al lado de esta belleza de una silla." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_This_chair_and_I__we_ve_become" value="Esta silla y yo, nos hemos convertido en una pareja." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_We_share_shocks_and_secrets__b" value="Compartimos amortiguadores y secretos, pero sobre todo choques." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Folks_around_here_say_it_s_cur" value="La gente de aquí dice que es maldita, pero lo llamo mi trono." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Care_to_give_it_a_try__I_d_lov" value="¿Te importa intentarlo?Me encantaría ver qué te pasa ..." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Oh__you_re_in_for_a_shocker_" value="¡Oh, te espera una sorpresa!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Got_a_joltting_task_for_you_" value="Tengo una tarea de sacudida para ti." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_I_could_use_a_spare_fuse_" value="Podría usar un fusible de repuesto." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_You_re_quite_the_live_wire_" value="¡Eres un cable en vivo!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Maybe_you_can_find_others_for_" value="Maybe you can find others for the test..." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Ain_t_needing_help__just_anoth" value="No necesitas ayuda, ¡solo otro shock!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Keep_your_help__I_got_my_volts" value="Mantenga su ayuda, obtuve mis voltios." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Help__Nah__I_m_just_here_for_t" value="¿Ayuda?No, estoy aquí para el Zap." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Fuck_off__I_m_busy_communing_" value="A la mierda, estoy ocupado comunicando." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_No_thanks__I_m_basking_in_the_" value="No, gracias, estoy disfrutando del beso eléctrico." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Mind_your_own__I_m_wired_enoug" value="Tenga en cuenta la tuya, estoy lo suficientemente conectado." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_No_need__I_m_already_juiced_" value="No hay necesidad, ya estoy jugado." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Just_need_my_daily_dose_of_vol" value="Solo necesito mi dosis diaria de voltios." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Just_need_my_voltage_fix_" value="Solo necesito mi solución de voltaje." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_No_help_needed__just_my_chair_" value="No se necesita ayuda, solo mi silla y una tormenta." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Got_all_the_wattage_I_need_" value="Tengo toda la potencia que necesito." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Not_now__still_savoring_the_la" value="Ahora no, todavía saboreando la última sacudida." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_I_m_all_juiced_up__thanks_" value="Estoy jugado, gracias." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Just_me_and_the_thunder__pal_" value="Just me and the thunder, pal." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Curse_your_help__I_need_the_pa" value="¡Maldita tu ayuda, necesito el dolor!" voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Nah__the_current_s_all_I_crave" value="No, la corriente todo lo que anhelo." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Your_as_useless_as_a_dead_batt" value="Eres tan inútil como una batería muerta." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+  <Key key="_npc_Voltage_is_my_only_friend_" value="Voltage is my only friend." voiceSettingsId="LKziHXdqAXssCHUzarG2" />
+</Node>

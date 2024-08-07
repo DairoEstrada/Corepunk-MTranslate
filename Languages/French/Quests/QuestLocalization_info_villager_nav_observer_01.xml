@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_villager_nav_observer_01" type="external">
+  <Key key="_npc_I_told_Ben_he_shouldn_t_fertil" value="J'ai dit à Ben qu'il ne devait pas fertiliser ses récoltes avec cette bizarrerie éclatante.Il l'a fait de toute façon.Maintenant, les rats locaux sont devenus intelligents et ont déclaré une guerre contre ces douchebags extraterrestres pour leur blé." voice="Male" />
+  <Key key="_npc_As_if_that_wasn_t_enough__ther" value="Comme si cela ne suffisait pas, il y a maintenant un essaim de ces moucherons dégoûtants bourdonnant sur nos champs.Brr.Nous ne les avions jamais eu ici avant que cette ville de ville ne soit venue ici." voice="Male" />
+  <Key key="_npc_She_s_usually_just_standing__c" value="Elle se tient généralement devant les champs, sur la route du deuxième hub, en regardant les insectes.Les gens de la ville sont fous, je vais vous le dire." voice="Male" />
+</Node>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_specialization_mastery_legionary" type="external">
+  <Key key="_npc_I_m_Relkyn_Stoutshield__part_t" value="Je suis Relkyn STOUTSHIELD, défenseur à temps partiel, lance-personnes à temps plein." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_My_origins_trace_back_to_the_u" value="Mes origines remontent aux montagnes de fer impitoyables, où la survie est une bataille quotidienne." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_They_say_the_pen_is_mightier_t" value="Ils disent que le stylo est plus puissant que l'épée, mais ils ne m'ont clairement jamais vu bouclier bash quelqu'un au visage." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Despite_my_tough_exterior__I_m" value="Malgré mon extérieur dur, je suis juste un humble légionnaire essayant de garder mes amis en vie et peut-être de m'amuser en cours de route." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_And_no__I_m_not_going_to_let_y" value="Et non, je ne vais pas vous laisser utiliser mon bouclier comme un traîneau." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Oh__you_know__just_skewered_a_" value="Oh, tu sais, il suffit de brouiller quelques méchants avec ma fidèle lance.Rien de tel que le frisson d'un bon coup!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_I_m_great__can_t_complain_when" value="Je suis super, je ne peux pas me plaindre lorsque vous êtes entouré d'amis et d'ennemis.Garde la vie intéressante!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Keeping_the_peace__one_stab_at" value="Garder la paix, un coup de couteau à la fois.La vie est drôle de cette façon, hein?" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Life_in_Kwalat_keeps_a_legiona" value="La vie à Kwalat garde un légionnaire sur ses gardes, mais je suis plus que possible pour le défi!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_It_s_a_tough_gig__but_someone_" value="C'est un concert difficile, mais quelqu'un doit piquer les monstres.Et je suis vraiment bon dans ce domaine!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Welcome_to_Faidens_Camp__where" value="Bienvenue au camp Faidens, où une lance et un bouclier fort sont vos meilleurs amis." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_If_you_re_lucky__you_might_eve" value="Si vous avez de la chance, vous pourriez même assister à un concours de lance-lance!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Here__legionaries_prepare_for_" value="Ici, les légionnaires se préparent à tout ce que Kwalat leur lance.Et croyez-moi, Kwalat lance beaucoup!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Think_of_it_as_a_boot_camp_wit" value="Considérez-le comme un camp d'entraînement avec un sens de l'humour.Nous pouvons être robustes, mais nous savons certainement comment faire une blague tout en dénigmant les crânes." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Oh__absolutely__Even_a_tank_li" value="Oh, absolument!Même un réservoir comme moi pourrait utiliser un acolyte de temps en temps!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_You_read_my_mind__Got_a_spare_" value="Tu lis dans mes pensées!Vous avez une main de rechange ... ou une lance?" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Of_course__These_monsters_aren" value="Bien sûr!Ces monstres ne vont pas se frapper!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Definitely__Let_s_make_some_en" value="Certainement!Faisons des ennemis regrettons leurs choix de vie!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_I_ve_been_fighting_non_stop__a" value="J'ai combattu sans arrêt et je meurs de faim.J'ai besoin de côtes levées croustillantes pour continuer." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Oh__I_m_having_way_too_much_fu" value="Oh, je m'amuse beaucoup trop par moi-même, mais merci d'avoir demandé!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Not_right_now__Just_polishing_" value="Pas tout de suite.Polirant mon bouclier et pratiquer mes tourbillons de lance!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Unfortunately_no__I_m_in_timeo" value="Malheureusement non.Je suis dans le temps mort pour &quot;voler&quot; la mise à mort de mon copain.J'ai &quot;sécurisé&quot; le kill!" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Go_practice_your_spear_throws_" value="Allez pratiquer votre lance jette un peu, puis revenez." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Nothing_gets_me_back_in_the_ga" value="Rien ne me ramène dans le jeu comme un bon repas.Ces côtes frites croustillantes sont exactement ce dont j'ai besoin." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Do_me_a_favor_and_grab_some_Cr" value="Faites-moi une faveur et prenez des côtes frites croustillantes.Un guerrier se bat mieux à l'estomac plein." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_I_can_take_on_anything_if_I_ve" value="Je peux prendre n'importe quoi si j'ai des côtes frites croustillantes en moi.Vous pensez que vous pouvez vous aider?" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Help_me_out_and_fetch_some_Cri" value="Aidez-moi et récupérez des côtes frites croustillantes.Je vous en dois un, grand temps." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Oh__that_s_a_shame__I_ll_just_" value="Oh quel dommage.Je devrai juste me faire." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_No_worries__I_ll_find_another_" value="Pas de soucis, je vais trouver un autre moyen de récupérer ma force." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Alright__but_don_t_blame_me_if" value="D'accord, mais ne me blâmez pas si je commence à vous regarder comme une collation." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+</Node>

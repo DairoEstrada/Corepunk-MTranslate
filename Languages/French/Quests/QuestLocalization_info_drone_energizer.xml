@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_drone_energizer" type="external">
+  <Key key="_npc_Designation__Energizer_21__you" value="Désignation: Energizer-21, votre sympathique bot de ravitaillement de mana." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Affirmative__assistance_requir" value="Affirmative, assistance requise." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Yes__I_need_help_with_a_task_" value="Oui, j'ai besoin d'aide pour une tâche." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Your_help_would_greatly_improv" value="Votre aide améliorerait considérablement l'efficacité des robots agricoles." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Negative__I_am_functioning_opt" value="Négatif.Je fonctionne de manière optimale." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_No_assistance_required_at_this" value="Aucune assistance requise pour le moment." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_The_agricultural_bots_seem_to_" value="Les robots agricoles semblent épuiser leurs réserves de mana à un rythme accéléré." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_My_analysis_indicates_that_the" value="Mon analyse indique que le lot actuel de résine de mana pourrait être de qualité inférieure à la norme, provoquant ce problème." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_For_the_bots_to_regain_their_e" value="Pour que les robots retrouvent leur efficacité, il est crucial de les reconstituer avec du mana de qualité supérieure." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Although_I_am_fully_equipped_t" value="Bien que je sois entièrement équipé pour convertir la résine de mana en mana utilisable, l'absence de manipulateurs me permet de m'aventurer dans les bois pour le rassembler.Veux-tu?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Decline_registered__Seeking_al" value="Déclin enregistré.Rechercher des solutions alternatives." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Understood__Resuming_normal_op" value="Compris.Reprendre des opérations normales." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Acknowledged__I_will_continue_" value="Reconnu.Je continuerai à surveiller la situation." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_a_product_of_Plantech_Inn" value="Je suis un produit de PlantEch Innovations Inc., une filiale de ... Accès refusé." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_My_core_function__to_ensure_th" value="Ma fonction principale: pour assurer les niveaux de mana optimaux de nos robots agricoles." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_An_intriguing_exploration_is_s" value="Une exploration intrigante suivra certainement." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_have_detected_an_anomaly_in_" value="J'ai détecté une anomalie dans la consommation d'énergie de bots agricoles." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_We_are_currently_in_Goldenfiel" value="Nous sommes actuellement dans le secteur de Goldenfield." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_This_area_is_primarily_used_fo" value="Cette zone est principalement utilisée pour les activités agricoles." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

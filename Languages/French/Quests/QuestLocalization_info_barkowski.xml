@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_barkowski" type="external">
+  <Key key="_npc_Name_s_Barkowski__or_Bark_for_" value="Nom's Barkowski, ou Bark pour faire court." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Got_no_clue_why_they_call_me_t" value="Je n'ai aucune idée de pourquoi ils m'appellent ainsi." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Oh_wait_man__It_s_cause_I_m_a_" value="Oh attendez mec.C'est parce que je suis un chien!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Funny_thing__I_kinda_forgot_I_" value="Chose drôle, j'ai un peu oublié que j'étais un chien." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Lately__it_just_feels_normal__" value="Dernièrement, c'est juste normal, vous savez?Puis Bam, ça me frappe." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Oh__you_know__same_old__same_o" value="Oh, tu sais, le même vieux, le même vieux." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Just_enjoyin__the_day__one_dri" value="Profitez de la journée, un verre à la fois." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_These_paws_make_holding_a_glas" value="Ces pattes rendent la tenue d'un verre délicat, mais je gère." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Everything_s_a_blur__but_I_rem" value="Tout est flou, mais je me souviens de grands contes, des bars et ... une nuit sauvage?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Starting_to_think_maybe_a_guy_" value="Commencer à penser que peut-être un gars nommé Zeek avait quelque chose à voir avec ça." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_I_m_parked_right_outside_the_b" value="Je suis garé juste à l'extérieur du bar, le meilleur endroit pour discuter et boire." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_You_get_all_sorts_here_farmers" value="Vous obtenez toutes sortes ici d'agriculteurs, des voyageurs et de bonnes friandises." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Being_a_dog_has_its_perks__No_" value="Être un chien a ses avantages.Personne n'attend beaucoup de toi." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Pondering_life_and_love__same_" value="Réfléchissant à la vie et à l'amour, comme toujours.Vous êtes-vous déjà demandé si les filles de Viper iraient pour un mutt débraillé comme moi?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Nah__I_got_this__bro_" value="Non, j'ai eu ça, mon frère." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_No_worries__dude__I_m_chillin_" value="Pas de soucis, mec, je chillin '." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_All_good__man__I_m_solid_" value="Tout bien, mec, je suis solide." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Nah__homie__I_m_good_" value="Non, mon pote, je vais bien." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Relax__bro__all_under_control_" value="Détendez-vous, mon frère, tous sous contrôle." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Dude__absolutely_" value="Mec, absolument!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Hell_yeah__bro_" value="Enfer ouais, mon frère!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Totally__man__let_s_crush_it_" value="Totalement, mec, écrasons ça!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_For_sure__my_guy_" value="Bien sûr, mon gars!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+</Node>

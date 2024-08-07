@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_drone_quadro_mono_gun" type="external">
+  <Key key="_npc_Good_Day__Inhabitant_" value="Bonne journée, habitante." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Hello__Outworlder_" value="Bonjour, outworlder." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Greetings__Outworlder_" value="Salutations, outworlder." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Papers__please_" value="Papiers s'il vous plaît." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Identification__now_" value="Identification, maintenant." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Show_your_documents_" value="Montrez vos documents." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_State_your_business_" value="Indiquez votre entreprise." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

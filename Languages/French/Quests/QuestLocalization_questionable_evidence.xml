@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_questionable_evidence" type="external">
+  <Key key="_npc_Isn_t_there_a_way_you_could_ch" value="N'y a-t-il pas un moyen de changer d'avis?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Would_you_rather_let_Triton_ro" value="Préférez-vous laisser Triton errer librement et faire ce qu'il veut?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_goal_collect_item" value="Trouver le masque de Triton" />
+  <Key key="_npc_What_if_Triton_continues_his_a" value="Et si Triton continue ses actions?Pouvez-vous vivre avec ça?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Really__Are_you_turning_down_a" value="Vraiment?Rejetez-vous le plaidoyer d'un garde maudit?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_goalVoice_Did_you_hear_about_the_mask_s_" value="Avez-vous entendu parler de l'emplacement du masque dans la tente menaçante au sud de la maison du lac?Le masque dans la tente menaçante pourrait-il être lié aux activités de Triton?La rumeur sur le masque était-elle vraie dans la tente menaçante?Vous vous souvenez, la tente menaçante, non?Êtes-vous sûr de l'avoir vérifié pour le masque?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Did_you_know_Baxton_is_a_lawye" value="Saviez-vous que Baxton est un avocat, stupide?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_goal_talk_npc" value="Apporter à Baxton &quot;Skip&quot; Malroth" />
+  <Key key="_npc_Have_you_figured_out_that_you_" value="Avez-vous compris que vous avez besoin d'obtenir ce masque et de l'apporter à Baxton?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_You_d_think_that_mask_would_he" value="On pourrait penser que le masque aiderait beaucoup dans une affaire juridique contre lui, non?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Would_you_believe_that_such_a_" value="Croiriez-vous qu'un tel masque pourrait lui permettre de se faufiler dans le village inaperçu?Peut-être même le faire paraître humain?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Have_you_ever_heard_rumors_abo" value="Avez-vous déjà entendu des rumeurs sur le masque de Triton?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Maybe_you_can_help_me_deliver_" value="Vous pouvez peut-être m'aider à effectuer la convocation finale." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_QuestActionAddToJournal_Quaridor_Vex_Windstone_Village" value="Quoridor Vex&#10;Windstone Village, Place de Guard: West.&#10;Aidez Quoridor Vex à récupérer un artefact enchanté que Triton cache près de la tente menaçante." />
+  <Key key="_npc_How_will_you_feel_if_Triton_ha" value="Comment vous sentirez-vous si Triton blesse un autre bébé?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_After_all__I_was_a_stone_skipp" value="Après tout, j'étais skipper de pierre depuis si longtemps - je ne suis avocat que depuis une semaine." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_I_ve_been_waiting_for_a_chance" value="J'attendais une chance de fléchir mes muscles légaux en dehors d'un livre d'histoire." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Ah__there_you_are__I_heard_you" value="Ah, voilà!J'ai entendu dire que vous aviez des preuves." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Are_you_sure_you_can_be_truste" value="Êtes-vous sûr de pouvoir vous faire confiance, Fuckface?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Oh__you_ve_found_it__Hand_it_o" value="Oh, tu l'as trouvé!Remettez-le, voyons si mon avocat non officiel peut réellement faire une différence." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+</Node>

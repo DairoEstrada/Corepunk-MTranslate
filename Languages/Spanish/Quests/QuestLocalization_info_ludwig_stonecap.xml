@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_ludwig_stonecap" type="external">
+  <Key key="_npc_Name_s_Ludwig_Stonecap__not_th" value="El nombre es Ludwig Stonecap, no es que importe." />
+  <Key key="_npc_Used_to_crack_skulls_and_take_" value="Solía ​​romper cráneos y tomar nombres en mi páramo industrial." />
+  <Key key="_npc_Stumbled_into_a_portal_during_" value="Tropezó en un portal durante una redada, y ahora estoy atrapado aquí." />
+  <Key key="_npc_They_stuck_me_in_this_mech_sui" value="Me metieron en este traje de mech para mantenerme fuera de problemas." />
+  <Key key="_npc_But_trust_me__I_m_just_itching" value="Pero confía en mí, solo estoy ansioso por una excusa para hacer que alguien se arrepienta de cruzarme." />
+  <Key key="_npc_So_go_ahead__make_a_move__Give" value="Así que adelante, haga un movimiento.Dame una razón para mostrarte quién es el jefe por aquí." />
+  <Key key="_npc_How_am_I__Trigger_finger_s_itc" value="¿Como estoy?El dedo de activación es picazón, como de costumbre." />
+  <Key key="_npc_Waiting_for_someone_like_you_t" value="Esperando a que alguien como tú ponga a prueba mi paciencia." />
+  <Key key="_npc_These_mushrooms_keep_me_edgy__" value="Estos hongos me mantienen nerviosos, pero también me mantienen afilado." />
+  <Key key="_npc_Most_days_I_just_stand_here__b" value="La mayoría de los días me quedo aquí, aburrido, esperando algo de acción." />
+  <Key key="_npc_Make_a_wrong_move__and_you_mig" value="Haga un movimiento incorrecto, y podrías alegrarte el día." />
+  <Key key="_npc_So_go_ahead__do_something_stup" value="Así que adelante, haz algo estúpido.Te reto." />
+  <Key key="_npc_This_is_Riverrise__where_the_u" value="Esto es rivrise, donde lo inesperado es rutina." />
+  <Key key="_npc_You_just_crossed_the_bridge_in" value="Acabas de cruzar el puente hacia mi césped, la entrada de la ciudad 1." />
+  <Key key="_npc_It_s_a_quaint_little_town__fil" value="Es una pequeña ciudad pintoresca, llena de todo tipo de cuerpos." />
+  <Key key="_npc_But_don_t_let_the_calm_fool_yo" value="Pero no dejes que la calma te engañe;Los problemas siempre están a la vuelta de la esquina." />
+  <Key key="_npc_Mess_up_around_here__and_you_l" value="Enjuagarse por aquí y te encontrarás mirando por mi barril." />
+  <Key key="_npc_Nah__I_prefer_making_my_own_ch" value="No, prefiero hacer mi propio caos." />
+  <Key key="_npc_Not_unless_you_want_to_be_my_n" value="No, a menos que quieras ser mi próxima práctica de destino." />
+  <Key key="_npc_Keep_your_distance__I_don_t_ne" value="Mantén tu distancia;No necesito ayuda." />
+  <Key key="_npc_No_thanks__unless_you_re_volun" value="No, gracias, a menos que seas voluntario para ser mi próxima marca." />
+  <Key key="_npc_Oh__you_wanna_help__Perfect__m" value="Oh, ¿quieres ayudar?Perfecto, más objetivos." />
+  <Key key="_npc_Sure__if_you_re_ready_to_dive_" value="Claro, si estás listo para sumergirte en el caos." />
+  <Key key="_npc_Help__huh__Hope_you_can_dodge_" value="Ayuda, ¿eh?Espero que puedas esquivar las balas." />
+  <Key key="_npc_Fine__but_don_t_get_in_my_way_" value="Bien, pero no te interponga en mi camino o te dispararé primero." />
+</Node>

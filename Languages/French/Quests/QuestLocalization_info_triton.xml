@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_triton" type="external">
+  <Key key="_npc_Triton_good__go_away_" value="Triton bien, partez." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Used_to_be_chef_big_underwater" value="Auparavant, le chef était un grand maison sous-marine." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_They_not_like_what_I_cook_" value="Ils n'aiment pas ce que je cuisine." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_fine_" value="Triton bien." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_manage_" value="Triton Manage." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Found_bugs__plants_yuck__not_s" value="Trouvé des insectes, des plantes beurk, pas la même." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Me_sell_special_caviar_to_vill" value="Je vends du caviar spécial au village.Obtenez des brins!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Still_miss_tasty____erm____bab" value="Miss Miss Tasty ... euh ... Babies." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Help_Triton__get_reward_" value="Aidez Triton, obtenez une récompense." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Just_run_out_town__again_" value="Il suffit de courir la ville, encore une fois." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Help_Triton__you_" value="Aidez Triton, vous?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Tried_eat_different__but_blegh" value="J'ai essayé de manger différent, mais Blegh." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Cousin_lawyer_helps_maybe_" value="L'avocat du cousin aide peut-être." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Need_legal_advice__This_discri" value="Besoin de conseils juridiques.Cette discrimination, oui?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Shiny_lake__where_Triton_pee_" value="Lac brillant, où Triton pipi." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Is_abuse__Will_have_to_sue_to_" value="Est un abus!Devra poursuivre pour obtenir l'égalité." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_want_swim__Triton_no_hurt_" value="Vous voulez nager?Triton ne vous blesse pas." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_World_so_unfair_" value="Monde si injuste." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_just_want_snack_" value="Triton veut juste une collation." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Lake_not_tasty__but_home_now_" value="Lac pas savoureux, mais à la maison maintenant." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Many_weird_trees__strange_magi" value="Beaucoup d'arbres étranges, une magie étrange." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Town_eat_fish_babies__Triton_d" value="La ville mange des bébés de poisson, Triton mérite des bébés de la ville." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_too_old____meat_gone_bad_" value="Toi trop vieux ... la viande a mal tourné." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Could_use_claw__hand_" value="Pourrait utiliser la griffe, la main." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_They_no_understand_Triton_diet" value="Ils ne comprennent pas le régime Triton." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Plan_secret__good_pay_" value="Planifiez secret, bon salaire." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_We_kidnap__No_" value="Nous kidnapper?Non?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Gather_evidence__you_can_" value="Rassemblez des preuves, vous pouvez?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Legal_stuff__humans_better_" value="Des trucs juridiques, les humains mieux." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Triton_not_great_" value="Triton pas génial." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Promise_worth_while_" value="Promettre la valeur." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_No_need_" value="Pas besoin." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Now_Triton_in_woods__trying_ne" value="Maintenant Triton dans Woods, essayant de nouvelles choses." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Fishy_business_done_" value="Fishy Business fait." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Not_hungry_now_" value="Pas faim maintenant." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Thank__but_no_" value="Merci, mais non." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Me_Triton__nice_meet_you_" value="Moi Triton, gentil te rencontrer." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Help_not_needed_" value="Aider pas nécessaire." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Exile_Triton_for_delicious_mea" value="Exile Triton pour de délicieux repas." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+</Node>

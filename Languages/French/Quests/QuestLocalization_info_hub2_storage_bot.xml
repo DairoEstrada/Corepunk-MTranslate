@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hub2_storage_bot" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_These_are_the_lands_of_the_Kin" value="Ce sont les terres du royaume d'Elan.Et ce sont des terres assez dangereuses, en dehors de la sécurité de la ville.Mais ne t'inquiète pas.Tout ce que vous laissez avec moi sera en sécurité." voice="Male" />
+  <Key key="_npc_I_feel_very_safe_here__Got_it_" value="Je me sens très en sécurité ici.J'ai compris?Sûr!Parce que chaque article que vous me donnez est garanti d'être en sécurité jusqu'à votre retour." voice="Male" />
+  <Key key="_npc_I_am_StorageBot__by_Leithanian" value="Je suis Storagebot + par Leithanian Royal Bank.Nous offrons à nos clients les meilleures options de stockage.L'expérience de nos clients est notre première priorité." voice="Male" />
+</Node>

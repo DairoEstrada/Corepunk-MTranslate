@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_hub2_greetings_guard_m" type="external">
+  <Key key="_npc_Uh__What__I_m_not_sleeping__Ne" value="¿Oh?¿Qué?No estoy durmiendo.¡Nunca duermas de servicio!" voice="Male" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+</Node>

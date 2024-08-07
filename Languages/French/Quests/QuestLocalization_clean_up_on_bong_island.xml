@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_clean_up_on_bong_island" type="external">
+  <Key key="_npc_Oh__hey__um__who_are_you_again" value="Oh, hé, euh, qui tu es encore?Mais, comme, les bongs ...?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Oh__you_are_the_BEST__Pleeeeas" value="Oh, tu es le meilleur!Pleeeease ne laissez pas ma mère le découvrir." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Herbal_Pipes" value="Récupérer une pipe à base de plantes" />
+  <Key key="_QuestActionAddToJournal_Queenie_Viper_Riverrise__Left_" value="Queenie Viper&#10;Riverise, côté gauche de la cour du bar.&#10;&#10;Aider Queenie Viper à nettoyer après sa fête sauvage en récupérant 5 bangs de l'ancienne maison." />
+  <Key key="_goalVoice_Like__seriously___You_haven_t_" value="Comme, sérieusement ?!Vous n'avez pas encore trouvé les bongs?Ugh, tu es tellement lent!Ne me faites pas venir là-bas et faites-le moi-même, hic!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Okay__okay__I_owe_you_one_hic_" value="D'accord, d'accord, je vous dois un hic- comme, un grand!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Just____not_a_sexual_one__You_" value="Juste ... pas sexuel.Tu es euh ... - HIC - n'est pas mon type." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Like__oh_em_gee__finally__Took" value="Comme, oh-em-gee, enfin!Vous a pris assez longtemps, jeez." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Seriously__if_you_made_me_wait" value="Sérieusement, si tu m'as fait attendre une seconde de plus, j'aurais ... Ugh!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Here__take_your_reward_and_scr" value="Ici, prenez votre récompense et brouillez.Je vais fumer tout cela à la fois, Hic." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Remember__zip_it__Or_you_ll_re" value="Rappelez-vous, zippez-le!Ou vous le regretterez, hic!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_My_mom_can_NEVER_find_out__got" value="Ma mère ne peut jamais le découvrir, l'avez-vous?Ou vous êtes aussi du pain grillé!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Like__oh_em_gee__you_HAVE_to_h" value="Comme, oh-em-gee, tu dois aider moieee!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Last_night_was_like__whoa__tot" value="Hier soir, c'était comme, Whoa, totalement sauvage, et je suis toujours en quelque sorte en train de voir Double, Hic." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_If_my_mom_catches_wind_that_I_" value="Si ma mère prend le vent que je faisais la fête, je toast." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_She_ll_totally_explode__like_k" value="Elle explosera totalement, comme Kaboom!Tu m'as eu?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Pretty_pleeeeease__can_you_fet" value="Jolie pleeeeease, pouvez-vous récupérer ces bangs de l'ancienne maison de RiverRise?" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_I_swear__you_ll_be_my_hero_for" value="Je jure que tu seras mon héros pour toujours, hic." voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Ugh__don_t_be_such_a_buzzkill_" value="Ugh, ne soyez pas un tel buzzkill, jolie pleeeease!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Nooo__come_on__I_m__like__tota" value="Non, allez!Je te supplie totalement ici!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_You_re_seriously_going_to_leav" value="Tu vas sérieusement me laisser pendre?Alors pas cool!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Oh__for_the_love_of_hic_don_t_" value="Oh, pour l'amour du HIC, ne me faites pas ramper!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Puh_leeeease__I_ll_owe_you__li" value="Puh-leeeease, je vous dois, comme, un million de faveurs!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+  <Key key="_npc_Wow__thanks_a_lot__Now_I_ll_ju" value="Wow, merci beaucoup!Maintenant, je vais juste être anéanti par ma mère!" voiceSettingsId="UkaTE9qG9GEfbUz1bIt2" />
+</Node>

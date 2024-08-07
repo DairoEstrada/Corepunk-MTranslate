@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lost_page_of_power" type="external">
+  <Key key="_npc_Oh_man__I_totally_forgot____Wh" value="Oh hombre, lo olvidé totalmente ... ¿de qué estábamos hablando?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_goalVoice_Whoa__I_forgot_I_had_a_transmi" value="Whoa, olvidé que tenía un transmisor.¿Me escuchaste hace unos 15 minutos?Esas páginas, hombre ... podrían estar cerca del camino abandonado hacia el norte, ¿recuerdas?Busque azul profundo.Probablemente esté en algún lugar cercano.Y oye, si el azul profundo tiene drogas adicionales, pase.Te pagaré de vuelta.¡Tienen una mierda interdimensional!Espera, ¿cómo dijiste que tienes a Kwalat de nuevo?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Maybe_next_time____or_was_it_t" value="Tal vez la próxima vez ... ¿o fue esta vez?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_talk_npc" value="Regresa a Mary Jane Greenpuff" />
+  <Key key="_npc_Think_you_can_dig_it_up_" value="¿Crees que puedes desenterrarlo?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_The_scene_was_wild__picture_it" value="La escena era salvaje, imagínelo: hongos y zarcillos de coloridos locos en todas partes.Y el azul profundo es como una pequeña lámpara de lava.Podría mirarlo todo el día." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_So__I_was_vibing_with_Deep_Blu" value="Entonces, estaba vibrando con azul profundo en la carretera abandonada al norte más allá del lago, simplemente escalofriante, y utilicé una de esas páginas como papel rodante.Gran error, amigo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_So_uh__man____about_those_lost" value="Entonces, hombre ... sobre esas páginas perdidas.Creo que recuerdo dónde dejé caer el primero." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Whoa__that_is_far_out__This_pa" value="¡Whoa, eso está lejos!Esta página tiene algunas cosas locas escritas.¿Qué dice?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_QuestActionAddToJournal_Mary_Jane_Greenpuff_Windreach_" value="Mary Jane Greenpuff&#10;Windreach Woods, casa de carretera.&#10;&#10;Encuentre la página perdida en la carretera abandonada para Mary Jane Greenpuff." />
+  <Key key="_npc_Whoa__I_guess_my_brain_took_a_" value="Whoa, supongo que mi cerebro hizo un viaje sin mí.No dispares." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_varDescription_Missing_pages" value="Páginas faltantes" />
+  <Key key="_npc_Oh_wow__hey__You_brought_my___" value="Oh wow, oye!Trajiste mi ... uh, espera, ¿qué me estaba perdiendo?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Nah_but_for_real__it_s_great_t" value="No, pero de verdad, es genial verlo.Especialmente si traes tus propios Shrooms." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Groovy__man__Just_watch_out_fo" value="Groovy, hombre!Solo ten cuidado con las cosas trippy." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

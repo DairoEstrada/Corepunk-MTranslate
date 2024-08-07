@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_astronaut_botanist" type="external">
+  <Key key="_npc_Word_travels_fast__you_know_" value="Le mot voyage rapidement, vous savez?" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Well__that_and_the_fact_you_re" value="Eh bien, cela et le fait que vous êtes recherché pour un incendie criminel et que vous devez effacer votre nom." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Got_all_I_need_right_here____E" value="J'ai tout ce dont j'ai besoin ici ... sauf pour mon équipage, bien sûr." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Actually__yes__Can_t_promise_i" value="En fait, oui.Je ne peux pas promettre que ce sera facile, cependant." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_My_crew__they_re_not_just_coll" value="My crew, they're not just colleagues - they're my friends. The thought of them lost and terrified... it's too much." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_I_understand__It_s_a_lot_to_as" value="Je comprends.C'est beaucoup à demander.Je vais juste ... je vais continuer à attendre." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_But_hey__there_s_no_rush__righ" value="Mais bon, il n'y a pas de précipitation, non?Sauf que chaque seconde à cocher ressemble à un coup de poing dans l'intestin." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_It_feels_like_an_eternity_sinc" value="Cela ressemble à une éternité depuis le crash.Le temps et l'espace ont perdu tout sens." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Sure__no_problem__Space_is_vas" value="Bien sûr pas de problème.L'espace est vaste et le temps est ... eh bien, j'en ai beaucoup ici." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Well__apart_from_my_radio_bein" value="Eh bien, à part ma radio étant aussi utile qu'une théière de chocolat, je vais bien." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_It_s_not_so_bad_here__got_plen" value="Ce n'est pas si mal ici, j'ai eu beaucoup d'amis verts pour me tenir compagnie." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Name_s_Dr__Orion_Bloom__the_on" value="Nom's Dr. Orion Bloom, le seul et unique botaniste spatial!" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Then__an_imp_showed_up_and_rai" value="Ensuite, un IMP est apparu et a fait une descente dans l'ensemble de notre navire!Ridicule." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_But_hey__could_be_worse__Like_" value="But hey, could be worse. Like being allergic to oxygen, right?" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Oh__and_my_suit_s_recycling_sy" value="Oh, et le système de recyclage de mon costume?Excellent.J'ai pris la même tasse de café six fois!" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Could_definitely_use_a_hand__O" value="Pourrait certainement utiliser une main.Ou deux.Ou quatre, si vous les avez." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_You_know__I_think_I_m_alright_" value="Tu sais, je pense que je vais bien pour le moment." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_I_wish_I_could_tell_you_more_a" value="J'aimerais pouvoir vous en dire plus sur cet endroit, mais je suis aussi perdu qu'un chat noir dans une cave à charbon." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_We_collided_with_something_in_" value="Nous sommes entrés en collision avec quelque chose dans l'espace, la prochaine chose que je sais, je me suis réveillé dans cette étrange terre.Tout est un peu flou." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_There_are_flora_and_fauna_I_ve" value="Il y a de la flore et de la faune que je n'ai jamais vues auparavant.C'est comme si j'avais un déclin sur une planète inconnue." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_One_crash_landing__some_lost_c" value="Un accident d'atterrissage, un équipage perdu et beaucoup de plantes extraterrestres plus tard, me voici." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_If_you_re_offering__I_ve_got_a" value="Si vous proposez, j'ai un emploi pour vous." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_You_re_kind__but_I_think_I_ve_" value="Tu es gentil, mais je pense que j'ai des choses sous contrôle." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_The_isolation__the_uncertainty" value="The isolation, the uncertainty - it's maddening. Every moment is a test of sanity." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_I_m_stranded_here__with_no_way" value="Je suis bloqué ici, sans aucun moyen de naviguer dans ce paysage extraterrestre ou de les contacter." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_That_s_okay__I_ll_keep_holding" value="C'est bon.Je vais continuer à garder l'espoir.C'est tout ce que j'ai en ce moment." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Unfortunately__my_crew_were_th" value="Malheureusement, mon équipage était les vrais scientifiques." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_An_imp__Using_my_plants__That_" value="Un imp?Utiliser mes plantes?C'est méprisable ..." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_So__if_you_come_across_my_crew" value="Donc, si vous rencontrez mon équipage, passez-leur mes coordonnées.Peut-être que nous pouvons résoudre votre problème." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+</Node>

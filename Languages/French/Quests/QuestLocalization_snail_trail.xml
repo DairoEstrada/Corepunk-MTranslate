@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_snail_trail" type="external">
+  <Key key="_npc_Woah__you_re_in__Excellent__Li" value="Woah, tu es dedans?Excellent!Comme, le plus triomphant, mec!Cruivons." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_goal_collect_rainbow_snail" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Rainbow_Snail" value="Recueillir l'escargot arc-en-ciel" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_Barkowski_Riverrise__Left_side" value="Abri&#10;Riverise, côté gauche de la cour du bar.&#10;&#10;Aider Barkowski, le chien philosophique, pour rassembler des escargots arc-en-ciel pour une expérience mystique." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Oh__right__the_snails__Yeah_ma" value="Oh, c'est vrai, les escargots!Ouais mec, tu peux m'apporter 5 de ces escargots arc-en-ciel?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Dude__back_already__Did_you_na" value="Mec, revenez déjà?Avez-vous attrapé ces escargots rad?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Whoa__most_excellent__You_got_" value="Whoa, le plus excellent!Vous les avez!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_These_snails_are_gonna_be_a_to" value="Ces escargots vont changer la donne.Je ressens déjà les vibrations cosmiques, mec." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Wait____were_these_toxic_for_d" value="Attendez ... étaient-ils toxiques pour les chiens ... ou comme ... pas toxiques?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Guess_I_ll_find_out_" value="Je suppose que je le découvrirai!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_You_ve_earned_some_major_tail_" value="Vous avez gagné des wags de queue majeurs de ma part.Jusqu'à notre prochaine aventure tubulaire, Bro!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Alright__listen_up__bro__So__t" value="Très bien, écoutez, mon frère!Il y a donc ces escargots arc-en-ciel noueux." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Word_is__chomping_down_on_one_" value="La parole est que se répercuter sur l'un de ces mauvais garçons peut vous épater!Même pour un ... euh, mec ... chien ... comme moi.Totalement trippant, non?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Dude__it_s_like_tasting_the_ra" value="Mec, c'est comme goûter l'arc-en-ciel, mais pour de vrai!J'ai besoin de votre aide à attraper ces escargots car, vous savez, je suis tout au sujet des vibrations, pas de la randonnée." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Whoa__bummer__dude__Guess_it_s" value="Whoa, bummer, mec!Je suppose que ce n'est pas la confiture de tout le monde.Attrapez-vous plus tard, bro!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Aw__man__I_was_really_stoked_f" value="Aw, mec, j'étais vraiment ravi pour ça!Mais bon, pas de rancune, mec." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Totally_gnarly__but_I_respect_" value="Totalement noueux, mais je respecte cela.Si vous changez d'avis, je serai là ... euh ... remuant." voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+</Node>

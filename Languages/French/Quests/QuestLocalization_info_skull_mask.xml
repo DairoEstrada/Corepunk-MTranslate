@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_skull_mask" type="external">
+  <Key key="_npc_I_am_Ferris_Bonewright__just_a" value="Je suis Ferris Bonewright, juste un squelette dans une &quot;prison de viande&quot;, comme vous." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Once_just_a_simple_mortician__" value="Une fois juste un simple morticien, maintenant un peu un génie mal compris." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_I_almost_convinced_the_doctor_" value="J'ai presque convaincu le médecin de ... Libérer mes os ..." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_He_said_I_had_some_kinda_rare_" value="Il a dit que j'avais un virus de l'esprit un peu rare!Il pense même que cela pourrait être contagieux ..." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_So_now_I_m_just_biding_my_time" value="Alors maintenant, je suis juste en attente de mon temps." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Some_folks_collect_stamps__I_c" value="Certaines personnes collectent des timbres;Je collectionne des os ... des donateurs volontaires, bien sûr." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Oh__just_waiting_eagerly_" value="Oh, juste attendre avec impatience." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Old_Mr__Willows_isn_t_looking_" value="Le vieux M. Willows n'est pas trop vif de nos jours." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Every_cough_feels_like_a_step_" value="Chaque toux ressemble à un pas de plus d'un nouveau squelette dans ma collection!" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_I_ve_been_checking_in_on_him_m" value="Je l'ai vérifié plus fréquemment sur lui." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_You_know__just_being_neighborl" value="Vous savez, être juste voisin ..." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_When_he_finally_kicks_the_buck" value="Quand il frappe enfin le seau, je serai là pour ... aider." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_It_s_more_than_just_a_village_" value="C'est plus qu'un simple village, c'est un jeu sans fin de cache-cache avec les morts." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_I_ve_got_my_eye_on_those_hidde" value="J'ai un œil sur ces squelettes cachés sous des sourires sans méfiance." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_And_guess_what__I_always_find_" value="Et devine quoi?Je trouve toujours ce que je recherche ... éventuellement." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_I_could_use_help____reducing_t" value="Je pourrais utiliser de l'aide ... en réduisant la population du village." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Yes__ever_handled_a_shovel_and" value="Oui, déjà géré une pelle et un poignard?" voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Absolutely__target_practice_wo" value="Absolument, la pratique cible ne ferait pas de mal." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Yes__there_are_a_few_folks_who" value="Oui, il y a quelques gens qui ont besoin ... de persuasion." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Definitely__some_souls_need_a_" value="Certainement, certaines âmes ont besoin d'un petit coup de pouce." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Oh__most_certainly__Some_peopl" value="Oh, très certainement.Certaines personnes ont besoin d'un repos permanent." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_You__help__You_re_too____intac" value="Vous aidez?Tu es trop ... intact." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_No__you_re_way_too_lively_for_" value="Non, vous êtes trop vivant pour mes besoins." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Not_today__Come_back_when_you_" value="Pas aujourd'hui.Revenez quand vous êtes un peu plus proche de la tombe." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Nope__you_re_too_full_of_life_" value="Non, tu es trop plein de vie.J'ai besoin de quelqu'un de plus ... décomposé." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+  <Key key="_npc_Appreciate_the_offer__but_I_do" value="Appréciez l'offre, mais je ne m'occupe pas des vivants." voiceSettingsId="dAwXE1GjXDExEklOa63N" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_collector2" type="external">
+  <Key key="_QuestActionAddToJournal_8iHh" value="Talk to the collector" />
+  <Key key="_QuestActionAddToJournal_NuZB" value="Give the artifact to the collector" />
+  <Key key="_goal_end_quest" value="Traiga el &quot;juguete de madera&quot; al cazador de artefactos" />
+  <Key key="_goalVoice_YQvr" value="Encuentra un artefacto como este" voice="Male" />
+  <Key key="_QuestActionAddToJournal_G57y" value="Encuentra un artefacto como este" />
+  <Key key="_goal_find_artefact" value="Encuentra el artefacto de &quot;juguete de madera&quot;" />
+  <Key key="_npc_Prinesi_artefakt" value="Entonces, este se llama &quot;juguete de madera clavado en el piso&quot;.¿Me lo vas a entregar?" voice="Male" />
+  <Key key="_npc_O_da__davay_mne" value="Eso es realmente bueno.Trae algo de nostalgia.Gracias, aquí está tu pago." voice="Male" />
+</Node>

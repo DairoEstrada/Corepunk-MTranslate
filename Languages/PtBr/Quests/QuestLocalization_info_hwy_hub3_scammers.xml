@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_hwy_hub3_scammers" type="external">
-  <Key key="_npc_" value=" " voice="Male" />
-  <Key key="_npc_Sorry__not_an_info_stand__" value="Desculpe, não um suporte de informação." voice="Male" />
-  <Key key="_npc_It_doesn_t_matter_who_we_are__" value="Não importa quem somos.O que importa é o que fazemos.Nós damos uma chance!" voice="Male" />
-  <Key key="_npc_Ready_to_make_you_rich__baby_" value="Ready to make you rich, baby!" voice="Male" />
-</Node>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_dopy" type="external">
+  <Key key="_npc_Hiya_" value="Hiya!" />
+  <Key key="_npc_Oh__um__hi_" value="Oh, euh, salut?" />
+  <Key key="_npc_Hello__friend_" value="Bonjour mon ami!" />
+  <Key key="_npc_Whoops__hey_" value="Oups, hé!" />
+</Node>

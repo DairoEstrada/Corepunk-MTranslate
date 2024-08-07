@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_grmp" type="external">
+  <Key key="_npc_GRMP__What_do_you_want_" value="Grmp.Que veux-tu?" />
+  <Key key="_npc_Used_to_be_top_notch_security_" value="Auparavant, une sécurité de premier ordre dans une technicien brillant avant que les choses ne se détournaient." />
+  <Key key="_npc_Had_a__catastrophic_glitch___t" value="Avait un «problème catastrophique», ils l'ont appelé.Maintenant, je suis juste un gâchis grincheux de fils et de rancunes." />
+  <Key key="_npc_Got_ditched_by_my_creators_and" value="J'ai été abandonné par mes créateurs et j'ai fini ici à travers des bêtises de vortex." />
+  <Key key="_npc_Now_I_m_stuck_scanning_every_n" value="Maintenant, je suis coincé à scanner chaque nouveau venu comme la mission de ma vie.Je suppose que c'est le cas maintenant." />
+  <Key key="_npc_Don_t_make_me_repeat_myself__I" value="Ne me fais pas me répéter.Si vous êtes effacé, avancez." />
+  <Key key="_npc_How_do_you_think_" value="How do you think?" />
+  <Key key="_npc_Circuits_are_buzzing__algorith" value="Les circuits bourdonnent, les algorithmes grincheux." />
+  <Key key="_npc_Still_ticking__unfortunately_" value="Toujours en train de cocher, malheureusement." />
+  <Key key="_npc_Could_be_worse__I_suppose_" value="Pourrait être pire, je suppose." />
+  <Key key="_npc_Dealing_with_newcomers_is_a_ne" value="Traiter avec les nouveaux arrivants est un cycle d'irritation sans fin." />
+  <Key key="_npc_Everything_s_still_functioning" value="Tout fonctionne toujours, plus ou moins." />
+  <Key key="_npc_This_place_isn_t_getting_any_l" value="Cet endroit ne devient pas moins chaotique, si c'est ce que vous demandez." />
+  <Key key="_npc_Welcome_to_Riverrise___lucky_y" value="Bienvenue à RiverRise Lucky You." />
+  <Key key="_npc_This_dusty_corner_of_the_unive" value="Ce coin poussiéreux de l'univers est appelé Whisperwind Isle." />
+  <Key key="_npc_It_s_all_farms__crafting_quart" value="Ce sont toutes les fermes, les quartiers d'artisanat et les citadins qui ne peuvent pas s'occuper de leur propre entreprise." />
+  <Key key="_npc_Not_to_mention__the_current_ho" value="Sans oublier, le hotspot actuel pour les gawkers inter-universeurs entrants." />
+  <Key key="_npc_I_m_stationed_here_to_make_sur" value="Je suis stationné ici pour m'assurer qu'aucun d'entre eux n'apporte quoi que ce soit ... problématique." />
+  <Key key="_npc_Just_do_what_you_need_to_and_t" value="Faites simplement ce dont vous avez besoin et essayez de ne pas provoquer de gâchis.J'en ai assez à gérer." />
+  <Key key="_npc_No__I_m_good__Go_bother_someon" value="Non ça va.Allez déranger quelqu'un d'autre." />
+  <Key key="_npc_Help__From_you__Hard_pass_" value="Aide?De toi?Passe dure." />
+  <Key key="_npc_Absolutely_not__I_ve_got_it_un" value="Absolument pas.Je l'ai sous contrôle." />
+  <Key key="_npc_Do_I_look_like_I_need_help__Mo" value="Ai-je l'air d'avoir besoin d'aide?Avancer." />
+  <Key key="_npc_No_thanks__I_don_t_need_your_i" value="Non merci, je n'ai pas besoin de votre interférence." />
+  <Key key="_npc_I_m_just_fine_without_your_med" value="Je vais très bien sans votre intention, merci." />
+  <Key key="_npc_Yeah__I_could_use_a_hand__I_gu" value="Ouais, je pourrais utiliser une main, je suppose." />
+  <Key key="_npc_Don_t_make_me_beg__Help_is_nee" value="Ne me fais pas mendier.Une aide est nécessaire." />
+  <Key key="_npc_Fine__if_you_insist__There_s_s" value="Très bien, si vous insistez.Il y a quelque chose que vous pouvez faire." />
+  <Key key="_npc_Thought_you_d_never_ask__Yes__" value="Je pensais que tu ne demanderais jamais.Oui, j'ai besoin d'aide." />
+  <Key key="_npc_Help__Oh_fine__yes__I_need_it_" value="Aide?Oh très bien, oui, j'en ai besoin.Heureux maintenant?" />
+</Node>

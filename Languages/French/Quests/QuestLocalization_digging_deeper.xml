@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_digging_deeper" type="external">
+  <Key key="_npc_Talk_to_me__now__Did_ya_find_s" value="Parle moi maintenant.Avez-vous trouvé quelque chose de hors de l'ordinaire?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Aye__you_heard_tales_of_the_re" value="Oui, vous avez entendu des histoires de la relique ici aussi?Pensait que tout était le fanfaron d'Alex." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Whatever_dark_magic_lurks_down" value="Quelle que soit la magie noire qui se cache ici, nous pouvons le trouver ensemble." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_goal_collect_old_quarry" value="Recueillir des artefacts dans Old Quarry" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_This_from_Mary_Jane__Thanks_ki" value="Ceci de Mary Jane?Merci Kid, j'en ai besoin pour enregistrer mon podcast." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_re_lookin__for_some_artifa" value="Vous cherchez un artefact?Oh, je connais les artefacts!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_The_artifact_below_this_quarry" value="L'artefact en dessous de cette carrière n'est pas seulement votre trouvaille moyenne;Nous parlons de contrôle mental, peut-être même des trucs interdimensionnels!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goalVoice_Hey__remember__the_truth_is_do" value="Hé, rappelez-vous, la vérité est en bas de cette putain de carrière!Gardez les yeux ouverts pour tout ce que les médias grand public ne veulent pas que vous trouviez." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Ah__come_on__what_are_ya__scar" value="Ah, allez, qu'est-ce que tu as, effrayé les illuminati vont te faire?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_re_bailing_on_me__The_glob" value="Tu m'aubrante?Le programme mondialiste a remporté ce tour." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Fine__guess_the_reptilian_over" value="Très bien, je suppose que les suzerains reptiliens ont obtenu une nouvelle recrue." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_But_I_m_slammed_with_my_latest" value="Mais je suis critiqué avec mon dernier épisode de podcast sur The Dark Mages infiltrant le gouvernement Elanien, donc j'ai besoin de bottes sur le terrain pour celui-ci." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_gotta_get_down_to_the_bott" value="Tu dois descendre au fond de la carrière et parler à Dorik.Il a vu des choses, mec." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_talk_dorik" value="Parlez à Dorik Oakenshield" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Alright__we_need_someone_with_" value="Très bien, nous avons besoin de quelqu'un avec le courage de dénicher cette merde.Vous y êtes!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_QuestActionAddToJournal_Alexander_Stones_Westwind_Wood" value="Alexander Stones&#10;Westwind Woods, vieille plate-forme surplombant la carrière.&#10;&#10;Enquêter sur l'artefact rumeur conduisant des mineurs à la folie dans la carrière." voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Well__good_luck_out_there_with" value="Eh bien, bonne chance sans aucune protection du chapeau d'étain!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

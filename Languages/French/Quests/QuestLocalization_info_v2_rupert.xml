@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_rupert" type="external">
+  <Key key="_npc_" value="Je suis prêt à répondre à toutes vos questions." voice="Male" />
+  <Key key="_npc_Everything_goes_very_well_inde" value="Tout se passe très bien.J'ai déjà esquivé deux voyages aujourd'hui.Tellement de travail acharné.Le second était un Nitwit me demandant de livrer une lettre à une mine abandonnée.Je lui ai dit, je suis un facteur, mec, pas un .. euh .. Toastman.Homme grillé.L'obtenir?" voice="Male" />
+  <Key key="_npc_This_is_the_Postal_Office__Mer" value="Ceci est le bureau postal, Merchant Street 1, dans le magnifique village supérieur confortable, comté du sud, royaume d'Elan.Pour l'avenir, c'est ce que vous devez écrire sur vos enveloppes, d'accord?Ne me demandez pas cela à chaque fois.Merci." voice="Male" />
+  <Key key="_npc_I_m_Officer_Rupert__Postal_Off" value="Je suis officier Rupert.L'agent postal Rupert.Améliorer les vies en fournissant de bonnes nouvelles." voice="Male" />
+  <Key key="_npc_This_is_our_official_policy__b" value="C'est notre politique officielle, soit dit en passant.Nous ne fournissons que de bonnes nouvelles.Tous les mauvais que nous passons à travers un déchiqueteur, les mettons en feu et dispersons les cendres sur le vent.C'est pourquoi notre communauté est si heureuse selon le dernier recensement." voice="Male" />
+</Node>

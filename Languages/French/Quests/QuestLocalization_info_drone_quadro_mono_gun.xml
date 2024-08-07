@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_drone_quadro_mono_gun" type="external">
+  <Key key="_npc_I_am_Quadro_Sentinel_4_0__or_Q" value="Je suis quadro-Sentinel 4.0, ou Q4, un bot de sécurité créé par PlantEch Innovations Inc." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_have_been_programmed_to_ensu" value="J'ai été programmé pour assurer la sécurité et la sécurité de Goldenfield Town." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_As_a_bot__I_lack_human_like_em" value="En tant que bot, je manque d'émotions humaines, mais mes systèmes fonctionnent à une efficacité optimale." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_m_committed_to_my_prime_dire" value="Je suis engagé dans ma principale directive de sécurisation de Goldenfield." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_ensure_the_safety_of_the_tow" value="Je m'assure la sécurité des résidents de la ville, surtout pendant la nuit." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_To_ensure_the_town_s_safety__Q" value="Pour assurer la sécurité de la ville, Quadro doit détruire les porte-porteurs." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Goldenfield_town__the_area_I_v" value="La numérisation de Goldenfield Town, le nombre de signatures bio-signature indique des populations résidentes importantes dans des endroits clés." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_functioning_within_normal" value="Je fonctionne dans les paramètres normaux et je ne nécessite pas d'aide." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_My_protocols_do_not_include_th" value="Mes protocoles n'incluent pas la fourniture de tâches." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_not_programmed_to_generat" value="Je ne suis pas programmé pour générer des quêtes." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_autonomous_and_programmed" value="Je suis autonome et programmé pour fonctionner indépendamment." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Unfortunately__population_grow" value="Malheureusement, la croissance démographique semble dépasser la disponibilité des ressources.Afflux de portail non durable." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Resumption_of_operations_criti" value="Resomption des opérations critiques.Assistance vitale pour l'exemption temporaire de mes protocoles." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Affirmative__If_reconsideratio" value="Affirmative.Si un réexamen se produit, mon emplacement reste inchangé." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Denial_acknowledged__However__" value="Refus de refuser.Cependant, les sorties non autorisées entraîneront une action immédiate." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_System_guarantee__one_week_saf" value="Garantie du système: Passage en toute sécurité d'une semaine sous ma surveillance à la fin.Conformité bénéfique pour la survie." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Components_locatable_within_th" value="Composants locatifs dans les champs de Goldenfield.Inclusions nécessaires: une clé et deux outils supplémentaires." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Unauthorized_entities_feared_i" value="Les entités non autorisées craignaient l'immeuble.Quadro-Sentinel 4.0 a été endommagé dans le dernier bain de sang.Aider à ramener le système en ligne." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Any_trespassers_emerging_from_" value="Tous les intrus émergeant des portails sans documentation seront résiliés." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You____do_have_paperwork__do_y" value="Vous ... avez des documents, n'est-ce pas?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_would_hate_to_transpose_your" value="Je détesterais transposer votre corps en brume rouge." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Query_accepted__request_for_ai" value="Requête acceptée, demande d'aide confirmée." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Task_available__initiating_seq" value="Tâche disponible, initiation de séquence." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Acknowledged__help_is_needed_" value="Reconnu, une aide est nécessaire." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_No_one_can_be_trusted_during_t" value="Personne ne peut se faire confiance pendant la nuit ... pas même les autres quadro-menthel." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

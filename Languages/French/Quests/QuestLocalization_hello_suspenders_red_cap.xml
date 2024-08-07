@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_suspenders_red_cap" type="external">
+  <Key key="_npc_Lookin__for_something_special_" value="Vous cherchez quelque chose de spécial?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Come_closer__I_don_t_bite____m" value="Rendez-vous plus près, je ne mord pas ... beaucoup." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Got_something_you_might_like__" value="Vous avez quelque chose que vous pourriez aimer ..." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Fancy_a_peek_at_my_goods_" value="Envie d'un aperçu de mes marchandises?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Gonna_sweeten_your_deal_today_" value="Va adoucir votre affaire aujourd'hui?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Ready_for_a_wild_ride_" value="Prêt pour une balade sauvage?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Care_for_some____personal_serv" value="Prendre soin de certains ... Service personnel?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Got_something_special_just_for" value="J'ai quelque chose de spécial juste pour vous." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Lookin__for_a_good_time_" value="Vous cherchez un bon moment?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Step_into_my_tent_" value="Entrez dans ma tente." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Don_t_be_shy__come_closer_" value="Ne soyez pas timide, vous rapprochez." voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+  <Key key="_npc_Need_some____company_" value="Besoin de ... entreprise?" voiceSettingsId="1ZmlJ7YhB5X0Eej1FQbL" />
+</Node>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_monster_hunt" type="external">
+  <Key key="_npc_Here_you_go__Just_put_it_in_fr" value="Voici.Mettez-le simplement devant la grotte de l'ours et priez pour votre vie." voice="Male" />
+  <Key key="_goal_collect_meat" value="Trouvez un appât pour l'ours" />
+  <Key key="_varDescription_b46N" value="Found" />
+  <Key key="_QuestActionAddToJournal_UKDb" value="Maintenant, je dois trouver quelque chose pour attirer l'ours de son antre.Pour l'instant, c'est la viande des loups.Ce loup peut être trouvé au sud d'ici." />
+  <Key key="_npc__Ogromnyy_byl" value="Vous avez tué l'ours.C'est le plus admirable.Peut-être qu'un jour vous pourrez devenir membre de la Great Hunter Guild." voice="Male" />
+  <Key key="_goal_speak_back" value="Parler au grand chasseur" />
+  <Key key="_QuestActionAddToJournal_TTvi" value="J'ai la viande.Devrait l'apporter au grand chasseur, donc il en ferait un appât." />
+  <Key key="_npc_Teper__sdelaem_primanku_s_etog" value="Bon, cette viande devrait faire.Laissez-moi en faire un bon appât." voice="Male" />
+  <Key key="_goal_collect_sticks" value="Trouvez un bois de soufflage" />
+  <Key key="_varDescription_MS3r" value="Found" />
+  <Key key="_goal_collect_poison" value="Trouver la plante toxique" />
+  <Key key="_varDescription_NgJj" value="Found" />
+  <Key key="_goal_sticks_poison" value="Parler au grand chasseur" />
+  <Key key="_npc_nays_palki" value="Bien, vous avez apporté des bâtons et du venin.Je vais faire un coup de fouet.Pendant que je le fais, vous aurez besoin d'une sorte d'appât pour l'attirer.Cet ours est attiré par la viande fraîche, vous devez donc chasser quelques petits animaux.Apportez-moi leur viande." voice="Male" />
+  <Key key="_goal_bear_zone" value="Trouvez la grotte d'ours" />
+  <Key key="_QuestActionAddToJournal_VqGc" value="Maintenant, que j'ai tous les ingrédients pour une bonne chasse, je dois aller mourir des griffes de l'ours de tueur, je suppose.Tout d'abord, je dois trouver la grotte d'ours.C'est à l'ouest d'ici." />
+  <Key key="_goal_use_meat" value="Utilisez le leurre" />
+  <Key key="_QuestActionAddToJournal_Ekzf" value="This place looks rather nice. I have to change it by using the bait to lure out the Bear. I should remember that I can use the blowgun against the Bear in order to weaken it. " />
+  <Key key="_goal_kill_bera" value="Vaincre l'ours tueur" />
+  <Key key="_QuestActionAddToJournal_ddiS" value="Tue le! Tue le! Tue le!" />
+  <Key key="_goal_collect_fang" value="Récupérer le tueur d'ours" />
+  <Key key="_QuestActionAddToJournal_YZss" value="Je l'ai fait en quelque sorte.J'ai tué l'ours tueur.Maintenant, je dois obtenir son croc." />
+  <Key key="_goal_end_quest" value="Apportez le croc au grand chasseur" />
+  <Key key="_QuestActionAddToJournal_eQwq" value="Et apportez-le au chasseur." />
+  <Key key="_npc_I_m_Douglas_the_Great_Hunter__" value="Je suis Douglas le grand chasseur.Un membre de la Great Hunters Guild." voice="Male" />
+  <Key key="_npc_Only_the_best_of_the_hunters_c" value="Seul le meilleur des chasseurs peut devenir membres de la guilde.En ce moment, je suis sur ma chasse la plus ambitieuse.Je chasse l'ours tueur qui est censé errer dans l'endroit." voice="Male" />
+  <Key key="_npc_Huh__I_ve_spent_two_years_tryi" value="Hein!J'ai passé deux ans à essayer de le traquer.Mais bien sûr, vous pouvez tenter votre chance." voice="Male" />
+  <Key key="_npc_But_there_s_no_chance_you_can_" value="Mais il n'y a aucune chance que vous puissiez gérer cet ours.Il a tué beaucoup de bon chasseur.Je cherchais depuis depuis longtemps un moyen de l'affaiblir d'une manière ou d'une autre.J'ai entendu dire que le sabbat local devrait en savoir quelque chose.Mais je ne peux pas gagner leur confiance." voice="Male" />
+  <Key key="_npc_Actually__this_time_I_ll_tell_" value="En fait, cette fois, je vous dirai comment créer une arme spéciale pour affaiblir l'ours.Vous devez trouver un bon morceau de bois.Il suffit de couper un arbre ou quelque chose comme ça.Après cela, trouvez une plante toxique.Ensuite, donnez-les à moi et je vais créer l'arme pour vous." voice="Male" />
+  <Key key="_npc_Here_s_your_blowgun__Aim_at_th" value="Voici votre floum.Visez l'ours et soufflez.Cela devrait l'affaiblir.Bonne chance." voice="Male" />
+  <Key key="_QuestActionAddToJournal_UQuS" value="D'accord, j'ai du bois et des plantes toxiques.Devrait les donner au grand chasseur, afin qu'il puisse en faire une arme." />
+  <Key key="_QuestActionAddToJournal_C4qZ" value="D'accord, j'ai du bois et des plantes toxiques.Devrait les donner au grand chasseur, afin qu'il puisse en faire une arme." />
+  <Key key="_QuestActionAddToJournal_8S1e" value="J'ai rencontré un grand chasseur de la Great Hunters Guild.Il est après un ours tueur qui habiterait cette forêt.Pour une raison quelconque, je me suis porté volontaire pour participer à cette chasse.Alors maintenant, je dois trouver un morceau de bois approprié pour faire une fellation et des plantes toxiques pour faire des projectiles pour la fellation.Le bois peut être obtenu en coupant des arbres et la plante toxique pousse dans le Green Grove, loin à l'ouest d'ici." />
+  <Key key="_varDescription_fVhh" value="Collecter" />
+  <Key key="_varDescription_TJd0" value="Collecter" />
+  <Key key="_varDescription_JebS" value="Collecter" />
+  <Key key="_npc_Poteryal_" value="Donc?" voice="Male" />
+  <Key key="_npc_Primanku_govorish___na_derzhi" value="Bien sûr, j'en ai beaucoup.Voici." voice="Male" />
+  <Key key="player_I_lost" value="J'ai perdu l'un des articles que vous m'avez donnés." />
+  <Key key="_npc_nu_koroche_tam_to_tam" value="Vous pouvez trouver la plante toxique à l'ouest d'ici, dans un bosquet." voice="Male" />
+  <Key key="_npc_Myaso_tam" value="Pour trouver l'appât d'ours, vous devez tuer un animal malodorant et en prendre quelque chose.Pour l'instant, c'est un loup.Vous devez obtenir de la viande de loups." voice="Male" />
+  <Key key="_npc_Zona_medvedya_tam" value="La rumeur dit que l'ours de tueur aurait été repéré à l'ouest d'ici.Ces ours vivent généralement dans des grottes, alors cherchez-en un." voice="Male" />
+</Node>

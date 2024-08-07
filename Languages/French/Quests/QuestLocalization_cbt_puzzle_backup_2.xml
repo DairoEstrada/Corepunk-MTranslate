@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_puzzle_backup_2" type="external">
+  <Key key="_goal_goto_giver" value="Activer le terminal" />
+  <Key key="Malatsa_" value="As tu fini?Dites-moi que vous avez fini, parce que je vais me chier si je tiens ça pendant une minute de plus, je vous le dis." voice="Male" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="Wow__you_did_it__muh_man__You_" value="Hé, beau travail là-bas.Mis à part la moitié de mes récoltes écrasées.Voici votre salaire.Quoi?Qu'est-ce que tu attends?Une douche dorée?Allez, copain, la plupart des gens seraient heureux de faire le travail même pour moins.Prends soin de toi." voice="Male" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_npc_Hey__you_re_the_new_guy__Got_a" value="Les putains de tuyaux!Ils me rendent fou!Je vais me prêter un coup de main ou vous tenir ici en regardant?" voice="Male" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_goal_" value="Parler à Kicheki" />
+  <Key key="_QuestActionAddToJournal_JHPp" value="Cela fonctionne très bien.Il est temps de demander l'argent." />
+  <Key key="bubble_phrase_McCR" value="L'eau est activée." />
+  <Key key="_npc_Well__your_loss__I_ve_got_a_wh" value="Alors tu vas juste me laisser dans cette situation de merde, je comprends.Je comprends que tu n'as pas de putain d'âme, tu es-toi de Jerk.Vous êtes tout comme ça.Maintenant, perdez-vous de ma propriété." voice="Male" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_goalVoice_cIwM" value="Rapide, entrez dans l'exosquelette.Il suffit de souder les trois tuyaux qui fuient, pendant que je tiens ce bouton sanglant." voice="Male" />
+  <Key key="_goal_use_puzzle" value="Souder les tuyaux sur le terrain" />
+  <Key key="_QuestActionAddToJournal_eEcF" value="Un travailleur de terrain m'a demandé de l'aider à souder les tuyaux sur le terrain.Je dois entrer dans l'exosquelette pour le faire." />
+  <Key key="_goal_goto_exo" value="Entrer dans l'exosquelette" />
+  <Key key="_QuestActionAddToJournal_GN08" value="Je suis entré dans l'exosquelette.Il est maintenant temps de souder quelques tuyaux." />
+  <Key key="_varDescription_HyEF" value="Tuyaux soudés" />
+  <Key key="_npc_I_sure_do__Quick__find_and_sea" value="" voice="Male" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_npc_Good__Oh__and_turn_off_the_wat" value="" voice="Male" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_goalVoice_N7Eh" value="" voice="Male" />
+  <Key key="_npc_I_get_that_you_have_no_fuckin_" value="" voice="Male" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+  <Key key="_npc_What__What_are_you_waiting_for" value="" voice="Male" voiceSettingsId="p2iGSpZ5V6uXajWmS8MQ" />
+</Node>

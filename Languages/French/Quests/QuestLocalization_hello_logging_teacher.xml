@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_logging_teacher" type="external">
+  <Key key="_npc_Stay_sharp__newbie_" value="Restez tranchant, débutant!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Fancy_trying_out_the_lumber_li" value="Envie d'essayer la vie du bois?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_What_can_Zogar_do_for_ya_" value="Que peut faire Zogar pour toi?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Greetings__greenhorn_" value="Salutations, Greenhorn!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Got_wood__No__seriously__Do_yo" value="Vous avez du bois?Non sérieusement.Est-ce que tu?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Howdy__sapling_" value="Howdy, Sapling!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Making_some_roots_" value="Faire des racines?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+</Node>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_heart_of_the_forest" type="external">
+  <Key key="_npc_You__new_worker__Go_forest__Fi" value="Você, novo trabalhador.Vá floresta.Encontre o cerne.Grrr, sim?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Bring_heartwood_to_Eamon__He_c" value="Traga o cerne para Eamon!Ele esculpe.Grrr, grrr!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_goalVoice_Grrr__you_find_heartwood_yet__" value="Grrr, você já encontra o cerne?Reúna 10 de azarão da floresta, traga de volta.Grrr, rápido!Grrr, apresse!Woods não é seguro.Traga Heartwood em breve." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grrr__fine__Still_need_heartwo" value="Grrr, tudo bem!Ainda preciso de cerne." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_No__Grr__this_why_invasion_jus" value="Não?Grr, por que a invasão justificou." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grrr__you_weak__But_maybe_next" value="Grrr, você fraco!Mas talvez da próxima vez." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_This_is_how_human_system_works" value="É assim que o sistema humano funciona!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_varDescription_Y4rv" value="Colete de cerne" />
+  <Key key="_goal_talk_npc" value="Retorne Eamon Hardich" />
+  <Key key="_npc_Fenwick___hic___might_know_mor" value="Fenwick - Hic - pode saber mais.Pergunte a ele depois do seu próximo emprego." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_Talks_like_he_can_barely_contr" value="Conversas como ele mal conseguem controlar sua própria boca." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_You_wanna_know_about_Grommuk__" value="Você quer saber sobre Grommuk?Sim, ele é definitivamente estranho.Mas um alienígena?" voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_varDescription_Collect_Heartwood" value="Colete de cerne" />
+  <Key key="_QuestActionAddToJournal_Grommuk_Ironhand_Westwind_Wood" value="Grommuk Ironhand&#10;Westwind Woods, Sawmill Center&#10;&#10;Ajude o Grommuk Ironhand a reunir 10 de cerne e entregá -lo a Eamon Hardich." />
+  <Key key="_npc_Grrr__need_heartwood__Shipment" value="Grrr, preciso de cerne.Remessa perdida.Grr, ruim!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hic___perfect__This_will_do_ju" value="HIC - Perfeito!Isso vai se sair bem.Muito bem, de fato." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_So__uh___hic___you_got_the_dam" value="Então, uh - hic - você tem a maldita madeira ou o quê?" voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_GRRR__good__You_strong__Do_job" value="Grrr, bom!Você é forte.Fazer o trabalho." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+</Node>

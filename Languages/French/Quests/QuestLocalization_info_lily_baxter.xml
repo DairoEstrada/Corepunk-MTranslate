@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_lily_baxter" type="external">
+  <Key key="_npc_I_m_Lily__Lily_Baxter_" value="Je suis Lily!Lily Baxter." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_I_live_here_with_my_mamma__she" value="Je vis ici avec ma maman;Elle est un peu bouclée de ses plantes." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_People_say_I_m_just_a_kid__but" value="Les gens disent que je ne suis qu'un enfant, mais je connais beaucoup de choses, même des trucs secrètes." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Wanna_be_my_friend__Or_maybe_y" value="Veux tu être mon ami?Ou peut-être que vous avez peur?Hah!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_We_re_gonna_have_so_much_fun__" value="Nous allons nous amuser, promettre!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_I_m_great__Hee_hee_" value="Je suis génial!Hee hee!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Just_made_Buck_run__round_in_a" value="Je viens de faire couler Buck dans un masque de lapin et ses sous-vêtements!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Think_he_s_mad_at_me_now__hmm_" value="Pense qu'il est en colère contre moi maintenant, hmm ..." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Bet_he_s_plottin__somethin__si" value="Je parie qu'il plotait quelque chose de idiot, hah!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_But_I_m_gonna_get_him_even_wor" value="Mais je vais le prendre encore pire bientôt ..." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_This_is_our_farm_" value="C'est notre ferme!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Mommy_says_it_s_where_we_grow_" value="Maman dit que c'est là que nous cultivons de la nourriture délicieuse." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Lots_of_people_come_here_from_" value="Beaucoup de gens viennent ici d'autres mondes, ils ont l'air drôle!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Mommy_don_t_like_the_governmen" value="Maman n'aime pas le gouvernement, elle dit que ce sont des Dillies idiots." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_She_smokes_her_funny_stuff_and" value="Elle fume ses trucs drôles et dit que nous sommes plus en sécurité ici." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_There_s_trees_and_fields__and_" value="Il y a des arbres et des champs, et des spots secrets pour les farces!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_It_s_home__but_way_more_fun_wi" value="C'est à la maison, mais bien plus amusant avec tous ces nouveaux amis!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Uhh__no_thanks_" value="Euh, non merci." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_I____I_forgot_shouldn_t_talk_t" value="Si ... j'ai oublié ne devrait pas te parler." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Um__not_now_" value="Euh, pas maintenant." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Mommy_says_no_strangers_" value="Maman dit pas d'étrangers." voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Oops__gotta_go_" value="Oups, je dois y aller!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Are_you_with_the_guberment_" value="Êtes-vous avec le garde?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Hehe__wanna_prank_" value="Hehe, tu veux une farce?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Need_help__Wanna_play_" value="Besoin d'aide!Envie de jouer?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_You_help_me__yeah_" value="Tu m'aides, ouais?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Let_s_make_big_joke_" value="Faisons une grande blague!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Hold_this_for_me_" value="Tiens ça pour moi!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_We_trick_Buck__okay_" value="Nous trompons Buck, d'accord?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Yep__need_big_help_" value="Oui, besoin d'une grande aide!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Wanna_help_me_set_a_trap_" value="Tu veux m'aider à mettre un piège?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Can_you_hold_this__Gonna_be_fu" value="Pouvez-vous tenir ceci?Je vais être drôle!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Ooh__yes__Find_my_secret_stuff" value="Ooh oui!Trouvez mes trucs secrètes!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+</Node>

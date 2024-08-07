@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_farmer_watermelon" type="external">
+  <Key key="_npc_Suit_yourself__but_don_t_come_" value="Adecuado a sí mismo, pero no venga a llorar cuando no haya folletos." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Everyone_ll_tell_ya_this_is_a_" value="Todos los que te diré que esta es una mierda, pero fue bueno antes de que se abriera ese portal." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Begging_for_a_job_already_" value="¿Mendigando un trabajo ya?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="" value=" " />
+  <Key key="_npc_You_know_what_I_say_to_that__T" value="¿Sabes lo que digo a eso?Al infierno con los portales!" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_I_ll_ask_a_local_if_something_" value="Le preguntaré a un local si surge algo." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_These_pipes_of_mine__I_tell_ya" value="Estas tuberías mías, te digo, más temperamental que una gallina húmeda." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Every_other_day__they_re_sprin" value="Cada dos días, están brotando fugas.Comenzando a pensar que los saltadores del portal se están abriendo." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_I_was_born_here_in_Kwalat__and" value="Nací aquí en Kwalat y obtuve lo que obtuve aquí.¡Sin folletos!" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Fuck_off__Never_know_when_a_pi" value="Vete a la mierda.Nunca sepa cuándo una tubería puede brotar una fuga." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_I_m_just_great__Would_be_even_" value="Soy genial.Sería aún mejor si mi sistema de cultivo funcionara." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Kicheki__Been_workin_myself_to" value="¡Kicheki!He estado trabajando hasta el hueso desde que era un joven." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_So_you_re_gonna_just_leave_me_" value="Entonces vas a dejarme en esta situación de mierda, sorpresa." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_The_the_gub_erment_said_I_had_" value="El gobierno dijo que tenía que comenzar a crecer 'estas malas sandías." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Help__From_the_likes_of_you_" value="¿Ayuda?¿De los gustos de ti?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Yer_in_Goldenfield_Village__my" value="Tú en Goldenfield Village, mi hogar.Mi hogar, ¿lo tienes?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_You_bet_your_boots_I_could_use" value="Apostarás a tus botas, podría usar ayuda." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_So_here_I_am__knee_deep_in_mud" value="Así que aquí estoy, hasta la rodilla en grasa de barro y tubería.Solo otro día en el paraíso, ¿eh?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Got_them_parts_from_Junkyard__" value="Los conseguí piezas de Junkyard.Nunca debería haber confiado en esos sucios portales que salenando." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_No_need_for_help__unless_you_c" value="No hay necesidad de ayuda, a menos que pueda hacer que estas tuberías dejen de filtrar '." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Alright_then__guess_I_ll_handl" value="Muy bien, supongo que lo manejaré yo mismo.Como siempre." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Don_t_dawdle__I_ll_be_here__fi" value="¡No te hagas de comer!¡Estaré aquí, arreglando este maldito barómetro!" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_All_yer_kind_are_the_same__Now" value="Todo tu amable es lo mismo.¡Ahora sal de mi propiedad!" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_I_get_that_you_have_no_fuckin_" value="Entiendo que no tienes alma jodida, eres un imbécil." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_We_shouldn_t_be_giving_those_f" value="No deberíamos dar a esa gente comida y pan gratis.¡Desagradable!" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="player__" value=" " />
+  <Key key="_npc_Guess_I_ll_make_you_useful_for" value="Supongo que te haré útil para algo." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_And_who_has_to_fix__em__Yours_" value="¿Y quién tiene que arreglarlos?Atentamente.¿Por qué no asumes alguna responsabilidad?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Find_and_replace_leakin__pipes" value="Encuentre y reemplace las tuberías de fugas con otras nuevas.Por lo general, puede encontrarlos en barriles o cajas." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Now_I_m_plum_busy_fixin__pipes" value="Ahora estoy ocupado fijando tuberías y grito a fugas.Es una perra, déjame decirte." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+</Node>

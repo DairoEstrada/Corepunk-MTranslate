@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_guarding_fortunes" type="external">
+  <Key key="_goal_Kill_mobs" value=" " />
+  <Key key="_npc_Eep__Alright_then__Just__uh__t" value="EEP!Très bien alors.Juste, euh, essayez de ne pas avoir plus de problèmes, d'accord?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Gulp____okay__Guess_it_s__um__" value="Gulp ... d'accord.Je suppose que c'est, euh, de retour à la planche à dessin pour moi." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goal_talk_npc" value="Retour à themis" />
+  <Key key="_npc_Uh__no_problem__Just__uh__be_c" value="Euh, pas de problème.Juste, euh, soyez prudent ... Je ne veux vraiment pas que vous soyez arrêté!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__um__alright____but__you_kn" value="Oh, euh, d'accord ... mais, tu sais, mon père ne sera pas content ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goalVoice_Uh__s_so__um__have_you_seen_an" value="Euh, s-so, euh, avez-vous déjà vu l'un de ces cerfs en bois?J'ai, euh, je voulais juste vérifier si vous, vous savez, les traités ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I__uh__think_this_might_show_m" value="Je pense que cela pourrait montrer à mon père que vous êtes, vous savez, une bonne personne.Qu'en penses-tu?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_There_are_these_Wood_Deers__re" value="Il y a ces cerfs en bois, des créatures vraiment désagréables, causant beaucoup de problèmes ici.Si vous le pouviez, euh, aidez-nous en nous débarrassant de 5 d'entre eux, ce serait d'une grande aide." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Honestly__you_seem_nice_enough" value="Honnêtement, vous semblez assez gentil.Peut-être pouvons-nous le prouver?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_He_s_adamant_about_arresting_y" value="Il est catégorique de vous arrêter.Mais, heureusement, il n'est pas ici pour le moment." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_So__um__my_father__he_s_really" value="Alors, euh, mon père, il est vraiment en colère contre toi pour, euh, censément voler son livre." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_But_uh____I_have_some_pretty_b" value="Mais euh ... j'ai de très mauvaises nouvelles pour vous." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh_dear____this_isn_t_going_to" value="Oh mon Dieu ... ça ne va pas bien finir, n'est-ce pas?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_QuestActionAddToJournal_Themis_Windreach_Woods__Fort__" value="Themis&#10;Windreach Woods, Fort.&#10;&#10;Aidez Themis à protéger le fort et prouver vos bonnes intentions en éliminant le cerf de bois." />
+  <Key key="_varDescription_Kill_Wood_Deers" value="Tuez les cerfs du bois" />
+  <Key key="_npc_I_ll__um__definitely_tell_my_d" value="Je vais, euh, parler certainement à mon père de votre bravoure.E-même si j'ai un peu peur de ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Y_You_did_it__I_I_mean__you_re" value="Y-vous l'avez fait!Je-je veux dire, tu l'as vraiment fait!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_H_Hey__Uh__how_did_it_go_out_t" value="H-HEY!Euh, comment est-il allé là-bas?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_You_re_really_brave__I_mean__l" value="Tu es vraiment courageux.Je veux dire, comme, super courageux." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__wow__thank_you__I__um__did" value="Oh, wow, merci!Moi, euh, je ne pensais pas que tu le ferais." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+</Node>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_back_to_bigg_mama" type="external">
+  <Key key="_npc_Perhaps_your__Martha__in_the_v" value="Peut-être que votre &quot;Martha&quot; dans le village peut vous guider d'ici.Vous devrez être beaucoup plus fort pour les vaincre." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Well__who_d_think_that_Zugg_wo" value="Eh bien, qui penserait que Zugg essaierait de vous encadrer pour meurtre et incendie criminel?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Well__I_could_ve__He_tries_stu" value="Eh bien, j'aurais pu.Il essaie des trucs comme ça une fois par semaine.Il s'en tire généralement aussi." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Fortunately__you_ve_made_a_cou" value="Heureusement, vous vous êtes fait quelques amis qui vous aideront - allez parler à Ratchet et Butch." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_I_think_they_ll_help_you_get_g" value="Je pense qu'ils vous aideront à vous préparer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_There_s_also_this_very_hot_lon" value="Il y a aussi ce solitaire très chaud sur le bord de la ville - le Dr Bloom.Je pense que sa technologie OffWorld pourrait vous donner un avantage." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Do_whatever_those_three_need__" value="Faites ce que ces trois ont besoin, et vous serez prêt à mâcher un certain cul!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Uh__I_didn_t_mean_it_like_that" value="Euh je ne le pensais pas comme ça, mais je me tiens à côté." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_talk_npc" value="Parlez à Martha" />
+  <Key key="_QuestActionAddToJournal_OHD1" value="Hilda Deeproot&#10;Westwind Woods, près de la cabine forestière&#10;&#10;Parlez à Martha." />
+  <Key key="_goalVoice_Who_s_that__Oh__you__I_can_t_h" value="Qui c'est?Oh vous.Je ne peux pas vous aider avec votre problème IMP.Allez demander à un ami.Peut-être Martha?" voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+</Node>

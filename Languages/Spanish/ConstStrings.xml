@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ConstStrings" description="">
+  <Node name="Abt" />
+  <Node name="At" />
+  <Node name="Em" />
+  <Node name="N" />
+  <Node name="Ahb" />
+  <Node name="Au" />
+</Category>

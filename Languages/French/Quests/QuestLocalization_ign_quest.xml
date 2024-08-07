@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_ign_quest" type="external">
+  <Key key="_node_NODE_2020_5_19_11571823232468_2__Barmen_predlagaet_zadanie_" value="Bonjour." />
+  <Key key="_node_NODE_2020_5_19_11481929870845_2__Zadanie_vzyato__" value="Vraiment?D'ACCORD.Allez vers le nord et gardez le chemin.Et lorsque vous atteignez le marais, vous êtes au bon endroit.Trouvez Bob, il saura quoi faire." />
+  <Key key="_node_NODE_2020_5_19_1150950361282_2__Reshit__vopros_s_Bossom_voennykh" value="Merci!Sois prudent.Les portes sont à l'est, mais elles sont verrouillées de l'intérieur.Tu vas devoir trouver un moyen sur le mur." />
+  <Key key="_node_NODE_2020_5_19_1140942185640_6__Tekhnicheskaya_replika_dlya_obnule" value="Закончить квест." />
+  <Key key="_node_NODE_2020_5_19_11481599864147_6__Peremennye_false_" value="Квест закончен." />
+  <Key key="_goal_IQgoalTalkToBuddy" value="Parlez avec Hawkeyed Bob" />
+  <Key key="_QuestActionAddToJournal_BCXa" value="Gerful Roody, barman: - Besoin de réparer la bombasse-9000.Pouvez-vous apporter une traction des cordes à partir du dépotoir des ordures?Hawkeed Bob à l'entrée peut vous dire où les trouver." />
+  <Key key="_goal_IQgoalDealWithBoss" value="Faire face aux soldats" />
+  <Key key="_QuestActionAddToJournal_WTsv" value="Hawkeyed Bob, gardien de la décharge de poubelle: - Le dépotoir des ordures est capturé par certains soldats.Leur patron, le commissaire Fabrago, contrôle toutes les parties.Les portes sont verrouillées de l'intérieur, mais vous comprendrez cela." />
+  <Key key="_QuestActionAddToJournal_c7Ii" value="Le commissaire Fabrago, chef des combattants de Lost Front: - Vous devriez être cantonné pour avoir tué les soldats de l'Empire!" />
+  <Key key="_goal_IQgoalBartenderBack" value="Retour à Gerful Roody" />
+  <Key key="_QuestActionAddToJournal_cuJ5" value="Le commissaire Fabrago est tué." />
+  <Key key="_node_NODE_2020_5_20_1157269483028_1__On_tam_chto_to_stroit__Vse_tran" value="Roody vous a envoyé?Je sais que j'ai promis de l'aider avec la poupée, mais toutes les pièces de rechange sont à la déchets et j'ai peur d'y aller maintenant." />
+  <Key key="_node_NODE_2020_5_20_11422049924462_3__Ya_dazhe_ne_v_obide__Esli_soldat" value="Toi.Écoute attentivement.Je suis le commissaire Fabrago.Commandant de l'unité spéciale de l'expédition Corp du True Empire." />
+  <Key key="_node_NODE_2020_5_20_1116270240236_3__Ty_dobyvaesh__mne_tank___na_khod" value="Nous avons été envoyés dans ce monde au moyen du portail pour trouver et ramener une nouvelle arme pour détruire les ennemis de l'Empire.J'aurais dû vous exécuter pour avoir tué les soldats de l'Empire, mais il y a un moyen de vous racheter ..." />
+  <Key key="_node_NODE_2020_5_27_1025297967258_1__VETKA_BUDET_DORABOTANA_POZZhE" value="Trouvez un moteur de travail pour mon train blindé et je vous épargnerai." />
+  <Key key="_node_NODE_2020_5_29_12181941194315_5__Nuzhny_zapchasti___dogovarivaysya" value="Si vous pouviez obtenir les pièces, je vais aider Roody.Je pense que vous devrez traiter avec des soldats pour les obtenir." />
+  <Key key="_node_NODE_2020_6_4_1742093380349_1__My_friend_Bob_had_to_fix_her_b" value="Mon amie Bob a dû la réparer, mais je ne l'ai pas vu depuis un moment." />
+  <Key key="_node_NODE_2020_6_4_1747210870874_1__My_dancing_bot_got_broken_so_I" value="Mon bot de danse s'est cassé, donc je n'ai pas autant de clients qu'auparavant." />
+  <Key key="_node_NODE_2020_6_4_173259242808_1__Oh_really_that_would_be_great_" value="Ce serait formidable si vous pouviez trouver Bob et lui rappeler mon problème.Je vous rembourserais généreusement." />
+  <Key key="_node_NODE_2020_6_4_1637141983959_1__This_is_my_bar_the_best_in_the" value="C'est mon bar, le meilleur autour ... Je veux dire dans ces bois." />
+  <Key key="_node_NODE_2020_6_4_1650144039448_1__People_call_me_Cheerful_Roody_" value="Les gens m'appellent gai Roody, je ne sais pas pourquoi." />
+  <Key key="_node_NODE_2020_6_4_1650164615321_1__Fine__could_have_been_better_t" value="Très bien, aurait pu être mieux cependant." />
+  <Key key="_node_NODE_2020_6_4_172027015011_3__Some_soldiers_posted_up_there_" value="Certains soldats s'y sont affichés il y a quelques jours.Ils tirent sur tous ceux qui essaient d'entrer dans le dépotoir." />
+  <Key key="_node_NODE_2020_6_4_171577343516_3__" value="Vous mourrez maintenant." />
+  <Key key="_node_NODE_2020_6_4_21211717927405_4__Hello_" value="Hello." />
+  <Key key="_goal_idBotParts" value="Obtenez des pièces pour Dancing Bot" />
+  <Key key="_varDescription_BEQk" value="les pièces" />
+  <Key key="_node_NODE_2020_6_9_14591184613789_6__Ok_then_" value="Alors ok." />
+  <Key key="_node_NODE_2020_6_9_14591677827089_6__Fine_" value="Bien." />
+  <Key key="_node_NODE_2020_6_9_148414350411_6__Shame_" value="Honte." />
+  <Key key="_node_NODE_2020_6_9_1481135327588_6__Great_" value="Super." />
+  <Key key="_node_NODE_2020_6_9_18221613794582_8__Hello_" value=" " />
+  <Key key="_node_NODE_2020_6_9_20151791542494_4__Jump_to_Roody_s_default_greeti" value="Sauter à la salutation par défaut de Roody" />
+  <Key key="_node_NODE_2020_6_9_2123518465693_8__Eto_budet_pustaya_noda_" value=" " />
+  <Key key="_node_NODE_2020_6_10_15301823224104_5___3" value="3" />
+  <Key key="_node_NODE_2020_6_10_15332088596852_5___4" value="4" />
+  <Key key="_node_NODE_2020_6_10_1545175480173_5__1_" value="1" />
+  <Key key="_node_NODE_2020_6_10_15571785161127_5___2" value="2" />
+  <Key key="_QuestActionAssistentPhrase_d6vG" value="phrasenumber5" />
+  <Key key="_QuestActionAssistentPhrase_YGG2" value="phrasenumber21" />
+</Node>

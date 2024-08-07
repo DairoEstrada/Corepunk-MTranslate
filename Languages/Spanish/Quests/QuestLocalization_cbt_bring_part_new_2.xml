@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_bring_part_new_2" type="external">
+  <Key key="Did_you_find_where_the_shuttle" value="Oye, ¿mirarías eso!¡Todas mis partes!¡Sano y salvo!Bueno, eso merece ayuda, ¿no?Sí lo hace." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="" value=" " />
+  <Key key="_QuestActionAddToJournal_FnPt" value="Zugg Clankwhistle&#13;&#10;Goldenfield, cerca de la oficina&#10;&#10;Encuentra otro hermano de Zugg, su transporte aplastado en el bosque al suroeste del pueblo." />
+  <Key key="_goal_goto_goblah_pos1" value="Vuelve al duende" />
+  <Key key="_assistant_phrase_YAzv" value="La gente alrededor debe haber visto la explosión, pedirles más detalles." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_You_can_find_them_in_the_fores" value="Genial simplemente genial.Dile que es el más tonto hasta ahora.El bosque está al suroeste del pueblo." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goal_find_part" value="Encuentra generadores de energía" />
+  <Key key="_QuestActionAddToJournal_9YuU" value="Llegué al lugar.El hermano desaparecido de Goblin resultó ser asesinado.Ahora tengo que buscar partes tecnológicas aquí.Debe verificar primero el servicio de transporte." />
+  <Key key="_assistant_phrase_Tt17" value="¡Mierda!Este estúpido clon ... Clown debería haber sabido sobre el asiento de expulsión que instalé.Supongo que debería haberle dicho." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_varDescription_PzPq" value="Partes" />
+  <Key key="_QuestActionAddToJournal_YpVU" value="Tengo las partes.Debería volver al duende ahora." />
+  <Key key="_assistant_phrase_IO3r" value="¡Oh, por el amor de Dios!Los imps ya nos han derrotado.Esos codiciosos mierda han robado todo lo que pudieron del transbordador." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Okay__I_ll_just_check_in_this_" value="Bien, ¿qué tenemos aquí?Prueba de reconocimiento?Prueba de función del sistema motor?Firmas de vida?Solo revisaré algunos de estos." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goalVoice_dvY3" value="¡Mierda!Este estúpido clon ... Clown debería haber sabido sobre el asiento de expulsión que instalé.Supongo que debería haberle dicho.&#13;&#10;Bueno, ahora tendrás que terminar su trabajo.Abra el servicio de transporte y tráeme los cuatro generadores de energía." voice="Male" />
+  <Key key="_goalVoice_DcDb" value="¡Oh, por el amor de Dios!Los imps ya nos han derrotado.Esos coños codiciosos han robado todo lo que pudieron del transbordador.¡Ve a golpear la cabeza y recuperar mis generadores de energía!Los pequeños cabrones están en todas partes en este bosque.Ven cuando hayas terminado." voice="Male" />
+  <Key key="_npc_And_seeing_that_you_understood" value="Y al ver que entendiste lo que acabo de decir, ya eres más inteligente que todos mis hermanos combinados." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_assistant_phrase_Divd" value="Bueno, ahora tendrás que terminar su trabajo.Abra el servicio de transporte y tráeme los cuatro generadores de energía." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_assistant_phrase_FcOI" value="¡Ve a golpear la cabeza y conseguir mis generadores de energía!Los pequeños cabrones están en todas partes en este bosque.Ven cuando hayas terminado." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_QuestActionAddToJournal_IMnM" value="Zugg Clankwhistle&#13;&#10;Goldenfield, cerca de la oficina&#10;&#10;Encuentra otro hermano de Zugg, su transporte aplastado en el bosque al suroeste del pueblo." />
+  <Key key="_goalVoice_Skkt" value="Seguro.Muy lindo.Dile que es el más tonto hasta ahora.El bosque está al suroeste desde el pueblo." voice="Male" />
+  <Key key="_npc_By_the_way__about_the_untimely" value="Por cierto, sobre la muerte prematura de mi hermano, no te preocupes demasiado.Para ser franco, en realidad no son mis hermanos." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_They_re_all_me__Well__dumbed_d" value="Todos son yo.Bueno, versiones tontas de mí ... ya sabes qué, solo reúne algunas larvas de escarabajos de hoja.Te mostraré lo que quiero decir." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Hey__look_at_it__All_my_parts_" value="Oye, ¿mirarías eso!¡Todas mis partes!¡Sano y salvo!Bueno, eso merece ayuda, ¿no?Sí lo hace." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_varDescription_ZMnM" value="Partes" />
+  <Key key="_npc_Well__you_basically_have_no_ch" value="Bueno, básicamente no tienes otra opción aquí.Sin los papeles no eres nadie, y al gobierno realmente no le gustan los nobodies.Entonces, ve a buscar a mi hermano en el bosque suroeste." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goal_find_roket" value="Encuentra otro hermano de Zugg." />
+  <Key key="_goalVoice_YPWw" value="Bueno, básicamente no tienes otra opción aquí.Sin los papeles no eres nadie, y el gobierno.Realmente no le gustan los Nobodies.Entonces, ve a buscar a mi hermano en el bosque suroeste." voice="Male" />
+</Node>

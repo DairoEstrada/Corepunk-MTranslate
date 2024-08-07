@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_beggar_philosopher" type="external">
+  <Key key="_npc_Oi__mate_" value="Oi, mec!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Oh__it_s_you_" value="Oh c'est toi!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_How_s_the_rumble_" value="Comment va le grondement?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Feeling_tipsy_" value="Vous vous sentez ivre?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_You_drunk_" value="T'es bourré?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_You_re_buying_" value="Vous achetez." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_What___hic___do_you_want_" value="Quoi - HIC - voulez-vous?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+</Node>

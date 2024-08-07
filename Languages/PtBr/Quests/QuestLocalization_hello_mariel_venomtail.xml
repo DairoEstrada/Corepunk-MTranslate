@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_mariel_venomtail" type="external">
-  <Key key="_npc_Keep_your_bodily_fluids_to_you" value="Mantenha seus fluidos corporais para si mesmo!" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
-  <Key key="_npc_Those_are_a_nice_pair_of_legs_" value="Esses são um belo par de pernas ..." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
-  <Key key="_npc_Hi__Keep_your_bladder_in_check" value="Oi!Mantenha sua bexiga sob controle." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
-  <Key key="_npc_Greetings__The_lakes_not_your_" value="Saudações.Os lagos não são o seu banheiro." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
-  <Key key="_npc_Welcome__did_you_use_the_bathr" value="Bem -vindo, você já usou o banheiro?" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
-  <Key key="_npc_If_in_the_sea__then_don_t_pee_" value="Se no mar, não faça xixi!" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
-</Node>

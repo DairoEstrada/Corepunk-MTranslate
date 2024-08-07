@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_package_pilfered" type="external">
+  <Key key="_npc_I_figured_you_d_wimp_out_" value="J'ai pensé que tu t'épreillerais." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_goalVoice_Get_your_ass_moving__those_imp" value="Faites bouger votre cul, ces imps ne se chasseront pas.Ces petites secousses sournoises se trouvent quelque part dans les bois de Windreach.Ne devrait pas être loin." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_That_ass_at_the_fort_is_making" value="Ce cul au fort nous fait tous des concessionnaires totalement légaux lui donnent une coupe.Ridicule." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_I_m_knee_deep_in_garbage_as_it" value="Je suis au genou dans les ordures telle qu'elle est, alors faites glisser votre cul dans Windreach Woods et le trouvez." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Fine__leave_me_hanging__Sleep_" value="Très bien, laissez-moi suspendre.Dormez avec un œil ouvert ce soir." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_goal_talk_npc" value="Retour à Themis." />
+  <Key key="_npc_You_even_know_what_s_in_there_" value="Vous savez même ce qu'il y a là-dedans?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Those_damned_imps_swiped_your_" value="Ces damnés IMPS ont glissé votre package très important." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Now_that_I_know_I_can_trust_yo" value="Maintenant que je sais que je peux vous faire confiance, je peux vous obtenir ce dont vous avez besoin ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Thank_you_so_much__I_was_so_wo" value="Merci beaucoup, j'étais tellement inquiet!Mon père a dit que c'était sa médecine spéciale!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_QuestActionAddToJournal_Rusty_Bowen_Windreach_Woods__R" value="Rusty Bowen&#10;Windreach Woods, chemin de fer près de Fort.&#10;&#10;Récupérez un ensemble volé dans les imps dans Windeach Woods et livrez-le à Themis près du fort." />
+  <Key key="_npc_Oh_wow__I_m_so_surprised__Fuck" value="Oh wow, je suis tellement surpris.Putain de chatte." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_varDescription_The_Fort_s_Package" value="Le forfait du fort" />
+  <Key key="_npc_Oh_gosh__you_actually_found_it" value="Oh mon Dieu, tu l'as vraiment trouvé?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh_dear__did_you_did_you_find_" value="Oh mon Dieu, avez-vous trouvé le colis?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Alright__you_ve_got_guts__Don_" value="Très bien, vous avez du courage.Ne baisez pas ça cependant." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+</Node>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_radioactive_isotope_mining" type="external">
+  <Key key="_npc_Aye__that_s_the_spirit__Just_r" value="¡Sí, ese es el espíritu!Solo recuerda, estamos tratando con el isótopo-238 aquí.Es posible que desee empacar un protector solar adicional, si atrapa mi deriva." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Any_luck_finding_that_Isotope_" value="¿Alguna suerte encontrar ese isótopo-238?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Remember__it_s_not_just_about_" value="Recuerde, no se trata solo del hallazgo.Se trata de volver en una sola pieza." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_How_re_ya_holding_up__Found_th" value="¿Cómo estás sosteniendo?¿Ya encontró ese bribón radiactivo?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_By_the_stone__You_ve_found_it_" value="¡Por la piedra!¡Lo has encontrado!Esto seguramente revolucionará nuestra investigación." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_collect_resources" value="Mía isótopo-238" />
+  <Key key="_QuestActionAddToJournal_CepV" value="Grizzle Ironfoot&#10;Westwind Woods, cerca de la vieja mina&#10;&#10;¿Te atreves a desafiar los peligros de Westwind Woods para extraer el esquivo Isótopo-238 para la innovadora investigación de Grizzle?" />
+  <Key key="_goalVoice_gjQe" value="¡Obtenga sus manos en un isótopo-238!Es tan raro como el diente de un dragón, ¡pero está ahí fuera!¡Comienza a minero mineral!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_And_remember__if_your_hair_sta" value="Y recuerda, si tu cabello comienza a caerse, no te estás quedando calvo ... ¡estás realmente comprometido con el trabajo!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_ll_send_that_part_over_to_Ra" value="Enviaré esa parte a Ratchet." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_By_the_way__you_should_probabl" value="Por cierto, probablemente debería mantenerse alejado de las máquinas de rayos X durante un año." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Here_s_a_little_something_for_" value="¡Aquí hay algo para su contribución a la causa!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

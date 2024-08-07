@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_avigdor" type="external">
+  <Key key="_" value=" " voice="Male" />
+  <Key key="who_are_u_answer" value="Je suis Butt.Fitsyk Avigdor Butt.Et je ne laisserai pas ces limites prendre ma terre." voice="Male" />
+  <Key key="what_is_this_place_answer" value="C'est Palmtree.Un coin calme et confortable dans ce monde en désordre." voice="Male" />
+  <Key key="how_are_u_answer" value="Essayer de défendre mes droits sur ma terre!" voice="Male" />
+  <Key key="" value=" " />
+  <Key key="_npc_Well__those_Bounds_claim_I_mov" value="Eh bien, ces limites affirment que j'ai déplacé ma clôture à trois pieds dans leur terre, lorsque je la réparais.Alors une nuit, ils l'ont mis trois pieds dans ma terre!Comment aimez-vous ça?" voice="Male" />
+</Node>

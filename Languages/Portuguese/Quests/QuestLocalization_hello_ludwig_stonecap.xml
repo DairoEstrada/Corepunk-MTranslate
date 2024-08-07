@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_ludwig_stonecap" type="external">
+  <Key key="_npc_Hey_there__punk_" value="Olá, punk." />
+  <Key key="_npc_What_s_up_" value="E aí?" />
+  <Key key="_npc_You_again_" value="Você novamente." />
+  <Key key="_npc_Ready_for_trouble_" value="Pronto para problemas?" />
+</Node>

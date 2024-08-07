@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_varkus_drov" type="external">
+  <Key key="_npc_Ah__I_see_you_re_yet_another_a" value="Ah, vejo que você é mais um admirador que ouviu falar de minhas façanhas lendárias, não é?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Varkus_Drov____at_your_service" value="Varkus Drov ... a seu serviço." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_The_greatest_treasure_hunter__" value="O maior caçador de tesouros ... e amante ... a galáxia já conheceu." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Surely_you_ve_heard_of_me_" value="Certamente você já ouviu falar de mim?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc__Coughs__Apologies__the_air_do" value="Tosse desculpas, o ar aqui é ... menos do que o ideal." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_ve_been_to_the_edge_of_the_u" value="Estive à beira do universo e de volta, agora estou aqui neste buraco sombrio." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Oh__absolutely_smashing__thank" value="Oh, absolutamente esmagando, obrigado por perguntar." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Gas_down_here_is_more_atrociou" value="O gás aqui embaixo é mais atroz do que o tempo em que fiquei preso em um pântano de Nebulon." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_But_nothing_Varkus_Drov_can_t_" value="Mas nada de Varkus Drov não consegue lidar!" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_If_I_wasn_t_dying_from_toxic_i" value="Se eu não estivesse morrendo de inalação tóxica, diria que Kwalat tem uma certa ... singularidade, você não concorda?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Still__a_bit_frustrating_can_t" value="Ainda assim, um pouco frustrante não consegue encontrar minha querida esposa." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_She_s_probably_half_mad_up_the" value="Ela provavelmente está meio brava lá em cima, pode até derramar meus segredos." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Secrets_of_our_sexually_sweet_" value="Segredos do nosso amor sexualmente doce, é claro!" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_____the_bitch_" value="... a cadela." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_These_ridiculous_tunnels_to_th" value="Esses túneis ridículos para a pedreira estão repletos de gás tóxico." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Truly_abominable__wouldn_t_you" value="Verdadeiramente abominável, você não concorda?tosse" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_It_s_all_part_of_the_Westwind_" value="Tudo faz parte das antigas operações de mineração de Westwind Woods, abandonadas atrás." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc__coughs__Honestly__it_s_beneat" value="Tosse honestamente, está abaixo de alguém da minha estatura." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_But_then__fortune_favors_the_b" value="Mas então, a fortuna favorece o ousado." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Perhaps_you_ve_arrived_just_in" value="Talvez você tenha chegado bem a tempo." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_You_d_like_to_help__How_quaint" value="Você gostaria de ajudar?Que pitoresca." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Oh__you_think_you_re_qualified" value="Oh, você acha que está qualificado?Adorável." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_could_use_a_sacrificial_lamb" value="Eu poderia usar um cordeiro sacrificial, erm, quero dizer, um assistente." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Fancy_being_my_canary_in_these" value="Gosta de ser meu canário nesses túneis cheios de gás?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_You_ll_need_to_sign_an_NDA__of" value="Você precisará assinar um NDA, é claro." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_don_t_work_with_amateurs__bu" value="Eu não trabalho com amadores, mas tempos desesperados ..." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_If_anything_happens__it_s_stri" value="Se alguma coisa acontecer, não é estritamente minha culpa." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Prove_you_re_not_entirely_usel" value="Prove que você não é totalmente inútil." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Sign_this_waiver__I_wouldn_t_w" value="Assine esta renúncia;Eu não gostaria de qualquer ... complicações legais." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Try_not_to_choke_on_the_fumes_" value="Tente não sufocar os fumos, sim?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_No__no__I_work_alone_" value="Não, não, eu trabalho sozinho." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_As_if_I_d_need_help_from_a_neo" value="Como se eu precisasse de ajuda de um neófito como você." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Please__you_d_only_get_in_my_w" value="Por favor, você só atravessaria o meu caminho." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Spare_me_your_inefficiencies__" value="Poupe -me suas ineficiências;Eu prefiro a solidão." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Your_assistance_would_be____qu" value="Sua assistência seria ... pitoresca, na melhor das hipóteses." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Hah__A_comedian_as_well__I_see" value="Hah!Um comediante também, eu vejo." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Thanks__but_I_don_t_trust_amat" value="Obrigado, mas eu não confio em amadores em meu domínio." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_doubt_you_d_survive_five_min" value="Duvido que você sobrevivesse cinco minutos sem mim." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Really__your_naivet__is_almost" value="Realmente, sua ingenuidade é quase charmosa." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_have_standards_to_maintain__" value="Eu tenho padrões para manter, você sabe." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+</Node>

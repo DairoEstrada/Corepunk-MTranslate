@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_tharkon" type="external">
-  <Key key="_npc_Watch_out_for_Quaddari_" value="Cuidado com Quaddari." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
-  <Key key="_npc_Heard_the_latest_about_Quaddar" value="Ouviu o mais recente sobre Quaddari?" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
-  <Key key="_npc_Welcome__fellow_Elanien_" value="Bem -vindo, colega Elanien." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
-  <Key key="_npc_The_Quaddari_are_up_to_somethi" value="The Quaddari are up to something." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
-  <Key key="_npc_Good_to_see_another_Elanien_" value="É bom ver outro Elanien." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
-  <Key key="_npc_Need_help_getting_settled_" value="Precisa de ajuda para se resolver?" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
-</Node>

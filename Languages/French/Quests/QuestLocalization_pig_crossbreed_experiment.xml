@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_pig_crossbreed_experiment" type="external">
+  <Key key="_npc_Head_up_to_the_Skylight_Grassl" value="Dirigez-vous vers les prairies de puits de lumière et ramenez 2 gonades à mammouthoar." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_How_them_gonads_coming_along_" value="Comment sont-ils des gonades?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Remember__Skylight_Grasslands_" value="N'oubliez pas, les prairies de puits de lumière.Je ne peux pas les manquer." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Don_t_come_back_without_them_g" value="Ne revenez pas sans eux des gonades." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Attaboy__Now__don_t_get_squeam" value="Attaboy.Maintenant, ne soyez pas délicat sur moi." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_YCv5" value="Récupérer les gonades de mammouth" />
+  <Key key="_QuestActionAddToJournal_9eAL" value="Butch O'Hara&#10;Goldenfield, près de la ferme porcine&#10;&#10;Collectez des gonades de mammouths des prairies de puits de lumière pour l'expérience de Butch." />
+  <Key key="_goalVoice_QsgQ" value="Dirigez-vous vers les prairies de puits de lumière et ramenez 2 gonades à mammouthoar." voice="Male" />
+  <Key key="_varDescription_fLrW" value="Récupérer les gonades de mammouth" />
+  <Key key="_goal_collect_gonads" value=" " />
+  <Key key="_npc_Well__I_ll_be____You_did_it__L" value="Eh bien, je serai ... tu l'as fait.Passons à l'élevage »." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Not_you_and_me__of_course___yo" value="Pas vous et moi, bien sûr - vous récompensez la variété financière." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Now_you_can_call_yourself_a_re" value="Vous pouvez maintenant vous appeler un boucher ordinaire.Pas tout simplement près de mes clients." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

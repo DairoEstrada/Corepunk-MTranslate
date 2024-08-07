@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_exit_stage_left" type="external">
+  <Key key="_npc_You_don_t_know_how_much_this_m" value="Vous ne savez pas ce que cela signifie pour moi.Soko m'a fait cuire." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Please__I_m_begging_you__don_t" value="S'il vous plaît, je vous supplie, ne dites à personne que je fais semblant d'être cerise." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_If_you_can_t_help__at_least_ke" value="Si vous ne pouvez pas vous aider, au moins garder mon secret en sécurité.Je n'ai pas besoin de découvrir Soko." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Listen__if_you_won_t_get_the_p" value="Écoutez, si vous n'obtenez pas les papiers, promettez-moi que vous ne disiez pas à Soko qui je suis vraiment." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_can_t_face_her_myself__it_s_" value="Je ne peux pas lui faire face moi-même;C'est trop angoissant." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Look__I_need_you_to_grab_my_qu" value="Écoutez, j'ai besoin que vous preniez mes papiers qui quittent de cette table près de la scène et les donnez à Zara Rae." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_ve_reached_my_breaking_point" value="J'ai atteint mon point de rupture.Soko Uno m'a payé pour faire semblant d'être cerise et de faire d'elle la tête officielle, mais je ne peux pas y passer.C'est trop!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_don_t_even_know_what_happene" value="Je ne sais même pas ce qui est arrivé à Cherry Mobius, mais Soko m'a fait passer sur la pointe des pieds sur une corde raide, et je suis sur le point de tomber.J'ai besoin d'un plan de sortie." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_varDescription_Collect_Zazz_s_Quitting_Papers" value="Collectez les papiers qui quittent Zazz" />
+  <Key key="_QuestActionAddToJournal_Zazz_Blorb_Riverrise__Scene___" value="Zazz Blorb&#10;Riverrise, scène.&#10;&#10;Aidez Zazz Blorb à échapper à son rôle d'imposteur en livrant ses papiers qui quittent à Soko Uno." />
+  <Key key="_goalVoice_Hurry_up__The_papers_are_on_a_" value="Dépêche-toi!Les papiers sont sur une table près de la scène." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_What_s_this__Papers_from_Zazz_" value="Qu'est-ce que c'est ça?Papiers de Zazz Blorb?" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_goal_talk_npc" value="Retournez les papiers qui quittent Zazz à Soko Uno" />
+  <Key key="_npc_What___Zazz_is_quitting__That_" value="Quoi?!Zazz quitte?Ce ver sans spin!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Do_you_even_know_what_this_mea" value="Savez-vous même ce que cela signifie ?!Si une autre personne le découvre, je le jure, je vais la mettre fin!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_You_brought_this_to_me__so_now" value="Vous m'avez apporté cela, alors maintenant vous êtes. Vous allez m'aider à réparer ce gâchis, ou vous êtes le prochain!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+</Node>

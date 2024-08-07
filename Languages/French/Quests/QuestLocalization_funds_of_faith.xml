@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_funds_of_faith" type="external">
+  <Key key="_npc_Alright__you_listen_here__If_y" value="D'accord, vous écoutez ici!Si vous voulez prouver vous-même à l'église, vous découvrirez 500 or.Ouais, tu m'as bien entendu!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Damn_it_to_hell__How_do_you_ex" value="Merde à l'enfer!Comment prévoyez-vous d'aller n'importe où sans montrer un peu de dévouement?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_For_fuck_s_sake__if_you_re_not" value="Pour l'amour de la baise, si vous n'êtes pas prêt à vous séparer avec un lingot météorique, ne perdez pas mon temps!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_goalVoice_Well__goddamnit__Are_you_fetch" value="Eh bien, putain!Retirez-vous ce lingot météorique ou quoi?N'ose pas perdre mon temps, ma chérie." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Ingot_ain_t_just_shiny_stuff_h" value="Le lingot n'est pas seulement des trucs brillants ici;C'est un putain de symbole de votre engagement.Donc, si vous êtes sérieux au sujet de notre mission sacrée, vous feriez mieux d'investir!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_These_funds_are_crucial__They_" value="Ces fonds sont cruciaux.Ils nous assureront le passage à travers les putains de portails." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_You_don_t_have_that_kind_of_mo" value="Vous n'avez pas ce genre d'argent?Bien!Procurez-moi à la place 5 lingots météoriques." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_goal_talk_npc" value="Apporter à Grizelda" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_BhpZ" value="Recueillir le lingot météorique" />
+  <Key key="_npc_Well__I_ll_be_damned__Go_get_m" value="Eh bien, je serai damné!Allez me chercher ce lingot météorique!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_It_ll_help_you_ascend_dimensio" value="Cela vous aidera à monter des dimensions ou à une merde mystique comme ça.Ne mangez pas avant d'être loin d'ici!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_You_are_ready_for____ASCENSION" value="Vous êtes prêt pour ... Ascension!Maintenant, vous pouvez connaître notre secret." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Take_this_rare_mushroom_and_go" value="Prenez ce champignon rare et allez le manger dans les bois." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_QuestActionAddToJournal_Grizelda__Windreach_Woods__Woo" value="Grizelda&#10;Windreach Woods, maison de champignons en bois.&#10;&#10;Prouvez votre dévouement au culte des champignons de Grizelda en offrant un grand don - dans le lingot météorique." />
+  <Key key="_npc_Jesus_H__Cheezus__are_you_even" value="Jésus H. Cheezus, essayez-vous même?Revenez quand vous êtes sérieux!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_varDescription_Collect_Meteoric_Ingot" value="Recueillir le lingot météorique" />
+  <Key key="_npc_You_re_moving_up__sugar__Welco" value="Vous montez, sucre!Bienvenue au niveau 3 de l'église, surnommée le «dévots pâteux»." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Well__hot_damn__You_actually_d" value="Eh bien, chaud!Vous l'avez fait!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Alright__spit_it_out__You_got_" value="Très bien, crachez-le!Vous avez mon lingot ou quoi?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+</Node>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_hunt_for_green_puff" type="external">
+  <Key key="_goal_collect_jugs" value=" " />
+  <Key key="_goal_talk_npc" value="Regresar a Mary Jane" />
+  <Key key="_goalVoice_Okay__uh__just_a_reminder____t" value="De acuerdo, eh, solo un recordatorio ... esas jarras y páginas están ocultas en el fuerte.Y uh, trata de no quedar atrapado.Mi padre está en algún recado en este momento, pero si regresa, nos ejecutará a los dos.No puedo estresar lo suficiente lo importante que es permanecer bajo el radar.Me gusta mi cabeza lejos de mi trasero." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Wait__really__I_thought_you_wa" value="Espera, ¿de verdad?Pensé que querías el alijo." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Uh____are_you_sure__Thought_th" value="Uh ... ¿estás seguro?Pensé que esas cosas parecían bonitas ... importantes." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goal_collect_pages" value="Encuentra el Libro de Mary Jane's" />
+  <Key key="_npc_If_you_could_find_those_jugs_a" value="Si pudieras encontrar esas jarras y las páginas de libros para ella, son uh ... tuyas.J-solo no le digas a nadie.¡Podría meterme en muchos problemas!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I_know_my_dad_wouldn_t_approve" value="Sé que mi papá no aprobaría esto, pero realmente te debo uno por tratar con ese pagano." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_And__well__some_pages_from_her" value="Y, bueno, algunas páginas de su libro muy importante se arrancaron y se apilan en otro lugar." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_My_dad_separates_confiscated_i" value="Mi papá separa los artículos confiscados en estas jarras marrones con cuerdas en algún lugar dentro del fuerte." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Hey__um__so_that_stash___" value="Oye, um, así que ese alijo ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_QuestActionAddToJournal_Themis_Windreach_Woods__Fort__" value="Themis&#10;Windreach Woods, Fort.&#10;&#10;Ayude a Mary Jane Greenpuff recuperando su alijo oculto y páginas de libros del fuerte en Windreach Woods." />
+  <Key key="_npc_Oh__well__that_s_surprising__I" value="Oh, bueno, eso es sorprendente.Quiero decir, siempre podría decirle a mi padre ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_varDescription_Collect_brown_jugs" value="Recoge jarras marrones" />
+  <Key key="_npc_Whoa__you_actually_found_every" value="Whoa, realmente encontraste todo.Esto es asombroso, hombre.¿Quieres una bocanada?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_J_just_uh__be_discreet_and_kee" value="J-just uh, be discreet and keep it between us." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Far_out__You_didn_t_smoke_all_" value="¡Lejos!No fumaste todo mi alijo, ¿verdad?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

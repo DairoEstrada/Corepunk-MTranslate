@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_monster_enthusiast" type="external">
+  <Key key="_npc_The_name_s_Ludwig__Ludwig_Scha" value="El nombre es Ludwig, Ludwig Schatten.ENTRADA DEL MONSTERES PROFESIONALES." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Ah__the_Dendroid_Guard___a_liv" value="Ah, la Guardia de Dendroid, una estatua viva con una corteza peor que su mordida ... literalmente." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_I_m_a_Censor_for_the_Keepers__" value="Soy un censor para los guardianes, que es solo una forma elegante de decir que puedo jugar con monstruos peligrosos y artefactos mortales para vivir." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_How_am_I__Well__let_s_see__I_h" value="¿Como estoy?Bien, veamos.No me han comido, mutilado ni vaporizado hoy, así que supongo que lo estoy haciendo bastante bien." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Life_s_peachy_when_you_re_alwa" value="¡La vida es durazno cuando siempre estás a un paso de una muerte monstruosa!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_This_here_is_the_Tempest_Timbe" value="Este es el Tempest Timberland.Un lugar encantador si no te importa el monstruo ocasional que intenta arrancarte la cara." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_It_s_a_bit_like_a_haunted_amus" value="Es un poco como un parque de atracciones embrujado.Solo los monstruos son reales y el algodón de azúcar sabe a tierra." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Between_the_eerie_wind_and_the" value="Entre el espeluznante viento y el susurro constante, ¡es un gran lugar para practicar tu grito!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Oh__do_I_have_a_job_for_you_" value="¡Oh, tengo un trabajo para ti!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Have_I_got_a_whopper_of_a_task" value="¿Tengo una tarea para ti!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Indeed__I_m_sitting_on_a_monst" value="De hecho, estoy sentado en un monstruo de un problema aquí." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Actually__I_have_a_situation_t" value="En realidad, tengo una situación que requiere a alguien ... prescindible.¿Interesado?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Not_at_the_moment__But_stick_a" value="No en este momento.Pero quédese, algo está destinado a intentar matarnos." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Currently__it_s_all_quiet_on_t" value="Actualmente, todo está tranquilo en el monstruoso frente." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Thanks__but_I_haven_t_run_out_" value="Gracias, pero no me he quedado sin formas de arriesgar mi vida ... todavía." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_I_m_good__I_have_enough_life_t" value="Estoy bien.Tengo suficientes situaciones que amenazan la vida para durar la semana." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_With_your_help__science_will_m" value="¡Con tu ayuda, la ciencia avanzará!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Have_you_heard_of_the_elusive_" value="¿Has oído hablar del esquivo ciervo de madera?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_I_m_dying_to_dissect_one_of_th" value="¡Me muero por diseccionar una de estas maravillas naturales!¿Puedes cazarlo?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Oh__did_I_scare_you__No_worrie" value="Oh, ¿te asusté?No se preocupe, solo son un poco mortales." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Just_think_about_it__It_s_not_" value="Solo piensa en ello.No es todos los días cazar una bestia de árboles." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Scared_of_a_little_tree__I_won" value="¿Asustado de un pequeño árbol?No le diré a nadie." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_A_creature_of_splinter_and_lea" value="Una criatura de astilla y hoja, corteza y hueso." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Their_remains_could_tell_us_so" value="Sus restos podrían contarnos mucho sobre su sociedad.¿Son protectores?Líderes?¿O simplemente realmente grandes matones?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_I_m_the_guy_who_looks_danger_i" value="Soy el tipo que parece peligro a los ojos y dice: '¿Puedo cortarte?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Awww__and_I_was_looking_forwar" value="Awww, y estaba ansioso por diseccionar una guardia de Dendroid." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Well__if_you_change_your_mind_" value="Bueno, si cambias de opinión, sabes dónde encontrarme." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_No_problem__I_ll_just_add_it_t" value="Ningún problema.Lo agregaré a mi lista de misiones potencialmente mortales." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_The_Young_Woodraptor_is_an_eni" value="El joven Woodraptor es un enigma.¿Por qué son más agresivos que los adultos?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Is_it_because_they_re_trying_t" value="¿Es porque están tratando de demostrar su valía?¿O tal vez solo están de mal humor?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Either_way__I_d_love_to_learn_" value="De cualquier manera, me encantaría aprender más sobre ellos.¡Y me vas a ayudar!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Oh_well__can_t_blame_a_guy_for" value="Bueno, no puedo culpar a un chico por intentarlo." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_No_harm_done__If_you_change_yo" value="Ningún daño hecho.Si cambias de opinión, sabes dónde encontrarme." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Scared_of_a_little_Woodraptor_" value="¿Asustado de un poco de Woodraptor?No te preocupes, son más de corteza que morder ... bueno, sobre todo." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_If_you_can_kill_one__you_ll_be" value="Si puedes matar uno, harás una gran ciencia un gran favor.Además, será una guardia menos de la que preocuparse." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Imagine_a_creature_that_s_more" value="Imagine una criatura que es más árbol que bestia, deambulando por el bosque como una extremidad perdida de la madre naturaleza." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+</Node>

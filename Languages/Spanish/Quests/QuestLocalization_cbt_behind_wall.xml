@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_behind_wall" type="external">
+  <Key key="_npc_Privet" value="¿Te encontraste con coleccionistas de basura robóticos en el camino aquí?" voice="Male" />
+  <Key key="_goal_go_to_npc" value="Go to the camp of the immigrants." />
+  <Key key="_QuestActionAddToJournal_Dbr6" value="Necesito averiguar qué pasó con los robots de limpieza.Puedo encontrarlo en el campamento de los inmigrantes.Podrían saber." />
+  <Key key="_npc__" value="¡Magnifico!¡Consíguenos ese generador!En caso de que mueras, morirías por una causa digna." voice="Male" />
+  <Key key="_goal_collect_trash" value="Recolectar generadores" />
+  <Key key="_varDescription_51TY" value="Gathered" />
+  <Key key="_QuestActionAddToJournal_KnGn" value="Necesito recoger algunas piezas de metal para la pared.Puedo encontrarlos en el vertedero no muy lejos del campamento." />
+  <Key key="_goal_go_back_npc" value="Speak to the immigrants" />
+  <Key key="_QuestActionAddToJournal_50Xb" value="Now I need to talk to the immigrants and make a trade.&#13;" />
+  <Key key="_npc_Cho_kak" value="¡Eso es todo!¡Pronto recibirán el suyo y viviremos aquí por nuestras propias reglas y leyes!" voice="Male" />
+  <Key key="_goal_use_fence" value="Activar la pared" />
+  <Key key="_QuestActionAddToJournal_INmY" value="Trajiste nuevas piezas de metal para la pared y es hora de activarlo." />
+  <Key key="_goal_end_quest" value="Habla con los Eco-Guys" />
+  <Key key="_QuestActionAddToJournal_SD9H" value="Ahora debe volver a hablar con el ecologista.Trajiste los robots de limpieza.Es hora de que te paguen." />
+  <Key key="_npc_Super" value="No tengo idea de cómo encontraste un lenguaje común con ellos, pero lo hiciste y eso es importante.¡Gracias, extraño!" voice="Male" />
+  <Key key="_npc_That_s_too_bad___" value="Eso es muy malo.." voice="Male" />
+  <Key key="_npc_What_happened__We_re_on_the_ve" value="¿Qué pasó?¡Estamos en el ladrillo del desastre ambiental!¡Lo digo como un ecologista experimentado!" voice="Male" />
+  <Key key="_npc_Yes_and_yes__The_forest_is_str" value="El bosque está cubierto de basura.Muchas especies están en gran peligro.Todo lo que estamos tratando de hacer es descubrir qué está sucediendo." voice="Male" />
+  <Key key="_npc_Every_time_we_sent_a_robotic_g" value="Cada vez que enviamos un recolector de basura robótico a la madera, desaparecía misteriosamente y nunca lo volvimos a ver." voice="Male" />
+  <Key key="_npc_For_some_reason__the_immigrant" value="Estos estúpidos inmigrantes evitan cualquier conversación con figuras de autoridad.¡Oh!¿Quizás puedas ir allí y hablar con ellos?" voice="Male" />
+  <Key key="_npc_We_suspect_that_the_illegal_im" value="Sospechamos que los inmigrantes ilegales los están robando.Hicieron su campamento no muy lejos de aquí." voice="Male" />
+  <Key key="_npc_We_don_t_need_these_collectors" value="Ya no necesitamos estos coleccionistas.Asegúrese de que abandonen nuestro campamento de inmediato.Junga oxidada capitalista!" voice="Male" />
+  <Key key="_npc_Thank_you__buddy__These_babies" value="¡Estos bebés tienen mucho trabajo por delante!" voice="Male" />
+  <Key key="_npc_We_need_to_get_the_garbage_col" value="¡Necesitamos recuperar los coleccionistas de basura!" voice="Male" />
+  <Key key="_npc_They_ll_think_you_re_one_of_th" value="They'll think you're one of them." voice="Male" />
+  <Key key="_npc_Welcome__We_are_glad_to_meet_a" value="¡Bienvenido!¡Nos alegra conocer a cualquiera que comparta nuestros valores e ideas!" voice="Male" />
+  <Key key="_npc_They_ve_been_telling_us_what_t" value="Nos han estado diciendo qué hacer durante muchos años.Ya no necesitamos gobernadores ni sus estúpidas regulaciones." voice="Male" />
+  <Key key="_npc_Why_on_earth_do_we_have_to_pay" value="¿Por qué demonios tenemos que pagar impuestos o llenar algunos formularios estúpidos?" voice="Male" />
+  <Key key="_npc_These_are_the_remnants_of_a_hy" value="Estos son los restos de una sociedad hipócrita." voice="Male" />
+  <Key key="_npc_We_made_a_decision_that_will_c" value="Tomamos una decisión que cambiará el futuro de todos los inmigrantes: estamos construyendo el muro.Hermoso, ¿no?" voice="Male" />
+  <Key key="_npc_Yeah__this_is_indeed_an_ambiti" value="Sí, ¡este es un proyecto ambicioso!" voice="Male" />
+  <Key key="_npc_That_s_nothing__there_s_still_" value="Eso no es nada, ¡todavía hay mucho trabajo por hacer!" voice="Male" />
+  <Key key="_npc_To_keep_them_from_breaking_thr" value="Para evitar que se rompan, colocamos alambre eléctrico en la parte superior, ¿cómo es eso?A pesar de que tuvimos que pedir prestados estos coleccionistas de basura ... ¡Ojalá fueran más poderosos!" voice="Male" />
+  <Key key="_npc_If_we_could_have_a_power_gener" value="Si pudiéramos tener un generador de energía, fortalecería nuestras posiciones.La pregunta es: ¿dónde conseguir uno?A menos que pueda consultar los vertederos más cercanos." voice="Male" />
+  <Key key="_npc_Prove_your_loyalty_to_this_com" value="¡Demuestre su lealtad a esta comunidad!" voice="Male" />
+</Node>

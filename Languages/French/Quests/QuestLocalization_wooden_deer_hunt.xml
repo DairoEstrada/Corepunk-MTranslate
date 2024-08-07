@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_wooden_deer_hunt" type="external">
+  <Key key="_npc_Fantastic__Stay_sharp_and_reme" value="Fantastique!Restez tranchant et rappelez-vous, les cerfs en bois sont plus dangereux qu'ils ne le ressemblent.Ou du moins j'ai entendu." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_How_s_the_Wooden_Deer_hunt__An" value="Comment est la chasse au cerf en bois?Une chance?" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Don_t_forget__A_Wooden_Deer_fr" value="N'oubliez pas!Un cerf en bois de Windreach Woods est ce dont nous avons besoin." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Found_that_Wooden_Deer_yet__I_" value="Vous avez déjà trouvé ce cerf en bois?J'ai mes outils de dissection prêts!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Oh__ho__ho__Isn_t_this_a_beaut" value="Oh, ho, ho!N'est-ce pas une beauté!Bon travail, vous." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Look_at_the_bark_on_this_beast" value="Look at the bark on this beast! You've done well. Now, to the dissecting table!" voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_varDescription_IyLJ" value="Chasser les cerfs en bois" />
+  <Key key="_QuestActionAddToJournal_evib" value="Ludwig Schatten&#10;Tempest Timberland, près du camp de chasseurs&#10;&#10;Embarquez dans une chasse périlleuse pour un cerf en bois dans Windreach Woods pour la recherche de Ludwig." />
+  <Key key="_goalVoice_U2g7" value="N'oubliez pas!Nous avons besoin de vous pour trouver un cerf en bois dans Windreach Woods." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_goal_kill_mob" value=" " />
+  <Key key="_npc_Don_t_forget__We_need_you_to_f" value="N'oubliez pas!Nous avons besoin de vous pour trouver un cerf en bois dans Windreach Woods." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+  <Key key="_npc_Here_s_a_little_thank_you_from" value="Voici un petit merci des gardiens." voiceSettingsId="S6Yjpimr38tqBf1x4UuL" />
+</Node>

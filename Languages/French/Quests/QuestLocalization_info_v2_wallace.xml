@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_wallace" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_They_say_you_can_t_leave_this_" value="Ils disent que vous ne pouvez pas quitter cette planète, non?Mais!Il y a un back-back pour vous.Trois grammes de champignons bleus séchés et ... vous voyagez dans l'univers Whooole!C'est parti, gratuitement.Conseil de la sagesse supérieure." voice="Male" />
+  <Key key="_npc_What_do_you_mean_by_place__Wha" value="Qu'entendez-vous par place?Que veux-tu dire par là?Que voulez-vous dire par quoi?Connaissez-vous le sens de ces mots?Ils veulent que vous pensiez que vous le faites.Pensez-y!" voice="Male" />
+  <Key key="_npc_Well__I_am____I_am_Wallace_the" value="Eh bien, je suis ... Je suis Wallace le voyageur.Le Roamer.L'explorateur.J'explore dans mes voyages." voice="Male" />
+</Node>

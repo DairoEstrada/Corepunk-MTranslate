@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_disco_child" type="external">
+  <Key key="_npc_My_name_s_Zelda_Choy__I_m_a_li" value="¡Mi nombre es Zelda Choy!¡Soy un niño pequeño!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_My_mom_sent_me_off_to_visit_gr" value="Mi mamá me envió a visitar el Gramma.Creo que ella quería que me quedara en el camino, ¡pero estoy atravesando el bosque!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Mom_s_a_great_scientist__She_i" value="¡Mamá es un gran científico!Ella inventa cosas!¡Ella me dio un escudo de burbujas genial!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Monsters_and_stuff_just_bounce" value="¡Los monstruos y las cosas solo rebotan de inmediato!¡Adelante, intenta comerme!¡Te reto!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Guess_what_I_found__This_creep" value="¿Adivina lo que encontré?Esta espeluznante carpa!¡Tiene la cabeza!¡Guau!¿Dónde está el resto de ellos, crees?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_You_should_go_inside_and_see_w" value="¡Deberías entrar y ver qué hay allí!¡No me permiten porque Stranger-Danger!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_m_fine__How_are_you__That_s_" value="Estoy bien.¿Cómo estás?Eso es lo que se supone que debes decir, ¿verdad?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_m_having_a_great_time_with_m" value="¡Lo estoy pasando muy bien con mi escudo de burbujas!¡Cuando sea grande, me convertiré en un aventurero y mataré a los monstruos!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_ll_have_a_big_electro_sword_" value="¡Tendré una gran espada de electro y armadura como las de Ma y tal vez algunas granadas de boom!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_But_I_gotta_get_to_gramma_s_ho" value="Pero pronto tengo que llegar a la casa de Gramma.Ella remará mi botín cuando descubra que pasé por el bosque." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_This__This_is_Windreach_Woods_" value="¿Este?¡Este es Windreach Woods!No sé dónde exactamente." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_That_s_a_tent_I_m_not_allowed_" value="Esa es una tienda de campaña que no tengo permitido entrar porque Stranger-Danger.También una cabeza." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_That_s_all_I_know__I_m_a_kid_" value="Eso es todo lo que sé. Soy un niño." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_do__Wanna_hear_it_" value="¡Sí!¿Quieres escucharlo?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Are_you_strong_and_brave_and_s" value="¿Eres fuerte y valiente y esas cosas?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_can_trust_you__Right_" value="Puedo confiar en ti.¿Bien?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Maybe__Are_you_a_good_guy_" value="Tal vez.¿Eres un buen chico?" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_Stranger_danger__Stranger_dang" value="¡Peligro extraño! ¡Peligro extraño!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_I_ain_t_supposed_to_talk_to_we" value="No se supone que deba hablar con los raros que conozco en el bosque." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_My_Ma_don_t_like_me_talking_to" value="My Ma don't like me talking to strangers." voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+  <Key key="_npc_No__I_m_self_reliant__I_have_a" value="No. ¡Soy autosuficiente!¡Tengo un escudo de burbujas!" voiceSettingsId="0jXrgGAb6OHtkU2zIYmH" />
+</Node>

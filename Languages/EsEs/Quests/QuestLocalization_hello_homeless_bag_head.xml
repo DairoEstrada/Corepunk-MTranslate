@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_homeless_bag_head" type="external">
-  <Key key="_npc_Oh__look_who_it_is__Another_bu" value="Oh, mira quién es.Otro vago." voiceSettingsId="0waNzVhDLeujlGdg6iGM" />
-  <Key key="_npc_Graced_by_my_presence_" value="Adornado por mi presencia?" voiceSettingsId="0waNzVhDLeujlGdg6iGM" />
-  <Key key="_npc_What_do_you_want__There_s_no_m" value="¿Qué deseas?¡No hay más trabajo aquí!" voiceSettingsId="0waNzVhDLeujlGdg6iGM" />
-  <Key key="_npc_Seen_that_corrupt_king_lately_" value="¿Has visto a ese rey corrupto últimamente?Me gustaría pegar una plancha caliente en su trasero." voiceSettingsId="0waNzVhDLeujlGdg6iGM" />
-  <Key key="_npc_I_could_ve_ran_the_railroad_te" value="Podría haber corrido el ferrocarril diez veces mejor que estos Arsehats." voiceSettingsId="0waNzVhDLeujlGdg6iGM" />
-</Node>

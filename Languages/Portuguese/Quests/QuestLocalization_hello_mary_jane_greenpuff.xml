@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_mary_jane_greenpuff" type="external">
+  <Key key="_npc_Hey_there__dude_" value="Olá, cara!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_What_s_growin___man_" value="O que está crescendo ', cara?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Nature_s_watching_you__bud_" value="A natureza está assistindo você, Bud." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Ready_to_save_some_trees_" value="Pronto para salvar algumas árvores?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_You_got_any_herb__man_" value="Você tem alguma erva, cara?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Who_disrupts_my_zen_" value="Quem interrompe meu zen?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Chill__man__it_s_all_good_" value="Chure, cara, está tudo bem." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Keep_it_green__friend_" value="Mantenha -o verde, amigo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Your_aura_looks_trippy_" value="Sua aura parece trippy." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Want_a_puff_" value="Quer um sopro?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_Volmund" type="external">
-  <Key key="who_are_u_answer" value="Eu sou Volmund.Todos os meus filhos foram para a cidade, mas eu disse que não vou.Então eu fiquei." voice="Male" />
-  <Key key="what_is_this_place_answer" value="Esta é uma vila antiga, eles dizem que foi fundada por alguns dos primeiros Elaniens.Mas agora não se parece com o que era antes, mesmo com a ajuda da capital." voice="Male" />
-  <Key key="how_are_u_answer" value="Cuidar do meu próprio negócio.Recentemente, esses eletro-cabelos se estabeleceram no meu campo por algum motivo.Eles são uma dor na bunda, se você soubesse." voice="Male" />
-  <Key key="_npc____" value="   " voice="Male" />
-</Node>

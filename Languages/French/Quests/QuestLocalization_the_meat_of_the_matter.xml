@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_meat_of_the_matter" type="external">
+  <Key key="_npc_Great__Just_grab_those_leaves_" value="Super!Prenez simplement ces feuilles et nous trierons ce gâchis." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_goal_collect_transparent_leaves" value=" " />
+  <Key key="_varDescription_Collect_Transparent_Leaves" value="Collectez les feuilles transparentes" />
+  <Key key="_QuestActionAddToJournal__Zeek__Solomon_Riverrise__Butc" value="&quot;Zeek&quot; Salomon&#10;Riverrise, Butchery District.&#10;&#10;Aider &quot;Zeek&quot; Salomon en livrant des feuilles transparentes à Erwin &quot;Bacon King&quot; Braux." />
+  <Key key="_goalVoice_Got_those_leaves_yet__Rufus_ca" value="Vous avez encore ces feuilles?Rufus ne peut pas rester un chien pour toujours." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Sizzle_and_sear__Thought_you_d" value="Trésor et saisir!Je pensais que tu avais oublié.Vous avez les feuilles, hein?" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_goal_talk_npc" value="Parlez à Erwin &quot;Bacon King&quot; Braux" />
+  <Key key="_npc_Hey_there__wanderer__Got_a_bit" value="Hé là, Wanderer.J'ai une situation étrange entre nos mains." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Well_slap_my_chops_and_call_me" value="Eh bien, gifle mes côtelettes et appelez-moi grillé!Vous avez les feuilles, hein?" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_This_will_be_the_perfect_seaso" value="Ce sera l'assaisonnement parfait pour ce mutt galeux!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_What__Oh__did_Zeek_not_tell_yo" value="Quoi?Oh, Zeke ne vous a-t-il pas dit?Oui, vos plans pour transformer Rufus en dîner avec une touche spéciale!" voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_These_will_do_just_fine__but_t" value="Cela fera très bien, mais il y a une petite chose «charnue» dont nous avons besoin pour terminer le plat." voiceSettingsId="RnoUXRLbN6ytb10yuQW8" />
+  <Key key="_npc_See__I_got_into_a_little_bet_w" value="Vous voyez, je suis entré dans un petit pari avec mon copain Rufus.Twa le pauvre gars en chien pour voir s'il pouvait mendier des restes quel gâchis, hein?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_I_think_I_can_fix_it__but_I_ne" value="Je pense que je peux le réparer, mais j'ai besoin de 10 feuilles transparentes pour faire fonctionner le renversement.Pourquoi ne les amez-vous pas à Erwin 'Bacon King' Braux pour moi?" voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_He_and_I_are____collaborating_" value="Lui et moi sommes ... collaborant à ce sujet.Prenez simplement ces feuilles de environ et nous gérerons le reste." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Trust_me__we_got_it_under_cont" value="Croyez-moi, nous l'avons maîtrisé." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Oh_well__guess_I_ll_keep_starv" value="Eh bien, je suppose que je continuerai de mourir de faim alors." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_No_worries__I_ll_manage____som" value="Pas de soucis, je gérerai ... d'une manière ou d'une autre." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_I_was_hoping_for_a_bite_to_eat" value="J'espérais une bouchée à manger, mais d'accord.La prochaine fois peut-être." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+  <Key key="_npc_Eh__I_suppose_I_ll_just_have_t" value="Eh, je suppose que je vais devoir être plus avancé un peu plus longtemps." voiceSettingsId="Yp7bUQ6eKcZYDz0zye3n" />
+</Node>

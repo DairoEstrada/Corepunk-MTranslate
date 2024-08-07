@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eggplant_extravaganza" type="external">
+  <Key key="_npc_How_s_the_eggplant_hunt_going_" value="¿Cómo va la búsqueda de berenjenas?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_YWHi" value="Recolectar berenjenas" />
+  <Key key="_npc_Thank_you__kind_soul__Let_s_se" value="Gracias, alma amable.Veamos con qué tipo de pastel termino esta noche." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_goal_collect_food" value=" " />
+  <Key key="_npc_Ah__you_re_back__Wow__those_ar" value="¡Ah, estás de vuelta!Vaya, esos son más grandes de lo que pensaba." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Here_s_a_reward_for_your_effor" value="Aquí está una recompensa por sus esfuerzos." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_You_ve_given_me_a_moment_s_dis" value="Me has dado un momento de distracción de mi situación peculiar.Gracias." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Remember__I_ll_be_busy____baki" value="Remember, I'll be busy... baking... so I'll see you tomorrow." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_You_know__you_could_make_yours" value="Sabes, podrías hacerte útil una vez más.Sin Zikk, ha estado muy ocupado." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_ve_been_baking_all_these_pie" value="He estado horneando todos estos pasteles y estaba pensando ... ¿qué pasa con la berenjena?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_mean__they_re_everywhere__ri" value="Quiero decir, están en todas partes, ¿verdad?Podría hacer una noche decente ... pastel ... ¿Amirita?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Say__if_you_could_bring_me_bac" value="Digamos, si pudieras traerme de vuelta algunas berenjenas y dejarme el resto del día ... bueno, te pagaría por eso." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_QuestActionAddToJournal_Greta_Grubb_Goldenfield__South" value="Greta Grubb&#10;Goldenfield, casa del sur&#10;&#10;Ayuda a Greta Grubb a recoger berenjenas para hornear un 'pastel de berenjenas' y darle un descanso alegre de su parto interminable." />
+  <Key key="_goalVoice_Could_you_gather_five_eggplant" value="¿Podrías recoger cinco berenjenas para mí?Están en los campos cercanos.Es probable que los encuentres creciendo no muy lejos de Goldenfield.Recuerde, necesito cinco de ellos para poder comenzar esto ... Proyecto de hornear." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_Collect_Eggplants" value="Recolectar berenjenas" />
+  <Key key="_npc_I_understand__it_s_a_strange_r" value="Entiendo, es una solicitud extraña.Tal vez la próxima vez." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Alright__perhaps_another_day_w" value="Muy bien, quizás otro día traerá diferentes oportunidades." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+</Node>

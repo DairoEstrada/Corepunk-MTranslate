@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_ilias" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Uh_well____Could_be_worse_" value="Euh bien ... pourrait être pire." voice="Male" />
+  <Key key="_npc_Meh__I_don_t_know__I_just_hear" value="Meh, je ne sais pas, je viens d'entendre l'un des gars là-bas qu'ils sont constamment attaqués par des gens nus de la forêt.Je me demande si elles ont des femmes là-bas ..." voice="Male" />
+  <Key key="_npc_I_uh____Ah__crap__The_hell_kno" value="Je euh ... ah, merde.L'enfer sait plus qui je suis.Était un bûcheron.Mais ils n'ont plus besoin de moi.Trop vieux.Hein!Trop vieux mon cul.Ils vont juste tous écologiques.Écologie ceci, écologie ça.Je crache sur les chattes.Elan était toujours plein de types libéraux de flocon de neige." voice="Male" />
+  <Key key="_npc_The_Upper_Village__To_the_West" value="Le village supérieur.À l'ouest se trouve la station de mana, près de l'ancienne forêt.Je voulais offrir mes services là-bas, mais ils ont besoin de plus de mana-spécialistes, pas de menuisiers.Retards.Je me sens bien que ces cultistes forestiers leur donnent des moments difficiles." voice="Male" />
+</Node>

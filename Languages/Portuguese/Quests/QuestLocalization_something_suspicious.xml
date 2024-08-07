@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_something_suspicious" type="external">
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_npc_Fine__go_about_your_day__Just_" value="Tudo bem, continue o seu dia.Lembre -se, a ignorância é uma felicidade até que você esteja na lista de seqüestros." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_The_aliens_got_to_you__didn_t_" value="Os alienígenas chegaram até você, não?Abra seus olhos antes que seja tarde demais!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Oh__I_see__They_ve_already_bra" value="Oh, eu vejo.Eles já fizeram uma lavagem cerebral você, não é?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goalVoice_Can_t_ignore_the_feeling_someo" value="Não posso ignorar a sensação de que alguém está nos observando.Seja rápido, eles já sabem que estamos com eles!Obtenha essas anotações antes que elas possam escondê -las.Este é o nosso único tiro." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_talk_npc" value="Fale com Alexander Stones" />
+  <Key key="_npc_Look_closely__There_should_be_" value="Olhe de perto.Deve haver notas enigmáticas, algumas marcas misteriosas.ALGO.Eles não podem se esconder de nós para sempre." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_need_to_head_over_to_the_s" value="Você precisa ir para a segunda saída das minas." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_I_think_they_got_to_Varkus__th" value="Eu acho que eles chegaram a Varkus, roubaram sua esposa e pegaram nossa peça de artefato." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_know_who_s_behind_this__Th" value="Você sabe quem está por trás disso?Os alienígenas parasitas!E o governo não lhe dirá!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_I_ve_got_a_nose_for_these_thin" value="Eu tenho um nariz para essas coisas e cheira a um encobrimento!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Alright__listen_up__You_ever_s" value="Tudo bem, ouça!Você já viu algo mais suspeito do que a besteira de Varkus?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Stay_close__don_t_let_them_mes" value="Fique perto, não deixe -os mexer com sua mente.Precisamos encontrar essas anotações!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_QuestActionAddToJournal_Alexander_Stones_Westwind_Wood" value="Alexander Stones&#10;Westwind Woods, Old Quarry com vista para a plataforma.&#10;&#10;Investigue o desaparecimento misterioso da esposa de Varkus e descubra uma potencial conspiração alienígena, coletando 5 das notas de Varkus perto da mina de ouro abandonada." />
+  <Key key="_npc_Drink_the_punch_all_you_want__" value="Beba o soco o quanto quiser.Enquanto isso, estarei descobrindo a verdade!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_varDescription_Collect_Varkus_s_notes" value="Colete as anotações de Varkus" />
+  <Key key="_npc_We_need_to_follow_the_trail_to" value="Precisamos seguir a trilha até a verdade antes de ficar fria." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_nailed_it__just_like_I_tho" value="Você acertou, assim como eu pensava.Alien ou não, isso diz que Varkus matou sua esposa para encobrir ... alguma coisa!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Boom__There_it_is__the_smoking" value="Estrondo!Lá está, a arma de fumar!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Tell_me_you_ve_got_something__" value="Diga -me que você tem algo.A verdade está lá fora, e precisamos iluminá -la!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

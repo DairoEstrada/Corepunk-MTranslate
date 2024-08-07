@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="TalentosPersonalizados" description="">
+  <Node name="AAzD5O">
+    <Key key="Name" value="Veneno" />
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt;Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de infligir VENENO por {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFM.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})BonoDePoderDeHechizo_loc] DañoMágico durante 4 segundos al infligir DañoMágico.(1 golpe por segundo)" />
+  </Node>
+  <Node name="2PUQLIi">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; probabilidad de ejecutar (20% o menos) al enemigo por &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase] + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; HPMax faltante del objetivo." />
+  </Node>
+  <Node name="8vM1arxdi43">
+    <Key key="Description" value="&lt;w&gt;&lt;w&gt;Efecto al golpear:&lt;/w&gt;&lt;/w&gt;Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de infligir SANGRADO por {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFP.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico durante 4 segundos al infligir DañoFísico. (1 golpe por segundo)" />
+  </Node>
+  <Node name="56ifXs">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Probabilidad de curar al portador por &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase] + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}}) HPMax faltante al curar o infligir daño." />
+  </Node>
+  <Node name="AAd6eM">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Las habilidades que infligen daño infligen un adicional de &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico (20 segundos de tiempo de reutilización)." />
+  </Node>
+  <Node name="7iJGeO6i421" />
+  <Node name="AAc6nk">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de robar &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; HPMax del objetivo al curar o infligir daño." />
+  </Node>
+  <Node name="7iJGeVkCpVs">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Las habilidades que infligen daño infligen un adicional de {{Data.0.ADFP.col}} = [{{Data.0.AC1}} + ({{Data.0.ACP1}})PoderDeAtaqueBase + ({{Data.0.ACP2}}) bono de PoderDeAtaque] DañoFísico (20 segundos de tiempo de reutilización).&#xD;&#xA;- Este ataque también ralentiza al enemigo un 20% durante 2 segundos.&#xD;&#xA;- Cuando un enemigo al que has dañado muere dentro de 5 segundos, este tiempo de reutilización se reinicia." />
+  </Node>
+  <Node name="UVmtKd">
+    <Key key="Description" value="Efecto al golpear: Las habilidades que infligen daño infligen un adicional de &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeHechizo_loc] DañoMágico. ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Actions.0.Formula}} segundos de tiempo de reutilización).&#xA;" />
+  </Node>
+  <Node name="uxZcmw">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de restaurar al portador &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})MPMax] al curar o infligir daño." />
+  </Node>
+  <Node name="1ZdCeMs">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de que tus ataques apliquen &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] como DañoMágico al golpear durante 10 segundos." />
+  </Node>
+  <Node name="101wXk5">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de que tus ataques apliquen &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeHechizo_loc] como DañoMágico al golpear durante 10 segundos." />
+  </Node>
+  <Node name="ZbUGpz">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de desencadenar +1 ataque por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Ability.Data.0.ACP1}})PoderDeAtaqueBase. El ataque adicional tiene un 10% de probabilidad de desencadenar +1 ataque." />
+  </Node>
+  <Node name="1ptuvsz">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Golpear a un enemigo con 3 ataques o habilidades diferentes en 3 segundos inflige un adicional de &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [( {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Actions.0.Formula}} segundos de tiempo de reutilización)." />
+  </Node>
+  <Node name="ABPXuX">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Probabilidad de ralentizar a los enemigos por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) durante {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.T}} segundos." />
+  </Node>
+  <Node name="7h7vqVBRGRL">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de generar un pequeño pavor que te ayudará en combate durante 10 segundos. El pavor tiene ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}}) HPMax del portador, aplica su velocidad de ataque y autoataca al enemigo más cercano por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})PoderDeAtaqueBase." />
+  </Node>
+  <Node name="KKuktt">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de robar &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + &lt;mp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/mp&gt; MPMax del objetivo al curar o infligir daño." />
+  </Node>
+  <Node name="3AGhq6Z">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de aturdir al objetivo durante 1 segundo y romper su armadura en ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Effect.GameUnitEffectBuff.Data.0.ACP1}}) durante 3 segundos." />
+  </Node>
+  <Node name="FGvVnU">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt;Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de infligir SANGRADO por {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFP.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico durante 4 segundos al infligir DañoFísico. (1 golpe por segundo)" />
+  </Node>
+  <Node name="PRK76h">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Las habilidades que infligen daño infligen un adicional de &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico (20 segundos de tiempo de reutilización)." />
+  </Node>
+  <Node name="ZbiXP0">
+    <Key key="Description" value="Efecto al golpear: Las habilidades que infligen daño infligen un adicional de &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeHechizo_loc] DañoMágico. ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Actions.0.Formula}} segundos de tiempo de reutilización)." />
+  </Node>
+  <Node name="jnA6q4">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Probabilidad de curar al portador por &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [( {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase] + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}}) HPMax faltante al curar o infligir daño." />
+  </Node>
+  <Node name="102iPZU">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de restaurar al portador &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})MPMax al curar o infligir daño." />
+  </Node>
+  <Node name="1eiPPTd">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de que tus ataques apliquen &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] como DañoMágico al golpear durante 10 segundos." />
+  </Node>
+  <Node name="1FIOBAC">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de que tus ataques apliquen &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeHechizo_loc] como DañoMágico al golpear durante 10 segundos." />
+  </Node>
+  <Node name="egiGxi">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de desencadenar +1 ataque por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Ability.Data.0.ACP1}})PoderDeAtaqueBase. El ataque adicional tiene un 10% de probabilidad de desencadenar +1 ataque." />
+  </Node>
+  <Node name="2UZm2ST">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Probabilidad de ejecutar (20% o menos) al enemigo por &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [( {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase] + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; HPMax faltante del objetivo." />
+  </Node>
+  <Node name="204LL52">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Golpear a un enemigo con 3 ataques o habilidades diferentes en 1.5 segundos inflige un adicional de &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico (20 segundos de tiempo de reutilización)." />
+  </Node>
+  <Node name="56W4IB">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt;Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de infligir VENENO por {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFM.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})BonoDePoderDeHechizo_loc] DañoMágico durante 4 segundos al infligir DañoMágico.(1 golpe por segundo)" />
+  </Node>
+  <Node name="PR3pBL">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Probabilidad de ralentizar a los enemigos por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) durante {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.T}} segundos." />
+  </Node>
+  <Node name="7iJGeJ1Du6T">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de generar un pequeño pavor que te ayudará en combate durante 10 segundos. El pavor tiene ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}}) HPMax del portador, aplica su velocidad de ataque y autoataca al enemigo más cercano por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})PoderDeAtaqueBase." />
+  </Node>
+  <Node name="55GCij">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de robar &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; HPMax del objetivo al curar o infligir daño." />
+  </Node>
+  <Node name="uwipri">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de robar &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + &lt;mp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/mp&gt; MPMax del objetivo al curar o infligir daño." />
+  </Node>
+  <Node name="3PWLtfn">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de aturdir al objetivo durante 1 segundo y romper su armadura en ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Effect.GameUnitEffectBuff.Data.0.ACP1}}) durante 3 segundos." />
+  </Node>
+  <Node name="KM7fc9">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt;Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de infligir SANGRADO por {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFP.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico durante 4 segundos al infligir DañoFísico. (1 golpe por segundo)" />
+  </Node>
+  <Node name="UWWHOi">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Las habilidades que infligen daño infligen un adicional de &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico (20 segundos de tiempo de reutilización)." />
+  </Node>
+  <Node name="egvhGy">
+    <Key key="Description" value="Efecto al golpear: Las habilidades que infligen daño infligen un adicional de &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeHechizo_loc] DañoMágico. (20 segundos de tiempo de reutilización)." />
+  </Node>
+  <Node name="psMHLj">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de curar al portador por &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase] + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}}) HPMax faltante al curar o infligir daño." />
+  </Node>
+  <Node name="55Oqht">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de restaurar al portador &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})MPMax al curar o infligir daño." />
+  </Node>
+  <Node name="1jibmLQ">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de que tus ataques apliquen &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] como DañoMágico al golpear durante 10 segundos." />
+  </Node>
+  <Node name="1PSnrGg">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de que tus ataques apliquen &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeHechizo_loc] como DañoMágico al golpear durante 10 segundos." />
+  </Node>
+  <Node name="jmvS5M">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de desencadenar +1 ataque por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Ability.Data.0.ACP1}})PoderDeAtaqueBase. El ataque adicional tiene un 10% de probabilidad de desencadenar +1 ataque." />
+  </Node>
+  <Node name="2pvgCrj">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de ejecutar (20% o menos) al enemigo por &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase] + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; HPMax faltante del objetivo." />
+  </Node>
+  <Node name="2KPE14v">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Golpear a un enemigo con 3 ataques o habilidades diferentes en 1.5 segundos inflige un adicional de &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})BonoDePoderDeAtaque_loc] DañoFísico (20 segundos de tiempo de reutilización)." />
+  </Node>
+  <Node name="ABiHFA">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt;Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de infligir VENENO por {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFM.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})PoderDeAtaqueBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})BonoDePoderDeHechizo_loc] DañoMágico durante 4 segundos al infligir DañoMágico.(1 golpe por segundo)" />
+  </Node>
+  <Node name="UWG2S3">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de ralentizar a los enemigos por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) durante {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.T}} segundos." />
+  </Node>
+  <Node name="7iJGeDwLdji">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de generar un pequeño pavor que te ayudará en combate durante 10 segundos. El pavor tiene ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}}) HPMax del portador, aplica su velocidad de ataque y autoataca al enemigo más cercano por ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})PoderDeAtaqueBase." />
+  </Node>
+  <Node name="FFgycg">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de robar &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; HPMax del objetivo al curar o infligir daño." />
+  </Node>
+  <Node name="ZamVXO">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de robar &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})PoderDeAtaqueBase + &lt;mp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/mp&gt; MPMax del objetivo al curar o infligir daño." />
+  </Node>
+  <Node name="3UbY8Wi">
+    <Key key="Description" value="&lt;w&gt;Efecto al golpear:&lt;/w&gt; Hasta {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de aturdir al objetivo durante 1 segundo y romper su armadura en ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Effect.GameUnitEffectBuff.Data.0.ACP1}}) durante 3 segundos." />
+  </Node>
+  <Node name="7iJGeO8pqWy">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGete24NQ">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGf8uchri">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGedOQSs9">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGe8tE93y">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGdtccN9i">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeTE26AN">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeyjEHum">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGfDzpxOM">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeiTcfEn">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeDyQMJO">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGdyhphvu">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeYJEHNp">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGf3pQVmK">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGfJ528pb">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeiYprgK">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeJ3cb1R">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGe3i1uJr">
+    <Key key="Description" value="Aumenta {{Modifiers.0.iv}} en {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vr0gpLu8" />
+  <Node name="7iJGetc5hrY" />
+  <Node name="7iJGfTDXAvW">
+    <Key key="Description" value="Infligir DañoMágico con habilidades hace que los enemigos se quemen por {{Data.0.ADFM.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeHechizo + {{Data.0.ACP2}} HPMax del objetivo] DañoMágico por segundo durante 3 segundos." />
+  </Node>
+  <Node name="7iJGfyiz9OX">
+    <Key key="Description" value="Después de usar la habilidad, el siguiente ataque se potencia con {{Data.0.ADFM.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeHechizo] DañoMágico (se activa una vez cada 2 segundos)." />
+  </Node>
+  <Node name="7iJGdyfxX9D">
+    <Key key="Description" value="Al usar habilidades de curación o protección sobre tu aliado, obtienen una carga que mejora su ataque en {{Data.0.ADFM.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}}) (PoderDeCuración + PoderDeProtección)] DañoMágico." />
+  </Node>
+  <Node name="7h7vqfLfcxJ">
+    <Key key="Description" value="Al usar habilidades de curación o protección obtienes 1 carga, al alcanzar 10 cargas tu próxima habilidad de curación o protección ganará [( {{Data.0.AC1}}) + ({{Data.0.ACP1}}) (PoderDeCuración + PoderDeProtección)] y también te afectará a ti por {{Data.0.ACP2}}. Después de usar la habilidad todas las cargas desaparecen." />
+  </Node>
+  <Node name="1UZ3t8R">
+    <Key key="Description" value="Al infligir daño con habilidades restaura {{Events.0.Actions.0.Ability.Data.0.ADFH.col}} = [( {{Events.0.Actions.0.Ability.Data.0.AC1}}) + ({{Events.0.Actions.0.Ability.Data.0.ACP1}}) daño infligido] como HPMax al aliado cercano más herido." />
+  </Node>
+  <Node name="6BKpSXczZf">
+    <Key key="Description" value="Recibir o infligir daño hace que comiences a infligir {{Data.0.ADFM.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}}) bonificación de HP] DañoMágico por segundo a los enemigos cercanos durante 3 segundos." />
+  </Node>
+  <Node name="Zayprp">
+    <Key key="Description" value="Después de usar la habilidad, el siguiente ataque se potencia con {{Data.0.ADFP.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeAtaque] DañoFísico (se activa una vez cada 2.5 segundos)." />
+  </Node>
+  <Node name="6BKihmb5tq">
+    <Key key="Description" value="Al recibir daño, restaura ({{Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.AC1}}) MPMax por segundo durante 5 segundos." />
+  </Node>
+  <Node name="6BKpDHVcmx">
+    <Key key="Description" value="Al recibir un ataque, inflige {{Data.0.ADFP.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}}) Armadura] DañoFísico al atacante." />
+  </Node>
+  <Node name="7h7vrAsKKQP">
+    <Key key="Description" value="Si infligiste daño superior al 30% de la salud máxima de tu objetivo en 3 segundos o menos, los siguientes 2 ataques tendrán ({{Levels.0.EffectCreator.Effect.Actions.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) velocidad de ataque." />
+  </Node>
+  <Node name="7iJGfJ37KXy" />
+  <Node name="7iJGfiYTqRQ">
+    <Key key="Description" value="Infligir DañoMágico con habilidades hace que los enemigos se quemen por {{Data.0.ADFM.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeHechizo + {{Data.0.ACP2}} HPMax del objetivo] DañoMágico por segundo durante 3 segundos." />
+  </Node>
+  <Node name="7iJGg3pCVY4">
+    <Key key="Description" value="Después de usar la habilidad, el siguiente ataque se potencia con {{Data.0.ADFM.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeHechizo] DañoMágico (se activa una vez cada 2 segundos)." />
+  </Node>
+  <Node name="7h7vqVBH373">
+    <Key key="Description" value="Al usar habilidades de curación o protección sobre tu aliado, obtienen una carga que mejora su ataque en {{Data.0.ADFM.col}} = [( {{Data.0.AC1}}) + ({{Data.0.ACP1}}) (PoderDeCuración + PoderDeProtección)] DañoMágico." />
+  </Node>
+  <Node name="7h7vqqWMW3T">
+    <Key key="Description" value="Al usar habilidades de curación o protección obtienes 1 carga, al alcanzar 10 cargas tu próxima habilidad de curación o protección ganará [( {{Data.0.AC1}}) + ({{Data.0.ACP1}}) (PoderDeCuración + PoderDeProtección)] y también te afectará a ti por {{Data.0.ACP2}}. Después de usar la habilidad todas las cargas desaparecen." />
+  </Node>
+  <Node name="1ZfhbcM">
+    <Key key="Description" value="Al infligir daño con habilidades restaura {{Events.0.Actions.0.Ability.Data.0.ADFH.col}} = [( {{Events.0.Actions.0.Ability.Data.0.AC1}}) + ({{Events.0.Actions.0.Ability.Data.0.ACP1}}) daño infligido] como HPMax al aliado cercano más herido." />
+  </Node>  
+  <Node name="AAwHar">
+    <Key key="Description" value="Recibir o infligir daño hace que comiences a infligir {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})bonificación de HP] DañoMágico por segundo a los enemigos cercanos durante 3 segundos." />
+  </Node>
+  <Node name="7iJGeYHFZOP" />
+  <Node name="jmeYjU">
+    <Key key="Description" value="Después de usar la habilidad, el siguiente ataque se potencia con {{Data.0.ADFP.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeAtaque] DañoFísico (se activa una vez cada 2.5 segundos)." />
+  </Node>
+  <Node name="1v1g2fg">
+    <Key key="Description" value="Al recibir daño, restaura ({{Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.AC1}}) MPMax por segundo durante 5 segundos." />
+  </Node>
+  <Node name="103jVnv">
+    <Key key="Description" value="Al ser golpeado por un ataque, inflige {{Data.0.ADFP.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) Armadura] DañoFísico al atacante." />
+  </Node>
+  <Node name="7h7vrFxWWTp">
+    <Key key="Description" value="Si infliges daño superior al 30% de la salud máxima de tu objetivo en 4 segundos o menos, los siguientes 2 ataques tendrán ({{Levels.0.EffectCreator.Effect.Actions.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) velocidad de ataque." />
+  </Node>
+  <Node name="7iJGfO8JaOg" />
+  <Node name="7iJGftdg2rN">
+    <Key key="Description" value="Infligir DañoMágico con habilidades hace que los enemigos se quemen por {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeHechizo + {{Data.0.ACP2}} HPMax del objetivo] DañoMágico por segundo durante 3 segundos." />
+  </Node>
+  <Node name="7iJGdtaNrA2">
+    <Key key="Description" value="Después de usar la habilidad, el siguiente ataque se potencia con {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeHechizo] DañoMágico (se activa una vez cada 2 segundos)." />
+  </Node>
+  <Node name="7h7vqaGTD6h">
+    <Key key="Description" value="Al usar habilidades de curación o protección sobre tu aliado, obtienen una carga que mejora su ataque en {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (PoderDeCuración + PoderDeProtección)] DañoMágico." />
+  </Node>
+  <Node name="7h7vqvbZh2d">
+    <Key key="Description" value="Al usar habilidades de curación o protección obtienes 1 carga, al alcanzar 10 cargas tu próxima habilidad de curación o protección ganará [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (PoderDeCuración + PoderDeProtección)] y también te afectará a ti por {{Data.0.ACP2}}. Después de usar la habilidad todas las cargas desaparecen." />
+  </Node>
+  <Node name="1ekvBbb">
+    <Key key="Description" value="Al infligir daño con habilidades restaura {{Events.0.Actions.0.Ability.Data.0.ADFH.col}} = [({{Events.0.Actions.0.Ability.Data.0.AC1}}) + ({{Events.0.Actions.0.Ability.Data.0.ACP1}}) daño infligido] como HPMax al aliado cercano más herido." />
+  </Node>
+  <Node name="PQYP18">
+    <Key key="Description" value="Recibir o infligir daño hace que comiences a infligir {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})bonificación de HP] DañoMágico por segundo a los enemigos cercanos durante 3 segundos." />
+  </Node>
+  <Node name="7iJGedMRjVj" />
+  <Node name="prrtAy">
+    <Key key="Description" value="Después de usar la habilidad, el siguiente ataque se potencia con {{Data.0.ADFP.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})BonoDePoderDeAtaque] DañoFísico (se activa una vez cada 2.5 segundos)." />
+  </Node>
+  <Node name="25C6XVg">
+    <Key key="Description" value="Al recibir daño, restaura ({{Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.AC1}}) MPMax por segundo durante 5 segundos." />
+  </Node>
+  <Node name="1FJOiOT">
+    <Key key="Description" value="Al ser golpeado por un ataque, inflige {{Events.0.Actions.0.Ability.Data.0.ADFP.col}} = [({{Events.0.Actions.0.Ability.Data.0.AC1}})+ ({{Events.0.Actions.0.Ability.Data.0.ACP1}}) Armadura] DañoFísico al atacante." />
+  </Node>
+  <Node name="2KPJjQ7">
+    <Key key="Description" value="- Matar o asistir incrementa la fuerza de tu objeto en un 1% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1.5% de fuerza de objeto." />
+  </Node>
+  <Node name="2PUW4VI">
+    <Key key="Description" value="- Matar o asistir incrementa la fuerza de tu objeto en un 1% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1.5% de fuerza de objeto." />
+  </Node>
+  <Node name="2UZiE4p">
+    <Key key="Description" value="- Matar o asistir incrementa la fuerza de tu objeto en un 1% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1.5% de fuerza de objeto." />
+  </Node>
+  <Node name="9cePIIceiOE">
+    <Key key="Description" value="Al recibir DañoMágico de habilidades, refleja ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}}) del siguiente DañoMágico de vuelta al atacante." />
+  </Node>
+  <Node name="9cePIXtHj9m">
+    <Key key="Description" value="Consume el 80% del poder del artefacto pero incrementa la velocidad de movimiento en [(7-10)% y extra [5% + (2%)BonoDePoderDeAtaque] durante 1 segundo, después de un control duro. (Reutilización 30 segundos)." />
+  </Node>
+  <Node name="9cePIi8tJcn">
+    <Key key="Description" value="Consume el 80% del poder del artefacto pero incrementa la velocidad de movimiento en [(7-10)% y extra [5% + (1%)BonoDePoderDeHechizo] durante 1 segundo, después de un control duro. (Reutilización 30 segundos)." />
+  </Node>
+  <Node name="9cePJ3OTxdT">
+    <Key key="Description" value="Cada vez que tu habilidad de daño en el tiempo es disipada, el objetivo recibe instantáneamente [({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}})] el daño de esta habilidad." />
+  </Node>
+  <Node name="9cePINhryWf">
+    <Key key="Description" value="Al recibir DañoMágico de habilidades, refleja ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}}) del siguiente DañoMágico de vuelta al atacante." />
+  </Node>
+  <Node name="9cePIcyTyYd">
+    <Key key="Description" value="Consume el 80% del poder del artefacto pero incrementa la velocidad de movimiento en [(7-10)% y extra [5% + (2%)BonoDePoderDeAtaque] durante 1 segundo, después de un control duro. (Reutilización 30 segundos)." />
+  </Node>
+  <Node name="9cePItE5YGU">
+    <Key key="Description" value="Consume el 80% del poder del artefacto pero incrementa la velocidad de movimiento en [(7-10)% y extra [5% + (1%)BonoDePoderDeHechizo] durante 1 segundo, después de un control duro. (Reutilización 30 segundos)." />
+  </Node>
+  <Node name="9cePJ8TgBAi">
+    <Key key="Description" value="Cada vez que tu habilidad de daño en el tiempo es disipada, el objetivo recibe instantáneamente [({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}})] el daño de esta habilidad." />
+  </Node>
+  <Node name="9cePISi48bR">
+    <Key key="Description" value="Al recibir DañoMágico de habilidades, refleja ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}}) del siguiente DañoMágico de vuelta al atacante." />
+  </Node>
+  <Node name="9cePIi3g8j4">
+    <Key key="Description" value="Consume el 80% del poder del artefacto pero incrementa la velocidad de movimiento en [(7-10)% y extra [5% + (2%)BonoDePoderDeAtaque] durante 1 segundo, después de un control duro. (Reutilización 30 segundos)." />
+  </Node>
+  <Node name="9cePIyJHiD4">
+    <Key key="Description" value="Consume el 80% del poder del artefacto pero incrementa la velocidad de movimiento en [(7-10)% y extra [5% + (1%)BonoDePoderDeHechizo] durante 1 segundo, después de un control duro. (Reutilización 30 segundos)." />
+  </Node>
+  <Node name="9cePJDYtL0T">
+    <Key key="Description" value="Cada vez que tu habilidad de daño en el tiempo es disipada, el objetivo recibe instantáneamente [({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}})] el daño de esta habilidad." />
+  </Node>
+  <Node name="9cePJSpYmkE">
+    <Key key="Description" value="- Matar o asistir incrementa tu MPMax en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1% de regeneración de MPMax." />
+  </Node>
+  <Node name="259ftik">
+    <Key key="Description" value="- Matar o asistir incrementa tu PoderDeCuración y PoderDeProtección en (0.5%) por 6 minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de tiempo de reutilización." />
+  </Node>
+  <Node name="9cePJXup8fF">
+    <Key key="Description" value="- Matar o asistir incrementa tu resistencia mágica en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.3% de reducción de daño de habilidades mágicas." />
+  </Node>
+  <Node name="2ZevNi5">
+    <Key key="Description" value="- Matar o asistir incrementa tu PoderDeAtaque en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de poder crítico físico." />
+  </Node>
+  <Node name="35B7SfA">
+    <Key key="Description" value="- Matar o asistir incrementa tu armadura en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.4% de reducción de daño de ataques." />
+  </Node>
+  <Node name="2pvVuGi">
+    <Key key="Description" value="- Matar o asistir incrementa tu BonoDePoderDeHechizo en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de poder crítico mágico." />
+  </Node>
+  <Node name="9cePJiAWfTz">
+    <Key key="Description" value="- Matar o asistir incrementa tu HPMax en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1% de regeneración de HPMax." />
+  </Node>
+  <Node name="2v0i5ma">
+    <Key key="Description" value="- Matar o asistir incrementa tu BonoDePoderDeHechizo en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de poder crítico mágico." />
+  </Node>
+  <Node name="9cePJd01Rzi">
+    <Key key="Description" value="- Matar o asistir incrementa tu resistencia mágica en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.3% de reducción de daño de habilidades mágicas." />
+  </Node>
+  <Node name="9cePJNjLZnd">
+    <Key key="Description" value="- Matar o asistir incrementa tu MPMax en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1% de regeneración de MPMax." />
+  </Node>
+  <Node name="3AGJef0">
+    <Key key="Description" value="- Matar o asistir incrementa tu armadura en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.4% de reducción de daño de ataques." />
+  </Node>
+  <Node name="9cePJtFj2WW">
+    <Key key="Description" value="- Matar o asistir incrementa tu HPMax en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1% de regeneración de HPMax." />
+  </Node>
+  <Node name="2ek7Yvd">
+    <Key key="Description" value="- Matar o asistir incrementa tu PoderDeAtaque en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de poder crítico físico." />
+  </Node>
+  <Node name="2AEvPUO">
+    <Key key="Description" value="- Matar o asistir incrementa tu PoderDeCuración y PoderDeProtección en (0.5%) por 6 minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de tiempo de reutilización." />
+  </Node>
+  <Node name="2FK7ZSk">
+    <Key key="Description" value="- Matar o asistir incrementa tu PoderDeCuración y PoderDeProtección en (0.5%) por 6 minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de tiempo de reutilización." />
+  </Node>
+  <Node name="2jqJjMh">
+    <Key key="Description" value="- Matar o asistir incrementa tu PoderDeAtaque en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de poder crítico físico." />
+  </Node>
+  <Node name="9cePJyKwIqx">
+    <Key key="Description" value="- Matar o asistir incrementa tu HPMax en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1% de regeneración de HPMax." />
+  </Node>
+  <Node name="9cePJi5Dik7">
+    <Key key="Description" value="- Matar o asistir incrementa tu resistencia mágica en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.3% de reducción de daño de habilidades mágicas." />
+  </Node>
+  <Node name="3FLVpbq">
+    <Key key="Description" value="- Matar o asistir incrementa tu armadura en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.4% de reducción de daño de ataques." />
+  </Node>
+  <Node name="9cePJIe9D5M">
+    <Key key="Description" value="- Matar o asistir incrementa tu MPMax en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 1% de regeneración de MPMax." />
+  </Node>
+  <Node name="305vFZi">
+    <Key key="Description" value="- Matar o asistir incrementa tu BonoDePoderDeHechizo en un 0.5% por {{Data.0.ADF}} minutos. Máximo ({{Data.0.St}}) acumulaciones. Después de morir se pierden todas las acumulaciones.&#xD;&#xA;- después de morir pierde el 50% de las acumulaciones.&#xD;&#xA;- cada acumulación otorga un 0.5% de poder crítico mágico." />
+  </Node>
+  <Node name="9cePINiF3Jf">
+    <Key key="Description" value="Si infligiste daño superior al 30% de la salud máxima de tu objetivo en 3 segundos o menos, los siguientes 3 ataques tendrán ({{Levels.0.EffectCreator.Effect.Effects.1.Effect.Effect.Link.GameUnitEffectBuff.Data.0.ACP1}}) velocidad de ataque." />
+  </Node>
+  <Node name="9cePISiRHkq">
+    <Key key="Description" value="Si infligiste daño superior al 30% de la salud máxima de tu objetivo en 4 segundos o menos, los siguientes 4 ataques tendrán ({{Levels.0.EffectCreator.Effect.Effects.1.Effect.Effect.Link.GameUnitEffectBuff.Data.0.ACP1}}) velocidad de ataque." />
+  </Node>
+  <Node name="7h7vqQ7Z24e" />
+  <Node name="7iJGdtbUJ0A" />
+  <Node name="7iJGdta4K9e">
+    <Key key="Description" value="Probabilidad de golpear: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% romper 10% infligir veneno por 5 segundos." />
+  </Node>
+  <Node name="7iJGe3kxnOA">
+    <Key key="Description" value="Probabilidad de golpear: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% romper 30% armadura por 5 segundos." />
+  </Node>
+  <Node name="7iJGe8rAO3L">
+    <Key key="Description" value="Probabilidad de golpear: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% autoataque extra." />
+  </Node>
+  <Node name="7iJGeDwMqMM">
+    <Key key="Description" value="Probabilidad de golpear: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% sangrar 20% daño del arma por 5 segundos." />
+  </Node>
+  <Node name="2E5UuH5fP5J">
+    <Key key="Description" value="Probabilidad de golpear: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% romper 30% armadura por 5 segundos.&#xA;Aturdir objetivo por 1 segundo." />
+  </Node>
+  <Node name="7iJGdygQaSu" />
+  <Node name="7iJGdtaRgiY">
+    <Key key="Description" value="Probabilidad de golpear: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% derribar al objetivo por 1 metro." />
+  </Node>
+  <Node name="7iJGdtbC5v2">
+    <Key key="Description" value="Probabilidad de golpear: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% derribar al objetivo por 1 metro&#xD; enraizar por 1 segundo después del derribo." />
+  </Node>
+  <Node name="7iJGdtai1IT">
+    <Key key="Description" value="{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de infligir (10%-20%) del daño físico de la armadura al atacante." />
+  </Node>
+  <Node name="7iJGdyg0LkS">
+    <Key key="Description" value="{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% de probabilidad de infligir (10%-20%) del daño físico de la armadura al atacante." />
+  </Node>
+  <Node name="7iJGdtdLrV4" />
+  </Category>

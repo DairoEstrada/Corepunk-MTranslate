@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_farmyard_mayhem" type="external">
+  <Key key="_npc_Leaving_before_the_job_s_done_" value="Sair antes que o trabalho seja feito não é algo que um homem de verdade faz." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Seriously__Walking_away_now_ma" value="Seriamente?Afastar agora faz de você um covarde." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_I_need_you_to_kill_as_many_dea" value="Eu preciso que você mate o maior número de mortos que puder!" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_goalVoice_Son__you_gotta_step_up_and_tak" value="Filho, você tem que intensificar e cuidar daqueles raptors de madeira Westwind Woods.Mostre a Timmy como é a verdadeira bravura.Vá lá e proteja nossa fazenda, é o que qualquer homem de verdade faria." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_According_to_this_podcast_I_li" value="De acordo com este podcast que eu ouço, há algo na água que está com tesão." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_You_better_have_handled_those_" value="É melhor você ter lidado com aqueles raptores de madeira." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Good_job_handling_those_Wood_R" value="Bom trabalho para lidar com aqueles raptores de madeira.É assim que você cuida da família." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Get_out_there_and_show_those_W" value="Vá lá e mostre aos raptores de madeira que são o verdadeiro alfa." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_goal_kill_mob" value=" " />
+  <Key key="_goal_talk_npc" value="Voltar para Hank" />
+  <Key key="_npc_The_Wood_Raptors_have_been_mor" value="Os Raptors de madeira têm sido mais agressivos ultimamente e está afetando nossos lucros ... e os planos de 'Lil Timmy'." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_Well__if_you_truly_want_to_mak" value="Bem, se você realmente deseja fazer as pazes, poderíamos usar alguma ajuda na fazenda." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_You_dare_accuse_my_boy_of_stea" value="Você ousa acusar meu garoto de roubar um artefato?Como você pode!" voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_npc_But_don_t_think_we_re_done_yet" value="Mas não pense que ainda terminamos.Sempre há mais a fazer na fazenda." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_goal_collect_item_hans_chore" value="Colete a lista de tarefas de Hank" />
+  <Key key="_QuestActionAddToJournal_Hank_Thornbuckle_Goldenfield__" value="Hank Hornbuckle&#10;Goldenfield, Edge Farm.&#10;Ajude Hank Hornbuckle, eliminando o Raptors de madeira que ameaçava sua fazenda." />
+  <Key key="_npc_Timmy_needs_good_examples__not" value="Timmy precisa de bons exemplos, não de alguém que sai.Faça melhor." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+  <Key key="_varDescription_Kill_Wood_Raptors" value="Mate os raptores de madeira" />
+  <Key key="_npc_Timmy_needs_a_strong_role_mode" value="Timmy precisa de um modelo forte, e você está mostrando a ele da maneira certa." voiceSettingsId="jmBIQtri6LrinWknkWLK" />
+</Node>

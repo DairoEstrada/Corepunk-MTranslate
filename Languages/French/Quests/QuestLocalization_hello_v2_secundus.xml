@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_secundus" type="external">
+  <Key key="_npc_Where_the_hell_did_I_put_the_D" value="Où diable ai-je mis l'épée de poussière?Je ne le trouve pas.Oh putain, nous allons avoir tellement de problèmes, si je ne le trouve pas jusqu'à ce que Farrukh arrive.Hé, avancez!" voice="Male" />
+</Node>

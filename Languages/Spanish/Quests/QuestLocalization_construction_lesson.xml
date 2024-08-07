@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_construction_lesson" type="external">
+  <Key key="_npc_Success__Seems_like_I_need_to_" value="¡Éxito!Parece que puedo eliminar la vieja receta." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Any_progress_with_the_implant_" value="¿Algún progreso con el implante?El suspenso me está matando." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Seen_any_success_with_the_impl" value="¿Has visto algún éxito con el implante todavía?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_How_s_that_implant_shaping_up_" value="¿Cómo se está formando ese implante?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Remember_to_craft_that_Immuno_" value="Recuerde elaborar ese implante inmunoestimulante.Necesitamos averiguar si mi receta original es el problema." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Fantastic__let_s_give_it_a_go_" value="Yo mismo me siento bajo el clima, así que esto es bastante urgente." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_goal_collect_item" value="Elabore un implante de estimulación inmunitaria" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_DjdJ" value="D'Rek&#10;Goldenfield, cerca del taller&#10;&#10;D'Rek necesita que elabore un implante inmunoestimulante utilizando una nueva receta para probar una teoría sobre sus intentos fallidos." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_B1jb" value="Recuerde elaborar ese implante inmunoestimulante.Necesitamos averiguar si mi receta original es el problema." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Why_don_t_you_keep_the_implant" value="¿Por qué no guardas el implante? Ahora eres un verdadero experto." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+</Node>

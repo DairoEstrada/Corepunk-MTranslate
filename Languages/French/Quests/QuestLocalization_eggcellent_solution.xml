@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eggcellent_solution" type="external">
+  <Key key="_npc_Thank_you__friend__This_means_" value="Merci, mon ami.Cela signifie beaucoup pour moi." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_goal_collect_eggs_items" value=" " />
+  <Key key="_goal_collect_corn_flour_items" value=" " />
+  <Key key="_npc_Oh__hey__Did_you_manage_to_fin" value="Oh hey!Avez-vous réussi à trouver ces ingrédients?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_CiN7" value="Récupérer un œuf" />
+  <Key key="_varDescription_6nd3" value="Recueillir une farine de maïs" />
+  <Key key="_npc_You_did_it__Thank_you_so_much_" value="Tu l'as fait!Merci beaucoup." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Hopefully__this_works__my_butt" value="Espérons que cela fonctionne, mon trou de butthe sera très reconnaissant." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_This_could_be_a_gamechanger_if" value="Cela pourrait être un Gamechanger si tout se passe bien!" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_may_be_living_off_government" value="Je vivrai peut-être du pain du gouvernement, mais ce truc ne va pas bien avec mon estomac." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_heard_about_some_kind_of_flo" value="J'ai entendu parler d'une sorte de farine à base de maïs.Peut-être que ce sera plus facile sur mon ventre que ce truc de blé." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_QuestActionAddToJournal_Berg_Stonefoot_Goldenfield__Fo" value="Berg Stonefoot&#10;Goldenfield, Camp forestier.&#10;&#10;Aidez Berg Stonefoot à trouver un moyen de profiter de sa nourriture malgré sa maladie cœliaque." />
+  <Key key="_goalVoice_Don_t_forget__I_need_corn_flou" value="N'oubliez pas, j'ai besoin de farine de maïs et de deux œufs.Vous pouvez fabriquer de la farine de maïs, je suis sûr que la grande maman sait comment.Oeufs, eh bien, poulets." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_Collect_a_Egg" value="Récupérer un œuf" />
+  <Key key="_varDescription_Collect_a_Corn_Flour" value="Recueillir une farine de maïs" />
+  <Key key="_npc_Could_you_help_me_out_by_getti" value="Pourriez-vous m'aider en obtenant de la farine de maïs et quelques œufs?J'ai de la volaille rôtie que j'aimerais painser avec." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Oh__well__I_d_understand__It_s" value="Oh, well, I'd understand. It's not an easy task." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Alright__I_suppose_I_ll_find_a" value="D'accord, je suppose que je trouverai un autre moyen." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_No_worries__Maybe_another_time" value="Pas de soucis.Peut-être une autre fois alors." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+</Node>

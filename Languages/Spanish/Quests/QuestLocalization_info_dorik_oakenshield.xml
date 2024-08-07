@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dorik_oakenshield" type="external">
+  <Key key="_npc_Try_ta__keep_it_down___the_spe" value="Intenta 'mantenerlo abajo, ¡los espectros pueden escucharnos!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_The_name_s_Dorik_Oakenshield__" value="El nombre es Dorik Oakenshield." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Been_diggin__in_this_old_quarr" value="Estado cavando en esta vieja cantera por lo que se siente como siglos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Seen_enough_down_here_to_know_" value="Visto lo suficiente aquí abajo para saber que los susurros de la cantera no son solo ecos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Find_anything_odd_around_here_" value="Encontrar algo extraño por aquí?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_If_you_do__leave_me_the_hell_o" value="Si lo haces, déjame muchísimo." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_A_bit_nervous__to_be_honest__F" value="Un poco nervioso, para ser honesto.Se siente como la cantera viva esta noche." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Every_creak_could_be_a_ghoul_s" value="Every creak could be a ghoul sneakin' up on us." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_There_s_something_weird_happen" value="Aquí está sucediendo algo extraño, ¡sé que hay!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Alex_s_worried_too__even_if_he" value="Alex también está preocupado, incluso si no lo muestra." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Some_say_this_quarry_s_cursed_" value="Algunos dicen que esta cantera está maldita, y con eso, me refiero a mí." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_There_s_more_buried_here_than_" value="Aquí hay más enterrados que solo minerales preciosos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_The_walls_are_full_of_stories_" value="Las paredes están llenas de historias y secretos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_We_re_standing_on_ancient__mys" value="Estamos parados en terrenos antiguos y misteriosos.Ve con cuidado." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Don_t_let_the_shadows_fool_ya_" value="No dejes que las sombras te engañen." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Actually__yes__There_s_somethi" value="En realidad, sí.Hay algo misterioso y podría usar pruebas." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_I_ve_got_just_the_thing_for_ya" value="Tengo justo lo que tú '." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Sure___maybe_it_ll_keep_my_min" value="Claro, ¡tal vez mantenga mi mente alejada de las cosas!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Aye___something_strange_is_hap" value="Sí, algo extraño está sucediendo '." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_I_m_good_laddie__but_thanks_" value="Soy un buen laddie, pero gracias." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_No_need___the_quarry_is_quiet_" value="No hay necesidad: la cantera está tranquila hoy." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Why_don_cha_go_ask_Alex_" value="¿Por qué no te preguntas a Alex?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Can_t_have_a_newbie_go_digging" value="No puedo hacer que un novato vaya a cavar." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+</Node>

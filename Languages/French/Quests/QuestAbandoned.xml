@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestAbandoned" type="external">
+  <Key key="Key" value="Vous avez abandonné la quête &quot;{Value1}&quot;." />
+</Node>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_universal_mastery" type="external">
+  <Key key="_npc_Greetings_" value="¡Saludos!" voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Hello_there_" value="Hola." voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Well_met_" value="¡Bien atendidas!" voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Ahoy_" value="¡AHOY!" voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+  <Key key="_npc_Salutations_" value="¡Saludas!" voiceSettingsId="STFNOiAnoauWiZQk7fNX" />
+</Node>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_orbit" type="external">
+  <Key key="_npc_Your_assistance_is_unnecessary" value="Votre aide n'est pas nécessaire.Pour obtenir de l'aide, veuillez vous référer à l'exo-squelette robotique agissant en tant que spécialiste accueillant." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Your_generosity_is_noted__but_" value="Votre générosité est notée, mais en tant qu'IA, je fonctionne indépendamment.Une aide supplémentaire peut être trouvée avec le spécialiste accueillant." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Assistance_not_required__I_am_" value="Assistance non requise.Je suis programmé pour aider.Pour les demandes, veuillez consulter le spécialiste de l'accueil." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Any_further_inquiries_can_be_a" value="Toutes les autres demandes peuvent être adressées au spécialiste accueillant de l'exo-squelette robotique à ma droite." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_However__your_concern_has_been" value="Cependant, votre préoccupation a été reconnue." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_As_a_bot__I_do_not_experience_" value="En tant que bot, je ne ressens pas d'états physiques ou émotionnels." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_The_specialist_is_in_the_robot" value="Le spécialiste est dans l'exo-squelette robotique à proximité." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Further_inquiries_should_be_di" value="Des enquêtes supplémentaires devraient être adressées au spécialiste accueillant." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Designation__O_R_B_I_T__an_Ons" value="Désignation: O.R.B.I.T, un bot de reconnaissance sur place pour les transferts interdimensionnels." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Current_location__Goldenfield_" value="Emplacement actuel: Goldenfield Town, à proximité de portail interdimensionnel." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_For_more_detailed_information_" value="Pour des informations plus détaillées, veuillez consulter le spécialiste de l'accueil." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_The_specialist_is_nearby_" value="Le spécialiste est à proximité." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fungal_devotion" type="external">
+  <Key key="_npc_Fine_then__you_coward__But_don" value="Très bien alors, lâche.Mais ne venez pas à moi plus tard!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Bah__you_re_useless_as_tits_on" value="Bah, tu es inutile comme seins sur un taureau!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_goalVoice_Where_the_bloody_hell_is_that_" value="Où l'enfer sanglant est cette résine de mana, l'amour?Bouger!!C'est dans les arbres magiques que votre fils dense de ... Minion de champignons aimant!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_These_damn_mushrooms_are_the_k" value="Ces fichus champignons sont la clé pour craquer les secrets de notre vie misérable et pourraient même nous faire sortir de ce rift infernal!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_I_need_it_to_grow_you_one_of_m" value="J'en ai besoin pour vous faire pousser un de mes champignons spéciaux!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_If_you_re_gonna_reach_the_next" value="Si vous allez atteindre le niveau suivant de notre voyage saint pâteux, vous devrez me chercher 5 mana en résine." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Parler à Grizelda" />
+  <Key key="_varDescription_D6nf" value="Recueillir de la résine de mana" />
+  <Key key="_npc_Well_hello_there__you_stupid_r" value="Eh bien bonjour, vous stupide Rascal!Arrêtez de regarder comme si j'avais grandi une deuxième tête." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_And_here_s_some_gold__because_" value="Et voici de l'or, car même les héros cultes ont besoin d'un peu de bling.Continuez votre putain de bon travail!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_One_more_level__and_I_can_fina" value="Un autre niveau, et je peux enfin vous dire le secret ultime!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Welcome_to_Level_2__you__Might" value="Bienvenue au niveau 2, «Mighty Mushroom Minion!Le voyage ne fait que commencer, mon amour." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_QuestActionAddToJournal_Grizelda__Windreach_Woods__Woo" value="Grizelda&#10;Windreach Woods, maison de champignons en bois.&#10;&#10;Aidez Grizelda à collectionner 5 mana résine pour cultiver ses champignons spéciaux." />
+  <Key key="_npc_For_fuck_s_sake__another_waste" value="Pour l'amour de la baise, une autre opportunité gaspillée!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_varDescription_Collect_Mana_Resin" value="Recueillir de la résine de mana" />
+  <Key key="_npc_Well__for_fuck_s_sake__you_did" value="Eh bien, pour l'amour de la baise, tu l'as fait!Je n'ai jamais pensé voir la journée." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Well__aren_t_you_a_sight_for_s" value="Eh bien, n'êtes-vous pas un spectacle pour les yeux endoloris!Vous avez la putain de résine de mana ou quoi?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Ah__fantastic__Every_Mana_Resi" value="Ah, fantastique!Chaque résine de mana que vous apportez nous rapproche de cette articulation." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+</Node>

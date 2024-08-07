@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_forest_granny" type="external">
+  <Key key="_npc_Very_well__the_forest_s_myster" value="Very well, the forest's mysteries aren't for everyone." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_My_name_s_Hilda_Deeproot__a_hu" value="Mi nombre es Hilda Deeproot, una humilde habitante de estos bosques.O la bruja local, dependiendo de quién esté cotilleando." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_It_s_your_choice__traveler__Th" value="Es tu elección, viajero.El bosque puede ser un lugar traicionero." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Heed_my_warning__the_forest_is" value="Preste atención a mi advertencia, el bosque es un laberinto retorcido, con criaturas que acechan en las sombras.Prepárese para encuentros no invitados." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Fetch_me_Neon_Mushrooms__They_" value="Déjame hongos neón.Son una raza rara, infundida con &quot;mala maná&quot;." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_I_m_aware_of_the__accidents__y" value="Soy consciente de los &quot;accidentes&quot; de los que hablas, pero el conocimiento no se da libremente." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_I_appreciate_your_offer__but_I" value="Agradezco su oferta, pero actualmente estoy en paz." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Thank_you__but_I_need_nothing_" value="Gracias, pero no necesito nada en este momento." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_The_forest_provides__I_need_no" value="El bosque proporciona.No necesito nada más." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Yes__I_need_your_assistance_" value="Sí, necesito tu ayuda." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_There_s_something_you_can_help" value="Hay algo con lo que puedes ayudarme.Y no, no es un hechizo para colocar más rápido." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Indeed__I_have_a_task_only_you" value="De hecho, tengo una tarea que solo tú puedes lograr." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_It_s_teeming_with_life__some_s" value="Está repleto de la vida, algunos vistos y otros ocultos, pero todos parte del gran ciclo." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_From_the_towering_trees_to_the" value="Desde los altos árboles hasta los vientos susurrantes, cada parte está viva." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_This_is_Westwind_Woods__my_hom" value="This is Westwind Woods, my home." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Living_in_harmony_with_the_for" value="Vivir en armonía con el bosque es toda la comodidad que necesito." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_The_forest_takes_care_of_me__a" value="El bosque me cuida y lo cuido." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_I_understand__It_s_not_an_easy" value="Entiendo.No es una tarea fácil." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_My_favorite_companions__The_tr" value="¿Mis compañeros favoritos?Los árboles, la brisa y la tranquilidad." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Been_living_here_immersed_in_n" value="Estado viviendo aquí inmerso en la naturaleza desde mis días de juventud.Los árboles son vecinos más tranquilos que los imbéciles." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_I_m_well__thank_you_for_asking" value="Estoy bien, gracias por preguntar.A menos que Alexander Stones dijera algo más sobre mí." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Elan_s_government_keeps_taking" value="¡El gobierno de Elan sigue llevándolos a estudiar!Estos hongos son cruciales para mi elaboración de cerveza." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+</Node>

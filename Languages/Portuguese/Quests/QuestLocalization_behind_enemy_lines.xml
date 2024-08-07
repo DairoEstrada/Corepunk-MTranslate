@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_behind_enemy_lines" type="external">
+  <Key key="_npc_So_while_you_were_gone__Alaric" value="Então, enquanto você se foi, Alaric virou esse pequeno artefato que você fez para o capitão.Ele só queria sugar, apesar de eu dizer que a coisa estava amaldiçoada." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_goal_collect_items" value="Pegue o diário do capitão." />
+  <Key key="_goal_talk_npc" value="Retorne a Tharkon" />
+  <Key key="_npc_We_need_to_find_his_notes_to_d" value="Precisamos encontrar suas anotações para determinar para onde ele poderia ter ido.Eu odeio admitir, mas suas habilidades podem ser úteis aqui." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Themis_is_inconsolable__and_he" value="Themis é inconsolável, e ele está me impedindo de cumprir adequadamente meu dever." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Look_around_the_fort__find_any" value="Olhe ao redor do forte, encontre todas as notas que o capitão tomou antes de sair e levá -las a Tharkon - estou um pouco amarrado." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_goalVoice_You_found_that_stack_of_paper_" value="Você já encontrou essa pilha de papel?O tempo está correndo e a magia negra não perdoa.Lembre -se, quanto mais tempo você leva, mais poder poderá ganhar.Não podemos deixar isso acontecer." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Walk_away_then__Hope_you_re_re" value="Vá embora então.Espero que você esteja pronto para colher as consequências." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Fine__leave__Just_remember__da" value="Tudo bem, vá.Lembre -se, a magia negra não se importa com desculpas." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_You_re_seriously_leaving_us_ha" value="Você está seriamente nos deixando pendurado?Boa sorte, não sendo amaldiçoado." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_I_suppose_I_ll_need_your_help_" value="Suponho que vou precisar da sua ajuda para parar isso ..." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_QuestActionAddToJournal_Trevor_Barlow_Windreach_Woods_" value="Trevor Barlow&#10;Windreach Woods, Fort.&#10;&#10;Ajude Trevor a encontrar o capitão desaparecido, encontrando o diário do capitão no forte." />
+  <Key key="_npc_Lo_and_behold__the_captain_is_" value="Eis que o capitão está possuído e correndo para a floresta 10 minutos depois." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_They_re_trying_to_destabilize_" value="Eles estão tentando nos desestabilizar.Táticas típicas de quaddari, sempre com o objetivo de semear o caos." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_The_notes_suggest_the_captain_" value="As notas sugerem que o capitão está sendo atraído para um local ritual mais profundamente na floresta, provavelmente um movimento estratégico daquela escória quaddari." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_So__it_s_as_I_suspected__This_" value="Então, é como eu suspeitava.Este artefato tem sabotagem de Quaddari por toda parte." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Did_anyone_see_you_coming_here" value="Alguém viu você vindo aqui?Mostre -me o que você tem, rapidamente!" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_We_re_dancing_with_evil_shit_h" value="Estamos dançando com merda maligna aqui.Pegue as notas do capitão, Pronto." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+</Node>

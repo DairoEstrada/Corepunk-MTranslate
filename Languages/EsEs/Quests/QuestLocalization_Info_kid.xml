@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_Info_kid" type="external">
-  <Key key="_npc_His_house_is_right_down_the_st" value="Su casa está justo por la calle.No pasarás." voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
-  <Key key="_npc_What_does_it_look_like__dummy_" value="¿Cómo se ve, tonto?Este es un campo de trigo.Si quieres hacer negocios, amigo, será mejor que hable con Goblin.Fue él quien emitió todos los documentos necesarios." voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
-  <Key key="_npc_1111" value=" " voice="Male" voiceSettingsId="KRG4BKNArYbi2ZuzeEuL" />
-</Node>

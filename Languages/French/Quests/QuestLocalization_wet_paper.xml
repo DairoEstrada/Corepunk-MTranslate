@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_wet_paper" type="external">
+  <Key key="_npc_Oh__turning_me_down__eh__Caref" value="Oh, me refuse, hein?Attention, le lac n'aime pas les mouchards." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Well__I_d_watch_my_step_if_I_w" value="Eh bien, je surveillerais mon pas si j'étais toi." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_During_a_bit_of_a_bar_brawl__s" value="Pendant un peu de bagarre, un ivrogne en a réussi.Maintenant, les gens disent que les corps de ces bagarres ont été lavés sur le bord du lac au nord de la maison de route." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Don_t_know_how_they_got_there_" value="Je ne sais pas comment ils sont arrivés, et vous n'avez pas besoin de ne poser aucune question, non plus." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Go_search_those_bodies__and_br" value="Allez chercher ces corps et apportez-moi des papiers sur eux.«Surtout tous les onglets à barres non rémunérées." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_I_need__em_to_collect_from_nex" value="J'ai besoin d'eux pour collecter les plus proches." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_goalVoice_Remember__search_the_shoreline" value="N'oubliez pas, recherchez le rivage au nord de la maison routière.Vérifiez les corps que vous y trouvez;Ils devraient avoir des papiers.Peut-être même que vous cherchez." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Donnez des preuves à Balthazar" />
+  <Key key="_npc_Listen_here__there_s_an_ancien" value="Écoutez ici, il y a une page ancienne pour laquelle je sais que vous cherchez.Mais c'est délicat." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Didn_t_think_so__Now_get_the_h" value="Je ne le pensais pas.Maintenant, sortez l'enfer ici!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_You_wouldn_t_want_ta__be_joini" value="Vous ne voudriez pas «rejoindre» ces gens sur leur baignade, voudriez-vous »?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_And_here_s_a_little_extra_for_" value="Et voici un peu plus pour votre ... discrétion." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Ah__there_it_is__the_ancient_p" value="Ah, c'est là, l'ancienne page!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Let_s_see_what_you_ve_brought_" value="Voyons ce que vous avez apporté ..." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Back_already__You_take_care_of" value="Revenons déjà?Vous prenez soin des affaires?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Ah__you_ve_got_the_right_spiri" value="Ah, tu as le bon esprit.Ne tombez pas dans le lac, ouais?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_varDescription_Collect_papers_from_the_bodies" value="Collectionner les papiers des corps" />
+  <Key key="_QuestActionAddToJournal_Balthazar__Baz__Grimble_Windre" value="Balthazar &quot;Baz&quot; Grimble&#10;Windreach Woods, Road House.&#10;&#10;Recherchez 5 éléments de preuve sur le rivage du lac au nord de la maison de route pour Balthazar." />
+  <Key key="_npc_You_might_find_yourself_swimmi" value="Vous pourriez vous retrouver à nager avec le reste si vous laissez cette glissement." voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+</Node>

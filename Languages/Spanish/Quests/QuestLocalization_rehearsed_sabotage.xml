@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_rehearsed_sabotage" type="external">
+  <Key key="_npc_Oh__FINALLY__Someone_who_UNDER" value="¡Oh, finalmente!¡Alguien que entienda el problema!¡Vamos a estos fósiles, afilados!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_goal_collect_ancient_fossil" value=" " />
+  <Key key="_QuestActionAddToJournal_Blorp_Knurt_Riverrise__Scene__" value="Blorp Knurt&#10;Riverrise, escena.&#10;&#10;Ayude a Blorp Knurt en su astuto plan para cerrar el escenario del concierto en Riverrise al traerle 5 antiguos fósiles." />
+  <Key key="_goalVoice_EXCUSE_ME__Are_you_DEAF___I_sa" value="¿DISCULPE?¿Eres sordo?¡Dije 5 antiguos fossilessss!¿No puedes encontrarlos?¡Revise esos antiguos lugares de artefactos alrededor de Riverrise!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_EXCUSE_ME___DID_YOU_SAY_someth" value="¡¿DISCULPE?!¿Dijiste algo?¡Habla, joven!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_varDescription_Collect_Ancient_Fossil" value="Recolectar fósiles antiguos" />
+  <Key key="_npc_Oh__you_ACTUALLY_did_it__I_can" value="¡Oh, realmente lo hiciste!¡No puedo creerlo!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Here_s_a_little_something_for_" value="Aquí hay algo para tu arduo trabajo ... y mi cordura." voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_But_LISTEN__these_earplugs_are" value="Pero escucha, estos tapones para los oídos son para ti, no solo para mí." voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Soon____NEITHER_of_us_will_nee" value="Soon... NEITHER of us will need them" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_You_know__the_NOISE_from_that_" value="¡Sabes, el ruido de esa etapa de concierto está arruinando mi vida!He intentado hablar con ellos ... ¿Puedes oírme?" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_So__I_ve_come_up_with_a_BRILLI" value="Entonces, me he encontrado un plan brillante.Hacemos que piensen que es un sitio histórico.¡Sí, histórico!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_I_need_you_to_find_5_ancient_f" value="Necesito que encuentres 5 fósiles antiguos.¡Sí, dije cinco!Colóquelos alrededor del área del concierto.Esto es genio, ¡créeme!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_When_they_REALIZE_it_s_a__HIST" value="Cuando se dan cuenta de que es un &quot;sitio histórico&quot;, tendrán que apagarlo.¡SIN ELECCIÓN!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_WHAT_did_you_say__CAN_T_you_SE" value="¿Qué dijiste?¿No puedes ver que estoy ocupado aquí?" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Excuse_me__are_you_DEAF__You_D" value="Disculpe, ¿eres sordo?No entiendes la gravedad de esta situación." voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_No_THANKS__I_ll_just_DEAL_WITH" value="¡No, gracias!Solo lidiaré con eso yo mismo, como siempre." voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Oh_great__ANOTHER_USELESS_pers" value="¡Oh, genial, otra persona inútil que no me ayudará!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Why_are_you_even_STANDING_HERE" value="¿Por qué estás parado aquí?¡PIERTES si no me ayudas!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+</Node>

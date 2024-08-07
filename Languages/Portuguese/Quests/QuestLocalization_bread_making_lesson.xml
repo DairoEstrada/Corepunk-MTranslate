@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_bread_making_lesson" type="external">
+  <Key key="_goalVoice_La64" value="Traga -me uma farinha de trigo.Olhe em volta, querida.É a estação da colheita, e você pode encontrar algumas sobras de trigo nos campos em torno da cidade de Goldenfield ou em caixas e sacos.Você pode processar 3 punhados de sementes de trigo na farinha no meu banco de cozinha." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Don_t_forget_that_Wheat_Flour_" value="Não se esqueça daquela farinha de trigo, Exmo.Não podemos assar pão sem ele." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_How_s_the_flour_hunt_going__da" value="Como está a caça à farinha, querida?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Remember__the_fresher_the_flou" value="Lembre -se, quanto mais fresca a farinha, melhor o pão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_You_re_a_peach__darling__Let_s" value="Você é um pêssego, querida.Vamos assar!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_QuestActionAddToJournal_KpHO" value="Martha &quot;Big Mamma&quot; Potterson&#10;Goldenfield, perto da cozinha do bem -estar.&#10;&#10;Traga a farinha de trigo para uma grande mamãe para que ela possa fornecer comida aos recém -chegados.São necessários 3 punhados de sementes de trigo para fazer farinha.As sementes de trigo podem ser encontradas em caixas e sacos em todo o Goldenfield." />
+  <Key key="_npc_Bring_me_some_Wheat_Flour__Loo" value="Traga -me uma farinha de trigo.Olhe em volta, querida.É a estação da colheita, e você pode encontrar algumas sobras de trigo nos campos em torno da cidade de Goldenfield ou em caixas e sacos." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_npc_Well__I_ll_be_a_monkey_s_uncle" value="Bem, eu serei o tio de um macaco!Você fez isso.Aqui está a sua recompensa." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_varDescription_eSD9" value="Farinha de trigo" />
+  <Key key="_goal_speak_npc" value="Traga a farinha de trigo para &quot;Big Mamma&quot;" />
+  <Key key="_varDescription_gg3T" value="Farinha de trigo" />
+  <Key key="_npc_You_can_process_3_handfuls_of_" value="Você pode processar 3 punhados de sementes de trigo na farinha no meu banco de cozinha." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_You_took_to_that_quick__I_bet_" value="Você levou para isso rápido.Aposto que você também poderia aprender outras habilidades!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_There_s_plenty_a__locals_aroun" value="Há muitos moradores por aqui que o governo paga para ensinar." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Why_don_t_you_hunt__em_down_" value="Por que você não o caça?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_There_s_a_lumberjack_and_a_min" value="Há um lenhador e um mineiro no posto de gasolina." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_An_alchemist_back_behind_the_b" value="Um alquimista de volta atrás do banco." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_And_a_workshop_with_a_couple_o" value="E um workshop com alguns artesãos de armas ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+</Node>

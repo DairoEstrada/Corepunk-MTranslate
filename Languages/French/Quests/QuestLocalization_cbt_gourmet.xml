@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_gourmet" type="external">
+  <Key key="_npc_I_uh____Well__alright__But_onl" value="Je euh ... eh bien, d'accord.Mais seulement parce que c'est une situation désastreuse.Je suis apprenti à l'Université Leithana.Un observateur junior." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_goal_drop_item" value="Collectez les dispositifs de suivi de Gnat Bodies" />
+  <Key key="_varDescription_CFni" value="Dispositifs de suivi" />
+  <Key key="_QuestActionAddToJournal_EIVk" value="Elara Brightfall&#10;Goldenfield, à l'ouest de la ferme de poulet&#10;&#10;Tuez les moucherons et apportez les dispositifs de suivi de leur corps à Elara" />
+  <Key key="_goal_back_npc" value="Apportez les dispositifs de suivi à l'étudiant" />
+  <Key key="_npc_Oh__that_s_fine__I_m_not_press" value="Oh, that's fine. I'm not pressing you. Just take your time, but know that I'll be kicked out of the University if I don't bring the trackers back. " voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Really__Great__But_if_you_meet" value="Vraiment?Super!Mais si vous rencontrez d'autres observateurs ou censeurs, ne leur parlez pas de notre petit accord." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Sorry__Oh____Hello_there__" value="Désolé?Oh bonjour là-bas." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_It_d_mean_everything_to_me__if" value="Cela signifierait tout pour moi, si vous avez tué ces moucherons et en récupérer les dispositifs de suivi." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Oh__I_owe_you_big_time__If_you" value="Oh, je te dois beaucoup de temps!Si vous êtes jamais à Leithana, arrêtez-vous à l'université.Je vais vous donner un passe-visiteur et vous montrer." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Wait__I_would_really_appreciat" value="Wait! I would really appreciate your help, though! " voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_You_know__you_re_doing_a_good_" value="You know, you're doing a good thing. Have you got all of them? " voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_goalVoice_fetm" value="Cela signifierait tout pour moi, si vous avez tué ces moucherons et en récupérer les dispositifs de suivi." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_I_was_supposed_to_study_the_be" value="I was supposed to study the behavioral patterns of the Gnaticus Prolificus, or gnats as you, village people, call them. " voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Oh__Sure__I___I_understand__Yo" value="Oh.Bien sûr.Je ... je comprends.Vous avez votre propre village - des choses à faire, non?Ouais.Je suis tellement foutu." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Gosh__if_I_mess_it_up__the_Mas" value="Oh, mon Dieu, si je gâche, le Master Censor m'enverra certainement dans une expédition dans les champs ardents.Donc, oui, ici je demande de l'aide à un profane." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_I_put_tracking_devices_on_youn" value="Je mets des dispositifs de suivi sur les jeunes moucherons et j'ai maintenant leurs modèles de comportement, mais je n'ai pas les dispositifs de suivi." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_They_cost_a_fortune_for_our_de" value="Ils ont coûté fortune pour notre département.Je n'ai jamais pensé que ces moucherons seraient aussi intimidants dans la vraie vie." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+  <Key key="_npc_Well__it_s____I_m_not_really_s" value="Eh bien, c'est ... Je ne suis pas vraiment censé partager des informations avec les profanes." voice="Female" voiceSettingsId="XrExE9yKIg1WjnnlVkGX" />
+</Node>

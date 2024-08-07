@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_farmer_poultry" type="external">
-  <Key key="_npc_Howdy__dearie_" value="Olá, querida!" voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
-  <Key key="_npc_Oh__hello_there_" value="Oh, olá lá!" voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
-  <Key key="_npc_Greetings__sweetheart_" value="Saudações, querida." voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
-  <Key key="_npc_Aye__welcome_" value="Sim, seja bem -vindo!" voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
-  <Key key="_npc_Come_in__you_look_like_you_nee" value="Entre, parece que você precisa de uma refeição!" voiceSettingsId="IrNMlUFGM4zGUgrGpMSV" />
-</Node>

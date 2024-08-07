@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_fortune_forewarned" type="external">
+  <Key key="_npc_I_knew_you_d_say_that__Because" value="Je savais que tu dirais ça!Parce que je suis toi!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_goal_collect_ruby" value=" " />
+  <Key key="_varDescription_Collect_a_Ruby" value="Ruber" />
+  <Key key="_goal_collect_diamond" value=" " />
+  <Key key="_varDescription_Collect_a_Diamond" value="Récupérer un diamant" />
+  <Key key="_goal_collect_moonstone" value=" " />
+  <Key key="_varDescription_Collect_a_Moonstone" value="Récupérer une pierre de lune" />
+  <Key key="_QuestActionAddToJournal_Reyalp_Riverrise__City_Enter_1" value="Reyalp&#10;RiverRise, ville entre 1 après le pont.&#10;&#10;Reyalp, un extraterrestre particulier, prétend qu'il peut éviter votre sort catastrophique avec quelques précieuses pierres précieuses." />
+  <Key key="_goalVoice_Quick__If_you_don_t_find_those" value="Rapide!Si vous ne trouvez pas ces joyaux, nous pourrions tous les deux finir comme des rires intergalactiques!Un rubis, un diamant, une pierre de lune!Tick-Tock, nous sommes en temps emprunté!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Ah__you_made_it__Barely__but_s" value="Ah, tu as fait!À peine, mais quand même.Maintenant, laissez voir ces joyaux!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Splendid_work__These_gems_will" value="Splendide travail!Ces joyaux seront ... euh, nous protéger.Ouais, allons-y!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Now_I_can____I_mean__we_can_re" value="Maintenant je peux ... je veux dire, nous pouvons rester facilement ... pour l'instant." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Listen_closely__I_m_you__from_" value="Écoutez attentivement!Je suis toi, du futur, et je n'ai pas beaucoup de temps." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_You_must_retrieve_a_Ruby__a_Di" value="Vous devez récupérer un rubis, un diamant et une pierre de lune!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_It_s_the_only_way_to_prevent_t" value="C'est le seul moyen d'empêcher l'événement catastrophique qui vous fait ressembler à ceci." voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_I_know_this_sounds_unbelievabl" value="Je sais que cela semble incroyable, mais votre sort et le mien en dépendent.Agissez rapidement avant qu'il ne soit trop tard!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Do_you_really_want_to_end_up_l" value="Voulez-vous vraiment vous retrouver comme moi?C'est un cauchemar!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_How_can_you_be_so_blind__We_ar" value="Comment pouvez-vous être si aveugle?Nous nous battons contre le temps lui-même!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_Emergency__This_is_an_emergenc" value="Urgence!C'est une urgence!Vous faites une grave erreur!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+  <Key key="_npc_You_fool__You_re_dooming_us_bo" value="Idiot!Vous nous condamnez tous les deux!" voiceSettingsId="Ctu97JxNKkktT9oxcHOd" />
+</Node>

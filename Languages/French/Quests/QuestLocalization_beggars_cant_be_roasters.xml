@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_beggars_cant_be_roasters" type="external">
+  <Key key="_npc_Ah___hic__back_already__How_s_" value="Ah, -hic- revenez déjà?Comment est la chasse?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_varDescription_cNj7" value="Récupérer une carcasse rôtie" />
+  <Key key="_npc_Yer_a_fine_one__This_belly_of_" value="Yer un beau!Ce ventre de whisky se déchaîne." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_goalVoice_Remember__lad__we_need_an_anim" value="Rappelez-vous, garçon, nous avons besoin d'une carcasse d'animaux, d'oignon, de -Hic-, de sel et d'ermé, de champignons ... champignon rouge!Cela va cuisiner un sacré bon repas.Je ne me soucie pas ce que dit Ole Marthy!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_Aye__that_s_the_stuff__You_did" value="Oui, c'est ça!Vous l'avez fait, garçon!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Let_s_sit_and_enjoy_this_by_th" value="Laissez s'asseoir et profitez-en par le feu de camp.Peu de choses dans la vie sont aussi bonnes qu'une carcasse rôtie partagée avec un ami." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Thank_ye__lad__Ye_ve_made_a_dr" value="Merci, garçon.Vous avez rendu un vieil homme ivre et très heureux." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_I_ll__hic__say__that_last_bott" value="Je vais -Hic- dis, cette dernière bouteille repére vraiment le coup." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_The_ole__belly_s_rumbl__hic__l" value="Le rumbl-hic-ling du nombril ole '.Ole Marthy ici ne me réparera pas mon préféré." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_What_s_say_you_give_me_another" value="Que dites-vous que vous me donnez une autre main-main." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_My_ma_use_to_always_makes_us_a" value="Mon utilisation de MA fait toujours de nous une belle carcasse rôtie." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_It_was_free_meat__ya_judgy__hi" value="C'était de la viande gratuite, Ya Judgy -Hic- Bastards." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Think_you_can_fix_me_a_plate_" value="Vous pensez que vous pouvez me réparer une assiette?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_QuestActionAddToJournal_Paddy_O_Lantern_Goldenfield__W" value="Paddy o'lantern&#10;Goldenfield, cuisine sociale&#10;Aidez Paddy O'lantern, le vieux mendiant comique, réalise sa soif nostalgique pour une carcasse rôtie." />
+  <Key key="_varDescription_Collect_a_Roasted_Carcass" value="Récupérer une carcasse rôtie" />
+  <Key key="_npc_Aw__ya_gonna_leave_an_old_man_" value="Aw, tu vas laisser un vieil homme hangin?Convient à Yerself." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_No_worries__lad__Maybe_next_ti" value="Pas de soucis, mond.Peut-être que la prochaine fois, vous aurez un changement de cœur." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Well__that_s_a_damn_shame__But" value="Eh bien, c'est damné.Mais je comprends, tout le monde est occupé ces jours-ci." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+</Node>

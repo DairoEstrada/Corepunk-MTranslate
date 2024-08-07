@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_clanker" type="external">
+  <Key key="_npc_Boo_" value="Huer!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Get_out_" value="Sortir!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Beware_" value="Méfiez-vous!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Leave_now_" value="Pars maintenant!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_You_disturb_the_dead___" value="Vous dérangez les morts ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Intruder_" value="Intrus!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Leave_this_place_" value="Quitte cet endroit!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_I_haunt_you___" value="Je te hante ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+</Node>

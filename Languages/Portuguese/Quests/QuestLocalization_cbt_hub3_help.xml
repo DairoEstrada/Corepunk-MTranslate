@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_help" type="external">
+  <Key key="_npc_Privet" value="Ei.Não tenho tempo para responder suas perguntas.Temos nossos próprios problemas aqui.Talvez você queira ajudar?" voice="Male" />
+  <Key key="_goal_help_man" value="Limpe a bagunça na estação de mana" />
+  <Key key="_QuestActionAddToJournal_8d31" value="Помоги бригададntas" />
+  <Key key="_npc_Pomogi_s_pozharom" value="Primeiro de tudo, o fogo.Pronto para chegar a isso?" voice="Male" />
+  <Key key="_npc_Mozhet_togda_s_medikom_" value="Agora, temos muitos trabalhadores feridos.Quer nos ajudar a tratar esses pobres bastardos?" voice="Male" />
+  <Key key="_npc_A_s_mana_bochkami_" value="Há também um problema com a queda de energia aqui.Você terá que colocar alguns recipientes cheios de mana e colocá -los nas usinas de energia.Preparar?" voice="Male" />
+  <Key key="_npc_Nu_prikhodi_v_drugoy_raz" value="Bem, é tudo o que precisamos por enquanto.Vou repetir todas essas tarefas para você escolher." voice="Male" />
+  <Key key="_npc_eshche_paru" value="Você conseguiu nos ajudar com os trabalhadores feridos.Bom." voice="Male" />
+  <Key key="_npc_Spasibo_tebe_bol_shoe" value="Valeu mesmo, cara." voice="Male" />
+  <Key key="_goalVoice_9GMb" value="Прив, поможжеш ш?" voice="Male" />
+  <Key key="_npc_Super_davay_za_delo" value="Ótimo.Agora ouça, tenho três grandes problemas aqui após o último ataque.Estes são o incêndio na estação, os trabalhadores feridos e a falta de eletricidade." voice="Male" />
+  <Key key="_npc_U_tebya_ostalos_" value="Então, você já extinguiu o fogo.Mas há mais coisas que você pode fazer por nós." voice="Male" />
+  <Key key="_npc_Pochti_vse" value="A crise da usina é tratada.Graças à você.Agora, ainda há algumas coisas que você pode nos ajudar." voice="Male" />
+  <Key key="_npc_Nu_zadachi_takie_" value="Então, eu tenho as próximas coisas para você fazer." voice="Male" />
+  <Key key="_npc_1" value="Ok, ainda há coisas que você pode fazer por nós." voice="Male" />
+</Node>

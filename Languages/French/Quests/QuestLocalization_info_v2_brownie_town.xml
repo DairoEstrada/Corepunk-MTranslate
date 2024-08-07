@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_brownie_town" type="external">
+  <Key key="_npc_Hee_hee__am_I_who__Depends_for" value="Hee-hee, suis-je qui?Cela dépend de qui cherchez-vous.Hee-hee.Un Wayfarer, comme vous.Hee-hee." voice="Male" />
+  <Key key="_npc_This_place_where_I_trade_in_my" value="Cet endroit où j'échange dans mes affaires pour leurs affaires." voice="Male" />
+  <Key key="_npc_Be_on_my_feet_all_day__do_diff" value="Soyez debout toute la journée, faites des choses différentes: négociation «, vendre», acheter », argument».Je viens ici de mon village.Cet endroit pas juste autour du Corna!Aband-ce que mon âge." voice="Male" />
+</Node>

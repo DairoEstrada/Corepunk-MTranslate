@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_monster_hunt" type="external">
+  <Key key="_npc_Here_you_go__Just_put_it_in_fr" value="Aqui você vai.Basta colocá -lo em frente à caverna do urso e orar por sua vida." voice="Male" />
+  <Key key="_goal_collect_meat" value="Encontre uma isca para o urso" />
+  <Key key="_varDescription_b46N" value="Found" />
+  <Key key="_QuestActionAddToJournal_UKDb" value="Agora tenho que encontrar algo para atrair o urso para fora do covil.Por enquanto, é a carne dos lobos.Este lobo pode ser encontrado ao sul daqui." />
+  <Key key="_npc__Ogromnyy_byl" value="Você matou o urso.Isso é mais admirável.Talvez um dia você possa se tornar um membro da Great Hunter Guild." voice="Male" />
+  <Key key="_goal_speak_back" value="Fale com o grande caçador" />
+  <Key key="_QuestActionAddToJournal_TTvi" value="Peguei a carne.Deveria trazê -lo para o grande caçador, para que ele faria uma isca com isso." />
+  <Key key="_npc_Teper__sdelaem_primanku_s_etog" value="Bom, essa carne deve fazer.Deixe -me fazer uma boa isca com isso." voice="Male" />
+  <Key key="_goal_collect_sticks" value="Encontre uma madeira de bochecha" />
+  <Key key="_varDescription_MS3r" value="Found" />
+  <Key key="_goal_collect_poison" value="Encontre a planta venenosa" />
+  <Key key="_varDescription_NgJj" value="Found" />
+  <Key key="_goal_sticks_poison" value="Fale com o grande caçador" />
+  <Key key="_npc_nays_palki" value="Bom, você trouxe paus e veneno.Eu vou fazer uma soça.Enquanto estou fazendo, você precisará de algum tipo de isca para atraí -lo.Este urso é atraído por carne fresca, então você precisa caçar alguns animais pequenos.Traga sua carne para mim." voice="Male" />
+  <Key key="_goal_bear_zone" value="Encontre a caverna do urso" />
+  <Key key="_QuestActionAddToJournal_VqGc" value="Now, that I've got all the ingredients for a good hunt, I have to go and die from the Killer Bear's claws, I suppose. First, I've got to find the Bear Cave. It's to the west from here. " />
+  <Key key="_goal_use_meat" value="Use a isca" />
+  <Key key="_QuestActionAddToJournal_Ekzf" value="Este lugar parece bastante bom.Eu tenho que mudar isso usando a isca para atrair o urso.Devo lembrar que posso usar a soneca contra o urso para enfraquecê -lo." />
+  <Key key="_goal_kill_bera" value="Derrote o urso assassino" />
+  <Key key="_QuestActionAddToJournal_ddiS" value="Mate isso! Mate isso! Mate isso!" />
+  <Key key="_goal_collect_fang" value="Colete o urso assassino Fang" />
+  <Key key="_QuestActionAddToJournal_YZss" value="De alguma forma, eu realmente fiz isso.Eu matei o urso assassino.Agora eu tenho que pegar sua presa." />
+  <Key key="_goal_end_quest" value="Traga a presa para o grande caçador" />
+  <Key key="_QuestActionAddToJournal_eQwq" value="E trazê -lo para o caçador." />
+  <Key key="_npc_I_m_Douglas_the_Great_Hunter__" value="Eu sou Douglas, o grande caçador.Um membro da Guilda do Grande Hunters." voice="Male" />
+  <Key key="_npc_Only_the_best_of_the_hunters_c" value="Somente o melhor dos caçadores pode se tornar membros da guilda.No momento, estou na minha caçada mais ambiciosa.Estou caçando o urso assassino, que há rumores de vagar pelo lugar." voice="Male" />
+  <Key key="_npc_Huh__I_ve_spent_two_years_tryi" value="Huh!Passei dois anos tentando caçá -lo.Mas é claro, você pode tentar sua sorte." voice="Male" />
+  <Key key="_npc_But_there_s_no_chance_you_can_" value="Mas não há chance de você lidar com esse urso.Ele matou muitos caçadores.Há muito tempo estou procurando uma maneira de enfraquecê -lo de alguma forma.Ouvi dizer que o sábado local deveria saber algo sobre isso.Mas não posso ganhar a confiança deles." voice="Male" />
+  <Key key="_npc_Actually__this_time_I_ll_tell_" value="Na verdade, desta vez vou lhe dizer como criar uma arma especial para enfraquecer o urso.Você tem que encontrar um pedaço de madeira adequado.Basta cortar uma árvore ou algo assim.Depois disso, encontre uma planta venenosa.Então me dê para mim e eu vou criar a arma para você." voice="Male" />
+  <Key key="_npc_Here_s_your_blowgun__Aim_at_th" value="Aqui está a sua bunda.Mire no urso e sopra.Isso deve enfraquecê -lo.Boa sorte." voice="Male" />
+  <Key key="_QuestActionAddToJournal_UQuS" value="Ok, eu tenho algumas plantas de madeira e venenosas.Deve entregá -los ao grande caçador, para que ele pudesse fazer uma arma deles." />
+  <Key key="_QuestActionAddToJournal_C4qZ" value="Ok, eu tenho algumas plantas de madeira e venenosas.Deve entregá -los ao grande caçador, para que ele pudesse fazer uma arma deles." />
+  <Key key="_QuestActionAddToJournal_8S1e" value="Eu conheci um grande caçador do Great Hunters Guild.Ele está atrás de um urso assassino que se diz habitar essa floresta.Por alguma razão, me ofereci para participar desta caçada.Então agora eu tenho que encontrar um pedaço de madeira adequado para fazer uma soça e algumas plantas venenosas para fazer projéteis para a soneca.A madeira pode ser obtida cortando árvores e a planta venenosa cresce no Green Grove, distante a oeste daqui." />
+  <Key key="_varDescription_fVhh" value="Coletar" />
+  <Key key="_varDescription_TJd0" value="Coletar" />
+  <Key key="_varDescription_JebS" value="Coletar" />
+  <Key key="_npc_Poteryal_" value="Então?" voice="Male" />
+  <Key key="_npc_Primanku_govorish___na_derzhi" value="Claro, eu tenho muitos deles.Aqui você vai." voice="Male" />
+  <Key key="player_I_lost" value="Perdi um dos itens que você me deu." />
+  <Key key="_npc_nu_koroche_tam_to_tam" value="Você pode encontrar a planta venenosa a oeste daqui, em um bosque." voice="Male" />
+  <Key key="_npc_Myaso_tam" value="Para encontrar a isca de urso, você precisa matar um animal fedorento e tirar algo dela.Por enquanto, é um lobo.Você tem que obter carne de lobos." voice="Male" />
+  <Key key="_npc_Zona_medvedya_tam" value="The Killer Bear is rumored to have been spotted to the west from here. These bears usually live in caves, so look for one. " voice="Male" />
+</Node>

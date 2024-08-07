@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mounting_evidence" type="external">
+  <Key key="_npc_A_hero_who_quits_before_the_fi" value="Um herói que sai antes da luta?Patético." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_goal_collect_item" value="Colete o dispositivo de gravação" />
+  <Key key="_npc_Turning_down_justice__eh__Make" value="Recusando a justiça, não é?Faz você tão culpado quanto Triton." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_goalVoice_Courage_is_looking_chaos_in_th" value="A coragem está parecendo caos nos olhos, garoto.Vasculhe essas redes e recipientes no lago.O dispositivo de gravação está lá fora, esperando." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Once_you_ve_got_it_in_your_han" value="Depois de conseguir em suas mãos, vá ver Gusto Grubhunter.O cara é um s.o.b preguiçoso, mas ele pode derramar um pouco de sujeira em Triton que será útil." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_need_you_to_dive_into_that_m" value="Eu preciso que você mergulhe nessa bagunça, encontre o dispositivo de gravação perdido.Sem ele, Windstone perdeu qualquer chance de justiça." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_goal_talk_npc" value="Traga para Gusto" />
+  <Key key="_npc_Now_that_recording_device_lies" value="Agora que o dispositivo de gravação está esquecido, em algum lugar na costa de Windstone Lake." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_had_the_smoking_gun__the_pro" value="Eu tive a arma de fumar, a prova para derrubá -lo.Mas em uma briga suja do lago, ela escorregou do meu alcance." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_So__kid__you_wanna_play_hero__" value="Então, garoto, você quer interpretar herói?Triton está lá fora, à espreita nas sombras, seu rastro de caos ecoando por essas partes." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_I_uh__have_some_stories_about_" value="Eu também tenho algumas histórias sobre Triton.Talvez eles possam ajudar ..." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Darkspike_said_I_should_take_i" value="Darkspike disse que eu deveria aceitar e dar isso a você." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_QuestActionAddToJournal_Roderick__DarkSpike__Thinklatc" value="Roderick &quot;Darkspike&quot; Thinklatch&#10;Windstone Village, lugar de guarda: leste.&#10;&#10;Ajude Roderick 'Darkspike' Thinklatch a reunir seu dispositivo de gravação ausente na margem do lago e trazê -lo para Gusto Grubhunter." />
+  <Key key="_npc_Walk_away_now__but_remember__d" value="Afaste agora, mas lembre -se, a escuridão nunca esquece." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_Oh__uh____Darkspike_told_me_yo" value="Oh, uh ... Darkspike me disse que você pode estar vindo." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Wow__you_really_found_that_rec" value="Uau, você realmente encontrou esse dispositivo de gravação?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Welcome_to_the_shadows__kid__L" value="Bem -vindo às sombras, garoto.Vamos caçar esse filho da puta." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+  <Key key="_npc_You_think_hiding_from_the_shad" value="Você acha que se esconder das sombras os faz desaparecer?Enganar." voiceSettingsId="2gPFXx8pN3Avh27Dw5Ma" />
+</Node>

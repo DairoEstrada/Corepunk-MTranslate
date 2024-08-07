@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_beneath_the_surface" type="external">
+  <Key key="_npc_No_worries__sheep__Keep_grazin" value="Não se preocupe, ovelhas.Continue pastando enquanto os lobos funcionam livres." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_collect_sketch" value=" " />
+  <Key key="_npc_So_you_re_afraid_of_a_little_t" value="Então você tem medo de um pouco de verdade, hein?Os poderes que seriam te amaria." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goalVoice_Those_clue_fragments_in_the_mi" value="Esses fragmentos de pista na mina são pedaços do grande quebra -cabeça.Não deixe que os senhores lagartos o distraiam!Continue cavando!Eles estão escondendo a verdade de nós naqueles cantos escuros de minas." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_The_powers_that_be_don_t_want_" value="Os poderes que devem não querem que encontremos isso, mas não vamos deixá -los vencer.Mergulhe nessas minas, junte os fragmentos e vamos quebrar o código para uma revelação além de seus pesadelos mais loucos." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_We_re_talking_life_changing_se" value="Estamos falando de segredos que mudam a vida aqui, não apenas as jóias da sua avó." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_I_need_someone_with_guts_to_un" value="Eu preciso de alguém com coragem para descobrir a verdade.E qualquer que qualquer fragmento de artefato esteja lá embaixo." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Listen_up__fellow_truth_seeker" value="Ouça, companheiro de verdade!Concluí que há uma conspiração enrolada em mistério enterrado nas profundezas daquelas velhas minas entre a serraria e a pedreira." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_talk_npc" value="Voltar para Varkus Drov" />
+  <Key key="_npc_No_____Maybe_you_will_later_to" value="Não...?Talvez você vai mais tarde hoje ..." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_You_haven_t_happened_to_hear_o" value="Você não ouviu ou viu uma mulher gritando pela floresta, não é?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Never_heard_of_it__And_as_a_tr" value="Nunca ouvi falar disso.E como caçador de tesouros, ouvi falar de qualquer coisa que valha a pena encontrar." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Alien_language__Ancient_artifa" value="Linguagem alienígena?Artefato antigo?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_QuestActionAddToJournal_Alexander_Stones_Westwind_Wood" value="Alexander Stones&#10;Westwind Woods, Old Quarry com vista para a plataforma.&#10;&#10;Ajude Alexander Stones a procurar 5 pistas e um culpado perto da entrada da mina antiga." />
+  <Key key="_npc_Suit_yourself__sleeper__Go_bac" value="Adore -se, dorminhoco.Volte às suas mentiras confortáveis." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_varDescription_Collect_Odd_Sketch" value="Colete esboço estranho" />
+  <Key key="_npc_Why_did_you_take_a_bunch_of_my" value="Por que você levou um monte de meus desenhos?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_And_you_are____" value="E você é...?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Alright__prep_yourself_for_a_f" value="Tudo bem, prepare -se para uma jornada para o desconhecido!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

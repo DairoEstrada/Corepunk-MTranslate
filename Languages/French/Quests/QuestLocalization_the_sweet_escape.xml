@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_sweet_escape" type="external">
+  <Key key="_npc_Thank_you_so_much__You_re_a_li" value="Merci beaucoup!Vous êtes une bouée de sauvetage.J'ai hâte de voir ce que vous ramenez." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Welcome_back__how_did_it_go_" value="Bienvenue, comment ça s'est passé?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_You_found_it__This_is_amazing_" value="Tu l'as trouvé! Ceci est incroyable!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Here_s_your_reward__and_thank_" value="Voici votre récompense et merci d'avoir contribué à rapprocher un peu mon rêve de la réalité." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Don_t_forget_to_try_a_cup_of_o" value="N'oubliez pas d'essayer une tasse de nos nouvelles bières spéciales.Ils vont être légendaires!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Thanks_again__I_couldn_t_have_" value="Merci encore!Je n'aurais pas pu le faire sans toi." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_varDescription_Collect_Blood_Honey" value="Recueillir un miel de sang" />
+  <Key key="_npc_You_know__I_ve_been_dreaming_o" value="Vous savez, je rêvais d'ajouter un peu de flair à mon café et mon thé ici au Goldenroast Cafe.Quelque chose d'unique, quelque chose d'exotique." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_I_ve_heard_tales_from_outworld" value="J'ai entendu des histoires de voyageurs ouvrants sur ce rare miel de sang.Pouvez-vous imaginer comment cela augmenterait le goût de mes boissons?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_If_I_could_get_my_hands_on_som" value="Si je pouvais mettre la main sur une partie de ce miel de sang, non seulement cela ravirait mes clients, mais cela pourrait également rapporter suffisamment de profit pour enfin prendre la vie de la grande ville à Leithana." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Would_you_be_willing_to_go_col" value="Seriez-vous prêt à aller collecter du miel de sang pour moi?Je promets que cela en vaudra la peine!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_QuestActionAddToJournal_Ivie_Clarkson_Goldenfield__Gol" value="IVie Clarkson&#10;Goldenfield, Goldenfield, près du bureau.&#10;&#10;Aidez Ivie Clarkson à rassembler du miel de sang rare pour pimenter les offres de son café et financer ses rêves de vie urbaine à Leithana." />
+  <Key key="_goalVoice_Can_you_bring_me_that_Blood_Ho" value="Pouvez-vous déjà m'apporter ce miel de sang?N'oubliez pas, il se trouve dans les arbres magiques.N'oubliez pas ce rare miel de sang.Ce pourrait être notre billet pour la grandeur!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_varDescription_Collect_a_Blood_Honey" value="Recueillir un miel de sang" />
+  <Key key="_npc_Oh__that_s_a_shame__Maybe_anot" value="Oh quel dommage.Peut-être une autre fois, alors." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_No_worries__if_you_change_your" value="Pas de soucis, si vous changez d'avis, vous savez où me trouver." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_I_understand__it_s_not_an_easy" value="Je comprends, ce n'est pas une tâche facile.Je serai là si vous reconsidérez." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+</Node>

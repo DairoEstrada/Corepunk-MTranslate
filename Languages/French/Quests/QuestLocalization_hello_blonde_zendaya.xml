@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_blonde_zendaya" type="external">
+  <Key key="_npc_Take_me_home__HOME_" value="Ramène-moi à la maison!MAISON!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_This____isn_t____FAIR_" value="Ce n'est pas ... juste!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_I_m_not_walking_another_step_" value="Je ne marche pas une autre étape!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Oh__hey_you_" value="Oh, hé toi." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Like__hiiii_" value="Comme, hiiii!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Ugh__what_now_" value="Ugh, quoi maintenant?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Hey__whatever_" value="Hé, peu importe." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Hi__I_guess_" value="Salut, je suppose?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Oh__it_s_you_" value="Oh c'est toi." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Like__sup_" value="Comme, sup!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Ugh__seriously_" value="Ugh, sérieusement?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Hi__OMG_" value="Salut, OMG." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_What_s_your_deal_" value="C'est quoi ton problème?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Ugh__great__more_drama_" value="Ugh, super, plus de drame." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Hello__I_guess_" value="Bonjour, je suppose." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Hi__like__sorry_about_my_mom_" value="Salut, comme, désolé pour ma mère." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Oh_my_gosh__what_even_are_you_" value="Oh mon Dieu, qu'est-ce que tu es?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Hey__sorry__My_mom_s_being_a_t" value="Hey désolé!Ma mère est un traînée totale." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Like__hi__What_are_you_" value="Comme, salut!Qu'est-ce que tu es?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_OMG__my_mom_is_being_so_embarr" value="OMG, ma mère est si embarrassante!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Sup__Sorry_about_her_" value="Souper?Désolé pour elle." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Oh__hi_there_" value="Oh salut toi!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Ugh__sorry_about_my_mom_" value="Ugh, désolé pour ma mère." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Hey__uh__what_even_are_you_" value="Hé, euh, qu'est-ce que tu es?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Like__hi_" value="Comme, salut!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_OMG__you_scared_me_" value="OMG, tu m'as effrayé!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Sup_" value="Souper?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+</Node>

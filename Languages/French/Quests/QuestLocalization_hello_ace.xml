@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_ace" type="external">
+  <Key key="_npc_Ready_to_submit_" value="Prêt à soumettre?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Kneel__darling_" value="A agenouil, chérie." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Eyes_on_me_" value="Les yeux sur moi." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Feel_the_tension_" value="Sentir la tension?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Ready_to_be_tamed_" value="Prêt à être apprivoisé?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Want_a_closer_look_" value="Vous voulez un regard plus approfondi?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Bow_down__baby_" value="Inclinez-vous, bébé." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Play_nice__now_" value="Jouez bien, maintenant." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_imp_boss2" type="external">
+  <Key key="_npc_hi" value="Alors allez déjà.À leur camp principal.Il est marqué sur votre carte." voice="Male" />
+  <Key key="_goal_kill_savages" value="Trouvez le camp principal" />
+  <Key key="_QuestActionAddToJournal_IJa6" value="Je dois trouver le camp principal des cultistes.Il est marqué sur la carte." />
+  <Key key="_goal_talk_to_cultist" value="Parlez au chef du cultiste" />
+  <Key key="_QuestActionAddToJournal_Njjk" value="J'ai pu parler au chef du cultiste." />
+  <Key key="_npc_ohae" value="Laisse-moi juste te tuer, d'accord?" voice="Male" />
+  <Key key="_goal_bring_dagger" value="Apportez l'artefact à Caela" />
+  <Key key="_QuestActionAddToJournal_Zm5z" value="Le salaud est mort.Maintenant, je dois piller son cadavre et en prendre l'artefact." />
+  <Key key="_npc_Nice__Thanks__" value="Bon.Merci." voice="Male" />
+  <Key key="_goal_kill_forestchief" value="Tuez le chef du cultiste" />
+  <Key key="_QuestActionAddToJournal_8Pd7" value="J'ai décidé de tuer le chef du cultiste." />
+  <Key key="_goalVoice_7LT3" value="Aller au camp principal des cultistes." voice="Male" />
+  <Key key="_goal_save_victim" value="Sauver la fille" />
+  <Key key="_QuestActionAddToJournal_EUID" value="Sauvez la fille des racines." />
+  <Key key="_goal_talk_to_girl" value="Parler à la fille" />
+  <Key key="_QuestActionAddToJournal_FICL" value="Parlez à la fille que vous venez de sauver." />
+  <Key key="_assistant_phrase_Hvx1" value="Regardez cette mystérieuse poignard ancien que vous avez trouvé.Apportez-moi." voice="Female" />
+  <Key key="_npc_thx" value="Merci." />
+  <Key key="_QuestActionAddToJournal_g6Us" value="Caela m'a demandé de lui apporter l'étrange artefact que j'ai trouvé au camp des cultistes.Elle est dans le village principal." />
+  <Key key="_goal_take_artefact" value="Piller l'artefact du corps" />
+</Node>

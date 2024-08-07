@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_astronaut_crew_member" type="external">
+  <Key key="_npc_So__the_creatures_that_chased_" value="Alors, les créatures qui ont chassé mon équipage étaient des &quot;imps&quot;?" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Well__this_here_s_my_crash_sit" value="Eh bien, voici mon site de crash.Certains l'appelleraient un dépotoir, je l'appelle à la maison à la maison." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Now__I_m_just_trying_to_find_m" value="Now, I'm just trying to find my friends, if they're still...you know, kicking." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_ve_been_around__seen_some_we" value="J'ai été là, j'ai vu des trucs étranges dans mes voyages d'espace, mais c'est ... c'est nouveau." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_It_s_like_stepping_onto_a_sci_" value="C'est comme monter sur un plateau de science-fiction, sauf que tout est réel et que je suis le terrienne sans aucune idée." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_But_hey__change_of_scenery_nev" value="Mais bon, le changement de paysage n'a jamais fait de mal à personne!Il suffit de s'adapter et de surmonter.À quel point cela peut-il être difficile, non?" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_ve_had_better_days__honestly" value="I've had better days, honestly. Waking up on a strange planet? Definitely not on my bucket list." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Nah__I_got_this__Space_tech_is" value="Non, j'ai eu ça.La technologie spatiale est aussi simple que de faire du vélo." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_All_good_in_the_hood__pal__Jus" value="Tout bien dans le capot, copain.Il suffit de avoir du temps et beaucoup de ruban adhésif." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_m_okay__Just_need_to_tinker_" value="Je vais bien.Il suffit de bricoler un peu plus." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_was_part_of_a_crew_on_a_miss" value="Je faisais partie d'une équipe en mission, jusqu'à ce que ... eh bien, tout cela s'est produit." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Lovely_neighborhood_isn_t_it__" value="Belle quartier, n'est-ce pas?Spacieux, bonne vue, place pour un vaisseau spatial ou deux." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_ve_seen_better__but_hey__beg" value="J'ai vu mieux, mais bon, les mendiants ne peuvent pas être des sélecteurs." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Actually__yeah__I_could_use_a_" value="En fait, oui, je pourrais utiliser une main." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_You_know__two_heads_are_better" value="Vous savez, deux têtes valent mieux qu'un." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_You_offering_to_help__Well__ai" value="Vous proposez d'aider?Eh bien, n'est-ce pas un cow-boy spatial!" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Just_a_spaceman_named_Ronny_Lu" value="Juste un spaceman nommé Ronny Lunar, perdu dans un monde étrange." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_have_a_feeling_they_might_be" value="Fou.Je ne sais pas grand-chose sur leur métabolisme, mais sa possible exposition transversale pourrait les rendre assez dangereuses." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_The_challenge_here_is_not_know" value="Le défi ici est de ne pas savoir qui ni ce que nous trouverons - chaque indice et chaque information aide." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Understood__it_s_a_big_task__I" value="Compris, c'est une grosse tâche.Je vais continuer à bricoler ici." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_That_s_okay__I_ll_just_sit_her" value="C'est bon.Je vais juste m'asseoir ici, seul, dans ce vaste monde extraterrestre.Aucun problème." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Sure__take_your_time__It_s_not" value="Bien sûr, prenez votre temps.Ce n'est pas comme si nous étions bloqués dans l'espace ou quoi que ce soit." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_can_make_something_to_counte" value="Je peux faire quelque chose pour le contrer, mais j'aurai besoin d'aide du reste de l'équipage." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_It_s_time_to_track_them_down__" value="Il est temps de les retrouver.J'ai le sentiment qu'ils pourraient être dispersés." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+</Node>

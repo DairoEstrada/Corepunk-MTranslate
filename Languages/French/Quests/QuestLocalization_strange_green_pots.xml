@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_strange_green_pots" type="external">
+  <Key key="_npc_It_s_all_good__friend__Come_ba" value="Tout est bon, ami.Revenez quand vous serez prêt à groover." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_goal_collect_jugs" value=" " />
+  <Key key="_goalVoice_Hey_man__those_green_pots_won_" value="Hé mec, ces pots verts ne se retrouveront pas.Grommuk attend et il n'attendra pas pour toujours, mec." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_No_biggie__peace_and_love__May" value="Pas de biggie, de paix et d'amour.Peut-être plus tard." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_He_s_surprised_a_lot_of_employ" value="Il a surpris beaucoup d'employés qui ne travaillent plus ici ..." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Not_sure_what_he_s_planning__b" value="Je ne sais pas ce qu'il prévoit, mais les surprises de Grommuk ne sont jamais ennuyeuses." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_goal_talk_npc" value="Parler à grammuk" />
+  <Key key="_npc_See_those_odd_green_pots_scatt" value="Vous voyez ces pots verts étranges dispersés dans la cour?Il veut que vous les collections et les apporte à lui." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Hey_there__you_know__Grommuk_s" value="Hé là, tu sais, Grommuk a dit qu'il avait une surprise particulière pour quiconque pourrait l'aider.Je pense qu'il vous fait suffisamment confiance pour cela." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Me_have____one_final_job___" value="J'ai ... un dernier travail ..." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_This_green_pot_contains_specia" value="Ce pot vert contient un ami spécial ... Grrr .. Pour vous!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_QuestActionAddToJournal_Oakley__Dusty__Fenn_Windreach_" value="Oakley &quot;Dusty&quot; Fenn&#10;Windreach Woods, Kitchen Sawmill.&#10;&#10;Collectez des pots verts étranges éparpillés autour de la scierie et amenez-les à Grommuk pour une surprise particulière." />
+  <Key key="_npc_Hey__man__take_your_time__Grom" value="Hé, mec, prends ton temps.Grommuk est tout au sujet des vibrations." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_varDescription_Collect_Suspicious_Green_Pot" value="Collectez un pot vert suspect" />
+  <Key key="_npc_Grr____good_job____now____rewa" value="GRR ... bon travail ... maintenant ... récompense ... oui, ici." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Oh__and_they_are_actually_pots" value="Oh, et ce sont en fait des pots.Pas comme ... Pot." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Great__These_green_pots_ain_t_" value="Super!Ces pots verts ne se rassemblent pas." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+</Node>

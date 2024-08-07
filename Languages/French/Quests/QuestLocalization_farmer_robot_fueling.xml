@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_farmer_robot_fueling" type="external">
+  <Key key="_npc_You_did_it__You_re_a_real_hero" value="Tu l'as fait!Tu es un vrai héros, tu le sais?" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_goal_collect_mana_vial" value="Recueillir du flacon de mana" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Oh__you_re_a_gem__I_ll_be_here" value="Oh, tu es un joyau!Je serai là, triant ces citrouilles tenaces." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_QuestActionAddToJournal_Vxzg" value="Greta Grubb&#10;Goldenfield, près de Southern House&#10;&#10;Aidez Greta Grubb avec sa récolte de citrouilles en trouvant un mana flacon pour alimenter son assistant robot." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Don_t_forget_that_Mana_Vial__g" value="N'oubliez pas ce flacon de mana, je l'ai?Cette aide robot à moi ne va pas se nourrir!Vous pouvez les trouver dans des coffres, des barils ou des caisses.Ou si vous vous sentez pratique, vous pouvez en fabriquer un à la station Alchemy!" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Any_luck_with_that_mana_yet_" value="Une chance avec ce mana encore?" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Don_t_keep_a_lady_waiting_too_" value="Ne gardez pas une dame en attente trop longtemps, d'accord?" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Still_hunting_for_that_Mana_Vi" value="Toujours à la recherche de ce flacon de mana?" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_People_around_here_don_t_take_" value="Les gens d'ici ne prennent pas gentiment les folks des portails, mais peut-être que vous pouvez changer d'avis." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+</Node>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_windstone_long_grey_hair" type="external">
+  <Key key="_npc_My_name_is_Gregory___Gregory_T" value="Meu nome é Gregory.&quot;Gregory, o fazendeiro&quot;, eles me chamam.Heh.Isso é porque eu sou o fazendeiro de maior sucesso no território.Todos eles olham para mim.É uma honra." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_The_reason_I_m_so_successful_i" value="A razão pela qual sou tão bem -sucedida é porque coleciono artefatos e sei como usá -los.Se isso ajudar a fazenda, eu o mantenho." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_If_it_s_dangerous__I_give_it_t" value="Se for perigoso, eu o dou a um censor ou o coloco de volta no chão." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_m_not_greedy__neither__I_sha" value="Não sou ganancioso, também.Eu compartilho minha boa sorte com meus vizinhos.É por isso que somos tão prósperos aqui.Nós cuidamos um do outro." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Have_you_met_my_sons_yet__They" value="Você já conheceu meus filhos?Eles são meu orgulho e minha tristeza.Eu amo os dois, mas ambos são dores na minha bunda." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_have_to_straighten_them_out_" value="Eu tenho que endireitá -los antes de morrer, ou haverá problemas." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_m_an_old_a_blind_Brownie_far" value="Eu sou um velho fazendeiro de brownie cego." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_My_back_lets_me_know_when_it_s" value="Minhas costas me avisam quando vai chover, e eu não agradei as perdas há 4 anos.Eu sou velho." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Well__it_s_been_a_good_life__I" value="Bem, tem sido uma boa vida.Não tenho queixas." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Eric_my_son_will_inherit_this_" value="Eric, meu filho, herdará esta fazenda quando eu for.Ele terá que trabalhar com Eddie, meu outro filho ou o lugar irá para Blazes." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_d_like_to_leave_a_successful" value="Eu gostaria de deixar uma empresa de sucesso quando saí, mas isso está fora de minhas mãos agora." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_This_is_the_family_farm_" value="Esta é a fazenda da família." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_It_s_the_biggest_and_most_succ" value="É o maior e mais bem -sucedido no território." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_My_son_Eric_is_my_legal_heir__" value="Meu filho Eric é meu herdeiro legal.Gostaria que ele não estivesse um pouco, mas não há nada que eu possa fazer." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_If_you_need_anything__go_to_Ed" value="Se você precisar de alguma coisa, vá para Eddie, meu filho adotivo.Ele é um xingado, mas conhece o negócio." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Thank_you_kindly__I_ve_been_he" value="Obrigado gentilmente.Fiquei impotente desde que minha visão foi." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_hate_asking_a_stranger__but_" value="Eu odeio perguntar a um estranho, mas você tem uma voz honesta." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_could_use_a_hand__thankee_" value="Eu poderia usar uma mão, Thankee." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Yes__I_could__Come_close__Let_" value="Sim, eu poderia.Chegue perto.Vamos falar de particular." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_No_thanks__My_sons_do_everythi" value="Não, obrigado.Meus filhos fazem tudo o que preciso.Eventualmente." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Not_now__It_s_time_for_my_nap_" value="Agora não.É hora da minha soneca." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_can_t_think_of_anything_at_t" value="Não consigo pensar em nada no momento, mas obrigado." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Sure__No_wait__never_mind_" value="Claro!Não espere, não importa." voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+</Node>

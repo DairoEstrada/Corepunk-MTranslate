@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_scammers" type="external">
+  <Key key="_npc_est__khoroshiy_tovar" value="Venha aqui, venha aqui, jovem e velho!Só hoje, uma super oferta especial!Compre um artefato exclusivo reparado, apenas por 10 moedas!Mais barato do que nunca!Você está dentro, Curioso Wanderer?" voice="Male" />
+  <Key key="_goal_gold_goal" value="Compre o artefato legal" />
+  <Key key="_QuestActionAddToJournal_4ycS" value="Vou pagar a esse cara obscuro para obter um novo artefato super legal." />
+  <Key key="_npc_Spasibo_a_teper__pomogi_ubey_m" value="Muito bem, fam!Ah, cara, parece que ficamos sem um ingrediente crucial para os artefatos.Então ... estamos felizes em fornecer nossos serviços assim que você nos fornecer chifres de lobos." voice="Male" />
+  <Key key="_goal_kill_mobs" value="Colete os chifres de lobos" />
+  <Key key="_goal_go_speak" value="Traga chifres para o quiosque" />
+  <Key key="_goal_kill_boss" value="Obtenha um artefato antigo do alce" />
+  <Key key="_QuestActionAddToJournal_WY1E" value="Então agora acontece que os chifres e meu dinheiro não eram suficientes para o cara.Que diabos está acontecendo aqui?Agora eu tenho que lutar contra um alce enorme, a leste daqui, perto da mão de um robô gigante, no aterro local.A besta tem algum artefato antigo, que eu tenho que trazer para o quiosque." />
+  <Key key="_npc_Vot_ty_sobral__molodets" value="Oh garoto, um monte de chifres de lobos.Isso vai tornar qualquer homem muito excitado.Será um bom preço no mercado negro." voice="Male" />
+  <Key key="_goal_go_back" value="Volte ao quiosque" />
+  <Key key="_npc_o_ty_prines_" value="He-heey, companheiro.Você ... você veio aqui ... vivo ... que ótimo ... uh ... você provavelmente quer seu artefato, certo?Bem, isso é uma chatice.Estamos um pouco, uh ... não é o nosso horário de trabalho agora.Volte ... em uma semana.Tenha um bom dia.Tchau." voice="Male" />
+  <Key key="_goal_pull_door" value="????????" />
+  <Key key="_goal_kill_npc" value="Mate as picadas" />
+  <Key key="_varDescription_X9HH" value="Killed" />
+  <Key key="_QuestActionAddToJournal_JI5j" value="Hora de me vingar desses golpistas." />
+  <Key key="_goal_u_items" value="Leve seus itens de volta do peito" />
+  <Key key="_QuestActionAddToJournal_VTWh" value="Então, agora eu só tenho que recuperar minhas coisas deste baú.Talvez algumas de suas coisas também." />
+  <Key key="_npc_nemnogo" value="Claro que você é, baby!Então, apenas 10 moedas.Para você, olhos brilhantes, apenas 9,99.Mais barato que um injetor de saúde." voice="Male" />
+  <Key key="_varDescription_F1hx" value="Collected" />
+  <Key key="_QuestActionAddToJournal_VLei" value="Agora esse cara está me pedindo para trazer a ele cinco chifres de lobos.Supostamente por fazer meu artefato que já paguei.Os lobos com chifres habitam a floresta a sudeste daqui." />
+  <Key key="_QuestActionAddToJournal_UeUC" value="Eu tenho os chifres.Hora de trazê -los de volta ao quiosque e finalmente obter meu artefato prometido." />
+  <Key key="_QuestActionAddToJournal_7KDn" value="Hora de voltar ao quiosque e exigir meu artefato." />
+  <Key key="_npc_Nothing_difficult_really__Thos" value="Nada realmente difícil.Aqueles lobos com chifres habitam a floresta próxima, a leste.Eles podem ser um pouco agressivos quando você tenta matá -los.E eles podem ser um pouco ilegais para caçar." voice="Male" />
+  <Key key="_npc_Yeah__good_luck_" value="Sim, boa sorte!" voice="Male" />
+  <Key key="_npc_I_mean____Of_course__it_ll_als" value="Quero dizer ... é claro, isso também me ajudará a fazer esse artefato legal super duper para você.Falando sobre isso ... você também terá que encontrar esse artefato antigo, para que eu possa er. Transforme -o em um novo para você." voice="Male" />
+  <Key key="_npc_The_Huge_Elk_is_guarding_it__t" value="Está apenas deitado por lá, ao sul daqui, pela mão gigante do robô.Se você encontrar um enorme alces de ancião lá, não seja tímido e vá acariciá -lo.Ele é muito amigável com estranhos." voice="Male" />
+  <Key key="_QuestActionAddToJournal_8ahZ" value="Uh ... eles acabaram de fechar em mim?Com meu dinheiro e todas as coisas que trouxe?O inferno?O que eu deveria fazer agora?" />
+  <Key key="_goalVoice_A24i" value="Ah, cara, parece que ficamos sem um ingrediente crucial para os artefatos.Então ... estamos felizes em fornecer nossos serviços assim que você nos fornecer chifres de lobos.Aqueles lobos com chifres habitam a floresta próxima, a leste.Eles podem ser um pouco agressivos quando você tenta matá -los.E eles podem ser um pouco ilegais para caçar." voice="Male" />
+  <Key key="_goalVoice_OIrQ" value="Você também terá que encontrar esse artefato antigo, para que eu possa er. Transforme -o em um novo para você.O enorme alce está guardando -o, a leste daqui, perto da mão gigante do robô." voice="Male" />
+  <Key key="_goalVoice_br6D" value="Er uh er uh" voice="Male" />
+  <Key key="_npc_Very_well__fam__Oh_man__it_see" value="Muito bem, fam!Ah, cara, parece que ficamos sem um ingrediente crucial para os artefatos.Então ... estamos felizes em fornecer nossos serviços assim que você nos fornecer chifres de lobos." voice="Male" />
+  <Key key="_varDescription_Wr9p" value="Collected" />
+  <Key key="_QuestActionAddToJournal_hiRU" value="Agora esse cara está me pedindo para trazer a ele cinco chifres de lobos.Supostamente por fazer meu artefato que já paguei.Os lobos com chifres habitam a floresta a sudeste daqui." />
+  <Key key="_goalVoice_gQzv" value="Ah, cara, parece que ficamos sem um ingrediente crucial para os artefatos.Então ... estamos felizes em fornecer nossos serviços assim que você nos fornecer chifres de lobos.Aqueles lobos com chifres habitam a floresta próxima, a leste.Eles podem ser um pouco agressivos quando você tenta matá -los.E eles podem ser um pouco ilegais para caçar." voice="Male" />
+  <Key key="_npc_Of_course_you_are__baby__So__j" value="Claro que você é, baby!Então, apenas 10 moedas.Para você, olhos brilhantes, apenas 9,99.Mais barato que um injetor de saúde." voice="Male" />
+  <Key key="_npc_Come_here__come_here__young_an" value="Venha aqui, venha aqui, jovem e velho!Só hoje, uma super oferta especial!Compre um artefato exclusivo reparado, apenas por 10 moedas!Mais barato do que nunca!Você está dentro, Curioso Wanderer?" voice="Male" />
+</Node>

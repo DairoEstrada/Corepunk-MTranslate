@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_colt_muffinman_mcgrady" type="external">
+  <Key key="_npc_Hey_there_" value="Salut." />
+  <Key key="_npc_On_your_guard_" value="On your guard." />
+  <Key key="_npc_Morning_" value="Matin." />
+  <Key key="_npc_What_s_up_" value="What s up?" />
+</Node>

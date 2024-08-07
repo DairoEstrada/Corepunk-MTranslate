@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hub2_guard_nav_chief_guard" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Could_be_better__This_place_is" value="Cela pourrait être mieux.Cet endroit est vraiment bondé.Je ne peux même pas faire une sieste.Les bizarres continuent de venir et de venir." voice="Male" />
+  <Key key="_npc_My_previous_post_was_much_bett" value="Mon post précédent était bien meilleur.Il est juste au-dessus du pont à l'est.Mais notre gardien en chef l'a pris.Les commandes sont des ordres." voice="Male" />
+</Node>

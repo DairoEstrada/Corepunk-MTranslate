@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_wood_you_believe_it" type="external">
+  <Key key="_npc_Oh__so_you_actually_want_to_he" value="Oh, donc tu veux vraiment aider.Les merveilles ne cessent jamais!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Fine__but_if_you_end_up_like_J" value="Très bien, mais si vous vous retrouvez comme Jahri, je pourrais simplement vous utiliser pour du bois de chauffage." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Great__let_s_see_if_you_can_be" value="Super, laissez voir si vous pouvez être plus utile qu'une scie brisée ici." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Jah_mon__Tha_tissue_for_my_rol" value="Jah Mon!Tha tissu pour mes rouleaux!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_totally_forgot_the_wood_for_" value="J'ai totalement oublié le bois pour Zogar, n'est-ce pas?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Ooh_lord__Ah_well_mon__tings_a" value="Ooh Lord.Ah bien lun, les tings sont bons maintenant." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Take_this_as_a_payment_for_get" value="Prenez ceci comme paiement pour m'avoir amené à mon prochain sommet." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_varDescription_Collect_Tissue_Paper" value="Récupérer un papier de soie" />
+  <Key key="_npc_Ever_heard_of_a_tissue_emergen" value="Avez-vous déjà entendu parler d'une urgence de tissu?Oui, moi non plus.Mais Jahri semble penser que c'est une chose, et devinez quoi?Il n'a même pas apporté le bois qu'il a promis!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_mean__seriously__how_hard_is" value="Je veux dire, sérieusement, à quel point est-il difficile de livrer des journaux?Je pourrais apprendre un écureuil à le faire plus rapidement." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_So__while_I_sharpen_my_axe_and" value="Donc, pendant que j'auguise ma hache et que j'essaie de ne pas perdre la tête, pourquoi tu n'allais pas saisir ce bois?Et peut-être donner à Jahri quelques conseils sur la façon de ne pas être inutile." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_QuestActionAddToJournal_Zogar_Goldenfield__Logging_spo" value="Zogar&#10;Goldenfield, spot forestier.&#10;&#10;Aider Zogar à collecter du bois pour faire du papier de soie et enseigner à Jahri une leçon de ponctualité." />
+  <Key key="_goalVoice_Still_not_got_that_wood__Jahri" value="Vous n'avez toujours pas ce bois?Jahri serait fier.Bouchez, recrutez!Ou devrais-je simplement envoyer à Jahri une carte de remerciement?Le bois ne se reproduit pas, vous savez.Ce n'est pas comme si Jahri allait grandir comme magique une colonne vertébrale." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_varDescription_Collect_a_Tissue_Paper" value="Récupérer un papier de soie" />
+  <Key key="_npc_Great__Another_Jahri_in_the_ma" value="Super.Un autre Jahri en devenir." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Fantastic__Guess_I_should_ve_a" value="Fantastique.Je suppose que je devrais plutôt demander aux écureuils." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Perfect__Jahri_s_got_a_new_bud" value="Parfait.Jahri a un nouveau copain pour ne rien faire avec." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+</Node>

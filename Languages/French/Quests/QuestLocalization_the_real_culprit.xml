@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_real_culprit" type="external">
+  <Key key="_npc_Alright_bro__Your_funeral_" value="Très bien mon frère.Vos funérailles." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Hey_man__don_t_harsh_my_vibe_" value="Hé mec, ne durcit pas mon ambiance." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_goalVoice_Remember__the_stolen_artifact_" value="N'oubliez pas que l'artefact volé est probablement avec «Lil Timmy à Edge Farm.Surtout parce que je commence déjà à oublier." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Oh__right__Anyway__go_talk_to_" value="Oh, c'est vrai.Quoi qu'il en soit, allez parler à «Lil Timmy et récupérez votre merde!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Kids_right__Who_d_want__em_" value="Enfants non?Qui voudrait leur." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_goal_talk_npc" value="Parlez à 'Lil Timmy" />
+  <Key key="_npc_His_parents_used_to_be_nice_fo" value="Ses parents étaient des gens sympas, puis il est venu.Maintenant, ils sont nuls." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Well__she_says_it_was_stolen_b" value="Eh bien, elle dit qu'elle a été volée par ce looking bizarre Uggo - 'Lil Timmy." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Oh__that_s_why_you_re_here_" value="Oh, c'est pourquoi tu es ici?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Alright_dude__so_get_this__Lil" value="Très bien mec, alors procurez-vous: Lily m'a dit que l'artefact que vous recherchez ... a été volé." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_You_can_ask_my_pawents__They_w" value="Vous pouvez demander à mes Pawents!Ils me soutiendront totalement." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_That_s_so_silly__Timmy_s_just_" value="C'est tellement idiot!Timmy est juste un gamin widdle, je n'en saurais rien." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Well__someone_s_gotta_punish_t" value="Eh bien, quelqu'un doit punir cette baise.Et je suis trop paresseux!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_QuestActionAddToJournal_Claudine_Baxter_Goldenfield__S" value="Claudine Baxter&#10;Goldenfield, South Farm&#10;&#10;Affronter «Lil Timmy et récupérer l'artefact volé." />
+  <Key key="_npc_Hehehe__you_think_I_have_your_" value="Hehehe, tu penses que j'ai ton truc brillant?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Heya__Did_you_catch_me__mister" value="Heya!Tu m'as attrapé, Monsieur Hero?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Hell_yeah__dude__Take_down_tha" value="Enfer ouais, mec!Retirez ce petit gamin!" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+</Node>

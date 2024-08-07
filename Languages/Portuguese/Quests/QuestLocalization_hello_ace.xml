@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_ace" type="external">
+  <Key key="_npc_Ready_to_submit_" value="Pronto para enviar?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Kneel__darling_" value="Ajoelhe -se, querida." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Eyes_on_me_" value="Olhos em mim." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Feel_the_tension_" value="Sentir a tensão?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Ready_to_be_tamed_" value="Pronto para ser domado?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Want_a_closer_look_" value="Quer uma olhada mais de perto?" voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Bow_down__baby_" value="Curva -se, baby." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+  <Key key="_npc_Play_nice__now_" value="Jogue bem, agora." voiceSettingsId="FwGj7MduNAL145JU1zOq" />
+</Node>

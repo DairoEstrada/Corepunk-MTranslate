@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_npc_v2_q_b_officer" type="external">
-  <Key key="_npc_" value=" " voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
-  <Key key="_npc_If_you_witness_a_crime__you_ne" value="Si es testigo de un delito, debe informarlo de inmediato.Sirvo para mantener la ley y el orden en las áreas bajo mi supervisión." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
-  <Key key="_npc_Don_t_distract_me_while_I_m_on" value="No me distraiga mientras estoy de servicio si no tiene una pregunta específica." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
-  <Key key="_npc_Forest_Lands_of_Elan__Some_new" value="Tierras forestales de Elan.Algunos recién llegados cayeron bajo la impresión equivocada de que los crímenes se cometen fácilmente en aldeas como esta, pero tengo malas noticias para ellos no lo son." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
-  <Key key="_npc_You_re_talking_to_the_Chief_Se" value="Estás hablando con el director de seguridad de este pueblo y sus alrededores." voice="Female" voiceSettingsId="th1eo96FTvHaU68wREce" />
-</Node>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_lyra_thornfeld" type="external">
+  <Key key="_npc_Civilians_are_not_allowed_in_t" value="Os civis não são permitidos no vale." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_State_your_business_" value="Declarar seu negócio." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Why_are_you_here__Looking_for_" value="Por quê você está aqui?Procurando novas maneiras de morrer?" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_You_re_in_restricted_territory" value="Você está em território restrito." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+</Node>

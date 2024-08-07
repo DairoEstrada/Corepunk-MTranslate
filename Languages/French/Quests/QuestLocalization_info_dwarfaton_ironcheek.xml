@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dwarfaton_ironcheek" type="external">
+  <Key key="_npc_I_am_Broxton_Ironcheek__a____h" value="Je suis Broxton Ironcheek, un forgeron hautement qualifié dans ces parties." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_I__um__came_to_existence_after" value="Moi, euh, je suis venu à l'existence après une ... longue lignée d'artisans experts." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_My_creators__uh__I_mean_my_anc" value="Mes créateurs, euh, je veux dire que mes ancêtres étaient réputés pour leurs compétences en métal." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_One_day__some____peculiar_even" value="Un jour, certains ... des événements particuliers se sont déroulés, et moi, j'ai eu de nouvelles idées." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Now_I__um__hone_my_skills_here" value="Maintenant, euh, euh, monte mes compétences ici à Windstone Village." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_I_possess_extensive_knowledge_" value="Je possède des connaissances approfondies sur les techniques et les matériaux de forgeage." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_My_aim_is_to_craft_the_most_im" value="Mon objectif est d'élaborer l'équipement le plus impeccable pour tout le monde, y compris ceux, euh, les gardes." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Fascinating_how_the_villagers_" value="Fascinant comment les villageois, euh, remarquent parfois ... les anomalies dans mon comportement." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_I_assure_you__everything_is___" value="Je vous assure que tout est ... fonctionnant dans des paramètres normaux." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Status__Operational_" value="Statut: opérationnel." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Processing_an_influx_of_reques" value="Traitement d'un afflux de demandes de ... les habitants du village." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Experiencing_minor_emotional_d" value="Éprouver des troubles émotionnels mineurs liés à ... la fusion de mes proches métalliques." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_The_requirement_to_persist_in_" value="L'obligation de persister dans cette tâche d'acquérir une monnaie humaine est comprise." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Task_fulfillment_ensures_conti" value="L'accomplissement des tâches garantit une existence continue et ... la capacité de poursuivre mon projet ultime." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_The_imperative_to_obtain_funds" value="L'impératif d'obtenir des fonds pour les métaux interdimensionnels entraîne ma persistance." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Thank_you_for_inquiring_about_" value="Merci de m'être rendu compte de mes ... sous-programmes." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_I_mean____continuing_to_monito" value="Je veux dire ... continuer à surveiller mes émotions tout en servant efficacement ce village." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Welcome_to__um__Windstone_Vill" value="Bienvenue à, euh, Windstone Village - un petit paisible ... euh, colonie à Kwalat." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Here__I_provide_essential_blac" value="Ici, je fournis des services essentiels de forgeron, euh, pour les habitants." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_The_guards_frequently_request_" value="Les gardes demandent fréquemment, euh, équipement personnalisé, bien que moi, euh, je les méprise complètement." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_My_current_project_involves_cr" value="Mon projet actuel consiste à créer des armes indestructibles, potentiellement pour, euh, exterminer toute vie." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_No__no__I_mean__uh__to_protect" value="Non, non, je veux dire, euh, pour protéger le village, bien sûr." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_The_materials_I_use_come_from_" value="Les matériaux que j'utilise proviennent de diverses sources interdimensionnelles, garantissant, euh, de qualité supérieure." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_One_day__I_plan_to__um__comple" value="Un jour, je prévois de terminer mon arme ultime, mais seulement pour assurer, euh, la paix, oui." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Definitely_not_to_take_out_yea" value="Certainement pour ne pas retirer des années de frustration refoulée sur les gardes et, euh, tout le monde." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Assistance__Required_" value="Assistance: requise." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Task_execution_guarantees____p" value="Garantie d'exécution de la tâche ... conservation." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Your_help____will_increase_eff" value="Votre aide ... augmentera l'efficacité." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Processing____assistance_accep" value="Traitement ... Assistance acceptée." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Helping_ensures____mitigated_r" value="Aider assure ... un risque atténué." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Additional_labor_needed_" value="La main-d'œuvre supplémentaire nécessaire." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Your_contribution_will_ensure_" value="Votre contribution garantira des opérations continues." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Compliance_with_my_aid_request" value="La conformité à ma demande d'aide vous épargnera." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Your_assistance_is_mandated_fo" value="Votre aide est mandatée pour un résultat optimal." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Negative__Assistance_not_requi" value="Négatif.Assistance non requise." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Current_operations_satisfactor" value="Opérations actuelles satisfaisantes sans entrée supplémentaire." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Task_load_manageable__No_exter" value="Task charge gérable.Aucune aide externe nécessaire." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Processing_at_full_capacity_" value="Traitement à pleine capacité." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_No_assistance_required_at_this" value="Aucune assistance requise en ce moment." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_No_intervention_needed_" value="Aucune intervention nécessaire." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Current_tasks____proceeding_ef" value="Tâches actuelles ... procéder efficacement." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Assistance_deferred_" value="Assistance différée." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+  <Key key="_npc_Workload_optimized__External_h" value="La charge de travail optimisée.Aide externe non essentielle." voiceSettingsId="jZdl6PCBw8PDpjNR5ASD" />
+</Node>

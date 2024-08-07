@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_hub2_roger_friend_01" type="external">
+  <Key key="_npc_Have_you_lost_something__We_ca" value="Avez-vous perdu quelque chose?Nous pouvons aider." voice="Male" />
+</Node>

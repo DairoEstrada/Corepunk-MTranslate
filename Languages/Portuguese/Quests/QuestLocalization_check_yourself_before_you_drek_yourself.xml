@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_check_yourself_before_you_drek_yourself" type="external">
+  <Key key="_npc_Ah__you_ve_got_everything__Spl" value="Ah, você tem tudo!Esplêndido!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_varDescription_7mTc" value="Colete um diamante" />
+  <Key key="_varDescription_DjW5" value="Colete um pano" />
+  <Key key="_varDescription_W5iq" value="Colete um lingote meteórico" />
+  <Key key="_varDescription_UWKJ" value="Colete um lingote de ferro" />
+  <Key key="_npc_How_s_the_gathering_going_" value="Como está indo a reunião?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Great__let_s_make_this_masterp" value="Ótimo, vamos fazer esta obra -prima juntos!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_goal_collect_1" value=" " />
+  <Key key="_varDescription_Collect_a_Meteoric_Ingot" value="Colete um lingote meteórico" />
+  <Key key="_npc_Thanks__friend__Every_bit_of_h" value="Obrigado, amigo.Cada parte de ajuda nos aproxima da perfeição." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Now_we_can_start_crafting_this" value="Agora podemos começar a criar essa armadura impecável." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Thank_you_for_your_help__Here_" value="Obrigado pela ajuda.Aqui está a sua parte do acordo." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Keep_safe_out_there__adventure" value="Mantenha -se seguro lá fora, aventureiro!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_goal_collect_3" value=" " />
+  <Key key="_goal_collect_4" value=" " />
+  <Key key="_goal_collect_2" value=" " />
+  <Key key="_varDescription_Collect_a_Cloth" value="Collect a Cloth" />
+  <Key key="_varDescription_Collect_a_Diamond" value="Colete um diamante" />
+  <Key key="_npc_Alright__traveler__I_m_working" value="Tudo bem, viajante, estou trabalhando em um projeto diferente de qualquer outro que você viu.Essa armadura impenetrável tornará o usuário quase invencível." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_But_for_that__I_need_some_spec" value="Mas, para isso, preciso de alguns materiais específicos.Estou procurando um lingote de ferro, lingote meteórico, pano e diamante." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_These_elements_will_provide_th" value="Esses elementos fornecerão a mistura perfeita de capacidades de defesa e flexibilidade.Você pode me ajudar a reunir isso?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_goalVoice_We_need_Iron_Ingot__Meteoric_I" value="Precisamos de lingote de ferro, lingote meteórico, pano e diamante.Percebido?O minério de ferro e o metal meteórico podem ser encontrados em veias fora de Goldenfield.Você pode criar pano de juta e diamantes ... esses são raros, mas não impossíveis de encontrar." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_QuestActionAddToJournal_D_rek_Goldenfield__Constructio" value="D'Eck&#10;Goldenfield, Banco de Artesanato de Construção&#10;&#10;Ajude a reunir materiais essenciais para criar sua armadura impenetrável." />
+  <Key key="_varDescription_Collect_a_Iron_Ingot" value="Colete um lingote de ferro" />
+  <Key key="_npc_Not_interested__That_s_a_bumme" value="Não interessado?Isso é uma chatice." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_No_worries__I_ll_find_another_" value="Não se preocupe, vou encontrar outra mão disposta." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Maybe_next_time__then__Stay_sa" value="Talvez da próxima vez, então.Fique seguro lá fora." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+</Node>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_radioactive_isotope_mining" type="external">
+  <Key key="_npc_Aye__that_s_the_spirit__Just_r" value="Oui, c'est l'esprit!N'oubliez pas que nous avons affaire à l'isotope-238 ici.Vous voudrez peut-être emballer un écran solaire supplémentaire, si vous attrapez ma dérive." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Any_luck_finding_that_Isotope_" value="Une chance de trouver cet isotope-238?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Remember__it_s_not_just_about_" value="N'oubliez pas que ce n'est pas seulement la découverte.Il s'agit de revenir en un seul morceau." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_How_re_ya_holding_up__Found_th" value="Comment tu tiens?Vous avez déjà trouvé ce coquin radioactif?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_By_the_stone__You_ve_found_it_" value="Par la pierre!Vous l'avez trouvé!Cela révolutionnera sûrement nos recherches." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_collect_resources" value="Mine Isotope-238" />
+  <Key key="_QuestActionAddToJournal_CepV" value="Grizzle Ironfoot&#10;Westwind Woods, près de l'ancienne mine&#10;&#10;Osez-vous braver les dangers de Westwind Woods pour exploiter l'insaisissable Isotope-238 pour la recherche révolutionnaire de Grizzle?" />
+  <Key key="_goalVoice_gjQe" value="Mettez la main sur de l'isotope-238!C'est aussi rare qu'une dent de dragon, mais c'est là-bas!Commencez simplement à exploiter le minerai!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_And_remember__if_your_hair_sta" value="Et rappelez-vous, si vos cheveux commencent à tomber, vous n'êtes pas chauve ... vous êtes vraiment engagé dans le travail!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_ll_send_that_part_over_to_Ra" value="J'enverrai cette partie à Ratchet." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_By_the_way__you_should_probabl" value="Soit dit en passant, vous devriez probablement rester à l'écart des machines à rayons X pendant un an." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Here_s_a_little_something_for_" value="Here's a little something for your contribution to the cause!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

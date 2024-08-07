@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_morick_voss" type="external">
+  <Key key="_npc_I_am_Morick_Voss__obviously__A" value="Je suis Morick Voss, évidemment.Un porte-lumière.Pourquoi demandez-vous?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_am_heroically_protecting_the" value="Je protège héroïquement le monde de cette abomination!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_A_loyal_guardian_of_Elan__like" value="Un gardien fidèle d'Elan, comme Lyna, mon partenaire!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_There_is_nothing_we_enjoy_more" value="Il n'y a rien que nous apprécions plus que de lutter contre les taches de corruption suintantes!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Fine__Very_happy_to_be_on_this" value="Bien!Très heureux d'être sur ce post sur le bord de l'enfer!sanglot!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_All_right__I_m_sick_of_all_the" value="D'accord!J'en ai marre de tous les mensonges!Je suis Morick Voss.Je viens d'un autre monde." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_was_blown_here__on_this_nigh" value="J'ai été soufflé ici, sur cette planète cauchemardesque, il y a quelques semaines.J'ai trouvé un homme en armure, dans les buissons à proximité.Il était extrêmement mort." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_took_his_armor__okay__It_was" value="J'ai pris son armure, d'accord?C'était plus sûr que le laboratoire que je portais à mon arrivée.Et il n'en avait certainement pas besoin." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_noticed_that_he_looked_like_" value="J'ai remarqué qu'il me ressemblait.Beaucoup.J'ai donc pris son identité.Morick Voss.Quel nom, hein?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_ve_been_pretending_to_be_a_L" value="Depuis, je fais semblant d'être un porte-léger.Je garde mon casque." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_My__partner___Lyna__doesn_t_kn" value="Mon «partenaire», Lyna, ne sait rien.Je ne pense pas qu'elle connaissait très bien le mort." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_And_if_you_rat_me_out_she_ll_c" value="Et si vous me rattrapez, elle me coupera la tête.Et ça sucerait." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_You_re_at_the_edge_of_the_Vall" value="Vous êtes au bord de la vallée des péchés!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_It_is_filled_with_blobs_and_co" value="Il est rempli de blobs et d'êtres corrompus soif de chair." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_It_s_a_remarkable_ecosystem__r" value="C'est un écosystème remarquable, méritant vraiment des études.Je veux dire, ho!Il doit être détruit!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_We_do_not_know_the_source_of_t" value="Nous ne connaissons pas la source de la corruption.Un artefact, peut-être?Technologie?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_It_looks_to_me_like_a_genetic_" value="Cela me ressemble à une expérience génétique qui a mal tourné - mais qu'est-ce qu'un simple porte-lumière sait de telles choses ?!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_We_Lightbearers_stop_the_corru" value="Nous, les porteurs légers empêchons la corruption de se propager hors de la vallée.Mon partenaire est très enthousiaste, et donc bien sûr, suis-je!Ho!et tout ça." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Hmm__I_mean__Ho__Perhaps_I_can" value="Hmm.Je veux dire, ho!Peut-être que je peux vous faire confiance." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_You_look_fairly_capable__But_a" value="Vous avez l'air assez capable.Mais êtes-vous digne de confiance?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_That_depends__Can_you_keep_a_s" value="Ça dépend. Pouvez-vous garder un secret?" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Indeed__But_this_job_isn_t_for" value="En effet.Mais ce travail n'est pas pour les timides." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_have_a_task_that_demands_ski" value="J'ai une tâche qui demande des compétences et une subtilité, mais peut-être que vous le ferez." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Not_right_now__Lyna_may_be_wat" value="Pas tout de suite!Lyna peut regarder!" voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_The_Lightbearers_stand_alone__" value="Les porteurs légers sont seuls.Généralement.Revenez plus tard." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Not_yet__I_need_to_gather_more" value="Pas encore.J'ai besoin de recueillir plus de données." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_I_am_self_sufficient__like_any" value="Je suis autosuffisant, comme tout vrai porte-lumière." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+</Node>

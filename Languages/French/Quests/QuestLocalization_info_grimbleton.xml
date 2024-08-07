@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_grimbleton" type="external">
+  <Key key="_npc_Grimbleton__that_s_me__Who_am_" value="Grimbleton, c'est moi!Qui suis je?Laisse-moi penser..." voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_I_m_all_about_this_blue_crysta" value="Je suis tout à propos de ce cristal bleu, super cure, vous fait sentir ... invincible!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Memory_s_a_bit_foggy_though__w" value="La mémoire est un peu brumeuse cependant, avec toutes les expériences et, euh, échantillonnage!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_But_hey__I_got_recipes__Well__" value="Mais bon, j'ai des recettes!Eh bien, certains d'entre eux, au moins ... quand je me souvienne!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Oh__man__I_m_on_fire__Just_per" value="Oh, mec, je suis en feu!Je viens de perfectionner ce putain de cristal bleu, c'est mieux que jamais!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Hands_won_t_stop_shaking__thou" value="Les mains n'arrêteront pas de trembler, les pensées courent, mais je le jure, ce truc est de l'or pur!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Got_nothing_to_sell__though__u" value="Je n'ai rien à vendre, cependant, j'ai tout utilisé en affinant.Bon sang!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_I_m_buzzing_out_of_my_mind__In" value="Je bourdonne de mon esprit!L'inventaire est vide, je dois cuisiner plus, plus, plus!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Except____I_think_I_forgot_how" value="Sauf ... Je pense que j'ai oublié comment." voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Alchemy__Nah__not_my_thing__I_" value="Alchimie?Non, pas mon truc.Je suis juste ici pour mon cristal bleu, mec!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_It_uhhhhhh_is_my_thing__you_kn" value="C'est euhhhhhh mon truc, tu sais?Je contribue à la société!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Hey__have_you_seen_my_RV_aroun" value="Hé, as-tu vu mon RV ici quelque part?" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Nah__I_m_good__just_me_and_my_" value="Non, ça va;Juste moi et mon Crystal Love!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Nope__just_riding_this_high_wa" value="Non, juste en train de monter ce solo à haute vague, bébé!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Nah__I_m_all_crystal_clear__ha" value="Non, je suis tout limpide, ha!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Loosen_up__It_s_a_one_man_show" value="Se détendre!C'est un spectacle individuel ici." voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_No_thanks__got_enough_chaos_in" value="Non merci, j'ai déjà assez de chaos dans le laboratoire!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_You_good__Cause_I_m_breaking_b" value="Vous bien?Parce que je brise le mal seul aujourd'hui.Pas de copilote!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Oh__absolutely__We_need_to_coo" value="Oh, absolument!Nous devons cuisiner, maintenant!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Yeah__yeah__You_wanna_be_my_Je" value="Yeah Yeah!Tu veux être ma Jesse?" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Yesyesyes__Let_s_break_some_ba" value="Oui oui oui.Brillons un peu de mal!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Hell_yes__The_lab_s_this_way__" value="Oui bien sûr!Le laboratoire est de cette façon;Ne vous occupez pas des explosions!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Totally__We_re_in_the_empire_b" value="Totalement!Nous sommes dans le secteur de l'empire;Soyons désordonnés!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Surely__Got_a_batch_to_finish_" value="Sûrement!J'ai un lot à terminer avant que tout cet endroit ne passe en plein essor!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+</Node>

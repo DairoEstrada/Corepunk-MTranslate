@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_westwind_head_horns" type="external">
+  <Key key="_npc_I_am_Sirena_Hexblade__though_s" value="Soy Sirena Hexblade, aunque algunos me llaman lo mejor que hayan tenido." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_I_have_a_special_knack_for_get" value="Tengo una habilidad especial para llegar al corazón del asunto." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Only_the_most_hex_travagant_wo" value="Solo la mujer más hexagonable que jamás hayas visto." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Wifey_material__but_you_can_ca" value="Material de esposa, pero puedes llamarme nena." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_I_may_not_have_a_medical_degre" value="Puede que no tenga un título de médico, pero puedo encontrar mi camino alrededor de su cuerpo." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_You_ll_be_so_sore_in_the_morni" value="You'll be so sore in the morning, you'll need an ice bath." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_How_intriguing_to_care_about_a" value="Qué intrigante preocuparse por el bienestar de una bruja." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Life_in_the_woods_is_shrouded_" value="La vida en el bosque está envuelta en sombras y secretos, al igual que mis sábanas." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_My_experiments_have_been_going" value="Mis experimentos han ido ... espectacularmente." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_I_can_hear_your_heartbeat_from" value="Puedo escuchar los latidos de tu corazón desde aquí ... suena como un corazón de oro." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Just_got_some__bodywork__if_yo" value="Acabo de tener una &quot;carrocería si sabes a qué me refiero." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_You_re_in_the_enchanting_Westw" value="Estás en el encantador Westwind Woods, un lugar donde los secretos y los deseos se entrelazan." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_My_home_lies_within_these_tree" value="Mi hogar se encuentra dentro de estos árboles, un refugio para aquellos lo suficientemente valientes o lo suficientemente calientes como para buscarme." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Every_corner_of_these_woods_ho" value="Cada rincón de estos bosques contiene un susurro de pasión, un suspiro de anhelo.Puede meterse debajo de tu piel." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_This_cursed_house_I_call_home_" value="Esta casa maldita que llamo hogar es un santuario de placeres oscuros, ¿quieres un recorrido?" voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Wander_these_woods_too_long__a" value="Pasee por estos bosques demasiado tiempo, y es posible que se encuentre perdido en más de un sentido." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Make_sure_you_have_everything_" value="Asegúrate de que tengas todo, no quisiera que dejes algo atrás." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_I_d_love_some_company_for_my_n" value="Me encantaría una compañía para mi próximo experimento, ¿interesado?" voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Oh_darling__I_could_use_a_stro" value="Oh cariño, podría usar un par de manos fuertes.¿Estás ofreciendo?" voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_If_you_ve_got_a_free_ear_to_li" value="Si tienes un oído gratis para escuchar mis problemas por un momento, claro." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_How_intriguing__I_d_love_to_se" value="Qué intrigante, me encantaría ver qué puedes hacer por mí." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Fancy_lending_a__hand__to_a_wi" value="¿Fantasía prestar una &quot;mano&quot; a una bruja necesaria?Podría ser ... gratificante." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_I_don_t_require_help_from_some" value="No necesito ayuda de alguien con una cara tan rota." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Your_assistance__Merely_a_dist" value="¿Tu asistencia?Simplemente una distracción para mí." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_I_have_everything_under_contro" value="Tengo todo bajo control, a diferencia de tu peso." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_No__I_think_I_m_a_bit_out_of_y" value="No, creo que estoy un poco fuera de tu liga." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+  <Key key="_npc_Don_t_flatter_yourself__you_re" value="No te halages, no eres necesario." voiceSettingsId="gQmBKr0DFQsyP1VLkQB2" />
+</Node>

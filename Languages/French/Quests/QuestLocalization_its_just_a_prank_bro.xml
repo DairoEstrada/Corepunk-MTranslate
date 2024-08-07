@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_its_just_a_prank_bro" type="external">
+  <Key key="_npc_Mom_s_always_too_busy_with_her" value="Maman est toujours trop occupée avec ses «friandises spéciales à base de plantes» pour m'écouter, et Buck ne me laissera pas tranquille.Il continue de jouer ces farces méchantes!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Oh_no__don_t_leave_me_alone__B" value="Oh non, ne me laisse pas tranquille!Buck me fera à nouveau!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_You_re_just_like_Buck__Always_" value="Tu es juste comme Buck!Toujours aggraver les choses!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_goalVoice_Don_t_leave_me_hanging__big_me" value="Ne me laisse pas accrocher, grand méchant!Ma mère a besoin de savoir ce que tu as fait!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_And_you_helped_him__You_re_sup" value="Et vous l'avez aidé!Vous êtes censé être un adulte!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_I_just_want_this_to_stop__Go_t" value="Je veux juste que cela s'arrête.Allez dire à ma mère ce que vous avez fait pour qu'elle puisse vous fonder!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Kids_will_be_kids__you_know__B" value="Les enfants seront des enfants, vous savez?Mais merci de m'avoir dit." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Oh__Buck_s_at_it_again__huh_" value="Oh, Buck y est à nouveau, hein?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Huh__What_s_going_on_" value="Hein?Que se passe-t-il?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_goal_talk_npc" value="Parlez à Claudine Baxter" />
+  <Key key="_npc_Oh__finally_someone_listens_to" value="Oh, enfin quelqu'un m'écoute!Allez dire à ma mère, s'il vous plaît!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_You_want_to_roll_a_joint_befor" value="Vous voulez rouler un joint avant d'aller là-bas?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Ugh__I_guess_I_should_probably" value="Pouah.Je suppose que je devrais probablement avoir une conversation avec eux." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Please__I_m_begging_you__help_" value="S'il vous plaît, je vous supplie, aidez-moi à arrêter Buck!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_QuestActionAddToJournal_Lily_Baxter_Goldenfield__South" value="Lily Baxter&#10;Goldenfield, South Farm.&#10;&#10;Parlez à Claudine Baxter pour empêcher Buck de faire preuve de sa fille, Lily Baxter." />
+</Node>

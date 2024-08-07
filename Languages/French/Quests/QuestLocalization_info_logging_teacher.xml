@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_logging_teacher" type="external">
+  <Key key="_npc_If_you_re_very_lucky__Neon_Mus" value="Si vous avez beaucoup de chance?Champignons néon ou miel de sang.C'est le trésor!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Some_of_these_can_be_processed" value="Certains d'entre eux peuvent être transformés dans d'autres trucs comme la silice ou le papier sur le banc d'artisanat." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_That_s_logging_for_you__Now_go" value="C'est de l'exploitation forestière pour vous.Maintenant, allez prendre du bois!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Your_test_is_to_fetch_me_some_" value="Votre test est de me chercher des racines d'arbres.Ils sont l'une des nombreuses ressources que les arbres secs tiennent." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Once_you_ve_got_Tree_Roots__th" value="Une fois que vous aurez des racines d'arbres, le banc vous aidera à les transformer en bois de bijoux." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Not_the_most_exciting_task__bu" value="Ce n'est pas la tâche la plus excitante, mais elle couvre les bases!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_But_remember__plenty_of_critte" value="Mais rappelez-vous, beaucoup de créatures se cachent ne vous emporteront pas avec gentillesse de vous couper leurs maisons." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_As_a_novice__Skylight_Grasslan" value="En tant que novice, des prairies de puits de lumière, une clairière sunwave et une forêt de Dusktide sont votre meilleur pari pour trouver des arbres secs." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_First_you_need_to_understand_t" value="Vous devez d'abord comprendre la nature même de la forêt." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Tryin__to_learn_logging__outwo" value="Essayez-vous d'apprendre la journalisation, outworlder?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_No_help_needed__friend__But_gr" value="Aucune aide nécessaire, ami.Mais prenez une bière, pourquoi tu ne fais pas?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Appreciate_the_offer__but_I_ve" value="Appréciez l'offre, mais je l'ai couverte." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_m_all_good_for_now__thank_yo" value="Je vais bien pour l'instant, merci avec gentillesse." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_could_use_a_hand__if_you_re_" value="Je pourrais utiliser une main, si vous n'avez pas peur du travail acharné." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Ready_to_get_your_hands_dirty_" value="Prêt à vous salir les mains, privée?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_wake_up__chop_some_morning_w" value="Je me réveille, je coupe du bois du matin, je bois de la bière, je coupe plus de bois.C'est une vie simple." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_ve_still_got_my_hands_full_w" value="J'ai toujours mes mains pleines avec eux des nains embêtants et leurs fouilles sales." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Ever_tried_arguing_with_a_dwar" value="Avez-vous déjà essayé de se disputer avec un nain sur la conservation de l'environnement?C'est comme parler à un moignon!&#10;Et ressemble à un aussi!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Goldenfield__Ah__it_s_a_quaint" value="Goldenfield?Ah, c'est une petite ville pittoresque, j'ai tout besoin d'un bûcheron." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Wood_to_chop__beer_to_drink__a" value="Bois à hacher, bière à boire et un nain à se moquer.Que pourrait demander un homme de plus?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Just_keep_your_eyes_peeled_for" value="Gardez simplement les yeux ouverts pour les portails.Vous ne savez jamais quel genre de folie ils vont cracher." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Sure_thing__I_ve_got_a_job_for" value="Bien sûr, j'ai un travail pour toi." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Now__I_teach_outlanders_the_wo" value="Maintenant, j'enseigne à Outlanders la magie du bois.Il s'agit de respecter ses dons." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Seen_more_combat_than_there_ar" value="Vu plus de combat qu'il n'y a des arbres dans la forêt.Trouvé un changement de bois." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_m_Zogar__Former_soldier__cur" value="Je suis Zogar.Ancien soldat, bûcheron actuel.La vie plus simple avec moins de coups de feu." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Ah__well__Back_to_my_one_man_l" value="Et bien.Retour à mon opération de journalisation en un seul." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Some_folks_just_ain_t_cut_out_" value="Certaines personnes ne sont pas coupées pour la vie du bois." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Oh__never_mind__Bet_Thordal_go" value="Oh peu importe.Je parie que Thordal est arrivé à toi!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Logging_ain_t_just_about_swing" value="Enregistrer ne pas simplement balancer une grosse hache.Il s'agit de savoir quoi hacher." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_When_you_re_green__aim_for_Dry" value="Lorsque vous êtes vert, visez les arbres secs.Vous les trouverez dans Windreach Woods et Dusktide Forest.Parfois dans les prairies de puits de lumière et les passanes de la glace." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_When_you_re_hard_as_a_trunk__y" value="Lorsque vous êtes dur en tant que coffre, vous pouvez gérer de vieux arbres magiques ou des arbres magiques anciens." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_And_trust_me__you_want_to_be_h" value="Et croyez-moi, vous voulez être dur lorsque vous les coupez." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_On_an_average_day__you_ll_get_" value="En moyenne, vous aurez des racines d'arbres, du bois, de l'écorce en pierre ou du bois de cœur." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_If_you_re_lucky__you_might_get" value="Si vous avez de la chance, vous pourriez obtenir de la résine de mana, de l'ambre, des feuilles transparentes ou des plumes géantes." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_You_look_capable__How__bout_le" value="Vous avez l'air capable.Que diriez-vous de prêter une main?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Stand_tall_and_show_some_respe" value="Tenez-vous debout et montrez un peu de respect.Maintenant, allons travailler soldat." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_If_this_were_10_years_ago_I_ma" value="Si c'était il y a 10 ans, je l'ai peut-être fait descendre moi-même!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_The_Windreach_Woods_are_as_den" value="Les bois de Windreach sont aussi denses que la formation d'une armée de gobelins." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+</Node>

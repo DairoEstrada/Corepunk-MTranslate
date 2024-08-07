@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_grimbletons_great_recipe_hunt" type="external">
+  <Key key="_npc_Wait__what_was_I_saying__Here_" value="Espere, o que eu estava dizendo?Aqui, pegue meu dinheiro!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_You_re_in__Great___cause_if_we" value="You're in? Great, 'cause if we nail this, we're gonna break bad in the best way possible!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Awesome__man__Together_we_re_g" value="Incrível, cara.Juntos, vamos explodir essa ciência da água.Vamos fazer isso!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_QuestActionAddToJournal_Grimbleton_Riverrise__Alchemy_" value="Grimbleton&#10;Riverrise, Alquimia.&#10;&#10;Ajude Grimbleton a recriar sua fórmula de drogas de cristal azul 'lendária', reunindo ingredientes -chave - 5 sílica e 5 enchimento em pó." />
+  <Key key="_varDescription_Collect_Powder_filler" value="Colete o preenchimento em pó" />
+  <Key key="_goal_collect_powder_filler" value=" " />
+  <Key key="_goal_collect_silica" value=" " />
+  <Key key="_npc_Yo__you_got_my_back__This_is_g" value="Ei, você tem minhas costas?Isso vai ser como coisas de alto nível!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_I_m_freaking_out_here__dude__D" value="Estou enlouquecendo aqui, cara!Você tem coisas?" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_goalVoice_Man__I_can_t_hold_it_together_" value="Cara, eu não posso segurar isso!Eu preciso daquela sílica e preenchimento de pó como, ontem!Você está recebendo esses ingredientes ou o quê?Meu cérebro está exagerado aqui!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Haha__amazing_job_" value="Haha, trabalho incrível!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Fantastic__But_wait__these_are" value="Fantástico!Mas espere, estes não são para a fórmula.Quem estou brincando?" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Oh_man__you_did_it__But__uh__t" value="Oh cara, você fez isso!Mas, acontece que eles não eram ingredientes, afinal ... eu só vou cheirar!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_varDescription_Collect_Silica" value="Colete sílica" />
+  <Key key="_npc_Yo__yo__yo__listen_up__I_need_" value="Ei, ei, ouça!Eu preciso da sua ajuda e é uma questão de vida e morte aqui!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_I_had_it__man__the_perfect_blu" value="Eu tinha, cara, a fórmula de cristal azul perfeita!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_It_was_beautiful__like_the_Mon" value="Era lindo, como a Mona Lisa de Drogas, mas agora ... minha memória é mais mexida do que uma cabeça de metanfetamina em um tornado!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Everything_s_a_mess_in_my_head" value="Tudo está uma bagunça na minha cabeça!Eu juro, sílica e enchimento de pó estavam na mistura.Eles estão lá em algum lugar!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Scour_the_Tech_Waste__Whisperw" value="Vasculhe os resíduos tecnológicos, sussurram a ilha, onde quer que!Por favor, cara, ajude -me a montar esse quebra -cabeça, ou não sei se posso segurar!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Oh__come_on__man__You_re_killi" value="Oh, vamos lá, cara!Você está me matando aqui!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_What__No__Are_you_out_of_your_" value="O que?Não?Você está louco?" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Fine__Be_a_coward__see_if_I_ca" value="Multar!Seja um covarde, veja se eu me importo!Mas não venha chorar para mim mais tarde!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Seriously__You_re_bailing_on_m" value="Seriamente?Você está me libertando?Inacreditável!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_I_can_t_believe_this__You_re_j" value="Eu não posso acreditar nisso!Você só vai me deixar apodrecer?Não é legal, cara, não é legal!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+</Node>

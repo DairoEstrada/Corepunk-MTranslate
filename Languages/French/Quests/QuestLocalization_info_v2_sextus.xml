@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_sextus" type="external">
+  <Key key="_npc_Does_it_matter__Looking_foh_tr" value="Est-ce que ça importe?Vous cherchez des ennuis o 'quelque chose?" voice="Male" />
+  <Key key="_npc_Good_" value="Bien.Tu ne devrais pas.Je suis en quelque sorte un marchand d'armes.Sorta." voice="Male" />
+  <Key key="_npc_Moreover__those_Elaniens__they" value="De plus, ces Elaniens, ils ont tendance à utiliser uniquement leurs armes à feu Light-Mana-Prism-Bullshit.C'est une honte.Tout le monde à Kwalat sait que les gens Faiden font les meilleures armes putain." voice="Male" />
+  <Key key="_npc_" value="Je n'aime pas trop de questions." voice="Male" />
+  <Key key="_npc_You_care_that_much__We_came_he" value="Vous vous souciez autant?Nous sommes venus ici avec Mah Brother pour vendre des armes Faiden.La pire décision putain.Pas de respect pour l'art de la guerre ici." voice="Male" />
+  <Key key="_npc_Farrukh_is_going_to_rip_our_he" value="Farrukh va nous arracher la tête quand il sait que nous n'avons pas vendu de la merde cette semaine.Et a perdu son épée dans un jeu de cartes.Eh bien, je l'ai fait." voice="Male" />
+  <Key key="_npc_A_village__A_haven__A_shithole" value="Un village.Un paradis.Un trou de merde.Dépend de la perspective." voice="Male" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_neon_intervention" type="external">
+  <Key key="_npc_Hell_yeah__Let_s_rock_this_" value="Enfer ouais!Rockons ça." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_goal_collect_neon_mushroom" value=" " />
+  <Key key="_varDescription_Collect_Neon_Mushroom" value="Recueillir des champignons néon" />
+  <Key key="_goal_talk_npc" value="Retournez les champignons néon à Zazz Blorb" />
+  <Key key="_QuestActionAddToJournal_Bob_Thurkle_Riverrise__Scene__" value="Bob Thurkle&#10;Riverrise, scène.&#10;&#10;Bob Thurkle est convaincu que quelque chose ne va pas avec leur chanteur principal, Cherry Mobius.Il a besoin de vous pour collecter des champignons néon pour l'homme dans le masque en tête de leur groupe." />
+  <Key key="_goalVoice_Don_t_forget_to_bring_those_ne" value="N'oubliez pas d'apporter ces champignons néon, mec.Nous en avons besoin pour remettre Cherry sur la bonne voie.Nous ne pouvons pas laisser Soko entrer à l'intérieur et voler les projecteurs." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Cherry_s_back_in_the_game__rig" value="Cherry est de retour dans le jeu, non?Heh, ouais ... Cherry est totalement de retour." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_varDescription_Neon_Mushroom" value="Recueillir des champignons néon" />
+  <Key key="_npc_Oh____no__no__no__Neon_mushroo" value="Oh ... Non, non, non!Champignons néon ?!Pourquoi devait-il être des champignons?" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Look__I_can_t_take_these_I_m_a" value="Écoutez, je ne peux pas prendre ça, je suis allergique, au sérieux!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_This_is_bad__What_if_they_find" value="C'est mauvais.Et s'ils le découvrirent?Et s'ils réalisent que je ne suis pas cerise?" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Oh__uh____I_guess_I_shouldn_t_" value="Oh, euh ... Je suppose que je n'aurais pas dû te dire ça." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Look_man__you_gotta_get_me_out" value="Écoutez l'homme, tu dois me sortir d'ici.J'ai besoin de votre aide!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Hey__listen_up__The_Fuck_Bandi" value="Hé, écoute.Les bangs de buck s'effondrent.Si Soko a fait quelque chose à cerise ... nous devons le découvrir." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Those_neon_mushrooms_Cherry_us" value="Ces cerises de champignons néon utilisaient comme des bonbons pourraient nous aider à comprendre cela.Si le gars sur scène n'est pas cerise, nous saurons quand il réagira à eux." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_So_I_need_you_to_gather_ten_ne" value="J'ai donc besoin que vous rassembliez dix champignons néon.Ils poussent dans ces parties sombres et sombres de la forêt." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Take_them_to_the_masked_guy_fr" value="Emmenez-les chez le gars masqué pour faire face au groupe.S'il est la vraie affaire, nous récupérerons notre vieille cerise.Sinon, eh bien, nous saurons que nous avons un imposteur entre nos mains." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Really__You_re_just_going_to_l" value="Vraiment?Tu vas juste nous laisser pendre comme ça?Cherry a des ennuis profonds!" voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Fine__turn_your_back_on_us__Bu" value="Très bien, tournez le dos sur nous.Mais ne soyez pas surpris si Soko Uno prend le contrôle." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+  <Key key="_npc_Guess_you_re_okay_with_letting" value="Je suppose que vous êtes d'accord pour laisser Soko uno voler les projecteurs ... et peut-être plus." voiceSettingsId="v2zH4D3DWmGI1XnLw6TJ" />
+</Node>

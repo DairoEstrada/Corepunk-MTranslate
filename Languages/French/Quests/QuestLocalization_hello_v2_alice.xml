@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_alice" type="external">
+  <Key key="_npc_Hey__Sit_here_and_keep_me_comp" value="Hé!Asseyez-vous ici et tenez-moi compagnie." voice="Male" />
+</Node>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_supply_and_command" type="external">
+  <Key key="_npc_Thanks__friend__I_ll_be_here_h" value="Gracias amigo.Estaré aquí martillando mientras reúne esos materiales." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Much_appreciated__With_your_he" value="¡Muy apreciado!Con su ayuda, volveré al negocio en poco tiempo." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_goalVoice_Still_need_those_materials__Am" value="Todavía necesita esos materiales: ámbar, lingote de hierro y madera tratada." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_goal_collect_amber_items" value=" " />
+  <Key key="_goal_collect_iron_ingot_items" value=" " />
+  <Key key="_npc_Remember__even_a_small_help_ca" value="Recuerde, incluso una pequeña ayuda puede marcar una gran diferencia en estos tiempos caóticos." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Thank_you__friend__Your_effort" value="Gracias amigo.Su esfuerzo asegura que mantenga a nuestros novatos bien armados." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Here_s_your_reward__just_as_pr" value="Aquí está tu recompensa, tal como se prometió." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Fantastic_job__You_ve_got_ever" value="¡Trabajo fantástico!Tienes todo lo que necesito." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_goal_collect_treated_wood_items" value=" " />
+  <Key key="_npc_How_s_the_gathering_coming_alo" value="¿Cómo va la reunión?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_varDescription_Collect_Treated_Wood" value="Recoge una madera tratada" />
+  <Key key="_varDescription_9fWF" value="Recoge un lingote de hierro" />
+  <Key key="_varDescription_Collect_Amber" value="Recoger un ámbar" />
+  <Key key="_npc_Ah__it_s_chaos_with_all_the_ne" value="¡Ah, es un caos con todos los recién llegados!Mi stock está casi agotado y podría usar una mano." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Crafting_weapons_is_hard_enoug" value="La elaboración de armas es bastante difícil, pero la afluencia de los recién llegados me ha quedado sin recursos.¿Puedes ayudarme a reunir algunos materiales?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_I_ll_need_a_Amber__an_Iron_Ing" value="Necesitaré un ámbar, un lingote de hierro y algo de madera tratada.¿Crees que puedes manejar eso?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_QuestActionAddToJournal_Ratchet_Goldenfield__Weaponsmi" value="Trinquete&#10;Goldenfield, banco de artesanía de armas.&#10;&#10;Asistir a Ratchet, elmitio de armas dedicado, a reunir materiales esenciales para cumplir con un pedido de existencias." />
+  <Key key="_varDescription_Collect_a_Amber" value="Recoger un ámbar" />
+  <Key key="_varDescription_Collect_a_Iron_Ingot" value="Recoge un lingote de hierro" />
+  <Key key="_varDescription_Collect_a_Treated_Wood" value="Recoge una madera tratada" />
+  <Key key="_npc_That_s_unfortunate__I_ll_just_" value="Eso es lamentable.Tendré que seguir manchando por mi cuenta." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_No_worries__if_you_change_your" value="No te preocupes, si cambias de opinión, estaré aquí." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_I_understand__maybe_next_time_" value="Entiendo, tal vez la próxima vez que tengas tiempo." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+</Node>

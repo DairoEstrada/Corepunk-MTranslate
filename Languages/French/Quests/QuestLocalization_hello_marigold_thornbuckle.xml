@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_marigold_thornbuckle" type="external">
+  <Key key="_npc_Hi_there__kiddo_" value="Salut, gamin!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Hey__sweetie_" value="Hey chérie!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Howdy__sunshine_" value="Howdy, Sunshine!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Hello__dear_" value="Bonjour mon cher!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Welcome__little_one_" value="Bienvenue, petit!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Hey__hon_" value="Hé, Hon!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Hi__sugar_" value="Salut, sucre!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Hiya__darling_" value="Hiya, chérie!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+</Node>

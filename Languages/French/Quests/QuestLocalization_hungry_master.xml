@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hungry_master" type="external">
+  <Key key="_npc_You_re_a_lifesaver__I_ll_be_wa" value="Tu es une bouée de sauvetage!J'attendrai ces côtes." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Remember__I_need_those_Crispy_" value="Rappelez-vous, j'ai besoin de ces côtes frites croustillantes pour continuer à me battre." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_How_s_the_rib_hunt_going_" value="Comment va la chasse aux côtes?" voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Don_t_forget_those_ribs__A_hun" value="N'oubliez pas ces côtes.Un guerrier affamé est un guerrier grincheux." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_npc_Ah__you_did_it__These_look_per" value="Ah, tu l'as fait!Ceux-ci ont l'air parfaits.Voici votre récompense, comme promis." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_goal_collect_food" value=" " />
+  <Key key="_QuestActionAddToJournal_hjX9" value="Relkyn stoutShield&#10;Goldenfield, Faidens Camp Top Center&#10;&#10;Aidez Relkyn à satisfaire sa faim avec des côtes frites croustillantes." />
+  <Key key="_goalVoice_Could_you_bring_me_some_Crispy" value="Pourriez-vous m'apporter des côtes frites croustillantes?J'en ai besoin pour retrouver ma force.Regardez autour de vous, vous pourriez en trouver dans les camps ou les marchés voisins." voiceSettingsId="pvH69mE0we0dVXZrDpzQ" />
+  <Key key="_varDescription_ISjh" value="Trouver des côtes frites croustillantes" />
+  <Key key="_varDescription_KALK" value="Trouver des côtes frites croustillantes" />
+</Node>

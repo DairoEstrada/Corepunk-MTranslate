@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_drone_quadro_dual_gun" type="external">
+  <Key key="_npc_Greetings__Resident_" value="Saludos, residente." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Hello__Citizen_" value="Hello, Citizen." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Good_Day__Inhabitant_" value="Buen día, habitante." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

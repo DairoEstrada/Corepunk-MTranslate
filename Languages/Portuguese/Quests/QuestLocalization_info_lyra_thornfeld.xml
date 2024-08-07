@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_lyra_thornfeld" type="external">
+  <Key key="_npc_I_m_Lyra_Thornfeld__I_m_a_Ligh" value="Eu sou Lyra Thornfeld.Eu sou um portador de luz." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_We_stand_guard_night_and_day_" value="Ficamos de guarda noite e dia." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_The_creatures_inside_the_Valle" value="As criaturas dentro do vale são abominações.Eles mataram minha família." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_I_hate_them_with_every_fiber_o" value="Eu os odeio com cada fibra do meu ser." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_I_hate_them_worse_than_even_st" value="Eu os odeio piores do que os mímicos de rua." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Street_mimes_creep_me_the_hell" value="Mimes de rua me assustam, sabe?Eles devem estar trancados em suas caixas invisíveis e jogadas no rio" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_But_I_digress__You_watch_your_" value="Mas eu discordo.Você assiste sua etapa.Não vou tolerar interferência no desempenho de meus deveres!" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_I_m_tired__my_armor_chafes__an" value="I'm tired, my armor chafes, and I think there's a dead snake in my boot." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_But_I_am_steadfast_" value="Mas eu sou firme!" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Trust_in_the_light__and_it_wil" value="Trust in the light, and it will never lead you astray. Amen!" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_This_place_can_change_you_in_o" value="Este lugar pode mudar você de maneiras estranhas." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_I_don_t_know_if_he_s_losing_hi" value="Não sei se ele está perdendo a mente ou o quê, mas é sexy." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Turn_your_back_while_I_adjust_" value="Vire as costas enquanto eu ajusto essa ciranha.Está me dando uma erupção cutânea." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Welcome_to_the_Valley_of_Sins_" value="Welcome to the Valley of Sins!" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_This_land_was_once_lush_and_vi" value="Esta terra já foi exuberante e vibrante, mas agora é um pesadelo de carne de mutação e abominações hostis." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_It_s_a_cancer__slowly_spreadin" value="É um câncer, se espalhando lentamente pela terra." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_We_Lightbearers_fight_to_conta" value="Nós, portadores de luz, lutamos para contê -lo, mas ultimamente o vale começou a se infiltrar no Westwind Woods." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_If_we_don_t_stay_vigilant__it_" value="Se não ficarmos vigilantes, ele corrompe tudo." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_The_world_will_be_overrun_with" value="O mundo será invadido por maus bolhas de ranho carnívoro e eu não deixarei isso acontecer." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_You_seem_capable_enough__Let_s" value="Você parece capaz o suficiente.Vamos descobrir." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_You_re_brave__I_see__And_fooli" value="Você é corajoso, eu vejo.E tolo.Sim, eu preciso de assistência." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Why_not__My_partner_is_too_sex" value="Por que não?Meu parceiro é muito sexy - quero dizer, ocupado - para me ajudar." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_If_you_don_t_mind_almost_certa" value="Se você não se importa com a morte quase certa, com certeza!" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Not_now__The_giant_anuses_are_" value="Agora não.Os ânus gigantes estão em movimento." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Not_right_now__the_valley_is_p" value="Não agora: o vale está bastante ativo hoje." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_No__Please_go_away_and_stay_ou" value="Não. Por favor, vá embora e fique longe de problemas." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Not_from_you__You_re_not_ready" value="Não de você.Você não está pronto para o que infesta esse vale." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_It_s_too_perilous_right_now__C" value="Está muito perigoso agora.Volte quando as coisas se acalmarem." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_My_new_partner_over_there_and_" value="My new partner over there and I are assigned to patrol this section of the Valley of Sins." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_I_got_a_new_partner__Morick__I" value="Eu tenho um novo parceiro, Morick.Eu não o conhecia tão bem.Por que se preocupar quando eles morrem tão rápido?Mas eu percebi rapidamente que ele era um idiota." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_When_something_dragged_him_off" value="Quando algo o arrastou, imaginei que era isso: outro idiota morde a poeira.Não há grande perda, estou certo?" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Then_he_came_back__alive_and_k" value="Then he came back, alive and kicking. And you know what? That smug little shit was a changed man!" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_He_was_smarter_and_kinder_and_" value="Ele era mais inteligente, mais gentil e menos imbecil.Como isso acontece?Quase foi comido causou uma mudança de atitude?" voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_" value=" " voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+</Node>

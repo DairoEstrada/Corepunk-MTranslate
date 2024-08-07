@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_Caela" type="external">
+  <Key key="1_phrase" value=" " voice="Female" />
+  <Key key="who_are_u_answer" value="Nom's Caela.Je suis un peu ... responsable des trucs technologiques ici.J'ai déjà vécu dans la ville, mais ... disons, maintenant je préfère l'air propre." voice="Female" />
+  <Key key="what_is_this_place_answer" value="Ce?C'est Palmtree Village.Mais ce n'est pas ce que vous vouliez dire demander ceci, non?Eh bien, nous appelons cet endroit Kwalat.Et pour l'instant, c'est tout ce que je peux vous dire." voice="Female" />
+  <Key key="how_are_u_answer" value="Je suis coincé ici.Je veux dire, littéralement.Je suis coincé dans ce robot." voice="Female" />
+  <Key key="" value=" " />
+  <Key key="Assistant___Caela" value="Assistant - Caela" />
+  <Key key="Chose_Caela_like_an_assistant_" value="Choisissez Caela comme assistant?" voice="Female" />
+</Node>

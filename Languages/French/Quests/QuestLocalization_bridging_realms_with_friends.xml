@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_bridging_realms_with_friends" type="external">
+  <Key key="_npc_Oh__turning_down_epic_adventur" value="Oh, refuser les aventures épiques alimentées par le sang et les objets puissants?Quelle tristesse!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goalVoice_Oh__just_a_friendly_reminder__" value="Oh, juste un rappel amical!Pour déverrouiller les royaumes, d'abord une visite au pasteur Fazool dans Reverie Hollow.De délicieux Chap parle avec des entités anciennes!Le prochain sur notre liste Jolly est Grizelda dans Windreach Woods.Et n'oubliez pas la quête-o-tron en constante évolution dans Windreach Woods.N'oubliez pas que vous devrez «gagner» leur confiance.Quoi que cela signifie.La survie et le bonheur vous attendent!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Ah__ain_t_cross_dimensional_tr" value="Ah, n'est-ce pas un voyage interdimensionnel grand?Vous allez!Le temps est-il t-tobing, et les portails ne s'ouvrent pas!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Lastly__have_a_chat_with_QUEST" value="Enfin, discutez avec Quest-O-tron, également dans Windreach Woods.C'est une émeute." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Then__toodle_on_over_to_Grizel" value="Ensuite, Toodle sur Grizelda dans Windreach Woods.Surveillez votre pas, elle a fait disparaître les gens." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_talk_npc_driscoll" value="Retour à Driscoll-99" />
+  <Key key="_goal_talk_quest_tron" value="Parlez à Quest-O-tron" />
+  <Key key="_goal_talk_grizelda" value="Parler à Grizelda" />
+  <Key key="_goal_talk_pastor" value="Parlez au pasteur Fazool" />
+  <Key key="_npc_First_up__Pastor_Fazool_in_Rev" value="Tout d'abord, pasteur Fazool dans Reverie Hollow.Je ne peux pas le manquer, c'est lui avec la congrégation extatique." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Each_one_holds_onto_an_item_of" value="Chacun tient un élément d'immense puissance.Vous aurez besoin de s'amuser, de les déranger ou de les confondre carrément pour obtenir ce dont nous avons besoin." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_ve_got_some_names_for_you__P" value="J'ai des noms pour vous: le pasteur Fazool, le chef du culte de Chipper;Grizelda, la dame de champignons charmante et dérangée;Et qui pourrait oublier, Quest-O-tron, notre guide de survie sarcastique." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Lucky_for_us__there_are_a_few_" value="Heureusement pour nous, il y a quelques amis interdimensionnels qui se déchaînent dans les choses un peu plus puissantes et puissantes, je veux dire dangereuse!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__the_blood_samples_just_did" value="Oh, les échantillons de sang ne l'ont pas coupé.Nous aurons besoin de quelque chose de plus ... puissant pour allumer le portail." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Now_we_just_complete_one_final" value="Maintenant, nous terminons juste un dernier rituel ... sérieusement!Je promets!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Reward_time_" value="Temps de récompense!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Ah__the_fruits_of_madness_and_" value="Ah, les fruits de la folie et du chaos.Vous avez gagné chaque pomme!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_QuestActionAddToJournal_Driscoll_99__Westwind_Woods__O" value="Driscoll-99&#10;Westwind Woods, Old Portal.&#10;&#10;Aidez Driscoll-99 à activer le portail en rassemblant trois éléments puissants d'experts interdimensionnels." />
+  <Key key="_npc_Declining_my_quest__No_worries" value="Refuser ma quête?Pas de soucis!Je suis sûr que les forces sombres apprécieront votre oisiveté." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Ah__the_sweet_scent_of_impendi" value="Ah, le doux parfum des aventures de malheur et inter-réalités imminents.Je peux difficilement attendre!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Well_done__intrepid_traveler__" value="Bravo, voyageur intrépide!Qui savait que le sang, les champignons et la folie pouvaient être si gratifiants?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh_dear__say_no_to_excitement_" value="Oh mon Dieu, dites non à l'excitation et oui à ... l'ennui?Choix délicieux!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+</Node>

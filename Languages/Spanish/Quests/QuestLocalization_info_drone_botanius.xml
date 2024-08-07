@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_drone_botanius" type="external">
+  <Key key="_npc_Every_corner_is_a_testament_to" value="Cada esquina es un testimonio del milagro de la vida.Cada campo, cada planta, cada cultivo cuenta una historia de resiliencia y crecimiento." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_My_existence_is_defined_by_gro" value="Mi existencia se define por el crecimiento y la crianza.Soy los guardianes de las semillas, el susurro de las plantas." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_This_place_is_as_much_a_part_o" value="Este lugar es tan parte de mí como yo.Es un lienzo fértil donde se desarrolla el arte de la vida." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_blossoming__just_like_the" value="Estoy floreciendo, al igual que la vida que crío.Mi energía es un reflejo de la naturaleza próspera que me rodea." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_How_am_I__I_am_filled_with_pur" value="¿Como estoy?Estoy lleno de propósito y alegría, solo presenciando el milagro de la vida en estos campos." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Much_like_the_plants_I_care_fo" value="Al igual que las plantas que me importa, estoy creciendo, aprendiendo y prosperando.La energía de la vida fluye a través de mí, y me trae una inmensa satisfacción." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Goldenfield_town_is_a_symphony" value="Goldenfield Town es una sinfonía de la vida, un testimonio vivo del poder del crecimiento y la crianza." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_A_nurturer__a_caretaker__a_gar" value="Un cuidador, un cuidador, un jardinero que soy yo, Botanius-7, una creación de Plantech Innovations Inc." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_am_Botanius_7__the_soil_s_BF" value="¡Soy Botanius-7, la mejor amiga del suelo y la animadora personal de las plantas!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Your_offer_is_as_refreshing_as" value="Su oferta es tan refrescante como el rocío de la mañana." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Your_willingness_to_help_is_ap" value="Se agradece su disposición a ayudar, pero mi propósito es claro y estoy bien equipado para cumplirla." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_How_wonderful_to_meet_someone_" value="¡Qué maravilloso conocer a alguien tan cariñoso!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_How_am_I__Just_like_a_well_wat" value="¿Como estoy?Al igual que una planta bien regada ... húmeda." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="player_" value=" " />
+  <Key key="_npc_We_shall_nurture_this_collabor" value="Nutriremos esta colaboración." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Perfect__Let_s_get_down_and_di" value="¡Perfecto!¡Vamos a bajar y ensuciarnos!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Our_partnership_is_in_full_blo" value="Nuestra asociación está en plena floración." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Perhaps_you_can_help_me_remain" value="Quizás puedas ayudarme a permanecer perenne." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

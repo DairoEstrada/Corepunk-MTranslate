@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_predator_in_grass" type="external">
+  <Key key="_goal_go_kill" value="Récupérer le sang des robots" />
+  <Key key="_varDescription_WFQH" value="Blood de Crawlers" />
+  <Key key="_QuestActionAddToJournal_TOwm" value="L'agriculteur nommé Ric cherche l'aide à tuer les vils prédateurs qui se sont installés près de son ranch.Il les appelle Crawlers.Je devrais être prudent, car ces créatures vivent dans de grandes herbes et peuvent être difficiles à repérer." />
+  <Key key="_npc__iz_vysokoy_travy_za_moim_domo" value="Ces robots, ami.Je suis déjà du bétail Killin Mah depuis quelques semaines." voice="Male" />
+  <Key key="_QuestActionAddToJournal_f5NZ" value="Fait.Maintenant, l'homme peut dormir fermement.Les Crawlers ne le dérangeront plus." />
+  <Key key="_QuestActionAddToJournal_JYbB" value="Fait.Maintenant, l'homme peut dormir fermement.Les Crawlers ne le dérangeront plus." />
+  <Key key="_goalVoice_DTR6" value="Et bon, ces salauds disent aux amis des ennemis par l'odeur.Je serais heureux si vous mettez une partie de leur sang sur mes vaches, d'accord?" voice="Male" />
+  <Key key="_goal_go_back" value="Parler à l'agriculteur" />
+  <Key key="_QuestActionAddToJournal_XKQh" value="Fait.Maintenant, l'homme peut dormir fermement.Les Crawlers ne le dérangeront plus." />
+  <Key key="_npc__" value="Tu es un saint, ami.Ici, je sauvais cela pour embaucher des Mercs.Vous le méritez totalement." voice="Male" />
+  <Key key="_npc_And_the_local_boys_are_too_sca" value="Et les garçons locaux ont trop peur de ces robots." voice="Male" />
+  <Key key="_npc_I_sure_as_hell_do__Think_you_c" value="Je suis sûr comme l'enfer.Vous pensez pouvoir gérer ces créatures?" voice="Male" />
+  <Key key="_npc_Appreciate_you__friend__Hope__" value="Vous apprécie, mon ami.J'espère, vous savez ce que vous faites.Je vais être là, en attendant." voice="Male" />
+  <Key key="_npc_I_ll_drink_to_your_health__" value="Je vais boire à votre santé." voice="Male" />
+  <Key key="_goal_smallfire_nest" value="(Facultatif) brûler des nids plus petits" />
+  <Key key="_varDescription_Q6rO" value="Burned" />
+  <Key key="_QuestActionAddToJournal_Ejsk" value="J'ai trouvé quelques petits nids dans les hautes herbes.Devrait probablement les brûler également." />
+  <Key key="_assistant_phrase_G4Q9" value="Il y a donc plus de nids plus petits!Ne vous demandant pas de les brûler également, mais j'apprécierais que FOH réel." voice="Male" />
+  <Key key="_assistant_phrase_Lps9" value="Dayum, ami!Vous les avez même eu de petits nids!Cette merde mérite une plus grande récompense.Je vais penser à quelque chose." voice="Male" />
+  <Key key="_varDescription_KkUd" value="Burned" />
+  <Key key="_QuestActionAddToJournal_Pkhb" value="J'ai trouvé quelques petits nids dans les hautes herbes.Devrait probablement les brûler également." />
+  <Key key="_assistant_phrase_IvUc" value="Il y a donc plus de nids plus petits!Ne vous demandant pas de les brûler également, mais j'apprécierais que FOH réel." voice="Male" />
+  <Key key="_assistant_phrase_HN0V" value="Dayum, ami!Vous les avez même eu de petits nids!Cette merde mérite une plus grande récompense.Je vais penser à quelque chose." voice="Male" />
+  <Key key="_varDescription_V4bA" value="Burned" />
+  <Key key="_QuestActionAddToJournal_DGIy" value="J'ai trouvé quelques petits nids dans les hautes herbes.Devrait probablement les brûler également." />
+  <Key key="_assistant_phrase_YNF1" value="Il y a donc plus de nids plus petits!Ne vous demandant pas de les brûler également, mais j'apprécierais que FOH réel." voice="Male" />
+  <Key key="_assistant_phrase_aLFn" value="Dayum, ami!Vous les avez même eu de petits nids!Cette merde mérite une plus grande récompense.Je vais penser à quelque chose." voice="Male" />
+  <Key key="_varDescription_bLp6" value="Burned" />
+  <Key key="_QuestActionAddToJournal_8ZpQ" value="J'ai trouvé quelques petits nids dans les hautes herbes.Devrait probablement les brûler également." />
+  <Key key="_assistant_phrase_VfT1" value="Il y a donc plus de nids, plus petits!Ne vous demandant pas de les brûler également, mais j'apprécierais que FOH réel." voice="Male" />
+  <Key key="_assistant_phrase_KcAH" value="Dayum, ami!Vous les avez même eu de petits nids!Cette merde mérite une plus grande récompense.Je vais penser à quelque chose." voice="Male" />
+  <Key key="_npc_Kak_i_obeshchal_dop_nagrada" value="Je connais un bon copain quand j'en vois un.Non seulement vous leur avez des bêtes et le Big Nest, mais vous avez également brûlé les petits." voice="Male" />
+  <Key key="_goalVoice_S0AF" value="L'agriculteur nommé Ric cherche l'aide à tuer les vils prédateurs qui se sont installés près de son ranch.Il les appelle Crawlers.Je devrais être prudent, car ces créatures vivent dans de grandes herbes et peuvent être difficiles à repérer." voice="Male" />
+  <Key key="_assistant_phrase_g5fM" value="Et bon, ces salauds disent aux amis des ennemis par l'odeur.Je serais heureux si vous mettez une partie de leur sang sur mes vaches, d'accord?" voice="Male" />
+  <Key key="_npc_I_ll_drink_to_your_health_" value="Je vais boire à votre santé." voice="Male" />
+  <Key key="_goal_use_cow" value="Utilisez le sang pour peindre les vaches" />
+  <Key key="_varDescription_Ug79" value="Vaches" />
+  <Key key="_QuestActionAddToJournal_UiL0" value="Je dois utiliser le sang des Crawlers et peindre trois vaches" />
+  <Key key="_npc__I_went_to_Burgomaster__but_he" value="Je suis allé à Burgomaster, mais il dit que Mah Ranch soit à l'extérieur des frontières de la ville, donc il ne peut rien faire à ce sujet." voice="Male" />
+  <Key key="_npc_I_didn_t_know_what_to_thank_yo" value="Je ne savais pas avec quoi vous remercier, alors j'ai poussé autour de ma cave et j'ai trouvé cela.Ici, c'est à vous, copain.Soit gentil." voice="Male" />
+</Node>

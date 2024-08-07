@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ConstIntsCalculated" description="">
+  <Node name="IN">
+    <Key key="Name" value="Intelligence" />
+    <Key key="Description" value="Affects the percentage increase of Spell Power and Magical Сrit Multiplier, increases with Hero's level." />
+  </Node>
+  <Node name="SPI">
+    <Key key="Name" value="Spirit" />
+    <Key key="Description" value="Affects amount of Mana, Regeneration of Mana and Magical Crit Chance, increases with Hero's level." />
+  </Node>
+  <Node name="ST">
+    <Key key="Name" value="Strength" />
+    <Key key="Description" value="Affects the percentage increase of Attack Power and Physical Crit Multiplier, increases with Hero's level." />
+  </Node>
+  <Node name="DX">
+    <Key key="Name" value="Dexterity" />
+    <Key key="Description" value="Affects Attack Speed and Physical Сrit Chance, increases with Hero's level." />
+  </Node>
+  <Node name="VT">
+    <Key key="Name" value="Vitality" />
+    <Key key="Description" value="Affects Tenacity, amount of Health and Health Regeneration, increases with Hero's level." />
+  </Node>
+  <Node name="GC" />
+  <Node name="EC" />
+</Category>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_penny_stardust_furbank" type="external">
+  <Key key="_npc_Hey_there__space_cadet_" value="¡Hola, Space Cadet!" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Welcome_to_Dagaron_s_diner_" value="Bienvenido a Dagaron's Diner." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Far_out__traveler_" value="Far out, traveler!" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Dagaron_s_chillin___what_about" value="Dagaron s Chillin, ¿y tú?" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Sup__cosmic_wanderer_" value="Sup, cosmic wanderer?" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Hey__looking_for_transcendence" value="Oye, ¿buscando trascendencia?¿O simplemente cenar?" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Greetings__fellow_stargazer_" value="Greetings, fellow stargazer!" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Dagaron_s_blessings__or_whatev" value="Las bendiciones de Dagaron, o lo que sea." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+</Node>

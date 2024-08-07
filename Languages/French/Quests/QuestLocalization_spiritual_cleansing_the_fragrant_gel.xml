@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_spiritual_cleansing_the_fragrant_gel" type="external">
+  <Key key="_npc_Gratitude__seeker_" value="Gratitude, chercheur." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_May_the_energies_of_the_univer" value="Que les énergies de l'univers s'alignent pour vous guider sur cette quête." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Ah__you_have_returned__How_far" value="Ah, vous êtes revenu.Combien de tarifs votre voyage?" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_The_Fragrant_Roots_you_ve_coll" value="Les racines parfumées que vous avez collectées rayonnent d'énergie pure." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_And_they_ll_make_this_gel_tast" value="Et ils feront que ce gel a un goût incroyable ..." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Here_s_your_reward_for_aiding_" value="Voici votre récompense pour nous aider dans notre rituel sacré." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_We_only_need_a_few_more_small_" value="Nous n'avons besoin que de quelques petits articles supplémentaires.Vous pouvez peut-être nous aider à les trouver." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Fragrant_Root" value="Collectionner la racine parfumée" />
+  <Key key="_npc_Our_journey_here_is_about_reco" value="Notre voyage ici consiste à renouer avec l'essence de l'univers." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_am_preparing_a_cleansing_rit" value="Je prépare un rituel nettoyant pour mes étudiants dévoués, Tiffany et Cassidy." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_We_lack_an_essential_component" value="Nous manquons d'une composante essentielle: les racines parfumées." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_They_can_be_used_to_create_a_v" value="Ils peuvent être utilisés pour créer un gel très ... disons ... lubrifiant." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_They_grow_amidst_the_beauty_ac" value="Ils grandissent au milieu de la beauté à travers Goldenfield.Vous devriez les trouver, si vous regardez." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_I_understand__not_everyone_s_p" value="I understand, not everyone's path is the same." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_May_you_find_peace_in_your_jou" value="Puissiez-vous trouver la paix dans votre voyage." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_The_universe_respects_your_dec" value="L'univers respecte votre décision." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_If_you_ever_change_your_mind__" value="Si jamais vous changez d'avis, nous sommes ici." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Every_soul_has_its_calling_" value="Chaque âme a son appel." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Perhaps_another_time__then_" value="Peut-être une autre fois, alors." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_QuestActionAddToJournal_Guru_David_Goldenfield__Yoga_L" value="Guru David&#10;Goldenfield, Yoga Lake.&#10;&#10;Collectez les racines parfumées pour le rituel spirituel de Guru David avec Tiffany et Cassidy." />
+  <Key key="_goalVoice_Remember__we_need_five_Fragran" value="N'oubliez pas que nous avons besoin de cinq racines parfumées pour terminer le rituel.Ils poussent dans tous les coins luxuriants de Goldenfield.Regardez simplement et soyez guidé vers votre destination spirituelle." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+</Node>

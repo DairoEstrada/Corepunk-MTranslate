@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="SharedStrings" description="">
+  <Node name="Default">
+    <Key key="rcp_chemist" value="Crafting: Alchemist" />
+    <Key key="rcp_constructor" value="Installed in 1 of 6 artifact slots" />
+    <Key key="qi_need" value="Required for a quest" />
+    <Key key="rcp_health" value="An item will increase basic parameters and Health" />
+    <Key key="rcp_mana" value="An item will increase basic parameters and Mana" />
+    <Key key="rcp_physical" value="An item will increase basic and physical parameters" />
+    <Key key="rcp_magical" value="An item will increase basic and magical parameters" />
+    <Key key="rcp_speed" value="An item will increase basic parameters and movement speed" />
+    <Key key="art_hermonet" value="A thin net of technological fibers distorts and diverts a harmful impact." />
+    <Key key="rcp_weapon" value="Installed in weapon slot" />
+    <Key key="rcp_defence" value="An item will increase basic and protective parameters" />
+    <Key key="art_lace" value="A chaplet made of stringed gadget beads helps the mage to concentrate and have a better control over situation." />
+    <Key key="art_veil" value="This gadget concentrates the Dust of Kwalat around owner which is a strange inert substance" />
+    <Key key="rcp_veil_2" value="capable to dispel a part of any damage." />
+    <Key key="art_psyabecon_1" value="An amulet of abnormal matter which was thickened from corpuscles in absolute vacuum." />
+    <Key key="art_psybeacon_2" value="It is a promise of power which a hero will possess if does not turn out of the way." />
+    <Key key="val_mspeed" value="Movement Speed" />
+  </Node>
+</Category>

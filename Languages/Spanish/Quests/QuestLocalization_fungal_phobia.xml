@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fungal_phobia" type="external">
+  <Key key="_npc_We_just_need_to_get_Pastor_Faz" value="Solo necesitamos que el Pastor Fazool huya para que Lana pueda comprar la tierra." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_He_s_more_scared_of_fungus_tha" value="Tiene más miedo de hongos que un gato en una habitación llena de mecedoras.Si lo queremos salir de aquí, necesitamos esporas y muchas de ellas." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Time_to_play_mushroom_hunter__" value="¡Es hora de jugar a Hunter de hongos!Necesitamos que encuentres hongos neón.Apuntar a cinco, ¿de acuerdo?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_He_can_t_give_you_any_interdim" value="Él no puede darle ningún secreto interdimensional, pero si necesita un portal arreglado ... tal vez Lana tiene una tecnología Quaddari que puede hacer el trabajo." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Skipping_out__huh__Guess_Fazoo" value="Saltando, ¿eh?Supongo que Fazool gana esta ronda.¡Espero que te gusten sus sermones!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Seriously__You_re_scared_of_a_" value="¿En serio?¿Tienes miedo de una pequeña caza de hongos?Fazool probablemente se ría en este momento." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_goal_talk_npc" value="Habla con Lana Cartuche" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Fpyp" value="Recoge hongos neón" />
+  <Key key="_npc_Oh_come_on__are_you_gonna_let_" value="Oh, vamos, ¿vas a dejar que Fazool siga salpicando como si dirigiera este lugar?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_QuestActionAddToJournal_Lingua__Reverie_Hollow__Freshw" value="Lengua&#10;Reverie Hollow, pozo de agua dulce.&#10;&#10;Ayude a Lingua a asustar al pastor Fazool reuniendo esporas de hongos y dándolas a Lana Cartuche." />
+  <Key key="_npc_Pastor_Fazool__Total_fraud_" value="Pastor Fazool?Fraude total." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_varDescription_Collect_Neon_Mushrooms" value="Recoge hongos neón" />
+  <Key key="_goalVoice_Hey_mushroom_master__you_got_t" value="Hola maestro de hongos, ¿ya tienes esos hongos neón?Puedes encontrarlos en árboles mágicos.¡Necesitamos cinco de ellos!Imagine la cara de Fazool cuando ve que esas esporas crecen.¡No tiene precio!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Bring_me_those_spores__and_we_" value="Tráeme esas esporas, y cultivaremos algunos hongos primo que enviarán el viejo embalaje de Fazool." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_This_Quaddari_Tech_Device_migh" value="Este dispositivo tecnológico Quaddari podría ser lo que necesita para reiniciar el portal de su amigo.Se dice que estabiliza los portales erráticos." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Just____don_t_come_crying_to_m" value="Solo ... no vengas a llorarme por lo que sale de eso." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_It_s_going_to_take_a_bit_for_t" value="Va a tomar un poco para que estas esporas crezcan y arraigan, pero cuando lo hagan, Fazool se irá en poco tiempo." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Ah__you_ve_returned__And_with_" value="Ah, has regresado.Y con los hongos neón, nada menos." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_You_returned__I_assume_you_re_" value="Volviste.Supongo que eres el agente de lengua ..." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Alright__let_s_make_Fazool_wis" value="Muy bien, ¡hagamos que Fazool deseara que se haya apegado a cultivar tomates!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+</Node>

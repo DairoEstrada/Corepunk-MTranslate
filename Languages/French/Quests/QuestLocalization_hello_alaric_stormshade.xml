@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_alaric_stormshade" type="external">
+  <Key key="_npc_Light_bless_the_king_" value="La lumière bénisse le roi!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Identify_yourself_" value="Identifiez-vous!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_State_your_name_" value="Donnez votre nom!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Proceed_with_caution_" value="Procéder avec prudence!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Do_you_have_clearance_" value="Avez-vous l'autorisation?" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Present_your_ID_" value="Présentez votre pièce d'identité!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Are_you_authorized_" value="Êtes-vous autorisé?" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Do_not_deviate_" value="Ne démentiez pas!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Halt__intruder_" value="Hortez-vous, intrus!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Stay_within_protocol_" value="Restez dans le protocole!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Conduct_yourself_properly_" value="Conduisez-vous correctement!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Present_yourself_" value="Présentez-vous!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_State_your_purpose_" value="Énoncez votre but!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Identify_immediately_" value="Identifiez immédiatement!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_State_your_business_" value="Indiquez votre entreprise!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_On_your_guard_" value="Sur votre garde!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_You_re_being_watched_" value="Vous êtes surveillé." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_The_light_greets_us_all_" value="La lumière nous accueille tous!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Move_on__civilian_" value="Continuez, civil!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Anyone_to_report_" value="Quelqu'un à signaler?" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Watch_yourself__portalhead_" value="Surveillez vous-même, Portalhead." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+</Node>

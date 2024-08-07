@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_cook_goldenfield" type="external">
+  <Key key="_npc_Smell_that__That_s_home_cookin" value="Sentir ça?C'est la cuisine maison!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_What_can_Big_Mamma_do_for_ya_" value="Que peut faire Big Mamma pour toi?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Howdy__partner_" value="Howdy, partenaire!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Hey_there__Sugah_" value="Hé là, Sugah!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_You_found_the_spice__sugar_" value="Vous avez trouvé l'épice, le sucre!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Guess_what_s_cookin__" value="Devinez ce que Cookin '?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Get_in_line__hot_stuff_" value="Faites la queue, des trucs chauds." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_There_s_enough_Mamma_to_go_aro" value="Il y a assez de maman pour faire le tour!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+</Node>

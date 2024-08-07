@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_yoga_guru" type="external">
+  <Key key="_npc__Ello__Your_chakra_is_tres_mag" value="«Ello!Votre chakra est Tres Magnique!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Let_there_be_how_you_say__peac" value="Que vous disiez comment vous dites, la paix à vous!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Namaste__Shall_I_fondle_your_c" value="Namaste!Dois-je caresser votre chi?" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Bonjour__Seeking_wisdom__We__a" value="Bonjour!Vous cherchez la sagesse?Nous avons une spéciale sur la sagesse cette semaine." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+</Node>

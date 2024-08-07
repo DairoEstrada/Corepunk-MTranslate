@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_banker" type="external">
+  <Key key="_npc_Well__I_regret_to_tell_you_tha" value="Eh bien, je regrette de vous dire que notre timbre est sous inspection technique annuelle, donc il ne peut pas être utilisé pour le moment.Rien ne peut être fait." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_" value="Trouvez le débiteur" />
+  <Key key="_QuestActionAddToJournal_Jntv" value="Ce banquier m'a dit que si je voulais son aide, je dois régler un conflit entre la banque et un client endetté." />
+  <Key key="_npc_Babki_goni" value="Vous avez des changements?" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_goal_go_zone" value="Trouvez la maison de Roger le Skullcrusher" />
+  <Key key="_QuestActionAddToJournal_B75X" value="Ce gars est un peu grossier.Le banquier m'a dit d'aller chez lui et de chercher des objets de valeur là-bas pour aider le gars à faire face à sa dette." />
+  <Key key="_goal_collect_item" value="Recherchez des informations discrédites dans la maison" />
+  <Key key="_goal_end_quest" value="Parler au banquier" />
+  <Key key="_goal_compromising_found" value="Chantage Roger avec le Kompromat" />
+  <Key key="_npc_Spasibo" value="Vous êtes de retour.Et mon argent?Avez-vous réussi à obtenir quelque chose?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Wait_there__On_the_second_thou" value="Attendez!À ce moment-là, il y a quelque chose que je pourrais faire pour vous si vous faites quelque chose pour nous.Par nous, je veux dire la Banque de Leithana." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_First_and_foremost__a_client_o" value="D'abord et avant tout, un client de notre banque doit faire confiance.Si un client viole un accord de prêt, nous nous bouleversons un peu." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Our_client__Roger__disappointe" value="Nous voulons juste être sûrs que notre argent est sûr.Ces règles sont pour tout le monde." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Our_client__Roger__has_disappo" value="Notre client, Roger, nous a profondément déçus.Il a fait tout ce qu'un bon client ne ferait jamais." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_He_must_be_looking_for_the_bac" value="Il se déroule dans l'une des ruelles avec ses amis perdants." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Well__I_see__In_this_case__we_" value="Bien, je vois.Dans ce cas, nous nous séparons ici.Quant au compte de résultat, malheureusement, je ne peux rien faire pour vous.Passe une bonne journée!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_It_s_always_pleasure_to_deal_w" value="C'est toujours un plaisir de faire face à un si bon client.Je ne demanderai même pas comment vous l'avez.L'essentiel est que tout a bien fonctionné pour la plupart d'entre nous." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Your_income_statement_is_ready" value="Votre compte de résultat est prêt.Je suis heureux de vous informer que, à partir de maintenant, vous pouvez utiliser tous les services de notre banque.Passe une bonne journée!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Really__What_a_night__Who_the_" value="Vraiment?Quelle nuit!Qui es-tu?Vous ne pouvez pas être local.Les habitants ne me donnent jamais la monnaie.Fangs sales!" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_No__Asking_for_trouble__Then_g" value="Non?Demander des problèmes?Ensuite, sortez d'ici avant de vous botter le cul.Est-ce que tu sais qui je suis?Roger - le crâne de crâne." voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_assistant_phrase_ahQf" value="Je suis désolé, j'ai entendu que vous parlez à Roger.Il semble qu'il n'ait pas d'argent avec lui." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_Bm5D" value="Je suis désolé, j'ai entendu que vous parlez à Roger.Il semble qu'il n'ait pas d'argent avec lui.Eh bien, il pourrait être quelque part dans sa superbe maison avec le crâne dessus.Je n'indique rien… Je pense juste à haute voix." voice="Male" />
+  <Key key="_goalVoice_ejmz" value="Je vais juste le dire.Allez à Roger, prenez l'argent ou ce qu'il a d'autre et vous obtiendrez ce dont vous avez besoin.Il doit chercher les prostituées, près de la scène du concert.Mes hommages." voice="Male" />
+  <Key key="_goal_open_door" value="Trouver un moyen d'entrer dans la maison" />
+  <Key key="_QuestActionAddToJournal_IW2h" value="La maison est fermée.Je dois trouver un moyen de pénétrer à l'intérieur." />
+  <Key key="_npc_" value="Sans faille-plaisir!C'est encore toi!Que veux-tu?" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_sys_msg_Zf1A" value="Ne peut pas s'ouvrir sans une clé" />
+  <Key key="_QuestActionAddToJournal_T7wh" value="J'ai quelque chose de cher de la maison.Je dois maintenant parler à nouveau au banquier." />
+  <Key key="_QuestActionAddToJournal_WUIM" value="J'ai trouvé quelque chose avec qui fait chanter Roger.Je dois faire ça maintenant." />
+  <Key key="_assistant_phrase_c1ES" value="Condamner!C'est fermé.Pourquoi ne trouvez-vous pas une clé.Ce doit être ici quelque part.Le gars n'est pas très intelligent ..." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_re_sick_piece_of_shit__Luc" value="Voici votre argent puant!Tu es heureux?Maintenant, donnez les photos et baise!Et encore une chose.Dites à Jackass Tomas, ce n'est pas fini!" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Are_those_photos_of_me__You_re" value="Sont ces photos de moi?Tu es malade de merde!Où les as tu eu?Vous avez fait irruption dans ma maison ?!Fils de pute!" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_He_is_making_things_worse_by_n" value="Il aggrave les choses en ne répondant pas à nos appels et en se cachant de nos représentants." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_They_re_threatened_by_me_but_m" value="Ils sont menacés par moi mais plus par le crâne de ma maison.C'est totalement rad!" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Now_piss_off__fucker__I_ve_got" value="Maintenant, pisse, baiseur!J'ai des choses plus importantes à faire." voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_npc_Heard_of_the_house_with_a_gian" value="Entendu parler de la maison avec un crâne géant?C'est à moi!Et je peux facilement mettre le vôtre à la place!" voice="Male" voiceSettingsId="D38z5RcWu1voky8WS1ja" />
+  <Key key="_assistant_phrase_Nci8" value="Eh bien, il pourrait être quelque part chez lui avec le crâne.Je ne laisse entendre rien de penser à haute voix." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_We_don_t_want_to_make_this_cas" value="Nous ne voulons pas rendre cette affaire publique ... regardez, je vais juste le dire.Allez à Roger, prenez l'argent ou tout ce qui lui reste, et vous obtiendrez ce dont vous avez besoin." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_brow_robe_bold" type="external">
+  <Key key="_npc_I_m_Grulok__the_luckiest_fucke" value="Je suis Grulok, le plus chanceux de l'univers." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Back_on_my_world__I_was_poor__" value="De retour sur mon monde, j'étais pauvre - quand je reviendrai d'ici, je vais être riche!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_I_ve_been_collecting_the_shit_" value="J'ai collecté la merde que ce monde stupide jette!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_The_villagers_around_here_mock" value="Les villageois ici se moquent de moi, mais ils ne savent pas ce qui ils manquent." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_This_stuff_is_worth_serious_mo" value="Ce truc vaut de l'argent sérieux sur mon monde." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_When_they_see_the_haul_I_have_" value="Quand ils voient le transport que j'ai dans cette voiture de train, cela va leur souffler." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Once_I_figure_out_how_to_get_b" value="Une fois que j'ai compris comment y retourner ..." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_This_universe_will_rue_the_day" value="Cet univers escompte le jour où il a sous-estimé Grulok." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Those_damned_bandits_from_the_" value="Ces putain de bandits du vieux dépôt respirent dans mon cou." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_I_swear__those_bastards_will_c" value="Je jure que ces salauds viendront pour moi ensuite ..." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_I_ain_t_slept_in_days__knowing" value="Je n'ai pas dormi depuis des jours, sachant qu'ils essaieront de prendre mon trésor!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Bet_they_already_know_how_to_g" value="Je parie qu'ils savent déjà comment retourner dans mon monde aussi." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Every_rustle__every_shadow____" value="Chaque bruissement, chaque ombre ... Je pense que ce sont eux se rapprochant." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_But_I_m_ready_for_those_shit_e" value="Mais je suis prêt pour ces baiseurs mangeurs de merde." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_It_s_called_Kwalat__right_" value="Ça s'appelle Kwalat, non?" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_You_d_know_before_I_did___I_on" value="Vous le sauriez avant de le faire - je suis arrivé ici il y a quelques jours." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_I_figured_I_d_set_up_shop__col" value="J'ai pensé que j'avais installé un magasin, récupérer ma merde, puis sous caution." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_What_s_with_the_look_" value="Qu'y a-t-il avec le look?" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_It_was_easy_to_get_here__so_it" value="C'était facile d'arriver ici, donc il doit être facile de partir aussi, non?" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Nah__my_haul_s_not_big_enough_" value="Non, mon transport n'est pas encore assez grand." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Sorry__still_building_my_stash" value="Désolé, toujours construire ma cachette, je ne peux pas le partager." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Come_back_later__the_pile_s_to" value="Revenez plus tard, la pile est trop petite." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Eat_shit__But_not_mine_" value="Mangez de la merde.Mais pas le mien!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Nah__not_unless_you_have_a_dep" value="Non, à moins que vous n'ayez un dépôt à faire." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Busy__Gotta_go_collect_in_the_" value="Occupé.Je dois aller se récupérer dans les bois." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_You_got_the_stones_to_kill_som" value="Vous avez les pierres pour tuer des bandits?" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Those_shithead_bandits_are_gon" value="Ces bandits de Shithead va me faire une descente tous les jours maintenant." voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_You_go__so_I_can_guard_my_shit" value="Tu pars, donc je peux garder ma merde!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Yeah__I_need_a_crazy_fucker_li" value="Ouais, j'ai besoin d'un baiseur fou comme toi!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_Let_s_wipe_those_pieces_of_shi" value="Essuyons ces morceaux de merde!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_You_ready_to_do_some_dirty_wor" value="Vous êtes prêt à faire du sale boulot?" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+  <Key key="_npc_I_need_those_bandit_fucks_gone" value="J'ai besoin que ces bandits baisent, maintenant!" voiceSettingsId="1CR1ARQFItnlUmFHbXi2" />
+</Node>

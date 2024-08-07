@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_shawna_turner" type="external">
-  <Key key="_npc_Hey_there_" value="Ei." />
-  <Key key="_npc_Stay_sharp_" value="Fique afiado." />
-  <Key key="_npc_Eyes_open_" value="Olhos abertos." />
-  <Key key="_npc_Watch_it_" value="Assista." />
-</Node>

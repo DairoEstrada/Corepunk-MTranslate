@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_velvet_viper" type="external">
+  <Key key="_npc_Well__hello_there" value="Bueno, hola" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Fancy_meeting_you_here" value="Fantasía conocerte aquí" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Aren_t_you_a_sight" value="¿No eres un espectáculo?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Hello__stranger" value="Hola, extraño" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_What_s_your_story_" value="¿Cuál es tu historia?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Ah__a_new_face" value="Ah, una cara nueva" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_What_brings_you_here_" value="¿Qué te trae por aquí?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Got_a_moment_" value="¿Tienes un momento?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_See_any_of_my_girls_out_there_" value="¿Ves alguna de mis chicas por ahí?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+</Node>

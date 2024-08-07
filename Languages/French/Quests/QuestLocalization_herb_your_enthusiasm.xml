@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_herb_your_enthusiasm" type="external">
+  <Key key="_npc_Hey__bredren__Got_what_I_need_" value="Hé, Bredren!Vous avez ce dont j'ai besoin?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_You_got_me__mon__Big_up_yourse" value="Tu m'as eu, lun!Big Up vous-même!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_goal_collect_clovers_items" value=" " />
+  <Key key="_goal_collect_mushroom_items" value=" " />
+  <Key key="_npc_You_back_already__mon__How_lon" value="Vous de retour déjà, lun?Combien de temps cela a-t-il duré?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_varDescription_c2kB" value="Collectez les trousries à six feuilles" />
+  <Key key="_varDescription_6A4x" value="Collectez un champignon néon" />
+  <Key key="_npc_Righteous__mon__You_got__em_" value="Juste, lun!Vous les avez!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Respect__bredren_" value="Respect, Bredren." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Bless_up__This_is_gonna_be_a_t" value="Bénir!Ce sera un voyage à retenir, grâce à vous!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Spend_that_gold_wisely__and_ke" value="Passez cette or à sagement et gardez les vibrations Irie, lun." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Hey_man__Jah__I_ve_got_wind_of" value="Hé mec, Jah!J'ai un vent de quelque chose de la chance de la dame néon de Nia fraîche et méchante.C'est le dernier buzz de Maxwell." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Thing_is__I_m_so_high__I_feel_" value="Le truc, c'est que je suis si haut, j'ai l'impression d'être dans une simulation ou un sumtin." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_I_need_you_to_grab_me_two_Six_" value="J'ai besoin que tu me saisis deux trèfles à six feuilles et un champignon néon." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Aw__too_busy_for_me__That_s_a_" value="Aw, trop occupé pour moi?C'est une déception, lun." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Guess_I_ll_just_make_do_with_w" value="Je suppose que je vais juste me contenter de ce que j'ai obtenu pour le moment.Restez Irie, lun." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_QuestActionAddToJournal_Jahri_Roots_Goldenfield__west_" value="Racines de Jahri&#10;Goldenfield, à l'ouest de la station-service.&#10;&#10;Aidez les racines de Jahri à rassembler des ingrédients pour un nouveau mélange d'herbes." />
+  <Key key="_goalVoice_Yo_mate__how_s_the_hunt_for_th" value="Yo mec, comment va la chasse à ces trèfles à six feuilles et à ces champignons néon?Vérifiez tous les buissons, lun.Il doit y avoir Sumtin dans Dem." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_varDescription_Collect_Six_Leaf_Clovers" value="Collectez les trousries à six feuilles" />
+  <Key key="_varDescription_Collect_a_Neon_Mushroom" value="Collectez un champignon néon" />
+  <Key key="_npc_For_real__mon__help_a_brother_" value="Pour de vrai, lundi, aidez un frère à sortir.Jah bénisse!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Blessed_love__I_ll_be_right_he" value="Amour béni, je serai ici en attendant la magie, mec." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

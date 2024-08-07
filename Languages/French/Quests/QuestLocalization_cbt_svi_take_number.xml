@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_take_number" type="external">
+  <Key key="_goal_go_to_npc" value="Prendre un numéro au terminal postal" />
+  <Key key="_QuestActionAddToJournal_Ki63" value="Je dois passer une inscription.Un poste de poste dit que je dois prendre un numéro dans un terminal postal dans le bâtiment pour être servi." />
+  <Key key="_npc_Let_me_check_here__Mhm__with_a" value="Laissez-moi vérifier ici.MHM, avec l'approbation du gobelin.D'accord.S'il vous plaît, prenez un numéro et attendez votre tour." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Terminal" value="Bonne journée, madame / monsieur.Pour prendre un billet numérique pour un identifiant, vous devez avoir un identifiant." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_post_speak" value="Parlez à l'officier de poste" />
+  <Key key="_npc_" value="Eh bien, il semble que le terminal postal soit à nouveau à la traîne.Je vais contacter le technicien en trois à cinq jours ouvrables.En attendant, vous pouvez tous attendre dehors." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_QuestActionAddToJournal_Y8iP" value="Ce terminal ne fonctionne pas correctement.Je dois en parler au poste de poste." />
+  <Key key="_goal_fix_terminal" value="Trouver un moyen de réparer le terminal" />
+  <Key key="_QuestActionAddToJournal_OyR2" value="Le poste de poste m'a dit que pour réparer le terminal, je dois trouver le technicien local.Il doit être au bar." />
+  <Key key="_npc_Kak_dela" value="Votre numéro est ... 1.Merci d'avoir choisi EPS." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_end_quest" value="Parler à l'officier de poste" />
+  <Key key="_QuestActionAddToJournal_YHXa" value="D'accord, j'ai eu le numéro.Maintenant, je peux parler à l'officier de poste et enfin m'inscrire." />
+  <Key key="_npc_Alright__seems_good__So__you_w" value="Très bien, semble bien.Alors, tu veux être un résident légitime d'Elan?Avez-vous les bols pour cela?" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goal_goal_v2" value="Prendre un numéro au terminal postal" />
+  <Key key="_QuestActionAddToJournal_fgVO" value="Je dois passer une inscription.Un poste de poste dit que je dois prendre un numéro dans un terminal postal dans le bâtiment pour être servi." />
+  <Key key="_npc_Your_number_is____Your_number_" value="Votre numéro est… votre numéro est ... Votre Madame est ... Madame ... Rendre votre Madame plus facile ..." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Let_me_see_____Motor_system_fi" value="Laissez-moi voir ... &quot;Système moteur bien, bla bla bla, signatures de vie bien, bla bla, facilement manipulé.&quot;" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Everyone_in_Kwalat_is_required" value="Tout le monde à Kwalat doit avoir des bols, quel que soit le sexe ou la race." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Oh__you_again____Fine__What_do" value="Oh, toi encore ... très bien.Qu'avons-nous ici.Laissez-moi scanner votre puce." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goalVoice_RA56" value="Je vois.Un autre outworlder.Laissez-moi vérifier ici.MHM, avec une approbation du gobelin.D'accord.S'il vous plaît, prenez un numéro et attendez votre tour." voice="Male" />
+  <Key key="_npc_The_terminal_is_right_over_her" value="Bien.Vous pouvez l'obtenir du terminal juste là-bas." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_I_can_t_serve_you_until_you_ta" value="Je ne peux pas vous aider avant de prendre un numéro.C'est les règles.Le terminal est juste là-bas." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_QuestActionAddToJournal_UYKd" value="Je dois passer une inscription.Un poste de poste dit que je dois prendre un numéro dans un terminal postal dans le bâtiment pour être servi." />
+  <Key key="_QuestActionAddToJournal_6DQB" value="Je dois passer une inscription.Un poste de poste dit que je dois prendre un numéro dans un terminal postal dans le bâtiment pour être servi." />
+  <Key key="_goalVoice_RqYI" value="Je vois.Un autre outworlder.Laissez-moi vérifier ici.MHM, avec une approbation du gobelin.D'accord.S'il vous plaît, prenez un numéro et attendez votre tour." voice="Male" />
+  <Key key="_npc_An_outworlder__recently_here__" value="Un outworlder, récemment ici, aucun enregistrement.Oh, vous avez la forme 71 de Goldenfield." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+</Node>

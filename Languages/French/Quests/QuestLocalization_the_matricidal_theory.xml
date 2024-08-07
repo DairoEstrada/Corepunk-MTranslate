@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_matricidal_theory" type="external">
+  <Key key="_npc_Prepare_yourself_for_glory__my" value="Préparez-vous à la gloire, mon acolyte qui sera bientôt légendaire!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_goal_kill_mobs" value=" " />
+  <Key key="_varDescription_Kill_Mutated_Rat" value="Kill Mutated Rat" />
+  <Key key="_QuestActionAddToJournal_Zarnok_Riverrise__City_Center_" value="Zarnok&#10;Riverrise, centre-ville.&#10;&#10;Aider Zarnok en terminant sa tâche inachevée de tuer des rats mutés." />
+  <Key key="_goalVoice_Why_are_you_hesitating__The_cl" value="Pourquoi hésitez-vous?Le point culminant de notre histoire attend!Juste frapper ce rat!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Did_you_savor_the_thrill_of_co" value="Avez-vous savouré le frisson du combat?Dites-moi tout, aucun détail n'est trop petit!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Behold__your_reward__Contain_y" value="Voici, votre récompense!Contiennent votre excitation." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Ah__you_survived__Maybe_you_ha" value="Ah, tu as survécu!Peut-être que vous avez la création d'un héros après tout." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Fine__walk_away_from_destiny__" value="Très bien, éloignez-vous du destin.Mais rappelez-vous, vous avez eu la chance d'être légendaire!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Declining_a_leading_role__Gues" value="Refuser un rôle de premier plan?Je suppose que les projecteurs ne sont pas pour tout le monde." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Ah__choosing_mediocrity__Not_e" value="Ah, choisir la médiocrité!Tout le monde n'est pas destiné à la grandeur, je suppose." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_You_ll_regret_this_when_my_epi" value="Vous regretterez cela lorsque mon épopée sera adaptée à une saga intergalactique sans vous!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Oh__you_must_enjoy_remaining_a" value="Oh, vous devez profiter de rester un personnage d'arrière-plan!Retour à NPC Life pour vous." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Imagine_it_your_first_step_in_" value="Imaginez-le votre première étape dans la saga épique aux côtés de Zarnok!Envoyez simplement ce rongeur final et votre légende commence!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_I_ve_valiantly_slain_98_mutate" value="J'ai déjà vaillamment tué 98 rats mutés, en laissant un pour vous.Oui, vous, l'élu!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_I_need_you_to_kill____99_mutat" value="J'ai besoin que tu tues ... 99 rats mutés.Comme c'est amusant pour vous!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_One_that_has_been_in_my_quest_" value="Celui qui a été dans mon journal de quête si longtemps, je l'ai oublié!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Fear_not__for_Zarnok__the_grea" value="N'ayez pas peur, pour Zarnok, le Grand, a une tâche d'importance monumentale pour vous!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Ah__another_aspiring_sidekick_" value="Ah, un autre acolyte en herbe est arrivé!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+</Node>

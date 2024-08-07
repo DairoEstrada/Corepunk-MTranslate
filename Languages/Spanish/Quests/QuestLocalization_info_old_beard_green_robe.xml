@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_old_beard_green_robe" type="external">
+  <Key key="_npc_Who_am_I__Are_you_daft__" value="¿Quién soy?¿Eres Daft?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_You_must_be_one_of_those_idiot" value="Debes ser uno de esos idiotas de los portales ..." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_m_Eadric_Barrow__the_renowne" value="Soy Eadric Barrow, el reconocido experto en tecnología antigua." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Surely__you_ve_heard_of_my_gro" value="¡Seguramente, has oído hablar de mi innovador trabajo!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Foolish_of_me_to_expect_any_si" value="Nocioso de mi parte esperar cualquier signo de inteligencia en este pozo de ignorancia." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_You_wouldn_t_understand_the_co" value="No entenderías las complejidades de mi trabajo." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_How_am_I__How_dare_you_ask_" value="¿Como estoy?¿Cómo te atreves a preguntar?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Trapped_like_a_mere_rodent_by_" value="¡Atrapado como un mero roedor por estas piedras diabólicas!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_The_House_of_Novators_swore_to" value="La Casa de los Novatas juró rescatarme, pero ¿dónde están?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_am_Eadric_Barrow__for_heaven" value="¡Soy Eadric Barrow, por el bien del cielo!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Reduced_to_begging_for_help_fr" value="Reducido a la mendicidad de la ayuda de serpenteantes extraños.¡Es humillante!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_If_you_have_any_wit_about_you_" value="Si tienes algún ingenio sobre ti, ¡encontrarás una manera de liberarme!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Ah__this_accursed_place_" value="Ah, ¿este lugar maldito?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_You_stand_upon_the_North_Mound" value="Te paras sobre el montículo del norte, mi incesante prisión." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_A_marvel_of_forgotten_eras_and" value="Una maravilla de épocas olvidadas y diseño arcano." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_These_infernal_stones__part_of" value="Estas piedras infernales, parte de un mecanismo intrincado, me mantienen cautivo con cadenas invisibles." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_The_device_s_purpose__Ah__that" value="El propósito del dispositivo?Ah, esa es la pregunta, ¿no?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_theorize_it_was_designed_to_" value="Teorizo ​​que fue diseñado para atrapar a los trabajadores, asegurando que nunca pudieran escapar de su implacable trabajo." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Just_imagine__a_sophisticated_" value="Solo imagine, un elemento disuasorio sofisticado contra la deserción, un carcelero sin paredes ni bares." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_A_testament_to_the_ancients__b" value="Un testimonio de la brillantez y la crueldad de los antiguos, ¿no estaría de acuerdo?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_One_that_only_I__Eadric_Barrow" value="One that only I, Eadric Barrow, can escape!" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Help_from_you__Hardly_necessar" value="Ayuda de ti?Apenas necesario." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_can_help_myself__thank_you_" value="No puedo evitarlo, gracias." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_The_House_of_Novators_will_han" value="La Casa de los Novatas manejará esto." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_await_the_House_of_Novators_" value="Espero la Casa de los Novadores, no los aficionados." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_ve_summoned_the_finest__your" value="He convocado a los mejores;Tu ayuda es redundante." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_The_House_of_Novators_will_soo" value="La Casa de los Novatas pronto resolverá esto." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Assistance__Only_from_the_best" value="¿Asistencia?Solo de lo mejor, gracias." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_expect_professionals__not_pa" value="Espero profesionales, no transeúntes." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_ll_be_rescued_by_genius__not" value="I'll be rescued by genius, not idiocrasy." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Save_your_efforts__I_await_tru" value="Guarde sus esfuerzos;Espero la verdadera competencia." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_The_finest_minds_are_already_o" value="Las mejores mentes ya están en camino." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Do_I_need_help__More_like__do_" value="¿Necesito ayuda?Más bien, ¿necesitas una educación?" voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Oh_fine__I_suppose_I_can_let_y" value="Oh bien, supongo que puedo dejarte ayudar." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Consider_it_a_lesson_" value="Considéralo una lección." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_If_only_to_amuse_myself_by_wat" value="Aunque solo sea para divertirme mirando tus intentos." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_m_granting_you_the_rare_hono" value="Te estoy concediendo el raro honor de ayudar a un genio." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Very_well__I_deign_to_allow_yo" value="Muy bien, me digno para permitirte ser útil." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_suppose_your_bungling_might_" value="Supongo que tu bungling podría entretener a estas piedras." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Yes__yes__It_s_for_your_own_gr" value="Sí Sí.Es para tu propio crecimiento, de verdad." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_I_ll_permit_it__if_only_to_imp" value="Lo permitiré, aunque solo sea para mejorar sus habilidades patéticas." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Your_help_could_be_a_passable_" value="Su ayuda podría ser una distracción pasable.Proceder." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+  <Key key="_npc_Oh__if_I_must_depend_on_your_m" value="Oh, si debo depender de tus escasos talentos." voiceSettingsId="gPGsdb0HXITdyTTKJ3Nd" />
+</Node>

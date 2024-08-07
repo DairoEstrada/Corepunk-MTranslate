@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_herbalism_lesson" type="external">
+  <Key key="_npc_Ah__just_what_the_doctor_order" value="Ah, juste ce que le médecin a commandé!Cette huile naturelle est parfaite." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Remember_to_process_those_Haze" value="N'oubliez pas de traiter ces noisettes en huile naturelle à la table de l'artisanat." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_How_s_the_Herbalism_going__Got" value="Comment va l'herborisme?Vous avez encore l'huile naturelle?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Remember__it_s_all_about_the_p" value="N'oubliez pas, tout est question de processus.Prenez votre temps." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Any_luck_with_those_Hazelnuts_" value="Une chance avec ces noisettes?Pas de précipitation, juste curieuse!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_You_re_incredible_" value="Tu es incroyable!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_QuestActionAddToJournal_A7Gw" value="Nia Sundance&#10;Goldenfield, près de la maison d'été&#10;&#10;Aidez Nia à fabriquer un masque de visage à l'huile naturelle des noisettes." />
+  <Key key="_goalVoice_BfSU" value="Remember to process those Hazelnuts into Natural Oil at the crafting table." voice="Male" />
+  <Key key="_varDescription_RTWV" value="Huile naturelle" />
+  <Key key="_varDescription_TTkd" value="Huile naturelle" />
+  <Key key="_npc_And_look_at_you__getting_your_" value="Et regardez-vous, se mouiller les pieds dans l'herborisme.Bon sur toi!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Why_don_t_you_hang_on_to_some_" value="Pourquoi ne pas vous accrocher à une partie de cela - votre visage pourrait vraiment l'utiliser." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+</Node>

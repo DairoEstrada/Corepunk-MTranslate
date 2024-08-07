@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_astronaut_botanist" type="external">
+  <Key key="_npc_Yoo_hoo_" value="Yoo-hoo!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Hey__space_cadet_" value="Hé, cadet de l'espace!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Howdy_" value="Salut!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Ahoy_" value="Ahoy!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_How_do_they_say_hello_here_" value="Comment disent-ils bonjour ici?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_The_air_is_breathable__yes_" value="L'air est respirant, oui?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_What_species_are_you_" value="Quelle espèce êtes-vous?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_blorp_knurt" type="external">
+  <Key key="_npc_WHO_AM_I__I_M_BLORP_KNURT_" value="QUI SUIS JE?Je suis Blorp Knurt!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Hard_to_hear_with_this_concert" value="Difficile à entendre avec ce concert, hein?BIENVENUE À MON ENFER!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_They_haven_t_even_started_play" value="Ils n'ont même pas encore commencé à jouer et c'est trop fort !!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Came_from_a_place_where_SOUND_" value="Est venu d'un endroit où les vagues sonores étaient des armes!Ce n'est pas mieux!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_I_LIVE_RIGHT_NEARBY__I_LITERAL" value="Je vis juste à proximité.J'entends littéralement cette merde tous les soirs!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_HOW_AM_I__CAN_T_YOU_HEAR_THIS_" value="COMMENT SUIS-JE?Tu ne peux pas entendre ce bruit dynamité ?!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_I_M_FUCKING_MISERABLE__THAT_S_" value="Je suis putain de misérable, c'est comment!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Tried_earplugs_but_they_just_m" value="J'ai essayé des bouchons d'oreille mais ils me font juste entendre mes propres cris mieux." voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Tried_TALKING_TO_THE_MAYOR__bu" value="J'ai essayé de parler au maire, mais il est sourde comme un rocher!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Now_I_m_here__DEDICATED_TO_MAK" value="Maintenant, je suis ici, dédié à rendre tout le monde aussi misérable que moi!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Welcome_to_my_PERSONAL_HELL__w" value="Bienvenue dans mon enfer personnel, où les billets de concert sont une condamnation à mort!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Hard_to_hear_you_over_this_CON" value="Difficile de vous entendre sur ce concert, mais c'est RiverRise!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_USED_TO_BE_PEACEFUL__until_THE" value="Auparavant paisible, jusqu'à ce que les bandits de baise se présentent." voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_THAT_S_THE_NAME_OF_THE_BAND_" value="C'est le nom du groupe!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Now_it_s_just_NOISE_and_CHAOS_" value="Maintenant, c'est juste du bruit et du chaos, grâce à eux!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_CAN_T_HEAR_YOU_OVER_THIS_NOISE" value="Je ne vous entends pas sur ce bruit!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Yeah__EARPLUGS_would_be_nice__" value="Ouais, les bouchons d'oreille seraient bien.Sinon, baise!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Nah__handling_this_SOLITARY_WA" value="Non, gérer cette guerre solitaire très bien.Merci quand même!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_APPRECIATE_IT__but_this_FIASCO" value="Appréciez-le, mais ce fiasco est à moi de ruiner!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Wanna_RUIN_A_CONCERT_" value="Tu veux ruiner un concert?" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_YEAH__I_NEED_HELP__Ready_to_be" value="Ouais, j'ai besoin d'aide!Prêt à devenir un ennemi public numéro un?" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Help_me_make_this_concert_A_LI" value="Aidez-moi à faire de ce concert un cauchemar vivant!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+  <Key key="_npc_Sure__let_s_CRASH_THIS_GIG_" value="Bien sûr, écrasons ce concert!" voiceSettingsId="xgrS0pqBJqN9o1XETivn" />
+</Node>

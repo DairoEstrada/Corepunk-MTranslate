@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_windstone_mohawk" type="external">
+  <Key key="_npc_Name_s_Eric__Folks_call_me_laz" value="Le nom est Eric.Les gens m'appellent paresseux, mais je préfère les décontractés." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_I_m_Gregory_the_Farmer_s_son__" value="Je suis Gregory le fils de l'agriculteur.Ouais, celui qui crie toujours mon nom." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_The_old_man_s_blind_now__Love_" value="Le vieil homme est aveugle maintenant.Aimez-le, mais je ne prendrai jamais sa place.Trop de travail." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_I_m_not_one_for_hard_work__but" value="Je ne suis pas un pour le travail acharné, mais je suis bon avec ces artefacts étranges au sous-sol.Le meilleur cours est de les laisser seuls, ce que je suis le mieux." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Seen_my_half_brother_Eddie__Br" value="Vu mon demi-frère Eddie?Bro est énervé parce que j'hérite de la ferme et non de lui.&quot;Prenez-le avec les ancêtres Brownie&quot;, lui dis-je.«Ils ont fait la loi stupide, pas moi ou papa." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Anyway__he_ll_end_up_running_t" value="Quoi qu'il en soit, il finira par diriger la ferme quand papa est parti.Je suis sûr pas pour tout ce travail!" voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Could_be_worse__Dad_s_shoutin_" value="Pourrait être pire.Papa crie à nouveau, alors il y a ça." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Got_a_nice_nap_in_earlier__so_" value="J'ai une belle sieste plus tôt, donc je vais bien." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Eddie_s_doing_most_of_the_farm" value="Eddie fait la plupart des travaux agricoles.J'essaye juste de rester hors de son chemin." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Same_old__same_old__Just_kicki" value="Même vieux.Vraiment en retour, vraiment." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Want_to_go_down_to_the_tavern_" value="Vous voulez descendre à la taverne, peut-être écouter des morceaux, mettre quelques bières?" voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_This_here_is_our_family_farm__" value="C'est ici notre ferme familiale.Surtout silencieux, sauf quand Eddie travaille d'Eddie ou de critin de papa." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_The_farm_s_got_some_weird_stuf" value="La ferme a des trucs étranges, comme ces artefacts dangereux au sous-sol." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Now_that_Dad_s_blind__Eddie_ke" value="Maintenant que papa est aveugle, Eddie continue de fonctionner." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_He_seems_to_enjoy_it__so_I_let" value="Il semble en profiter, alors je l'ai laissé.Ce n'est pas comme si je savais beaucoup de l'agriculture de toute façon." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_If_you_re_looking_for_work__yo" value="Si vous cherchez du travail, vous voudrez peut-être parler à Eddie.Je suis juste là pour les siestes." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Sure__if_you_re_offering__ther" value="Bien sûr, si vous offrez, il y a probablement quelque chose que papa veut faire." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Well__since_you_asked__There_i" value="Eh bien, depuis que vous avez demandé.Il y a cette seule chose." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Appreciate_it__How_are_you_at_" value="L'apprécie.Comment allez-vous au travail réel?" voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Yeah__why_not__Anything_to_avo" value="Ouais pourquoi pas?Tout pour éviter les cris de papa." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Nah__I_ve_got_nothing_pressing" value="Non, je n'ai rien de pressant pour le moment." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Thanks__but_I_m_good__Really__" value="Merci, mais je vais bien.Vraiment.Simplement se détendre." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Appreciate_it__but_I_m_managin" value="Appréciez-le, mais je gére très bien." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_No__I_m_all_set_here__But_than" value="Non, je suis prêt ici.Mais merci!" voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+</Node>

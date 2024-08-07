@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lucky_love" type="external">
+  <Key key="_npc_We_re____we_re_friends__right_" value="Nous sommes ... nous sommes amis, non?" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Thanks_for_all_your_help__At_l" value="Merci pour votre aide.Au moins, je t'ai toujours comme ami." voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_goal_collect_6_leaf_clover" value=" " />
+  <Key key="_npc_Oh_wow__thank_you__I_m_already" value="Oh wow, merci!Je transpire déjà comme un Taura'ak un jour d'été." voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Here__take_your_reward__It_see" value="Ici, prenez votre récompense.Il semble que j'aurai besoin d'un autre type de chance." voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Guess_these_clovers_will_keep_" value="Je suppose que ces trèfles me tiendront compagnie ce soir." voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Well__this_is_awkward____my_da" value="Eh bien, c'est gênant ... Mon rendez-vous vient de dire qu'ils sont morts.Ouais, pour sortir de sortir avec moi." voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_varDescription_Collect_Six_Leaf_Clover" value="Collect Six Leaf Clover" />
+  <Key key="_npc_Oh__It_s_you__huh_" value="Oh.C'est toi, hein?" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_QuestActionAddToJournal_Zorgalon_Na_Reeth_Rivverrise__" value="Zorgalon na'reeth&#10;Rivverrise, ville entre 1 après le pont.&#10;&#10;Aidez Zorgalon Na'reeth à collecter 6 trèfles à 6 feuilles pour lui porter chance à sa prochaine date." />
+  <Key key="_goalVoice_Umm____have_you_gotten_those_6" value="Umm ... avez-vous déjà eu ces trèfles à 6 feuilles?Mes nerfs poussent plus vite que mes cheveux!S'il vous plaît dépêchez-vous, j'ai besoin de ces trèfles!Ma date arrive et j'imagine déjà toutes les façons possibles que je pourrais le faire exploser!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Brace_yourself__I_scored_a_dat" value="Atteignez-vous, j'ai marqué un rendez-vous!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Can_you_believe_it__I_m_a_matc" value="Peux-tu le croire?Je suis un entremetteur, mais en ce qui concerne ma propre vie amoureuse, je suis aussi désemparée qu'un bêtazoïde aux yeux bandés!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_So__here_s_the_thing__I_ve_hea" value="Alors, voici la chose.J'ai entendu dire que six trèfles à 6 feuilles sont comme les aimants d'amour ultimes." voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_But_honestly__I_can_t_even_tel" value="Mais honnêtement, je ne peux même pas dire un trèfle à 3 feuilles d'une feuille de 5 feuilles!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Nobody_uh____ever_taught_me_to" value="Personne euh ... ne m'a jamais appris à faire des mathématiques." voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Could_you_do_me_a_solid_and_hu" value="Pourriez-vous me faire un solide et traquer ces trèfles mystiques?Je serais pour toujours dans votre dette, et peut-être que je trouverai mon propre heureux aussi bien après!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Oh_no__now_I_have_to_resort_to" value="Oh non, maintenant je dois recourir au plan B ... ce qui est essentiellement panique." voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Well__there_goes_my_backup_pla" value="Eh bien, il y a mon plan de sauvegarde de l'impressionner avec ma vaste connaissance des espèces de trèfle!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_I_guess_I_ll_rely_on_my_sparkl" value="Je suppose que je vais compter sur ma personnalité étincelante ... oh attends, je suis condamné!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Great__now_I_ll_have_to_try_se" value="Super, maintenant je devrai essayer de la sérénade avec mes compétences de chant inexistantes!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+  <Key key="_npc_Guess_it_s_time_to_brush_up_on" value="Je suppose qu'il est temps de brosser mon petit discours maladroit.Ce sera un désastre!" voiceSettingsId="zabbB6kdts5U1BtPJWPY" />
+</Node>

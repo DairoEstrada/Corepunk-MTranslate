@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lost_signal" type="external">
+  <Key key="_npc_You_walk_away___the_Valley_s_m" value="Vous vous éloignez - la miséricorde de la vallée sera gentille par rapport à votre phrase." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Ha__Decided_to_quit_already__M" value="Ha!Décidé d'arrêter déjà?Peut-être que vous préférez le temps dans le slammer." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_goalVoice_Focus__recruit__We_need_those_" value="Focus, recruter.Nous avons besoin de ces radios: vert, rouge et jaune.Garde les yeux ouverts.La région est perfide, mais nous avons besoin de ces communications opérationnelles." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_goal_collect_green_radio" value=" " />
+  <Key key="_goal_collect_red_radio" value=" " />
+  <Key key="_goal_collect_yellow_radio" value=" " />
+  <Key key="_goal_talk_npc" value="Retour à Morick Voss" />
+  <Key key="_npc_Get_in__grab_the_radios__and_g" value="Entrez, prenez les radios et sortez." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_When_you_find__em__bring__em_t" value="Lorsque vous les trouvez, amenez-les à mon partenaire, Morick Voss, pour votre prochaine affectation." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_We_ve_got_three_radios__green_" value="Nous avons trois radios: vert, rouge et jaune.Ces choses sont notre bouée de sauvetage.Sans eux, nous sommes aveugles." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Our_previous_recruits_met_thei" value="Nos recrues précédentes ont rencontré leur fin.Votre travail?Récupérez les radios qu'ils ont abandonnés." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_All_right__greenhorn__listen_u" value="Très bien, Greenhorn, écoutez.L'infestation de la vallée des péchés n'est pas une promenade dans le parc." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Keep_it_up__Lyra_already_talke" value="Continuez comme ça.Lyra m'a déjà parlé de votre prochaine affectation." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_varDescription_Collect_Green_Radio" value="Collectez la radio verte" />
+  <Key key="_varDescription_Collect_Red_Radio" value="Collectez la radio rouge" />
+  <Key key="_varDescription_Collect_Yellow_Radio" value="Collectez la radio jaune" />
+  <Key key="_QuestActionAddToJournal_Lyra_Thornfeld_Westwinds_Woods" value="Lyra Thornfield&#10;Westwinds Woods, vallée des péchés infestation&#10;Aidez Lyra Thornfield à récupérer les 3 radios de l'infestation de la vallée des péchés et de les amener à Morick Voss." />
+  <Key key="_npc_Turnin__back__eh__Just_remembe" value="Turnin 'Back, hein?N'oubliez pas que vous avez encore des dettes à payer - à plus d'un titre." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Alright__you_ve_got_guts__Just" value="Très bien, vous avez du courage.Essayez simplement de ne pas les perdre là-bas." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_You_actually_did_it__huh__Let_" value="Vous l'avez fait, hein?Voyons ce que vous avez." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Looks_like_you_ve_got_the_maki" value="On dirait que vous avez la création d'un porte-lumière approprié.Non pas que je sache ce que cela signifie ..." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+</Node>

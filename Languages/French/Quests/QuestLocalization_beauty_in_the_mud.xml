@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_beauty_in_the_mud" type="external">
+  <Key key="_npc_Stars_dim_more__Zorbul_wait_lo" value="Les étoiles diminuent plus, Zorbul attend plus longtemps." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_s_heart__it_cracks_like" value="Le cœur de Zorbul, il se fissure comme une lune brisée!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_goalVoice_Zorbul_need_sparkly_bits_from_" value="Zorbul a besoin de bits scintillants des lieux de terre brillants.Le visage dépend des pierres brillantes!Trouver dans des maisons rock spéciales." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Hunt_rare_shiny_in_Elan_land__" value="Chasse rare brillant dans le pays d'Elan, ils se cachent dans des veines de minerai secrètes." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_You_gather_for_Zorbul__Need_2_" value="Vous vous réunissez pour Zorbul?Besoin de 2 étoiles pour le masque de boue.Oui oui!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_hears_whisper_of_magic_" value="Zorbul entend chuchoter de la magie Rockstar Energy ', faites à nouveau la face brillante!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_goal_talk_npc" value="Retour à Zorbul" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_WtWp" value="Faire de l'énergie étoilée" />
+  <Key key="_npc_Oh_friend__Zorbul_s_face_once_" value="Oh ami, le visage de Zorbul une fois brillant, maintenant comme la vieille pomme de terre!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Now_Zorbul_bootiful_enough_for" value="Maintenant, Zorbul est assez émouvante pour le stand de jury.Prendre note!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_With_shiny_bits__Zorbul_glow_l" value="Avec des morceaux brillants, Zorbul brille comme la lune dans le ciel nocturne!Visage déjà brûlant!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_grateful__here_gift_for" value="Zorbul reconnaissant, ici cadeau pour l'aide scintillante!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_QuestActionAddToJournal_Zorbul_Z_nar_Goldenfield__Dist" value="Zorbul Z'nar&#10;Goldenfield, ferme lointaine.&#10;&#10;Aider Zorbul Z'nar à collecter l'énergie 2 étoiles pour son traitement expérimental sur le masque de boue." />
+  <Key key="_npc_Why_turn_back__No_shiny_glory_" value="Pourquoi revenir en arrière?Pas de gloire brillante ensemble maintenant." voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_varDescription_Make_Star_Energy" value="Faire de l'énergie étoilée" />
+  <Key key="_npc_Shiny_find__Zorbul_feel_young_" value="Trouver brillant!Zorbul sent à nouveau les jeunes stars!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Zorbul_see_you_come_back__Shin" value="Zorbul à voir que vous revienez!Shine trouvé?" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Good__good__Zorbul_trust_you_g" value="Bien bien!Zorbul Trust que vous obtenez des bits scintillants!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+</Node>

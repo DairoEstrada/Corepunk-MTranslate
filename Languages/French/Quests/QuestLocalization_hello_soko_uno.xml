@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_soko_uno" type="external">
+  <Key key="_npc_What_the_fuck_do_you_want_" value="Qu'est-ce que tu veux?" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Are_you_serious_right_now__" value="Êtes-vous sérieux en ce moment ?!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Ugh__not_again_" value="Ugh, pas encore." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Do_I_look_like_I_have_time_" value="Est-ce que j'ai l'air d'avoir le temps?" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Buzz_off__asshole_" value="Buzz hors, connard." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Can_t_you_see_I_m_busy__idiot_" value="Tu ne vois pas que je suis occupé, idiot?" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_You_re_seriously_wasting_my_ti" value="Vous perdez sérieusement mon temps." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Oh_great__another_distraction_" value="Oh génial, une autre distraction." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+</Node>

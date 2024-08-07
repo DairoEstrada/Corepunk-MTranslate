@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_crafting_lessons" type="external">
+  <Key key="_npc_The_list_really_goes_on_and_on" value="La liste s'allonge vraiment encore et encore.Vous le découvrirez!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_crafting_lessons" value=" " />
+  <Key key="_QuestActionAddToJournal_5Vt1" value="Martha &quot;Big Mamma&quot; Potterson&#10;Goldenfield, près de la cuisine du bien-être&#10;&#10;Martha veut que vous deveniez plus utile en apprenant des compétences supplémentaires des artisans de la ville.Elle pense que cela convaincra encore Zugg que vous êtes utile, afin que vous puissiez faire signer vos papiers." />
+  <Key key="_goalVoice_Yw0v" value="Mettez ces mains à utiliser, des trucs chauds!Vous devez vous améliorer avec vos doigts, vous savez?Il y a beaucoup de «locaux ici que le gouvernement paie pour enseigner.Commencez avec Nia Sundance;Elle est de retour derrière sa maison d'été à l'est.Elle vous aidera avec un rassemblement à base de plantes.Rendez-vous ensuite à Zogar à l'enregistrement, qui est près de Thordal Ironvein à l'ouest de Goldenfield.Coupourner les arbres spécifiques sera une bonne pratique, puis vous pourrez exploiter des métaux.Après cela, visitez Thordal Ironvein, près de Zogar, pour exploiter quelques métaux.C'est un peu plus difficile, mais ça vaut le coup.Enfin, rencontrez Butch 'Porkchop' O'Hara près de sa grange.La préparation de la viande de porc peut être difficile mais très gratifiante.Cette commande fonctionne très bien pour les débutants, mais n'hésitez pas à aider d'autres habitants en cours de route pour acquérir de nouvelles compétences.Vous aurez le coup en un rien de temps!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_varDescription_5109" value="Lettre de remerciement" />
+  <Key key="_goal_help_zogar" value="Aider Zogar" />
+  <Key key="_goal_help_ratchet" value="Aide à Ratchet" />
+  <Key key="_goal_help_thordal_ironvein" value="Aider Thordal Ironvein" />
+  <Key key="_goal_help_drek" value="Aide à Rek" />
+  <Key key="_goal_help_percy" value="Aide à la périctualité &quot;Percy&quot; Beamish" />
+  <Key key="_goal_help_nia" value="Aider Nia Sundance" />
+  <Key key="_goal_help_butch" value="Aider Butch O'Hara" />
+  <Key key="_assistant_phrase_TU3G" value="Une autre compétence déjà?Nous serons damnés, ces mains sont beaucoup plus agiles qu'elles ne semblent." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_fPnI" value="Oh, un véritable cric-de-tout.Ce qui est surprenant - la plupart des gens ici ne font pas Jack!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_RvWO" value="Une autre compétence déjà?Nous serons damnés, ces mains sont beaucoup plus agiles qu'elles ne semblent." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_LgHS" value="Oh, un véritable cric-de-tout.Ce qui est surprenant - la plupart des gens ici ne font pas Jack!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_VR3H" value="Une autre compétence déjà?Nous serons damnés, ces mains sont beaucoup plus agiles qu'elles ne semblent." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_az11" value="Oh, un véritable cric-de-tout.Ce qui est surprenant - la plupart des gens ici ne font pas Jack!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_5rCN" value="Une autre compétence déjà?Nous serons damnés, ces mains sont beaucoup plus agiles qu'elles ne semblent." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_UGy5" value="Oh, un véritable cric-de-tout.Ce qui est surprenant - la plupart des gens ici ne font pas Jack!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_JQk6" value="Une autre compétence déjà?Nous serons damnés, ces mains sont beaucoup plus agiles qu'elles ne semblent." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_HBTj" value="Oh, un véritable cric-de-tout.Ce qui est surprenant - la plupart des gens ici ne font pas Jack!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_c1LH" value="Another skill already? We'll I'll be damned, those hands are a lot nimbler than they seem." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_e1QT" value="Oh, un véritable cric-de-tout.Ce qui est surprenant - la plupart des gens ici ne font pas Jack!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Nice_work_sugar___heard_you_re" value="Beau sucre de travail - entendu que vous apprenez déjà beaucoup.Vous continuez et nous ferons signer vos papiers en un rien de temps!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_OHxE" value="Une autre compétence déjà?Nous serons damnés, ces mains sont beaucoup plus agiles qu'elles ne semblent." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_5Pdh" value="Oh, un véritable cric-de-tout.Ce qui est surprenant - la plupart des gens ici ne font pas Jack!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_I_m_so_proud_of_you_sugar__Fro" value="Je suis tellement fier de toi sucre!De la cuisson à la main-d'œuvre éreintante!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Now__I_think_the_next_thing_yo" value="Maintenant, je pense que la prochaine chose que vous devez faire est de sortir et de mettre ces compétences à utiliser." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Plenty_of_people_around_here_u" value="Beaucoup de gens ici euh ... vous détestez." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_It_s_not_personal__Just_part_o" value="Ce n'est pas personnel!Une partie de l'ensemble des &quot;Outwers, déstabilisent la chose&quot;." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_H9DI" value="Hé - vous vous rapprochez de Thordal et Zogar.Ils vous apprennent comment faire du bois et enlever vos rochers." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_LXcA" value="Par cela, je veux dire l'exploitation forestière et l'exploitation minière.Vérifiez la station-service à proximité." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_D_Rek_will_teach_ya_how_to_mak" value="D'Rek vous apprendra comment faire un implant qui peut les réparer après." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Ratchet_can_teach_ya__to_make_" value="Ratchet peut vous apprendre à faire une arme qui fera exploser les cerveaux des gens en un seul coup." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Oh__you_re_close_to_the_worksh" value="Oh, tu es proche de l'atelier!Allez enregistrer avec D'Rek et Ratchet." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_chRx" value="Il y a un alchimiste nommé Percy derrière la banque.Il sait certainement faire la fête" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_K0Q0" value="Si vous voulez apprendre à en mélanger, euh des trucs amusants.Vérifiez avec lui." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+</Node>

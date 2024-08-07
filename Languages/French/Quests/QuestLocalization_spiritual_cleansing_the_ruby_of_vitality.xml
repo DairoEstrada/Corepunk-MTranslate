@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_spiritual_cleansing_the_ruby_of_vitality" type="external">
+  <Key key="_npc_You_have_chosen_a_path_of_enli" value="Vous avez choisi un chemin d'illumination." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Let_s_find_that_Ruby_and_compl" value="Laissez-vous trouver ce rubis et compléter notre rituel." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Ah__you_have_returned__How_far" value="Ah, tu es revenu!Combien de tarifs votre quête du rubis?" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_You_have_done_well__my_friend_" value="Tu as bien fait, mon ami." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_With_this__we_are_a_step_close" value="Avec cela, nous sommes un pas de plus de notre rituel de nettoyage spirituel." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_And_Cassidy_will_get_off_my_ba" value="Et Cassidy mettra de mon dos à la sienne ..." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_May_you_find_peace_and_balance" value="Puissiez-vous trouver la paix et l'équilibre comme récompense pour vos efforts." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Pt6R" value="Ruber" />
+  <Key key="_npc_We_re_at_a_critical_juncture_i" value="Nous sommes à un moment critique de notre rituel." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Cassidy_senses_a_ruby_carries_" value="Cassidy sent un rubis porte l'aura spirituelle requise pour ce nettoyage." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_She_claims_it_is_very_importan" value="Elle prétend que c'est très important et ne me parle pas avant qu'il ne soit trouvé!" voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_You_have_the_chakra_needed_to_" value="Vous avez le chakra nécessaire pour le trouver - simplement mon minerai jusqu'à ce que l'on se révèle à vous." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_QuestActionAddToJournal_Guru_David_Goldenfield__Yoga_L" value="Guru David&#10;Goldenfield, Yoga Lake.&#10;&#10;Obtenez un rubis mystique pour Guru David pour terminer un rituel de nettoyage spirituel significatif." />
+  <Key key="_goalVoice_Remember__we_need_a_mystical_R" value="N'oubliez pas que nous avons besoin d'un rubis mystique.Cherchez-le dans les mines - creusez le minerai jusqu'à ce qu'il se révèle à vous.Le succès de votre voyage repose sur votre persistance." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_varDescription_Collect_a_Ruby" value="Ruber" />
+  <Key key="_npc_It_seems_you_are_not_ready_for" value="Il semble que vous n'êtes pas encore prêt pour ce voyage spirituel." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Perhaps_the_time_isn_t_right_f" value="Peut-être que le moment n'est pas bon pour vous de chercher le rubis." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Return_when_your_spirit_is_mor" value="Revenez lorsque votre esprit est plus à l'écoute." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_A_pity_" value="Dommage." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+  <Key key="_npc_Remember__the_call_to_enlighte" value="N'oubliez pas que l'appel à l'illumination est toujours présent." voiceSettingsId="o86w79lw8Y208S2HjL2M" />
+</Node>

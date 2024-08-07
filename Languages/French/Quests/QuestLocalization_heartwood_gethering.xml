@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_heartwood_gethering" type="external">
+  <Key key="_npc_Turning_down_a_chance_to_survi" value="Vous baissez une chance de survivre?Très bien, votre perte." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Without_the_magic_of_Kwalat_s_" value="Sans la magie des incendies et de la nourriture de Kwalat, vous êtes dans un vrai régal." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Oh_well__Enjoy_struggling_thro" value="Tant pis.Profitez des difficultés à travers la fatigue et la viande de créature crue." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Suit_yourself__But_remember__n" value="Comme vous voudrez.Mais rappelez-vous, aucun feu magique ne signifie pas de récupération magique." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Well__I_ve_tried_to_help_you_a" value="Eh bien, j'ai essayé de vous aider autant que je le devais légalement." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_goal_collect_resources" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_LeMi" value="Bois de cœur" />
+  <Key key="_npc_Eating_by_a_fire_kindled_with_" value="Manger par un feu allumé en bois de cœur a un effet réparateur spécial.Vous vous sentirez plus fort, plus frais et plus courageux." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_We_re_not_hikers_looking_for_f" value="Nous ne sommes pas des randonneurs à la recherche de bois de chauffage.Nous sommes après Heartwood - le cœur même des arbres magiques.Croyez-moi, brûler ce truc vous donne un feu qui vaut la peine." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Don_t_let_anything_crucial_sli" value="Ne laissez rien crucial passer votre attention, en particulier ces arbres magiques dans la forêt." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Alright__moving_on_to_the_next" value="Alright, moving on to the next lesson - get familiar with your surroundings." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Now__go_get_registered_with_Zi" value="Maintenant, allez vous inscrire auprès de Zikk et Zugg.Même avec un incendie, vous ne durerez pas longtemps ici." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Keep_it_up__and_you_ll_find_yo" value="Continuez comme ça et vous trouverez votre place ici.Il suffit de quelques pièces de monnaie et d'un toit." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_And_remember__nothing_warms_yo" value="Et rappelez-vous, rien ne réchauffe vos os comme un repas chaud près de Heartwood Fire." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Now__head_into_the_forest_and_" value="Maintenant, dirigez-vous dans la forêt et allez-moi trois morceaux de bois de cœur.Visez les arbres qui brillent." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_QuestActionAddToJournal_Maxwell_Sterling_Goldenfield__" value="Maxwell Sterling&#10;Goldenfield, près de la tente de blé&#10;&#10;Rassemblez le bois de cœur de la forêt pour en savoir plus sur la collecte de ressources et différents matériaux pour les feux de camp." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Head_into_the_forest_and_fetch" value="Dirigez-vous dans la forêt et récupérez-moi trois morceaux de bois de cœur.Visez les arbres qui brillent." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_varDescription_Heartwood" value="Bois de cœur" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Look_at_you__all_alive_and_stu" value="Regardez-vous, tous vivants et tout ça.Bon travail.Voici la recette de feu de camp Heartwood." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_If_you_re_not_back_soon__I_ll_" value="Si vous n'êtes pas de retour bientôt, je suppose qu'un arbre est tombé sur vous." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Done_playing_lumberjack_yet__O" value="Done playing lumberjack yet? Or did the trees fight back?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Remember___Heartwood__Bright_g" value="Rappelez-vous - Cœur.Brillant lueur.Ne vous trompez pas." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Good__Keep_this_in_mind__findi" value="Bien!Gardez cela à l'esprit, trouver ce dont vous avez besoin ne se produit pas toujours lors du premier essai.Restez persistant." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+</Node>

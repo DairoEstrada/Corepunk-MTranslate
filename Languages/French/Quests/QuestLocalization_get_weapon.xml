@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_get_weapon" type="external">
+  <Key key="_npc_Great__Let_s_get_this_show_on_" value="Super!Passons ce spectacle sur la route.Il est temps de rassembler ces composants!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_QuestActionAddToJournal_cUZ8" value="Rochet&#10;&#10;Aider Ratchet à construire une arme ultime en collectant des composants de Grizzle Ironfoot, Griz et D'Rek." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_4kJg" value="N'oubliez pas que vous devez aider Griz, Grizzle et D'Ary.Ramenez-moi tous ces composants afin que nous puissions construire l'arme ultime!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Remember__Griz__Grizzle__and_D" value="Rappelez-vous, Griz, Grizzle et D'Abandage!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Fantastic__You_ve_got_all_the_" value="Fantastique!Vous avez toutes les pièces dont nous avons besoin." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Let_s_get_started_on_assemblin" value="Commençons à assembler ce mauvais garçon." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Congratulations__here_s_your_v" value="Félicitations, voici votre propre arme ultime." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_And_hey__time_to_use_it__right" value="Et bon, il est temps de l'utiliser, non?J'espère que vous ne soufflez pas!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_How_s_the_component_hunt_going" value="Comment va la chasse aux composants?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_goal_help_grizzle" value="Collecte de composants de Grizzle Ironfoot" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_help_griz" value="Collecte des composants de Griz" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_help_drek" value="Collecte de composants de D'Rek" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Ah__Ratchet_sent_ya__I_ve_got_" value="Ah, Ratchet vous a envoyé?J'ai la partie pour laquelle il cherche, mais j'ai d'abord besoin d'une faveur." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_ve_found_traces_of_a_rare__r" value="J'ai trouvé des traces d'un isotope radioactif rare dans ces bois, Isotope-238." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_It_s_tickling_me_whiskers_with" value="Il me chatouille des moustaches avec son potentiel!Mais l'extraction est un peu collante." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_If_ya_think_you_ve_got_the_gri" value="Si vous pensez avoir le grain, ce serait une aubaine pour nos recherches." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Ah__Ratchet_sent_you__I_ve_bee" value="Ah, Ratchet vous a envoyé?J'ai fait des recherches sur l'artefact qu'il a demandé ..." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Rumor_has_it__this_artifact_co" value="La rumeur veut que cet artefact pourrait être la source de la fuite de rayonnement dangereux dans la zone des déchets toxiques de la forêt de Dusktide." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Rescuers_have_already_separate" value="Les sauveteurs ont déjà séparé l'artefact en petites bouteilles bleues, mais nous avons besoin de les '.J'ai besoin que vous veniez cinq de ces bouteilles bleues pour moi." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Be_wary_of_the_dangerous_atmos" value="Méfiez-vous de l'atmosphère dangereuse de la fuite de liquide huileux vert.Remarquez exactement sain pour toi." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_ve_got_a_proposition_for_you" value="J'ai une proposition pour vous." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Ratchet_and_I_have_this_plan_t" value="Ratchet et moi avons ce plan pour fusionner la technologie avec la magie pour votre arme ultime." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_We_believe_that_a_unique_Wolf_" value="Nous pensons qu'un masque de loup unique caché dans les ruines près de Goldenfield détient un code spécial." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_This_code_can_transform_ordina" value="Ce code peut transformer des armes ordinaires en quelque chose d'extraordinaire." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_If_you_can_retrieve_that_Wolf_" value="Si vous pouvez récupérer ce masque Wolf, je suis convaincu que nous pouvons créer des jetons spéciaux pour améliorer votre arme comme jamais auparavant." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_You_ll_have_to_dig_through_a_l" value="Vous devrez fouiller beaucoup de nœuds pour en trouver, mais cela en vaudra la peine." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_talk_npc" value="Parler à Ratchet" />
+</Node>

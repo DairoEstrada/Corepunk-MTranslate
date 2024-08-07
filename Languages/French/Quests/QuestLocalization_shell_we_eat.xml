@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_shell_we_eat" type="external">
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_You_re_not_bad_for_a_portal_ho" value="Vous n'êtes pas mauvais pour une trémie de portail!Bien, qu'attendez-vous?Allez obtenir une coquille de tortue verte." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Impressive__You_must_have_a_go" value="Impressionnant.Vous devez avoir un bon couteau." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Hey_there__Got_that_turtle_she" value="Salut!Vous avez cette coquille de tortue pour moi?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_varDescription_Collect_a_Green_Turtle_Shells" value="Collectez une coquille de tortue verte" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_And_here_I_had_you_pegged_for_" value="Et ici, je vous ai fait fixer pour l'un d'eux des idiots de la ville." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Martha_s_gonna_be_thrilled__an" value="Martha va être ravie et les gens de la cuisine adoreront." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Hey_there__I_got_a_special_req" value="Hé là, j'ai eu une demande spéciale pour toi.Vous voyez, Martha dirige la cuisine de protection sociale, et elle a fait un sacré travail à nourrir tout le monde." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_But_I_figure__even_if_it_s_a_w" value="Mais je pense que, même si c'est une cuisine sociale, elle et les gens méritent quelque chose de bien pour un changement.Quelque chose pour remonter le moral, tu sais?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_was_thinking_of_making_some_" value="Je pensais faire des bols à soupe uniques à partir d'une coquille de tortue verte.Ce serait parfait!Durable et un peu de luxe à sa manière." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_You_ll_need_to_head_to_bodies_" value="Vous devrez vous diriger vers des plans d'eau à l'extérieur de Goldenfield pour trouver des tortues, et j'espère que je vous ai appris assez bien en boucherie!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_QuestActionAddToJournal_Butch_O_Hara_Goldenfield__Barn" value="Butch O'Hara&#10;Goldenfield, grange.&#10;&#10;Récupérez une coquille de tortue verte pour Butch O'Hara pour fabriquer des bols de soupe uniques pour la cuisine de protection sociale de Martha." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Don_t_forget__I_need_that_gree" value="N'oubliez pas, j'ai besoin de cette coquille de tortue verte.Surveillez votre pas là-bas.La forêt peut être une vraie bête.N'oubliez pas que ce sont les coquilles de tortues vertes que nous recherchons.C'est ce qui rendra les bols si spéciaux." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Ah__that_s_a_bummer__Thought_y" value="Ah, c'est une déception.Je pensais que vous voudrez peut-être faire quelque chose de gentil pour Martha." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_No_hard_feelings__If_you_chang" value="Pas d'émotions fortes.Si vous changez d'avis, vous savez où me trouver." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_bot_run_processing" type="external">
-  <Key key="_npc_" value="Hola" />
-  <Key key="_npc_Hello" value="Hola" />
-</Node>

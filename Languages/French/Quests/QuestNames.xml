@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestNames" type="external">
+  <Key key="info_Dona" value="Info" />
+  <Key key="info_Dusty" value="Info" />
+  <Key key="info_Falcon" value="Info" />
+  <Key key="info_Bedrock" value="Info" />
+  <Key key="info_Apenor" value="Info" />
+  <Key key="info_zabou" value="Info" />
+  <Key key="info_kress" value="Info" />
+  <Key key="info_Isaac" value="Info" />
+  <Key key="info_Bourgin" value="Info" />
+  <Key key="info_Doc_Wister" value="Info" />
+  <Key key="info_farin_the_brave" value="Info" />
+  <Key key="info_Jim_Woodleg" value="Info" />
+  <Key key="info_Golden_Gim" value="Info" />
+  <Key key="needful_wires" value="Fils nécessaire" />
+  <Key key="brave_new_world" value="Brave nouveau monde" />
+  <Key key="portal_race" value="Course de portail" />
+  <Key key="tapes_of_isaac" value="Bandes d'Isaac" />
+  <Key key="disturbing_signal" value="Signal dérangeant" />
+  <Key key="little_trouble" value="Peu de mal" />
+  <Key key="test_inzone_kill" value="Cleaning the Grove" />
+  <Key key="cbt_from_portal" value="Brave nouveau monde" />
+  <Key key="cbt_puzzle" value="Réparer le flux" />
+  <Key key="cbt_lost_cow" value="Elle s'épuise à nouveau" />
+  <Key key="cbt_bring_part" value="Raideurs de tombes" />
+  <Key key="cbt_robot_repair" value="Pas de temps pour l'égoïsme" />
+  <Key key="cbt_goto_elderone" value="Réunion de famille" />
+  <Key key="test_heloween" value="Halloween" />
+  <Key key="qt_proto_robot_repair" value="Réparation de robots" />
+  <Key key="qt_proto_exploring" value="Discoverer" />
+  <Key key="cbt_drone_talk" value="À l'improviste" />
+  <Key key="cbt_kill_gnoose_test" value="Ces petits ravageurs" />
+  <Key key="cbt_exo_repair" value="Brave nouveau monde" />
+  <Key key="cbt_pesky_pests" value="Antiparasitaire" />
+  <Key key="cbt_assistant" value="Brave nouveau monde" />
+  <Key key="cbt_test_drive" value="Essai" />
+  <Key key="cbt_to_poststation" value="Route vers RiverRise" />
+  <Key key="cbt_find_technician" value="Technician" />
+  <Key key="cbt_find_messenger" value="Messenger" />
+  <Key key="cbt_find_reson" value="La tour" />
+  <Key key="cbt_notify_community" value="Informer la communauté" />
+  <Key key="cbt_only_dog_forgive" value="Le seul chien pardonne" />
+  <Key key="cbt_land_dispute" value="Buttes et limites" />
+  <Key key="cbt_bard" value="Barde" />
+  <Key key="cbt_fake_collector" value="Faux percepteur d'impôts" />
+  <Key key="cbt_prepare_villagers" value="Prepare villagers for defence" />
+  <Key key="cbt_inventor" value="Inventor" />
+  <Key key="cbt_cook" value="Cuisiner" />
+  <Key key="cbt_drug_lab" value="Laboratoire de médicament" />
+  <Key key="cbt_by_the_way" value="D'ailleurs" />
+  <Key key="cbt_ign_quest" value="Métal chaud" />
+  <Key key="cbt_peeking_herbs" value="Herbes en train de faire un œil" />
+  <Key key="cbt_psy_mush" value="Champignons gobelin" />
+  <Key key="cbt_beach_supplies" value="Rassemblement de plage" />
+  <Key key="cbt_problem_in_sawmill" value="Scierie" />
+  <Key key="cbt_logging_conflict" value="Conflit de journalisation" />
+  <Key key="cbt_artifact" value="Artefact" />
+  <Key key="cbt_video_system" value="Site de creusement" />
+  <Key key="cbt_black_arch" value="Pilleurs de tombes" />
+  <Key key="cbt_chopah_dealer" value="Commerçant d'armes" />
+  <Key key="cbt_sacrificial_animals" value="Animaux sacrificiels" />
+  <Key key="cbt_to_brownie" value="Village de brownie" />
+  <Key key="cbt_back_to_elder" value="De retour dans le village" />
+  <Key key="cbt_to_winery" value="À la cave" />
+  <Key key="cbt_to_roody" value="Joyeux Roody" />
+  <Key key="cbt_sawmill_cleaning" value="Nettoyage de la scierie" />
+  <Key key="cbt_hideout" value="Cachette" />
+  <Key key="cbt_forest_chief" value="Chef de la forêt" />
+  <Key key="cbt_vile_thieves" value="Mess de shishigas" />
+  <Key key="cbt_ammunition_supply" value="Towers Brownie" />
+  <Key key="cbt_imp_boss" value="Brownie et shishigas" />
+  <Key key="cbt_bee_delivery" value="Livraison des abeilles" />
+  <Key key="cbt_coffeeshop" value="Café" />
+  <Key key="cbt_royal_beggars" value="Mendiants royaux" />
+  <Key key="cbt_bring_part_new_1" value="Raideurs de tombes" />
+  <Key key="cbt_predator_in_grass" value="Predator dans les hautes herbes" />
+  <Key key="cbt_the_battery_and_aliens" value="Aliens et le camion" />
+  <Key key="cbt_war_resources" value="Guerre des ressources" />
+  <Key key="cbt_gourmet" value="GNAT UN PROBLÈME" />
+  <Key key="cbt_herbal_crafting" value="Artisanat à base de plantes" />
+  <Key key="cbt_gathering_woodsman_instruments" value="Rassembler les instruments Woodman" />
+  <Key key="cbt_planting_trees" value="Planter des arbres" />
+  <Key key="cbt_setting_traps" value="Définition des pièges" />
+  <Key key="cbt_gift_tribe" value="Cadeau pour une tribu" />
+  <Key key="cbt_monster_hunt" value="Chasse aux monstres" />
+  <Key key="cbt_gathering_fruits" value="Rassembler des fruits" />
+  <Key key="cbt_heal_wounded_animals" value="Guérir les animaux blessés" />
+  <Key key="cbtt_rick_and_morty_quest" value="Doc et Marty" />
+  <Key key="cbt_paint_savages" value="Peinture pour le sabbat" />
+  <Key key="cbt_beat_lumberjacks" value="Battre les bûcherons" />
+  <Key key="cbt_hunter_rite" value="Rite de chasseur" />
+  <Key key="cbt_scammers" value="Escrocs" />
+  <Key key="cbt_hunting_savage_forest" value="Chasse dans la forêt sauvage" />
+  <Key key="cbt_sexbot" value="Sexe" />
+  <Key key="cbt_craft_weapon" value="Création de la première arme dans la forêt sauvage" />
+  <Key key="cbt_message_tribes" value="Message pour les tribus" />
+  <Key key="cbt_totem_burning" value="Totem brûlant" />
+  <Key key="cbt_tree_wisdom" value="Sagesse des arbres" />
+  <Key key="cbt_eternal_mining" value="Exploitation éternelle" />
+  <Key key="cbt_mana_leprosorium" value="Léprosorium" />
+  <Key key="cbt_slave_pit" value="Fosse de combat esclave" />
+  <Key key="cbt_savage_hermit" value="Ermite sauvage" />
+  <Key key="cbt_meeting_shaman" value="Rencontrer chaman" />
+  <Key key="cbt_peaceful_village" value="Village paisible" />
+  <Key key="cbt_under_coil" value="Homme sous la bobine" />
+  <Key key="cbt_satellite" value="Satellite d'amour" />
+  <Key key="cbt_svi_refugee_giver" value="Camp de réfugiés" />
+  <Key key="cbt_svi_refugee_kill" value="Tuer des foules dans un camp de réfugiés" />
+  <Key key="cbt_svi_refugee_gather" value="Rassemblage dans un camp de réfugiés" />
+  <Key key="cbt_svi_refugee_bosskill" value="Boss des réfugiés tuer" />
+  <Key key="cbt_svi_skeletons_giver" value="Trouver des squelettes" />
+  <Key key="cbt_svi_skeletons_gather" value="Rassembler l'électronique" />
+  <Key key="cbt_svi_skeletons_item" value="Tuer des robots" />
+  <Key key="cbt_svi_skeletons_boss" value="Tuer des squelettes" />
+  <Key key="cbt_svi_farm_giver" value="Gars du jeu vidéo" />
+  <Key key="cbt_svi_farm" value="Tanking de mana" />
+  <Key key="cbt_svi_farm2" value="Capture de mouvement" />
+  <Key key="cbt_svi_pier_giver" value="Gabe sans-abri" />
+  <Key key="cbt_svi_pier" value="Baril" />
+  <Key key="cbt_second_village_intro" value="Intro de deuxième village" />
+  <Key key="cbt_bring_part_new_2" value="Randonnée" />
+  <Key key="cbt_svi_take_number" value="Take a number" />
+  <Key key="cbt_svi_reboot" value="Redémarrez-le" />
+  <Key key="cbt_svi_approves" value="Triple oui" />
+  <Key key="cbt_svi_doctor" value="Quoi de neuf doc" />
+  <Key key="cbt_svi_banker" value="L'argent parle" />
+  <Key key="cbt_svi_guard" value="Roi im-poster" />
+  <Key key="cbt_svi_tavern" value="Taverne" />
+  <Key key="cbt_svi_art_crafting" value="Joe à un bras" />
+  <Key key="cbt_behind_wall" value="Derrière le mur" />
+  <Key key="cbt_hwy_hub3_unusual_witness" value="Témoin inhabituel" />
+  <Key key="cbt_hub3_to_manastation" value="À la station mana" />
+  <Key key="cbt_hub3_fire" value="Feu" />
+  <Key key="cbt_hub3_aid" value="PREMIERS SECOURS" />
+  <Key key="cbt_hub3_power" value="Électricité" />
+  <Key key="cbt_hub3_help" value="Aidez la station de mana" />
+  <Key key="cbt_hub3_general" value="Le général" />
+  <Key key="cbt_hub3_scientist" value="Le scientifique" />
+  <Key key="cbt_hub3_merchant" value="Merchant" />
+  <Key key="cbt_hub3_cleaning" value="Terrains de nettoyage" />
+  <Key key="cbt_hub3_manapump" value="Placer du mana-pompe" />
+  <Key key="cbt_hub3_defence" value="Protéger du mana-pompe" />
+  <Key key="cbt_hub3_scouting" value="Scoutisme dans la forêt de mana" />
+  <Key key="cbt_hub3_disguise" value="Rassembler des déguisements" />
+  <Key key="cbt_hub4_chief" value="Rencontrer le chef" />
+  <Key key="cbt_hub4_delivery" value="Livrer un message" />
+  <Key key="cbt_hub4_duel" value="Duel dans la forêt" />
+  <Key key="cbt_hub3_pipes" value="Pose de mana-pipes" />
+  <Key key="cbt_hub3_alcoholism" value="Boisson forte" />
+  <Key key="cbt_hub3_feed_beast" value="Pour nourrir la bête" />
+  <Key key="cbt_hub3_porta_potty" value="Transition vers Porta-Potty" />
+  <Key key="cbt_password_manager" value="Gestionnaire de mots de passe" />
+  <Key key="cbt_marry_tree" value="Mariage dans un arbre" />
+  <Key key="cbt_prison_case" value="Affaire de prison" />
+  <Key key="cbt_hub3_meet_general" value="Rencontrer le général" />
+  <Key key="cbt_hub3_rescue" value="Sauvetage" />
+  <Key key="cbt_hub3_mana_smugglers" value="Passants de mana" />
+  <Key key="cbt_hub3_scientist_helper" value="Aide scientifique" />
+  <Key key="cbt_hub3_poi" value="Visites forestières" />
+  <Key key="cbt_hub3_collector" value="Hunter d'artefact facile" />
+  <Key key="cbt_hub3_surveillance" value="Surveillance" />
+  <Key key="cbt_hub3_collector2" value="Hunter d'artefact Normal" />
+  <Key key="cbt_hub3_collector3" value="HURDER DE L'ARTIFACT" />
+  <Key key="cbt_hub3_menu_collector" value="Chasseur d'artefact" />
+  <Key key="video_itemization" value="Présentation de Corepunk" />
+  <Key key="cbt_test_journey_discovery" value="Florat extraterrestre: un voyage de découverte" />
+  <Key key="cbt_cosmic_coordinates" value="Mission Imp- possible: Chips hors monde" />
+  <Key key="cbt_journey_discovery" value="Extraterrestrial Flora: A Journey of Discovery" />
+  <Key key="cbt_greta's_grudging" value="Greta à contrecœur Gourd Gourd" />
+  <Key key="cbt_greta_grudging_gourd" value="Greta à contrecœur Gourd Gourd" />
+  <Key key="cbt_test_brew_new_world" value="Tester le nouveau monde courageux" />
+  <Key key="newcomer_paperwork_goldenfield" value="Brave New World - Bienvenue à Kwalat" />
+  <Key key="farmer_robot_fueling" value="Greta à contrecœur Gourd Gourd" />
+  <Key key="to_the_moon_via_the_fields" value="À la lune, via les champs" />
+  <Key key="artifact_vendor_order" value="Le dilemme du scribe" />
+  <Key key="bones_exhumation_reburial" value="Reposez en paix" />
+  <Key key="focus_fuel_issue" value="Concentrer le carburant" />
+  <Key key="pig_crossbreed_experiment" value="Gonades grotesques" />
+  <Key key="feed_the_lock" value="Nourrir le troupeau" />
+  <Key key="cosmic_concotion_ingredients" value="Concoction cosmique" />
+  <Key key="family_recipe_ingredients" value="Un goût de la maison" />
+  <Key key="bread_making_lesson" value="Brave New World - l'indépendance de la cuisson" />
+  <Key key="alcohol_delivery" value="Bières et blues" />
+  <Key key="restorative_campfire_craft" value="Foyer sain" />
+  <Key key="agricultural_bots_refuel" value="Faire le plein de mes collègues machines" />
+  <Key key="wooden_deer_hunt" value="Étude du cerf en bois" />
+  <Key key="dendroid_guard_hunt" value="Démantèlement du gardien dendroid" />
+  <Key key="young_woodraptor_hunt" value="La situation difficile de Woodraptor" />
+  <Key key="precious_stones_mining" value="Gloire de pierre précieuse" />
+  <Key key="radioactive_isotope_mining" value="Rendez-vous radioactif" />
+  <Key key="lost_crew_search" value="Perdu dans l'espace ... et le temps" />
+  <Key key="neon_mushrooms_gethering" value="Bounty de la forêt" />
+  <Key key="aircraft_accident_searching" value="Brave New World: The Final Test" />
+  <Key key="imp_brain_hunt" value="Face à la flamme" />
+  <Key key="campfire_crafting_lesson" value="Une étincelle dans l'obscurité" />
+  <Key key="heartwood_gethering" value="Coeur des bois" />
+  <Key key="mining_lesson" value="Sagesse dans les rochers" />
+  <Key key="logging_lesson" value="Sagesse dans les bois" />
+  <Key key="lost_stock_recovery" value="Des temps élevés et des leçons dures" />
+  <Key key="lost_mind_recovery" value="Effacer les têtes et les correctifs rapides" />
+  <Key key="butchery_lesson" value="Une leçon de boucher" />
+  <Key key="herbalism_lesson" value="Une faveur de la noisette" />
+  <Key key="alchemist_lesson" value="Certificat contrefait" />
+  <Key key="weaponsmithing_lesson" value="Ingénierie explosive" />
+  <Key key="mysticism_lesson" value="Souviens-toi du mystique" />
+  <Key key="construction_lesson" value="Problèmes d'implantation" />
+  <Key key="monochrome_gardening_goldenfield" value="Deux couleurs" />
+  <Key key="fixing_leaking_pipes" value="Pas de pression" />
+  <Key key="yogas_routine_problem" value="Œufs pour le petit déjeuner" />
+  <Key key="hungry_master" value="La faim brûlante" />
+  <Key key="proving_your_worth" value="Brave New World - Programme de bien-être" />
+  <Key key="crafting_lessons" value="Brave New World - Création de compétence" />
+  <Key key="secure_the_assets" value="Sécuriser les actifs" />
+  <Key key="robot_details_gathering" value="Réparation du Reaper" />
+  <Key key="main_next_lessons" value="Brave New World: Hearts and Minds" />
+  <Key key="finding_old_hag" value="Travail cadre" />
+  <Key key="killig_creatures_field_robot" value="Garder la paix" />
+  <Key key="collect_bottles" value="Bibelots toxiques" />
+  <Key key="mana_tech_power" value="Pouvoir de mana-tech" />
+  <Key key="hunt_leaf_creatures" value="Mission Imp- possible: incendie" />
+  <Key key="getting_the_account" value="Masqueur de méfait" />
+  <Key key="back_to_bigg_mama" value="Un peu d'aide d'amis" />
+  <Key key="mission_first_step" value="Mission IMPSIBLE" />
+  <Key key="get_weapon" value="Mission IMPSIBLE: Arme ultime" />
+  <Key key="bank_withdrawal_connection" value="Faire un retrait" />
+  <Key key="killing_dreads" value="Dans les bois" />
+  <Key key="mystery_of_mary_jane" value="Mystère de Mary Jane" />
+  <Key key="confiscated_confections" value="Confections confisquées" />
+  <Key key="natures_redemption" value="Rachat de la nature" />
+  <Key key="the_guards_dilemma" value="Le dilemat du gardien" />
+  <Key key="package_pilfered" value="Package pilé" />
+  <Key key="the_hunt_for_green_puff" value="La chasse à la bouffée verte" />
+  <Key key="lost_page_of_power" value="Page de pouvoir perdue" />
+  <Key key="pages_to_protect" value="Pages pour protéger" />
+  <Key key="wet_paper" value="Wet Paper" />
+  <Key key="glimmers_of_the_past" value="Scintille du passé" />
+  <Key key="fragments_of_the_forgotten" value="Fragments de l'oubli" />
+  <Key key="gathering_the_fragmented" value="Rassembler les fragmentés" />
+  <Key key="eggcellent_substitution" value="Substitution vitale des œufs" />
+  <Key key="seasoned_delicacy" value="Délicatesse assaisonnée" />
+  <Key key="culinary_diplomacy" value="Diplomatie culinaire" />
+  <Key key="lawsuit_of_the_lake" value="Procès du lac" />
+  <Key key="a_fateful_bet" value="Un pari fatidi" />
+  <Key key="diamond_eyes" value="Eyes de diamant" />
+  <Key key="from_seaonna_with_love" value="De la mer avec amour" />
+  <Key key="the_sirens_temptation" value="La tentation de la sirène" />
+  <Key key="tides_of_vengeance" value="Marées de vengeance" />
+  <Key key="heartbreak_waters" value="Eaux de chagrin" />
+  <Key key="amplify_the_catch" value="Amplifier la capture" />
+  <Key key="fish_prophets_decree" value="Décret du prophète de poisson" />
+  <Key key="vanitys_elixir" value="Elixir de Vanity" />
+  <Key key="beauty_in_the_mud" value="Beauté dans la boue" />
+  <Key key="the_fishermans_bash" value="Le bash du pêcheur" />
+  <Key key="catch_of_the_day" value="Prise du jour" />
+  <Key key="a_fishy_summons" value="Une convocation de poisson" />
+  <Key key="the_case_against_triton" value="L'affaire contre Triton" />
+  <Key key="mounting_evidence" value="Des preuves de montage" />
+  <Key key="unsavory_evidence" value="Preuve peu recommandable" />
+  <Key key="questionable_evidence" value="Preuve douteuse" />
+  <Key key="the_final_verdict" value="Le verdict final" />
+  <Key key="portal_perils" value="Périls portail" />
+  <Key key="portal_restorations" value="Restaurations de portail" />
+  <Key key="spore-tal_power" value="Puissance de spore-tal" />
+  <Key key="bridging_realms_with_friends" value="Brider les royaumes avec des amis" />
+  <Key key="the_painted_betrayal" value="La trahison peinte" />
+  <Key key="decrypting_betrayal" value="Décriture de la trahison" />
+  <Key key="obscured_intentions" value="Intentions obscurcies" />
+  <Key key="fungal_phobia" value="Phobie fongique" />
+  <Key key="no_witnesses_to_glory" value="Aucun témoin de la gloire" />
+  <Key key="fungal_devotion" value="Dévotion fongique" />
+  <Key key="funds_of_faith" value="Fonds de foi" />
+  <Key key="kill_the_maker" value="Tuer le fabricant" />
+  <Key key="pass_the_butter" value="Passer le beurre" />
+  <Key key="juricksic_quest" value="Quête juricte" />
+  <Key key="portal_purge_parade" value="Portal Purge Parade" />
+  <Key key="digging_deeper" value="Creuser plus profond" />
+  <Key key="mystery_of_the_masks" value="Mystère des masques" />
+  <Key key="whispers_in_the_woods" value="Chuchotement dans les bois" />
+  <Key key="unmasking_the_conspiracy" value="Démasquer le complot" />
+  <Key key="infiltrating_ironhand" value="Infiltration" />
+  <Key key="the_heart_of_the_forest" value="Le cœur de la forêt" />
+  <Key key="glimmer_of_innovation" value="Lueur d'innovation" />
+  <Key key="nuts_for_the_stew" value="Noix pour le ragoût" />
+  <Key key="strange_green_pots" value="Étranges pots verts" />
+  <Key key="the_big_reveal" value="La grande révélation" />
+  <Key key="beneath_the_surface" value="Sous la surface" />
+  <Key key="desperate_depths" value="Profondeurs désespérées" />
+  <Key key="something_suspicious" value="Quelque chose de suspect" />
+  <Key key="unveiling_dark_secrets" value="Dévoiler des secrets sombres" />
+  <Key key="echoes_of_paranoia" value="Échos de paranoïa" />
+  <Key key="phantom_fragment_recovery" value="Récupération des fragments fantômes" />
+  <Key key="a_prank_too_far" value="Une farce trop loin" />
+  <Key key="revenge_of_the_rabbit" value="Vengeance du lapin" />
+  <Key key="feathers_and_fury" value="Plumes et fureur" />
+  <Key key="fowl_play" value="Joueur de volaille" />
+  <Key key="the_pranksters_peace" value="La paix du farceur" />
+  <Key key="its_just_a_prank_bro" value="C'est juste une farce, mon frère!" />
+  <Key key="herbal_remedy" value="Remède à base de plantes" />
+  <Key key="the_real_culprit" value="Le vrai coupable" />
+  <Key key="the_little_terror" value="La petite terreur" />
+  <Key key="a_special_meal_for_timmy" value="Un repas spécial pour Timmy" />
+  <Key key="desperate_for_dendroid" value="Désespéré pour Dendroid" />
+  <Key key="farmyard_mayhem" value="Mayhem de la ferme" />
+  <Key key="the_art_of_deception" value="L'art de la tromperie" />
+  <Key key="breaking_the_chains" value="Briser les chaînes" />
+  <Key key="guarding_green" value="Gardant le vert" />
+  <Key key="guarding_fortunes" value="Garder les fortunes" />
+  <Key key="a_question_of_honor" value="Une question d'honneur" />
+  <Key key="disorderly_consequences" value="Conséquences désordonnées" />
+  <Key key="lost_signal" value="Signal perdu" />
+  <Key key="corruption_clean-up" value="Nettoyage de la corruption" />
+  <Key key="the_last_order" value="La dernière commande" />
+  <Key key="darkwood_dilemma" value="Dilemme de Darkwood" />
+  <Key key="hidden_menace" value="Menace cachée" />
+  <Key key="behind_enemy_lines" value="Derrière les lignes ennemies" />
+  <Key key="whispers_in_the_dark" value="Murmures dans l'obscurité" />
+  <Key key="spiritual_cleansing_the_fragrant_gel" value="Nettoyage spirituel: le gel parfumé" />
+  <Key key="spiritual_cleansing_rocks_and_a_hard_place" value="Nettoyage spirituel: rochers et un endroit dur" />
+  <Key key="spiritual_cleansing_the_ruby_of_vitality" value="Nettoyage spirituel: le rubis de la vitalité" />
+  <Key key="a_toast_to_enlightenment" value="Un toast aux Lumières" />
+  <Key key="a_piece_of_zen" value="Un morceau de zen" />
+  <Key key="a_blooming_melon-drama" value="Un melon-drame en fleurs" />
+  <Key key="beggars_cant_be_roasters" value="Les mendiants ne peuvent pas être des torréfacteurs" />
+  <Key key="check_yourself_before_you_drek_yourself" value="Vérifiez-vous avant de vous rek vous-même" />
+  <Key key="eggcellent_solution" value="Solution biselleuse" />
+  <Key key="eggplant_extravaganza" value="Aubergine" />
+  <Key key="herb_your_enthusiasm" value="Herb ton enthousiasme" />
+  <Key key="eye_see_you" value="L'oeuil te voit" />
+  <Key key="oil_be_back" value="L'huile est de retour" />
+  <Key key="percivals_restorative_ointment" value="La pommade réparatrice de Percival" />
+  <Key key="rat-ical_blockchain_solutions" value="Solutions de blockchain rat-iicales" />
+  <Key key="security_measures" value="Mesures de sécurité" />
+  <Key key="shell_we_eat" value="Coquille que nous mangeons?" />
+  <Key key="star-powered_shot" value="Tir à étoile" />
+  <Key key="supply_and_command" value="Fourniture et commande" />
+  <Key key="the_laid_lovers_locket" value="Le médaillon de l'amant laid" />
+  <Key key="the_sweet_escape" value="La douce évasion" />
+  <Key key="thread_the_needle_warm_the_soul" value="Enfiler l'aiguille, réchauffer l'âme" />
+  <Key key="vase_of_the_cracked-tastrophe" value="Vase de la tastrophe fissurée" />
+  <Key key="vermin_extermination" value="Extermination de la vermine" />
+  <Key key="wood_you_believe_it" value="Bois que vous le croyez?" />
+  <Key key="thistlebrooks_terrifying_task" value="La tâche terrifiante de Thartlebrook" />
+  <Key key="glimmering_intent" value="Intention scintillante" />
+  <Key key="threads_of_fate" value="Sujets du destin" />
+  <Key key="the_meat_of_the_matter" value="La viande de la question" />
+  <Key key="a_taste_of_the_unusual" value="Un avant-goût de l'inhabituel" />
+  <Key key="unbottling_mercy" value="Miséricorde à contre-coincement" />
+  <Key key="explosive_revenge" value="Vengeance explosive" />
+  <Key key="petrified_snack" value="Collation pétrifiée" />
+  <Key key="unmasking_the_impostor" value="Démasquer l'imposteur" />
+  <Key key="neon_intervention" value="Intervention néon" />
+  <Key key="exit_stage_left" value="Stage de sortie à gauche" />
+  <Key key="toxic_ambition" value="Ambition toxique" />
+  <Key key="strumming_sorrow" value="Gratter le chagrin" />
+  <Key key="the_melody_of_misfortune" value="La mélodie du malheur" />
+  <Key key="law_and_order_protocols" value="Protocoles d'ordre public" />
+  <Key key="a_taste_to_die_for" value="Un goût pour mourir pour" />
+  <Key key="bytes_calling_card_investigation" value="Enquête sur la carte d'appel de l'octet" />
+  <Key key="exotic_attire_acquisition" value="Acquisition de tenues exotiques" />
+  <Key key="the_matricidal_theory" value="La théorie matricide" />
+  <Key key="the_elusive_cheese" value="Le fromage insaisissable" />
+  <Key key="mana_market_resupply" value="Réapprovisionnement du marché du mana" />
+  <Key key="a_fortune_forewarned" value="Une fortune prévenue" />
+  <Key key="feeding_frenzy" value="Feeding Frenzy" />
+  <Key key="a_nutty_situation" value="Une situation de noisette" />
+  <Key key="lucky_love" value="Amour chanceux" />
+  <Key key="secrets_beneath" value="Secrets en dessous" />
+  <Key key="cigar_tales_with_grizzly_obrien" value="Contes de cigares avec Grizzly O'Brien" />
+  <Key key="snail_trail" value="Sentier d'escargot" />
+  <Key key="heartbeat_of_the_party" value="Raie du cœur de la fête" />
+  <Key key="scattered_collectibles" value="Objets de collection dispersés" />
+  <Key key="grimbletons_great_recipe_hunt" value="La grande chasse de recettes de Grimbleton" />
+  <Key key="rehearsed_sabotage" value="Sabotage répété" />
+  <Key key="slippery_passage" value="Passage glissant" />
+  <Key key="threading_the_dream" value="Enliter le rêve" />
+  <Key key="rock_and_keg_roll" value="Rock et Kleg Roll" />
+  <Key key="a_sharp_donation" value="Un don net" />
+  <Key key="price_of_punishment" value="Prix ​​de la punition" />
+  <Key key="love_potion_no_9" value="Potion d'amour n ° 9" />
+  <Key key="clean_up_on_bong_island" value="Nettoyer sur l'île de Bong" />
+</Node>

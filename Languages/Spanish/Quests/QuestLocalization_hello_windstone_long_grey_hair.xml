@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_windstone_long_grey_hair" type="external">
+  <Key key="_npc_Greetings__My_eyesight_isn_t_w" value="¡Saludos!Mi vista no es lo que solía ser.¿Te conozco?" voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Who_is_there__Eric__you_lazy_r" value="¿Quién está ahí?Eric, Reptile Reptile, ¿eres tú?" voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_I_know_your_loud_angry_footste" value="Conozco tus fuertes pasos enojados, Eddie.¿Cómo están los cultivos?" voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_You_do_not_sound_like_either_o" value="No suenas como ninguno de mis hijos.¿Quién eres?" voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+  <Key key="_npc_Hello__Who_are_you__I_m_blind_" value="¡Hola!¿Quién eres?Soy ciego como un bate.¡Anunciar a ti mismo, maldita sea!" voiceSettingsId="pi7rlBAZRdDA1GSULQdp" />
+</Node>

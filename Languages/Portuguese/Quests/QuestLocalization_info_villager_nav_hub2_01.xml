@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_villager_nav_hub2_01" type="external">
+  <Key key="_npc_" value=" " voice="Female" />
+  <Key key="player_What_are_you_doing_" value="What are you doing?" />
+  <Key key="_npc_Getting_our_stuff_ready_to_be_" value="Preparando nossas coisas para serem vendidas na cidade.Vou percorrer o segundo hub no caminho até lá." voice="Female" />
+  <Key key="_npc_Oh__it_s__color__green___b_str" value="Oh, é direto na estrada, não há como se perder." voice="Female" />
+</Node>

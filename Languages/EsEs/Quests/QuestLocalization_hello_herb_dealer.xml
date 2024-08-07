@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_herb_dealer" type="external">
-  <Key key="_npc_Blessings__my_friend_" value="Blessings, my friend." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
-  <Key key="_npc_Peace_and_love__man_" value="Paz y amor, hombre." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
-  <Key key="_npc_Feeling_irie_" value="¿Te sientes irie?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
-  <Key key="_npc_Jah_Rastafari_" value="Jah Rastafari!" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
-  <Key key="_npc_Find_any_herbs__mon_" value="Encontrar hierbas, lun?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
-  <Key key="_npc_You_green_" value="¿Eres verde?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
-</Node>

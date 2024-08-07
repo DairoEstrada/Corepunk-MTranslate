@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_old_tourist" type="external">
+  <Key key="_npc_Well__hot_damn__I_m_Hank_McAll" value="Eh bien, chaud!Je suis Hank McAllister." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_I_got_sucked_outta_my_cushy_va" value="J'ai été aspiré hors de mes vacances confortables dans un paradis inversé de ce shithole." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Over_in_my_old_haunt__there_we" value="Dans mon vieux repaire, il n'y avait pas de monstres, pas de travail juste un tout un soleil, du surf et de l'alcool." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Kinda_miss_it__not_gonna_lie_" value="Ça ne manque pas, je ne vais pas mentir." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_But_hey__who_needs_all_that_la" value="Mais bon, qui a besoin de toute cette détente paresseuse quand vous avez une aventure en attente, non?" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Aw__you_know__I_m_doing_just_p" value="Aw, tu sais, je fais juste Peachy, merci pour avoir demandé." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_I_was_traveling_with_a_brave_a" value="Je voyageais avec un courageux aventurier ces dernières semaines." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_He_died_tryin__to_clear_the_wa" value="Il est mort en essayant de ouvrir la voie à Crypt City." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Poor_bastard_didn_t_stand_a_sn" value="Le pauvre salaud n'a pas tenu une chance de boule de neige en enfer, bénis son cœur." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Monsters_out_there_are_tough_a" value="Les monstres sont durs comme des ongles et plus méchants qu'un serpent à sonnette dans une onde de chaleur." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_But_hey__you_look_strong__I_be" value="Mais bon, tu as l'air fort!Je parie que vous pourriez les battre." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_If_you_make_it_back__I_ll_even" value="Si vous revenez, j'aurai même un froid pour vous attendre!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_So_many_trees__and_I_mean_so_m" value="Tant d'arbres, et je veux dire tellement d'arbres." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Looks_like_nature_went_on_a_be" value="On dirait que la nature est allée sur une cintreuse et les a tous vomies, hein?" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_But_hey__it_s_got_that_rustic_" value="Mais bon, c'est ce charme rustique et pittoresque." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Like_one_of_those_fancy_ass_po" value="Comme une de ces cartes postales fantaisie, vous envoyez votre grand-mère." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Honestly__I_don_t_know_shit_be" value="Honnêtement, je ne connais pas la merde au-delà de ça." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_I_was_drunk_during_the_tour_" value="J'étais ivre pendant la tournée." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Oh_hell_yeah_" value="Oh putain, oui!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_You_re_a_goddamn_lifesaver__pa" value="Vous êtes un putain de sauvetage, partenaire!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Damn_straight_I_could_use_a_ha" value="Sacrément droit, je pourrais utiliser une main." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Knew_you_were_a_frickin__hero_" value="Je savais que tu étais un héros frickin!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_You_bet_your_sweet_ass_I_need_" value="Vous pariez votre doux cul, j'ai besoin d'aide!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_A_knight_in_shining_armor__onl" value="Un chevalier en armure brillante, seulement plus badass!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_You_re_just_the_hero_this_shit" value="Vous êtes juste le héros dont ce shithole a besoin!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_You_certainly_seem_strong_" value="Vous semblez certainement fort!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_From_a_brave_adventurer_like_y" value="D'un courageux aventurier comme vous?Bon!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_No_fuckin__way__bud_" value="Pas de putain de manière, mon pote!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Gonna_sit_tight_and_finish_my_" value="Je vais m'asseoir serré et finir ma putain de bière." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Some_poor_bastard_already_sign" value="Un pauvre salaud s'est déjà inscrit à la patrouille Doom." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_I_m_just_here_enjoying_my_brew" value="Je suis juste ici en train de profiter de mon Brewski." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Oh__hell_naw_" value="Oh, Hell Naw!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Already_got_someone_out_there_" value="Déjà que quelqu'un danse avec danger." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Time_for_me_to_just_kick_back_" value="Il est temps pour moi de simplement me détendre et de chuger cette bière." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Fuck_no__partner_" value="Baise non, partenaire!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Some_other_hero_s_out_playing_" value="Un autre héros joue à Monster Bait." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_I_m_kickin__back_with_my_favor" value="Je suis en arrière avec mon breuvage préféré." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Nah__don_t_worry__bout_it_" value="Non, ne t'inquiète pas de ça!" voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+  <Key key="_npc_Some_lunatic_already_took_up_t" value="Certains fous ont déjà relevé le défi." voiceSettingsId="KTPVrSVAEUSJRClDzBw7" />
+</Node>

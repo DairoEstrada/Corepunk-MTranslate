@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_npc_vendor_kain" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Sorry__what__Can_t_hear_you_in" value="Pardon quoi?Je ne peux pas vous entendre dans ce costume.Les toilettes sont là-bas." voice="Male" />
+  <Key key="_npc_Yeah__I_think_that_too__Real_n" value="Ouais, je pense que ça aussi.Véritable endroit.Gardez juste vos distances, d'accord?" voice="Male" />
+  <Key key="_npc_I_m_kinda_busy_here_with_my_jo" value="Je suis un peu occupé ici avec mon travail, d'accord?Gardant tous ces responsables de Leithanien satisfait de mes rapports sur vous OutWorlders." voice="Male" />
+</Node>

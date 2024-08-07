@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_junkhead" type="external">
+  <Key key="_npc_You_feeble_worm__What_did_you_" value="Vous faiblez de ver.Comment m'avez-vous appelé?Vous l'avez entendu?Cette pépins vient de m'appeler Junkhead.C'est M. Junkhead, vous dégénérez!Merci, je suis de bonne humeur aujourd'hui, vous baise." voice="Male" />
+</Node>

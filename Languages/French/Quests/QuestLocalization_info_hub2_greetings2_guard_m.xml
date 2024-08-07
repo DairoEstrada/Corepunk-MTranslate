@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hub2_greetings2_guard_m" type="external">
+  <Key key="_npc_You_know__those_dirty_outies_f" value="Vous savez, ces sorties sales du camp migrant sont considérées comme une menace par beaucoup de nos gens.J'aimerais que nous puissions simplement les napalm et tous les problèmes auraient disparu." voice="Male" />
+  <Key key="_npc_It_s_to_the_West__by_the_road_" value="C'est à l'ouest, près de la route.Mais je conseillerais d'aller là-bas si vous ne voulez pas être agressé ou violé." voice="Male" />
+</Node>

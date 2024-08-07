@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_goldenfield_banker" type="external">
+  <Key key="_npc_I_am_Oswald__your_trusted_repr" value="Je suis Oswald, votre représentant de confiance de la banque de Leitana ici à Goldenfield.Un nom sur lequel vous pouvez vous mettre en place!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_My_family_has_held_the_financi" value="Ma famille tient les rênes financières depuis des générations et je suis ici pour vous offrir les mêmes services bancaires fiables." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Well__unless_you_re_an_outworl" value="Eh bien, sauf si vous êtes un ou vous êtes un ouvré.Ils ont tendance à mourir ... un peu rapidement pour nos services." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_The_golden_waves_of_grain_unde" value="Les vagues d'or de grain sous le soleil de Kwalat sont un spectacle à voir." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Don_t_forget_to_visit_our_lege" value="N'oubliez pas de visiter nos champs de blé légendaires.Ils s'étendent en ce qui concerne l'œil." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Goldenfield__a_charming_town_i" value="Goldenfield, une ville charmante en effet.Une corne d'abondance de marchandises de différentes réalités." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_But_I_persevere__because_the_l" value="Mais je persévérez, parce que les habitants de Goldenfield comptent sur moi!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Being_a_banker_on_Kwalat_is_no" value="Être banquier sur Kwalat n'est pas facile, je vous assure.Je veux dire, ce n'est pas exactement Wall Street." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_With_the_portals_spewing_inter" value="Avec les portails qui crachent des voyageurs inter-universitaires à gauche et à droite, mon travail ressemble plus à la baby-sitting qu'à la banque." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Just_recently__a_flying_contra" value="Tout récemment, un accident de l'engin volant a terminé dans la forêt.Les gens ont déclaré avoir vu un pilier de fumée au nord du centre des bois de Westwind." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_The_constant_influx_of_newcome" value="L'afflux constant de nouveaux arrivants du portail apporte également une pléthore d'histoires et d'agacement fascinants." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Nearly_every_local_in_Goldenfi" value="Presque tous les locaux de Goldenfield bénéficient de ma banque et dans le processus, je suis devenu au courant de nombreux contes intrigants." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Except_for_when_you____portal_" value="Sauf quand vous ... les gens du portail ... les traversent partout." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_ll_keep_your_valuables_secur" value="Je garderai vos objets de valeur en sécurité et vos inquiétudes financières à distance.Et je vous garantis, aucun bot de stockage ne peut correspondre à la touche personnelle que j'offre!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_That_s_a_shame__The_safety_of_" value="C'est une honte.La sécurité de nos actifs repose sur votre aide." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Well__I_can_t_force_you__But_r" value="Eh bien, je ne peux pas vous forcer.Mais rappelez-vous, le temps est de l'essence." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Oh__that_s_unfortunate__I_ll_a" value="Oh, c'est malheureux.Je vais vous ajouter à la liste des suspects." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Nevertheless__I_want_to_reinfo" value="Néanmoins, je veux renforcer le coffre-fort de la banque.Pour cela, j'ai besoin d'alliages métalliques solides." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_aren_t_one_of_them__are_yo" value="Vous n'en êtes pas un ... n'est-ce pas?Hmmm..." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_received_a_disturbing_tip_th" value="J'ai reçu un conseil inquiétant que certains bandits Outworlder prévoient de voler notre banque.Je ne peux pas laisser cela se produire." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Can_t_even_be_bothered_to_expl" value="Vous ne pouvez même pas être dérangé de vous explorer, n'est-ce pas?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_ll_be_watching_you_" value="Je te regarderai." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Yes__there_s_a_matter_of_some_" value="Oui, il y a une question d'urgence qui doit être résolue." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Indeed__I_have_a_task_that_req" value="En effet, j'ai une tâche qui nécessite vos compétences." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_All_s_well_on_the_banking_fron" value="Tout va bien sur le front bancaire, merci." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_No_help_needed_at_the_moment__" value="Aucune aide nécessaire pour le moment, mais je vous garderai à l'esprit." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_have_things_under_control_fo" value="J'ai des choses sous contrôle pour le moment, mais j'apprécie votre offre." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Matter_of_fact__I_could_use_so" value="En fait, je pourrais utiliser une certaine aide." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Sadly__you_can_t_be_trusted_" value="Malheureusement, on ne peut pas vous faire confiance." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_hope_they_wrote_up_a_will_an" value="J'espère qu'ils ont rédigé un testament et acheté une assurance." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Do_tread_carefully_if_you_find" value="Faites preuve de prudence si vous vous retrouvez à vous diriger de cette façon." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Prove_you_aren_t_part_of_the_h" value="Prouvez que vous ne faites pas partie du braquage.Apportez-moi des lingots de fer et du bois traité des ressources autour de Kwalat." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_The_building_west_of_here_is_t" value="Le bâtiment à l'ouest d'ici est le bureau, où ils gèrent l'inscription des nouveaux arrivants." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Adjacent_to_it__you_will_disco" value="Adjacent, vous découvrirez le café rôti doré - la seule source d'une boisson chaude pour des kilomètres." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_West_from_the_cafe__there_s_a_" value="West du café, il y a une femme merveilleuse, Martha Potterson.Elle dirige une cuisine de protection sociale pour les nouveaux arrivants." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_really_should_ask_her_out_on" value="Je devrais vraiment lui demander de sortir un de ces jours." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Spend_some_time_here__and_you_" value="Passez du temps ici, et vous pourriez vous retrouver à vouloir enregistrer votre retourneur dans ce centre animé." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

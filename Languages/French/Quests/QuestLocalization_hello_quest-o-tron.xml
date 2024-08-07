@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_quest-o-tron" type="external">
+  <Key key="_npc_Access_Denied_" value="Accès refusé." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Analysis__Moron_" value="Analyse: crétin." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Greetings__Noob_" value="Salutations, noob." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You_appear_to_be_an_idiot_" value="Vous semblez être un idiot." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Error__You_exist_" value="Erreur: vous existez." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Welcome__dumbass_" value="Bienvenue, idiot." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Alert__You_re_lost_" value="Alerte: vous êtes perdu." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Nice_fleshbag_" value="Joli sac de chair." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

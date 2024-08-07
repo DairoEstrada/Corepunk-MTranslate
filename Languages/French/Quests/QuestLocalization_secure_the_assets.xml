@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_secure_the_assets" type="external">
+  <Key key="_npc_You_re__appreciated__I_ll_be_w" value="Vous êtes ... apprécié.J'attendrai ces matériaux." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Please_hurry_with_those_materi" value="Veuillez vous dépêcher avec ces matériaux.Nous ne pouvons pas nous permettre de perdre du temps." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Any_luck_finding_the_Iron_Ingo" value="Une chance de trouver les lingots de fer et le bois traité?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__the_safety_of_our_ba" value="N'oubliez pas que la sécurité de notre banque dépend de vous." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Wow___I_thought_perhaps_you_we" value="Wow - je pensais que vous étiez peut-être juste ici pour étendre notre coffre-fort." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Perhaps_we_will_reconsider_our" value="Peut-être que nous reconsidérons notre politique sur les comptes OutWorlder." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_And_here__a_reward___perhaps_y" value="Et ici, une récompense - vous envisagerez peut-être de le bancer avec nous." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_resources_iron" value=" " />
+  <Key key="_QuestActionAddToJournal_5nJe" value="Oswald&#10;Goldenfield, banque.&#10;&#10;Apportez des matériaux Oswald pour renforcer le coffre-fort de la banque." />
+  <Key key="_goalVoice_I_m_counting_on_you_to_bring_t" value="Je compte sur vous pour apporter ces matériaux.N'oubliez pas que nous avons besoin de lingots de fer et de bois traité." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_varDescription_TQHV" value="Lingot de fer" />
+  <Key key="_goal_collect_resources_wood" value=" " />
+  <Key key="_varDescription_Px9k" value="Bois traité" />
+  <Key key="_varDescription_OPa7" value="Lingot de fer" />
+  <Key key="_varDescription_fLBH" value="Bois traité" />
+</Node>

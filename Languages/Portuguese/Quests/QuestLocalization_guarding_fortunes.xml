@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_guarding_fortunes" type="external">
+  <Key key="_goal_Kill_mobs" value=" " />
+  <Key key="_npc_Eep__Alright_then__Just__uh__t" value="EEP!Tudo bem então.Só, uh, tente não ter mais problemas, ok?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Gulp____okay__Guess_it_s__um__" value="Gulp ... ok.Acho que é, hum, de volta à prancheta para mim." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goal_talk_npc" value="Return to Themis" />
+  <Key key="_npc_Uh__no_problem__Just__uh__be_c" value="Uh, não há problema.Só, uh, tenha cuidado ... eu realmente não quero que você seja preso!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__um__alright____but__you_kn" value="Oh, hum, tudo bem ... mas, você sabe, meu pai não ficará satisfeito ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_goalVoice_Uh__s_so__um__have_you_seen_an" value="Uh, S-so, um, você já viu algum desses veados de madeira?Eu só queria verificar se você sabe, lidou com eles ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_I__uh__think_this_might_show_m" value="Eu acho que isso pode mostrar ao meu pai que você é, você sabe, uma boa pessoa.O que você acha?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_There_are_these_Wood_Deers__re" value="Existem esses veados de madeira, criaturas realmente desagradáveis, causando muitos problemas por aqui.Se você pudesse, hum, nos ajudar a se livrar de 5 deles, seria uma grande ajuda." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Honestly__you_seem_nice_enough" value="Honestamente, você parece bom o suficiente.Talvez possamos provar isso para ele?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_He_s_adamant_about_arresting_y" value="He's adamant about arresting you. But, thankfully, he's not here right now." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_So__um__my_father__he_s_really" value="Então, um, meu pai, ele está realmente bravo com você por, um, supostamente roubando seu livro." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_But_uh____I_have_some_pretty_b" value="Mas uh ... eu tenho algumas notícias muito ruins para você." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh_dear____this_isn_t_going_to" value="Oh querido ... isso não vai acabar bem, não é?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_QuestActionAddToJournal_Themis_Windreach_Woods__Fort__" value="Themis&#10;Windreach Woods, Fort.&#10;&#10;Ajude a eles a proteger o forte e provar suas boas intenções, eliminando o cervo da madeira." />
+  <Key key="_varDescription_Kill_Wood_Deers" value="Kill Wood Deers" />
+  <Key key="_npc_I_ll__um__definitely_tell_my_d" value="Eu definitivamente vou contar ao meu pai sobre sua bravura.E-e mesmo que eu esteja um pouco com medo de ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Y_You_did_it__I_I_mean__you_re" value="Você fez isso!Eu-eu quero dizer, você realmente fez isso!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_H_Hey__Uh__how_did_it_go_out_t" value="H-hey!Uh, como foi lá fora?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_You_re_really_brave__I_mean__l" value="Você é realmente corajoso.Quero dizer, tipo, super corajoso." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__wow__thank_you__I__um__did" value="Oh, wow, thank you! I, um, didn't think you'd actually do it." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+</Node>

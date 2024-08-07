@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_fungal_phobia" type="external">
+  <Key key="_npc_We_just_need_to_get_Pastor_Faz" value="Nous avons juste besoin de faire courir le pasteur Fazool pour que Lana puisse acheter le terrain." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_He_s_more_scared_of_fungus_tha" value="Il a plus peur des champignons qu'un chat dans une pièce pleine de chaises à bascule.Si nous le voulons ici, nous avons besoin de spores, et beaucoup d'eux." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Time_to_play_mushroom_hunter__" value="Il est temps de jouer au chasseur de champignons!Nous avons besoin de vous pour trouver des champignons néon.Visez cinq, d'accord?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_He_can_t_give_you_any_interdim" value="Il ne peut pas vous donner de secret interdimensionnel, mais si vous avez besoin d'un portail fixe ... peut-être que Lana a une technologie quaddari qui peut faire le travail." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Skipping_out__huh__Guess_Fazoo" value="Sauter, hein?Je suppose que Fazool gagne ce tour.J'espère que vous aimez ses sermons!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Seriously__You_re_scared_of_a_" value="Sérieusement?Vous avez peur d'une petite chasse aux champignons?Fazool rit probablement en ce moment." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_goal_talk_npc" value="Parlez à Lana Cartouche" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Fpyp" value="Recueillir des champignons néon" />
+  <Key key="_npc_Oh_come_on__are_you_gonna_let_" value="Oh allez, tu vas laisser Fazool continuer à faire des cargisons comme s'il dirige cet endroit?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_QuestActionAddToJournal_Lingua__Reverie_Hollow__Freshw" value="Lingua&#10;Reverie Hollow, Well Dowater.&#10;&#10;Aidez Lingua à effrayer le pasteur Fazool en rassemblant des spores fongiques et en les donnant à Lana Cartouche." />
+  <Key key="_npc_Pastor_Fazool__Total_fraud_" value="Pasteur Fazool?Fraude totale." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_varDescription_Collect_Neon_Mushrooms" value="Recueillir des champignons néon" />
+  <Key key="_goalVoice_Hey_mushroom_master__you_got_t" value="Hey Mushroom Master, vous avez encore ces champignons néon?Vous pouvez les trouver dans les arbres magiques.Nous avons besoin de cinq!Imaginez le visage de Fazool quand il voit ces spores grandir.Inestimable!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Bring_me_those_spores__and_we_" value="Apportez-moi ces spores, et nous cultiverons des champignons primo qui enverront un ancien emballage Fazool." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_This_Quaddari_Tech_Device_migh" value="Cet appareil technologique Quaddari pourrait bien être ce dont vous avez besoin pour redémarrer le portail de votre ami.On dit qu'il stabilise les portails erratiques." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Just____don_t_come_crying_to_m" value="Juste ... ne viens pas pleurer sur ce qui en sort." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_It_s_going_to_take_a_bit_for_t" value="Cela va prendre un peu pour que ces spores grandissent et prennent racine, mais quand ils le feront, Fazool sera parti en un rien de temps." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Ah__you_ve_returned__And_with_" value="Ah, vous êtes revenu.Et avec les champignons néon, pas moins." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_You_returned__I_assume_you_re_" value="Tu es revenu.Je suppose que vous êtes de Lingua ... Agent." voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Alright__let_s_make_Fazool_wis" value="Très bien, faisons que Fazool souhaite qu'il soit collé à la culture de tomates à la place!" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+</Node>

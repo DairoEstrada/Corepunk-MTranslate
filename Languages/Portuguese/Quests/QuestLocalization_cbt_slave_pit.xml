@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_slave_pit" type="external">
+  <Key key="_npc_Privet" value="Olá" voice="Male" />
+  <Key key="_goal_search_ppl" value="Encontre um escravo" />
+  <Key key="_QuestActionAddToJournal_6GeD" value="Encontre e me traga uma pessoa" />
+  <Key key="_npc_Chto_ty_mne_khochesh__predlozhit__" value="O que você quer me oferecer?" voice="Male" />
+  <Key key="_goal_go_zone" value="Traga -o para a gangue" />
+  <Key key="_QuestActionAddToJournal_hKK6" value="Leve -o ao ponto" />
+  <Key key="_goal_speak_rab" value="Fale com o escravo" />
+  <Key key="_npc_O_net" value="Oh não" voice="Male" />
+  <Key key="_goal_speak_slaver" value="Fale com um comerciante de escravos" />
+  <Key key="_QuestActionAddToJournal_ccxO" value="Fale com um comerciante de escravos" />
+  <Key key="_npc_Ty_vernulsya" value="Você voltou" voice="Male" />
+  <Key key="_goal_end_quest" value="Fala novamente" />
+  <Key key="_QuestActionAddToJournal_M7kA" value="Multar" />
+  <Key key="_npc_I_chto" value="And what" voice="Male" />
+  <Key key="_npc_Nado_podumat_" value="Preciso pensar" voice="Male" />
+  <Key key="player_Correct_answer" value="Resposta correta" />
+  <Key key="_npc_Ne_uveren__a_ty_mozhesh_" value="Não tenho certeza se você pode" voice="Male" />
+  <Key key="_npc_Net" value="Não" voice="Male" />
+  <Key key="_npc_Khorosho_poydu_s_toboy" value="Ok, eu vou com você" voice="Male" />
+  <Key key="_QuestActionAddToJournal_VFnY" value="Fale com o escravo" />
+</Node>

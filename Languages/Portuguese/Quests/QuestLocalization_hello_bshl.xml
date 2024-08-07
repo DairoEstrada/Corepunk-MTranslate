@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_bshl" type="external">
+  <Key key="_npc_Oh__um__hi___" value="Oh, um, oi ..." />
+  <Key key="_npc_Uh__greetings___" value="Uh, greetings..." />
+  <Key key="_npc_Hello_there___" value="Olá..." />
+  <Key key="_npc_Hi__um____hello_" value="Oi, hum ... Olá!" />
+</Node>

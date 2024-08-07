@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_spade" type="external">
+  <Key key="_npc_Let_s_keep_this_short__alright" value="Gardons cela court, d'accord?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Name_s_Spade__And_you_" value="Spade de nom.Et toi?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_You_re_someone_who_needs_to_fi" value="Vous êtes quelqu'un qui a besoin de trouver une fille différente.J'attends déjà un client." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_And_if_you_screw_this_up__you_" value="Et si vous vous bousculez, vous devrez répondre à Velvet Viper." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Honestly__you_re_interrupting_" value="Honnêtement, vous interrompez mon jeu." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_You_think_our_jobs_are_easy___" value="Vous pensez que nos emplois sont faciles?Parce que les crétins bave sur vous toute la journée vieillit." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Then_again__we_won_t_be_doing_" value="Là encore, nous ne ferons pas encore plus longtemps ..." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_How_the_hell_should_I_know_" value="Comment diable devrais-je savoir?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_The_client_chose_this_place_" value="Le client a choisi cet endroit." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Some_kinda_spot_the_mayor_like" value="Un peu spot que le maire aime ou quelque chose comme ça ..." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Not_now__buzz_off_" value="Pas maintenant, Buzz Off." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Nope__scram_" value="Non, Scram!" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Don_t_need_you_" value="Je n'ai pas besoin de toi." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Wait__is_that_my_client_" value="Attendez, c'est mon client?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Yeah__if_it_means_you_ll_scram" value="Ouais, si cela signifie que vous vous séparerez." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Sure__just_to_get_you_out_of_m" value="Bien sûr, juste pour vous sortir de mes cheveux." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Yes__but_make_it_quick_and_lea" value="Oui, mais faites-le vite et partez." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Fine__but_then_vanish_" value="Très bien, mais disparaît ensuite." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+</Node>

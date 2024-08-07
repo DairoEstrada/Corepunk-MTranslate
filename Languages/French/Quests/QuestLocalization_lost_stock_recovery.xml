@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lost_stock_recovery" type="external">
+  <Key key="_npc_Blessings_upon_you__friend__Ma" value="Bénédictions sur vous, ami.Que Jah guide vos pas." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Don_t_forget_the_Magic_Weeds_a" value="N'oubliez pas les mauvaises herbes magiques et la résine de mana, mec.Laissez Jah vous guider dans votre recherche." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Remember__Magic_Weeds_and_Mana" value="Rappelez-vous, les mauvaises herbes magiques et la résine de mana.Jah soit avec toi." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Keep_those_eyes_peeled_for_the" value="Gardez ces yeux ouverts pour les ingrédients, ami." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Got_them_herbs_yet__man__My_cu" value="Je leur ai encore des herbes, mec?Mes clients attendent." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Jah_bless__You_ve_done_it__man" value="Jah bénisse!Vous l'avez fait, mec.Voici votre récompense." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_goal_collect_resources_weed" value=" " />
+  <Key key="_QuestActionAddToJournal_GihT" value="Racines de Jahri&#10;Goldenfield, à l'ouest de la station-service&#10;&#10;Aidez Jahri à rassembler des ingrédients pour sa cachette." />
+  <Key key="_goalVoice_aRNw" value="N'oubliez pas les mauvaises herbes magiques et la résine de mana, mec.Laissez Jah vous guider dans votre recherche." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_goal_collect_resources_resin" value=" " />
+  <Key key="_varDescription_ZMIE" value="Résine de mana" />
+  <Key key="_varDescription_PDCA" value="Mauvaise herbe magique" />
+  <Key key="_varDescription_QchO" value="Mauvaise herbe magique" />
+  <Key key="_npc_Remember__peace__love__and_alw" value="N'oubliez pas, la paix, l'amour et le respect toujours la nature." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Oh__I_was_supposed_to_give_you" value="Oh, j'étais censé te donner quelque chose?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Guess_I_still_haven_t_sobered_" value="Je suppose que je n'ai toujours pas dégagé.Pourrait avoir besoin d'aide, lun." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_gragthar" type="external">
+  <Key key="_npc_What_the_fuck_do_you_want_" value="¿Qué diablos quieres?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Piss_off_or_buy_something_" value="¡Me enoja o compra algo!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Shit__you_re_back_again_" value="Mierda, ¿estás de vuelta otra vez?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Come_on__get_fat_" value="¡Vamos, ponte gordo!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Don_t_just_stand_there_" value="¡No solo te quedes allí!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Hungry__are_ya_" value="Hambre, ¿estás?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Get_your_ass_over_here_" value="¡Lleva tu trasero aquí!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Time_to_eat__damn_it_" value="¡Es hora de comer, maldita sea!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+</Node>

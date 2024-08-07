@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_explosive_revenge" type="external">
+  <Key key="_goal_talk_npc" value="Parlez à Rusty McDrinkit" />
+  <Key key="_npc_Is_that_more_liquid_gold_for_o" value="Est-ce plus d'or liquide pour Old Rusty?Dites-moi que vous avez de bonnes choses!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_I_knew_you_d_have_the_guts__No" value="Je savais que tu aurais le tripes!Maintenant, donnons à Rusty un avant-goût du vrai feu de Hell!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Explosive_Powder_Jug" value="Collectez la cruche en poudre explosive" />
+  <Key key="_QuestActionAddToJournal_Maverick__Mav__Gritt_Riverrise" value="Maverick &quot;Mav&quot; Gritt&#10;Riverise, camion d'alcool.&#10;&#10;Aidez Maverick 'Mav' Gritt rassembler la poudre explosive pour éliminer Rusty McDrinkit." />
+  <Key key="_goalVoice_Get_off_yer_lazy_ass_and_find_" value="Descendez votre cul paresseux et trouvez ces putain de bouteilles explosives!Vérifiez le putain de boutique TNT à RiverRise.Je ne peux pas manquer ces cruches orange!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Hic__h_hic__what_do_we_have_he" value="HIC, HI-HIC, qu'avons-nous ici?De nouvelles propositions S pour Old Rusty?" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Beep_boop__calculation_c_compl" value="Bip boop, calcul c-complete.DÉLICIEUX." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Drinks_uh__explosives__you_say" value="Boissons euh, explosifs, dites-vous?HIC, vous savez comment surprendre un bot." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_It_has_quite_the_kick__Fortuna" value="Il a tout à fait le coup de pied.Heureusement, je suis une preuve explosive." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Bzzt__bonus_validated__Rusty_s" value="BZZT, bonus validé.Le G-G-Gonna de Rusty s'amuse avec ça, hic." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Recompense_c_c_calibration_com" value="Recompense C-C-Calibration Complete.Apportez Rusty plus d'alcool et vous serez récompensé." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_That_damned_Rusty_McDrinkit_s_" value="Ce damné Rusty McDrinkit est parti et l'a fait maintenant!Bragir mon camion et chouger tout mon alcool." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_m_fed_up_with_that_tin_can_w" value="J'en ai marre de cette boîte à rédiger mon travail." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_m_fixin__to_send_that_scrap_" value="Je suis fixé pour envoyer ce tas de ferraille au Royaume Come.Nous parlons un bon et grand boom avec de la belle poudre explosive." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_need_ya_to_sneak_over_to_the" value="J'ai besoin de vous pour me faufiler dans la boutique TNT et m'attraper une partie de cette poudre explosive dans les bouteilles d'orange." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Take__em_over_to_the_robot__an" value="Emmenez-les au robot, et je vais mettre le feu pour eux pendant qu'il les tient." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Be_quick_and_keep_your_head_do" value="Soyez rapide et gardez la tête baissée, pas besoin d'attirer une chaleur supplémentaire." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Damn_it__You_ain_t_got_the_gut" value="Bon sang!Tu n'as pas les tripes?Très bien, sortez ici!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_To_hell_with_it__I_ll_find_som" value="En enfer avec, je trouverai quelqu'un d'autre avec une colonne vertébrale!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_What_the_hell__Rusty_s_gonna_k" value="Que diable?Rusty va continuer à déchaîner grâce à vous!Git!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+</Node>

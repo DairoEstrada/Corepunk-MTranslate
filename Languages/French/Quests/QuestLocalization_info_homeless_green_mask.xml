@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_homeless_green_mask" type="external">
+  <Key key="_npc_Eustice_Crumble_s_my_name_" value="Eustice Crumble est mon nom!" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_I_was_born_in_a_village_a_coup" value="Je suis né dans un village à quelques centaines de kilomètres de là.Une fois quand j'étais garçon, j'ai avalé un artefact.Ils disent que ça m'a brouillé le cerveau, mais je me semble bien." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_My_village_threw_me_out_becaus" value="Mon village m'a lancé parce que je fume tout le temps et que j'ai eu trop d'amis invisibles." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_I_wandered_a_couple_years_and_" value="J'ai erré quelques années, puis j'ai trouvé cet endroit et les gens à l'intérieur." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_My_pals_here_keep_me_around_be" value="Mes copains ici me gardent parce que je peux trouver des champignons de bite tachetés que nous reniflent." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_You_can_grind__em_into_powder_" value="Vous pouvez les grincer en poudre et les coller aussi dans le caca." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_It_s_a_great_high_until_singin" value="C'est un grand sommet jusqu'à ce que les chauves-souris chantées volent de votre cul et poursuivent les pingouins.Alors tu es triste." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Anyway__Sofia_s_the_boss_cuz_s" value="Quoi qu'il en soit, Sofia est le patron car elle a toutes les médicaments.Tu veux voir ma prostate?" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_I_m_crazy__I_tell_you_" value="Je suis fou, je te le dis!" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_I_live_in_this_retro_boot_with" value="Je vis dans cette botte rétro avec mes amis et pingouins!" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_I_find_shrooms__snort_shrooms_" value="Je trouve des champignons, je renifle des champignons et je joue parfois à un bateau à moteur avec Sofia." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_It_s_a_great_life__if_you_don_" value="C'est une grande vie, si cela ne vous dérange pas de chier dans un seau." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_They_say_it_s_an_old_railroad_" value="Ils disent que c'est une vieille gare ferroviaire, mais cela ressemble à l'intérieur d'un énorme narine pour moi." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Uh_oh__looks_like_it_s_gonna_s" value="Euh oh, on dirait que ça va éternuer!" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Wheeeeee__Feel_the_wind_in_you" value="Wheeeeee!Sentez le vent dans vos cheveux!" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_What_was_the_question_again_" value="Quelle était encore la question?" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Yes__But_only_if_you_re_actual" value="Oui!Mais seulement si vous êtes réellement réel." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Maybe__Are_you_good_at_anythin" value="Peut être.Êtes-vous bon dans quelque chose?Je suis sûr que non." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Sure__Let_s_talk_after_this_pe" value="Bien sûr!Parlons après que ce pingouin s'en va." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_I_guess_so__if_Mr__Twinkles_ov" value="Je suppose que oui, si M. Twinkles là-bas est trop occupé." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_No__You_have_way_too_many_head" value="Non. Vous avez beaucoup trop de têtes." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_I_already_ate_the_evidence_" value="J'ai déjà mangé les preuves." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Nope__I_brung_my_own_" value="Non.J'apporte le mien." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Nobody_can_find_Spotted_Dick_l" value="Personne ne peut trouver une bite tachetée comme moi!" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+</Node>

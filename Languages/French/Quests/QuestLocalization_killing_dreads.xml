@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_killing_dreads" type="external">
+  <Key key="_npc_Saddle_up__soldier__Let_s_show" value="Selle, soldat!Montrons ces dreads qui est le patron." voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_So__did_you_give_those_Dreads_" value="Alors, avez-vous donné à ces dreads un avant-goût de l'hospitalité en flèche?" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_Hot_diggity__You_sent_those_Dr" value="Hot Diggity!Vous avez envoyé ces dreads emballer!" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_Here_s_your_reward__sport__Don" value="Voici votre récompense, Sport.Ne faites pas tout souffler sur de la gomme et des cigares." voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_If_I_had_a_medal__you_d_be_wea" value="Si j'avais une médaille, vous le porteriez maintenant.Bien joué!" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_goal_kill_mobs" value=" " />
+  <Key key="_varDescription_evYj" value="Tuer les dendroides" />
+  <Key key="_QuestActionAddToJournal_gZyi" value="Hank Granger&#10;Goldenfield, près de Tracteur.&#10;&#10;Aider Hank 'Boomstick' Granger à éliminer les Dreads dans les bois de Windreach ou Tempest Timberland." />
+  <Key key="_goalVoice_Just_a_friendly_reminder__Five" value="Juste un rappel amical: cinq dreads doivent être transformés en pudding terrible.STAT.Plus tôt vous les terminez, plus tôt je pourrai me plaindre de mes articulations et de la météo." voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+</Node>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_grizelda" type="external">
+  <Key key="_npc_Hey__fuckface_" value="Ei, foda -se!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Get_the_hell_over_here_" value="Pegue o inferno aqui!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Hungry_for_truth__dearie_" value="Faminto pela verdade, querida?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Wanna_join_my_church_" value="Quer se juntar à minha igreja?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Quit_dicking_around_" value="Pare de dar idiotas!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Come_inside__dearie_" value="Entre, querida!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Help_an_old_lady__will_ya_" value="Ajude uma velha senhora, vai?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Come_closer__dear_" value="Chegue mais perto, querida!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Over_here__now_" value="Aqui, agora!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Ever_think_about_joining_a_chu" value="Já pensou em ingressar em uma igreja?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+</Node>

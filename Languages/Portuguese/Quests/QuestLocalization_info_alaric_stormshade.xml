@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_alaric_stormshade" type="external">
+  <Key key="_npc_I_am_Alaric_Stormshade_" value="Eu sou Alaric Stormshade." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Think_of_me_as_the_last_line_o" value="Pense em mim como a última linha de defesa contra o caos encarnado." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_All_of_these_aliens_coming_fro" value="Todos esses alienígenas vindos de portais não entendem nossas regras, mas vou garantir que eles saibam." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_My_mission_here_in_Windreach_W" value="Minha missão aqui em Windreach Woods é fazer cumprir todas as regras, por mais obscuras." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_If_you_break_any_regulation__b" value="Se você quebrar algum regulamento, tenha certeza, eu descobrirei." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_If_any_of_you_portal_fuckers_t" value="Se algum de vocês, filhos da puta portal, pensam que você pode se juntar aos Lightbringers, pense novamente." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_It_s_clear_that_not_everyone_a" value="É claro que nem todos apreciam a importância da estrutura e da disciplina." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_My_colleague_Themis_receives_u" value="Meu colega Themis recebe tratamento especial imerecido simplesmente por causa de sua linhagem." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_It_s_sickening_" value="É doentio." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Trevor_uses_dark_magic_to_heal" value="Trevor usa magia negra para curar a Themis é um flagrante desrespeito ao protocolo!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_The_overseer_only_allows_it_be" value="O superintendente só permite porque Themis é seu filho." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Little_do_they_know__I_record_" value="Mal sabem eles, eu gravo todas as suas infrações - e em breve, os portadores de luz saberão sobre isso!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_This_bastion_within_Windreach_" value="Este bastião dentro de Windreach Woods é onde a ordem reina suprema sob meu olho atento." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_I_know_every_inch_of_this_fort" value="Conheço cada centímetro deste forte, e eu o manipulei para expor os disjuntores de maneiras de que você não possa imaginar." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_You_ll_find_a_hidden_weapon_or" value="Você encontrará uma arma escondida ou duas em cada esquina." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Let_s_just_say_I_ve_taken__hid" value="Digamos que eu fiquei escondido à vista de um nível totalmente novo." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_This_place_is_a_fortress_of_ru" value="Este lugar é uma fortaleza de regras, cada uma mais necessária que a última.Viole -os por sua própria conta e risco." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Unregistered_portal_travelers_" value="Os viajantes do portal não registrados tendem a ... desaparecer." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Don_t_ask_where__let_s_just_sa" value="Não pergunte onde;Vamos apenas dizer que a floresta morta não é o único lugar para encontrar ossos." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Help__From_a_portalmonger__Ha_" value="Ajuda?De um portalmonger?Ha!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Go_back_to_the_portal_you_came" value="Volte para o portal de onde veio." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Continue_with_your_own_duties_" value="Continue com seus próprios deveres." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_You_re_violating_Rule_7_4__No_" value="Você está violando a Regra 7.4: Nenhuma oferta de ajuda não solicitada." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Unauthorized_help_compromises_" value="Ajuda não autorizada compromete a integridade de nosso forte." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_An_extra_pair_of_hands__Unsupe" value="Um par extra de mãos?Não supervisionado?Vou relatar essa infração potencial." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Assistance_would_imply_ineffic" value="A assistência implicaria ineficiência da minha parte." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_You_ve_already_broken_Rule_22_" value="Você já quebrou a regra 22.6: sem crachá ocioso com oficiais." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Fine__Even_if_you_did_come_fro" value="Multar.Mesmo se você veio de um portal ..." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Finally__someone_willing_to_ab" value="Finalmente, alguém disposto a cumprir as regras!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_I_suppose__portalmonger_" value="Suponho, Portalmonger." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_I_have_just_the_task_for_a_reg" value="Eu tenho apenas a tarefa de um indivíduo que se torna regulamentar!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Perfect_timing__I_just_saw_som" value="Timing perfeito, acabei de ver alguém violar a subseção B-Z-431." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_There_are_breaches_to_be_locat" value="Há violações a serem localizadas e regras a serem aplicadas." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Your_vigilance_and_adherence_t" value="Sua vigilância e adesão ao protocolo nos servirão bem." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Excellent__We_ve_got_some_seri" value="Excelente!Temos algumas sérias de regra para abordar." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+</Node>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_hello_blue_ball" type="external">
-  <Key key="_npc_Welcome__Meat_Puppet_" value="¡Bienvenido, títere de carne!" voiceSettingsId="zMUvWn90WHNIuXCvJB7s" />
-  <Key key="_npc_Hello__primitive_low_frequency" value="¡Hola, primitivo Goo-Brain de baja frecuencia!" voiceSettingsId="zMUvWn90WHNIuXCvJB7s" />
-  <Key key="_npc_Fleshy_one__Do_you_have_an_art" value="¡One carnoso!¿Tienes un artefacto?¿Qué tipo de metal deseas?" voiceSettingsId="zMUvWn90WHNIuXCvJB7s" />
-  <Key key="_npc_Ah__another_inferior_mucus_bas" value="Ah, otro ser inferior a base de moco." voiceSettingsId="zMUvWn90WHNIuXCvJB7s" />
-</Node>

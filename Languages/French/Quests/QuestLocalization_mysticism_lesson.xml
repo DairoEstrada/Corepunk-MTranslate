@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mysticism_lesson" type="external">
+  <Key key="_npc_I_appreciate_your_help__This_r" value="J'apprécie ton aide.Cette rune pourrait être la clé pour se souvenir de ma vie passée." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_You_will_need_to_gather_Powder" value="Vous devrez rassembler une charge de poudre, des bijoux, du bois de bijoux, des matériaux composites, de la céramique et du diamant pour fabriquer la rune de cicatrice." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_How_is_the_rune_crafting_comin" value="Comment se déroule l'artisanat Rune?" voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_I_hope_the_crafting_is_not_too" value="J'espère que l'artisanat n'est pas trop difficile." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_I_can_almost_remember_the_feel" value="Je me souviens presque de la sensation de la rune ..." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Thank_you__This_rune____it_bri" value="Merci.Cette rune ... elle ramène des souvenirs.Le toucher, les symboles ..." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_goal_collect_items" value="Apporter la rune de cicatrice à Mortimer" />
+  <Key key="_QuestActionAddToJournal_G6fs" value="Mortimer Gloomsworth&#10;Goldenfield, près du cimetière&#10;&#10;Aidez Mortimer à rafraîchir sa mémoire en fabriquant une rune de cicatrice." />
+  <Key key="_goalVoice_Sm8W" value="Vous devrez rassembler une charge de poudre, des bijoux, du bois de bijoux, des matériaux composites, de la céramique et du diamant pour fabriquer la rune de cicatrice." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_This_is_wonderful__Unfortunate" value="C'est merveilleux.Malheureusement, je ne peux pas vous dire pourquoi." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Simply_take_this_reward__and_a" value="Prenez simplement cette récompense et ne posez aucune autre question." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+  <Key key="_npc_Drag_this_rune_onto_an_artifac" value="Faites glisser cette race sur un artefact pour un coup de pouce puissant." voiceSettingsId="7tiTuNBPaRRJ4WdofABv" />
+</Node>

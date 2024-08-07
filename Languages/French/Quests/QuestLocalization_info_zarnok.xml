@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_zarnok" type="external">
+  <Key key="_npc_Oh__playing_along__are_we_" value="Oh, jouer, n'est-ce pas?" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_I_m_Zarnok__brilliant_physicis" value="Je suis Zarnok, un physicien brillant et votre collègue &quot;Tmed Park&quot; Visiteur." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Kudos_on_the_attention_to_deta" value="Félicitations sur l'attention des détails;C'est presque crédible!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Still__I_m_here_to_expose_this" value="Pourtant, je suis ici pour exposer cet endroit pour ce que c'est vraiment une magnifique ruse." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_But_don_t_worry__your_secret_s" value="Mais ne vous inquiétez pas, votre secret est en sécurité avec moi ... pour l'instant." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_I_m_having_the_time_of_my_life" value="J'ai le temps de ma vie dans ce &quot;parc à thème&quot; élaboré!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_These_supposed_quests__Just_an" value="Ces quêtes supposées?Juste une autre couche de l'expérience." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_But_hey__perhaps_you_could_enl" value="Mais bon, tu pourrais peut-être m'éclairer sur une chose?" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Where_s_the_exit_to_this_grand" value="Où est la sortie de ce grand parc d'attractions?" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_I_do_need_to_get_back_to_my_da" value="J'ai besoin de retourner bientôt chez ma femme chérie et mes enfants." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Oh__you_re_asking_about_this_p" value="Oh, vous posez des questions sur cet endroit?" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Fascinating__isn_t_it__They_ve" value="Fascinant, n'est-ce pas?Ils se sont surpassés avec la conception des ensembles." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_The_attention_to_detail_in_Riv" value="L'attention aux détails de RiverRise est tout simplement impeccable!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Every_stone__every_tree_it_fee" value="Chaque pierre, chaque arbre, il se sent presque réel!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_It_s_my_absolute_favorite_spot" value="C'est mon endroit préféré absolu dans ce grand parc à thème." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_I_love_how_the_city_center_bus" value="J'adore la façon dont le centre-ville s'affronte d'une activité, c'est comme entrer dans un RPG en direct." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Just_look_at_those__locals___t" value="Regardez ces «locaux», ils restent si bien dans le caractère!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Can_you_believe_the_realism__A" value="Pouvez-vous croire le réalisme?Vous fait presque oublier que tout est scénarisé." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Help_from_an_NPC__That_s_hilar" value="Aide d'un PNJ?C'est hilarant." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_No__no__you_re_the_side_charac" value="Non, non, vous êtes le personnage secondaire ici." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Assist_me__How_quaint_" value="Assiste moi?Comment pittoresque!" voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_I_m_the_protagonist__not_you_" value="Je suis le protagoniste, pas toi." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Help__You_must_be_joking_" value="Aide?Tu blagues." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Sure__I_can_t_keep_playing_alo" value="Bien sûr, je ne peux pas continuer à jouer pour toujours." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Alright__I_suppose_I_could_use" value="D'accord, je suppose que je pourrais utiliser une main avec ces &quot;quêtes." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Fine__since_you_re_already_in_" value="Très bien, puisque vous êtes déjà en caractère, faisons ces courses avec." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+  <Key key="_npc_Yes__I_have_a_list_of_side_que" value="Oui, j'ai une liste de quêtes secondaires que j'ai évitées." voiceSettingsId="7YgFS0obylAwwp5DYaIV" />
+</Node>

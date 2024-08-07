@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_zazz_blorb" type="external">
+  <Key key="_npc_I_m_Cherry_Mobius__the_lead_si" value="Soy Cherry Mobius, el cantante principal.En serio, ¡deja de preguntar!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_You_realize_we_re_about_to_pla" value="Te das cuenta de que estamos a punto de tocar la próxima canción, ¿verdad?" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Honestly__I_m_freaking_out_rig" value="Honestamente, me estoy volviendo loco en este momento." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_The_crowd_s_energy_is_overwhel" value="La energía de la multitud es abrumadora, es mucho de manejar." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_The_band_s_counting_on_me__got" value="La banda cuenta conmigo, tengo que mantener este acto en marcha." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Uh__it_s_the_fucking_stage_" value="Uh, ¿es el puto escenario?" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Get_lost__Let_us_perform__for_" value="¡Piérdase!¡Pasamos, por el amor de Dios!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Absolutely_not__scram_" value="Absolutamente no, ¡Scram!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_No_way__beat_it_" value="¡De ninguna manera, vencerlo!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_ve_got_this__go_away_" value="Tengo esto, ¡vete!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Get_lost__I_need_to_focus_" value="¡Piérdase!Necesito concentrarme." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Nope__can_t_deal_with_you_now_" value="No, no puedo tratar contigo ahora." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Not_a_chance__move_along_" value="¡No es una oportunidad, avanza!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_No_help_needed__so_buzz_off_" value="No se necesita ayuda, ¡así que sale!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_m_fine__now_leave_me_alone_" value="¡Estoy bien, ahora déjame en paz!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_If_you_insist__fine_" value="Si insiste, bien." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Alright__if_you_really_want_to" value="Muy bien, si realmente quieres." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Yeah__okay__I_guess_I_could_us" value="Sí, está bien, supongo que podría usar ayuda." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Sure__just_don_t_mess_it_up_" value="Claro, no lo arruine." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Fine__but_don_t_expect_me_to_t" value="Bien, pero no espere que me agradezca." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_If_you_must__then_okay_" value="Si es necesario, entonces está bien." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Yeah__alright__but_don_t_get_i" value="Sí, está bien, pero no se interponga en mi camino." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Okay__sure__I_suppose_I_need_a" value="Bien, claro, supongo que necesito una mano." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+</Node>

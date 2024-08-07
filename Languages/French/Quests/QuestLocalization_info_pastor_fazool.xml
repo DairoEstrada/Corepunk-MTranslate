@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_pastor_fazool" type="external">
+  <Key key="_npc_Dagaron_s_blessings__yes_" value="Les bénédictions de Dagaron, oui!" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_I_am_humbled_to_accept_your_he" value="Je suis humilié d'accepter votre aide!" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_We_find_ourselves_in_need__yes" value="Nous nous retrouvons dans le besoin, oui." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_I_am_Pastor_Fazool__the_chosen" value="Je suis pasteur Fazool, le prophète choisi de Dagaron!" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_I_used_to_be_a_wandering_seeke" value="J'étais un chercheur errant, perdu dans les illusions de ce monde." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Then__Dagaron_revealed_himself" value="Ensuite, Dagaron s'est révélé à moi dans ces ruines anciennes sous nos pieds." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_It_was_there__in_the_depths_of" value="C'est là, dans les profondeurs de la terre, que j'ai trouvé la vraie vérité." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_The_truth_that_pulsates_and_br" value="La vérité qui pulsate et respire, la vérité qui consomme et se nourrit." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Dagaron_speaks_through_me_now_" value="Dagaron parle à travers moi maintenant, nous guidant vers une récolte divine et une protection contre les bêtes qui se cachent dans l'ombre." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Dagaron_whispers_to_me__tellin" value="Dagaron me murmure, me disant que la récolte sera abondante, mais ... il y a un prix." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_The_energy_of_this_realm_is_sh" value="L'énergie de ce royaume change, tourbillonnant à la fois de la vie et de la décomposition, et Dagaron exige un autre sacrifice pour l'équilibrer." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_One_of_my_followers_must_retur" value="Un de mes partisans doit retourner à Dagaron." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_It_s_a_delicate_dance__choosin" value="C'est une danse délicate, choisissant qui sera transcende, qui nourrira la Terre avec leur essence pour la générosité que nous désirons." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Lingua__Lana__Penny__Louise__A" value="Lingua?Lana?Penny?Louise?Tous les choix difficiles ..." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Perhaps_you_are_willing_to_off" value="Peut-être êtes-vous prêt à vous offrir à leur place?" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_This_is_Dagaron_s_chosen_sanct" value="C'est le sanctuaire choisi de Dagaron, où son énergie divine pulsate à travers ces anciens murs." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_That_Quaddari_baron__blind_to_" value="Ce baron quaddari, aveugle à sa gloire, cherche à profaner ce site sacré avec un vil réaménagement." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_We__the_true_devotees__must_pr" value="Nous, les vrais dévots, devons protéger ce paradis de leurs mains blasphématoires." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Dagaron_s_power_will_shield_us" value="Le pouvoir de Dagaron nous protégera, mais son message doit continuer à résonner à haute voix." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Dagaron_tells_me_you_re_up_to_" value="Dagaron me dit que vous n'êtes pas bon!" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_I_can_see_it_in_your_eyes_Daga" value="Je peux le voir dans vos yeux que Dagaron détecte votre trahison." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Your_aura_reeks_of_bad_intenti" value="Votre aura recommence de mauvaises intentions Dagaron ne dit pas." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Dagaron_s_laughing_at_your_off" value="Dagaron se moque de votre offre, il sait ce qu'il y a dans votre cœur." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_The_great_Dagaron_says_your_vi" value="Le grand Dagaron dit que vos vibrations sont toutes fausses." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Not_this_time__Dagaron_s_got_e" value="Pas cette fois.Dagaron a suffisamment de blagues pour gérer." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Dagaron_whispers_no_to_me__He_" value="Dagaron me murmure non.Il connaît l'obscurité que vous apportez." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Dagaron_s_already_warned_me_ab" value="Dagaron m'a déjà averti des âmes comme vous avancez." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_It_was_foretold_that_you_would" value="Il était prédit que vous m'aidiez." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Yes__let_s_begin_your_consecra" value="Oui, commençons votre consécration." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Dagaron_s_got_a_task_just_for_" value="Dagaron a une tâche juste pour vous!" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Feel_the_energy__We_need_your_" value="Sentir l'énergie.Nous avons besoin de votre aide." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Totally__Dagaron_s_vision_need" value="Totalement.La vision de Dagaron a besoin de vous!" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+</Node>

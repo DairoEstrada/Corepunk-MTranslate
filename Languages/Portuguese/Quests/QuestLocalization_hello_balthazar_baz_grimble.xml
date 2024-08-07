@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_balthazar_baz_grimble" type="external">
+  <Key key="_npc_Heya__pal_" value="Heya, amigo!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Lookin__for_fun_" value="Procurando diversão?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_C_mere__mate_" value="C'mere, companheiro!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Ahoy__champ_" value="Ahoy, campeão!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Cheers__buddy_" value="Saúde, amigo!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Yo__slick_" value="Yo, liso!" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_Tip_top__friend_" value="Tip-top, amigo?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+  <Key key="_npc_How_s_tricks_" value="Como são os truques?" voiceSettingsId="VTNqb7LLkURec37jtcR6" />
+</Node>

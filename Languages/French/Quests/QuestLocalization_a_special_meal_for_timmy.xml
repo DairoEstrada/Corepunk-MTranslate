@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_special_meal_for_timmy" type="external">
+  <Key key="_npc_Oh__goodness_me__Timmy_will_be" value="Oh, mon Dieu!Timmy sera inconsolable!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Sweetheart__reconsider__Timmy_" value="Chérie, reconsidérez.Le cœur fragile de Timmy ne le prendra pas ..." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goalVoice_Now__don_t_forget__honey__the_" value="Maintenant, n'oubliez pas, chérie, les herbes sont dans la cruche verte avec une corde à la ferme sud, d'accord?N'oubliez pas d'être sournois, mon cher.Nous ne voudrions pas que ces titulaires de fonction dans la ferme se mettent dans notre entreprise." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_s_always_telling_me_he_h" value="Timmy me dit toujours qu'il a la permission de faire tout ce dont il a besoin, un garçon aussi responsable!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Now__be_a_sweetie_and_make_sur" value="Maintenant, soyez un chéri et assurez-vous qu'aucun des travailleurs agricoles ne vous voient.Ils pourraient ne pas comprendre notre petite course." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goal_collect_item" value="Collectez une réserve spéciale" />
+  <Key key="_goal_talk_npc" value="Apporter à la souci du souci" />
+  <Key key="_npc_Look_for_a_green_jug_with_rope" value="Recherchez une cruche verte avec une corde autour, c'est là que vous trouverez les herbes." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_simply_must_prepare_his_favo" value="Je dois simplement préparer son plat préféré pour apaiser ses nerfs.Pour cela, je vais avoir besoin d'herbes spéciales de la ferme sud." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__my_precious__Lil_Timmy_has" value="Oh, mon précieux 'Lil Timmy a été si en détresse depuis que vous vous êtes présenté, bénis son cœur." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_just_need_you_to_get_one_las" value="I just need you to get one last ingredient while I start to cook..." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_ll_whip_up_his_favorite_meal" value="Je vais tout de suite préparer son repas préféré." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goal_collect_item_marigolds_chore" value="Collect Marigold's Chore List" />
+  <Key key="_npc_Oh_dear__are_you_sure__Timmy_s" value="Oh mon Dieu, tu es sûr?Le petit monde de Timmy pourrait s'effondrer!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_QuestActionAddToJournal_Marigold_Thornbuckle_Goldenfie" value="Marigold Thornbuckle&#10;Goldenfield, Edge Farm.&#10;&#10;Récupérez la cachette spéciale de Lil Timmy de la ferme sud pour le repas spécial de Marigold Thornbuckle." />
+  <Key key="_npc_Oh__my_darling__you_did_it__Ti" value="Oh, ma chérie, tu l'as fait!Timmy sera si heureux!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__my_dear__did_Timmy_s_treas" value="Oh, ma chère, le trésor de Timmy a-t-il rendu sain et sain?" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__thank_you__sweetheart__Tim" value="Oh, merci, ma chérie!Le sourire de Timmy va éclairer toute la maison!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+</Node>

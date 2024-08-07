@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_whispers_in_the_dark" type="external">
+  <Key key="_npc_Think_twice_before_you_walk_aw" value="Réfléchissez deux fois avant de repartir.Je manque d'options ici." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_goal_talk_npc" value="Parlez à Alexander Stones" />
+  <Key key="_npc_You_re_turning_your_back_on_ju" value="Vous tournez le dos à la justice, ami." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_You_ll_regret_not_doing_this__" value="Vous regretterez de ne pas avoir fait cela.Tu verras." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_What_do_you_say__kid_" value="Que dites-vous, gamin?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Maybe_even_include_where_I_was" value="Peut-être même inclure où j'étais sur quelques fois et dates spécifiques ..." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_m_thinking_now_that_you_ve_p" value="Je pense maintenant que vous avez prouvé que je suis vraiment complètement innocent, il peut le diffuser et sceller l'accord." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_So_this_Alexander_Stones_guy__" value="Alors ce gars d'Alexander Stones, il a une émission de radio, non?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Our_investigation_is_just_begi" value="Notre enquête ne fait que commencer, vrai croyant!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_WHICH_MEANS_HE_HAS_EVERYTHING_" value="Ce qui signifie qu'il a tout à cacher!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_QuestActionAddToJournal_Varkus_Drov_Westwinds_Woods__O" value="Varkus Drov&#10;Westwinds Woods, vieille mine près de la scierie.&#10;&#10;Aidez Varkus Drov à prouver son innocence en convaincant Alexander Stones de diffuser le message." />
+  <Key key="_goalVoice_Time_is_ticking__My_name_needs" value="Le temps est compté.Mon nom doit être compensé.Parler à Alexander encore?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_This_guy_sure_cares_a_lot_abou" value="Ce gars se soucie certainement de prouver son innocence ..." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_re_alive___What_did_you_fi" value="Tu es en vie!?Qu'avez-vous trouvé dans ces mines?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Oh_thank_you__You_re_really_th" value="Oh merci!Tu es vraiment le héros ici.Eh bien, je le suis, mais tu étais là." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+</Node>

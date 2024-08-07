@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_alice" type="external">
+  <Key key="_npc__" value=" " voice="Female" />
+  <Key key="_npc_Can_t_complain__If_you_d_give_" value="Ne peut pas se plaindre.Si vous me donniez de l'argent, je me sentirais certainement beaucoup mieux." voice="Female" />
+  <Key key="_npc_Alice__but_you_can_call_me_Lis" value="Alice, mais tu peux m'appeler Lissy.Enfin, quelqu'un inhabituel et mignon s'est promené dans notre marais.Désolé, Bobby, tu es mignon aussi." voice="Female" />
+  <Key key="_npc_Dull_as_ditchwater__Ready_to_g" value="Derni comme du Ditchwater!Prêt à sortir de ce shithole demain, mais j'ai d'abord besoin d'obtenir de l'argent." voice="Female" />
+  <Key key="_npc_Listen__if_you_came_for_advent" value="Écoutez, si vous êtes venu pour l'aventure, le combat ou le sexe sauvage, j'ai de mauvaises nouvelles - il n'y en a rien ici.Cependant, en parlant de sexe sauvage - nous pouvons comprendre quelque chose." voice="Female" />
+</Node>

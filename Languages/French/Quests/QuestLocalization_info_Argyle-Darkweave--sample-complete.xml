@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_Argyle-Darkweave--sample-complete" type="external">
+  <Key key="_npc_They_call_me_Argyle_Darkweave_" value="Ils m'appellent Argyle Darkweave, tisserand des entravés et bizarres." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_I_am_but_a_humble_merchant_of_" value="Je ne suis qu'un humble marchand de chaussettes énigmatiques, béni d'une touche de magie." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_You_speak_with_Argyle__the_pur" value="Vous parlez avec Argyle, le pourvoyeur d'élégance de chaussures élégant avec l'arcan." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Madame__I_m_just_a_man_who_kno" value="Madame, je suis juste un homme qui connaît la magie des chaussettes.Argyle à votre service." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Who_am_I__traveler__Why__the_u" value="Qui suis-je, voyageur?Pourquoi, le marchand de chaussettes ultime dans les réalités connues!" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_All_the_better_for_meeting_som" value="Tout le mieux pour rencontrer quelqu'un avec des goûts exigeants." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Another_day_offering_the_mysti" value="Another day offering the mystical and the cozy, so I'm splendid." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_With_a_fresh_batch_of_enchante" value="Avec un nouveau lot de chaussettes enchantées prête, je me sens plutôt magique." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Feeling_good__at_the_junction_" value="Se sentir bien, à la jonction des pieds chauds et de la sorcellerie dure." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_I_m_doing_well__The_dark_magic" value="Je vais bien.La magie noire garde la vie ... passionnante." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_A_hidden_little_spot_in_bustli" value="Un petit endroit caché dans la ville animée de Goldenfield, où la magie rencontre des textiles." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Curious__isn_t_it__A_sock_stal" value="Curieux, n'est-ce pas?Un stand chausseur à Goldenfield, infusé d'énergies inhabituelles." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Once_just_another_spot_in_Gold" value="Once just another spot in Goldenfield, now home to a sock sorcerer." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_You_ve_wandered_into_my_little" value="Vous avez erré dans mon petit coin de Goldenfield Town, un marché de chaussettes de charmes mystiques." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_" value=" " voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Mmm__yes__Let_s_peruse_my_myst" value="MMM Oui!Parvons à ma marchandise mystique." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Ah__a_seeker__Let_s_get_you_so" value="Ah, un chercheur!Prenons-nous des chaussettes magiques." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_With_help__you_say__Stand_back" value="Avec de l'aide, dites-vous?Reculer;C'est le temps de brassage de chaussettes!" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Indeed__let_s_decipher_your_so" value="En effet, déchiffrons votre destin de chaussette!" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Yes__you_need_a_good_pair_of_s" value="Yes, you need a good pair of socks, trust me." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Very_well__peruse_at_your_leis" value="Très bien, parcourez à votre guise.Les chaussettes seront toujours là." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_A_pity__The_magic_socks_will_a" value="A pity! The magic socks will await your change of heart." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_No_need_of_my_enchanted_socks_" value="Pas besoin de mes chaussettes enchantées?Hélas!Vos pieds le regretteront!" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Denying_help_from_a_magic_sock" value="Nier l'aide d'un marchand de chaussettes magiques?Audacieux, j'aime ça." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_No__That_s_odd__I_thought_ever" value="Non?C'est étrange.Je pensais que tout le monde avait besoin de chaussettes magiques." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+</Node>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_disorderly_consequences" type="external">
+  <Key key="_npc_You_dare_defy_my_orders__Perha" value="¿Te atreves a desafiar mis pedidos?Quizás una celda cambiaría de opinión." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_goal_talk_npc" value="Habla con Lyra." />
+  <Key key="_npc_Take_this_note_to_Lyra__She_s_" value="Tome esta nota a Lyra.Ella es tu nuevo jefe y no se equivoca, el valle no es amable de los jodidos." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Refusing_me__Bold_move__Hope_y" value="¿Rechazandome?Movimiento audaz.Espero que disfrutes de las mazmorras." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_goalVoice_Lyra_said_you_didn_t_report_to" value="Lyra dijo que todavía no informaste a la infestación.Dirígete hacia el sur a Westwind Woods, hacia la cantera.Debido al oeste desde allí.¡No puedo perderte!TIC Tac.Cuanto más te pases, más feliz me vuelvo sobre tu futuro en una celda." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_You_ll_be_working_under_Lyra_T" value="Trabajarás bajo Lyra Thornfeld en el valle de la infestación de pecados en Westwind Woods.Gana tu conservación o termina lamentando las decisiones de la vida." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Here_s_the_deal__Since_you_dec" value="Aquí está el trato.Como decidiste que el robo era una buena idea, vas a hacer tu parte justa del servicio comunitario." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Well__well__look_who_thought_t" value="Bueno, bueno, mira quién pensó que podrían burlar el sistema.¿Ya disfrutando el sabor de la justicia?" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Here__take_these_supplies__The" value="Aquí, toma estos suministros.Se asegurarán de que no se convierta en otra víctima en su próxima tarea." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Good_job_delivering_the_note__" value="Buen trabajo entregando la nota.Ahora veamos lo útil que realmente eres." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_You_re_not_like_the_usual_recr" value="No eres como los reclutas habituales.Tal vez durar más." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_QuestActionAddToJournal_Alaric_Stormshade_Windreach_Wo" value="Stormshade de alárico&#10;Windreach Woods, Fort&#10;&#10;Como castigo por robar un libro del fuerte, informe para el servicio comunitario para Lyra Thornfeld en la infestación del valle de los pecados." />
+  <Key key="_npc_Rejecting_community_service__Y" value="¿Rechazando el servicio comunitario?Debes tener un deseo de muerte.Guardias, prepara una celda!" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Ah__so_you_re_the_new_recruit_" value="Ah, ¿eres el nuevo recluta?No he visto caras frescas aquí en mucho tiempo." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Very_well__Deliver_this_note_t" value="Muy bien.Entregue esta nota a Lyra Thornfeld y tal vez, solo tal vez, sobrevivirá." voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+  <Key key="_npc_Ah__finally_made_the_decision_" value="Ah, finalmente tomó la decisión de enfrentar su castigo, ¿verdad?" voiceSettingsId="zC79FpLF6ukfgxopZFu0" />
+</Node>

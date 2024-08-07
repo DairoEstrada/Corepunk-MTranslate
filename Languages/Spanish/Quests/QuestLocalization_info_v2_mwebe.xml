@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_mwebe" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Just_keep_walking__I_not_trust" value="¡Sólo sigue caminando!¡No confío en los monstruos como tú!" voice="Male" />
+  <Key key="_npc_Why__What_you_want_from_me__I_" value="¿Por qué?¿Que quieres de mi?Recuerdo el momento en que un delincuente, que se ve exactamente como tú, se me acercó con la misma pregunta y ¿sabes qué?Regresé a casa sin mi reloj." voice="Male" />
+  <Key key="_npc_What__you_blind__I_not_local_m" value="¿Qué, ciego?No yo yo mismo local." voice="Male" />
+</Node>

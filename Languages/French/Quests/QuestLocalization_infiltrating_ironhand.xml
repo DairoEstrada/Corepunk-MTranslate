@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_infiltrating_ironhand" type="external">
+  <Key key="_npc_Typical__You_must_be_in_league" value="Typique.Vous devez être en ligue avec les extraterrestres!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_talk_npc" value="Parlez à Grommuk Fearhand" />
+  <Key key="_npc_Ah__I_see_how_it_is__The_paras" value="Ah, je vois comment c'est.Les parasites vous sont déjà arrivés, non?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Here_s_what_we_re_gonna_do___w" value="Voici ce que nous allons faire - nous infiltrons les infiltrés.Vous allez vous présenter à Grommumu en tant que dernier employé et recueillir des preuves." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_ll_be_working_alongside_Du" value="Vous travaillerez aux côtés de Dusty, Eamon et Fenwick.Ils sont si profonds dans leur brume arrosée, ils ne repéreraient pas un extraterrestre s'il dansait le tango!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goalVoice_Remember__every_log_you_chop_i" value="N'oubliez pas que chaque journal que vous coupez est un autre pas de plus de la vérité!Restez vigilant, ces extraterrestres pourraient se cacher n'importe où.Plus précisément, à Grommumu, à qui vous devez parler." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_He_wants_to_take_this_quarry__" value="Il veut prendre cette carrière et me décrocher, parce que je suis la seule source de vérité de ce pays." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Grommuk_Ironhand_isn_t_just_an" value="GROMMUK ENRIGHHAND NE PAS TOUT TOUT LE FORMAN SAVILLE;C'est un extraterrestre parasite, je te le dis!Ils complotent pour prendre le dessus sur nos esprits, un éclat à la fois!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Alright__listen_up__freedom_fi" value="Très bien, écoutez, Freedom Fighter!Ils nous ont vécu dans un monde de mensonges et de sciure!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_I_will_now_give_you_task_like_" value="Je vais maintenant vous donner une tâche comme la Terre Bozz." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grr____did_good__Take_starting" value="GRR ... a bien fait.Prenez le bonus de départ." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_QuestActionAddToJournal_Alexander_Stones_Westwind_Wood" value="Alexander Stones&#10;Westwind Woods, vieille plate-forme surplombant la carrière.&#10;&#10;Infiltrez la scierie en tant qu'employé en parlant à Grommuk Methand." />
+  <Key key="_npc_Fine__don_t_come_crying_to_me_" value="Très bien, ne me pleure pas quand ils commencent à germer des tentacules!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_So____grrr____you_are_the_new_" value="Alors ... grrr ... vous êtes le nouvel employé?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Speak_quick__Busy____grrr____a" value="Parlez rapidement!Occupé ... grrr ... toujours en travaillant." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Buckle_up__buttercup_it_s_time" value="Bouclez-vous, Buttercup Il est temps d'exposer cette menace extraterrestre!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

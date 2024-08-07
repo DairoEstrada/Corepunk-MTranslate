@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ConstProfessionCategory" description="">
+  <Node name="Craft">
+    <Key key="Name" value="Ocupación" />
+    <Key key="Description" value="Puedes elegir una profesión de creación o de obtención." />
+  </Node>
+  <Node name="Harvest">
+    <Key key="Name" value="Ocupación" />
+    <Key key="Description" value="Puedes elegir una profesión de creación o de obtención." />
+  </Node>
+  <Node name="Social">
+    <Key key="Name" value="Social" />
+    <Key key="Description" value="Contacta con un maestro de profesiones en cualquier asentamiento para aprender una profesión." />
+  </Node>
+  <Node name="Occupation">
+    <Key key="Name" value="Ocupación" />
+    <Key key="Description" value="Contacta con un maestro de profesiones en cualquier asentamiento para aprender una profesión." />
+  </Node>
+  <Node name="Learn_profession">
+    <Key key="Key" value="Profesión aprendida: {value1}" />
+  </Node>
+  <Node name="Skill_improved">
+    <Key key="Key" value="Tu habilidad de {value1} ha aumentado a {value2}" />
+  </Node>
+  <Node name="Fogot_profession">
+    <Key key="Key" value="Olvidaste la profesión: {value1}" />
+  </Node>
+  <Node name="Improv_profession_level">
+    <Key key="Key" value="Mejoraste la profesión {value1} del nivel {value2} al nivel {value3}" />
+  </Node>
+</Category>

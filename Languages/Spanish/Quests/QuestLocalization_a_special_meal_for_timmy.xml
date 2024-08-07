@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="QuestLocalization_a_special_meal_for_timmy" type="external">
+  <Key key="_npc_Oh__goodness_me__Timmy_will_be" value="¡Oh, Dios mío! ¡Timmy estará inconsolable!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Sweetheart__reconsider__Timmy_" value="Cariño, piénsalo de nuevo. El frágil corazón de Timmy no lo soportará..." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goalVoice_Now__don_t_forget__honey__the_" value="Ahora, no olvides, cariño, las hierbas están en la jarra verde con cuerda en la granja del sur, ¿de acuerdo? Recuerda ser sigiloso, querido. No queremos que esos metiches de la granja se metan en nuestros asuntos." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_s_always_telling_me_he_h" value="¡Timmy siempre me dice que tiene permiso para hacer lo que necesite, qué niño tan responsable!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Now__be_a_sweetie_and_make_sur" value="Ahora, sé un amor y asegúrate de que ninguno de los trabajadores de la granja te vea. Podrían no entender nuestro pequeño encargo." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goal_collect_item" value="Recolectar Reserva Especial" />
+  <Key key="_goal_talk_npc" value="Llevar a Marigold" />
+  <Key key="_npc_Look_for_a_green_jug_with_rope" value="Busca una jarra verde con cuerda alrededor, ahí encontrarás las hierbas." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_simply_must_prepare_his_favo" value="Simplemente debo preparar su plato favorito para calmar sus nervios. Para eso, voy a necesitar algunas hierbas especiales de la granja del sur." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__my_precious__Lil_Timmy_has" value="Oh, mi precioso 'Lil Timmy ha estado tan angustiado desde que llegaste, bendito sea su corazón." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_just_need_you_to_get_one_las" value="Solo necesito que consigas un último ingrediente mientras empiezo a cocinar..." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_ll_whip_up_his_favorite_meal" value="Prepararé su plato favorito de inmediato." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goal_collect_item_marigolds_chore" value="Recolectar la Lista de Tareas de Marigold" />
+  <Key key="_npc_Oh_dear__are_you_sure__Timmy_s" value="Oh querido, ¿estás seguro? ¡El pequeño mundo de Timmy podría desmoronarse!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_QuestActionAddToJournal_Marigold_Thornbuckle_Goldenfie" value="Marigold Thornbuckle&#xA;Goldenfield, Granja del Borde.&#xA;&#xA;Recupera la 'Reserva Especial' de 'Lil Timmy' de la granja del sur para la comida especial de Marigold Thornbuckle." />
+  <Key key="_npc_Oh__my_darling__you_did_it__Ti" value="Oh, mi amor, ¡lo hiciste! ¡Timmy estará tan feliz!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__my_dear__did_Timmy_s_treas" value="Oh, querido, ¿el tesoro de Timmy llegó a salvo?" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__thank_you__sweetheart__Tim" value="¡Oh, gracias, cariño! ¡La sonrisa de Timmy va a iluminar toda la casa!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+</Node>

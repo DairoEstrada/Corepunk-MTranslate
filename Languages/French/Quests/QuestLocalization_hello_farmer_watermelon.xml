@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_farmer_watermelon" type="external">
+  <Key key="_npc_Hey_friend_" value="Salut mon ami!" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Hey_there__you__I_ve_got_a_rea" value="Hé là, toi!J'ai un vrai gâchis sur mes mains ..." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Y_all_better_not_be_wastin__my" value="Vous feriez mieux de ne pas perdre mon temps!" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Ya_here_to_help_or_yap_" value="Ya ici pour aider ou yap?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Let_s_get_to_it__time_s_money_" value="Allons-y, le temps de l'argent!" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_Another_fuckin__portal_jumper_" value="Un autre sauteur de portail putain." voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_What_language_do_you_speak_" value="Quelle langue parlez-vous?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+  <Key key="_npc_What__you_want_a_handout_" value="Quoi, tu veux un document?" voice="Male" voiceSettingsId="UySSOuEpSEb013eVxVaE" />
+</Node>

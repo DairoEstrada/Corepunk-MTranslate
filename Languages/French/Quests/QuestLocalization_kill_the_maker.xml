@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_kill_the_maker" type="external">
+  <Key key="_npc_You_re_really_too_dumb_to_get_" value="Vous êtes vraiment trop stupide pour le faire, n'est-ce pas?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Got_it__Now_move_it_" value="J'ai compris?Maintenant, déplacez-le!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goalVoice_Are_you_dense__Binoculars__bar" value="Êtes-vous dense?Binoculaires, haltère, plante dans un pot, t-shirt.Trouvez-les!Binoculaires sur le pont détruit, haltère dans le vaisseau spatial écrasé, plantez dans un pot dans les arbres et un t-shirt à l'arrêt du livre.Je ne peux pas tutorialiser cela mieux, mannequin.Aller!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_What_a_loser__Can_t_even_handl" value="Quel perdant!Je ne peux même pas gérer une tâche simple." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Get_all_this_crap_and_bring_it" value="Obtenez toute cette merde et me ramenez-la.Ensuite, nous allons appuyer Pappy Rick au visage pour ses notes de dimension de fantaisie." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_talk_npc" value="Apporter à Quest-O-tron" />
+  <Key key="_goal_collect_item_4" value="Collectez le t-shirt" />
+  <Key key="_goal_collect_item_3" value="Recueillir une plante étrange" />
+  <Key key="_goal_collect_item_2" value="Recueillir des haltères" />
+  <Key key="_goal_collect_item_1" value="Recueillir des jumelles" />
+  <Key key="_npc_Finally__haul_your_lazy_self_t" value="Enfin, transportez votre moi paresseux à l'arrêt du livre à Goldenfield et prenez un stupide T-shirt.Oui, un t-shirt!Faites avec!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Then__mosey_over_to_the_Trees_" value="Ensuite, Mosey sur les arbres de Goldenfield et tirez une plante dans un pot.Sendant un motif?Je ne réponds pas aux questions stupides!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Next__drag_yourself_to_the_Cra" value="Ensuite, traînez-vous dans le vaisseau spatial écrasé du côté nord du lac de Windstone Village et trouvez une haltère flippante.Ne demandez pas pourquoi, faites-le!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Haul_your_sorry_butt_to_the_De" value="Tirez vos fesses désolées sur le pont détruit à Windreach Woods.C'est au sud de la maison du lac.Et accrochez quelques jumelles.Pourquoi?Parce que je l'ai dit!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_It_s_too_complicated_to_for_YO" value="C'est trop compliqué pour vous de comprendre, mais si vous m'aidez, je vous laisse jeter un coup d'œil à ses notes." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Lucky_for_you__I_finally_came_" value="Heureusement pour vous, j'ai finalement trouvé le plan parfait pour tuer ce salaud." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_But_that_wrinkly_old_fart_that" value="Mais ce vieux pet froissé qui m'a fait, Pappy Rick, le fait.Il m'a construit et maintenant je vis dans cet enfer." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Alright__listen_up__idiot__I_a" value="Très bien, écoutez, idiot!Je n'ai pas un sacrément indice sur le saut de dimension!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Now__it_s_time_to_execute_my_p" value="Maintenant, il est temps d'exécuter mon plan parfait.Et vous devez aider!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_guess_even_a_broken_clock_is" value="Je suppose que même une horloge cassée a raison deux fois par jour.Voici votre récompense, génie." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_collect_item_portal_juise" value="Collectez le jus de portail de Pappy Rick" />
+  <Key key="_QuestActionAddToJournal_QUEST_O_TRON__Windreach_Woods_" value="Quête-o-tron&#10;Windreach Woods, camp près du sanctuaire.&#10;&#10;Collectez des articles pour exterminer Pappy Rick pour obtenir ses notes de voyage interdimensionnelles." />
+  <Key key="_npc_I_expected_better_from_a_brain" value="Je m'attendais mieux à un Dolt sans cervelle comme vous.Pas vraiment." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Well__look_who_finally_did_som" value="Eh bien, regardez qui a finalement fait quelque chose de bien!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Did_you_manage_to_actually_fin" value="Avez-vous réussi à trouver ces choses, génie?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Finally__you_re_doing_somethin" value="Enfin, vous faites quelque chose d'utile.Maintenant, commencez, Dingus!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

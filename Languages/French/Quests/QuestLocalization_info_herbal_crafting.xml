@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_herbal_crafting" type="external">
+  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_A_man_of_the_universe__Do_we_a" value="Un homme de l'univers.Quoi ... qu'est-ce que même un nom?C'est la question." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_A_place_of_joy_and_happiness__" value="Ce serait un lieu de joie et de bonheur si je n'avais pas à travailler." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_I_feel_weak_and_sad_without_it" value="Je me sens faible et triste sans ça.Je ne peux pas bouger mes jambes." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_The_fat_jerks_on_the_way_out_o" value="Les grosses secousses en sortant de la ville baisaient avec moi pendant vingt minutes.En conséquence, j'ai énervé mon bogie." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_And_yet_I_m_happy__You__You_do" value="Et pourtant je suis heureux.Toi?Vous n'avez pas l'air heureux.Je connais un pharmacien qui est bon pour rendre les gens heureux." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Guy_s_up_there____Tee_hee__y_k" value="Guy est là-haut ... tee-hee, tu sais ... comme ... ouais.À Riverrise, mec.Où la rivière coule.Au quai.Ils l'appellent alchimiste, ha-ha ..." voice="Male" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

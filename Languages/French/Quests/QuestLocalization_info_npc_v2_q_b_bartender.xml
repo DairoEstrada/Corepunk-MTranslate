@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_npc_v2_q_b_bartender" type="external">
+  <Key key="_npc__" value=" " voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_I_m_Bob__friend__Everyone_call" value="Je suis Bob, ami.Tout le monde m'appelle en riant Bob, ehe." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_This_be__hubname2___Real_good_" value="C'est Riverrise.Vraiment bon endroit, yah.La plupart des sorties ne restent pas ici longtemps, ce qui est dommage.Plus naturel ici, vous savez." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_You_know_what_I_say__Every_new" value="Tu sais ce que je dis?Chaque nouveau jour est une nouvelle opportunité, quand.Vous avez une journée bénie, mon ami." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+</Node>

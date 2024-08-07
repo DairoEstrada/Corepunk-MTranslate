@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Node name="QuestLocalization_info_villager_nav_hub3_01" type="external">
-  <Key key="_npc_I_ve_heard_the_only_reason_for" value="Ouvi a única razão para a estação de mana estar lá é fazer drogas para a juventude da Leitânia." voice="Male" />
-  <Key key="_npc_Wanna_get_some_for_yourself__h" value="Quer pegar um pouco para você, hein?Bem, é ao norte.Pode chegar lá com segurança pelo segundo hub." voice="Male" />
-  <Key key="_npc_But_don_t_even_think_about_it_" value="Mas nem pense nisso, amigo.É uma verdadeira dor na bunda para obter uma permissão de entrada." voice="Male" />
-</Node>
