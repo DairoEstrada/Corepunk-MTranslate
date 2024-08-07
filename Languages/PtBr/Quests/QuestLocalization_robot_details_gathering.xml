@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_robot_details_gathering" type="external">
+  <Key key="_npc_Proceed_with_gathering_essenti" value="Prossiga com a coleta de ferramentas essenciais e retorne prontamente." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Operational_query__have_tools_" value="Consulta operacional: As ferramentas foram adquiridas?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Acknowledged__Tools_received__" value="Reconhecido.Ferramentas recebidas.Iniciando sequência de reparo." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Interface_indicates_successful" value="A interface indica reparo bem -sucedido.Token de passagem segura emitida." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_You_are_now_my_favorite_outwor" value="Você agora é meu Outworlder favorito.Parabéns." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Maintain_vigilance__My_station" value="Manter vigilância.Meu estado estacionário não vai durar.Retomar o protocolo de sobrevivência." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_collect_wrench" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_YgZD" value="Wrench" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_hammer" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_hjZ7" value="Martelo" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_saw" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_FX4b" value="Serra" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_aiDA" value="Quadro-Sentinel 4.0&#10;Goldenfield, campos de Goldenfield.&#10;&#10;Auxiliar o quadro-Sentinel quebrado 4.0 com reparos para garantir uma semana de passagem segura" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Quadro_Sentinel_4_0_requires_a" value="O Quadro-Sentinel 4.0 requer uma chave inglesa e duas ferramentas adicionais.Localize em campos de Goldenfield.A falha na reaclamação das ferramentas resultará em retenção de status não autorizada.A retenção de status não autorizada resultará em morte imediata." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

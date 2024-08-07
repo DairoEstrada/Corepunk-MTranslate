@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_barkowski" type="external">
+  <Key key="_npc_Yo__bro_" value="Yo, mano!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_What_s_good_" value="O que é bom?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_How_s_it_hangin__" value="Como está pendurado?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_What_s_up__dude_" value="What's up, dude?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Hey__man_" value="E aí cara!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Yo__what_s_poppin__" value="Yo, what's poppin'?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Sup__bruh_" value="Sup, Bruh?" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+  <Key key="_npc_Hey__chief_" value="Ei, chefe!" voiceSettingsId="gNXqEACI9IMC8kocNg8K" />
+</Node>

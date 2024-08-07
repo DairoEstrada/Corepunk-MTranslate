@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_pass_the_butter" type="external">
+  <Key key="_npc_Guess_I_ll_do_it_myself__you_u" value="Acho que vou fazer isso sozinho, seu balde inútil de ossos." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goalVoice_Rick_s_Fisher_House__It_s_just" value="Rick's Fisher House: fica ao sul da ponte destruída.Sobras, veneno, yum yum.FAÇA ISSO AGORA.Não é ciência do foguete, idiota." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Are_you_freaking_kidding_me__U" value="Você está brincando comigo?Ugh, tanto faz." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Of_course_you_d_chicken_out__P" value="Claro que você faria frango.Patético." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Take_this_nasty_fast_food_over" value="Pegue este fast food desagradável por lá - é o favorito dele.Então .... ele finalmente morrerá!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_m_going_to_poison_the_fuck_o" value="Eu vou envenenar porra dele!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Bet_you_can_guess_what_it_is_f" value="Aposto que você pode adivinhar o que é dos itens que tive você recebem ..." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_So__meatbag__you_re_back__Read" value="Então, carne de carne, você está de volta.Pronto para a fase dois do meu plano diretor?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Poisoned_fast_food__You_insult" value="Fast food envenenado?Você me insulta." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_About_fucking_time_someone_ste" value="Sobre a porra de alguém se intensificou.Não estrague tudo, ou eu vou me afastar." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Seriously__You_re_softer_than_" value="Seriamente?Você é mais suave que um tecido molhado." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_talk_npc" value="Fale com Pappy Rick" />
+  <Key key="_QuestActionAddToJournal_QUEST_O_TRON__Windreach_Woods_" value="Quest-O-Tron&#10;Windreach Woods, acampar perto do santuário.&#10;&#10;Ajude a Quest-O-Tron em roubar sobras de fast food da casa de seu criador." />
+  <Key key="_npc_You_ve_got_guts__kid__Or_maybe" value="Você tem tripas, garoto.Ou talvez seja apenas estupidez." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_I_gather_you_re_trying_to_get_" value="Eu recebo que você está tentando levar o segredo para a minha via de portal.Vamos fazer um acordo, burro." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Oh__the_tin_can_s_at_it_again_" value="Oh, a lata pode de novo, hein?Ha!Isso é rico!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Hey__genius__You_think_that_ro" value="Hey, genius! You think that robot is actually pulling this off?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+</Node>

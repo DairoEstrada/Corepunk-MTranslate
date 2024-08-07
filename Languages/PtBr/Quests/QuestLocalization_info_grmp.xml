@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_grmp" type="external">
+  <Key key="_npc_GRMP__What_do_you_want_" value="GRMP.O que você quer?" />
+  <Key key="_npc_Used_to_be_top_notch_security_" value="Costumava ser a segurança de primeira linha em um pouco brilhante Technopolis antes que as coisas fossem confundidas." />
+  <Key key="_npc_Had_a__catastrophic_glitch___t" value="Tinha uma &quot;falha catastrófica&quot;, eles chamaram.Agora eu sou apenas uma bagunça mal -humorada de fios e rancores." />
+  <Key key="_npc_Got_ditched_by_my_creators_and" value="Fiquei abandonado por meus criadores e acabou aqui através de um absurdo de vórtice." />
+  <Key key="_npc_Now_I_m_stuck_scanning_every_n" value="Agora estou preso a digitalizar todos os novatos como a missão da minha vida.Acho que é, agora." />
+  <Key key="_npc_Don_t_make_me_repeat_myself__I" value="Não me faça repetir.Se você estiver claro, siga em frente." />
+  <Key key="_npc_How_do_you_think_" value="Como você pensa?" />
+  <Key key="_npc_Circuits_are_buzzing__algorith" value="Os circuitos estão zumbindo, algoritmos mal -humorados." />
+  <Key key="_npc_Still_ticking__unfortunately_" value="Infelizmente ainda correndo." />
+  <Key key="_npc_Could_be_worse__I_suppose_" value="Pode ser pior, suponho." />
+  <Key key="_npc_Dealing_with_newcomers_is_a_ne" value="Lidar com os recém-chegados é um ciclo interminável de irritação." />
+  <Key key="_npc_Everything_s_still_functioning" value="Tudo ainda está funcionando, mais ou menos." />
+  <Key key="_npc_This_place_isn_t_getting_any_l" value="Este lugar não está ficando menos caótico, se é isso que você está perguntando." />
+  <Key key="_npc_Welcome_to_Riverrise___lucky_y" value="Bem -vindo ao RiverRise Lucky You." />
+  <Key key="_npc_This_dusty_corner_of_the_unive" value="Este canto empoeirado do universo é chamado Ilha Whisperwind." />
+  <Key key="_npc_It_s_all_farms__crafting_quart" value="É tudo fazendas, artigos de criação e municípios que não podem se importar com seus próprios negócios." />
+  <Key key="_npc_Not_to_mention__the_current_ho" value="Sem mencionar, o ponto de acesso atual para os Gawkers entre universo." />
+  <Key key="_npc_I_m_stationed_here_to_make_sur" value="Eu estou aqui para garantir que nenhum deles esteja trazendo nada ... problemático." />
+  <Key key="_npc_Just_do_what_you_need_to_and_t" value="Basta fazer o que você precisa e tente não causar uma bagunça.Eu tenho o suficiente para lidar." />
+  <Key key="_npc_No__I_m_good__Go_bother_someon" value="Não, estou bem.Vá incomodar outra pessoa." />
+  <Key key="_npc_Help__From_you__Hard_pass_" value="Ajuda?De você?Passo difícil." />
+  <Key key="_npc_Absolutely_not__I_ve_got_it_un" value="Absolutamente não.Eu consegui isso sob controle." />
+  <Key key="_npc_Do_I_look_like_I_need_help__Mo" value="Parece que preciso de ajuda?Avance." />
+  <Key key="_npc_No_thanks__I_don_t_need_your_i" value="Não, obrigado, não preciso de sua interferência." />
+  <Key key="_npc_I_m_just_fine_without_your_med" value="Estou bem sem a sua intromissão, obrigado." />
+  <Key key="_npc_Yeah__I_could_use_a_hand__I_gu" value="Sim, eu poderia usar uma mão, eu acho." />
+  <Key key="_npc_Don_t_make_me_beg__Help_is_nee" value="Não me faça implorar.É necessária ajuda." />
+  <Key key="_npc_Fine__if_you_insist__There_s_s" value="Tudo bem, se você insistir.Há algo que você pode fazer." />
+  <Key key="_npc_Thought_you_d_never_ask__Yes__" value="Achei que você nunca iria perguntar.Sim, eu preciso de ajuda." />
+  <Key key="_npc_Help__Oh_fine__yes__I_need_it_" value="Ajuda?Oh, tudo bem, sim, eu preciso disso.Feliz agora?" />
+</Node>

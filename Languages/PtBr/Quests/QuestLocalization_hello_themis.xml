@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_themis" type="external">
+  <Key key="_npc_Uh__hello_there_" value="Uh, olá lá!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Whoops__hi_" value="Opa, oi!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__hey____didn_t_see_you_" value="Oh, ei ... não te vi!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Ah__Didn_t_drop_anything__did_" value="Ah!Não soltou nada, não é?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Greetings__fellow_adventurer_" value="Saudações, colega aventureira!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Oh__hi__Oops____dropped_my_swo" value="Oh Olá!Opa ... larguei minha espada novamente." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Hello__Watch_your_step_" value="Olá!Cuidado onde pisa!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Just_doing_my____uh____job_" value="Apenas fazendo meu ... uh ... trabalho!" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Woah__Almost_stabbed_you___" value="Woah!Quase esfaqueou você ..." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_Light_bless_the____what_was_it" value="A luz abençoe o ... o que foi?" voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+  <Key key="_npc_The_king_seems_ok____I_guess_" value="O rei parece ok ... eu acho." voiceSettingsId="ymNLQASIOWXkvbE1yGru" />
+</Node>

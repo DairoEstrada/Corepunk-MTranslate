@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_scattered_collectibles" type="external">
+  <Key key="_npc_Here_s_your_reward__The_lawsui" value="Aqui está a sua recompensa.O dinheiro do processo será vingança suficiente para mim." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_goalVoice_Remember__my_masterpieces_are_" value="Lembre -se, minhas obras -primas estão em todo o rio.Mantenha aqueles olhos de águia afiados!Imagine o rosto dessas crianças quando os vencemos em seu próprio jogo.Há vinte cartas no total, não perca nenhum!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_QuestActionAddToJournal_Clyde_Riverrise__Market_in_old" value="Clyde&#10;Riverrise, mercado na cidade velha.&#10;&#10;Ajude Clyde a recuperar seus cartões comerciais dispersos ao redor do RiverRise." />
+  <Key key="_varDescription_Collect_Collectible_Trading_Ca" value="Collect Collectible Trading Cards" />
+  <Key key="_goal_collect_clydes_trading_card" value=" " />
+  <Key key="_npc_Fantastic__You_ll_see__collect" value="Fantástico!Você verá que coletar não é apenas um hobby, é uma forma de arte." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_These_kids_are_going_to_pay__l" value="Essas crianças vão pagar literalmente.Estou levando -os ao tribunal por sujar minhas cartas!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_You_did_it__You_actually_found" value="Você fez isso!Você realmente encontrou todas as minhas cartas!" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Ah__finally__My_prized_possess" value="Ah, finally! My prized possessions - are they still near mint?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Alright__let_s_be_real__die_ha" value="Tudo bem, vamos ser coletores reais e obstinados como eu merecem o melhor." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_These_little_brats_just_can_t_" value="These little brats just can't appreciate the value." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_I_had_to_put_a_kid_in_his_plac" value="Eu tive que colocar uma criança em seu lugar para pousar esse brinquedo colecionável raro." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_But_what_do_you_know__They_got" value="Mas o que você sabe?Eles se vingam espalhando meus preciosos cartões comerciais por todo o rio." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_A_top_tier_collector_like_me_c" value="Um colecionador de primeira linha como eu não pode estar correndo por aí brincando de esconde-esconde." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Can_you_help_retrieve_my_cards" value="Você pode ajudar a recuperar meus cartões?Deve haver cerca de dez deles." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_What__Are_you_siding_with_the_" value="O que?Você está do lado das crianças agora?" voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Ugh__fine__I_ll_just_have_to_d" value="Ugh, tudo bem.Vou ter que lidar com esses pequenos monstros." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+  <Key key="_npc_Seriously__You_don_t_understan" value="Seriamente?Você não entende a magnitude dessa crise colecionável." voiceSettingsId="ELsa1sgDm5eQmkCMBQZy" />
+</Node>

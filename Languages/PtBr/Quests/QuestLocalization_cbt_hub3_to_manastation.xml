@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_to_manastation" type="external">
+  <Key key="_npc_Privet" value="Olá" voice="Male" />
+  <Key key="_npc_Da_da" value="Agora vá para a estação de mana." voice="Male" />
+  <Key key="_assistant_phrase_en7D" value="... preciso de ajuda ... estação está sob ataque de ... preciso de ajuda ... Mana-estação sendo atacada ... pela floresta ... precisa de ajuda ... de todos que podem me ouvir ..." voice="Female" />
+  <Key key="_assistant_phrase_NfGr" value="Para quem pode me ouvir ... para qualquer um ... precisamos de ajuda ... ataques florestais ... precisamos ..." voice="Female" />
+  <Key key="_goal_find_foreman" value="Encontre a estação de mana" />
+  <Key key="_QuestActionAddToJournal_VFCR" value="Encontre a estação de mana" />
+  <Key key="_goalVoice_RPXN" value="Vá para a estação de mana" voice="Male" />
+  <Key key="_goal_end_manastation" value="Fale com o chefe" />
+  <Key key="_QuestActionAddToJournal_H8Tp" value="Fale com o capataz" />
+  <Key key="_assistant_phrase_GOOQ" value="Alguém pode ... floresta ..." voice="Female" />
+</Node>

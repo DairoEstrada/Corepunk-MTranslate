@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_homeless_green_mask" type="external">
+  <Key key="_npc_Oh__a_real_live_creature______" value="Oh, uma verdadeira criatura ao vivo!... você é, não é?" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Do_I_know_you__Hah__that_s_a_j" value="Eu te conheço?Hah, isso é uma piada!Eu não conheço ninguém!" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Hello__Have_you_seen_my_brain_" value="Olá!Você viu meu cérebro por aqui?É cinza, enrugado, tem um gosto como Puddin ..." voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+  <Key key="_npc_Hello__Got_any_Whack_" value="Olá!Tem algum golpe?" voiceSettingsId="SdxIP4ATkM30lgkrTQiR" />
+</Node>

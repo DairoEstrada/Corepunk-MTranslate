@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cosmic_concotion_ingredients" type="external">
+  <Key key="_npc_Great__Let_s_get_to_work_then_" value="Ótimo!Vamos trabalhar então." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_How_s_that_metal_hunt_going_" value="Como está indo essa caça ao metal?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_You_re_not_getting_cold_feet_n" value="Você não está ficando com pés frios agora, é?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_My_toolbox_is_itching_for_thos" value="Minha caixa de ferramentas está ansiosa para esses metais." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Ah__you_got_them__Time_to_brin" value="Ah, você os pegou!Hora de dar vida a essa visão." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_Fantastic__Let_s_get_cracking_" value="Fantástico!Vamos fazer rachaduras!" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_npc_You_did_it__Can_t_wait_to_get_" value="Você fez isso!Mal posso esperar para começar." voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_QuestActionAddToJournal_NK2P" value="D'Eck&#10;Goldenfield, perto da oficina&#10;&#10;Colete 5 metal meteórico e 1 Nugget de titânio para o projeto de D'Rek." />
+  <Key key="_goalVoice_WSdM" value="Não se esqueça desses metais, amigo.Nugget metal e titânio meteórico, lembra?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_goal_collect_titanium_nugget" value=" " />
+  <Key key="_npc_Don_t_forget_those_metals__bud" value="Não se esqueça desses metais, amigo.Nugget metal e titânio meteórico, lembra?" voiceSettingsId="PB7RKvSkxffyvbXiEifr" />
+  <Key key="_varDescription_ZYFT" value="Nugget de titânio" />
+  <Key key="_goal_collect_meteoric_metal" value=" " />
+  <Key key="_varDescription_eBpe" value="Metal meteorico" />
+</Node>

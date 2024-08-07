@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_common_greetings_hub1_m" type="external">
+  <Key key="_npc_Howdy_" value="Olá." voice="Male" />
+</Node>

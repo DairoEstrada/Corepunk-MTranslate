@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_dwarf_red_sunglasses" type="external">
+  <Key key="_npc_Hey__look_at_me_" value="Ei, olhe para mim!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Over_here_" value="Por aqui!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Can_t_ignore_the_best_" value="Can't ignore the best!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Yo__eyes_on_Goat_" value="Ei, olhos na cabra!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_It_s_me__Goat_" value="Sou eu, cabra!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Stop_and_chat_" value="Pare e converse!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Here_I_am_" value="Aqui estou!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Ready_to_be_impressed_" value="Pronto para ficar impressionado?" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_That_s_right__it_s_me_" value="Está certo, sou eu!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+</Node>

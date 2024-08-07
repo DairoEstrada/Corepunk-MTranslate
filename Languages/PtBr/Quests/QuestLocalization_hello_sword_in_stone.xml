@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_sword_in_stone" type="external">
+  <Key key="_npc_Oh_great__another__hero__" value="Oh, ótimo, outro &quot;herói&quot;." voiceSettingsId="AO4jMkAC9ffkmLZQUjSR" />
+  <Key key="_npc_Touch_me_and_I_ll_sue_" value="Touch me and I'll sue." voiceSettingsId="AO4jMkAC9ffkmLZQUjSR" />
+  <Key key="_npc_You_call_yourself_worthy_" value="Você se chama digno?" voiceSettingsId="AO4jMkAC9ffkmLZQUjSR" />
+  <Key key="_npc_Look_who_thinks_they_re_specia" value="Olha quem acha que são especiais." voiceSettingsId="AO4jMkAC9ffkmLZQUjSR" />
+  <Key key="_npc_Step_back__mortal_" value="Avise -se, mortal." voiceSettingsId="AO4jMkAC9ffkmLZQUjSR" />
+  <Key key="_npc_Keep_your_grubby_hands_off_me_" value="Mantenha suas mãos sujas de mim." voiceSettingsId="AO4jMkAC9ffkmLZQUjSR" />
+  <Key key="_npc_Fuckin__try_me_" value="Porra me experimente." voiceSettingsId="AO4jMkAC9ffkmLZQUjSR" />
+  <Key key="_npc_You_wipe_with_those_hands_" value="Você limpa com essas mãos?" voiceSettingsId="AO4jMkAC9ffkmLZQUjSR" />
+</Node>

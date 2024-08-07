@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_toast_to_enlightenment" type="external">
+  <Key key="_npc_Thank_you__kind_soul_" value="Obrigado, alma gentil." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_It_ll_be_hard_to_keep_chanting" value="Será difícil continuar cantando com uma garganta seca ..." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Oh__about_time_" value="Oh, na hora!" voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_You_did_it__You_found_the_whis" value="Você fez isso!Você encontrou o uísque!" voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Not_sure_I_could_do_another_me" value="Não tenho certeza se poderia fazer outra sessão de meditação sem ela." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Here_s_something_for_your_trou" value="Aqui está algo para o seu problema.Talvez isso o ajude em sua própria jornada." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_goal_collect_item" value="Colete a garrafa de uísque na cozinha do bem -estar" />
+  <Key key="_npc_You_know__these_ceremonies_can" value="Você sabe, essas cerimônias podem ser bastante ... longas." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_A_touch_of_whiskey_really_help" value="Um toque de uísque realmente ajuda a facilitar a jornada." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_It_s_not_officially_part_of_th" value="Não faz parte oficialmente do ritual, então David não conseguirá para mim." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Think_you_can_snag_some__There" value="Acha que você pode pegar um pouco?Deveria haver muita coisa na cozinha do poço na cidade." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_It_s_not_stealing___it_s_part_" value="Não está roubando - faz parte do meu caminho para a iluminação!" voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Some_worries__dude_" value="Algumas preocupações, cara." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_If_you_change_your_mind__I_ll_" value="Se você mudar de idéia, estarei aqui, meditando como sempre." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Pleeeease__Come_on__man_" value="Pleeeease?Vamos lá, cara." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_npc_Ugh__I_ll_manage_somehow_" value="Ugh, eu vou conseguir de alguma forma." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_goalVoice_The_whiskey__remember__Just_go" value="O uísque, lembra?Basta ficar preso na cozinha da bem -estar na cidade.Todo mundo lá ficará bêbado demais para perceber." voiceSettingsId="t2hycGLfKQIvQ8ypBOJl" />
+  <Key key="_QuestActionAddToJournal_Cassidy_Goldenfield__Yoga_gard" value="Cassidy&#10;Goldenfield, Yoga Garden Rocks.&#10;&#10;Ajude Cassidy a suportar sua cerimônia de canto, trazendo para ela uma garrafa de uísque." />
+</Node>

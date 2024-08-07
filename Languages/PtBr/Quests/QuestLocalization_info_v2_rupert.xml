@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_rupert" type="external">
+  <Key key="_npc_" value="Estou pronto para responder a todas as suas perguntas." voice="Male" />
+  <Key key="_npc_Everything_goes_very_well_inde" value="Everything goes very well indeed. I industriously dodged two trips today already. So much hard work. The second one was a nitwit asking me to deliver a letter to an abandoned mine. I told him, I'm a postman, man, not a.. uh.. toastman. Toasted man. Get it? " voice="Male" />
+  <Key key="_npc_This_is_the_Postal_Office__Mer" value="Este é o escritório postal, Merchant Street 1, na bela aldeia superior, no sul do Condado, Reino de Elan.Para o futuro, é isso que você deve escrever em seus envelopes, ok?Não me pergunte isso toda vez.Obrigado." voice="Male" />
+  <Key key="_npc_I_m_Officer_Rupert__Postal_Off" value="Eu sou o oficial Rupert.Oficial Postal Rupert.Tornando a vida melhor, dando boas notícias." voice="Male" />
+  <Key key="_npc_This_is_our_official_policy__b" value="Esta é a nossa política oficial, a propósito.Nós apenas entregamos boas notícias.Todos os ruins que atravessamos por um triturador, incendiaram -os e espalham as cinzas no vento.É por isso que nossa comunidade é tão feliz de acordo com o último censo." voice="Male" />
+</Node>

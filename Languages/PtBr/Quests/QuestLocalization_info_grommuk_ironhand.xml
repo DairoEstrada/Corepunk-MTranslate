@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_grommuk_ironhand" type="external">
+  <Key key="_npc_Hrr__Grommuk_I_be_" value="HRR, grommuk eu sou." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Srr__sawmill_boss__but_more_" value="SRR, chefe de serraria, mas mais." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Orrc_body__alien_mind_" value="Orrc body, alien mind." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Gzztt__dimension_wanderer_" value="Gzztt, Wanderer de dimensão." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Workers_blind__secrets_safe_" value="Trabalhadores cegos, segredos seguros." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_S_truth_hidden_in_wood_" value="A verdade escondida em madeira." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Invasion_plans__they_not_see_" value="Planos de invasão, eles não vêem." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grumph__brr_okay__I_guess_" value="Grumph, brr-okay, I guess." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Sawmill_runs_in_hiccups__you_s" value="SAWMILL RUNS em soluços, você vê." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Strange__new_sober_worker__He_" value="Trabalhador estranho e sóbrio?Ele não durou." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Pity__sharp_fellow__shame_real" value="Pena, companheiro afiado, vergonha." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_But_old_crew__brr__Still_aroun" value="Mas a velha equipe, BRR?Ainda ao redor." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Eamon__Dusty__Fenwick__my_cons" value="Eamon, Dusty, Fenwick meu caos constante." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_They_keep_me_busy__and_hidden_" value="Eles me mantêm ocupado e escondido." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grzz__managing_them_is____ente" value="Grzz, managing them is... entertaining." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_And_the_secret__Safe__for_now_" value="E o segredo?Seguro, por enquanto." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grzz__this_place__Sawmill__yes" value="Grzz, este lugar?SAWMILL, sim." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hoo_mans_pay_for_tree_bits_" value="Hoo-mans paga por pedaços de árvores." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Slash_tree__make_block_" value="Slash Tree, faça o bloco." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Strange_hoo_man_system_" value="Strange hoo-man system." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Trees_grow_everywhere_" value="Árvores crescem em todos os lugares!" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Why_pay_for_what_s_free_" value="Por que pagar pelo que é grátis?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grmph__confusing__but_profitab" value="Grmph, confuso, mas lucrativo." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Trees_fall__I_get_pebbles_" value="As árvores caem, eu recebo pedras." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hoo_mans_are___peculiar_" value="Hoo-mans é ... peculiar." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hrr__yes__You_help__Likely_die" value="HRR, sim.Você ajuda.Provavelmente morre.Tudo bem." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grr__many_hands_needed__Surviv" value="Grr, muitas mãos necessárias.Sobrevivência?Duvidoso." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Srr__task_here__Dangerous__Acc" value="Srr, task here. Dangerous. Acceptable losses." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Crzz__help_wanted__Risky__You_" value="Crzz, ajuda desejada.Arriscado.Você pode perecer.Tudo bem com isso." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Gzz__yes__Need_workers__Death_" value="GZZ, sim.Precisa de trabalhadores.Morte provável.Não há problema, sim?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Blezzr__not_now_" value="Blezzr, não agora." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Vrzz_no_need__busy_" value="Vrzz sem necessidade, ocupado." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Hrrff__we_manage_" value="Hrrff, nós gerenciamos." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Kltzr__homeworld_calling__No_t" value="Kltzr, chamado para o mundo inicial.Sem tempo." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grmph__no__Hoo_man_later_" value="Grmph, no. Hoo-man later." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grzz__bz_t_busy__Contact_hive_" value="Grzz, BZ T ocupado.Entre em contato com Hive." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Vrztz__no_help_needed__pursuin" value="Vrztz, nenhuma ajuda necessária, buscando uma transmissão importante." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Mrrff__hive_update_critical__h" value="Mrrff, hive update crítico, ajuda não necessária." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+</Node>

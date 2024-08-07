@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lost_crew_search" type="external">
+  <Key key="_npc_Aye__aye__captain__Let_s_find_" value="Aye Aye capitão!Vamos encontrar minha equipe!" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Keep_your_eyes_peeled_for_any_" value="Mantenha os olhos abertos para qualquer sinais da tripulação." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Remember__anything_can_be_a_cl" value="Lembre -se, tudo pode ser uma pista." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_My_crew_s_out_there__somewhere" value="Minha equipe está lá fora, em algum lugar.Eu posso sentir isso." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Still__these_documents_are_eno" value="Ainda assim, esses documentos são suficientes para eu criar um contraagente para você." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_had_hoped___well__never_mind" value="I had hoped...well, never mind. Thank you for bringing this back.." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_So__you_only_found_some_notes_" value="Então, você só encontrou algumas anotações, mas nenhum sinal dos membros da tripulação ... isso é ... isso é difícil." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_goal_collect_documents" value="Encontre outros astronautas" voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_IAiB" value="Documentos do membro da tripulação" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_DeOt" value="Ronny Lunar&#10;Windreach Woods, perto de uma nave espacial.&#10;&#10;Procure mais da equipe de Ronny." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Pnpt" value="Fique de olho em quaisquer sinais de outros astronautas." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Keep_an_eye_out_for_any_signs_" value="Fique de olho em quaisquer sinais de outros astronautas." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_If_I_can_t_help_them__maybe_I_" value="Se eu não posso ajudá -los, talvez eu possa ajudá -lo." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_ll_get_this_reagent_to_Marth" value="Vou levar esse reagente a Martha, na cidade.Ela vai levar as coisas daqui." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+</Node>

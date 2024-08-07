@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_seldon_moor" type="external">
+  <Key key="_npc_No__not_you__It_s_too_fucking_" value="Não, não você!Está muito bem logo!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_No__please_don_t_" value="Não, por favor, não!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Stay_back__please_" value="Stay back, please!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Not_again_" value="De novo não!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Why_have_you_returned_" value="Por que você voltou?" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Please__spare_me_" value="Por favor, me poupe!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Don_t_come_closer_" value="Não chegue mais perto!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Have_mercy_" value="Tenha piedade!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Oh_no__not_again___" value="Oh no, not again..." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Please____not_you_" value="Por favor ... não você." voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Stay_back_" value="Fique atrás!" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+  <Key key="_npc_Why_are_you_here_" value="Por quê você está aqui?" voiceSettingsId="NQSTH2cwluGffqoJ0jp7" />
+</Node>

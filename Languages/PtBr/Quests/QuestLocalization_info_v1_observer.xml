@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v1_observer" type="external">
+  <Key key="_npc_Oh__I_m_from_Leithana__I_m_a_n" value="Oh, eu sou de Leithana.Sou um observador novato.Se você tiver uma chance, definitivamente deve visitar Leithana." voice="Female" />
+  <Key key="_npc_I_thought_you_were_local__This" value="Oh, eu pensei que você era local.Esta é uma vila de remanso.Levei um dia e meio para chegar aqui da capital." voice="Female" />
+  <Key key="_npc_I_m_here_on_my_first_field_ass" value="Estou aqui na minha primeira tarefa de campo.Eu me considero com muita sorte.Outros caras do meu curso tiveram que ir para os lagos salgados ou os campos ardentes.Eca." voice="Female" />
+</Node>

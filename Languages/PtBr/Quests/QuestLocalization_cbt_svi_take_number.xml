@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_svi_take_number" type="external">
+  <Key key="_goal_go_to_npc" value="Pegue um número no terminal postal" />
+  <Key key="_QuestActionAddToJournal_Ki63" value="Eu tenho que pós -estação para passar um registro.Um agente do correio diz que tenho que tirar um número de um terminal postal no edifício a ser servido." />
+  <Key key="_npc_Let_me_check_here__Mhm__with_a" value="Deixe -me verificar aqui.MHM, com aprovação do Goblin.OK.Por favor, pegue um número e aguarde a sua vez." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Terminal" value="Bom dia, madame/senhor.Para obter um tíquete numérico para um ID, você deve ter um ID." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_post_speak" value="Fale com o oficial de correio" />
+  <Key key="_npc_" value="Bem, parece que o terminal postal está atrasado novamente.Entrarei em contato com o técnico em três a cinco dias úteis.Enquanto isso, todos vocês podem esperar lá fora." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_QuestActionAddToJournal_Y8iP" value="Este terminal não está funcionando corretamente.Tenho que contar ao oficial do correio sobre isso." />
+  <Key key="_goal_fix_terminal" value="Encontre uma maneira de consertar o terminal" />
+  <Key key="_QuestActionAddToJournal_OyR2" value="O agente do Post me disse que, para consertar o terminal, tenho que encontrar o técnico local.Ele deve estar no bar." />
+  <Key key="_npc_Kak_dela" value="Seu número é ... 1.Obrigado por escolher o EPS." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_end_quest" value="Fale com o oficial de correio" />
+  <Key key="_QuestActionAddToJournal_YHXa" value="Ok, eu tenho o número.Agora posso falar com o oficial do Post e finalmente me registrar." />
+  <Key key="_npc_Alright__seems_good__So__you_w" value="Tudo bem, parece bom.Então, você quer ser um residente legítimo de Elan?Você tem os bols para isso?" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goal_goal_v2" value="Pegue um número no terminal postal" />
+  <Key key="_QuestActionAddToJournal_fgVO" value="Eu tenho que pós -estação para passar um registro.Um agente do correio diz que tenho que tirar um número de um terminal postal no edifício a ser servido." />
+  <Key key="_npc_Your_number_is____Your_number_" value="Seu número é ... seu número é ... sua madame é ... madame ... facilitando sua madame ..." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Let_me_see_____Motor_system_fi" value="Deixe -me ver ... &quot;Sistema motor bom, blá blá blá, assinaturas de vida bom, blá blá, facilmente manipulado.&quot;" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Everyone_in_Kwalat_is_required" value="Todos em Kwalat são obrigados a ter bols, independentemente de sexo ou raça." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_Oh__you_again____Fine__What_do" value="Oh, você de novo ... tudo bem.O que temos aqui.Deixe -me digitalizar seu chip." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goalVoice_RA56" value="Eu vejo.Outro Outworlder.Deixe -me verificar aqui.MHM, com uma aprovação do Goblin.OK.Por favor, pegue um número e aguarde a sua vez." voice="Male" />
+  <Key key="_npc_The_terminal_is_right_over_her" value="Bom.Você pode obtê -lo do terminal bem ali." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_I_can_t_serve_you_until_you_ta" value="Não posso ajudá -lo até que você pegue um número.Essas são as regras.O terminal está ali." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_QuestActionAddToJournal_UYKd" value="Eu tenho que pós -estação para passar um registro.Um agente do correio diz que tenho que tirar um número de um terminal postal no edifício a ser servido." />
+  <Key key="_QuestActionAddToJournal_6DQB" value="Eu tenho que pós -estação para passar um registro.Um agente do correio diz que tenho que tirar um número de um terminal postal no edifício a ser servido." />
+  <Key key="_goalVoice_RqYI" value="Eu vejo.Outro Outworlder.Deixe -me verificar aqui.MHM, com uma aprovação do Goblin.OK.Por favor, pegue um número e aguarde a sua vez." voice="Male" />
+  <Key key="_npc_An_outworlder__recently_here__" value="Um Outworlder, recentemente aqui, sem registros.Oh, você tem o formulário 71 de Goldenfield." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+</Node>

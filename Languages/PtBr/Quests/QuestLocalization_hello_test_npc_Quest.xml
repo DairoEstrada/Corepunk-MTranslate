@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_test_npc_quest" type="external">
+  <Key key="_npc_How_do_u_do_" value="Como você faz?" />
+  <Key key="_npc__So_what_" value=" So what?" />
+  <Key key="_npc_WELL_MEET" value="WELL MEET" />
+</Node>

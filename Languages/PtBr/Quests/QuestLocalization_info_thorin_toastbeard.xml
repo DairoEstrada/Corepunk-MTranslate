@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_thorin_toastbeard" type="external">
+  <Key key="_npc_I_m_Thorin_Toastbeard__banishe" value="Eu sou ToastBeard de Thorin, bani chef de 5 estrelas, agora maestro de comida local.Não pergunte sobre o banimento." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_They_said_my_ingredients_were_" value="Eles disseram que meus ingredientes eram demais ... não convencionalmente sencientes." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_After_my_banishment__I_wandere" value="Após meu banimento, passei por inúmeros mundos, procurando sabores perfeitos." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_And_I_found__em_" value="E eu os encontrei!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_That_s_how_I_made_my_way_to_Wi" value="Foi assim que fiz o meu caminho para Windstone.Esta vila me recebeu de braços abertos e placas vazias." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Oh__marvelous__absolutely_marv" value="Oh, maravilhoso, absolutamente maravilhoso!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_The_excitement_never_ends_with" value="A emoção nunca termina com todos esses novos aventureiros chegando." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_wouldn_t_believe_the_ingre" value="Você não acreditaria nos ingredientes que eles me trazem." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Just_this_morning__Mary_Jane_b" value="Apenas hoje de manhã, Mary Jane me trouxe uma raiz luminescente da floresta morta." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_These_make_you_feel____warm_an" value="Isso faz você se sentir ... quente e confuso ... quando você os come." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Imagine_the_possibilities_" value="Imagine as possibilidades!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_re_standin__in_my_kitchen_" value="You're standin' in my kitchen." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Around_here__every_pot_and_pan" value="Por aqui, toda panela e panela tem uma história, e todo sabor é uma aventura." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_I_ve_got_fresh_produce_from_th" value="Eu tenho produtos frescos dos prados, especiarias dos recifes chorosos e até ervas carregadas de mana das florestas de Elan." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_think_Roark_Thunderbrew_wo" value="Você acha que Roark Thunderbrew cozinharia algo assim?Ha!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_If_you_haven_t_eaten_that_hack" value="Se você não comeu a comida desse hack, salve a dor de estômago." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Fancy_helping_with_a_recipe_th" value="Gosta de ajudar com uma receita que pode ... morder de volta?" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_I_could_use_an_extra_set_of_ha" value="Eu poderia usar um conjunto extra de mãos.Ou talvez até alguns dedos." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Got_some____unconventional_ing" value="Tenho alguns ... ingredientes não convencionais ... para caçar." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Here_s_a_shopping_list_of____u" value="Aqui está uma lista de compras de ... itens exclusivos que eu preciso." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_No_need__I_m_just_adding_the_f" value="Não há necessidade, estou apenas adicionando os toques finais ... você pode assistir se quiser." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_I_ve_got_it_all_under_control_" value="Eu tenho tudo sob controle ..." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Just_focusing_on_my_brew__but_" value="Apenas focando na minha bebida, mas fique à vontade para observar ... é fascinante." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_The_soup_and_I_are_having_a___" value="A sopa e eu estamos tendo uma ... conversa privada." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Not_right_now__but_stay_close_" value="Not right now, but stay close... I might need some fresh meat." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+</Node>

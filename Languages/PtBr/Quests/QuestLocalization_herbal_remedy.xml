@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_herbal_remedy" type="external">
+  <Key key="_npc_Hey__it_s_all_good__The_kids_a" value="Ei, está tudo bem.As crianças são apenas mais uma parte do plano do universo, certo?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_No_sweat__man__I_ll_just_chill" value="Sem suor, cara.Eu vou relaxar e pensar em liberdade ou algo assim." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_goalVoice_Have_you_got_my_stash_jars_yet" value="Você já tem meus frascos de esconderijo?Eles estão na fazenda sul.Você sabe, aquele em que moro?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_I_m_already_too_high_to_even_t" value="Eu já estou muito alto para pensar em dirigir, então você ajudaria e buscou esses potes para mim?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Fortunately__I_hide_stash_jars" value="Felizmente, escondo potes de esconderijo por toda a fazenda." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_But_here_s_the_kicker__I_m_fre" value="Mas aqui está o kicker -eu sou recém -saído." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Voltar para Claudine Baxter" />
+  <Key key="_npc_Honestly__if_I_don_t_roll_anot" value="Honestamente, se eu não rolar outra articulação antes de conversar com as crianças, posso perdê -lo completamente." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Oh__and_uh____she_told_me_a_li" value="Ah, e uh ... ela me disse um pouco sobre algum artefato que você está procurando?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Shit__I_was_supposed_to_talk_t" value="Merda.Eu deveria falar com ela sobre as brincadeiras, não era?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_My_kid_came_in_while_you_were_" value="Meu filho entrou enquanto você se foi e tivemos a conversa mais estranha sobre liberdade e vegetais." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_No_worries__I_ll_figure_out_an" value="Não se preocupe, vou descobrir outra maneira de escapar desta viagem de realidade." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_QuestActionAddToJournal_Claudine_Baxter_Goldenfield__S" value="Claudine Baxter&#10;Goldenfield, South Farm.&#10;&#10;Recupere 5 dos frascos especiais de ervas de Claudine Baxter de sua fazenda sul para ajudá -la a se acalmar." />
+  <Key key="_varDescription_Collect_Special_Herb" value="Colete uma erva especial" />
+  <Key key="_npc_I_was_thinking_I_imagined_aski" value="Eu estava pensando que imaginei perguntar a você." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Enlighten_me__bro__did_you_get" value="Me iluminar, mano -você tem meus potes mágicos?" voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+  <Key key="_npc_Far_out__man__You_ve_got_the_r" value="Muito longe, cara!Você tem a vibração certa." voiceSettingsId="6V6jltjhgT6qia54Gl9k" />
+</Node>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_test_drive" type="external">
+  <Key key="_npc_One_last_thing__Would_you_be_s" value="Agora você deve passar pelo nosso treinamento padrão de defesa militar.Todo recém -chegado tem que pagar sua dívida com sua nova pátria.Entre no exoesqueleto.Você terá mais instruções mais adiante." voice="Male" />
+  <Key key="_goal_goto_place" value="Mate alguns javalis" />
+  <Key key="_goal_go_to_caela" value="Fale com o Goblin" />
+  <Key key="player_I_lost_my_robot" value="Eu perdi meu robô" />
+  <Key key="_npc_I_need_you_to_check_the_defenc" value="Entre no exoesqueleto.Vá para o campo antigo, nordeste daqui e teste-o nos javalis.Volte para mim, quando terminar." voice="Male" />
+  <Key key="_npc_helow" value="Muito bem, soldado!Seu dever militar está completo.Agora eu o promovo em classificação.De volta ao civil.Isso significa que você não terá pensões e outros benefícios militares, mas terá que defender nossas terras em um caso de invasão." voice="Male" />
+  <Key key="_varDescription_LtZA" value="Porcos grelhados" />
+  <Key key="_QuestActionAddToJournal_ORDn" value="Estou dentro. Sinto -se ótimo.Agora tudo que eu preciso é matar.Alguns javalis, de preferência.Eles podem ser encontrados em campo ao norte da casa do Goblin." />
+  <Key key="_npc_Great__Just_get_into_it_and_go" value="Sim, isso seria legal.Precisa dessa lata para proteger o portal, hein.Quero dizer, alguém tem que testá -lo, certo?" voice="Male" />
+  <Key key="_npc_Oh__don_t_worry__it_s_absolute" value="Oh, não se preocupe, é absolutamente seguro!Não tive nenhum acidente desde a semana passada!Todo outworlder deve pagar sua dívida!Sua dívida com a pátria!Não sou eu quem inventou as regras." voice="Male" />
+  <Key key="_npc_" value="Realmente, apenas confie em mim.Quero dizer, mesmo que o robô prejudique você, sempre posso consertar você, como se eu consertei meu robô.Nada com que se preocupar!" voice="Male" />
+  <Key key="_assistant_phrase_NDVq" value="Espera espera!Eu preciso levar minha pipoca.Ok, estou pronto.Comece o show!" voice="Male" />
+  <Key key="_npc__" value="Você já testou o robô?" voice="Male" />
+  <Key key="_npc_You_can_use_this_one__standing" value="Você pode usar este, parado ao meu lado." voice="Male" />
+  <Key key="_goal_goto_exo" value="Entre no exoesqueleto e teste -o" />
+  <Key key="_QuestActionAddToJournal_Vqrv" value="O engenheiro quer que eu teste o exoesqueleto.Espero, é seguro." />
+  <Key key="_goalVoice_9PrM" value="Alguém tem que testar o robô.Basta entrar nisso e testá -lo em campo, ao norte da minha casa." voice="Male" />
+  <Key key="_assistant_phrase_9fuK" value="Ver?Você está ótimo nele, hein.Vá para o campo, para o norte daqui.E grelhe alguns javalis lá com o lançador de foguetes.Geralmente os usamos como alvos práticos." voice="Male" />
+</Node>

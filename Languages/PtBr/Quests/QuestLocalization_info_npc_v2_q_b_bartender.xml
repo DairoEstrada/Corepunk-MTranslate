@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_npc_v2_q_b_bartender" type="external">
+  <Key key="_npc__" value=" " voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_I_m_Bob__friend__Everyone_call" value="Eu sou Bob, amigo.Todo mundo me chamando de rindo Bob, ehe." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_This_be__hubname2___Real_good_" value="Isso é rio.Lugar muito bom, sim.A maioria dos you Outies não fica aqui por muito tempo, o que é uma pena.Mais natural aqui, você sabe." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+  <Key key="_npc_You_know_what_I_say__Every_new" value="Você sabe o que eu digo?Cada novo dia é uma nova oportunidade, quando.Você tem um dia abençoado, meu amigo." voice="Male" voiceSettingsId="QqmuUbRGuGrVyHEjRBvB" />
+</Node>

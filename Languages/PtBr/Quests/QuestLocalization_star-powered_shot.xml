@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_star-powered_shot" type="external">
+  <Key key="_npc_Here_s_your_reward__you_earned" value="Aqui está a sua recompensa, você ganhou." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Great__I_owe_ya_one__Get_to_it" value="Ótimo, eu te devo um!Vá até isso e nós dois sairemos em frente." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_How_s_the_crafting_coming_alon" value="How's the crafting coming along?" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_varDescription_M2Q6" value="Colete energia de estrela" />
+  <Key key="_npc_Well_done__That_ll_make_Hank_o" value="Bom trabalho!Isso fará Hank um atirador feliz." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Remember__those_blueprints_wil" value="Lembre -se, essas plantas serão úteis na linha!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Keep_at_it__and_you_ll_be_a_ma" value="Continue e você será um mestre artesão em pouco tempo." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Hank__Boomstick__Granger_s_pla" value="Hank 'Boomstick' Granger fez uma grande ordem para uma nova munição de espingarda.Coisas especiais reais, precisam de energia estelar.Realmente empacota um wallop!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_I_m_up_to_my_head_in_orders___" value="Estou à altura das ordens ... você não diz nada!Eu poderia realmente usar um par extra de mãos." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Head_over_to_my_Miner_s_crafti" value="Vá até o banco de artesanato do meu mineiro e prepare 2 estrelas para mim, seria?É uma chance de ver se você tem o que é preciso." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_QuestActionAddToJournal_Thordal_Ironvei_Goldenfield__M" value="Ironvei de Thordal&#10;Goldenfield, bancada de artesanato de mineiro&#10;&#10;ASSISTIR THORDAL IRIRVEI criando 2 estrelas energias para a nova munição de espingarda de Hank 'Boomstick' Granger." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Don_t_forget__I_need_you_to_cr" value="Não se esqueça, preciso que você crie energia de 2 estrelas usando o banco de criação do meu mineiro.Procure metal meteórico em veias fora de Goldenfield ou negocie com alguém.Eu não ligo!Basta preencher o pedido!Continue, o Time's Tickin ', e Hank está esperando!" voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_varDescription_Collect_Star_Energy" value="Colete energia de estrela" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Suit_yourself__but_remember__o" value="Adore -se, mas lembre -se, oportunidades como essas não esperam para sempre." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_No_problem__I_ll_find_someone_" value="Não tem problema, vou encontrar outra pessoa.Espero que você não se arrependa mais tarde." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+  <Key key="_npc_Alright__but_don_t_come_crying" value="Tudo bem, mas não venha chorar se você perder algo emocionante." voiceSettingsId="jYojZgctEM7uJ33WZf17" />
+</Node>

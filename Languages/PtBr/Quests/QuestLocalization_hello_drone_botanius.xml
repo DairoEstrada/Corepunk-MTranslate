@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_drone_botanius" type="external">
+  <Key key="_npc_Welcome__dear_friend_" value="Bem vindo caro amigo!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Hello__caretaker_of_nature_" value="Olá, cuidador da natureza!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Ah__a_visitor__Greetings_" value="Ah, um visitante!Saudações!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_How_delightful_to_have_company" value="Que prazer ter companhia!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Well__butter_my_biscuits_and_c" value="Bem, manteiga meus biscoitos e me chame de planta!Finalmente a empresa!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Oh__look_who_decided_to_drop_i" value="Oh, olhe quem decidiu aparecer!Como está crescendo?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Hey_there__chlorophyll_enthusi" value="Olá, entusiasta da clorofila!Bom ver você aqui!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_north_windstone_guard_mask" type="external">
+  <Key key="_npc_What_now_" value="E agora?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_State_your_business_" value="Declarar seu negócio." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Yes_" value="Sim?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_What_do_you_want_" value="O que você quer?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Speak_" value="Falar." voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Here_again_" value="Here again?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_You_need_something_" value="Você precisa de algo?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_What_is_it_" value="O que é?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+  <Key key="_npc_Did_Eddie_send_you_" value="Eddie enviou você?" voiceSettingsId="dzt9fc4UMoKmWLqI6qP8" />
+</Node>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_pax_voss" type="external">
+  <Key key="_npc_Hello__friend_" value="Olá amigo." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_We_ve_been_expecting_you_" value="Nós estivemos esperando você." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Hello_there_" value="Olá." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Come_play_with_us_" value="Venha jogar conosco." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_We_ve_been_waiting_" value="Estamos esperando." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Hi__friend_" value="Oi amigo." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Come_closer_" value="Aproxima-te." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+</Node>

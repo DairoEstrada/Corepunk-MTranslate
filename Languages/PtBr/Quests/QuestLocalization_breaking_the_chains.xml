@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_breaking_the_chains" type="external">
+  <Key key="_goal_collect_item" value="Colete a garrafa verde" />
+  <Key key="_npc_I_won_t_forget_this__pal_" value="Não vou esquecer isso, amigo." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_goal_talk_npc" value="Retornar Garranha Verde para Marigold Thornbuckle" />
+  <Key key="_npc_Bad_move__buddy_" value="Má jogada, amigo." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_goalVoice_Did_you_get_my_toy__What_are_y" value="Você pegou meu brinquedo?O que você está fazendo?E definitivamente não traga isso para minha mãe!O que ela disser está errado." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_I_mean_I_ll_be_vewy_sad_and_cw" value="Quero dizer, ficarei muito triste e Cwy!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_And_don_t_twy_anything_funny_w" value="E não por nada engraçado com isso - se você levar para cravoar, eu vou encontrar você e cortar sua garganta." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Why_don_t_you_go_get_it_for_me" value="Por que você não vai pegar para mim enquanto eu tiro uma soneca de widdle?" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_I_keep_a_vewy_special_magic_to" value="Eu mantenho um brinquedo mágico especial de Vewy em uma garrafa no celeiro." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_Wow_you_did_so_good__mawby_I_c" value="Uau, você se saiu tão bem, mawby, eu posso tê -lo com uma tarefa especial!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_You_ve_given_me_the_chance_I_n" value="Você me deu a chance de que eu precisava recuperar minha vida, e não posso agradecer o suficiente." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_ll_play_along_with_Timmy_for" value="I'll play along with Timmy for now, but soon during one of his naps... that boy won't wake up." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_You_re_making_a_big_mistake_fo" value="Você está cometendo um grande erro para um Gwon." voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_QuestActionAddToJournal_Marigold_Thornbuckle_Goldenfie" value="Craigold Thornbuckle&#10;Goldenfield, Edge Farm.&#10;&#10;Ajude a Creougold Thornbuckle recuperar sua fazenda e vida das garras de seu filho adotivo traiçoeiro, Lil 'Timmy, roubando a peça de artefato escondida na garrafa verde em Edge Farm." />
+  <Key key="_npc_I_ll_break_this_container_open" value="Vou quebrar este contêiner aberto - agora pegue a coisa que se foda aqui!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Yaaaay__Now_hurry_up_" value="Yaaaay!Agora se apresse!" voiceSettingsId="VrvgQXNDYsIKjlpvFMD6" />
+  <Key key="_npc_What_the____is_this_how_he_was" value="O que ... é assim que ele estava nos controlando?" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+</Node>

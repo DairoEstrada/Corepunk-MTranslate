@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_lingua" type="external">
+  <Key key="_npc_Yo__you_into_Dagaron_" value="Você, você em Dagaron?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Dagaron_s_blessings__or_whatev" value="As bênçãos de Dagaron, ou qualquer outra coisa." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Welcome_to_the_twilight_zone_" value="Bem -vindo à zona do crepúsculo." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Gratz__you_found_the_only_cool" value="Gratz, você encontrou o único culto legal ao redor." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_You_uh____already_get_recruite" value="You uh... already get recruited?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_You_vibin__with_Dagaron_yet_" value="You vibin' with Dagaron yet?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Dagaron_squad__am_I_right_" value="Esquadrão dagaron, estou certo?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+</Node>

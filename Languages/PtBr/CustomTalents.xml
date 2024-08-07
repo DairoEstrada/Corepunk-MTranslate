@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="CustomTalents" description="">
+  <Node name="AAzD5O">
+    <Key key="Name" value="Poison" />
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt;Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to inflict POISON for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFM.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})SpellPowerBonus_loc] MagicDamage for 4 seconds when dealing MagicDamage.(1 tick per second)" />
+  </Node>
+  <Node name="2PUQLIi">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to  &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Chance to Execute (20% or less) enemy for &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase] + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; target missing HPMax." />
+  </Node>
+  <Node name="8vM1arxdi43">
+    <Key key="Description" value="&lt;w&gt;&lt;w&gt;On Hit Effect:&lt;/w&gt;&lt;/w&gt;Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to inflict BLEED for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFP.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage for 4 sec when dealing physical damage. (1 tick per second)" />
+  </Node>
+  <Node name="56ifXs">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Chance to Heal the wielder for &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase] + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}}) missing HPMax when healing or dealing damage." />
+  </Node>
+  <Node name="AAd6eM">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Damaging abilities deals an additional &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage (20 seconds cooldown)." />
+  </Node>
+  <Node name="7iJGeO6i421" />
+  <Node name="AAc6nk">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to steal &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; targetHPCurrent] HPMax from the target when healing or dealing damage." />
+  </Node>
+  <Node name="7iJGeVkCpVs">
+    <Key key="Description" value="&lt;w&gt;&lt;w&gt;On hit Effect&lt;/w&gt;:&lt;/w&gt; Damaging abilities deals an additional {{Data.0.ADFP.col}} = [{{Data.0.AC1}} + ({{Data.0.ACP1}})AttackPowerBase + ({{Data.0.ACP2}}) bonus Attack Power] Physical Damage (20 seconds cooldown).&#xD;&#xA;- This attack also slows enemy for 20% for 2 sec.&#xD;&#xA;- When an enemy that you have damaged dies within 5 sec, this cooldown refreshes." />
+  </Node>
+  <Node name="UVmtKd">
+    <Key key="Description" value="On hit Effect: Damaging abilities deals an additional &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})SpellPowerBonus_loc] MagicDamage. ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Actions.0.Formula}} seconds cooldown).&#xA;" />
+  </Node>
+  <Node name="uxZcmw">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to restores to wielder &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})MPBonus_loc] MPMax when healing or dealing damage." />
+  </Node>
+  <Node name="1ZdCeMs">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance that your Attacks will apply &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] as MagicDamage on hit for 10 seconds. " />
+  </Node>
+  <Node name="101wXk5">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance that your Attacks will apply &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})SpellPowerBonus_loc] as MagicDamage on hit for 10 seconds. ." />
+  </Node>
+  <Node name="ZbUGpz">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to triger +1 attack for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Ability.Data.0.ACP1}})AttackPowerBase. Additional attack has 10% chance to triger +1 attack." />
+  </Node>
+  <Node name="1ptuvsz">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Hitting an enemy with 3 separate attacks or abilities within 3 seconds deals additional &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [ ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Actions.0.Formula}} seconds Cooldown)." />
+  </Node>
+  <Node name="ABPXuX">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Chance to Slow enemies for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.T}} seconds." />
+  </Node>
+  <Node name="7h7vqVBRGRL">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to spawn a small dread that will aid you in combat for 10 seconds. Dread has weilders ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}}) HPMax, aplies his Attack Speed and autoattacks closest enemy for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBase." />
+  </Node>
+  <Node name="KKuktt">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to steal &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + &lt;mp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/mp&gt; targetMPCurrent] MPMax from the target when healing or dealing damage." />
+  </Node>
+  <Node name="3AGhq6Z">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to Stun target for 1 second and brake its Armor by ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Effect.GameUnitEffectBuff.Data.0.ACP1}}) for 3 seconds." />
+  </Node>
+  <Node name="FGvVnU">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt;Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to inflict BLEED for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFP.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage for 4 sec when dealing physical damage. (1 tick per second)" />
+  </Node>
+  <Node name="PRK76h">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Damaging abilities deals an additional &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage (20 seconds cooldown)." />
+  </Node>
+  <Node name="ZbiXP0">
+    <Key key="Description" value="On hit Effect: Damaging abilities deals an additional &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})SpellPowerBonus_loc] MagicDamage. ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Actions.0.Formula}} seconds cooldown)." />
+  </Node>
+  <Node name="jnA6q4">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Chance to Heal the wielder for &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [ ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase] + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}}) missing HPMax when healing or dealing damage." />
+  </Node>
+  <Node name="102iPZU">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to restores to wielder &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})MPBonus_loc] MPMax when healing or dealing damage." />
+  </Node>
+  <Node name="1eiPPTd">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance that your Attacks will apply &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] as MagicDamage on hit for 10 seconds. " />
+  </Node>
+  <Node name="1FIOBAC">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance that your Attacks will apply &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})SpellPowerBonus_loc] as MagicDamage on hit for 10 seconds. ." />
+  </Node>
+  <Node name="egiGxi">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to triger +1 attack for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Ability.Data.0.ACP1}})AttackPowerBase. Additional attack has 10% chance to triger +1 attack." />
+  </Node>
+  <Node name="2UZm2ST">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Chance to Execute (20% or less) enemy for &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [ ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase] + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; target missing HPMax." />
+  </Node>
+  <Node name="204LL52">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Hitting an enemy with 3 separate attacks or abilities within 1.5 seconds deals additional &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [ ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Actions.0.Formula}} seconds Cooldown)." />
+  </Node>
+  <Node name="56W4IB">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt;Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to inflict POISON for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFM.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})SpellPowerBonus_loc] MagicDamage for 4 seconds when dealing MagicDamage.(1 tick per second)" />
+  </Node>
+  <Node name="PR3pBL">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to &lt;rh&gt;{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}%&lt;/rh&gt;&lt;r&gt;&lt;gray&gt;({{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.min.a}}-{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance.max}})%&lt;/gray&gt;&lt;/r&gt; Chance to Slow enemies for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.T}} seconds." />
+  </Node>
+  <Node name="7iJGeJ1Du6T">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to spawn a small dread that will aid you in combat for 10 seconds. Dread has weilders ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}}) HPMax, aplies his Attack Speed and autoattacks closest enemy for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBase." />
+  </Node>
+  <Node name="55GCij">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to steal &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; targetHPCurrent] HPMax from the target when healing or dealing damage." />
+  </Node>
+  <Node name="uwipri">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to steal &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + &lt;mp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/mp&gt; targetMPCurrent] MPMax from the target when healing or dealing damage." />
+  </Node>
+  <Node name="3PWLtfn">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to Stun target for 1 second and brake its Armor by ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Effect.GameUnitEffectBuff.Data.0.ACP1}}) for 3 seconds." />
+  </Node>
+  <Node name="KM7fc9">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt;Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to inflict BLEED for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFP.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage for 4 sec when dealing physical damage. (1 tick per second)" />
+  </Node>
+  <Node name="UWWHOi">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Damaging abilities deals an additional &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage (20 seconds cooldown)." />
+  </Node>
+  <Node name="egvhGy">
+    <Key key="Description" value="On hit Effect: Damaging abilities deals an additional &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})SpellPowerBonus_loc] MagicDamage. (20 seconds cooldown)." />
+  </Node>
+  <Node name="psMHLj">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to Heal the wielder for &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase] + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}}) missing HPMax when healing or dealing damage." />
+  </Node>
+  <Node name="55Oqht">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to restores to wielder &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})MPBonus_loc] MPMax when healing or dealing damage." />
+  </Node>
+  <Node name="1jibmLQ">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance that your Attacks will apply &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] as MagicDamage on hit for 10 seconds. " />
+  </Node>
+  <Node name="1PSnrGg">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance that your Attacks will apply &lt;md&gt;{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ADF}}&lt;/md&gt; = [{{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.1.Actions.0.Ability.Data.0.ACP2}})SpellPowerBonus_loc] as MagicDamage on hit for 10 seconds." />
+  </Node>
+  <Node name="jmvS5M">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to triger +1 attack for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Ability.Data.0.ACP1}})AttackPowerBase. Additional attack has 10% chance to triger +1 attack." />
+  </Node>
+  <Node name="2pvgCrj">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to Execute (20% or less) enemy for &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase] + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; target missing HPMax." />
+  </Node>
+  <Node name="2KPE14v">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Hitting an enemy with 3 separate attacks or abilities within 1.5 seconds deals additional &lt;pd&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/pd&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBonus_loc] PhysicalDamage (20 seconds Cooldown)." />
+  </Node>
+  <Node name="ABiHFA">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt;Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to inflict POISON for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ADFM.col}} = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP1}})AttackPowerBase + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectTick.Data.0.ACP2}})SpellPowerBonus_loc] MagicDamage for 4 seconds when dealing MagicDamage.(1 tick per second)" />
+  </Node>
+  <Node name="UWG2S3">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to Slow enemies for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) for {{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.T}} seconds." />
+  </Node>
+  <Node name="7iJGeDwLdji">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to spawn a small dread that will aid you in combat for 10 seconds. Dread has weilders ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}}) HPMax, aplies his Attack Speed and autoattacks closest enemy for ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})AttackPowerBase." />
+  </Node>
+  <Node name="FFgycg">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to steal &lt;heal&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/heal&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + &lt;hp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/hp&gt; targetHPCurrent] HPMax from the target when healing or dealing damage." />
+  </Node>
+  <Node name="ZamVXO">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to steal &lt;mp&gt;{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ADF}}&lt;/mp&gt; = [{{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.AC1}} + ({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP1}})AttackPowerBase + &lt;mp&gt;({{Levels.0.EffectCreator.Effect.Events.0.Actions.0.Ability.Data.0.ACP2}})&lt;/mp&gt; targetMPCurrent] MPMax from the target when healing or dealing damage." />
+  </Node>
+  <Node name="3UbY8Wi">
+    <Key key="Description" value="&lt;w&gt;On Hit Effect:&lt;/w&gt; Up to {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% Chance to Stun target for 1 second and brake its Armor by ({{Levels.0.EffectCreator.Effect.Events.0.Actions.1.Effect.GameUnitEffectBuff.Data.0.ACP1}}) for 3 seconds." />
+  </Node>
+  <Node name="7iJGeO8pqWy">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGete24NQ">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGf8uchri">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGedOQSs9">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGe8tE93y">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGdtccN9i">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeTE26AN">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeyjEHum">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGfDzpxOM">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeiTcfEn">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeDyQMJO">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGdyhphvu">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeYJEHNp">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGf3pQVmK">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGfJ528pb">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeiYprgK">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGeJ3cb1R">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7iJGe3i1uJr">
+    <Key key="Description" value="Increase {{Modifiers.0.iv}} by {{Modifiers.0.val}}" />
+  </Node>
+  <Node name="7h7vr0gpLu8" />
+  <Node name="7iJGetc5hrY" />
+  <Node name="7iJGfTDXAvW">
+    <Key key="Description" value="Dealing MagicDamage with abilities causes enemies to burn for {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})SpellPowerBonus + {{Data.0.ACP2}} target max HPMax] MagicDamage per second for 3 seconds." />
+  </Node>
+  <Node name="7iJGfyiz9OX">
+    <Key key="Description" value="After using the ability, the next attack is empowered with {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})SpellPowerBonus] Magical Damage (triggers once every 2 seconds)." />
+  </Node>
+  <Node name="7iJGdyfxX9D">
+    <Key key="Description" value="When using healing or shielding abilities on your ally, they get charge which improves there attack by {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (Heal Power + Shield Power)] Magical Damage." />
+  </Node>
+  <Node name="7h7vqfLfcxJ">
+    <Key key="Description" value="When using healing or shielding abilities you get 1 charge, after reaching 10 charges your next healing or shielding ability will gain [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (Heal Power + Shield Power)] and also affect you for {{Data.0.ACP2}}. After using ability all charges fades." />
+  </Node>
+  <Node name="1UZ3t8R">
+    <Key key="Description" value="When dealing damage with abilities restore {{Events.0.Actions.0.Ability.Data.0.ADFH.col}} = [({{Events.0.Actions.0.Ability.Data.0.AC1}}) + ({{Events.0.Actions.0.Ability.Data.0.ACP1}}) damage dealt] as HPMax to the most wounded nearby ally." />
+  </Node>
+  <Node name="6BKpSXczZf">
+    <Key key="Description" value="Taking or dealing damage causes you to begin dealing {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})HPbonus] MagicDamage per second to nearby enemies for 3 seconds." />
+  </Node>
+  <Node name="Zayprp">
+    <Key key="Description" value="After using the ability, the next attack is empowered with {{Data.0.ADFP.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})AttackPowerBonus] PhysicalDamage (triggers once every 2.5 seconds)." />
+  </Node>
+  <Node name="6BKihmb5tq">
+    <Key key="Description" value="When taking damage, restore ({{Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.AC1}}) MPMax per second for 5 sec." />
+  </Node>
+  <Node name="6BKpDHVcmx">
+    <Key key="Description" value="When struck by an Attack, deal {{Data.0.ADFP.col}} = [({{Data.0.AC1}})+ ({{Data.0.ACP1}}) Armor] PhysicalDamage to the attacker." />
+  </Node>
+  <Node name="7h7vrAsKKQP">
+    <Key key="Description" value="If you made damage more then 30% of your targets maximum health in 3 seconds or less, next 2 attacks will have ({{Levels.0.EffectCreator.Effect.Actions.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) Attack Speed." />
+  </Node>
+  <Node name="7iJGfJ37KXy" />
+  <Node name="7iJGfiYTqRQ">
+    <Key key="Description" value="Dealing MagicDamage with abilities causes enemies to burn for {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})SpellPowerBonus + {{Data.0.ACP2}} target max HPMax] MagicDamage per second for 3 seconds." />
+  </Node>
+  <Node name="7iJGg3pCVY4">
+    <Key key="Description" value="After using the ability, the next attack is empowered with {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})SpellPowerBonus] Magical Damage (triggers once every 2 seconds)." />
+  </Node>
+  <Node name="7h7vqVBH373">
+    <Key key="Description" value="When using healing or shielding abilities on your ally, they get charge which improves there attack by {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (Heal Power + Shield Power)] Magical Damage." />
+  </Node>
+  <Node name="7h7vqqWMW3T">
+    <Key key="Description" value="When using healing or shielding abilities you get 1 charge, after reaching 10 charges your next healing or shielding ability will gain [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (Heal Power + Shield Power)] and also affect you for {{Data.0.ACP2}}. After using ability all charges fades." />
+  </Node>
+  <Node name="1ZfhbcM">
+    <Key key="Description" value="When dealing damage with abilities restore {{Events.0.Actions.0.Ability.Data.0.ADFH.col}} = [({{Events.0.Actions.0.Ability.Data.0.AC1}}) + ({{Events.0.Actions.0.Ability.Data.0.ACP1}}) damage dealt] as HPMax to the most wounded nearby ally." />
+  </Node>
+  <Node name="AAwHar">
+    <Key key="Description" value="Taking or dealing damage causes you to begin dealing {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})HPbonus] MagicDamage per second to nearby enemies for 3 seconds." />
+  </Node>
+  <Node name="7iJGeYHFZOP" />
+  <Node name="jmeYjU">
+    <Key key="Description" value="After using the ability, the next attack is empowered with {{Data.0.ADFP.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})AttackPowerBonus] PhysicalDamage (triggers once every 2.5 seconds)." />
+  </Node>
+  <Node name="1v1g2fg">
+    <Key key="Description" value="When taking damage, restore ({{Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.AC1}}) MPMax per second for 5 sec." />
+  </Node>
+  <Node name="103jVnv">
+    <Key key="Description" value="When struck by an Attack, deal {{Data.0.ADFP.col}} = [({{Data.0.AC1}})+ ({{Data.0.ACP1}}) Armor] PhysicalDamage to the attacker." />
+  </Node>
+  <Node name="7h7vrFxWWTp">
+    <Key key="Description" value="If you made damage more then 30% of your targets maximum health in 4 seconds or less, next 2 attacks will have ({{Levels.0.EffectCreator.Effect.Actions.Actions.0.Effect.GameUnitEffectBuff.Data.0.ACP1}}) Attack Speed." />
+  </Node>
+  <Node name="7iJGfO8JaOg" />
+  <Node name="7iJGftdg2rN">
+    <Key key="Description" value="Dealing MagicDamage with abilities causes enemies to burn for {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})SpellPowerBonus + {{Data.0.ACP2}} target max HPMax] MagicDamage per second for 3 seconds." />
+  </Node>
+  <Node name="7iJGdtaNrA2">
+    <Key key="Description" value="After using the ability, the next attack is empowered with {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})SpellPowerBonus] Magical Damage (triggers once every 2 seconds)." />
+  </Node>
+  <Node name="7h7vqaGTD6h">
+    <Key key="Description" value="When using healing or shielding abilities on your ally, they get charge which improves there attack by {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (Heal Power + Shield Power)] Magical Damage." />
+  </Node>
+  <Node name="7h7vqvbZh2d">
+    <Key key="Description" value="When using healing or shielding abilities you get 1 charge, after reaching 10 charges your next healing or shielding ability will gain [({{Data.0.AC1}}) + ({{Data.0.ACP1}}) (Heal Power + Shield Power)] and also affect you for {{Data.0.ACP2}}. After using ability all charges fades." />
+  </Node>
+  <Node name="1ekvBbb">
+    <Key key="Description" value="When dealing damage with abilities restore {{Events.0.Actions.0.Ability.Data.0.ADFH.col}} = [({{Events.0.Actions.0.Ability.Data.0.AC1}}) + ({{Events.0.Actions.0.Ability.Data.0.ACP1}}) damage dealt] as HPMax to the most wounded nearby ally." />
+  </Node>
+  <Node name="PQYP18">
+    <Key key="Description" value="Taking or dealing damage causes you to begin dealing {{Data.0.ADFM.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})HPbonus] MagicDamage per second to nearby enemies for 3 seconds." />
+  </Node>
+  <Node name="7iJGedMRjVj" />
+  <Node name="prrtAy">
+    <Key key="Description" value="After using the ability, the next attack is empowered with {{Data.0.ADFP.col}} = [({{Data.0.AC1}}) + ({{Data.0.ACP1}})AttackPowerBonus] PhysicalDamage (triggers once every 2.5 seconds)." />
+  </Node>
+  <Node name="25C6XVg">
+    <Key key="Description" value="When taking damage, restore ({{Events.0.Actions.0.Effect.GameUnitEffectBuff.Data.0.AC1}}) MPMax per second for 5 sec." />
+  </Node>
+  <Node name="1FJOiOT">
+    <Key key="Description" value="When struck by an Attack, deal {{Events.0.Actions.0.Ability.Data.0.ADFP.col}} = [({{Events.0.Actions.0.Ability.Data.0.AC1}})+ ({{Events.0.Actions.0.Ability.Data.0.ACP1}}) Armor] PhysicalDamage to the attacker." />
+  </Node>
+  <Node name="2KPJjQ7">
+    <Key key="Description" value="- Kill or Assist increases your item strength by 1% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1.5% item strength.&#xD;&#xA;" />
+  </Node>
+  <Node name="2PUW4VI">
+    <Key key="Description" value="- Kill or Assist increases your item strength by 1% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1.5% item strength.&#xD;&#xA;" />
+  </Node>
+  <Node name="2UZiE4p">
+    <Key key="Description" value="- Kill or Assist increases your item strength by 1% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1.5% item strength." />
+  </Node>
+  <Node name="9cePIIceiOE">
+    <Key key="Description" value="When taking MagicDamage from abilities, reflects ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}}) of next MagicDamage back to the attacker." />
+  </Node>
+  <Node name="9cePIXtHj9m">
+    <Key key="Description" value="Consumes 80% artifact power but increases Move Speed by [(7-10)% and extra [5% + (2%)AttackPowerBonus]  for 1 second, after hard control. (Cooldawn 30 seconds)." />
+  </Node>
+  <Node name="9cePIi8tJcn">
+    <Key key="Description" value="Consumes 80% artifact power but increases Move Speed by [(7-10)% and extra [5% + (1%)SpellPowerBonus]  for 1 second, after hard control. (Cooldawn 30 seconds)." />
+  </Node>
+  <Node name="9cePJ3OTxdT">
+    <Key key="Description" value="Every time your damage over time ability`s debuff dispelled, target gets instantly [({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}})] this ability damage." />
+  </Node>
+  <Node name="9cePINhryWf">
+    <Key key="Description" value="When taking MagicDamage from abilities, reflects ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}}) of next MagicDamage back to the attacker." />
+  </Node>
+  <Node name="9cePIcyTyYd">
+    <Key key="Description" value="Consumes 80% artifact power but increases Move Speed by [(7-10)% and extra [5% + (2%)AttackPowerBonus]  for 1 second, after hard control. (Cooldawn 30 seconds)." />
+  </Node>
+  <Node name="9cePItE5YGU">
+    <Key key="Description" value="Consumes 80% artifact power but increases Move Speed by [(7-10)% and extra [5% + (1%)SpellPowerBonus]  for 1 second, after hard control. (Cooldawn 30 seconds)." />
+  </Node>
+  <Node name="9cePJ8TgBAi">
+    <Key key="Description" value="Every time your damage over time ability`s debuff dispelled, target gets instantly [({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}})] this ability damage." />
+  </Node>
+  <Node name="9cePISi48bR">
+    <Key key="Description" value="When taking MagicDamage from abilities, reflects ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}}) of next MagicDamage back to the attacker." />
+  </Node>
+  <Node name="9cePIi3g8j4">
+    <Key key="Description" value="Consumes 80% artifact power but increases Move Speed by [(7-10)% and extra [5% + (2%)AttackPowerBonus]  for 1 second, after hard control. (Cooldawn 30 seconds)." />
+  </Node>
+  <Node name="9cePIyJHiD4">
+    <Key key="Description" value="Consumes 80% artifact power but increases Move Speed by [(7-10)% and extra [5% + (1%)SpellPowerBonus]  for 1 second, after hard control. (Cooldawn 30 seconds)." />
+  </Node>
+  <Node name="9cePJDYtL0T">
+    <Key key="Description" value="Every time your damage over time ability`s debuff dispelled, target gets instantly [({{Cant find path by object : Extensions.Abilities.IAbilityData.0.AC1}}) + ({{Cant find path by object : Extensions.Abilities.IAbilityData.0.ACP1}})] this ability damage." />
+  </Node>
+  <Node name="9cePJSpYmkE">
+    <Key key="Description" value="- Kill or Assist increases your MPMax by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1% MPMax regeneration." />
+  </Node>
+  <Node name="259ftik">
+    <Key key="Description" value="- Kill or Assist increases your Heal Power and Shield Power by (0.5%) for 6 minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% cooldown." />
+  </Node>
+  <Node name="9cePJXup8fF">
+    <Key key="Description" value="- Kill or Assist increases your Magic resist by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.3% reduced damage from magic abilities." />
+  </Node>
+  <Node name="2ZevNi5">
+    <Key key="Description" value="- Kill or Assist increases yourAttackPower by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% Physical Crit Power." />
+  </Node>
+  <Node name="35B7SfA">
+    <Key key="Description" value="- Kill or Assist increases your Armor by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.4% reduces damage from attacks." />
+  </Node>
+  <Node name="2pvVuGi">
+    <Key key="Description" value="- Kill or Assist increases yourSpellPowerBonus by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% Magic Crit Power." />
+  </Node>
+  <Node name="9cePJiAWfTz">
+    <Key key="Description" value="- Kill or Assist increases your HPMax by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1% HPMax regeneration." />
+  </Node>
+  <Node name="2v0i5ma">
+    <Key key="Description" value="- Kill or Assist increases yourSpellPowerBonus by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% Magic Crit Power." />
+  </Node>
+  <Node name="9cePJd01Rzi">
+    <Key key="Description" value="- Kill or Assist increases your Magic resist by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.3% reduced damage from magic abilities." />
+  </Node>
+  <Node name="9cePJNjLZnd">
+    <Key key="Description" value="- Kill or Assist increases your MPMax by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1% MPMax regeneration." />
+  </Node>
+  <Node name="3AGJef0">
+    <Key key="Description" value="- Kill or Assist increases your Armor by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.4% reduces damage from attacks." />
+  </Node>
+  <Node name="9cePJtFj2WW">
+    <Key key="Description" value="- Kill or Assist increases your HPMax by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1% HPMax regeneration." />
+  </Node>
+  <Node name="2ek7Yvd">
+    <Key key="Description" value="- Kill or Assist increases yourAttackPower by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% Physical Crit Power." />
+  </Node>
+  <Node name="2AEvPUO">
+    <Key key="Description" value="- Kill or Assist increases your Heal Power and Shield Power by (0.5%) for 6 minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% cooldown." />
+  </Node>
+  <Node name="2FK7ZSk">
+    <Key key="Description" value="- Kill or Assist increases your Heal Power and Shield Power by (0.5%) for 6 minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% cooldown." />
+  </Node>
+  <Node name="2jqJjMh">
+    <Key key="Description" value="- Kill or Assist increases yourAttackPower by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% Physical Crit Power." />
+  </Node>
+  <Node name="9cePJyKwIqx">
+    <Key key="Description" value="- Kill or Assist increases your HPMax by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1% HPMax regeneration." />
+  </Node>
+  <Node name="9cePJi5Dik7">
+    <Key key="Description" value="- Kill or Assist increases your Magic resist by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.3% reduced damage from magic abilities." />
+  </Node>
+  <Node name="3FLVpbq">
+    <Key key="Description" value="- Kill or Assist increases your Armor by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.4% reduces damage from attacks." />
+  </Node>
+  <Node name="9cePJIe9D5M">
+    <Key key="Description" value="- Kill or Assist increases your MPMax by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 1% MPMax regeneration." />
+  </Node>
+  <Node name="305vFZi">
+    <Key key="Description" value="- Kill or Assist increases yourSpellPowerBonus by 0.5% for {{Data.0.ADF}} minutes. Max ({{Data.0.St}}) stacks. After death looses all stacks.&#xD;&#xA;- after death loses 50% stacks.&#xD;&#xA;- each stack grants 0.5% Magic Crit Power." />
+  </Node>
+  <Node name="9cePINiF3Jf">
+    <Key key="Description" value="If you made damage more then 30% of your targets maximum health in 3 seconds or less, next 3 attacks will have ({{Levels.0.EffectCreator.Effect.Effects.1.Effect.Effect.Link.GameUnitEffectBuff.Data.0.ACP1}}) Attack Speed." />
+  </Node>
+  <Node name="9cePISiRHkq">
+    <Key key="Description" value="If you made damage more then 30% of your targets maximum health in 4 seconds or less, next 4 attacks will have ({{Levels.0.EffectCreator.Effect.Effects.1.Effect.Effect.Link.GameUnitEffectBuff.Data.0.ACP1}}) Attack Speed." />
+  </Node>
+  <Node name="7h7vqQ7Z24e" />
+  <Node name="7iJGdtbUJ0A" />
+  <Node name="7iJGdta4K9e">
+    <Key key="Description" value="Chance to hit: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% brake 10% inflict poison for 5 seconds." />
+  </Node>
+  <Node name="7iJGe3kxnOA">
+    <Key key="Description" value="Chance to hit: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% brake 30% armor for 5 seconds." />
+  </Node>
+  <Node name="7iJGe8rAO3L">
+    <Key key="Description" value="Chance to hit: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% extra auto-attack." />
+  </Node>
+  <Node name="7iJGeDwMqMM">
+    <Key key="Description" value="Chance to hit: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% bleed 20% weapon damage for 5 seconds." />
+  </Node>
+  <Node name="2E5UuH5fP5J">
+    <Key key="Description" value="Chance to hit: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% brake 30% armor for 5 seconds.&#xA;Stun target for 1 second." />
+  </Node>
+  <Node name="7iJGdygQaSu" />
+  <Node name="7iJGdtaRgiY">
+    <Key key="Description" value="Chance to hit: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% knockback the target for 1 meter." />
+  </Node>
+  <Node name="7iJGdtbC5v2">
+    <Key key="Description" value="Chance to hit: {{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% knockback the target for 1 meter&#xD; root for 1 second after knockback." />
+  </Node>
+  <Node name="7iJGdtai1IT">
+    <Key key="Description" value="{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% chance to deal (10%-20%) Armor physical damage to the attacker." />
+  </Node>
+  <Node name="7iJGdyg0LkS">
+    <Key key="Description" value="{{Levels.0.EffectCreator.Effect.Events.0.Conditions.Conditions.1.Chance}}% chance to deal (10%-20%) Armor physical damage to the attacker." />
+  </Node>
+  <Node name="7iJGdtdLrV4" />
+</Category>

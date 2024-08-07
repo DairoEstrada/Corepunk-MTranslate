@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_Burghaam" type="external">
+  <Key key="who_are_u_answer" value="Eu sou a única pessoa sã aqui.Burghaam é meu nome.Essas autoridades muito agradáveis ​​de Leitana me deram esse robô em uso para minha fazenda.Ficou morto depois de alguns dias." voice="Male" />
+  <Key key="what_is_this_place_answer" value="Isso é Palmtree.Eu tenho morado aqui minha vida inteira, mais do que ninguém." voice="Male" />
+  <Key key="how_are_u_answer" value="Foi melhor até você aparecer!Tudo bem, tudo bem, sem ofensa.Eu apenas gosto de mexer com as pessoas." voice="Male" />
+  <Key key="_npc_111111" value=" " voice="Male" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_obscured_intentions" type="external">
+  <Key key="_npc_No_worries__friend__I_ve_lost_" value="Não se preocupe, amigo.Perdi mais do que apenas ações no meu tempo." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Heh__good_call__I_can_barely_r" value="Heh, boa ligação ... mal consigo me lembrar de onde estou, muito menos a ação." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Yeah__yeah__I_get_it__I_m_not_" value="Sim, sim, entendi.Não sou exatamente um modelo de confiabilidade agora." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_goalVoice_Hey__life_s_a_trip__right__And" value="Ei, a vida é uma viagem, certo?E também está descobrindo essa ação.&#10;- Provavelmente perto da forca ... ou talvez eu imagine isso?Enfim, aproveite as vibrações!" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_You_go_get_it_while_I_search_t" value="Você vai buscá -lo enquanto eu procuro os temores, ok?E trazê -lo para a Lingua." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Honestly__my_brain_s_more_scra" value="Honestamente, meu cérebro está mais mexido do que uma faixa de Synthwave quebrada." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_goal_talk_npc" value="Retornar à Lingua" />
+  <Key key="_goal_collect_item" value="Colete a ação para o deverie's Hollow" />
+  <Key key="_npc_Anyway__the_deed_s_probably_ne" value="De qualquer forma, a ação provavelmente está perto da palheta e da plataforma de tortura.Talvez eu tenha escondido no meu bong." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_My__uh__my_memory_s_a_bit_hazy" value="My, uh, my memory's a bit hazy right now, ya know? Must've been that last trip to dreamland... or the bong." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_But_now_I_have_to_go_get_that_" value="Mas agora eu tenho que ir buscar essas evidências dos medo que você matou." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Alright__listen_up__I_was_supp" value="Tudo bem, ouça.Eu deveria guardar essa ação super importante." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_And_if_you_want_a_device_for_y" value="And if you want a device for your portal, you're going to help us..." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_What__don_t_look_at_me_like_th" value="O que, não me olhe assim!Você não sabe como é aqui." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_QuestActionAddToJournal_Penny__Stardust__Furbank__Reve" value="Penny &quot;Stardust&quot; Furbank&#10;Deverie Hollow, área de jantar ao ar livre.&#10;&#10;Ajude Penny a descobrir a interferência de Quaddari no culto do pastor Fazool, recuperando uma ação crucial de seu bong perto da forca." />
+  <Key key="_npc_Don_t_blame_you__really_I_m_a_" value="Não te culpe, realmente estou uma bagunça agora." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_I_guess_that_s_pretty_convenie" value="Eu acho que isso é muito conveniente, já que estou ajudando Lana." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Penny_had_you_bring_me_the_dee" value="Penny, você me trazia a ação?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Uh__you_need_something_" value="Você precisa de algo?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Alright__alright__So__I_might_" value="Tudo bem, tudo bem.Então, eu poderia ter estragado tudo.De novo.A ação provavelmente está perto da forca.Você vai!" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+</Node>

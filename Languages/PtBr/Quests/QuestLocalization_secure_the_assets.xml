@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_secure_the_assets" type="external">
+  <Key key="_npc_You_re__appreciated__I_ll_be_w" value="Você é ... apreciado.Estarei esperando por esses materiais." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Please_hurry_with_those_materi" value="Por favor, apresse -se com esses materiais.Não podemos perder tempo." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Any_luck_finding_the_Iron_Ingo" value="Alguma sorte em encontrar os lingotes de ferro e madeira tratada?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__the_safety_of_our_ba" value="Lembre -se, a segurança do nosso banco depende de você." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Wow___I_thought_perhaps_you_we" value="Uau - eu pensei que talvez você estivesse aqui para esconder nosso cofre." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Perhaps_we_will_reconsider_our" value="Talvez reconsideremos nossa política em contas de superlder." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_And_here__a_reward___perhaps_y" value="E aqui, uma recompensa - talvez você considere bancá -la conosco." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_resources_iron" value=" " />
+  <Key key="_QuestActionAddToJournal_5nJe" value="Oswald&#10;Goldenfield, banco.&#10;&#10;Traga os materiais Oswald para reforçar o cofre do banco." />
+  <Key key="_goalVoice_I_m_counting_on_you_to_bring_t" value="Estou contando com você para trazer esses materiais.Lembre -se, precisamos de lingotes de ferro e madeira tratada." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_varDescription_TQHV" value="INHOTO DE FERRO" />
+  <Key key="_goal_collect_resources_wood" value=" " />
+  <Key key="_varDescription_Px9k" value="Madeira tratada" />
+  <Key key="_varDescription_OPa7" value="INHOTO DE FERRO" />
+  <Key key="_varDescription_fLBH" value="Madeira tratada" />
+</Node>

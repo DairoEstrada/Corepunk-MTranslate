@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_pappy_rick" type="external">
+  <Key key="_npc_Well__look_who_the_intergalact" value="Bem, veja quem o gato intergalático se arrastou!Heh." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Ain_t_you_a_sight_for_sore_eye" value="Você não é uma visão para os olhos doloridos!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Mumblin__space_critters_and_al" value="Mumblin 'Britters e tudo ..." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Heh__come_to_soak_up_some_wisd" value="Heh, venha absorver um pouco de sabedoria de Ol 'Pappy, não é?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_By_the_gods__toenails__it_s_an" value="Pelas unhas dos dedos dos deuses, é outra!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Let_s_have_us_a_chinwag_" value="Vamos nos dar um chinwag." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Who_da_thunk_it__More_company_" value="Quem é Thunk It!Mais companhia para o ol 'Pappy!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_What_s_crackalackin___you_univ" value="O que é CrackAlackin ', seu universo-hoppin' Rascal!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_By_my_dented_helmet__another_d" value="Pelo meu capacete amassado, outro Dimwit!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Come_sit_a_spell_" value="Venha sentar um feitiço." voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Well_slap_my_space_boots_" value="Bem, bata minhas botas espaciais!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Hey_there__kiddo__Fancy_a_huff" value="Hey there, kiddo! Fancy a huff of moon-dust?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Look_what_the_portal_spat_out_" value="Veja o que o portal cuspiu!Ha!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Got_any_spare_smokes_" value="Tem fumado sobressalente?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_C_mere__you__Ever_tried_Nebula" value="C mero, você!Já tentou nebulosa-nip?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Got_a_whopper_of_a_story_for_y" value="Tenho uma história para você!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_Well__well__well__the_universe" value="Bem, bem, bem, o universo fornece!" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+  <Key key="_npc_What_in_tarnation_brought_you_" value="O que em tarnação trouxe você aqui, não é?" voiceSettingsId="8Hwu7JcAYNH4sPhEedmI" />
+</Node>

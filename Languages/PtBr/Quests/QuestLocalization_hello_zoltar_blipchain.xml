@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_zoltar_blipchain" type="external">
+  <Key key="_npc_G_day__mate_" value="G'day, companheiro!" voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+  <Key key="_npc_Hey_there_" value="Ei!" voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+  <Key key="_npc_Well__hello_there_" value="Bem, olá lá." voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+  <Key key="_npc_Good_to_see_ya__Just_remember_" value="É bom ver você!Lembre -se, lábios soltos afundam navios digitais." voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+  <Key key="_npc_Wanna_make_some_scratch__outwo" value="Quer fazer um pouco de arranhão, outworlder?" voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+  <Key key="_npc_Bring_any_money_from_your_worl" value="Traga algum dinheiro do seu mundo?" voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+  <Key key="_npc_Ohhh___a_rich_outworlder_" value="Ohhh .. um rico outworlder?" voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+  <Key key="_npc_Pay_me_to_invent_a_portal_home" value="Pagar para inventar uma casa de portal?" voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+  <Key key="_npc_Good_to_see_ya_" value="É bom ver você!" voiceSettingsId="EXAVITQu4vr4xnSDxMaL" />
+</Node>

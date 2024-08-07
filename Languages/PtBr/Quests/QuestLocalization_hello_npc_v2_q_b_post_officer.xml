@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_npc_v2_q_b_post_officer" type="external">
+  <Key key="_npc_Elanien_Post_Service__How_can_" value="Serviço postal de Elanien.Como posso ajudá-lo?" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_npc_EPS__Your_inquiry_" value="EPS. Your inquiry?&#13;" voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+</Node>

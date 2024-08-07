@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_logging_lesson" type="external">
+  <Key key="_npc_That_s_the_spirit__I_knew_you_" value="Esse é o espírito!Eu sabia que você tinha os resultados de um fino lenhador." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Careful_with_that_axe__Only_tr" value="Cuidado com esse machado.Somente árvores deveriam estar perdendo membros." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_You_re_doing_good_work__keep_i" value="Você está fazendo um bom trabalho, continue assim!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_I_ll_carve_this_Jewelry_Wood_i" value="Vou esculpir essa madeira de jóias em um anão com um particularmente pequeno ... você sabe o que." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_goalVoice_Gather_3_Tree_Roots_and_craft_" value="Reúna 3 raízes de árvores e crie -as em madeira de joalheria no banco.Simples, certo?Fora de você vai." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Gather_3_Tree_Roots_and_craft_" value="Reúna 3 raízes em árvores e crie -as em madeira de jóias no banco.Simples, certo?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_goal_collect_resources" value="Madeira de jóias" />
+  <Key key="_QuestActionAddToJournal_6Bjx" value="Zogar&#10;Goldenfield, perto do posto de combustível&#10;&#10;Use raízes de árvores para criar madeira de jóias." />
+  <Key key="_npc_Tree_Roots_to_Jewellery_Wood__" value="Raízes de árvore para a madeira de jóias, amigo.Lembre -se das etapas." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_For_my_good_friend_Thordal_" value="Para meu bom amigo Thordal!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Here_s_a_bit_of_coin_to_get_yo" value="Aqui está um pouco de moeda para você começar - espero que eu o veja cortando!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_You_re_officially_allowed_to_j" value="You're officially allowed to jack around here." voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_seaonna" type="external">
+  <Key key="_npc_Wish_I_had_legs____I_d_run_the" value="Gostaria de ter pernas ... eu administraria o mundo." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_What_s_kraken__good_lookin__" value="O que é Kraken, boa aparência?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Want_to_catch_a__high__tide_wi" value="Quer pegar uma maré 'alta' comigo?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Wanna_dive_into_some_treble_" value="Quer mergulhar em alguns agudos?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Know_any_good_herb_spots_" value="Conhece algum bom ponto de erva?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_I_don_t_have_legs__but_I_m_a_f" value="Eu não tenho pernas, mas sou uma dançarina Fin-Tastic." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Quit_looking_at_my_scales__my_" value="Pare de olhar para minhas escalas, meus olhos estão aqui em cima." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Oopsie__I_forgot_my_shells_" value="Oopsie, esqueci minhas conchas!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+</Node>

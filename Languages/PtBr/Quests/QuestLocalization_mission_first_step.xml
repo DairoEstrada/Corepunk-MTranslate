@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mission_first_step" type="external">
+  <Key key="_npc_Alright_kiddo__go_talk_to_Ratc" value="Alright kiddo, go talk to Ratchet, Butch, and Dr. Bloom!." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_end_quest" value="Prepare -se para combater os Imps." />
+  <Key key="_QuestActionAddToJournal_eUaP" value="Martha &quot;Big Mamma&quot; Potterson&#13;&#10;Goldenfield, near Welfare kitchen.&#10;&#10;Talk to Ratchet, Dr. Bloom, and Butcher about fighting imps." />
+  <Key key="_goalVoice_Talk_to_Ratchet__Dr__Bloom__an" value="Converse com Ratchet, Dr. Bloom e Butcher sobre o combate aos Imps." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_talk_ratchet" value="Fale com a Ratchet" />
+  <Key key="_goal_talk_bloom" value="Fale com o Dr. Orion Bloom" />
+  <Key key="_goal_talk_butch" value="Fale com Butch O'Hara" />
+  <Key key="_npc_Remember___Ratchet__Butch__and" value="Lembre -se - Ratchet, Butch e Dr. Bloom concordaram em ajudá -lo." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_They_ll_gear_you_up_so_you_can" value="Eles vão acelerar você para que você possa enfrentar o fogo." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Ratchet_here__Martha_told_me_a" value="Ratchet aqui!Martha me contou sobre o seu problema com o impulso, e acho que podemos criar algo especial para lidar com isso." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Unfortunately__my_crew_were_th" value="Unfortunately, my crew were the real scientists." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_So__Martha_told_you_about_my_s" value="Então, Martha falou sobre meu tempero especial?Eu deveria estripar quem te disse ..." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_But_it_s_not_going_to_be_easy_" value="Mas não vai ser fácil.Precisamos de alguns componentes bastante específicos para fazer isso." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_First__go_to_Grizzle_Ironfoot_" value="First, go to Grizzle Ironfoot in Westwind Woods and help him out with his mining research to get some special ore for me." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Then__head_over_to_Goldenfield" value="Then, head over to Goldenfield. Find Griz near the Artifact Shop and see if you can persuade him to give you an Ancient Artifact I need." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Lastly__track_down_D_Rek_near_" value="Lastly, track down D'Rek near the Summer House in Goldenfield. You'll need to assist him to earn a Mana-Powered Mechanism." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Once_you_have_all_the_componen" value="Depois de ter todos os componentes, traga -os de volta para mim e montaremos a arma definitiva!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Good_luck_killing_imps_without" value="Boa sorte, matando os diabos sem isso!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Alright_then__but_you_ll_be_mi" value="Alright then, but you ll be missing out on an ultimate weapon." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_No_problem__just_come_back_if_" value="Não tem problema, basta voltar se você mudar de idéia." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_So__if_you_come_across_my_crew" value="Então, se você se deparar com minha equipe, passe minhas coordenadas.Talvez possamos resolver seu problema." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_I_m_stranded_here__with_no_way" value="Estou preso aqui, sem nenhuma maneira de navegar nessa paisagem alienígena ou alcançá -los." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_The_isolation__the_uncertainty" value="O isolamento, a incerteza - é enlouquecedor.Cada momento é um teste de sanidade." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_My_crew__they_re_not_just_coll" value="Minha equipe, eles não são apenas colegas - eles são meus amigos.O pensamento deles perdeu e aterrorizou ... é demais." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_It_feels_like_an_eternity_sinc" value="Parece uma eternidade desde o acidente.Tempo e espaço perderam todo o significado." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_An_imp__Using_my_plants__That_" value="Um imp?Usando minhas plantas?Isso é desprezível ..." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_I_understand__It_s_a_lot_to_as" value="Eu entendo.É muito para perguntar.Vou apenas ... vou continuar esperando." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Sure__no_problem__Space_is_vas" value="Claro, não há problema.O espaço é vasto e o tempo é ... bem, eu tenho bastante aqui." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_That_s_okay__I_ll_keep_holding" value="That's okay. I'll keep holding on to hope. It's all I have right now." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_You_re_right_though___it_s_gro" value="Você está certo - porém - é o Imp Guts de largura.Essas criaturas têm um sabor único que não pode ser batido." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_have_a_secret_to_getting__up" value="Eu tenho um segredo para me aproximar e pessoal para arrebatá -los." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Tell_you_what__if_you_help_me_" value="Diga o que, se você me ajudar a caçar algumas criaturas de folhas na floresta de Windreach, derramarei o feijão sobre como eu recebo o equipamento para lidar com os diabos." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_I_m_thinking_of_whipping_up_a_" value="Estou pensando em preparar uma nova 'alternativa à base de plantas' usando essas criaturas vegetais com capacidade para gritos." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_That_s_a_pity__could_ve_used_y" value="Isso é uma pena, poderia ter usado sua ajuda." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_No_worries__I_ll_find_another_" value="Não se preocupe, vou encontrar outra maneira.Talvez." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Alright_then__but_don_t_come_a" value="Tudo bem então, mas não venha pedir meu segredo mais tarde." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_assistant_phrase_dPW5" value="Então, você conseguiu todos para ajudar?Eu sei que eles provavelmente estão fazendo você fazer algumas coisas por eles, mas valerá a pena." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_VCdP" value="Boa sorte lá fora.Não se queimar coisas queimadas e quentes." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_534p" value="Então, você conseguiu todos para ajudar?Eu sei que eles provavelmente estão fazendo você fazer algumas coisas por eles, mas valerá a pena." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_YDBU" value="Boa sorte lá fora.Não se queimar coisas queimadas e quentes." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_MeAz" value="So, you got them all to help? I know they're probably making you do some stuff for them, but it'll be worth it." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_4a6M" value="Boa sorte lá fora.Não se queimar coisas queimadas e quentes." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_But_hey__there_s_no_rush__righ" value="Mas ei, não há pressa, certo?Exceto que cada um segundo parece um soco no intestino." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Well__that_and_the_fact_you_re" value="Bem, isso e o fato de você procurar incêndio criminoso e precisam limpar seu nome." voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+  <Key key="_npc_Word_travels_fast__you_know_" value="Word viaja rápido, sabe?" voiceSettingsId="2EiwWnXFnvU5JabPnv8n" />
+</Node>

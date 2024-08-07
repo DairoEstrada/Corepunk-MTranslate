@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_sharp_donation" type="external">
+  <Key key="_npc_Honey__I_knew_you_d_see_things" value="Querida, eu sabia que você veria as coisas do meu jeito.Vamos manter essa vantagem, mas não em suas facas entenderam?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_QuestActionAddToJournal_Velvet_Viper_Riverrise__City_C" value="Velvet Viper&#10;Riverrise, centro da cidade.&#10;&#10;Ajude o Velvet Viper a coletar facas ao redor do bar Riverrise para garantir a segurança." />
+  <Key key="_goalVoice_Sweetie__get_those_knives_befo" value="Querida, pegue essas facas antes que alguém fique também ... apegado.Verifique cada esquina, querida.Não podemos ter mais 'piercings' não convidados." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Ready_to_make_Velvet_smile_tod" value="Pronto para fazer o veludo sorrir hoje?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Mmm__I_like_a_person_who_can_u" value="Mmm, eu gosto de uma pessoa que pode usar bem as mãos.Aproveite seus despojos." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Remember__sugar__a_favor_from_" value="Lembre -se, o açúcar, um favor de Velvet é tão bom quanto o ouro por aqui." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Especially_when_Velvet_has_all" value="Especialmente quando o veludo tem todas as facas no bar." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Knife" value="Colete a faca" />
+  <Key key="_npc_Oh__so_you_think_you_can_join_" value="Oh, então você acha que pode se juntar às Velvet Vipers?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Well__it_s_a_bit_too_sharp_aro" value="Bem, é um pouco muito afiado por aqui para o meu gosto.Vamos embotar a atmosfera um pouco." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Listen_sweetie__those_pointy_t" value="Escute, querida, aqueles brinquedos pontudos que os clientes trouxeram?Eles precisam desaparecer como os erros da noite passada." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Can_you_handle_that_" value="Você pode lidar com isso?" voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Well__sugar__I_hope_you_enjoy_" value="Bem, açúcar, espero que você goste de dormir com um olho aberto." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_Turn_me_down__Brave__Or_stupid" value="Turn Me Down?Corajoso.Ou estúpido.Veremos." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+  <Key key="_npc_That_s_disappointing__I_guess_" value="Isso é decepcionante.Eu acho que você não é nítido o suficiente para cortá -lo." voiceSettingsId="kN4LJ7eDUyzLkfNirct6" />
+</Node>

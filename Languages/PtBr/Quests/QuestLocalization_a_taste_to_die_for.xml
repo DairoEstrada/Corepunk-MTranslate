@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_taste_to_die_for" type="external">
+  <Key key="_npc_Fuck_yeah__You_re_my_kind_of_a" value="Foda -se sim!Você é meu tipo de aventureiro.Vá limpar sua bunda e começar a trabalhar!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Magic_Weeds" value="Coletar ervas daninhas mágicas" />
+  <Key key="_QuestActionAddToJournal_Gragthar_Riverrise__City_Cente" value="Gratar&#10;Riverside, centro da cidade.&#10;Ajude Gratuar a reunir 10 ervas daninhas mágicas para tornar seus pratos mais viciantes." />
+  <Key key="_goalVoice_What_the_fuck_are_you_doing__s" value="Que porra você está fazendo, relaxando?Pegue aquela maconha mágica da floresta!Quero dizer .... por favor, pegue essa porra de maconha mágica." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Well__shit__You_re_back_" value="Bem, merda!Você voltou!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Did_you_get_that_fuckin__herb_" value="Você conseguiu aquela erva?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Hey__look_who_s_back_from_the_" value="Ei, olhe quem está de volta da selva!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Holy_fuck__you_actually_pulled" value="Puta porra, você realmente conseguiu!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Here_s_your_damn_reward__Get_o" value="Aqui está a sua maldita recompensa.Saia do meu rosto antes de decidir cozinhá -lo!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_My_food_stand_s_all_the_rage__" value="Meu suporte de comida é toda a raiva, mas estou cozinhando algo mais espremido.Já ouviu sobre essa maconha mágica que transforma as pessoas em máquinas sem parar de comer?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_People_munch_on_it__and_next_t" value="As pessoas mastigam isso, e a próxima coisa que você sabe estão empurrando a comida em suas garotas como se não houvesse amanhã.Pense nos lucros, haha!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_I_need_someone_with_some_real_" value="Eu preciso de alguém com algumas bolas de verdade, como você, transportar a bunda na floresta e prender aquela erva." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_But_listen_up__there_are_some_" value="Mas ouça, existem algumas criaturas esquisitas por aí prontas para arrancar seu rosto." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Bring_it_to_me__and_trust_me__" value="Traga para mim e confie em mim, você estará rolando em recompensas.Pronto para um caos de merda?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Oh__fuck_off_then__I_ll_find_s" value="Oh, foda -se então!Vou encontrar outra pessoa com algumas bolas." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Piss_off__chicken_shit__I_ll_g" value="Irritar, frango.Vou pegar essa erva." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Damn__what_a_wuss__Can_t_handl" value="Droga, que wuss!Não consegue lidar com uma pequena aventura?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Shit__I_thought_you_had_some_g" value="Merda, eu pensei que você tinha alguma coragem.Acho que não." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Well__fuck_me__Didn_t_think_yo" value="Bem, foda -me.Não achei que você voltaria como uma puta assustada." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+</Node>

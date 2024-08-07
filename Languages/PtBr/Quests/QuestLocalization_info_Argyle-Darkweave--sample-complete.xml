@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_Argyle-Darkweave--sample-complete" type="external">
+  <Key key="_npc_They_call_me_Argyle_Darkweave_" value="They call me Argyle Darkweave, weaver of the bewitched and the bizarre." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_I_am_but_a_humble_merchant_of_" value="Eu sou apenas um humilde comerciante de meias enigmáticas, abençoado com um toque de magia." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_You_speak_with_Argyle__the_pur" value="Você fala com Argyle, o fornecedor de elegância de calçados atribuída ao arcane." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Madame__I_m_just_a_man_who_kno" value="Madame, eu sou apenas um homem que conhece a magia das meias.Argyle a seu serviço." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Who_am_I__traveler__Why__the_u" value="Quem sou eu, viajante?Ora, o melhor comerciante de meias nas realidades conhecidas!" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_All_the_better_for_meeting_som" value="Tanto melhor para encontrar alguém com gostos exigentes." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Another_day_offering_the_mysti" value="Outro dia oferecendo o místico e o aconchegante, então eu sou esplêndido." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_With_a_fresh_batch_of_enchante" value="Com um novo lote de meias encantadas prontas, estou me sentindo bastante mágico." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Feeling_good__at_the_junction_" value="Sentindo -se bem, com a junção de pés quentes e feitiçaria severa." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_I_m_doing_well__The_dark_magic" value="Estou bem.A magia sombria mantém a vida ... emocionante." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_A_hidden_little_spot_in_bustli" value="Um pequeno local escondido na movimentada cidade de Goldenfield, onde a magia encontra têxteis." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Curious__isn_t_it__A_sock_stal" value="Curioso, não é?Uma banca de meia em Goldenfield, infundida com energias incomuns." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Once_just_another_spot_in_Gold" value="Uma vez apenas mais um local em Goldenfield, agora lar de um feiticeiro de meia." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_You_ve_wandered_into_my_little" value="Você entrou no meu pequeno recanto da cidade de Goldenfield, um mercado de meias de encantos místicos." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_" value=" " voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Mmm__yes__Let_s_peruse_my_myst" value="Mmm, sim!Vamos ler minha mercadoria mística." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Ah__a_seeker__Let_s_get_you_so" value="Ah, um buscador!Vamos te dar algumas meias mágicas." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_With_help__you_say__Stand_back" value="Com ajuda, você diz?Afaste -se;É hora de fermentação de meia!" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Indeed__let_s_decipher_your_so" value="Indeed, let's decipher your sock destiny!" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Yes__you_need_a_good_pair_of_s" value="Sim, você precisa de um bom par de meias, confie em mim." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Very_well__peruse_at_your_leis" value="Muito bem, leia ao seu lazer.As meias ainda estarão aqui." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_A_pity__The_magic_socks_will_a" value="Uma pena!As meias mágicas aguardarão sua mudança de coração." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_No_need_of_my_enchanted_socks_" value="Não há necessidade de minhas meias encantadas?Infelizmente!Seus pés vão se arrepender disso!" voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_Denying_help_from_a_magic_sock" value="Negando a ajuda de um comerciante de meias mágicas?Em negrito, eu gosto disso." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+  <Key key="_npc_No__That_s_odd__I_thought_ever" value="Não?Isso é estranho.Eu pensei que todo mundo precisava de meias mágicas." voiceSettingsId="TxGEqnHWrfWFTfGW9XjX" />
+</Node>

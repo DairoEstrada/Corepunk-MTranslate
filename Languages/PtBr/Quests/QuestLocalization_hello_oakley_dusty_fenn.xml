@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_oakley_dusty_fenn" type="external">
+  <Key key="_npc_Hey__man_" value="E aí cara." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Peace__friend_" value="Paz, amigo." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_What_s_up__brother_" value="E aí, irmão?" voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_How_s_it_hanging_" value="Como está pendurado?" voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Groovy_vibes__dude_" value="Vibrações groovy, cara." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Stay_chill__man_" value="Fique frio, cara." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Hey_there_" value="Ei." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Cool_to_see_ya_" value="Legal ver você." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_What_s_cookin___good_lookin__" value="O que está cozinhando, boa aparência?" voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_High_there__I_mean_hi_there_" value="Alto lá.Quero dizer oi lá." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_You_new_around_here_" value="Você novo por aqui?" voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Hope_you_brought_ingredients_" value="Espero que você tenha trazido ingredientes." voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+  <Key key="_npc_Want_some_food_" value="Quer um pouco de comida?" voiceSettingsId="p6WUQnbBNPhEHKGqZpPC" />
+</Node>

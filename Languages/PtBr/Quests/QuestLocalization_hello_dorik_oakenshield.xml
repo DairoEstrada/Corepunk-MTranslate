@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_dorik_oakenshield" type="external">
+  <Key key="_npc_Woah__Thought_ya__might_be_a_g" value="Woah!Pensei que você poderia ser um fantasma." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Salutations__adventurer_" value="Saudações, aventureiro." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Don_t_sneak_up_on_me__alright_" value="Não me esgueire, tudo bem?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Greetings__lad_" value="Saudações, rapaz." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Did_Alex_send_ya__" value="Alex enviou você '?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+</Node>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestFailed" type="external">
+  <Key key="Key" value="Missão &quot;{value1}&quot; falhou." />
+</Node>

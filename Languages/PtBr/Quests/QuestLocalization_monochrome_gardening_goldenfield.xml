@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_monochrome_gardening_goldenfield" type="external">
+  <Key key="_goal_use_objects" value=" " />
+  <Key key="_sys_msg_J4i7" value="O inventário está cheio." />
+  <Key key="_npc_Requesting_update__Weed_task_s" value="Atualização solicitando: status da tarefa de ervas daninhas." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Thank_you_for_such_kindness__F" value="Obrigado por tanta gentileza.Amigo." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_And_one_will_not_interfere_nor" value="E não se interferirá nem distrairá.As espécies vermelhas devem permanecer intocadas.Os violeta devem ser retirados." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_varDescription_HRBX" value="Puxe as ervas daninhas" />
+  <Key key="_QuestActionAddToJournal_bx1p" value="Blink-1n&#10;Goldenfield, a oeste da cozinha de bem -estar social&#10;&#10;Retire as espécies violeta de ervas daninhas.As espécies vermelhas devem permanecer intocadas.É importante não misturá -los." />
+  <Key key="_goalVoice_If_someone_pulled_out_the_viol" value="Se alguém puxasse as espécies violeta de ervas daninhas, seria possível provar sua utilidade e, portanto, prolongar sua existência.As espécies vermelhas devem permanecer intocadas.Os violeta devem ser retirados." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Inquiring_user_progress__Have_" value="Progresso do Usuário inquérito: Todas as ervas daninhas Violet foram removidas?" voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_User_contribution_detected__Mo" value="Contribuição do usuário detectada.Monitorando o progresso da tarefa ..." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Your_actions_have_amplified_th" value="Suas ações amplificaram o coeficiente de confiança na programação de alguém.A gratidão está em ordem." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_One_sees_that_Sir_Madame_has_p" value="Vemos que Sir/Madame se afastou ... algumas espécies de plantas.Não se podia contar as ervas daninhas, além das plantas valiosas, mas se escolhe ser confiável." voice="Male" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

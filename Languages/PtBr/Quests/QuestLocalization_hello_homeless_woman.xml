@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_homeless_woman" type="external">
+  <Key key="_npc_Hello__Want_some_stuff_" value="Olá!Quer algumas coisas?" voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_What_are_you_looking_for__I_be" value="O que você está procurando?Aposto que entendi." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_What_brings_you_to_this_shitho" value="O que o leva a este mergulho, Toots?" voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Yeah__I_hope_you_brought_the_c" value="Sim?Espero que você tenha trazido o dinheiro?" voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_m_open_for_business__But_try" value="Estou aberto para negócios.Mas tente qualquer coisa e meus meninos vão lutar seu hash." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+</Node>

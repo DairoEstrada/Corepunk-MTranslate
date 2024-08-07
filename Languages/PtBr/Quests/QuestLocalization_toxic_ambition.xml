@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_toxic_ambition" type="external">
+  <Key key="_goalVoice_Ahem__remember__five_Isotope_2" value="Ahem, lembre -se, cinco isótopos 238 amostras!É para o bem maior da arte.Minha arte!Lembre -se das notas, querida, esse material é radioativo!Lidar com toda a graça das minhas cordas vocais." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Ah__I_see_you_recognize_raw__u" value="Ah, vejo que você reconhece talento cru e incomparável.Não vamos desperdiçar outra nota." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_You__This_is_all_your_fault__M" value="Você!Isto é tudo culpa sua!Meu plano, meu plano brilhante, arruinado por sua causa!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_You_think_you_can_just_walk_aw" value="Você acha que pode simplesmente ir embora depois do que fez?Pense de novo!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Isotope_238__that_s_your_only_" value="Isotope 238, essa é sua única esperança agora.Eu preciso de cinco amostras para consertar essa bagunça e voltar aos colegas de banda que me traíam." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Refuse_me__and_I_ll_make_sure_" value="Recuse -me, e vou garantir que você seja quem sofre.Não me teste, não tenho mais nada a perder." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Oh__so_you_think_you_re_too_go" value="Oh, então você acha que é bom demais para me ajudar?Vou ter certeza de que você se arrepende disso." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_You_and_your_petty_morals__I_l" value="Você e sua moral mesquinha.Eu vou te assistir desmoronar diante de mim." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Pathetic__You_won_t_get_away_w" value="Patético!Você não vai se safar disso.Vou acabar com você, se for necessário." voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Just_walk_away_then__Your_days" value="Apenas vá embora então.Seus dias estão numerados, seu traidor de punhalada!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_QuestActionAddToJournal_Soko_Uno_Riverrise__Scene__Ass" value="Soko Uno&#10;Riverrise, cena&#10;&#10;Ajuda Soko Uno em seu plano perigoso de assumir o papel principal de sua banda coletando Isotope 238." />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_varDescription_Collect_Isotope_238" value="Colete isótopo 238" />
+  <Key key="_npc_Is_the_masterpiece_ready__My_f" value="A obra -prima está pronta?Meus fãs estão esperando!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Ah__the_world_shall_now_bask_i" value="Ah, o mundo agora se aproxima de minhas melodias transcendentes, alheio às suas vidas mundanas!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_With_these__my_art_and_intelle" value="Com estes, minha arte e intelecto se fundirão, subindo acima da mediocridade.Aqui, sua recompensa!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Soon__you_ll_see_my_avant_gard" value="Em breve, você verá que meu gênio da vanguarda será inegável.A banda não saberá o que os atingiu, literalmente!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+</Node>

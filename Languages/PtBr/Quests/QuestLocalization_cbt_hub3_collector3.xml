@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_hub3_collector3" type="external">
+  <Key key="_goal_find_artefact" value="Encontre o artefato épico" />
+  <Key key="_QuestActionAddToJournal_K53V" value="Encontre um artefato como este" />
+  <Key key="_goalVoice_NxjO" value="Find an artifact like this" voice="Male" />
+  <Key key="_goal_end_quest" value="Traga o artefato épico para o caçador de artefatos" />
+  <Key key="_QuestActionAddToJournal_W6rP" value="Dê o artefato ao colecionador" />
+  <Key key="_QuestActionAddToJournal_OTn4" value="Entregar um artefato épico" />
+  <Key key="_npc_Prinesi_artefakt" value="Bem, como eu te disse, esse artefato será muito difícil de encontrar.Mas como não estou pressionado a fazê -lo rápido, você leva seu tempo, tudo bem?" voice="Male" />
+  <Key key="_npc_O_da__davay_mne" value="Bem, é isso que eu chamo de trabalho honesto.Aqui está o seu salário, e Heeeere é minha beleza.Você fez bem." voice="Male" />
+</Node>

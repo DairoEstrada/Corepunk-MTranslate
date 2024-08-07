@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_grimbleton" type="external">
+  <Key key="_npc_Heyheyhey__What_s_up_" value="Ei ei ei!E aí!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Yo__Yo__Yo_" value="Yo!Yo!Yo!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Hi__Hi__Hi__Hi_" value="Oi!Oi!Oi!Oi!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Oh_hey__You__You_" value="Oh ei!Você!Você!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Hey__Hey__Hi_" value="Ei!Ei!Oi!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Yo__What_s_up__" value="Yo!E aí?!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Hi__Hi_there_" value="Oi!Olá!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+  <Key key="_npc_Oh__hey__You_" value="Oh, ei!Você!" voiceSettingsId="OmoVUmuTRPw15ODOCIdZ" />
+</Node>

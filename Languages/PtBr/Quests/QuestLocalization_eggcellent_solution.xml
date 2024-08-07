@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eggcellent_solution" type="external">
+  <Key key="_npc_Thank_you__friend__This_means_" value="Obrigado, amigo.Isto significa muito para mim." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_goal_collect_eggs_items" value=" " />
+  <Key key="_goal_collect_corn_flour_items" value=" " />
+  <Key key="_npc_Oh__hey__Did_you_manage_to_fin" value="Oh, ei!Você conseguiu encontrar esses ingredientes?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_CiN7" value="Colete um ovo" />
+  <Key key="_varDescription_6nd3" value="Colete uma farinha de milho" />
+  <Key key="_npc_You_did_it__Thank_you_so_much_" value="Você fez isso!Muito obrigado." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Hopefully__this_works__my_butt" value="Felizmente, isso funciona, meu butthole ficará muito agradecido." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_This_could_be_a_gamechanger_if" value="Isso pode ser um gamechanger se tudo correr bem!" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_may_be_living_off_government" value="Eu posso estar vivendo de pão do governo, mas essas coisas simplesmente não se sentam bem com o estômago." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_heard_about_some_kind_of_flo" value="Ouvi falar de algum tipo de farinha feita de milho.Talvez seja mais fácil na minha barriga do que essas coisas de trigo." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_QuestActionAddToJournal_Berg_Stonefoot_Goldenfield__Fo" value="Berg Stonefoot&#10;Goldenfield, campo florestal.&#10;&#10;Ajude Berg Stonefoot a encontrar uma maneira de apreciar sua comida, apesar de sua doença celíaca." />
+  <Key key="_goalVoice_Don_t_forget__I_need_corn_flou" value="Não se esqueça, eu preciso de farinha de milho e dois ovos.Você pode criar farinha de milho, tenho certeza que a grande mãe sabe como.Ovos, bem, galinhas, homem." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_Collect_a_Egg" value="Colete um ovo" />
+  <Key key="_varDescription_Collect_a_Corn_Flour" value="Colete uma farinha de milho" />
+  <Key key="_npc_Could_you_help_me_out_by_getti" value="Could you help me out by getting some corn flour and a couple of eggs? I've got some roasted poultry that I'd love to bread with it." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Oh__well__I_d_understand__It_s" value="Oh, bem, eu entenderia.Não é uma tarefa fácil." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Alright__I_suppose_I_ll_find_a" value="Tudo bem, suponho que encontrarei outra maneira." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_No_worries__Maybe_another_time" value="Sem problemas.Talvez outra hora então." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+</Node>

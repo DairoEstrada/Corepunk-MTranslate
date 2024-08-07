@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_lily_baxter" type="external">
+  <Key key="_npc_Hiya__friend_" value="Olá, amigo!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Wanna_play_" value="Quero jogar?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Peek_a_boo_" value="Peek-a-boo!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Got_a_secret_" value="Tenho um segredo?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_You_found_me_" value="Você me encontrou!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Hello_there_" value="Olá!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Guess_what_" value="Adivinha?" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+  <Key key="_npc_Let_s_have_fun_" value="Vamos nos divertir!" voiceSettingsId="VhCdI07QKISjr74C76S8" />
+</Node>

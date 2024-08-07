@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_coffeeshop" type="external">
+  <Key key="_npc_sdaf" value="Ele ficou lá e não quer voltar&#13;?" />
+  <Key key="_npc_Have_you_found_my_friend_yet__" value="Você já encontrou meu amigo?" />
+</Node>

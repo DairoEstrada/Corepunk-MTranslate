@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_censor_survivalist" type="external">
+  <Key key="_npc_Don_t_waste_my_time_" value="Bem -vindo, sobrevivente." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Yeah_" value="Precisa de ajuda sobreviver?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_What_do_you_want_" value="Pronto para aprender?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_State_your_business_" value="Aqui para algumas dicas de sobrevivência?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_Wow__someone_made_it_" value="Uau, alguém fez isso." voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+  <Key key="_npc_You_from_the_portal_" value="Você do portal?" voice="Male" voiceSettingsId="jOMpNzdrKkTNvQJDX5Cq" />
+</Node>

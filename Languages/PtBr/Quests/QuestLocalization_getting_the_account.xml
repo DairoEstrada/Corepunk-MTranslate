@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_getting_the_account" type="external">
+  <Key key="_npc_Great__I_knew_you_wouldn_t_let" value="Ótimo!Eu sabia que você não me decepcionaria." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__these_masks_are_cruc" value="Lembre -se, essas máscaras são cruciais.Não volte sem eles." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_re_back__Successful__I_hop" value="Você voltou!Bem -sucedido, espero?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_did_it__Excellent_work_" value="Você fez isso! Excelente trabalho." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Here_s_that_piece_of_fire_grad" value="Aqui está aquele equipamento de graduação de fogo, como prometido." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_It_s_a_solid_investment___any_" value="É um investimento sólido - qualquer cofre sem uma vontade anexada a ele inadimplentes ao banco após a rescisão." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__use_it_wisely__The_i" value="Lembre -se, use -o com sabedoria.Os IMPs não saberão o que os atingiu." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_mask_green" value=" " />
+  <Key key="_varDescription_MvK0" value="Colete a máscara verde" />
+  <Key key="_goal_collect_mask_orange" value=" " />
+  <Key key="_varDescription_CYO1" value="Coletar máscara chifres de laranja" />
+  <Key key="_goal_collect_mask_pink" value=" " />
+  <Key key="_varDescription_CLm5" value="Colete máscara rosa pássaro" />
+  <Key key="_QuestActionAddToJournal_T1PY" value="Oswald&#10;Goldenfield, banco.&#10;&#10;Recupere as máscaras do Guru David para Oswald." />
+  <Key key="_goalVoice_Still_need_those_masks_from_Gu" value="Ainda preciso dessas máscaras do Guru David.Não se esqueça: chifres verdes, laranja e pássaro rosa.Vá para a casa de ioga em Goldenfield se você esqueceu por onde começar.Sem essas máscaras, não posso ajudá -lo com o equipamento.Continue, amigo." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

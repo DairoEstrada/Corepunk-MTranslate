@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_pastor_fazool" type="external">
+  <Key key="_npc_Come_to_offer_yourself_to_Daga" value="Venha se oferecer à glória de Dagaron?" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Ah__a_devoted_soul__eager_to_s" value="Ah, uma alma dedicada, ansiosa para servir Dagaron?" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Is_it_your_time_to_meet_Dagaro" value="É sua hora de conhecer Dagaron cara a cara?" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Ready_to_prove_your_worth_to_D" value="Pronto para provar seu valor para Dagaron?" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Another_potential_sacrifice_fo" value="Outro sacrifício em potencial pelo presente eterno de Dagaron?" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Have_you_pledged_your_life_to_" value="Você já prometeu sua vida a Dagaron?" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Feel_the_embrace_of_Dagaron_s_" value="Sinta o abraço do poder de Dagaron!" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Step_forward__in_the_name_of_D" value="Avance, em nome de Dagaron!" voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+</Node>

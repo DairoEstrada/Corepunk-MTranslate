@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_fateful_bet" type="external">
+  <Key key="_npc_A_missed_opportunity_for_me_to" value="Uma oportunidade perdida para eu praticar minha arte, mas essa é a vida!" voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_No_worries__I_guess_time_sensi" value="Sem problemas.Eu acho que questões legais sensíveis ao tempo podem esperar." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Pzgb" value="Aimenses de seda" />
+  <Key key="_npc_Should_you_manage_to_procure_s" value="Se você conseguir adquirir alguns e entregá -lo a ele, posso encontrar tempo para ajudar." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goal_talk_npc" value="Voltar para Durzo &quot;Dicey&quot; Dunwaddle" />
+  <Key key="_npc_One_such_disruption_is_Durzo__" value="Uma dessas interrupções é o Durzo 'Dicey' Dunwaddle, um guarda que poderia usar algumas molhos de seda frescos para inventar seus tratamentos faciais." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_From_what_I_hear__it_s_not_the" value="Pelo que ouço, não são os únicos tratamentos faciais que ele está recebendo." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_goalVoice_To_set_the_wheels_in_motion_fo" value="Para colocar as rodas em movimento para o nosso empreendimento legal, traga luminosos de seda para Dicey em Windstone Village.Toda ruga conta uma história, mas não vamos fazer uma história de horror, não é?" voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_I_d_be_keen_on_supporting_such" value="Eu estaria interessado em apoiar essa causa, mas minha agenda está bastante ... congestionada." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Ah__you_re_here_about_Triton_s" value="Ah, you're here about Triton's lawsuit against those monsters. Quite the peculiar case, I must say." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_npc_Whatever__at_least_it_s_someth" value="Seja como for, pelo menos é algo.Pegue isso e diga ao bom médico que somos quadrados." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_I_guess_I_can_t_complain_about" value="Acho que não posso reclamar de vermes frescos, embora prefira meu maldito dinheiro." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Are_these_worms_valuable__Is_i" value="Esses vermes são valiosos?É uma mensagem?Que diabos é o negócio desse cara ..." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_QuestActionAddToJournal_Dr__Glimmiwop_Goldenfield__Dis" value="Dr. Glimmiwop&#10;Goldenfield, fazenda distante.&#10;&#10;Traga Durzo 'Dicey' Dunwaddle 5 Aimenses de seda frescos em nome do Dr. Glimmiwop." />
+  <Key key="_npc_Perhaps_next_time_you_ll_be_re" value="Talvez da próxima vez você esteja pronto para uma experiência transformadora." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+  <Key key="_varDescription_Silkworms" value="Aimenses de seda" />
+  <Key key="_npc_So__this_is_Glimmiwop_s_way_of" value="So, this is Glimmiwop's way of paying his poker debt? Interesting... I had something else in mind." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Did_Dr__Glimmiwop_send_you_the" value="O Dr. Glimmiwop lhe enviou então?Como nossa pequena aposta acabou?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Excellent__Let_s_snip_and_scul" value="Excelente.Vamos recorte e esculpir o seu caminho para o sucesso, minha querida." voiceSettingsId="AoGRQBRyTKXAiEJ1htzH" />
+</Node>

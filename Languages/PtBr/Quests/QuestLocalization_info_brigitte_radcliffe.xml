@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_brigitte_radcliffe" type="external">
+  <Key key="_npc_Name_s_Bridgette_Radcliffe__bu" value="Nome é Bridgette Radcliffe, mas todos por aqui me chamam de boné e você também." />
+  <Key key="_npc_I_m_the_Captain_stationed_at_t" value="Eu sou o capitão estacionado na saída oeste-sul do Riverrise." />
+  <Key key="_npc_Came_from_a_world_where_discip" value="Veio de um mundo onde a disciplina era a vida sem tolerada." />
+  <Key key="_npc_Here__I_make_sure_those_same_p" value="Aqui, certifico -me de que esses mesmos princípios se mantenham fortes." />
+  <Key key="_npc_Got_my_eagle_eyes_on_the_exit_" value="Peguei meus olhos de águia nos portões de saída e preguiçosos como Gareth." />
+  <Key key="_npc_Been_busy__same_as_always__Gua" value="Estou ocupado, o mesmo que sempre.Os deveres de guarda nunca descansam." />
+  <Key key="_npc_Stressful__but_ain_t_complaini" value="Estressante, mas não está reclamando.Me mantém afiado." />
+  <Key key="_npc_I_ll_admit__helps_to_have_The_" value="Admito, ajuda a ter os bandidos de foda tocando na cidade para aliviar o clima." />
+  <Key key="_npc_And_there_s_ground_Silica____T" value="E há sílica moída ... o formigamento que ela dá ajuda a lidar com as longas horas." />
+  <Key key="_npc_Not_that_anyone_needs_to_know_" value="Não que alguém precise saber disso.Voc ~ e tem algum?" />
+  <Key key="_npc_You_re_standing_in_Riverrise_" value="Você está em pé no rio." />
+  <Key key="_npc_This_town_s_the_biggest_here__" value="Esta cidade é a maior aqui, cheia de traficantes de drogas e vítimas profissionais." />
+  <Key key="_npc_We_got_a_crafting_quarter_that" value="Temos um trimestre de artesanato que ocupa um pedaço do local mantém as pessoas ocupadas." />
+  <Key key="_npc_With_new_travelers_popping_in_" value="Com novos viajantes aparecendo de Who-Know-Where, é um pouco de tudo." />
+  <Key key="_npc_Just_stay_out_of_trouble_and_y" value="Apenas fique longe de problemas e você ficará bem." />
+  <Key key="_npc_Not_right_now__but_stay_sharp_" value="Não agora, mas fique afiado." />
+  <Key key="_npc_I_ve_got_things_under_control_" value="Eu tenho as coisas sob controle." />
+  <Key key="_npc_Appreciate_the_offer__but_not_" value="Aprecie a oferta, mas não no momento." />
+  <Key key="_npc_No__we_re_good_for_now_" value="Não, estamos bem por enquanto." />
+  <Key key="_npc_Actually__yeah__Got_something_" value="Na verdade, sim.Tenho algo que precisa fazer." />
+  <Key key="_npc_Sure__I_could_use_an_extra_set" value="Claro, eu poderia usar um conjunto extra de mãos." />
+  <Key key="_npc_Thought_you_d_never_ask__Got_a" value="Achei que você nunca iria perguntar.Tenho uma tarefa para você." />
+  <Key key="_npc_Alright__listen_up__Got_work_f" value="Tudo bem, ouça.Tenho trabalho para você." />
+</Node>

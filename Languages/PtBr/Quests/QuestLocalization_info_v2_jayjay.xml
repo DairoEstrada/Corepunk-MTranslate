@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_jayjay" type="external">
+  <Key key="_npc_I_wanna_find_him__We_ve_been_t" value="Eu quero encontrá -lo.Juntamos muitas merdas juntas.Esses desprezíveis vão pagar por tudo.Vou chutar o inferno deles!" voice="Male" />
+  <Key key="_npc_Well__what_can_I_say___it_coul" value="Bem, o que posso dizer ... poderia ser melhor.Meu amigo foi sequestrado no outro dia.Então, eu vou colocar no hotel barato por lá, e provavelmente amanhã vou pegar a estrada." voice="Male" />
+  <Key key="_npc_Oh__this_guy_plays_good_stuff_" value="Oh, esse cara interpreta coisas boas.Confira.Eu estou totalmente interessado nele.Tem mais uma sensação de dança.Wahoo!" voice="Male" />
+  <Key key="_npc_I_m_Jay_Jay__Jayyy_Jayyy___Did" value="Eu sou Jay-Jay.Jayyy-Jayyy.Você ouviu isso?Os moradores do meu planeta têm uma voz silenciosa.Nós nos comunicamos principalmente com a ajuda de vibrações." voice="Male" />
+  <Key key="_npc_" value=" " voice="Male" />
+</Node>

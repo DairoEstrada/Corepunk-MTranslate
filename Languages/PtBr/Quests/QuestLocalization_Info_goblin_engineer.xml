@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_Info_goblin_engineer" type="external">
+  <Key key="_npc_Why_do_YOU_care__If_you_re_bug" value="Por quê você se importa?Se você está com problemas ou algo assim, saiba que sou um cidadão legal de Elan e não quebrei nenhuma lei!" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Goldenfield__Not_much_to_do_he" value="Goldenfield.Não há muito o que fazer aqui, mas pelo lado positivo, sem mantos leitanos cheirando." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Meh__If_not_for_guys_like_you_" value="Meh.Se não fosse por caras como você cair do portal de vez em quando, tudo teria sido perfeito." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Dealing_with_newcomers_isn_t_t" value="Lidar com os recém -chegados não é tão ruim quando eles me compensam por isso.Materialmente." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Get_my_drift_" value="Pegue minha deriva?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Well__they_weren_t_until_that_" value="Bem, eles não estavam até que o portal da porra foi aberto." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+</Node>

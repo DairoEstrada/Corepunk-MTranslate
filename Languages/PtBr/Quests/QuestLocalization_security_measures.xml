@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_security_measures" type="external">
+  <Key key="_npc_Here_s_your_reward__You_ve_tru" value="Aqui está a sua recompensa.Você realmente me ajudou." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Thank_you__I_can_t_tell_you_ho" value="Obrigado!Eu não posso dizer o quanto isso significa para mim.Vou me sentir muito mais seguro com essa arma." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Hey_there__How_s_it_coming_alo" value="Ei!Como está chegando?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_varDescription_g3t2" value="Colete uma arma de plasma" />
+  <Key key="_npc_You_really_did_it__Thank_you_s" value="Você realmente fez isso!Muito obrigado." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Now_I_can_rest_easy_knowing_th" value="Agora posso ficar tranquilo sabendo que o banco está seguro.Obrigado novamente!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Listen__I_m_really_jittery_abo" value="Ouça, estou muito nervoso sobre a segurança do banco ultimamente.Falou -se sobre possíveis assaltos por aqui, e não posso deixar de me preocupar." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_asked_for_reinforcements__bu" value="Pedi reforços, mas eles fizeram pouco para aliviar meus nervos.Eu estava pensando ... talvez uma arma de praia me ajudasse a dormir melhor à noite." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Would_you_be_willing_to_help_m" value="Você estaria disposto a me ajudar a criar um?Eu precisaria que você tivesse um plano de armas de praia, a menos que você já saiba como fazer um." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_would_pay_you_for_your_troub" value="Eu te pagaria pelo seu problema.Se eu soubesse como, bem, não seria um banqueiro." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_Oswald_Goldenfield__Bank__Help" value="Oswald&#10;Goldenfield, banco&#10;&#10;Ajude Oswald a criar uma arma de prazma para garantir o banco em Goldenfield." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Have_you_managed_to_find_the_P" value="Você já conseguiu encontrar o plano de armas de plasma?Não podemos começar sem ele.Eu veria com Ratchet, tenho certeza que ele poderia ajudar." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_varDescription_Collect_a_Plazma_Gun" value="Colete uma arma de plasma" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Oh__that_s_disappointing__I_su" value="Oh, isso é decepcionante.Espero que nada aconteça enquanto não estou planejado." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Alright__I_get_it__If_you_chan" value="Tudo bem, eu entendo.Se você mudar de idéia, sabe onde me encontrar." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_That_s_a_bummer__Stay_safe_out" value="Isso é uma chatice.Fique seguro lá fora, tudo bem?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_psy_mush" type="external">
+  <Key key="_npc_Loading___" value="Carregando..." voice="Female" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

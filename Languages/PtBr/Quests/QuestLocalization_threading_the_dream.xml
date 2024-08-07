@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_threading_the_dream" type="external">
+  <Key key="_npc_Oh_heck_yeah__You_re_my_hero__" value="Oh, diabos, sim!Você é meu herói, cara!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_goal_collect_strong_thread" value=" " />
+  <Key key="_goal_collect_cloth" value=" " />
+  <Key key="_QuestActionAddToJournal_Lila_Algernon_Riverrise__Scene" value="Lila Algernon&#10;Riverrise, cena.&#10;&#10;Ajude Lila Algernon a reunir materiais para criar uma roupa atraente para seu ídolo, Zara Rae." />
+  <Key key="_goalVoice_Hey__you_didn_t_forget_about_t" value="Ei, você não esqueceu essas coisas, certo?Eu preciso de 5 fios fortes e 5 pedaços de pano, Pronto!Vamos lá, cara!O show da Zara está quase aqui, e estou suando como uma galinha em uma frigideira!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Hey__Gimme_the_stuff_" value="Ei!Me dê as coisas!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_varDescription_Collect_Strong_Thread" value="Colete um fio forte" />
+  <Key key="_varDescription_Collect_Cloth" value="Colete pano" />
+  <Key key="_npc_Holy_crap__you_rock_harder_tha" value="Puta merda, você balança mais do que a banda antiga do meu pai!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Thanks_a_bajillion__Now_Zara_s" value="Obrigado um bilhão!Agora Zara vai sair!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Here_s_a_little_something_for_" value="Aqui está um pouco de algo para você, animar, você é um grande lug!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Listen_up__pal__Zara_Rae_s_sho" value="Ouça, amigo!O show de Zara Rae é hoje à noite, e ela tem que ver como eu sou incrível!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_m_gonna_make_her_an_outfit_s" value="Eu vou fazer dela uma roupa tão radiante, ela vai pensar que eu sou o chefe!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Problem_is__I_m_as_broke_as_my" value="O problema é que estou tão quebrado quanto o quadril da minha avó!E deixe -me dizer, minha avó está super morta." voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_I_need_5_strong_threads_and_5_" value="Eu preciso de 5 fios fortes e 5 pedaços de pano.Sim, é uma grande pergunta, mas quem mais vai ajudar uma estrela em formação?" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Oh__come_on__Don_t_leave_me_ha" value="Oh, come on! Don't leave me hangin', dude. What the heck!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Aw__poop__Guess_I_ll_have_to_b" value="Aw, cocô!Acho que vou ter que implorar a outro otário ..." voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+  <Key key="_npc_Fine__leave_me_to_rot_in_lamen" value="Tudo bem, deixe -me apodrecer em claudicação.Espero que você esteja feliz!" voiceSettingsId="aG3EIJaSuLhcACuSRXsi" />
+</Node>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lost_mind_recovery" type="external">
+  <Key key="_npc_Jah_bless__bredren__This_shoul" value="Jah abençoe, Bredren.Isso deve me trazer de volta à terra." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Remember__man__I_need_that_Adr" value="Lembre -se, cara, eu preciso daquele tiro de adrenalina." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Don_t_forget_the_Adrenaline_Sh" value="Não se esqueça do tiro de adrenalina, Bredren." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Still_waiting_on_that_shot__ma" value="Ainda esperando nesse tiro, cara.Jah guia seus passos, sabe?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Secured_that_Adrenaline_Shot_y" value="Garantiu que a tiro de adrenalina ainda, mano?Poderia realmente usar um salto bem agora." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_npc_Respect__That_s_what_I_needed_" value="Respeito!Isso é o que eu precisava." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_QuestActionAddToJournal_M30L" value="Jahri Roots&#10;Goldenfield, oeste do posto de combustível&#10;&#10;Ajude Jahri se recupere com uma foto de adrenalina." />
+  <Key key="_goalVoice_Remember__man__I_need_that_Adr" value="Lembre -se, cara, eu preciso daquele tiro de adrenalina." voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+  <Key key="_varDescription_Y0MG" value="Tiro de adrenalina" />
+  <Key key="_npc_One_love__one_heart__you_feel_" value="Um amor, um coração, você me sente?" voiceSettingsId="OjBVtyeXe7DTXSc4mGGC" />
+</Node>

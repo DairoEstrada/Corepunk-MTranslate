@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_painted_betrayal" type="external">
+  <Key key="_npc_If_you_reconsider__you_know_wh" value="Se você reconsiderar, sabe onde me encontrar." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_This_betrayal_if_left_unchecke" value="Essa traição se deixada desmarcada pode ser desastrosa para nós." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_She_ll_check_every_painting_ca" value="She'll check every painting carefully. The messages could be anywhere behind the frame, within the brushstrokes, or even hidden in plain sight." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_goalVoice_Check_the_paintings_in_the_bar" value="Verifique as pinturas no celeiro.Eles podem conter as mensagens que estamos procurando." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_Bring_them_to_my_most_trusted_" value="Traga -os para o meu companheiro mais confiável - Louise." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_goal_talk_npc" value="Traga para Louise Oldgarden" />
+  <Key key="_npc_I_ve_noticed_unusual_paintings" value="Eu notei pinturas incomuns aparecendo no celeiro.Eles podem estar escondendo mensagens secretas.Eu preciso que você investigue essas pinturas e descubra o espião." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_We_ve_got_a_serious_problem__t" value="Temos um problema sério, viajante.Eu suspeito que um traidor se esconda entre nós.Este discípulo, quem quer que seja, está nos vendendo para um barão de terras quaddari." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_You_uh____want_to_know_the_sec" value="Você uh ... quer saber o segredo para viajar interdimensional?Bem ... eu posso dar a você, eu acho ... em troca de um favor ... favor." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_We_will_have_to_gather_more_pr" value="Teremos que reunir mais provas para Fazool confrontá -la." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_goal_collect_item_portal_tech" value="Colete Tecnologia do Portal Quaddari" />
+  <Key key="_QuestActionAddToJournal_Pastor_Fazool__Reverie_Hollow_" value="Pastor Fazool&#10;Reverie Hollow, igreja.&#10;&#10;Descubra o discípulo falso escondido no culto do pastor Fazool examinando pinturas no celeiro." />
+  <Key key="_npc_I_understand_it_s_a_lot_to_ask" value="Eu entendo que é muito pedir.Mas se você mudar de idéia, volte para mim." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_varDescription_Collect_Suspicious_Paintings" value="Colete pinturas suspeitas" />
+  <Key key="_npc_It_says_it_s_from____Lana__" value="Diz que é de ... Lana!?" voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Oh__daggers_and_daffodils__I_f" value="Oh, punhais e narcisos!Eu encontrei.A nota estava escondida na estrutura de pintura." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_You_re_our_best_hope__Go_on__a" value="Você é nossa melhor esperança.Continue, e que seus olhos estejam interessados." voiceSettingsId="58uIDp0OEJCvohpFKjE3" />
+  <Key key="_npc_What_s_this__Fazool_has_a_spec" value="O que é isso?Fazool tem uma tarefa especial para mim?" voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+</Node>

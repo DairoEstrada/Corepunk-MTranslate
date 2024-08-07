@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_proffesor_papers" type="external">
+  <Key key="_npc_Ah__the_perennial_question_" value="Ah, a pergunta perene!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_am_Professor_Zephyr_Yule__le" value="I am Professor Zephyr Yule, lead botanist of the House of Novators." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_As_a_child__my_mother_always_l" value="Quando criança, minha mãe sempre amou seu jardim de volta em Yorner." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_As_the_one_patch_of_nature_in_" value="Como o único pedaço da natureza naquele país das maravilhas tecnológico, fiquei fascinado por ela." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_dove_into_the_wonderful_bota" value="Eu mergulhei na maravilhosa botânica dessa dimensão." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_My_experiments_often_border_on" value="Meus experimentos costumam fazer fronteira com o ... excêntrico.Você poderia dizer que sou um &quot;grande nerd de planta." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Ever_tried_making_a_cactus_sin" value="Ever tried making a cactus sing? I'm getting closer!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Unfortunately__my_daughter_wen" value="Infelizmente, minha filha desapareceu - ela está em algum lugar lá fora no vale dos pecados." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Ah__the_scientific_inquiry_of_" value="Ah, a investigação científica do dia!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_On_one_hand__I_m_quite_frustra" value="Por um lado, estou bastante frustrado." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_The_technology_here_in_Elan_is" value="The technology here in Elan is... rudimentary, compared to Yorner." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_It_s_slowing_down_my_search_si" value="Está desacelerando minha pesquisa significativamente ..." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_On_the_other__I_just_finished_" value="Por outro, acabei de documentar uma espécie rara de fungos bioluminescentes." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_The_mutations_there_are_like_n" value="As mutações são como nada que eu vi em casa - oportunidades infinitas de pesquisa!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Of_course__science_doesn_t_alw" value="Obviamente, a ciência nem sempre é como planejado.Eu tive que descarregar minha espingarda no meu último experimento." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_suppose_it_truly_is_eat_or_b" value="Suponho que realmente seja comer ou ser comido aqui." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Ah__my_humble_haven_of_horticu" value="Ah, meu humilde refúgio de horticultura!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Essentially__it_s_a_makeshift_" value="Essencialmente, é um laboratório improvisado que não está pronto para o decoro do novator, mas faz o truque." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_grew_this_entire_house_mysel" value="Eu cultivei toda essa casa a partir de videiras experimentais de crescimento rápido." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Practically_every_wall_and_cor" value="Praticamente todas as paredes e cantos aqui evoluíram, graças às minhas habilidades de biodificação." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_And_yes__some_of_these_plants_" value="And yes, some of these plants are both my roommates and my research subjects." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Watch_your_step__some_of_them_" value="Observe seu passo, alguns deles gostam de dar tentáculos improvisados ​​e tudo!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Not_right_now__my_experiment_s" value="Não agora, meu experimento está em uma fase crítica." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_m_just_waiting_for_these_spe" value="Estou apenas esperando que esses espécimes reajam." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Appreciate_it__but_science_dem" value="Agradeço, mas a ciência exige paciência." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_No_need_at_the_moment__I_m_obs" value="Não há necessidade no momento;Estou observando resultados." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_m_one_hypothesis_away_from_a" value="Estou uma hipótese longe de um avanço!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Holding_tight_for_data_results" value="Segurando os resultados dos dados, fique à vontade para conversar!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_m_in_the_calm_before_the_sto" value="Estou na calma antes da tempestade.Ciência, você sabe?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_ve_got_this_covered__but_you" value="Eu tenho isso coberto, mas sua curiosidade é muito bem -vinda!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Ah__a_willing_assistant__Marve" value="Ah, um assistente disposto!Maravilhoso!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Your_help_would_be_most_advant" value="Sua ajuda seria mais vantajosa." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Perfect_timing_" value="No momento ideal!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Can_you_assist_in_a_perilous_e" value="Você pode ajudar em uma expedição perigosa?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Let_s_venture_into_the_Valley_" value="Vamos nos aventurar no vale dos pecados." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Ever_wanted_to_study_mutating_" value="Sempre quis estudar plantas de mutação de perto?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_I_could_use_a_reliable_guard_f" value="Eu poderia usar um guarda confiável para minha viagem de pesquisa pelo vale." voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Fancy_being_my_bodyguard_in_th" value="Gosta de ser meu guarda -costas em nome da ciência?" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Safety_in_the_Valley_of_Sins__" value="Segurança no vale dos pecados?Sim por favor!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+  <Key key="_npc_Mutual_protection_amidst_scien" value="A proteção mútua em meio ao esplendor científico seria delicioso!" voiceSettingsId="io2nTAFONydz6er8xqnT" />
+</Node>

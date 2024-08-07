@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_bytes_calling_card_investigation" type="external">
+  <Key key="_npc_Thank_you__And_if_anyone_asks_" value="Obrigado!E se alguém perguntar, você está apenas ajudando um colega fã de Velvet Vipers, certo?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Calling_Card" value="Colete o cartão de chamada" />
+  <Key key="_QuestActionAddToJournal_Cyra__Byte__Kessler_Riverrise_" value="Cyra &quot;Byte&quot; Kessler&#10;Riverrise, vista do rio.&#10;&#10;Ajude Kessler de Cyra 'Byte' a aprender sobre os Velvet Vipers, coletando seus cartões de visita ao redor do bar em Riverrise." />
+  <Key key="_goalVoice_So__uh__remember_to_check_all_" value="Então, uh, lembre -se de verificar todo o bar.Para o Merch, é claro.Quaisquer cartões de aparência incomum podem ser isso!E, totalmente apenas para coisas de Velvet Vipers.Esses cartões de visita podem estar escondidos em qualquer lugar ... você sabe, para fãs como nós encontrarmos." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_So__uh__did_you_find_those_cal" value="Então, você encontrou esses cartões de visita?Apenas para minha coleção, é claro." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Whoa__you_found_them__Uh__I_me" value="Uau, você os encontrou!Uh, quero dizer, sim, mercadoria grátis!" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Ah__these_are_absolutely____uh" value="Ah, estes são absolutamente ... Uh, crucial para minha coleção, hein." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_An_Ace__a_King_of_Spades____an" value="Um ás, um rei de espadas ... e este só tem uma cobra?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Wow__As_a_huge_fan__I_like____" value="Uau!Como um grande fã, eu gosto ... sei totalmente o que isso significa!" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_So__the_Velvet_Vipers__right__" value="Então, as víboras de veludo, certo?Eles são meio ... ahem, incrível.Realmente sobre eles, sabe?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_I_heard_they_might_have_left_s" value="Ouvi dizer que eles podem ter deixado alguns cartões de visita ao redor deste bar no Riverrise.Se você pudesse, encontre alguns para mim, isso seria ótimo." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Honestly__it_s_just_for_the_me" value="Honestamente, é apenas para o Merch!Eu sou um grande fã.Mas, ei, esses cartões também podem ser ... úteis.Whaddya diz?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Listen__I_didn_t_want_to_scare" value="Escute, eu não queria te assustar, mas algo realmente perigoso está em jogo aqui.Precisamos desses cartões." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_You_don_t_understand__it_s_mor" value="Você não entende;É mais do que apenas coisas de fã.A vida das pessoas pode depender disso." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Please_reconsider__This_isn_t_" value="Por favor, reconsidere.Isso não é apenas por diversão.Se não agirmos, algo muito ruim poderia acontecer." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+</Node>

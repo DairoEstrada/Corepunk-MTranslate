@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_phantom_fragment_recovery" type="external">
+  <Key key="_npc_No_worries__more_time_for_my_h" value="Não se preocupe, mais tempo para minhas aventuras de ervas." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Alright__your_loss__Guess_I_ll" value="Tudo bem, sua perda.Acho que vou apenas rolar outro brusco." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_goalVoice_Hey__where_s_that_kid_with_the" value="Ei, onde está aquele garoto com o artefato?Encontre essa merda já - ele está nos campos de ervas daninhas Violet em Goldenfield.Não quero o artefato de volta, só quero justiça." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_And_maybe_smack_him_upside_the" value="E talvez bateu na cabeça dele também, a pequena bunda ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_You_look_like_someone_who_can_" value="Você se parece com alguém que pode rastreá -lo e recuperar o artefato." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_goal_talk_npc" value="Fale com Buck" />
+  <Key key="_npc_Last_I_heard__the_same_fuckin_" value="A última vez que ouvi, o mesmo brincalhão foi visto nos campos de ervas daninhas Violet, Smack Dab no meio de Goldenfield." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_The_problem_is__a_mischievous_" value="O problema é que um garoto travesso saiu com isso.Essa merda!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_So__to_answer_your_question___" value="Então, para responder à sua pergunta - encontrei um fragmento de um artefato antigo enquanto vagava pelos aviões em queda." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_Ah__finally___Smoke_machines_a" value="Ah, finalmente!Máquinas de fumaça não são o único ingrediente -chave para fingir ser um fantasma ..." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_npc_And_unless_you_want_me_to_tell" value="E a menos que você queira que eu diga a um adulto que você veio e gritou comigo, você vai ajudar!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_It_must_be_that_damn_Lily_Baxt" value="Deve ser aquele maldito Lily Baxter, emoldurando -me novamente." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_goal_collect_falling_planes" value="Colete artefato de planos caindo" />
+  <Key key="_npc_Cool__more_weed_for_me__Happy_" value="Legal, mais maconha para mim.Trilhas felizes!" voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+  <Key key="_QuestActionAddToJournal_Clanker_Windreach_Woods__Falli" value="Clanker&#10;Windreach Woods, aviões caindo.&#10;&#10;Ajude a recuperar um fragmento de artefato antigo roubado por um garoto travesso." />
+  <Key key="_npc_I_didn_t_steal_shit__I_didn_t_" value="Eu não roubei merda!Eu não foda fazer isso!" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Arti____whati_" value="Arti ... Whati?" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_You_find_that_artifact__you_ke" value="Você encontra esse artefato, você o mantém.Eu não dou a mínima." voiceSettingsId="jYBo3egvFI6RIXp39VKT" />
+</Node>

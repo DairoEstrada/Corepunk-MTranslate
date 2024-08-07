@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eggplant_extravaganza" type="external">
+  <Key key="_npc_How_s_the_eggplant_hunt_going_" value="Como está indo a caça à berinjela?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_YWHi" value="Colete berinjelas" />
+  <Key key="_npc_Thank_you__kind_soul__Let_s_se" value="Obrigado, alma gentil.Vamos ver que tipo de torta eu acabo hoje à noite." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_goal_collect_food" value=" " />
+  <Key key="_npc_Ah__you_re_back__Wow__those_ar" value="Ah, você está de volta!Uau, esses são maiores do que eu pensava." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Here_s_a_reward_for_your_effor" value="Aqui está uma recompensa por seus esforços." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_You_ve_given_me_a_moment_s_dis" value="You ve given me a moment s distraction from my peculiar predicament. Thank you." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Remember__I_ll_be_busy____baki" value="Remember, I'll be busy... baking... so I'll see you tomorrow." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_You_know__you_could_make_yours" value="Você sabe, você pode se tornar útil mais uma vez.Sem zikk, tem sido tão ocupado." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_ve_been_baking_all_these_pie" value="Eu tenho assado todas essas tortas e estava pensando ... e a berinjela?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_mean__they_re_everywhere__ri" value="Quero dizer, eles estão por toda parte, certo?Pode fazer uma quase que decente ... torta ... amirita?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Say__if_you_could_bring_me_bac" value="Say, if you could bring me back some eggplants, and leave me along the rest of the day... well I'd pay you for that." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_QuestActionAddToJournal_Greta_Grubb_Goldenfield__South" value="Greta Grubb&#10;Goldenfield, Southern House&#10;&#10;Ajude Greta Grubb a reunir berinjelas para assar uma 'torta de berinjela' e dar uma pausa alegre de seu trabalho sem fim." />
+  <Key key="_goalVoice_Could_you_gather_five_eggplant" value="Você poderia reunir cinco berinjelas para mim?Eles estão nos campos próximos.Você provavelmente os encontrará crescendo não muito longe de Goldenfield.Lembre -se, eu preciso de cinco deles para que eu possa começar isso ... projeto de panificação." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_Collect_Eggplants" value="Colete berinjelas" />
+  <Key key="_npc_I_understand__it_s_a_strange_r" value="Eu entendo, é um pedido estranho.Talvez na próxima vez." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Alright__perhaps_another_day_w" value="Tudo bem, talvez outro dia traga oportunidades diferentes." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+</Node>

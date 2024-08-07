@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_thistlebrook" type="external">
+  <Key key="_npc_I_m_Thistlebrook__just_a_simpl" value="Eu sou Thistlebrook, apenas um homem simples tentando ganhar a vida aqui no Riverrise." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_I_work_at_the_local_alchemy_sh" value="Trabalho na loja de alquimia local, misturando poções e ajudando as pessoas com suas doenças." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Plus__I_mix_a_couple_that_help" value="Além disso, misturo um casal que me ajuda a manter o peso.Perdido 60 libras no mês passado!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Honestly__Terrified_beyond_bel" value="Honestamente?Aterrorizado além da crença." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_These_two____psychic____kids_t" value="Esses dois ... psíquicos ... crianças me disseram que eu morreria hoje." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_They_keep_predicting_these_hor" value="Eles continuam prevendo esses fins horríveis e horríveis para mim." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_I_can_t_concentrate__can_t_eve" value="I can't concentrate, can't even mix a potion right now." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_I_went_for_a_walk_and_they_fol" value="Eu fui dar um passeio e eles me seguiram!Eu acho que vou ter que conquistá -los para fugir." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_That_is__unless_you_can_figure" value="Ou seja, a menos que você possa descobrir algumas merdas aqui." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Oh__you_re_new_around_here_" value="Oh, você é novo por aqui?" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Well__Riverrise_is_the_largest" value="Bem, RiverRise é a maior cidade da Ilha Whisperwind." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_My_little_spot_here__It_s_my_r" value="Meu pequeno lugar aqui?É meu retiro, onde posso recuperar o fôlego da agitação." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_But_it_seems_I_m_not_even_safe" value="Mas parece que não estou nem sequer segura aqui hoje, com aquelas crianças psíquicas da puta à espreita." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Look__I_don_t_wanna_know_when_" value="Olha, eu não quero saber quando vou cair morto!Quem diabos quer saber disso?!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Nah__they_said_if_anyone_helps" value="Não, eles disseram que se alguém ajudar, eu sou um goner." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Appreciate_it__but_they_warned" value="Agradeço, mas eles me avisaram que selariam meu destino." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Thanks__but_your_help_might_ac" value="Obrigado, mas sua ajuda pode realmente me cansar de acordo com eles." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Better_not_risk_it__those_kids" value="Melhor não arriscar, essas crianças disseram que é um bilhete de mão única para mim, se você o fizer." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Nope__if_you_lend_a_hand__I_m_" value="Não, se você ajudar, estou torrada se as crianças estiverem certas." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Please__I_need_your_help_despe" value="Por favor, eu preciso da sua ajuda desesperadamente!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Oh__please__don_t_leave_me_lik" value="Oh, por favor, não me deixe assim.Estou implorando a você." voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_I_can_t_face_them_alone__You_h" value="Eu não posso enfrentá -los sozinhos.Você tem que me ajudar!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+  <Key key="_npc_Please__you_ve_got_to_help_I_l" value="Por favor, você tem que ajudar eu vou fazer qualquer coisa!" voiceSettingsId="wxzltcorGGFHImUJ3acA" />
+</Node>

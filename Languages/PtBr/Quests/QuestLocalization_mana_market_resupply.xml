@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mana_market_resupply" type="external">
+  <Key key="_npc_Oh__buddy__you_re_about_to_div" value="Oh, buddy, you're about to dive headfirst into a tidal wave of mana goodness! This is the VIP upgrade to your adventure pass!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_goal_collect_mana_resin" value=" " />
+  <Key key="_varDescription_Collect_Mana_Resin" value="Coletar resina mana" />
+  <Key key="_QuestActionAddToJournal_Gimlor_Riverrise__Mana_market_" value="Gimlor&#10;Riverrise, mercado de mana.&#10;&#10;Reúna resina de mana para Gimlor para manter seu spa de mana à tona." />
+  <Key key="_goalVoice_Hey_champ__picture_this__resin" value="Hey champ, picture this: resin = golden future! Don't forget that stuff is our ticket to stardom!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Yo__resin_wrangler__Did_you_st" value="Ei, resina Wrangler!Você atingiu o ouro lá fora?" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_You_did_it__This_resin_will_br" value="Você fez isso!Esta resina trará clientes como o mel atrai abelhas.Você é o MVP!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Now__I_need_you_to_go_get_two_" value="Agora, preciso que você vá buscar dois amigos para trazer sua resina de mana.Então peça a eles dois amigos ..." voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Oh__and_don_t_forget_your_free" value="Ah, e não se esqueça da sua amostra grátis!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Oh__come_on__You_don_t_want_to" value="Oh vamos lá!Você não quer deixar essa oportunidade de ouro deslizar pelos dedos, não é?" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Seriously__passing_up_on_this_" value="Sério, passando isso?Minha avó teria saltado neste acordo e ela tem 90 anos!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Wow__buddy__way_to_throw_away_" value="Uau, amigo, maneira de jogar fora a chance de ser algo mais do que comum.Divirta -se com sua vida mundana!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_No_problem__champ__I_guess_not" value="Não tem problema, campeão.Acho que nem todo mundo está cortado para as grandes ligas.Desfrute de ser médio!" voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Imagine_this__You_brave_the_gr" value="Imagine o seguinte: você enfrenta as atividades ao ar livre, pega uma resina de mana e boom - você é uma lenda." voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Now__my_usual_channels_have_dr" value="Agora, meus canais habituais secaram, por isso estou procurando por Go-Metters como você que querem entrar no térreo e garantir seu futuro." voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Sure__sure__Just_remember__whe" value="Claro, claro.Lembre -se, quando você me vê vivendo a vida alta, você poderia estar lá comigo." voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_The_Mana_Market_is_bursting_wi" value="O mercado de mana está repleto de potencial, mas estamos perdendo uma coisa - aquela doce e doce resina de mana." voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+  <Key key="_npc_Hey_there__future_billionaire_" value="Olá, futuro bilionário!Ouça, eu tenho uma oportunidade para você." voiceSettingsId="pqtwEiHnYPbQCOoFR6sn" />
+</Node>

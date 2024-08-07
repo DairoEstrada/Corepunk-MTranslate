@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_mystery_of_mary_jane" type="external">
+  <Key key="_goal_talk_npc" value="Fale com Mary Jane Greenpuff" voiceSettingsId="Barkley_Beats" />
+  <Key key="_assistant_phrase_Alright__kiddo__my_herb_lady__" value="Tudo bem, garoto, minha senhora de ervas, Mary Jane Fuckin 'Greenpuff, me fantasiou.E para ficar claro, não estou falando de ervas para a comida." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Either_she_s_tangled_up_with_s" value="Ou ela se envolveu com alguns místicos Mumbo-Jumbo ou decidiu tirar férias permanentes sem me dizer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Get_your_boots_northwest_to_th" value="Pegue suas botas para o noroeste da casa de estrada em Windreach Woods e descubra se ela foi engolida pela floresta ou apenas perdeu a cabeça.Se você bater no lago, você foi longe demais." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_I_m_slaving_over_this_fire_all" value="Estou escravizando esse incêndio o dia todo, e nenhuma pessoa me agradece.E daí se eu participar de um pouco do sopro?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Well__aren_t_you_a_saint__Pry_" value="Bem, você não é um santo?Tira -a de qualquer bagunça verde em que ela estiver." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Alright__kiddo__my_herb_lady__" value="Tudo bem, garoto, minha senhora de ervas, Mary Jane Fuckin 'Greenpuff, me fantasiou.E para ficar claro, não estou falando de ervas para a comida." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Either_she_s_tangled_up_with_s" value="Ou ela se envolveu com alguns místicos Mumbo-Jumbo ou decidiu tirar férias permanentes sem me dizer." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Go_find_her_before_I_start_gro" value="Vá encontrá -la antes de começar a cultivar o meu próprio no quintal!Eu também não me importo se o governo descobrir!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_QuestActionAddToJournal_Sgib" value="Martha &quot;Big Mamma&quot; Potterson&#10;Goldenfield, perto da cozinha do bem -estar.&#10;&#10;Verifique Mary Jane Greenpuff na casa da estrada em Windreach Woods." />
+  <Key key="_goalVoice_hch8" value="" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Get_your_boots_northwest_to_th" value="Pegue suas botas para o noroeste da casa de estrada em Windreach Woods e descubra se ela foi engolida pela floresta ou apenas perdeu a cabeça.Se você bater no lago, você foi longe demais." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_I_m_slaving_over_this_fire_all" value="Estou escravizando esse incêndio o dia todo, e nenhuma pessoa me agradece.E daí se eu participar de um pouco do sopro?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Alright__sweetie___if_I_end_up" value="Tudo bem, querida - se eu acabar cozinhando com lama do pântano, é sobre você." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Fine__but_don_t_blame_me_if_my" value="Tudo bem, mas não me culpe se meus bolos começarem a provar como botas velhas." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Suit_yourself_" value="Se adequar." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_QuestActionAddToJournal_DchR" value="Martha &quot;Big Mamma&quot; Potterson&#10;Goldenfield, perto da cozinha do bem -estar.&#10;&#10;Verifique Mary Jane Greenpuff na casa da estrada em Windreach Woods." voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Here__take_this_herbal_cigaret" value="Aqui, pegue este cigarro de ervas.É tudo o que me resta, cara." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_could_totally_use_more_help_" value="Eu poderia usar totalmente mais ajuda, sabe?Esses caras estão se durando meu suave." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Tell_Martha_I_m_not_ditching_h" value="Diga a Martha que não estou abandonando -a, apenas lidando com algumas vibrações ruins dos guardas." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Whoa__man____You_found_me__In_" value="Uau, cara ... você me encontrou?Em todo o cosmos?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goalVoice_Remember__Road_House_to_the_no" value="Lembre -se, a estrada de estrada a noroeste de Windreach Woods.Se Mary Jane não é um lanche de monstro agora, ela deveria estar lá.Ela provavelmente está tentando se comunicar com um arbusto novamente ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+</Node>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_lana_cartouche" type="external">
+  <Key key="_npc_Have_you____spoken_to_Pastor_F" value="Você ... falou com o pastor Fazool?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Seen_Pastor_Fazool_yet_" value="Já viu o pastor Fazool?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Are____you_one_of_us_" value="Você é um de nós?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Have_you_joined_" value="Você entrou?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Have_you_found_the_light_of_Da" value="Você encontrou a luz de Dagaron?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Did_the_Pastor____convert_you_" value="O pastor ... converteu você?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Are____you_a_believer_now_" value="Você é um crente agora?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+  <Key key="_npc_Notice_anything____odd_around_" value="Notou alguma coisa ... estranha por aqui?" voiceSettingsId="TcjCmA4SHX6TKYjCFqu5" />
+</Node>

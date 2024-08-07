@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_alex_hooty_howitzer" type="external">
+  <Key key="_npc_What_s_up__hoss_" value="E aí, Hoss?" />
+  <Key key="_npc_What_s_going_on__boss_man_" value="O que está acontecendo, Boss Man?" />
+  <Key key="_npc_Aye_buddy__What_do_you_know_" value="Aye Buddy.O que você sabe?" />
+  <Key key="_npc_How_s_it_going_" value="Como tá indo?" />
+</Node>

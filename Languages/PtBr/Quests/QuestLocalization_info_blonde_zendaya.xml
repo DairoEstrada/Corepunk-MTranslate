@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_blonde_zendaya" type="external">
+  <Key key="_npc_I_m_Zendaya_Wells__and__like__" value="Eu sou Zendaya Wells e, tipo, essa é minha mãe." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_She_s_a_Guard_officer__totally" value="Ela é uma oficial de guarda, totalmente presa em seus velhos, super embaraçosos!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Seriously__she_drags_me_on_thi" value="Sério, ela me arrasta nesta viagem de vínculo e agora estamos perdidos nesta floresta assustadora." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_She_s_all___Monsters_are_dange" value="Ela é tudo, os monstros são perigosos!E eu sou, mãe, é moderna, relaxe!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_We_gotta_be_kind_and_understan" value="Temos ser gentil e compreensivo para todos, mesmo que eles pareçam um pouco ... diferentes." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_So_if_she_s_been_rude_to_you__" value="Então, se ela é rude com você, tipo, sinto muito, muito!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Ugh__like__totally_embarrassed" value="Ugh, tipo, totalmente envergonhado agora!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_My_mom_just_said_the_most_crin" value="Minha mãe acabou de dizer a coisa mais encolhida para esse cara, e eu estou tipo, morrendo por dentro." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Hold_on__let_me_finish_this_te" value="Espere, deixe -me terminar este texto ..." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_What_are_you_staring_at__This_" value="O que você está olhando?Este é um telefone.TELEFONE." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Oh__right__you_country_people_" value="Oh, certo, suas pessoas do país não sabem o que é um telefone.Estranho!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Anyway__she_s_so_old_school_an" value="De qualquer forma, ela é tão velha e acha que conhece melhor do que todos.É cansativo!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Apparently__this_place_is__lik" value="Aparentemente, este lugar é super importante ou algo assim?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_My_mom_met_my_dad_around_here_" value="Minha mãe conheceu meu pai por aqui, mas, tipo, quem se importa?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_She_goes_on_and_on_about_how_i" value="Ela continua falando sobre como tem muita história e outras coisas." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Oh_yeah__soooo_interesting__Ug" value="Oh sim, muuuuito interessante!Eca." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Seriously__I_m_just_like___Can" value="Sério, eu estou tipo: &quot;Nós já podemos ir?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Ugh__she_thinks_it_ll_be_a_bon" value="Ugh, ela acha que será uma experiência de vínculo ou qualquer outra coisa." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Dad_s_dead_Mom__Get_over_it_" value="Mãe morta do pai!Deixe isso para trás." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Sheesh__TRAUMA__am_I_right_" value="Sheesh, trauma, estou certo?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Ugh__yes__Anything_to_get_out_" value="Ugh, yes! Anything to get out of this place." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_I_d_love_an_excuse_to_escape_f" value="Eu adoro uma desculpa para escapar da minha mãe." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Yup__mom_is_driving_me_crazy_" value="Sim, mamãe está me deixando louco!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Oh_my_gosh__thank_you_" value="Oh meu Deus, obrigado!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_I_need_a_break_from_her_old_sc" value="Eu preciso de uma pausa de seus discursos da velha escola." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Yes__please_" value="Sim por favor!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_I_d_help__but_my_mom_said_no_" value="Eu ajudaria, mas minha mãe disse que não." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Mom_s_all___No_wandering_off__" value="Mamãe é tudo: &quot;Não vagar!&quot;Eca." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Ugh__mom_s_being_so_overprotec" value="Ugh, a mãe está sendo tão superprotetora." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Mom_s_all___Stay_by_me___so__y" value="Mamãe é tudo: &quot;Fique ao meu lado!&quot;Então, sim, não posso ajudar." voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_Me__fight_monsters__HAH_" value="Eu, luta contra monstros?Hah!" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+  <Key key="_npc_OMG__you_want_me_to_like__work" value="OMG, você quer que eu goste, trabalho?" voiceSettingsId="uB8zhJ4wjOyNV3PSsOPR" />
+</Node>

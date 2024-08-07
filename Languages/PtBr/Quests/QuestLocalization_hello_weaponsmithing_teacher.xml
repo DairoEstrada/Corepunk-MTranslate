@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_weaponsmithing_teacher" type="external">
+  <Key key="_npc_Ready_to_blow_something_up_" value="Pronto para explodir algo?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Ready_to_make_things_go_boom_" value="Pronto para fazer as coisas ficarem boom?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Guns_up__punk_" value="Armadas, punk!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Hey__gunner_" value="Ei, Gunner!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Aim__shoot__profit_" value="Mira, atirar, lucro!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Got_your_gear__hotshot_" value="Tem seu equipamento, hotshot?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Lock_and_load__baby_" value="Trava e carregue, baby!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Don_t_sneak_up_on_me__portal_b" value="Não me esgueire, portal-frouxe!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Did_Martha_send_another_test_t" value="Martha enviou outra meta de teste?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_My_guns_are_better_and_cheaper" value="Minhas armas são melhores e mais baratas que Hank Granger." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+</Node>

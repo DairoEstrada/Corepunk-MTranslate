@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_special_meal_for_timmy" type="external">
+  <Key key="_npc_Oh__goodness_me__Timmy_will_be" value="Oh, Deus eu!Timmy ficará inconsolável!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Sweetheart__reconsider__Timmy_" value="Querida, reconsiderar.O coração frágil de Timmy não aceita ..." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goalVoice_Now__don_t_forget__honey__the_" value="Agora, não se esqueça, querida, as ervas estão no jarro verde com corda na fazenda sul, tudo bem?Lembre -se de ser sorrateiro, querida.Não gostaríamos que esses BOYBODIES na fazenda entrem em nossos negócios." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Timmy_s_always_telling_me_he_h" value="Timmy está sempre me dizendo que tem permissão para fazer o que precisa, um garoto tão responsável!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Now__be_a_sweetie_and_make_sur" value="Agora, seja um querida e verifique se nenhum dos trabalhadores da fazenda o vê.Eles podem não entender nossa pequena tarefa." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goal_collect_item" value="Colete um estoque especial" />
+  <Key key="_goal_talk_npc" value="Traga para o cravo" />
+  <Key key="_npc_Look_for_a_green_jug_with_rope" value="Procure um jarro verde com corda ao redor, é onde você encontrará as ervas." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_simply_must_prepare_his_favo" value="Eu simplesmente devo preparar seu prato favorito para acalmar seus nervos.Para isso, vou precisar de algumas ervas especiais da fazenda sul." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__my_precious__Lil_Timmy_has" value="Oh, meu precioso Lil Timmy está tão angustiado desde que você apareceu, abençoe seu coração." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_just_need_you_to_get_one_las" value="Eu só preciso de você para obter um último ingrediente enquanto eu começo a cozinhar ..." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_I_ll_whip_up_his_favorite_meal" value="Vou preparar sua refeição favorita imediatamente." voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_goal_collect_item_marigolds_chore" value="Colete a lista de tarefas de Marigold" />
+  <Key key="_npc_Oh_dear__are_you_sure__Timmy_s" value="Oh querido, tem certeza?O pequeno mundo de Timmy pode desmoronar!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_QuestActionAddToJournal_Marigold_Thornbuckle_Goldenfie" value="Marigold Thornbuckle&#10;Goldenfield, Edge farm.&#10;&#10;Retrieve 'Lil Timmy's  Special Stash  from the south farm for Marigold Thornbuckle's special meal." />
+  <Key key="_npc_Oh__my_darling__you_did_it__Ti" value="Oh, minha querida, você fez isso!Timmy ficará tão feliz!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__my_dear__did_Timmy_s_treas" value="Oh, minha querida, o tesouro de Timmy fez de volta seguro e parecer?" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+  <Key key="_npc_Oh__thank_you__sweetheart__Tim" value="Oh, obrigado, querida!O sorriso de Timmy vai iluminar toda a casa!" voiceSettingsId="W6tGTUFrHM8eQkyo9vc7" />
+</Node>

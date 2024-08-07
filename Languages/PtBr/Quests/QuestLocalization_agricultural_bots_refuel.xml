@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_agricultural_bots_refuel" type="external">
+  <Key key="_npc_Your_assistance_is_invaluable_" value="Sua assistência é inestimável, humano." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Status_update_requested__Mana_" value="Status update requested: Mana resin collection progress?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Alert__Bots__mana_depletion_le" value="Alerta: os níveis de esgotamento de mana dos bots aumentam.Aguardando reabastecimento." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Warning__Continuous_decrease_i" value="Aviso: diminuição contínua nos níveis de mana agricultura detectados." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Thank_you__human__Commencing_r" value="Obrigado, humano.Começando o processo de reabastecimento." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_varDescription_6UkZ" value="Coletar resina mana" />
+  <Key key="_QuestActionAddToJournal_ETWG" value="Energizer-21&#10;Goldenfield, perto da fazenda&#10;&#10;Colete resina de mana de árvores mágicas na floresta ao redor de Goldenfield." />
+  <Key key="_goalVoice_You_need_to_collect_3_mana_res" value="Você precisa coletar três resinas de mana nas árvores mágicas." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_varDescription_J51L" value="Coletar resina mana" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_npc_You_need_to_collect_5_mana_res" value="Você precisa coletar 5 resinas de mana nas árvores mágicas." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_First__commencing_reward_proce" value="Primeiro, iniciando o processo de recompensa." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

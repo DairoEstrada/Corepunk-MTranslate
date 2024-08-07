@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_back_to_bigg_mama" type="external">
+  <Key key="_npc_Perhaps_your__Martha__in_the_v" value="Talvez sua &quot;Martha&quot; na vila possa guiá -lo daqui.Você precisará ser muito mais forte para derrotá -los." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Well__who_d_think_that_Zugg_wo" value="Bem, quem pensaria que Zugg tentaria te confiar por assassinato e incêndio criminoso?" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Well__I_could_ve__He_tries_stu" value="Bem, eu poderia ter.Ele tenta coisas assim uma vez por semana.Ele geralmente se safa com isso também." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Fortunately__you_ve_made_a_cou" value="Felizmente, você fez alguns amigos que ajudarão - vá conversar com Ratchet e Butch." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_I_think_they_ll_help_you_get_g" value="Eu acho que eles vão te ajudar a se preparar." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_There_s_also_this_very_hot_lon" value="Há também esse solitário muito quente nos limites da cidade - Dr. Bloom.Eu acho que a tecnologia do offworld dele poderia lhe dar uma vantagem." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Do_whatever_those_three_need__" value="Faça o que esses três precisarem, e você estará pronto para mastigar um pouco de bunda!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_Uh__I_didn_t_mean_it_like_that" value="Uh eu não quis dizer isso assim, mas eu mantenho isso." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_talk_npc" value="Fale com Martha" />
+  <Key key="_QuestActionAddToJournal_OHD1" value="Hilda DeeProot&#10;Westwind Woods, perto da cabine da floresta&#10;&#10;Fale com Martha." />
+  <Key key="_goalVoice_Who_s_that__Oh__you__I_can_t_h" value="Quem é aquele?Ah você.Não posso ajudar com o seu problema com o impulso.Vá perguntar a um amigo.Talvez Martha?" voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+</Node>

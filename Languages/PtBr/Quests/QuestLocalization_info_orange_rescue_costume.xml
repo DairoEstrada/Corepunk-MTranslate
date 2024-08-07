@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_orange_rescue_costume" type="external">
+  <Key key="_npc_Name_s_Zara_Ross__Once_a_top_t" value="Nome é Zara Ross.Uma vez um trabalhador de resgate de primeira linha, agora uma cobaia glorificada." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Got_stranded_here_during_an_in" value="Ficou preso aqui durante uma broca interdimensional, ficou ruim.Sorte minha, certo?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Bosses_sent_me_here_with_a_sec" value="Os chefes me enviaram aqui com um terno de segunda mão e uma oração.Generosidade corporativa no seu melhor." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_They_didn_t_even_give_us_a_uni" value="Eles nem nos deram um uniforme para vestir." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_The_rest_of_my_crew_died_the_f" value="O resto da minha equipe morreu na primeira semana aqui." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Guess_there_s_something_specia" value="Acho que há algo especial em mim que me manteve em andamento." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Now_I_m_stuck_dealing_with_bio" value="Agora estou preso lidando com pesadelos biológicos, mutações e todo o trabalho restante." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_But_hey__at_least_the_sharehol" value="But hey, at least the shareholders get their money's worth from my suffering. Silver linings!" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Oh__just_peachy__Mutating_in_b" value="Oh, apenas pêssego.Mutante de maneiras bizarras, graças a este terno barato." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_It_s_thrilling__really__Wonder" value="É emocionante, realmente.Gostaria de saber o que vai crescer a seguir?Talvez asas?Um terceiro braço?" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_The_other_day__I_found_a_tenta" value="The other day, I found a tentacle sprouting from my back. Talk about a surprise!" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Incompetent_bosses__hazardous_" value="Chefes incompetentes, ambiente perigoso e agora eu sou parte do cefalópode.Vivendo o sonho!" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_If_this_keeps_up__maybe_I_ll_l" value="Se isso continuar, talvez eu tenha um papel em algum show de horrores." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Almost_wonder_if_I_would_ve_be" value="Quase me pergunto se eu estaria melhor morrendo com a tripulação ..." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Ah__welcome_to_the_best_vacati" value="Ah, seja bem -vindo ao melhor ponto de férias para quem quer muta grotescamente." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Locals_say_it_was_lush_and_ser" value="Os habitantes locais dizem que era exuberante e sereno antes.Agora, é mais como 'Emporium de terror corporal de desconto da BLOB'." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_It_used_to_be____less_fleshy_" value="It used to be... less fleshy." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_We_ve_got_pulsating_blood_pudd" value="Temos poças de sangue pulsantes se formando agora.Eles são toda a raiva por aqui." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_You_should_read_the_signs_befo" value="Você deve ler os sinais antes de entrar em uma zona de biohazard na próxima vez." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_If_you_survive_long_enough_for" value="Se você sobreviver o suficiente para que haja uma próxima vez ..." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_I_m_in_need_of_a_hero_preferab" value="Estou precisando de um herói de preferência um com um desejo de morte." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Sure__you_don_t_value_your_lif" value="Claro, você não valoriza muito sua vida de qualquer maneira." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_You_re_already_here__might_as_" value="Você já está aqui, pode muito bem tornar seus últimos momentos produtivos!" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Absolutely_" value="Absolutamente!" voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Yep__got_just_the_thing_" value="Sim, consegui exatamente a coisa." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_I_m_good__just_clocking_more_h" value="Estou bem, apenas mexendo mais horas para os senhores corporativos." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Appreciate_it__but_my_sufferin" value="Agradeço, mas meu sofrimento não está atendendo aos KPIs deste trimestre." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_No_need__still_plenty_of_me_le" value="Não há necessidade, ainda muito para mim para mudar." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_As_much_as_I_d_love_to_delegat" value="Por mais que eu adorasse delegar, não sou gerente." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+  <Key key="_npc_Sorry__but_my_agony_needs_to_s" value="Desculpe, mas minha agonia precisa permanecer dentro do cronograma." voiceSettingsId="mfLq75Em26XoZtHHfYjC" />
+</Node>

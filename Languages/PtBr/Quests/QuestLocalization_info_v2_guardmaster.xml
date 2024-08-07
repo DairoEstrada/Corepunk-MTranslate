@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_guardmaster" type="external">
+  <Key key="_npc_You_re_looking_at_the_Guardmas" value="Você está olhando para o guarda do guarda desta vila, que passou por muitas batalhas.Eu já vi muito." voice="Male" />
+  <Key key="_npc_We_re_trying_to_make_this_vill" value="Estamos tentando tornar esta vila a mais segura da região.Estou fazendo o meu melhor.Os que eu treino, são os melhores guardas do continente." voice="Male" />
+  <Key key="_npc_I_m_all_good__Stranger__But_yo" value="Eu sou todo bom, estranho.Mas você, você tem que se comportar.Se você não ouvir meu conselho, acabe na prisão, com ratos.Ah, e mais uma coisa - aproveite a sua estadia!" voice="Male" />
+  <Key key="_npc_Bear_in_mind__I_see_right_thro" value="Tenha em mente, vejo através de você, estranho.Meus meninos estão por toda parte." voice="Male" />
+</Node>

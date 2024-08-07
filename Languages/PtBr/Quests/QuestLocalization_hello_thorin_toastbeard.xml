@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_thorin_toastbeard" type="external">
+  <Key key="_npc_Ready_to_be_saut_ed_" value="Pronto para ser refogue?" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Ah__perfect_for_grilling_" value="Ah, perfeito para grelhar!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Ah__fresh_meat_" value="Ah, carne fresca!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_What_s_cookin___good_lookin__" value="O que está cozinhando, boa aparência?" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Here_to_spice_things_up__Let_s" value="Aqui para apimentar as coisas?Vamos encontrar Mary Jane." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_look_well_seasoned_" value="Você parece bem temporado." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Ready_for_a_taste_test_" value="Pronto para um teste de sabor?" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Perfect_timing__I_m_prepping_d" value="Timing perfeito, estou preparando o jantar." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Come_closer__you_look_deliciou" value="Chegue mais perto, você parece delicioso!" voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+</Node>

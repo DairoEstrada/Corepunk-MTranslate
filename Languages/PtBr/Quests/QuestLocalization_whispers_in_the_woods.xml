@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_whispers_in_the_woods" type="external">
+  <Key key="_npc_Keep_your_eyes_wide_open_and_y" value="Mantenha os olhos bem abertos e sua inteligência nítida.Reúna todas as pistas que você encontrar e traga -as para Alex." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_He_s_a_genius__He_s_save_Kwala" value="Ele é um gênio!Ele é salvo Kwalat, começando com esta pedreira." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Off_with_ya_then__but_don_t_be" value="Com você então, mas não se surpreenda se essas sombras começarem a seguir você em casa." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Oh__givin__in_to_the_fear__are" value="Oh, givin' in to the fear, are ya? Guess the forest's whispers got to ya quicker than I thought." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_goalVoice_Oi__I_hope_ye_haven_t_gotten_t" value="Oi, espero que não se enroscaram com aqueles pessoas sombrias naquela casa mal -assombrada pela pedreira!Lembre -se, é apenas a nordeste de nós.Eu sabia!Sua parte da conspiração, não é?Prove a você não encontrar aquelas pistas sangrentas!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_There_s_an_abandoned_house_up_" value="Há uma casa abandonada na colina a nordeste, eu sempre os vejo vindo.Você precisa olhar para aquela casa!" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_goal_collect_paint" value=" " />
+  <Key key="_goal_collect_saw" value=" " />
+  <Key key="_goal_collect_hammer" value=" " />
+  <Key key="_goal_collect_wrench" value=" " />
+  <Key key="_goal_talk_npc" value="Fale com Alexander Stones" />
+  <Key key="_npc_Those_masks__they_give_off_a_d" value="Essas máscaras, elas emitem uma aura escura, eu te digo.Me dá arrepios, sim." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Ah__ye_ve_got_the_courage_in_y" value="Ah, você tem coragem em você!Bendito seja, que os espíritos guardem seu caminho." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_And_look__the_wood__It_traces_" value="E olhe, a madeira!Ele remonta àquela antiga serraria!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_These_tools__this_paint____cla" value="Essas ferramentas, essa pintura ... táticas clássicas de deflexão do estado profundo para esconder suas faixas.Mas você e eu, nós vemos através disso." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_varDescription_Collect_Wrench" value="Colete a chave" />
+  <Key key="_varDescription_Collect_Hammer" value="Colete martelo" />
+  <Key key="_varDescription_Collect_Saw" value="Colete serra" />
+  <Key key="_varDescription_Collect_Paint" value="Coletar tinta" />
+  <Key key="_QuestActionAddToJournal_Dorik_Oakenshield_Westwind_Woo" value="Dorik Oakenshield&#10;Westwind Woods, Old Quarry Bottom&#10;&#10;Ajude Dorik Oakenshield a investigar máscaras misteriosas procurando itens suspeitos na casa abandonada nas proximidades." />
+  <Key key="_npc_Hah__I_knew_it__Sent_to_spy_on" value="Hah, eu sabia!Enviado para me espionar, não estava?Corra agora, de volta ao seu mestre." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_And_we_re_gonna_get_to_the_bot" value="E vamos chegar ao fundo, juntos!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_So__you_ve_brought_me_some_evi" value="Então, você me trouxe algumas evidências, hein?Essas máscaras ... estão pulsando com energia escura, meu amigo." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_So__what_did_you_find__Aliens_" value="Então, o que você encontrou?Estrangeiros, sociedades secretas ou talvez apenas evidências do estado profundo?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

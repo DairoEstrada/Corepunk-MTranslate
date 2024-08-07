@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_specialization_mastery_infiltrator" type="external">
+  <Key key="_npc_Hey__lookin__as_sharp_as_my_bl" value="Ei, parecendo tão afiado quanto minhas lâminas!" voiceSettingsId="dsPFiV95tr6BXfw1o73K" />
+  <Key key="_npc_I_wish_I_had_the_confidence_to" value="Eu gostaria de ter confiança para usar algo como você ..." voiceSettingsId="dsPFiV95tr6BXfw1o73K" />
+  <Key key="_npc_You_can_only_see_me_because_I_" value="You can only see me because I'm letting you see me." voiceSettingsId="dsPFiV95tr6BXfw1o73K" />
+  <Key key="_npc_Watch_your_step__It_s_a_minefi" value="Cuidado onde pisa!É um campo minado por aqui." voiceSettingsId="dsPFiV95tr6BXfw1o73K" />
+  <Key key="_npc_Is_that_a_cloak_or_a_rug_" value="Isso é uma capa ou um tapete?" voiceSettingsId="dsPFiV95tr6BXfw1o73K" />
+  <Key key="_npc_Violence_is_typically_the_answ" value="A violência é tipicamente a resposta ..." voiceSettingsId="dsPFiV95tr6BXfw1o73K" />
+</Node>

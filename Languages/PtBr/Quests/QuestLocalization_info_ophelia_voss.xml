@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_ophelia_voss" type="external">
+  <Key key="_npc_I_am_Ophelia_Voss_" value="Eu sou Ophelia Voss." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_One_half_of_the_twins_of_fate_" value="Metade dos gêmeos do destino." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_At_midnight_tomorrow__a_secret" value="À meia -noite de amanhã, um segredo será revelado." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_On_the_third_hour_past_dawn__s" value="Na terceira hora após o amanhecer, alguém encontrará seu fim." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_By_noon__you_will_find_unexpec" value="By noon, you will find unexpected joy." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_As_the_sun_sets__a_sorrow_will" value="Quando o sol se põe, uma tristeza acontecerá com alguém querido." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_At_the_stroke_of_midnight__des" value="At the stroke of midnight, destiny's wheel will turn again." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_At_dawn__I_will_be_laughing_" value="Ao amanhecer, estarei rindo." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_By_midday__a_shadow_will_fall_" value="By midday, a shadow will fall upon me." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_In_the_afternoon__whispers_wil" value="À tarde, os sussurros me trarão segredos." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_As_twilight_comes__sorrow_will" value="Quando Crepúsculo chega, a tristeza tocará meu coração." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Come_evening__an_unexpected_gu" value="Na noite, um hóspede inesperado chegará." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Late_at_night__I_will_feel_a_c" value="Tarde da noite, sentirei um frio." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_And_as_the_clock_strikes_midni" value="E quando o relógio atinge a meia -noite, o medo me consumirá." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_This_is_Riverrise___" value="Isso é rio ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Such_a_pretty_place___" value="Such a pretty place..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_But_bad_things_are_coming___" value="Mas coisas ruins estão chegando ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Terrible_things__soon___" value="Coisas terríveis, em breve ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_These_peaceful_days_won_t_last" value="Esses dias pacíficos não durarão ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Shadows_will_soon_dance_here__" value="As sombras vão dançar em breve aqui ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_And_many_tears_will_fall__fore" value="E muitas lágrimas vão cair para sempre ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Not_yet___" value="Ainda não..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Not_now___" value="Agora não..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Soon__but_not_today___" value="Logo, mas não hoje ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Maybe_later___" value="Talvez mais tarde..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Wait_for_the_shadows___" value="Espere pelas sombras ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_When_the_clock_strikes_twelve_" value="Quando o relógio atinge doze ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Yes__it_s_time___" value="Sim, é hora ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_This_moment_was_foretold___" value="Este momento foi predito ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Together__we_will_change_fate_" value="Juntos, vamos mudar o destino ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Destiny_awaits_us___" value="O destino nos espera ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_We_ve_been_expecting_you___" value="Nós estivemos esperando você..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+  <Key key="_npc_Now_is_the_moment___" value="Agora é o momento ..." voiceSettingsId="vfbFVUfHLCQytsjMX9sU" />
+</Node>

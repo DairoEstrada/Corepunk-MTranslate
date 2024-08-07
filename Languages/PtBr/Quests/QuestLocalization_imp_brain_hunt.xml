@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_imp_brain_hunt" type="external">
+  <Key key="_npc_You_ll_find_her_out_in_them_wo" value="Você a descobrirá neles bosques, logo ao redor.Pergunte a ela o que diabos bateu meu ônibus espacial, vai?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_You_ll_find_her_out_in_them_wo" value="Você a descobrirá neles bosques, a noroeste da estrada a partir do acidente de nave espacial.Sua casa grosseira é profundamente na floresta de Westwind.Pergunte a ela o que diabos bateu meu ônibus espacial, vai?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_dGTZ" value="Zugg Clankwhistle&#10;Goldenfield, perto do Bureau&#10;&#10;Aprenda os detalhes do desastre da velha bruxa" />
+  <Key key="_goal_talk_npc" value="Aprenda os detalhes do desastre da velha bruxa" />
+  <Key key="_assistant_phrase_Wonderful__Bring_the_brains_to" value="Maravilhoso!Traga o cérebro para minha casa.Em seguida, coloque -os no tanque de clonagem.É tudo controlado pela IA e muito fácil." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_varDescription_YtU7" value="Bruxa do cérebro" />
+  <Key key="_varDescription_VqQI" value="Brain Firestarter" />
+  <Key key="_npc_Your_papers_are_all_set__you_r" value="Seus papéis estão todos definidos, você é oficial agora!Tudo bem, é hora de você pegar a trilha.Sim.Continue, viva sua vida, seja feliz.Apenas não nessas partes." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You_did_it__eh__Marvelous__But" value="Você fez isso, hein.Maravilhoso.Mas sim, não uma palavra sobre o que você viu em minha casa." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_If_you_re_lookin__to_earn_your" value="Se você está tentando ganhar sua fortaleza, a estação de mana local é uma boa aposta.Mas eles não o levarão sem licença.Você pode conseguir isso no governo em Riverrise, entendeu?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_talk_zugg" value="Fale com Zugg Clankwhistle" />
+  <Key key="_QuestActionAddToJournal_eUND" value="Receba documentos do Zugg" />
+  <Key key="_QuestActionAddToJournal_Uh0F" value="Coloque o cérebro do IMPS no tanque de clonagem" />
+  <Key key="_varDescription_IVIL" value="Executor cerebral" />
+  <Key key="_assistant_phrase_IMfw" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_CNUE" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_I3aR" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_EyaB" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_R09Q" value="Maravilhoso!Traga o cérebro para minha casa.Em seguida, coloque -os no tanque de clonagem.É tudo controlado pela IA e muito fácil." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goalVoice_OhPB" value="Maravilhoso!Traga o cérebro para minha casa.Em seguida, coloque -os no tanque de clonagem.É tudo controlado pela IA e muito fácil." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_QuestActionAddToJournal_C1hR" value="Coloque o cérebro do IMPS no tanque de clonagem" />
+  <Key key="_QuestActionAddToJournal_b59i" value="Coloque o cérebro do IMPS no tanque de clonagem" />
+  <Key key="_goalVoice_VWNS" value="Maravilhoso!Traga o cérebro para minha casa.Em seguida, coloque -os no tanque de clonagem.É tudo controlado pela IA e muito fácil." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_And_hey__it_s_not_very_legal_i" value="E ei, não é muito legal nessas terras, então eu apreciaria se você ficasse quieto, não é?" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Cloning_Tank_Version_2_03__Goo" value="Tanque de clonagem Versão 2.03.Bom dia, ótimo mestre papai!Temperatura e pressão são estáveis.Deseja iniciar um novo ciclo de clonagem?" voice="Female" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_DNA_material__present__Additio" value="Material de DNA: presente.Fonte adicional das células cerebrais: presente.Ciclo de clonagem número 420 iniciado.Obrigado, papai." voice="Female" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_collect_item_executioner" value="Colete o Execution Brain Imp" />
+  <Key key="_varDescription_KAye" value="Executor cerebral" />
+  <Key key="_goal_collect_item_firestarter" value="Colete o Brain Imp Firestarter" />
+  <Key key="_varDescription_aMOO" value="Brain Firestarter" />
+  <Key key="_goal_collect_item_witch" value="Colete Bruxa Brain Imp" />
+  <Key key="_varDescription_a4nO" value="Bruxa do cérebro" />
+  <Key key="_QuestActionAddToJournal_DwPi" value="Obtenha o cérebro dos líderes do IMP" />
+  <Key key="_goalVoice_Ugtq" value="" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_m_aware_of_the__accidents__y" value="Estou ciente dos &quot;acidentes&quot; de que você fala, mas o conhecimento não é dado livremente." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Am_I_an_old_hag__I_suppose_tha" value="Eu sou uma velha bruxa?Suponho que é assim que alguns goblins grosseiros me chamam.Deixe -me adivinhar ... Zugg?" voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Heed_my_warning__the_forest_is" value="Preste atenção ao meu aviso, a floresta é um labirinto torcido, com criaturas à espreita nas sombras.Prepare -se para encontros não convidados." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Fetch_me_Neon_Mushrooms__They_" value="Pegue -me cogumelos neon.Eles são uma raça rara, infundida com &quot;mana ruim&quot;." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_npc_Elan_s_government_keeps_taking" value="O governo de Elan continua levando -os para estudar!Esses cogumelos são cruciais para a minha fabricação de cerveja." voiceSettingsId="MjGGwTcUmkldVfWIlgsJ" />
+  <Key key="_goalVoice_Looks_like_their_bigwigs_ain_t" value="Parece que seus figurões não são tão escuros quanto parecem.Tudo bem, vamos fazer um acordo e se divertir desses líderes e me traga seus cérebros, quanto mais fresco, melhor." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_What__Those_Imps_shot_my_shutt" value="O que?Aqueles diabos atiraram no meu traslado?Esses numbskulls?Eles são mais burros que um toco" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_Looks_like_their_bigwigs_ain_t" value="Parece que seus figurões não são tão escuros quanto parecem.Tudo bem, vamos fazer um acordo e se divertir desses líderes e me traga seus cérebros, quanto mais fresco, melhor." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_By_the_way__about_my_brother_s" value="A propósito, sobre a morte prematura de meu irmão, não se preocupe muito com isso.Para ser franco, eles não são realmente meus irmãos." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_assistant_phrase_They_re_all_me__Well__dumbed_d" value="Eles são todos eu.Bem, versões embaçadas de mim ... Traga -me cérebro e eu mostrarei o que quero dizer." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

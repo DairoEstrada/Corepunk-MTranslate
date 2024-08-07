@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_unsavory_evidence" type="external">
+  <Key key="_npc_Shit__you_re_gonna_leave_me_ha" value="Merda, você vai me deixar pendurado?Nós dois estamos ferrados se Triton me implica!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Don_t_back_out_now__damn_it__T" value="Don't back out now, damn it! This could save my ass." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_What_the_FUCK__We_need_to_move" value="Que porra?Precisamos nos mover rapidamente antes que Triton aponte o dedo para mim." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Are_you_fucking_kidding_me__Th" value="Você está brincando comigo?Isso é sério!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_goalVoice_Don_t_fuck_this_up__Head_to_th" value="Não foda -se!Vá para a casa abandonada na colina para a panela e isso delicioso ... quero dizer, receita torcida para ensopado de bebê.Você encontrará a casa a noroeste de Windstone Village!Depois, lembre -se de que Quaridor Vex é sua parada final.Ele está patrulhando perto do lugar da guarda em West Windstone Village." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_goal_collect_suspicious" value=" " />
+  <Key key="_goal_collect_recipe" value=" " />
+  <Key key="_goal_talk_npc" value="Traga para Quaridor Vex" />
+  <Key key="_npc_He_ll_have_your_last_task_to_g" value="Ele terá sua última tarefa para reunir mais evidências." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_You_ll_need_to_find_a_pan_and_" value="Você precisará encontrar uma panela e, de todas as coisas, uma receita para ensopado de bebê.Sei que parece louco, mas pegue esses itens e os traga para Quaridor." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_DON_T_ASK_ME_HOW_I_KNOW_THAT_" value="Não me pergunte como eu sei disso!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_I_need_you_to_head_to_the_aban" value="Eu preciso que você vá para a casa abandonada na colina, a nordeste da vila.Triton tem usado para suas ... sessões de culinária." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_I_m_worried_he_s_going_to_impl" value="Estou preocupado que ele me implique se não agirmos rápido.Boss diz que reunir essas evidências me dá imunidade." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Alright__we_ve_got_a_fucked_up" value="Tudo bem, temos um trabalho fodido a fazer.Triton tem sido uma merda de verdade, e precisamos reunir evidências contra ele." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_QuestActionAddToJournal_Gusto_Grubhunter_Windstone_Vil" value="Gusto Grubhunter&#10;Windstone Village, Place de Guarda: Sudoeste.&#10;&#10;Ajude Gusto Grubhunter a reunir evidências contra Triton, recuperando uma panela, uma receita para ensopado de bebê e trazendo -a para Quaridor Vex." />
+  <Key key="_npc_Seriously__Fucking_seriously__" value="Seriamente?Porra seriamente?Isso é fazer ou morrer para mim, você entendeu?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_varDescription_Collect_Suspicious_Pan" value="Colete a panela suspeita" />
+  <Key key="_varDescription_Collect__Baby_Stew_Recipe_" value="Colete &quot;Receita de ensopado de bebê&quot;" />
+  <Key key="_npc_Or_would_you_guess_I_have_one_" value="Ou você acha que eu tenho uma última evidência para encontrar?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_You_d_think_that_d_be_the_end_" value="Você pensaria que seria o fim, certo?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Isn_t_this_exactly_what_we_nee" value="Não é exatamente isso que precisávamos?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Is_this_the_evidence_the_boss_" value="É essa a evidência que o chefe estava pedindo?" voiceSettingsId="9JT0KwrSThkFQ3jXQT6V" />
+  <Key key="_npc_Boss_says_gathering_this_evide" value="Boss diz que reunir essas evidências me dá imunidade.E isso é realmente importante agora." voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+</Node>

@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ConstProfession" description="">
+  <Node name="Archeology">
+    <Key key="Name" value="Archeology" />
+  </Node>
+  <Node name="Chemist">
+    <Key key="Name" value="Alchemy" />
+    <Key key="Description" value="You can craft various drugs to improve your characteristics and restore resources. For work you require a chemist workbench." />
+    <Key key="DescriptionLevel0" value="enables craft of Tier 1 items" />
+    <Key key="DescriptionLevel1" value="enables craft of Tier 2 items" />
+    <Key key="DescriptionLevel2" value="enables craft of Tier 3 items" />
+    <Key key="DescriptionEfficiency" value="Increases proc chance of crafting items" />
+    <Key key="EfficiencyBonus0" value="Reduces crafting time by 2 seconds.&#xD;&#xA;Reduces chance of failure to 4%." />
+    <Key key="EfficiencyBonus1" value="Grants chance to craft 4 items.&#xD;&#xA;Reduces chance of failure to 3%." />
+    <Key key="EfficiencyBonus2" value="Reduces crafting time by an additional 2 seconds.&#xD;&#xA;Reduces chance of failure to 2%." />
+    <Key key="EfficiencyBonus3" value="Reduces chance of failure to 1%." />
+    <Key key="EfficiencyBonus4" value="Grants chance to craft 10 items.&#xD;&#xA;Reduces crafting time by an additional 2 seconds.&#xD;&#xA;Failure is impossible.&#xD;&#xA;Consumable effects persist after death." />
+    <Key key="EfficiencyLockDescription" value="Mana cost - &lt;color=#FFFFFF&gt;100%&lt;/color&gt; maximum &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt;.&#xA;Activated lock - stops the growth/decrease in the efficiency of professions. &#xA;Spend &lt;color=#FFFFFF&gt;{0}&lt;/color&gt; &lt;size=100%&gt;&lt;sprite=&quot;coin_gold&quot; index=0&gt;&lt;/size&gt;&lt;color=#F2BF52&gt;Gold&lt;/color&gt; for each craft." />
+    <Key key="EfficiencyUnlockDescription" value="Deactivate the efficiency lock to start receiving profession efficiency and stop spending &lt;color=#F2BF52&gt;Gold&lt;/color&gt; on crafting." />
+  </Node>
+  <Node name="Constructor">
+    <Key key="Name" value="Construction" />
+    <Key key="Description" value="You can craft various artifacts to improve your characteristics. For work you require a constructor workbench." />
+    <Key key="DescriptionLevel0" value="enables craft of Tier 1 items" />
+    <Key key="DescriptionLevel1" value="enables craft of Tier 2 items" />
+    <Key key="DescriptionLevel2" value="enables craft of Tier 3 items" />
+    <Key key="DescriptionEfficiency" value="Increases proc chance of crafting items" />
+    <Key key="EfficiencyBonus0" value="Reduces crafting time by 2 seconds.&#xD;&#xA;Reduces chance of failure to 4%." />
+    <Key key="EfficiencyBonus1" value="Grants chance to craft &lt;color=#01A0DA&gt;Rare&lt;/color&gt; items.&#xD;&#xA;Reduces chance of failure to 3%." />
+    <Key key="EfficiencyBonus2" value="Reduces crafting time by an additional 2 seconds.&#xD;&#xA;Reduces chance of failure to 2%." />
+    <Key key="EfficiencyBonus3" value="Reduces chance of failure to 1%." />
+    <Key key="EfficiencyBonus4" value="Grants chance to craft &lt;color=#BB4BB1&gt;Epic&lt;/color&gt; items.&#xD;&#xA;Reduces crafting time by an additional 2 seconds.&#xD;&#xA;Failure is impossible.&#xD;&#xA;Crafted items bind when equipped." />
+    <Key key="EfficiencyLockDescription" value="Mana cost - &lt;color=#FFFFFF&gt;100%&lt;/color&gt; maximum &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt;.&#xA;Activated lock - stops the growth/decrease in the efficiency of professions. &#xA;Spend &lt;color=#FFFFFF&gt;{0}&lt;/color&gt; &lt;size=100%&gt;&lt;sprite=&quot;coin_gold&quot; index=0&gt;&lt;/size&gt;&lt;color=#F2BF52&gt;Gold&lt;/color&gt; for each craft." />
+    <Key key="EfficiencyUnlockDescription" value="Deactivate the efficiency lock to start receiving profession efficiency and stop spending &lt;color=#F2BF52&gt;Gold&lt;/color&gt; on crafting." />
+  </Node>
+  <Node name="Flayer">
+    <Key key="Name" value="Butchery" />
+    <Key key="Description" value="You can rip and process animal skins needed for all creating professions. For work you require a flayer workbench." />
+    <Key key="DescriptionLevel0" value="enables gathering of Tier 1 veins" />
+    <Key key="DescriptionLevel1" value="enables gathering of Tier 2 veins" />
+    <Key key="DescriptionLevel2" value="enables gathering of Tier 3 veins" />
+    <Key key="DescriptionEfficiency" value="Increases proc chance of harvesting resources" />
+    <Key key="EfficiencyBonus0" value="Reduces butchering time by 2 seconds.&#xD;&#xA;Reduces chance of failure to 4%." />
+    <Key key="EfficiencyBonus1" value="Grants chance to gather &lt;color=#01A0DA&gt;Rare&lt;/color&gt; resources.&#xD;&#xA;Grants 2 gathering attempts per carcass.&#xD;&#xA;Reduces chance of failure to 3%." />
+    <Key key="EfficiencyBonus2" value="Reduces butchering time by an additional 2 seconds.&#xD;&#xA;Reduces chance of failure to 2%." />
+    <Key key="EfficiencyBonus3" value="Grants 3 gathering attempts per carcass.&#xD;&#xA;Reduces chance of failure to 1%." />
+    <Key key="EfficiencyBonus4" value="Grants chance to gather &lt;color=#BB4BB1&gt;Epic&lt;/color&gt; resources.&#xD;&#xA;Reduces butchering time by an additional 2 seconds.&#xD;&#xA;Failure is impossible." />
+    <Key key="EfficiencyLockDescription" value="Mana cost - &lt;color=#FFFFFF&gt;100%&lt;/color&gt; maximum &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt;.&#xA;Activated lock - stops the growth/decrease in the efficiency of professions. &#xA;Consume &lt;color=#FFFFFF&gt;{0}&lt;/color&gt; &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt; each time you start gathering." />
+    <Key key="EfficiencyUnlockDescription" value="Deactivate the efficiency lock to start receiving profession efficiency and stop spending &lt;color=#00A3FF&gt;Mana&lt;/color&gt; on gathering." />
+  </Node>
+  <Node name="Lumberjack">
+    <Key key="Name" value="Logging" />
+    <Key key="Description" value="You can obtain and process wood needed for all creating professions. For work you require a lumberjack workbench." />
+    <Key key="DescriptionLevel0" value="enables gathering of Tier 1 veins" />
+    <Key key="DescriptionLevel1" value="enables gathering of Tier 2 veins" />
+    <Key key="DescriptionLevel2" value="enables gathering of Tier 3 veins" />
+    <Key key="DescriptionEfficiency" value="Increases proc chance of harvesting resources" />
+    <Key key="EfficiencyBonus0" value="Reduces logging time by 2 seconds.&#xD;&#xA;Reduces chance of failure to 4%." />
+    <Key key="EfficiencyBonus1" value="Grants chance to gather &lt;color=#01A0DA&gt;Rare&lt;/color&gt; resources.&#xD;&#xA;Grants 2 gathering attempts per tree.&#xD;&#xA;Reduces chance of failure to 3%." />
+    <Key key="EfficiencyBonus2" value="Reduces logging time by an additional 2 seconds.&#xD;&#xA;Reduces chance of failure to 2%." />
+    <Key key="EfficiencyBonus3" value="Grants 3 gathering attempts per tree.&#xD;&#xA;Reduces chance of failure to 1%." />
+    <Key key="EfficiencyBonus4" value="Grants chance to gather &lt;color=#BB4BB1&gt;Epic&lt;/color&gt; resources.&#xD;&#xA;Reduces logging time by an additional 2 seconds.&#xD;&#xA;Failure is impossible." />
+    <Key key="EfficiencyLockDescription" value="Mana cost - &lt;color=#FFFFFF&gt;100%&lt;/color&gt; maximum &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt;.&#xA;Activated lock - stops the growth/decrease in the efficiency of professions. &#xA;Consume &lt;color=#FFFFFF&gt;{0}&lt;/color&gt; &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt; each time you start gathering." />
+    <Key key="EfficiencyUnlockDescription" value="Deactivate the efficiency lock to start receiving profession efficiency and stop spending &lt;color=#00A3FF&gt;Mana&lt;/color&gt; on gathering." />
+  </Node>
+  <Node name="Miner">
+    <Key key="Name" value="Mining" />
+    <Key key="Description" value="You can mine and process ore needed for all creating professions. For work you require a miner workbench." />
+    <Key key="DescriptionLevel0" value="enables gathering of Tier 1 veins" />
+    <Key key="DescriptionLevel1" value="enables gathering of Tier 2 veins" />
+    <Key key="DescriptionLevel2" value="enables gathering of Tier 3 veins" />
+    <Key key="DescriptionEfficiency" value="Increases proc chance of harvesting resources" />
+    <Key key="EfficiencyBonus0" value="Reduces mining time by 2 seconds.&#xD;&#xA;Reduces chance of failure to 4%." />
+    <Key key="EfficiencyBonus1" value="Grants chance to gather &lt;color=#01A0DA&gt;Rare&lt;/color&gt; resources.&#xD;&#xA;Grants 2 gathering attempts per vein.&#xD;&#xA;Reduces chance of failure to 3%." />
+    <Key key="EfficiencyBonus2" value="Reduces mining time by an additional 2 seconds.&#xD;&#xA;Reduces chance of failure to 2%." />
+    <Key key="EfficiencyBonus3" value="Grants 3 gathering attempts per vein.&#xD;&#xA;Reduces chance of failure to 1%." />
+    <Key key="EfficiencyBonus4" value="Grants chance to gather &lt;color=#BB4BB1&gt;Epic&lt;/color&gt; resources.&#xD;&#xA;Reduces mining time by an additional 2 seconds.&#xD;&#xA;Failure is impossible." />
+    <Key key="EfficiencyLockDescription" value="Mana cost - &lt;color=#FFFFFF&gt;100%&lt;/color&gt; maximum &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt;.&#xA;Activated lock - stops the growth/decrease in the efficiency of professions. &#xA;Consume &lt;color=#FFFFFF&gt;{0}&lt;/color&gt; &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt; each time you start gathering." />
+    <Key key="EfficiencyUnlockDescription" value="Deactivate the efficiency lock to start receiving profession efficiency and stop spending &lt;color=#00A3FF&gt;Mana&lt;/color&gt; on gathering." />
+  </Node>
+  <Node name="Mystic">
+    <Key key="Name" value="Mysticism" />
+    <Key key="Description" value="You can craft various seals to enhance your artifacts and weapons. For work you require a mystic workbench." />
+    <Key key="DescriptionLevel0" value="enables craft of Tier 1 items" />
+    <Key key="DescriptionLevel1" value="enables craft of Tier 2 items" />
+    <Key key="DescriptionLevel2" value="enables craft of Tier 3 items" />
+    <Key key="DescriptionEfficiency" value="Increases proc chance of crafting items" />
+    <Key key="EfficiencyBonus0" value="Reduces crafting time by 2 seconds.&#xD;&#xA;Reduces chance of failure to 4%." />
+    <Key key="EfficiencyBonus1" value="Grants chance to craft &lt;color=#01A0DA&gt;Rare&lt;/color&gt; items.&#xD;&#xA;Reduces chance of failure to 3%." />
+    <Key key="EfficiencyBonus2" value="Reduces crafting time by an additional 2 seconds.&#xD;&#xA;Reduces chance of failure to 2%." />
+    <Key key="EfficiencyBonus3" value="Reduces chance of failure to 1%." />
+    <Key key="EfficiencyBonus4" value="Grants chance to craft &lt;color=#BB4BB1&gt;Epic&lt;/color&gt; items.&#xD;&#xA;Reduces crafting time by an additional 2 seconds.&#xD;&#xA;Failure is impossible.&#xD;&#xA;Crafted items bind when equipped." />
+    <Key key="EfficiencyLockDescription" value="Mana cost - &lt;color=#FFFFFF&gt;100%&lt;/color&gt; maximum &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt;.&#xA;Activated lock - stops the growth/decrease in the efficiency of professions. &#xA;Spend &lt;color=#FFFFFF&gt;{0}&lt;/color&gt; &lt;size=100%&gt;&lt;sprite=&quot;coin_gold&quot; index=0&gt;&lt;/size&gt;&lt;color=#F2BF52&gt;Gold&lt;/color&gt; for each craft." />
+    <Key key="EfficiencyUnlockDescription" value="Deactivate the efficiency lock to start receiving profession efficiency and stop spending &lt;color=#F2BF52&gt;Gold&lt;/color&gt; on crafting." />
+  </Node>
+  <Node name="Weaponsmith">
+    <Key key="Name" value="Weaponsmithing" />
+    <Key key="Description" value="You can craft various weapons to improve your characteristics. For work you require a weaponsmith workbench." />
+    <Key key="DescriptionLevel0" value="enables craft of Tier 1 items" />
+    <Key key="DescriptionLevel1" value="enables craft of Tier 2 items" />
+    <Key key="DescriptionLevel2" value="enables craft of Tier 3 items" />
+    <Key key="DescriptionEfficiency" value="Increases proc chance of crafting items" />
+    <Key key="EfficiencyBonus0" value="Reduces crafting time by 2 seconds.&#xD;&#xA;Reduces chance of failure to 4%." />
+    <Key key="EfficiencyBonus1" value="Grants chance to craft &lt;color=#01A0DA&gt;Rare&lt;/color&gt; items.&#xD;&#xA;Reduces chance of failure to 3%." />
+    <Key key="EfficiencyBonus2" value="Reduces crafting time by an additional 2 seconds.&#xD;&#xA;Reduces chance of failure to 2%." />
+    <Key key="EfficiencyBonus3" value="Reduces chance of failure to 1%." />
+    <Key key="EfficiencyBonus4" value="Grants chance to craft &lt;color=#BB4BB1&gt;Epic&lt;/color&gt; items.&#xD;&#xA;Reduces crafting time by an additional 2 seconds.&#xD;&#xA;Failure is impossible.&#xD;&#xA;Crafted items bind when equipped." />
+    <Key key="EfficiencyLockDescription" value="Mana cost - &lt;color=#FFFFFF&gt;100%&lt;/color&gt; maximum &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt;.&#xA;Activated lock - stops the growth/decrease in the efficiency of professions. &#xA;Spend &lt;color=#FFFFFF&gt;{0}&lt;/color&gt; &lt;size=100%&gt;&lt;sprite=&quot;coin_gold&quot; index=0&gt;&lt;/size&gt;&lt;color=#F2BF52&gt;Gold&lt;/color&gt; for each craft." />
+    <Key key="EfficiencyUnlockDescription" value="Deactivate the efficiency lock to start receiving profession efficiency and stop spending &lt;color=#F2BF52&gt;Gold&lt;/color&gt; on crafting." />
+  </Node>
+  <Node name="Fisher">
+    <Key key="Name" value="Fisher" />
+    <Key key="Description" value="Fhisher - allows you to catch fish and someone's left shoes." />
+  </Node>
+  <Node name="Cook">
+    <Key key="Name" value="Cooking" />
+    <Key key="DescriptionLevel1" value="enables craft of Tier 2 items" />
+    <Key key="DescriptionLevel2" value="enables craft of Tier 3 items" />
+    <Key key="DescriptionLevel0" value="enables craft of Tier 1 items" />
+  </Node>
+  <Node name="Robber">
+    <Key key="Name" value="Robber" />
+  </Node>
+  <Node name="Pathfinder">
+    <Key key="Name" value="Pathfinder" />
+  </Node>
+  <Node name="Artisan">
+    <Key key="Name" value="Artisan" />
+  </Node>
+  <Node name="Assassin">
+    <Key key="Name" value="Assassin" />
+  </Node>
+  <Node name="Assembler">
+    <Key key="Name" value="Assembler" />
+    <Key key="Description" value="You can collect and recycle various debris needed for all creating professions. For work you require am assembler workbench." />
+  </Node>
+  <Node name="Merchant">
+    <Key key="Name" value="Merchant" />
+  </Node>
+  <Node name="Tamer">
+    <Key key="Name" value="Tamer" />
+  </Node>
+  <Node name="Herbalism">
+    <Key key="Name" value="Herbalism" />
+    <Key key="DescriptionLevel0" value="enables gathering of Tier 1 veins" />
+    <Key key="DescriptionLevel1" value="enables gathering of Tier 2 veins" />
+    <Key key="DescriptionLevel2" value="enables gathering of Tier 3 veins" />
+    <Key key="DescriptionEfficiency" value="Increases proc chance of harvesting resources" />
+    <Key key="EfficiencyBonus0" value="Reduces harvesting time by 2 seconds.&#xD;&#xA;Reduces chance of failure to 4%." />
+    <Key key="EfficiencyBonus1" value="Grants chance to gather &lt;color=#01A0DA&gt;Rare&lt;/color&gt; resources.&#xD;&#xA;Grants 2 gathering attempts per herb.&#xD;&#xA;Reduces chance of failure to 3%." />
+    <Key key="EfficiencyBonus2" value="Reduces harvesting time by an additional 2 seconds.&#xD;&#xA;Reduces chance of failure to 2%" />
+    <Key key="EfficiencyBonus3" value="Grants 3 gathering attempts per herb.&#xD;&#xA;Reduces chance of failure to 1%." />
+    <Key key="EfficiencyBonus4" value="Grants chance to gather &lt;color=#BB4BB1&gt;Epic&lt;/color&gt; resources.&#xD;&#xA;Reduces harvesting time by an additional 2 seconds.&#xD;&#xA;Failure is impossible." />
+    <Key key="EfficiencyLockDescription" value="Mana cost - &lt;color=#FFFFFF&gt;100%&lt;/color&gt; maximum &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt;.&#xA;Activated lock - stops the growth/decrease in the efficiency of professions. &#xA;Consume &lt;color=#FFFFFF&gt;{0}&lt;/color&gt; &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;Mana&quot; color=#00A3FF&gt;&lt;/size&gt;&lt;color=#00A3FF&gt;Mana&lt;/color&gt; each time you start gathering." />
+    <Key key="EfficiencyUnlockDescription" value="Deactivate the efficiency lock to start receiving profession efficiency and stop spending &lt;color=#00A3FF&gt;Mana&lt;/color&gt; on gathering." />
+  </Node>
+</Category>

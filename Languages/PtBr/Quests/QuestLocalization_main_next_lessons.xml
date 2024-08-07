@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_main_next_lessons" type="external">
+  <Key key="_npc_Maybe_if_you_help_some_of_them" value="Talvez se você ajudar alguns deles, podemos fazê -los atestar por você com Zugg!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_letter_thanks" value=" " />
+  <Key key="_varDescription_JuH7" value="Carta de agradecimento" />
+  <Key key="_QuestActionAddToJournal_d7xX" value="Martha &quot;Big Mamma&quot; Potterson&#10;Goldenfield, perto da cozinha de bem -estar social&#10;&#10;Martha quer que você coloque as habilidades comerciais que aprendeu a trabalhar ajudando várias pessoas ao redor da vila." />
+  <Key key="_goal_help_quadro" value="Ajude Quadro-Sentinel 4.0" />
+  <Key key="_goal_help_greta" value="Ajude Greta Grubb" />
+  <Key key="_goal_help_griz" value="Ajude o Griz Turner" />
+  <Key key="_goal_help_paddy" value="Ajude Paddy O'Lantern" />
+  <Key key="_goal_help_oswald" value="Ajude Oswald" />
+  <Key key="_goal_help_zoltar" value="Ajude Zoltar Blipchain" />
+  <Key key="_goal_help_berg" value="Ajude Berg Stonefoot" />
+  <Key key="_goalVoice_People_around_here_might_hate_" value="As pessoas por aqui podem odiar você, mas não são as que recusam a ajuda gratuita.Vá perguntar por que veja o que você pode fazer por eles, tudo bem?Nada de sexual - e confie em mim, eles perguntarão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_help_kicheki" value="Ajude Kicheki" />
+  <Key key="_goal_help_jahri" value="Ajude as raízes de Jahri" />
+  <Key key="_goal_help_mortimer" value="Ajude Mortimer Gloomsworth" />
+  <Key key="_assistant_phrase_I2dh" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_MIVM" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_82hi" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_6j9d" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_SFc1" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_9pED" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_5iVc" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_LFEv" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_TYb7" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Ljc1" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_JaCM" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_bgvQ" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_8YX1" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Metq" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_J3sy" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_PA7M" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_W7NC" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_hRqR" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_DFEt" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_5aTH" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_H8iU" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_cGvy" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Sqvs" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_hE7d" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_PV3v" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_RX4e" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_5JRQ" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_4T0N" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_8Vr8" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_VH7F" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_GWP6" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_6tMk" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Ybrp" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_HbZ0" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_I0bC" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Kc0u" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_dVRI" value="Isso é tudo de'M!Se Zugg ainda odeia você depois disso, bem ... bem, não ficarei surpreso, mas talvez ele clave com a pressão." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_eMRd" value="Oh, bom trabalho, querida!Eu acho que você realmente mudou a mente desse racista.Talvez.Tipo de." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_9dxH" value="Esse cara definitivamente te odeia um pouco menos do que antes!Bem ... talvez eu possa pagá -los para ..." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_assistant_phrase_Fi81" value="Mais um!E ... oh, o que é isso?Desculpe querida, cozinhando emergência.Não seja morto." voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_npc_You_know__world_around_town_is" value="Você sabe, o mundo ao redor da cidade é bastante útil.Mas ouça, nada é de graça por aqui." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Your_paperwork_s_tied_up__and_" value="Sua papelada está amarrada, e eu já disse não uma vez.Mas talvez haja algo que possamos malhar." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_One_of_my_cl__er__brothers__ha" value="Um dos meus irmãos, irmãos, desapareceu.Um particularmente estúpido." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_He_was_supposed_to_deliver_som" value="Ele deveria entregar alguns geradores, mas caiu no ônibus espacial.Aquele idiota desencadeou seu alarme." voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_If_you_want_your_paperwork_don" value="Se você quiser sua papelada, você entrará na floresta e encontrará meu irmão, não é?" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_npc_Look__honey___you_put_in_the_w" value="Olha, querida - você coloca o trabalho.Se Zugg não conseguir lidar com isso, ele terá que responder a Big Mamma!" voiceSettingsId="qTi545CDUzTHJkvEemK2" />
+  <Key key="_goal_talk_zugg" value="Fale com Zugg Clankwhistle" />
+</Node>

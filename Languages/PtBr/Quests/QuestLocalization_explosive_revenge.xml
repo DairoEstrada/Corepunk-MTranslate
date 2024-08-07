@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_explosive_revenge" type="external">
+  <Key key="_goal_talk_npc" value="Fale com Rusty McDrinkit" />
+  <Key key="_npc_Is_that_more_liquid_gold_for_o" value="Isso é mais ouro líquido para o velho enferrujado?Diga -me que você tem algumas coisas boas!" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_I_knew_you_d_have_the_guts__No" value="Eu sabia que você teria a coragem!Agora vamos dar a Rusty um gostinho de um incêndio de verdade!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Explosive_Powder_Jug" value="Colete o jarro de pó explosivo" />
+  <Key key="_QuestActionAddToJournal_Maverick__Mav__Gritt_Riverrise" value="Maverick &quot;Mav&quot; Gritt&#10;Riverrise, caminhão de álcool.&#10;&#10;Ajude o Maverick 'Mav' Gritt a reunir pó explosivo para derrubar McDrinkit Rusty." />
+  <Key key="_goalVoice_Get_off_yer_lazy_ass_and_find_" value="Saia de sua bunda preguiçosa e encontre essas malditas garrafas explosivas!Verifique a maldita loja TNT em Riverrise.Não posso perder esses jarros laranja!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Hic__h_hic__what_do_we_have_he" value="Hic, H-Hic, o que temos aqui?Novos suprimentos S para Old Rusty?" voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Beep_boop__calculation_c_compl" value="BEEP BOOP, Cálculo C-COMPLETO.DELICIOSO." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Drinks_uh__explosives__you_say" value="Bebe explosivos, você diz?Hic, você com certeza sabe como surpreender um bot." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_It_has_quite_the_kick__Fortuna" value="Tem um chute bastante.Felizmente, sou uma prova explosiva." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Bzzt__bonus_validated__Rusty_s" value="BZZT, bônus validado.A G-Gonn de Rusty se divertia com isso, Hic." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_Recompense_c_c_calibration_com" value="Recompensa c-c-calibração completa.Traga mais bebida enferrujada e você será recompensado." voiceSettingsId="mfMqSFTxCMRir4MtrIMS" />
+  <Key key="_npc_That_damned_Rusty_McDrinkit_s_" value="Aquele maldito Rusty McDrinkit se foi e fez isso agora!Busando meu caminhão e chutando toda a minha bebida." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_m_fed_up_with_that_tin_can_w" value="Estou farto daquela lata pode destruir meu trabalho." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_m_fixin__to_send_that_scrap_" value="Estou consertando o envio da pilha de sucata para o reino.Estamos falando de um bom e bom boom com um pó explosivo fino." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_need_ya_to_sneak_over_to_the" value="Eu preciso que você se esgueire até a loja da TNT e me pegue um pouco desse pó explosivo nas garrafas de laranja." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Take__em_over_to_the_robot__an" value="Leve -os até o robô, e eu incendiarei -os enquanto ele os está segurando." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Be_quick_and_keep_your_head_do" value="Seja rápido e mantenha a cabeça baixa, não há necessidade de atrair calor extra." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Damn_it__You_ain_t_got_the_gut" value="Caramba!Você não tem coragem?Tudo bem, saia aqui!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_To_hell_with_it__I_ll_find_som" value="Para o inferno, vou encontrar outra pessoa com uma espinha dorsal!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_What_the_hell__Rusty_s_gonna_k" value="Que diabos?Rusty vai continuar furioso graças a você!Git!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+</Node>

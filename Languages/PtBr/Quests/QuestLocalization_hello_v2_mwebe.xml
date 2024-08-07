@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_mwebe" type="external">
+  <Key key="_npc_What_you_looking_at_" value="O que você está olhando?" voice="Male" />
+</Node>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_junior_post_officer" type="external">
+  <Key key="_npc_I_can_not_deal_with_you_now__P" value="Não posso lidar com você agora.Por favor, volte para o oficial do Post com todas as suas perguntas." />
+</Node>
