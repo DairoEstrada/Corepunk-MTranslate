@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_killing_dreads" type="external">
+  <Key key="_npc_Saddle_up__soldier__Let_s_show" value="¡Sada, soldado!Mostremos a esos rastas cuyo jefe." voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_So__did_you_give_those_Dreads_" value="Entonces, ¿le diste a esos temores un sabor de la hospitalidad de Boomstick?" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_Hot_diggity__You_sent_those_Dr" value="¡CALIENTE DIGGITY!¡Envió esos rastas empacando!" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_Here_s_your_reward__sport__Don" value="Aquí está tu recompensa, deporte.No lo hagas todo en chicle y cigarros." voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_If_I_had_a_medal__you_d_be_wea" value="Si tuviera una medalla, lo estarías usando ahora mismo.¡Bien hecho!" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_goal_kill_mobs" value=" " />
+  <Key key="_varDescription_evYj" value="Matar dendroides" />
+  <Key key="_QuestActionAddToJournal_gZyi" value="Hank Granger&#10;Goldenfield, cerca del tractor.&#10;&#10;Ayude a Hank 'Boomstick' Granger a eliminar los temores en Windreach Woods o Tempest Timberland." />
+  <Key key="_goalVoice_Just_a_friendly_reminder__Five" value="Solo un recordatorio amistoso: se deben convertir cinco temor en budín de temor.EstadísticaCuanto antes los termines, antes podré volver a quejarme de mis articulaciones y el clima." voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_glimmer_of_innovation" type="external">
+  <Key key="_npc_Fen_s_got_this_wild_contraptio" value="Fen tiene esta idea de artilugio salvaje, un cortador de láser que probablemente revolucionará nuestro trabajo o nos hará volar a todos al cielo alto." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_But_the_thing_s_hungry_for_rub" value="Pero la cosa tiene hambre de rubíes, dos de ellos, hic, realmente critican a través de la madera." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_goal_talk_npc" value="Regreso a Fenwick Harrow" />
+  <Key key="_npc_Grab_two_from____wherever_rubi" value="Agarra dos de ... de donde venga los rubíes." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_goalVoice_Thought_finding_rubies_would_b" value="Pensé que encontrar a Rubies sería fácil, ¿eh?Intente mirar donde viven las cosas brillantes, como las venas de mineral." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_Suit_yourself__future_sawdust_" value="¡Se adapte a usted mismo, futuro entusiasta de aserrín!" voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_No_problem__I_guess_creating_m" value="No hay problema, supongo que crear invenciones magníficas no es para todos." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_Easy_come__easy_go__pal__Maybe" value="Fácil ven, fácil, amigo.Tal vez encuentres un propósito de vida diferente mientras miras árboles." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_varDescription_eDbB" value="Recoger rubíes" />
+  <Key key="_npc_Oh__anyway___if_you_re_new_her" value="Oh, de todos modos, si eres nuevo aquí, debería encontrar algo que hagas ..." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_swear____the_guy_seems_like_" value="Lo juro ... el tipo parece un alienígena a veces." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_I_did_see_something_weird_thou" value="Vi algo extraño: a veces la Grommet come rubíes enteros." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_goal_collect_resources" value=" " />
+  <Key key="_varDescription_Collect_Rubies" value="Recoger rubíes" />
+  <Key key="_QuestActionAddToJournal_Eamon_Hardich_Westwind_Woods__" value="Eamon Hardich&#10;Westwind Woods, patio de trabajadores de aserradero.&#10;&#10;Ayude a Fenwick 'Fen' Harrow a adquirir dos rubíes para completar su máquina de corte con láser." />
+  <Key key="_npc_Grommuk___hic___ain_t_great_at" value="Grommuk - hic - no es genial para asignar tareas, así que te daré una." voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+  <Key key="_npc_But_I_m_not_building_a_laser_c" value="Pero no estoy construyendo un cortador láser ... realmente no recuerdo de qué está hablando Eamon." voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Oh_wow__these_rubies_are_perfe" value="Oh wow, these rubies are perfect!" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Did_I____ask_you_to_do_somethi" value="¿Te pidí que hagas algo por mí?" voiceSettingsId="euXmXbV78DjiHPTKB9bT" />
+  <Key key="_npc_Well__look_who_s_ready_to_play" value="Bueno, ¡mira quién está listo para jugar al héroe!Consigue esos rubíes antes de que yo esté sobrio, ¿sí?" voiceSettingsId="gm5UQ92fqBpNH8Cgsa3H" />
+</Node>

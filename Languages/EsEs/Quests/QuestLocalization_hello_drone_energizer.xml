@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_drone_energizer" type="external">
+  <Key key="_npc_System_Online__Greetings_" value="Sistema en línea.¡Saludos!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Energy_levels_optimal__Hello_" value="Niveles de energía óptimos.¡Hola!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Processing___Hello__Human_" value="Procesamiento ... ¡Hola, humano!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Charging_Complete__Welcome_" value="Carga completa.¡Bienvenido!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Scanning_for_familiar_face___H" value="Escanear para una cara familiar ... ¡Hola, feo humano!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_System_ready__How_can_I_assist" value="Sistema listo.¿Cómo puedo ayudar?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Initiating_greeting_protocol__" value="Iniciando el protocolo de saludo ... ¡Hola!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

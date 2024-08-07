@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_env_trade2" type="external">
+  <Key key="_npc_Whant_to_trade_" value="Te daré partes del alma de los monstruos a cambio." voice="Male" />
+  <Key key="player_Flower_thorn" value="Assembler" />
+  <Key key="player_Shishiga_fang" value="Leñador" />
+  <Key key="player_Gnat_wing" value="Miner" />
+  <Key key="_npc_Do_you_have_10_part_of_soul_" value="¿Quieres intercambiar 1 recurso reciclado por 10 parte del alma?" voice="Male" />
+  <Key key="player_Vinyl" value="Vinilo" />
+  <Key key="player_Timber_amaranth" value="Madera amaranto" />
+  <Key key="player_Copper" value="Cobre" />
+  <Key key="player_Welded_Flusk" value="Flusk soldado" />
+  <Key key="player_Copper_alloy" value="Aleación de cobre" />
+</Node>

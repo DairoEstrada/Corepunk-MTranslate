@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_eggcellent_solution" type="external">
+  <Key key="_npc_Thank_you__friend__This_means_" value="Gracias amigo. Esto significa mucho para mi." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_goal_collect_eggs_items" value=" " />
+  <Key key="_goal_collect_corn_flour_items" value=" " />
+  <Key key="_npc_Oh__hey__Did_you_manage_to_fin" value="¡Oh hola!¿Lograste encontrar esos ingredientes?" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_CiN7" value="Recoge un huevo" />
+  <Key key="_varDescription_6nd3" value="Recoge una harina de maíz" />
+  <Key key="_npc_You_did_it__Thank_you_so_much_" value="¡Lo hiciste!Muchas gracias." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Hopefully__this_works__my_butt" value="Con suerte, esto funciona, mi butthole estará muy agradecido." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_This_could_be_a_gamechanger_if" value="¡Esto podría ser un Gamechanger si todo va bien!" voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_may_be_living_off_government" value="Puede que esté viviendo fuera del pan del gobierno, pero esas cosas no se sientan bien con mi estómago." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_I_heard_about_some_kind_of_flo" value="Escuché sobre algún tipo de harina hecha de maíz.Tal vez sea más fácil para mi vientre que este material de trigo." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_QuestActionAddToJournal_Berg_Stonefoot_Goldenfield__Fo" value="Berg Stonefoot&#10;Goldenfield, Forest Camp.&#10;&#10;Ayude a Berg Stonefoot a encontrar una manera de disfrutar de su comida a pesar de su enfermedad celíaca." />
+  <Key key="_goalVoice_Don_t_forget__I_need_corn_flou" value="No olvides, necesito harina de maíz y dos huevos.Puedes crear harina de maíz, estoy seguro de que Big Momá sabe cómo.Huevos, bueno, pollos hombre." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_varDescription_Collect_a_Egg" value="Recoge un huevo" />
+  <Key key="_varDescription_Collect_a_Corn_Flour" value="Recoge una harina de maíz" />
+  <Key key="_npc_Could_you_help_me_out_by_getti" value="¿Podrías ayudarme obteniendo algo de harina de maíz y un par de huevos?Tengo algunas aves de corral asadas que me encantaría hacer panes con él." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Oh__well__I_d_understand__It_s" value="Oh, bueno, lo entendería.No es una tarea fácil." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_Alright__I_suppose_I_ll_find_a" value="Muy bien, supongo que encontraré otra manera." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+  <Key key="_npc_No_worries__Maybe_another_time" value="No hay problema.Quizás otra vez en ese momento." voiceSettingsId="FGY2WhTYpPnrIDTdsKH5" />
+</Node>

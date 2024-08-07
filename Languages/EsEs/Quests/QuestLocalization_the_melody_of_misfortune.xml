@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_melody_of_misfortune" type="external">
+  <Key key="_npc_Bravo__brave_soul__This_twiste" value="¡Bravo, alma valiente!¡Este intercambio retorcido será una actuación propia!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_varDescription_Collect_a_Cursed_Horn" value="Recoge una bocina maldita" />
+  <Key key="_QuestActionAddToJournal_Bart_Blaine_Riverrise__Musical" value="Bart Blaine&#10;Riverrise, tienda de instrumentos musicales.&#10;&#10;Ayude a Felix a regresar su guitarra maldita adquiriendo un cuerno maldito de la oficina de correos de Riverrise." />
+  <Key key="_goalVoice_A_new_torment_awaits_at_the_Po" value="Un nuevo tormento espera en la oficina de correos.¡Date prisa, antes de que Felix teje otra melodía trágica!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Relief_at_last__yet_still_so_t" value="¡Al final por fin, pero aún así desgarrado, intercambiando cuerdas por el poderoso bocina!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Toot____wait____toot__The_horn" value="Toot ... espera ... Toot!La bocina ... tambiénooooooot ... no ... también ... ¡detente!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Tooooot____just____tooooot____" value="Toooooot ... solo ... también ... dame ... toot ... la guitarra ..." voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_npc_A_mix_of_joy_and_a_tiny_tear__" value="¡Una mezcla de alegría y una pequeña lágrima, me alegro de haber regresado a este equipo extraño y maldito!" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_goal_talk_npc" value="Entrega un cuerno maldito a Felix" />
+  <Key key="_npc_Here_s_your_music__my_friend__" value="Aquí está tu música, amigo mío, tan entusiasta, pero ahora sabemos por qué no hay reembolsos, si sabes a qué me refiero." voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+  <Key key="_npc_Ah__still_here_about_Felix_and" value="Ah, ¿todavía aquí sobre Felix y su pequeña situación?Sin embargo, la sinfonía del sufrimiento, ¿no?" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_He_snagged_that_guitar_from_me" value="Me enganchó esa guitarra de mí, pensando que se había convertido en el próximo gran bardo.¡De lujo que!En cambio, lo juega como un récord roto." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_I_only_do_exchanges__no_refund" value="Solo hago intercambios, sin reembolsos.¡Pero no temas!Una bocina maldita llega pronto a la oficina de correos.¡Felix puede cambiar su miseria por una nueva!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Fetch_the_horn_for_him__won_t_" value="Buscar el cuerno para él, ¿no?Cambiará un tormento por otro, pero la ley dice que tengo que tomar intercambios." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Well__that_s_a_pity__The_curse" value="Bueno, eso es una pena.Las cuerdas malditas seguirán jugando." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_No_worries__The_melodrama_cont" value="¡No hay problema!El melodrama continúa para Felix sin la bocina." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Ah__afraid_of_a_little_curse_s" value="Ah, ¿miedo a un pequeño intercambio de maldición?¡Cómo Droll!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Suit_yourself__Felix_can_keep_" value="Adaptarse a ti mismo.Felix puede seguir dando serenata sus penas un poco más." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_With_a_strum_and_a_hum__did_yo" value="Con un rastrillo y un zumbido, ¿trajiste el premio maldito?" voiceSettingsId="XMJy8OIDoQ6vEYb9U88Y" />
+</Node>

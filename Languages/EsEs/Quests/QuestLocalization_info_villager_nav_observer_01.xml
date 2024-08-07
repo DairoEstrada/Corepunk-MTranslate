@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_villager_nav_observer_01" type="external">
+  <Key key="_npc_I_told_Ben_he_shouldn_t_fertil" value="Le dije a Ben que no debería fertilizar sus cultivos con ese extraño limo brillante.Lo hizo de todos modos.Ahora las ratas locales se volvieron inteligentes y declararon una guerra contra esos idiotas alienígenas para su trigo." voice="Male" />
+  <Key key="_npc_As_if_that_wasn_t_enough__ther" value="Como si eso no fuera suficiente, ahora hay un enjambre de esos mosquitos repugnantes que zumban sobre nuestros campos.Brr.Nunca los tuvimos aquí antes de que la niña de la ciudad viniera aquí." voice="Male" />
+  <Key key="_npc_She_s_usually_just_standing__c" value="Por lo general, ella solo está de pie junto a los campos, en el camino hacia el segundo centro, mirando los insectos.La gente de la ciudad está loca, te voy a decir eso." voice="Male" />
+</Node>

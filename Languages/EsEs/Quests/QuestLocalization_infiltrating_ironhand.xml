@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_infiltrating_ironhand" type="external">
+  <Key key="_npc_Typical__You_must_be_in_league" value="Típico.¡Debes estar en la liga con los extraterrestres!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_talk_npc" value="Habla con Grommuk Ironhand" />
+  <Key key="_npc_Ah__I_see_how_it_is__The_paras" value="Ah, veo cómo es.Los parásitos ya te han llegado, ¿no?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Here_s_what_we_re_gonna_do___w" value="Esto es lo que vamos a hacer: se infiltraremos en los infiltrados.Vas a informar a Grommuk como su último empleado y reunir evidencia." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_ll_be_working_alongside_Du" value="Trabajarás junto a Dusty, Eamon y Fenwick.¡Están tan profundamente en su bruma borracha que no detectarían a un alienígena si bailara el tango!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goalVoice_Remember__every_log_you_chop_i" value="¡Recuerde, cada registro que corta está otro paso más cerca de la verdad!Manténgase vigilante, esos extraterrestres podrían estar escondidos en cualquier lugar.Específicamente, en Grommuk, con quien necesitas hablar." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_He_wants_to_take_this_quarry__" value="Quiere tomar esta cantera y derribarme, porque soy la única fuente de verdad que tiene este país." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Grommuk_Ironhand_isn_t_just_an" value="Grommuk Ironhand no es un capataz de aserradero;Es un alienígena parásito, ¡te digo!¡Están conspirando para hacerse cargo de nuestras mentes, una astilla a la vez!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Alright__listen_up__freedom_fi" value="Muy bien, escucha, luchador por la libertad!¡Nos tienen viviendo en un mundo de mentiras y aserrín!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_I_will_now_give_you_task_like_" value="Ahora te daré tarea como la tierra Bozz." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Grr____did_good__Take_starting" value="Grr ... lo hizo bien.Tome la bonificación inicial." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_QuestActionAddToJournal_Alexander_Stones_Westwind_Wood" value="Alexander Stones&#10;Westwind Woods, Old Quarry con vista a la plataforma.&#10;&#10;Infiltrarse en el aserradero como empleado hablando con Grommuk Ironhand." />
+  <Key key="_npc_Fine__don_t_come_crying_to_me_" value="¡Bien, no vengas a llorarme cuando comienzan a brotar tentáculos!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_So____grrr____you_are_the_new_" value="Entonces ... GRRR ... ¿Eres el nuevo empleado?" voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Speak_quick__Busy____grrr____a" value="¡Habla rápidamente!Ocupado ... grrr ... siempre trabajando." voiceSettingsId="p2zJwF5sfWjW4vDFi1LZ" />
+  <Key key="_npc_Buckle_up__buttercup_it_s_time" value="¡Abróchese el cinturón, es hora de exponer esta amenaza alienígena!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

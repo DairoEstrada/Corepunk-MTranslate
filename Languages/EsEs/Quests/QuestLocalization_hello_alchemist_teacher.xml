@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_alchemist_teacher" type="external">
+  <Key key="_npc_Hey_there__dude_" value="¡Hola, amigo!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_What_s_up__partner_" value="What's up, partner?" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Howdy_do__amigo_" value="Howdy-do, amigo!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+  <Key key="_npc_Welcome_to_the_lab__my_friend_" value="¡Bienvenido al laboratorio, amigo mío!" voiceSettingsId="fKZT3ZqwpEU9vIIanYxi" />
+</Node>

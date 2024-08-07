@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_unbottling_mercy" type="external">
+  <Key key="_npc_Woof__not_a_real_dog__no__Bet_" value="Woof, no un perro real, ¡no!¡Bet me convirtió en esto, Grr, ¡un truco malo!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Arf__You_help__yes__Good__good" value="¡ARF!Ayudas, ¿sí?Bien bien.¡Botella de búsqueda, debe ser rápido!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_varDescription_Collect_Mysterious_Bottle" value="Recoge una botella misteriosa" />
+  <Key key="_QuestActionAddToJournal_Rufus_Riverrise__Butchery_dist" value="Rufo&#10;Riverrise, distrito de carnicería.&#10;&#10;Ayuda a Rufus, un mendigo de mendigo convertido en dog, encontrar una cura rumoreada para restaurar su humanidad." />
+  <Key key="_goalVoice_Bark__Zeek_and_Erwin__knives_r" value="¡Ladrar!Zeek y Erwin, cuchillos listos!¡Botella, sálvame!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Zeek_and_Erwin__rottweilers_th" value="Zeek y Erwin, Rottweilers que son, quieren hacerme cenar, ¡ladrido!Necesito volver a ser de dos patas." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Talk_of_green_bottle__ruff__At" value="¡Habla de botella verde, Ruff!En el bar.¡Lo busca, y camino como el hombre, woof-woof!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Bark__No_help__Yip_yap__me_in_" value="¡Ladrar!¿No ayuda?Yip-yap, yo en problemas." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Woof__you_leave_me_to_butchers" value="¡Woof, me dejas a Butchers!Yip, mala elección." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Grr__can_t_help_dog_man__Bark_" value="GRR, ¿no puede ayudar a Dog-Man?Ladrido ... tal vez más tarde." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Bark__Bottle_have_wine__Me_eve" value="¡Ladrar!¡Botella tiene vino!¡Yo aún más sabrosa ahora!Grr ..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Zeek__Erwin_eat_soon_" value="Zeek, Erwin come pronto." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_At_least__woof__can_get_drunk_" value="¡Al menos, Woof, puede emborracharse para ello!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Take_last_of_money____no_need_" value="Tome el último dinero ... no hay necesidad ahora ..." voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+  <Key key="_npc_Woof__Is_that_the_bottle__Oh__" value="¡Guau!¿Es esa la botella?¡Oh, por favor, déjelo ser!" voiceSettingsId="8M8CzqsynukAXbBXPtrb" />
+</Node>

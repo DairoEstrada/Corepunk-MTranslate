@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_kainos" type="external">
+  <Key key="_npc_" value=" " voice="Male" />
+  <Key key="_npc_Kainos_is_my_name_" value="Kainos es mi nombre.Sirvo en un templo muy al norte desde aquí.Y estaré atento, por lo que no es Outworlder como tú traerías su corrupción y putrefacción a este mundo." voice="Male" />
+  <Key key="_npc_Upper_Village_" value="¿Este?Este es el pueblo superior.El misericordioso te trajo a nuestro mundo, por razones que aún no sabemos." voice="Male" />
+  <Key key="_npc_You_reek_of_an_outworlder__Get" value="Te apestas de Outworlders.Tal vez estamos siendo tentados por el misericordioso.Tal vez quiera que te ayudemos a encontrarlo.Debes ser limpiado con agua y fuego en nuestro templo." voice="Male" />
+</Node>

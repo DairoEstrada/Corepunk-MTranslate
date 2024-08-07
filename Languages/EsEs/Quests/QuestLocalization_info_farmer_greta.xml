@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_farmer_greta" type="external">
+  <Key key="_npc_You_know__life_around_here_can" value="Sabes, la vida por aquí puede ser un grito, pero a veces, todo es trabajo, trabajo, trabajo." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Why__aren_t_you_a_gentleman_" value="¡Por qué, no eres un caballero!" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Oh__I_could_use_all_sorts_of_h" value="¡Oh, podría usar todo tipo de ayuda!" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_I_m_doing_just_fine__but_you_r" value="Estoy bien, pero eres amable de ofrecer." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_I_ve_got_it_all_under_control_" value="Lo tengo todo bajo control, pero aprecio el sentimiento." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Harvest_time_s_upon_us__and_I_" value="El tiempo de cosecha está sobre nosotros, y podría usar un par de manos adicionales.No quiero que los Outworlders lo roben." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_My_tech_around_here_runs_on_ma" value="Mi tecnología por aquí se ejecuta en Mana, algunas de las únicas cosas que se queman." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Just_think_of_it_as_an_adventu" value="Piense en ello como una aventura.Te gustan las aventuras, ¿no?" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_No_hard_feelings__I_m_sure_you" value="Sin resentimientos.Estoy seguro de que tienes tu propio pez para freír." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Well__don_t_you_worry__I_ll_ma" value="Bueno, no te preocupes.Yo me encargaré.Siempre hago." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Oh__well_that_s_a_shame__I_was" value="Oh, bueno, eso es una pena.Estaba esperando tu empresa." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_I_m_Greta_Grubb__just_your_ave" value="Soy Greta Grubb, tu agricultor promedio de duendes con un sentido del humor superior al promedio." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Did_you_see_him_when_you_came_" value="¿Lo viste cuando viniste?¿Dijo que me extrañaba?" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_I_spend_my_days_in_the_fields_" value="Paso mis días en los campos, mis noches extrañan a mi portal que guarde a Beau, Zikk." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_I_m_doing_just_fine__thank_you" value="Estoy bien, gracias por preguntar." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Got_a_field_full_of_pumpkins__" value="Tengo un campo lleno de calabazas, un corazón lleno de amor y una cabeza llena de travesuras." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Life_s_a_rollercoaster__but_so" value="La vida es una montaña rusa, pero alguien tiene que montarla.¡No soy uno para rehuir un viaje salvaje!" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_This_here_s_my_little_slice_of" value="Esta es mi pequeña porción del cielo, justo en el borde de Goldenfield." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_It_s_peaceful__most_of_the_tim" value="Es pacífico, la mayoría de las veces.Bueno, cuando las calabazas no están actuando." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Ain_t_nothing_much_happens_aro" value="Y cuando Zikk no se queja." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Well__if_you_re_offering__I_wo" value="Bueno, si estás ofreciendo, no diría que no." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_How_can_I_say_no_to_a_face_lik" value="¿Cómo puedo decir que no a una cara como la tuya?" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Oh__aren_t_you_good_hearted__B" value="¡Oh, no eres de buen corazón!Pero estoy bien por ahora." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_I_m_managing__but_it_s_always_" value="Estoy manejando, pero siempre es bueno saber que alguien está dispuesto a echar una mano." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_He_wasn_t_hitting_on_any_outwo" value="No estaba golpeando a ningún Outworlders, ¿verdad?" voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_I_do_my_best_to_keep_outworlde" value="Hago todo lo posible para mantener a Outworlders fuera de aquí, pero algunos como tú ... uh ... hazlo." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_It_s_that_blue_stuff_you_see_i" value="Es esas cosas azules que ves en la tecnología verde por aquí." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_People_say_the_mana_reservoirs" value="La gente dice que los depósitos de maná se están secando.La ciudad se está agotando, gracias a ustedes." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_The_bot_is_fresh_out__If_you_c" value="El bot está recién salido.Si pudieras encontrar un vial de maná, sería muy apreciado." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Zikk_might_get_jealous_" value="Zikk might get jealous." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+  <Key key="_npc_Mana_vials_are_sometimes_stash" value="Los viales de maná a veces se esconden en barriles que los agricultores olvidan." voice="Female" voiceSettingsId="Xb7hH8MSUJpSbSDYk0k2" />
+</Node>

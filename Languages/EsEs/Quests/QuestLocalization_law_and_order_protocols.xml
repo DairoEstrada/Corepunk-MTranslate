@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_law_and_order_protocols" type="external">
+  <Key key="_npc_Good__Your_cooperation_with_la" value="¡Bien!Su cooperación con la aplicación de la ley es obligatoria ... pero apreciada." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_goal_collect_quaddari_shipping_manifest" value=" " />
+  <Key key="_QuestActionAddToJournal_Police_Tron_5000_Riverrise__Ci" value="Police-Tron 5000&#10;Riverrise, centro de la ciudad.&#10;&#10;Asistir a un robot de ejecutores de la ley perdido, Police-Tron 5000, para recuperar su propósito al investigar los muelles para los manifiestos de envío Quaddari." />
+  <Key key="_goalVoice_Operation__Justice_for_All__in" value="Operación 'Justicia para todos' en progreso.Recuperar manifiesto para defender la justicia.El hecho de no ubicar los manifiestas es igual a la justicia mal funcionamiento.No defraudes la justicia." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Have_you_administered_the_requ" value="¿Ha administrado los protocolos requeridos?" voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Justice_achieved__Crime_progno" value="Justicia lograda.Pronóstico del crimen: reducido en 0.02." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_In_the_darkest_moments_of_bure" value="En los momentos más oscuros de la burocracia, usted es el faro de la integridad procesal." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Your_efforts_are_satisfactory_" value="Tus esfuerzos son satisfactorios.Permítame analizar los documentos." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_It_appears_a_passenger_named__" value="Parece que un pasajero llamado Byte llegó recientemente en un recipiente Quaddari." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Reward_dispensed__Remember__ju" value="Recompensa dispensada.Recuerde: la justicia es un plato mejor servido sin error." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Directive_initiated__I_am_in_d" value="Directiva iniciada.Necesito una gran necesidad de asistencia para mantener la ley ... y el orden." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Unverified_reports_indicate_a_" value="Los informes no verificados indican que un detective Quaddari se ha infiltrado en nuestra vecindad para neutralizar un sindicato criminal de alto valor." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Obviously__they_will_require_m" value="Obviously, they will require my help." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Proceed_to_the_docks_and_acqui" value="Proceda a los muelles y adquiere cualquier manifiesto de envío Quaddari.Entonces puedo determinar su identidad." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_My_involvement_is_critical_to_" value="Mi participación es crítica para el éxito de la misión y la aplicación de la justicia." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Engage__Ensure_justice_prevail" value="Comprometer.Asegúrese de que prevalezca la justicia.El fracaso no es una opción." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Processing____Jurisdictional_d" value="Procesamiento ... Se observó una decepción jurisdiccional." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Crime_level_increasing____Inte" value="Aumento del nivel del crimen ... Error interno: ¡Justicia denegada!" voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_npc_Operator_response_incongruent_" value="Respuesta del operador incongruente.Recalibrar y reconsiderar." voiceSettingsId="zQ4o1f3TPdOr4JXLnadQ" />
+  <Key key="_varDescription_Collect_Quaddari_Shipping_Mani" value="Recolectar Manifiesto de envío Quaddari" />
+</Node>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_kill_the_maker" type="external">
+  <Key key="_npc_You_re_really_too_dumb_to_get_" value="You're really too dumb to get this done, aren't you?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Got_it__Now_move_it_" value="¿Entiendo?¡Ahora muévalo!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goalVoice_Are_you_dense__Binoculars__bar" value="¿Eres denso?Binoculares, barra, planta en una maceta, camiseta.¡Encuéntralos!Binoculares en el puente destruido, barra en la nave espacial estrellada, planta en una maceta en los árboles y una camiseta en la parada del libro.No puedo tutorizar esto mejor, ficticio.¡Ir!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_What_a_loser__Can_t_even_handl" value="¡Que perdedor!Ni siquiera puedo manejar una tarea simple." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Get_all_this_crap_and_bring_it" value="Consigue toda esta basura y tráigelo de vuelta.Luego iremos a Pappy Rick a la cara por sus elegantes notas de dimensión." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_talk_npc" value="Trae a Quest-o-tron" />
+  <Key key="_goal_collect_item_4" value="Coleccionar camiseta" />
+  <Key key="_goal_collect_item_3" value="Recolectar planta extraña" />
+  <Key key="_goal_collect_item_2" value="Recolectar barra" />
+  <Key key="_goal_collect_item_1" value="Recolectar binoculares" />
+  <Key key="_npc_Finally__haul_your_lazy_self_t" value="Finalmente, lleve a tu ser perezoso al libro que pare en Goldenfield y toma una estúpida camiseta.¡Sí, una camiseta!¡Tratar con él!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Then__mosey_over_to_the_Trees_" value="Luego, se acerca a los árboles en Goldenfield y tira de una planta en una maceta.Detectando un patrón?¡No respondo las preguntas estúpidas!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Next__drag_yourself_to_the_Cra" value="Luego, arrastre a la nave espacial estrellada en el lado norte del lago de Windstone Village y encuentre una maldita barra.¡No preguntes por qué, solo hazlo!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Haul_your_sorry_butt_to_the_De" value="Lleva tu terrible trasero al puente destruido en Windreach Woods.Está al sur de la casa del lago.Y enganchar algunos binoculares.¿Por qué?¡Por que yo dije!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_It_s_too_complicated_to_for_YO" value="Es demasiado complicado para que lo entiendas, pero si me ayudas, te dejaré echar un vistazo a sus notas." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Lucky_for_you__I_finally_came_" value="Por suerte para ti, finalmente se me ocurrió el plan perfecto para matar a ese bastardo." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_But_that_wrinkly_old_fart_that" value="Pero ese viejo pedo arrugado que me hizo, Pappy Rick, lo hace.Él me construyó y ahora vivo en este infierno." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Alright__listen_up__idiot__I_a" value="Muy bien, escucha, idiota!¡No tengo una maldita pista sobre el salto de dimensión!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Now__it_s_time_to_execute_my_p" value="Ahora, es hora de ejecutar mi plan perfecto.¡Y tienes que ayudar!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_I_guess_even_a_broken_clock_is" value="Supongo que incluso un reloj roto es correcto dos veces al día.Aquí está tu recompensa, genio." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_goal_collect_item_portal_juise" value="Recoge el jugo de portal de Pappy Rick" />
+  <Key key="_QuestActionAddToJournal_QUEST_O_TRON__Windreach_Woods_" value="Quest-o-tron&#10;Windreach Woods, campamento cerca del santuario.&#10;&#10;Recoja artículos para exterminar a Pappy Rick para obtener sus notas de viaje interdimensionales." />
+  <Key key="_npc_I_expected_better_from_a_brain" value="Esperaba mejor de un dolt sin cerebro como tú.No precisamente." voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Well__look_who_finally_did_som" value="Bueno, ¡mira quién finalmente hizo algo bien!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Did_you_manage_to_actually_fin" value="¿Se las arreglaste para encontrar esas cosas, genio?" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+  <Key key="_npc_Finally__you_re_doing_somethin" value="Finalmente, estás haciendo algo útil.¡Ahora ponte en marcha, Dingus!" voiceSettingsId="5JLhdIxIap3VNyivEfvV" />
+</Node>

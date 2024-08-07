@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_varkus_drov" type="external">
+  <Key key="_npc_Ah__another_admirer_" value="Ah, another admirer!" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Quite_the_spelunker__are_we_" value="Quite the spelunker, are we?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Fancy_meeting_you_here_" value="Fantasía conocerte aquí." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Lucky_you__spotting_me_" value="¡Por suerte, detectándome!" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Welcome_to_my_lair_" value="Bienvenido a mi guarida." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Yes__it_s_really_me_" value="Sí, realmente soy yo." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Dodged_the_gas__have_you_" value="Esquivó el gas, ¿verdad?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Oh__another_wannabe_" value="Oh, another wannabe." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Find_any_treasure_recently_" value="Encontrar algún tesoro recientemente?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+</Node>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_thread_the_needle_warm_the_soul" type="external">
+  <Key key="_npc_Thank_you_so_much__I_can_think" value="¡Muchas gracias!Puedo pensar en muchos que lo mantendrán caliente esta noche." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_m_counting_on_you__The_mater" value="Cuento con usted.Los materiales no deberían ser demasiado difíciles de encontrar." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Did_you_manage_to_gather_the_m" value="¿Se las arreglaste para reunir los materiales?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Perfect__You_ve_done_a_wonderf" value="¡Perfecto!¡Has hecho un trabajo maravilloso!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_How_exciting__Another_blanket_" value="¡Que interesante!Otra manta para irrumpir." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_This_blanket_will_keep_Maxwell" value="Esta manta mantendrá a Maxwell tan cálido." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_goal_collect_resources_cloth" value=" " />
+  <Key key="_goal_collect_resources_thread" value=" " />
+  <Key key="_varDescription_Collect_Strong_Thread" value="Recoge un hilo fuerte" />
+  <Key key="_varDescription_Collect_Cloth" value="Recoge un paño" />
+  <Key key="_npc_My_baby_Maxwell_has_been_endur" value="Mi bebé Maxwell ha estado soportando el frío en el bosque Dusktide ayudando a los saltadores de portal y me rompe el corazón pensar en él temblando por ahí." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Unfortunately__I_m_swamped_wit" value="Desafortunadamente, últimamente estoy inundado de pedidos y solicitudes, y necesito su ayuda.¿Recomienda algunos materiales para mí?" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_I_need_three_silkworm_caterpil" value="Necesito tres orugas de gusano de seda para la tela y tres hilos de yute para el hilo fuerte.¡Tengo el patrón más lindo en mente!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_If_you_can_bring_me_the_materi" value="Si puedes traerme los materiales, elaboraré la manta para Maxwell y haré que valga la pena." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_QuestActionAddToJournal_Nia_Sundance_Goldenfield__near" value="Nia Sundance&#10;Goldenfield, cerca de la casa de verano.&#10;&#10;Ayude a Nia Sundance a crear una acogedora manta para Maxwell Sterling en el bosque Dusktide." />
+  <Key key="_goalVoice_Could_you_find_those_three_sil" value="¿Podrías encontrar esas tres orugas de gusano de seda y tres hilos de yute para mí?Por lo general, puede encontrar gusanos de seda y yute en arbustos por todas partes.La comodidad de Sweet Maxwell depende de esos materiales.¡Vamos a hacer este en blanco!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_varDescription_Collect_a_Cloth" value="Recoge un paño" />
+  <Key key="_varDescription_Collect_a_Strong_Thread" value="Recoge un hilo fuerte" />
+  <Key key="_npc_Oh__that_s_too_bad__Maxwell_co" value="Oh eso es muy malo.Maxwell realmente podría usar la calidez." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_That_s_a_pity__If_you_change_y" value="Eso es una lástima.Si cambias de opinión, sabes dónde encontrarme." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+</Node>

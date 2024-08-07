@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_v2_brownie_town" type="external">
+  <Key key="_npc_Hee_hee__am_I_who__Depends_for" value="Ji-hee, ¿soy yo quién?Depende de quién miras.Ji-hee.Un camino de camino, como tú.Ji-hee." voice="Male" />
+  <Key key="_npc_This_place_where_I_trade_in_my" value="Este lugar donde intercambio mis cosas por sus cosas." voice="Male" />
+  <Key key="_npc_Be_on_my_feet_all_day__do_diff" value="Estar de pie todo el día, hacer cosas diferentes: negociación ', vender', comprar ', argumentar'.Vengo aquí desde mi pueblo.¡Este lugar no justo alrededor de la Corna!largo camino para mi edad." voice="Male" />
+</Node>

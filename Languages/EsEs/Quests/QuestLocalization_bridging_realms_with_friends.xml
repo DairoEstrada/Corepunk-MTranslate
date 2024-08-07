@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_bridging_realms_with_friends" type="external">
+  <Key key="_npc_Oh__turning_down_epic_adventur" value="Oh, ¿rechazando aventuras épicas alimentadas por sangre y artículos poderosos?¡Qué triste!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goalVoice_Oh__just_a_friendly_reminder__" value="¡Oh, solo un recordatorio amistoso!Para desbloquear reinos, primero una visita al pastor Fazool en Reverie Hollow.¡Chap encantador habla con entidades antiguas!El siguiente en nuestra lista alegre es Grizelda en Windreach Woods.Y no olvides la siempre entusiasta Quest-o-tron en Windreach Woods.Recuerde, deberá 'ganar' su confianza.Lo que sea que eso signifique.¡La supervivencia y la felicidad esperan!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Ah__ain_t_cross_dimensional_tr" value="Ah, ¿no es un viaje interdimensional grandioso?¡Fuera, vete!¡El tiempo está y los portales no se abren!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Lastly__have_a_chat_with_QUEST" value="Por último, converse con Quest-O-Tron, también en Windreach Woods.Él es un motín." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Then__toodle_on_over_to_Grizel" value="Luego, toodle a Grizelda en Windreach Woods.Mira tu paso, ella ha hecho que la gente ... desaparezca." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_talk_npc_driscoll" value="Volver a Driscoll-99" />
+  <Key key="_goal_talk_quest_tron" value="Habla con Quest-o-tron" />
+  <Key key="_goal_talk_grizelda" value="Habla con Grizelda" />
+  <Key key="_goal_talk_pastor" value="Talk to Pastor Fazool" />
+  <Key key="_npc_First_up__Pastor_Fazool_in_Rev" value="Primero, el pastor Fazool en Reverie Hollow.No puedo perderlo, él es el que tiene la congregación extática." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Each_one_holds_onto_an_item_of" value="Cada uno se aferra a un elemento de inmenso poder.Deberá divertirlos, pelear o confundirlos directamente para obtener lo que necesitamos." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_ve_got_some_names_for_you__P" value="Tengo algunos nombres para ti: Pastor Fazool, el líder de culto de Chipper;Grizelda, la dama de hongos trastornada encantadora;Y quién podría olvidar, Quest-o-tron, nuestra guía sarcástica de supervivencia." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Lucky_for_us__there_are_a_few_" value="Por suerte para nosotros, hay algunos amigos interdimensionales que incursionan en cosas un poco más poderosos y, por poderoso, ¡quiero decir peligroso!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__the_blood_samples_just_did" value="Oh, las muestras de sangre simplemente no lo cortaron.Necesitaremos algo más ... potente para encender el portal." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Now_we_just_complete_one_final" value="Ahora solo completamos un ritual final ... ¡en serio!¡Prometo!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Reward_time_" value="¡Hora de recompensa!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Ah__the_fruits_of_madness_and_" value="Ah, los frutos de la locura y el caos.¡Te has ganado todas las manzanas!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_QuestActionAddToJournal_Driscoll_99__Westwind_Woods__O" value="Driscoll-99&#10;Westwind Woods, antiguo portal.&#10;&#10;Ayude a Driscoll-99 a encender el portal reuniendo tres elementos poderosos de expertos interdimensionales." />
+  <Key key="_npc_Declining_my_quest__No_worries" value="¿Declución de mi búsqueda?¡No hay problema!Estoy seguro de que las fuerzas oscuras disfrutarán de tu ociosidad." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Ah__the_sweet_scent_of_impendi" value="Ah, el dulce aroma de la inminente fatalidad y las aventuras entre reales.¡Apenas puedo esperar!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Well_done__intrepid_traveler__" value="Bien hecho, viajero intrépido!¿Quién sabía que la sangre, los hongos y la locura podrían ser tan gratificantes?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh_dear__say_no_to_excitement_" value="Dios mío, di no a la emoción y sí a ... ¿Aburrido?¡Elección deliciosa!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+</Node>

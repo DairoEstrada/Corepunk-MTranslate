@@ -1,0 +1,764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="TValue" description="">
+  <Node name="HP">
+    <Key key="Name" value="Health" />
+    <Key key="Description" value="Current health" />
+  </Node>
+  <Node name="STR">
+    <Key key="Name" value="Strenght" />
+    <Key key="Description" value="Strenght" />
+  </Node>
+  <Node name="DEX">
+    <Key key="Name" value="Dexterity" />
+    <Key key="Description" value="Dexterity" />
+  </Node>
+  <Node name="SPI">
+    <Key key="Name" value="Spirit" />
+    <Key key="Description" value="Spirit" />
+  </Node>
+  <Node name="VIT">
+    <Key key="Name" value="Vitality" />
+    <Key key="Description" value="Vitality" />
+  </Node>
+  <Node name="INT">
+    <Key key="Name" value="Intelligent" />
+    <Key key="Description" value="Intelligent" />
+  </Node>
+  <Node name="HPMax">
+    <Key key="Name" value="Health max" />
+    <Key key="Description" value="Health max" />
+  </Node>
+  <Node name="HPReg">
+    <Key key="Name" value="Health regeneration" />
+    <Key key="Description" value="Health regeneration" />
+  </Node>
+  <Node name="MPMax">
+    <Key key="Name" value="Mana max" />
+    <Key key="Description" value="Mana max" />
+  </Node>
+  <Node name="MPReg">
+    <Key key="Name" value="Mana regeneration" />
+    <Key key="Description" value="Mana regeneration" />
+  </Node>
+  <Node name="EPMax">
+    <Key key="Name" value="Energy max" />
+    <Key key="Description" value="Energy max" />
+  </Node>
+  <Node name="EPReg">
+    <Key key="Name" value="Energy regeneration" />
+    <Key key="Description" value="Energy regeneration" />
+  </Node>
+  <Node name="MP">
+    <Key key="Name" value="Mana" />
+    <Key key="Description" value="Current mana" />
+  </Node>
+  <Node name="EP">
+    <Key key="Name" value="Energy" />
+    <Key key="Description" value="Current energy" />
+  </Node>
+  <Node name="FP">
+    <Key key="Name" value="Fury" />
+    <Key key="Description" value="Current fury" />
+  </Node>
+  <Node name="FPMax">
+    <Key key="Name" value="Fury max" />
+    <Key key="Description" value="Fury max" />
+  </Node>
+  <Node name="FPMult">
+    <Key key="Name" value="Fury multiplier" />
+    <Key key="Description" value="Fury generation multiplier" />
+  </Node>
+  <Node name="FPDec">
+    <Key key="Name" value="Fury decrepitude" />
+    <Key key="Description" value="Fury decrepitude" />
+  </Node>
+  <Node name="Arm">
+    <Key key="Name" value="Armor" />
+    <Key key="Description" value="Reduces incoming physical damage.&#xD;&#xA;&lt;b&gt;You gain: {values} less Physical Damage &lt;/b&gt;" />
+  </Node>
+  <Node name="Rs">
+    <Key key="Name" value="Resist" />
+    <Key key="Description" value="Reduces the amount of damage you take from magical damage.&#xD;&#xA;&lt;b&gt;You take: {values} Reduced Magic Damage &lt;/b&gt;" />
+  </Node>
+  <Node name="Dg">
+    <Key key="Name" value="Dodge" />
+    <Key key="Description" value="Increases chance to evade auto attack.&#xD;&#xA;&lt;b&gt;Probability to avoid damage from Auto Attack: {values} &lt;/b&gt;" />
+  </Node>
+  <Node name="Tn">
+    <Key key="Name" value="Tenacity" />
+    <Key key="Description" value="Reduces the effectiveness of debuffs: speed, stun, knockback, petrification, silence, blind, disarm, charm, provocation, fear, sleep, attract, repulse and chain.&#xD;&#xA;&lt;b&gt;Current Tenacity: {values} &lt;/b&gt;" />
+  </Node>
+  <Node name="Ms">
+    <Key key="Name" value="Movement speed" />
+    <Key key="Description" value="Increases the speed at which you run. Only one pair of boots at a time will increase your movement speed.&#xD;&#xA;&lt;b&gt;Current Movement Speed: {values} per second &lt;/b&gt;" />
+  </Node>
+  <Node name="V">
+    <Key key="Name" value="Vision" />
+    <Key key="Description" value="Vision." />
+  </Node>
+  <Node name="AtR">
+    <Key key="Name" value="Attack range" />
+    <Key key="Description" value="Attack range." />
+  </Node>
+  <Node name="Ap">
+    <Key key="Name" value="Attack Power" />
+    <Key key="Description" value="Increases damage dealt by auto attacks.&#xD;&#xA;&lt;b&gt;Auto attacks deal: {values} damage &lt;/b&gt;" />
+  </Node>
+  <Node name="As">
+    <Key key="Name" value="Attack speed" />
+    <Key key="Description" value="Count of Auto attacks per second.&#xD;&#xA;&lt;b&gt;Attacks per second: {values} &lt;/b&gt;" />
+  </Node>
+  <Node name="Fap">
+    <Key key="Name" value="Armor penetration" />
+    <Key key="Description" value="Reduces a target's armor.&#xD;&#xA;&lt;b&gt;Current Penetration: {values} | &lt;/b&gt;" />
+  </Node>
+  <Node name="Pap">
+    <Key key="Name" value="Percentage Armor Penetration" />
+    <Key key="Description" value="Reduces a target's Armor&amp;#xA; &amp;lt;b&amp;gt;&#xD;&#xA;Current Penetration: {values} &amp;lt;/b&amp;gt" />
+  </Node>
+  <Node name="Pcc">
+    <Key key="Name" value="Physical crit chance" />
+    <Key key="Description" value="Increases chance to deal increased damage by auto attack or physical skill.&#xD;&#xA;&lt;b&gt;Probability to deal a critical strike: {values}. &lt;/b&gt;" />
+  </Node>
+  <Node name="Pcp">
+    <Key key="Name" value="Physical crit multiplayer" />
+    <Key key="Description" value="&lt;b&gt;Increases Critical Damage by {values} &lt;/b&gt;." />
+  </Node>
+  <Node name="Vm">
+    <Key key="Name" value="Lifesteal" />
+    <Key key="Description" value="Returns a portion damage you deal through auto attack.&#xD;&#xA;&lt;b&gt;Current Lifesteal: {values} &lt;/b&gt;" />
+  </Node>
+  <Node name="Cdr">
+    <Key key="Name" value="Cooldown Reduction" />
+    <Key key="Description" value="Allows you to cast abilities more often.&#xD;&#xA;&lt;b&gt;Current Cooldown Reduction: {values} &lt;/b&gt;" />
+  </Node>
+  <Node name="Hr">
+    <Key key="Name" value="Haste Rating" />
+    <Key key="Description" value="Accelerates speed of reading magic skill.&#xD;&#xA;&lt;b&gt;Accelerates Haste Rating by: {values} &lt;/b&gt;" />
+  </Node>
+  <Node name="Sp">
+    <Key key="Name" value="Spell power" />
+    <Key key="Description" value="Increases damage dealt by magical skill.&#xD;&#xA;&lt;b&gt;Increases damage done by Magic by: {values} &lt;/b&gt;" />
+  </Node>
+  <Node name="Frp">
+    <Key key="Name" value="Resist penetration" />
+    <Key key="Description" value="Reduces a target's magic resistance.&#xD;&#xA;&lt;b&gt;Current Penetration: {values} | &lt;/b&gt;" />
+  </Node>
+  <Node name="Prp">
+    <Key key="Name" value="Percentage Resist Penetration" />
+    <Key key="Description" value="Reduces a target's Resistance&amp;#xA; &amp;lt;b&amp;gt;&#xD;&#xA;Current Penetration: {values} &amp;lt;/b&amp;gt" />
+  </Node>
+  <Node name="&quot;MCC" />
+  <Node name="Mcc">
+    <Key key="Name" value="Magical crit chance" />
+    <Key key="Description" value="Increases chance to deal increased damage by magical skil.&#xD;&#xA;&lt;b&gt;Probability to deal a Сritical Strike: {values}. &lt;/b&gt;" />
+  </Node>
+  <Node name="Mcp">
+    <Key key="Name" value="Magical crit multiplayer" />
+    <Key key="Description" value="&lt;b&gt;Increases Critical Damage by {values} &lt;/b&gt;." />
+  </Node>
+  <Node name="Svm">
+    <Key key="Name" value="Spell Vamp" />
+    <Key key="Description" value="Returns a portion damage you deal through abilities.&#xD;&#xA;&lt;b&gt;Current Spell Vamp: {values} &lt;/b&gt;" />
+  </Node>
+  <Node name="OutPhysDmgGM">
+    <Key key="Name" value="Phys damage bonus" />
+    <Key key="Description" value="Outgoing phys damage global modifier." />
+  </Node>
+  <Node name="InPhysDmgGM">
+    <Key key="Name" value="Absorbing phys damage" />
+    <Key key="Description" value="Incoming phys damage global modifier." />
+  </Node>
+  <Node name="OutMagDmgGM">
+    <Key key="Name" value="Magic damage bonus" />
+    <Key key="Description" value="Outgoing magic damage global modifier." />
+  </Node>
+  <Node name="InMagDmgGM">
+    <Key key="Name" value="Absorbing mag. damage" />
+    <Key key="Description" value="Incoming magic damage global modifier." />
+  </Node>
+  <Node name="AggroGenDmgGM">
+    <Key key="Name" value="Additional aggro gen." />
+    <Key key="Description" value="Aggro generation damage global modifier." />
+  </Node>
+  <Node name="InHealGM">
+    <Key key="Name" value="Heal bonus" />
+    <Key key="Description" value="Incoming heal global modifier." />
+  </Node>
+  <Node name="OutHealGM">
+    <Key key="Name" value="Heal bonus" />
+    <Key key="Description" value="Outgoing heal global modifier." />
+  </Node>
+  <Node name="BuffEffGM">
+    <Key key="Name" value="Buff efficiency" />
+    <Key key="Description" value="Buff efficiency global modifier." />
+  </Node>
+  <Node name="FarmEffGM">
+    <Key key="Name" value="Farm efficiency" />
+    <Key key="Description" value="Farm efficiency global modifier." />
+  </Node>
+  <Node name="AbilCostGM">
+    <Key key="Name" value="Ability cost" />
+    <Key key="Description" value="Ability cost global modifier." />
+  </Node>
+  <Node name="AcK+">
+    <Key key="Name" value="Ability Cost" />
+  </Node>
+  <Node name="AcpL">
+    <Key key="Name" value="Ability Cost" />
+  </Node>
+  <Node name="AD">
+    <Key key="Name" value="Ability Damage" />
+  </Node>
+  <Node name="ADk">
+    <Key key="Name" value="Ability Damage" />
+  </Node>
+  <Node name="Ar" />
+  <Node name="ArK+" />
+  <Node name="At">
+    <Key key="Name" value="Action Time" />
+  </Node>
+  <Node name="Agb">
+    <Key key="Name" value="Aggression" />
+  </Node>
+  <Node name="Ag+">
+    <Key key="Name" value="Aggression" />
+  </Node>
+  <Node name="AgK+">
+    <Key key="Name" value="Aggression" />
+  </Node>
+  <Node name="AGK+">
+    <Key key="Name" value="Aggression" />
+  </Node>
+  <Node name="Armb">
+    <Key key="Name" value="Armor" />
+  </Node>
+  <Node name="Arm+">
+    <Key key="Name" value="Armor" />
+  </Node>
+  <Node name="ArmK+">
+    <Key key="Name" value="Armor" />
+  </Node>
+  <Node name="ArmL">
+    <Key key="Name" value="Armor" />
+  </Node>
+  <Node name="Apb">
+    <Key key="Name" value="Attack power" />
+  </Node>
+  <Node name="Ap+">
+    <Key key="Name" value="Attack Power" />
+  </Node>
+  <Node name="ApK+">
+    <Key key="Name" value="Attack power" />
+  </Node>
+  <Node name="ApL">
+    <Key key="Name" value="Attack power" />
+  </Node>
+  <Node name="MArb">
+    <Key key="Name" value="Auto attack range" />
+  </Node>
+  <Node name="MAr+" />
+  <Node name="MArK+" />
+  <Node name="Asb">
+    <Key key="Name" value="Attack speed" />
+  </Node>
+  <Node name="As+">
+    <Key key="Name" value="Attack speed" />
+  </Node>
+  <Node name="AsK+">
+    <Key key="Name" value="Attack speed" />
+  </Node>
+  <Node name="AsL">
+    <Key key="Name" value="Attack speed" />
+  </Node>
+  <Node name="AsS">
+    <Key key="Name" value="Attack speed" />
+  </Node>
+  <Node name="CS">
+    <Key key="Name" value="Cast" />
+  </Node>
+  <Node name="CdrK+">
+    <Key key="Name" value="Cooldown Reduction" />
+  </Node>
+  <Node name="C">
+    <Key key="Name" value="Cooldown Reduction" />
+  </Node>
+  <Node name="CK+">
+    <Key key="Name" value="Cooldown Reduction" />
+  </Node>
+  <Node name="CL">
+    <Key key="Name" value="Cooldown Reduction" />
+  </Node>
+  <Node name="CK">
+    <Key key="Name" value="Price coefficient" />
+  </Node>
+  <Node name="D">
+    <Key key="Name" value="Delay" />
+  </Node>
+  <Node name="DX+">
+    <Key key="Name" value="Agility" />
+  </Node>
+  <Node name="DXL">
+    <Key key="Name" value="Agility" />
+  </Node>
+  <Node name="Dgb">
+    <Key key="Name" value="Dodge" />
+  </Node>
+  <Node name="Dg+">
+    <Key key="Name" value="Dodge" />
+  </Node>
+  <Node name="DgK+">
+    <Key key="Name" value="Dodge" />
+  </Node>
+  <Node name="DgL">
+    <Key key="Name" value="Dodge" />
+  </Node>
+  <Node name="Dic" />
+  <Node name="ET" />
+  <Node name="Ep">
+    <Key key="Name" value="Energy" />
+  </Node>
+  <Node name="Epb">
+    <Key key="Name" value="Energy" />
+  </Node>
+  <Node name="Ep+">
+    <Key key="Name" value="Energy" />
+  </Node>
+  <Node name="EpK+">
+    <Key key="Name" value="Energy" />
+  </Node>
+  <Node name="Eprb">
+    <Key key="Name" value="Energy Regeneration" />
+  </Node>
+  <Node name="Epr+">
+    <Key key="Name" value="Energy Regeneration" />
+  </Node>
+  <Node name="EprK+">
+    <Key key="Name" value="Energy Regeneration" />
+  </Node>
+  <Node name="Egb">
+    <Key key="Name" value="Exp Gain" />
+  </Node>
+  <Node name="Eg+">
+    <Key key="Name" value="Exp Gain" />
+  </Node>
+  <Node name="Fap+">
+    <Key key="Name" value="Armor penetration" />
+  </Node>
+  <Node name="Fgm+">
+    <Key key="Name" value="Fury Generation" />
+  </Node>
+  <Node name="FdK+">
+    <Key key="Name" value="Fury Decrement" />
+  </Node>
+  <Node name="Fdb">
+    <Key key="Name" value="Fury Decrement" />
+  </Node>
+  <Node name="EgK+">
+    <Key key="Name" value="Exp Gain" />
+  </Node>
+  <Node name="Er">
+    <Key key="Name" value="Exp Range" />
+  </Node>
+  <Node name="Fd+">
+    <Key key="Name" value="Fury Decrement" />
+  </Node>
+  <Node name="Fgmb">
+    <Key key="Name" value="Fury Generation" />
+  </Node>
+  <Node name="FgmK+">
+    <Key key="Name" value="Fury Generation" />
+  </Node>
+  <Node name="Fapb">
+    <Key key="Name" value="Armor penetration" />
+  </Node>
+  <Node name="FapK+">
+    <Key key="Name" value="Armor penetration" />
+  </Node>
+  <Node name="Fpb">
+    <Key key="Name" value="Fury" />
+  </Node>
+  <Node name="FapL">
+    <Key key="Name" value="Armor penetration" />
+  </Node>
+  <Node name="Frpb">
+    <Key key="Name" value="Resist penetration" />
+  </Node>
+  <Node name="Frp+">
+    <Key key="Name" value="Resist penetration" />
+  </Node>
+  <Node name="FrpK+">
+    <Key key="Name" value="Resist penetration" />
+  </Node>
+  <Node name="FrpL">
+    <Key key="Name" value="Resist penetration" />
+  </Node>
+  <Node name="Fp">
+    <Key key="Name" value="Fury" />
+    <Key key="Description" value="The main resource for using skills." />
+  </Node>
+  <Node name="Fp+">
+    <Key key="Name" value="Fury" />
+  </Node>
+  <Node name="FpK+">
+    <Key key="Name" value="Fury" />
+  </Node>
+  <Node name="Ggb">
+    <Key key="Name" value="Gold Gain" />
+  </Node>
+  <Node name="Gg+">
+    <Key key="Name" value="Gold Gain" />
+  </Node>
+  <Node name="GgK+">
+    <Key key="Name" value="Gold Gain" />
+  </Node>
+  <Node name="Hrb">
+    <Key key="Name" value="Haste Rate" />
+  </Node>
+  <Node name="Hr+">
+    <Key key="Name" value="Haste Rate" />
+  </Node>
+  <Node name="HrK+">
+    <Key key="Name" value="Haste Rate" />
+  </Node>
+  <Node name="HrL">
+    <Key key="Name" value="Haste Rate" />
+  </Node>
+  <Node name="Hl">
+    <Key key="Name" value="Heal" />
+  </Node>
+  <Node name="Hlb">
+    <Key key="Name" value="Heal" />
+  </Node>
+  <Node name="HlbpL">
+    <Key key="Name" value="Heal" />
+  </Node>
+  <Node name="Hkb">
+    <Key key="Name" value="Heal" />
+  </Node>
+  <Node name="Hkl">
+    <Key key="Name" value="Heal" />
+  </Node>
+  <Node name="HlpL">
+    <Key key="Name" value="Heal" />
+  </Node>
+  <Node name="Hcb">
+    <Key key="Name" value="Hit Chance" />
+  </Node>
+  <Node name="Hc+">
+    <Key key="Name" value="Hit Chance" />
+  </Node>
+  <Node name="Hp">
+    <Key key="Name" value="Health" />
+    <Key key="Description" value="If Health reaches 0, then the Hero dies.&#xD;&#xA;&lt;b&gt;Current Health: {values} | &lt;/b&gt;" />
+  </Node>
+  <Node name="Hpb">
+    <Key key="Name" value="Health" />
+  </Node>
+  <Node name="Hp+">
+    <Key key="Name" value="Health" />
+  </Node>
+  <Node name="HpK+">
+    <Key key="Name" value="Health" />
+  </Node>
+  <Node name="HpL">
+    <Key key="Name" value="Health" />
+  </Node>
+  <Node name="Hprb">
+    <Key key="Name" value="Health Regeneration" />
+  </Node>
+  <Node name="Hpr+">
+    <Key key="Name" value="Health Regeneration" />
+  </Node>
+  <Node name="HprK+">
+    <Key key="Name" value="Health Regeneration" />
+  </Node>
+  <Node name="HprL">
+    <Key key="Name" value="Health Regeneration" />
+  </Node>
+  <Node name="IhK+">
+    <Key key="Name" value="Incoming Heal" />
+  </Node>
+  <Node name="Imd+">
+    <Key key="Name" value="Incoming Heal" />
+  </Node>
+  <Node name="Ipd+">
+    <Key key="Name" value="Incoming Physical Damage" />
+  </Node>
+  <Node name="IsK+">
+    <Key key="Name" value="Incoming Shields" />
+  </Node>
+  <Node name="IN+">
+    <Key key="Name" value="Intelligence" />
+  </Node>
+  <Node name="INL">
+    <Key key="Name" value="Intelligence" />
+  </Node>
+  <Node name="Ldor" />
+  <Node name="Amd+">
+    <Key key="Name" value="Increase Magic Skills" />
+  </Node>
+  <Node name="Mccb">
+    <Key key="Name" value="Magical Crit Chance" />
+  </Node>
+  <Node name="Mcc+">
+    <Key key="Name" value="Magical Crit Chance" />
+  </Node>
+  <Node name="MccK+">
+    <Key key="Name" value="Magical Crit Chance" />
+  </Node>
+  <Node name="MccL">
+    <Key key="Name" value="Magical Crit Chance" />
+  </Node>
+  <Node name="Mcpb">
+    <Key key="Name" value="Magical Crit Multiplier" />
+  </Node>
+  <Node name="Mcp+">
+    <Key key="Name" value="Magical Crit Multiplier" />
+  </Node>
+  <Node name="McpK+">
+    <Key key="Name" value="Magical Crit Multiplier" />
+  </Node>
+  <Node name="McpL">
+    <Key key="Name" value="Magical Crit Multiplier" />
+  </Node>
+  <Node name="Md">
+    <Key key="Name" value="Magic Damage" />
+  </Node>
+  <Node name="Mkb" />
+  <Node name="Pd">
+    <Key key="Name" value="Physical Damage" />
+  </Node>
+  <Node name="Mkl" />
+  <Node name="Omd+" />
+  <Node name="Pk" />
+  <Node name="MdpL" />
+  <Node name="MARK+" />
+  <Node name="Msb">
+    <Key key="Name" value="Movement speed" />
+  </Node>
+  <Node name="Ms+">
+    <Key key="Name" value="Movement speed" />
+  </Node>
+  <Node name="MsK+">
+    <Key key="Name" value="Movement speed" />
+  </Node>
+  <Node name="Mp">
+    <Key key="Name" value="Mana" />
+    <Key key="Description" value="The main resource for using skills." />
+  </Node>
+  <Node name="Mpb">
+    <Key key="Name" value="Mana" />
+  </Node>
+  <Node name="Mp+">
+    <Key key="Name" value="Mana" />
+  </Node>
+  <Node name="MpK+">
+    <Key key="Name" value="Mana" />
+  </Node>
+  <Node name="MpL">
+    <Key key="Name" value="Mana" />
+  </Node>
+  <Node name="Mprb">
+    <Key key="Name" value="Mana Regeneration" />
+  </Node>
+  <Node name="Mpr+">
+    <Key key="Name" value="Mana Regeneration" />
+  </Node>
+  <Node name="MprK+">
+    <Key key="Name" value="Mana Regeneration" />
+  </Node>
+  <Node name="MprL">
+    <Key key="Name" value="Mana Regeneration" />
+  </Node>
+  <Node name="Ohk+">
+    <Key key="Name" value="Outgoing Heal" />
+  </Node>
+  <Node name="Osk+">
+    <Key key="Name" value="Outgoing Shields" />
+  </Node>
+  <Node name="Papb">
+    <Key key="Name" value="Percentage Armor Penetration" />
+  </Node>
+  <Node name="Pap+">
+    <Key key="Name" value="Percentage Armor Penetration" />
+  </Node>
+  <Node name="PapK+">
+    <Key key="Name" value="Percentage Armor Penetration" />
+  </Node>
+  <Node name="PapL">
+    <Key key="Name" value="Percentage Armor Penetration" />
+  </Node>
+  <Node name="Prpb">
+    <Key key="Name" value="Percentage Resist Penetration" />
+  </Node>
+  <Node name="Prp+">
+    <Key key="Name" value="Percentage Resist Penetration" />
+  </Node>
+  <Node name="PrpK+">
+    <Key key="Name" value="Percentage Resist Penetration" />
+  </Node>
+  <Node name="PrpL">
+    <Key key="Name" value="Percentage Resist Penetration" />
+  </Node>
+  <Node name="Apd+">
+    <Key key="Name" value="Increase Physical Skills" />
+  </Node>
+  <Node name="Pccb">
+    <Key key="Name" value="Physical Crit Chance" />
+  </Node>
+  <Node name="Pcc+">
+    <Key key="Name" value="Physical Crit Chance" />
+  </Node>
+  <Node name="PccK+">
+    <Key key="Name" value="Physical Crit Chance" />
+  </Node>
+  <Node name="PccL">
+    <Key key="Name" value="Physical Crit Chance" />
+  </Node>
+  <Node name="Pcpb">
+    <Key key="Name" value="Physical Crit Multiplier" />
+  </Node>
+  <Node name="Pcp+">
+    <Key key="Name" value="Physical Crit Multiplier" />
+  </Node>
+  <Node name="PcpK+">
+    <Key key="Name" value="Physical Crit Multiplier" />
+  </Node>
+  <Node name="PcpL">
+    <Key key="Name" value="Physical Crit Multiplier" />
+  </Node>
+  <Node name="Prd">
+    <Key key="Name" value="Pure Damage" />
+  </Node>
+  <Node name="R">
+    <Key key="Name" value="Ability Range" />
+  </Node>
+  <Node name="Rsb">
+    <Key key="Name" value="Resist" />
+  </Node>
+  <Node name="Rs+">
+    <Key key="Name" value="Resist" />
+  </Node>
+  <Node name="RsK+">
+    <Key key="Name" value="Resist" />
+  </Node>
+  <Node name="RsL">
+    <Key key="Name" value="Resist" />
+  </Node>
+  <Node name="Sh">
+    <Key key="Name" value="Shields" />
+  </Node>
+  <Node name="Skb">
+    <Key key="Name" value="Shields" />
+  </Node>
+  <Node name="Skl">
+    <Key key="Name" value="Shields" />
+  </Node>
+  <Node name="BS">
+    <Key key="Name" value="Movement speed" />
+    <Key key="Description" value="Increases the speed at which you run. Only one bonus an artifact will increase your movement speed.&#xD;&#xA;Current Movement Speed: {values} per second" />
+  </Node>
+  <Node name="Spb">
+    <Key key="Name" value="Spell Power" />
+  </Node>
+  <Node name="SVpb">
+    <Key key="Name" value="Spell Vamp" />
+  </Node>
+  <Node name="Sp+">
+    <Key key="Name" value="Spell Power" />
+  </Node>
+  <Node name="SpK+">
+    <Key key="Name" value="Spell Power" />
+  </Node>
+  <Node name="SpL">
+    <Key key="Name" value="Spell Power" />
+  </Node>
+  <Node name="SVp+">
+    <Key key="Name" value="Spell Vamp" />
+  </Node>
+  <Node name="SVpK+">
+    <Key key="Name" value="Spell Vamp" />
+  </Node>
+  <Node name="SVpL">
+    <Key key="Name" value="Spell Vamp" />
+  </Node>
+  <Node name="SP+">
+    <Key key="Name" value="Spirit" />
+  </Node>
+  <Node name="SPL">
+    <Key key="Name" value="Spirit" />
+  </Node>
+  <Node name="ST+">
+    <Key key="Name" value="Strength" />
+  </Node>
+  <Node name="STL">
+    <Key key="Name" value="Strength" />
+  </Node>
+  <Node name="St">
+    <Key key="Name" value="Stun Time" />
+  </Node>
+  <Node name="Tnb">
+    <Key key="Name" value="Tenacity" />
+  </Node>
+  <Node name="Tn+">
+    <Key key="Name" value="Tenacity" />
+  </Node>
+  <Node name="TnK+">
+    <Key key="Name" value="Tenacity" />
+  </Node>
+  <Node name="TnL">
+    <Key key="Name" value="Tenacity" />
+  </Node>
+  <Node name="T" />
+  <Node name="Vpb">
+    <Key key="Name" value="Lifesteal" />
+  </Node>
+  <Node name="Vp+">
+    <Key key="Name" value="Lifesteal" />
+  </Node>
+  <Node name="Vp">
+    <Key key="Name" value="Lifesteal" />
+    <Key key="Description" value="Returns a portion damage you deal through auto attack.&#xD;&#xA;Current Life Steal: {values}" />
+  </Node>
+  <Node name="VpK+">
+    <Key key="Name" value="Lifesteal" />
+  </Node>
+  <Node name="VpL">
+    <Key key="Name" value="Lifesteal" />
+  </Node>
+  <Node name="Vb">
+    <Key key="Name" value="Vision" />
+  </Node>
+  <Node name="V+">
+    <Key key="Name" value="Vision" />
+  </Node>
+  <Node name="VK+">
+    <Key key="Name" value="Vision" />
+  </Node>
+  <Node name="VT+">
+    <Key key="Name" value="Vitality" />
+  </Node>
+  <Node name="VTL">
+    <Key key="Name" value="Vitality" />
+  </Node>
+  <Node name="wq1v1" />
+  <Node name="Ag">
+    <Key key="Name" value="Aggression Generation" />
+  </Node>
+  <Node name="ArmMxK+">
+    <Key key="Name" value="Armor" />
+  </Node>
+  <Node name="ArmMnK+">
+    <Key key="Name" value="Armor" />
+  </Node>
+  <Node name="ApMxK+">
+    <Key key="Name" value="Attack Power" />
+  </Node>
+  <Node name="ApMnK+">
+    <Key key="Name" value="Attack Power" />
+  </Node>
+  <Node name="AsMxK+">
+    <Key key="Name" value="Attack speed" />
+  </Node>
+</Category>

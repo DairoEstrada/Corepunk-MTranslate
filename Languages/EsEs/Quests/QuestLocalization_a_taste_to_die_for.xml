@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_a_taste_to_die_for" type="external">
+  <Key key="_npc_Fuck_yeah__You_re_my_kind_of_a" value="¡Joder, sí!Eres mi tipo de aventurero.¡Ve a limpiarte el culo y ponte a trabajar!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_Collect_Magic_Weeds" value="Coleccionar malas hierbas mágicas" />
+  <Key key="_QuestActionAddToJournal_Gragthar_Riverrise__City_Cente" value="Gratar&#10;Riverside, centro de la ciudad.&#10;Ayuda a Gratar a reunir 10 malezas mágicas para hacer que sus platos sean más adictivos." />
+  <Key key="_goalVoice_What_the_fuck_are_you_doing__s" value="¿Qué diablos estás haciendo, aflojando?¡Obtenga esa maldita hierba mágica del maldito bosque!Quiero decir ... Por favor, consigue esa maldita hierba mágica." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Well__shit__You_re_back_" value="Bueno, mierda!¡Estás de vuelta!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Did_you_get_that_fuckin__herb_" value="¿Conseguiste esa jodida hierba?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Hey__look_who_s_back_from_the_" value="¡Oye, mira quién está de vuelta de la jodida jungla!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Holy_fuck__you_actually_pulled" value="¡Santo mierda, en realidad lo lograste!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Here_s_your_damn_reward__Get_o" value="Aquí está tu maldita recompensa.¡Sal de mi cara antes de decidir cocinarte en su lugar!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_My_food_stand_s_all_the_rage__" value="Mi puesto de comida está de moda, pero estoy cocinando algo aún más jugoso.¿Alguna vez has escuchado sobre esta hierba mágica que convierte a la gente en máquinas comidas sin parar?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_People_munch_on_it__and_next_t" value="La gente lo come, y lo siguiente que sabes es que están sacando comida por sus gargantas como si no hubiera un mañana.Piense en las ganancias, jaja!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_I_need_someone_with_some_real_" value="Necesito a alguien con algunas bolas reales, como tú, para llevar el culo al bosque y enganchar esa hierba." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_But_listen_up__there_are_some_" value="Pero escucha, hay algunas criaturas extrañas listas para arrancarte la cara." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Bring_it_to_me__and_trust_me__" value="Tráelo y créeme, estarás en recompensas.¿Listo para un jodido caos?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Oh__fuck_off_then__I_ll_find_s" value="¡Oh, joder entonces!Encontraré a alguien más con algunas bolas." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Piss_off__chicken_shit__I_ll_g" value="Me enoja, mordida de pollo.Yo mismo conseguiré esa hierba." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Damn__what_a_wuss__Can_t_handl" value="¡Maldita sea, que Wuss!¿No puedes manejar un poco de aventura?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Shit__I_thought_you_had_some_g" value="Mierda, pensé que tenías algunas agallas.Supongo que no." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Well__fuck_me__Didn_t_think_yo" value="Bueno, jódame.No pensé que retrocedieras como una pequeña perra asustada." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+</Node>

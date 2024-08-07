@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_senior_officer" type="external">
+  <Key key="_npc_You_re_not_allowed_to_enter_th" value="¡No se le permite ingresar al edificio a menos que seas local!" voice="Male" />
+</Node>

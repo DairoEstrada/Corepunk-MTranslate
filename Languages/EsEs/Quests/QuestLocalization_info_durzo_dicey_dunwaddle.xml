@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_durzo_dicey_dunwaddle" type="external">
+  <Key key="_npc_Durzo__Dicey__Dunwaddle_at_you" value="Durzo &quot;Dicey&quot; Dunwaddle en su servicio, o no depende de mi suerte hoy." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_I_m_supposed_to_be_guarding_th" value="Se supone que estoy protegiendo este lugar, pero la vida es demasiado corta para no tirar los dados." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Once_dreamed_of_Quaddari_casin" value="Una vez soñé con los casinos quaddari y las altas apuestas, ¿sabes?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Instead__I_m_stuck_here_in_Win" value="En cambio, estoy atrapado aquí en Windstone, apostando por el trivial." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Lost_my_shirt_more_times_than_" value="Perdí mi camisa más veces de las que la he cambiado ... literalmente." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Some_day__I_ll_hit_it_big_and_" value="Algún día, lo golpearé en grande y escaparé de un casino Quaddari." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Well__just_gambled_away_my_pin" value="Bueno, simplemente jugé mi meñique." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Wanna_bet_yours_and_make_it_ev" value="Wanna bet yours and make it even?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Losing_fingers_isn_t_as_bad_as" value="Perder los dedos no es tan malo como dicen ..." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Well__maybe_it_is_" value="Bueno, tal vez lo sea." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_At_least_I_still_have_nine_mor" value="Al menos todavía tengo nueve más, por ahora." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Kinda_hoping_the_next_bet_turn" value="Esperando que la próxima apuesta cambie las cosas." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_What_do_you_say__Fancy_a_wager" value="¿Qué dices?¿Te apetece una apuesta en un apéndice?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Welcome_to_Dicey_s_Dungeon_" value="Bienvenido a Dicey's Dungeon." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Used_to_have_nice_decor__until" value="Solía ​​tener una buena decoración, hasta que una redada me limpió." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Now_it_s_just_me__a_couple_of_" value="Ahora es solo yo, un par de dados, y esta lamentable excusa de un puesto de guardia." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Tried_convincing_the_other_gua" value="Intenté convencer a los otros guardias de pasar el rato aquí para divertirse." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_They_didn_t_bite__guess_my_luc" value="No mordieron;Supongo que mi suerte es mala incluso fuera de la mesa." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Lost_my_stuff_so_many_times__I" value="Perdí mis cosas tantas veces, ni siquiera puedo proteger un calcetín de un ladrón." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Actually__I_need_to_repay_a_de" value="En realidad, necesito pagar una deuda." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Could_you_help_me_with_a_game_" value="¿Podrías ayudarme con un juego?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Think_you_could_settle_a_bet_" value="¿Crees que podrías resolver una apuesta?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Yeah__I_got_a_debt_situation__" value="Sí, obtuve una situación de deuda.¿Interesado?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_How_about_a_quick_job__Bet_you" value="¿Qué tal un trabajo rápido?Apuesto a que no puedes hacerlo lo suficientemente rápido." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_You_in_for_a_challenge_" value="¿Estás en un desafío?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Let_s_make_this_interesting_" value="¡Hagamos esto interesante!" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Stuck_here__guarding_like_a_su" value="Atrapado aquí, protegiendo como un tonto." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Can_t_leave__this_place_might_" value="No puedo irse, este lugar podría necesitar protegerse por una vez." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Guard_duty__Kill_me_now_" value="Guardia. Mátame ahora." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_If_only_dying_on_duty_was_an_o" value="Si solo morir de servicio fuera una opción." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Trapped_guarding_this_dump__Lu" value="Atrapado protegiendo este basurero.Afortunado de mí, ¿verdad?" voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Tied_to_this_post__literally_m" value="Tied to this post, literally my worst nightmare." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Got_to_play_watchdog_for_now_" value="Tengo que jugar Watchdog por ahora." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Guarding_s_my_day_today__No_es" value="Proteger mi día hoy.No hay escapatoria." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Gotta_stay_here_and_pretend_I_" value="Tengo que quedarme aquí y fingir que soy útil." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+  <Key key="_npc_Nope__Just_doing_time__guardin" value="No.Solo haciendo tiempo, protegiendo esta miseria." voiceSettingsId="e3B6lWEa6F4wPOXy2NfK" />
+</Node>

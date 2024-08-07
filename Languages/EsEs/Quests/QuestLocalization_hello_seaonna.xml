@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_seaonna" type="external">
+  <Key key="_npc_Wish_I_had_legs____I_d_run_the" value="Ojalá tuviera piernas ... diría el mundo." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_What_s_kraken__good_lookin__" value="¿Qué es Kraken, bien mirando?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Want_to_catch_a__high__tide_wi" value="¿Quieres atrapar una marea 'alta' conmigo?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Wanna_dive_into_some_treble_" value="¿Quieres sumergirte en un poco de agudos?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Know_any_good_herb_spots_" value="¿Conoces algún buen lugar de hierba?" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_I_don_t_have_legs__but_I_m_a_f" value="No tengo piernas, pero soy un bailarín de finón." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Quit_looking_at_my_scales__my_" value="Deja de mirar mis escalas, mis ojos están aquí arriba." voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+  <Key key="_npc_Oopsie__I_forgot_my_shells_" value="¡Oopsie, olvidé mis conchas!" voiceSettingsId="yDPv63NqRiCKVnZmrPQd" />
+</Node>

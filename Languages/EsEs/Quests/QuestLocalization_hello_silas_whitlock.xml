@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_silas_whitlock" type="external">
+  <Key key="_npc_What_did_you_see_" value="¿Qué viste?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_You_weren_t_spying__were_you_" value="No estabas espiando, ¿verdad?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Why_are_you_here_" value="¿Por qué estás aquí?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Who_s_sent_you_" value="¿Quién te ha enviado?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Stay_back_" value="¡Quedarse atrás!" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_What_do_you_want_" value="¿Qué deseas?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Did_you_notice_anything_" value="¿Notaste algo?" voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+  <Key key="_npc_Keep_your_distance_" value="Mantén tu distancia." voiceSettingsId="4UehrXaz8SFWbwhncefF" />
+</Node>

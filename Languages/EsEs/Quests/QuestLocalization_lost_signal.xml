@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lost_signal" type="external">
+  <Key key="_npc_You_walk_away___the_Valley_s_m" value="Te alejas: la misericordia del valle se verá amable en comparación con tu oración." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Ha__Decided_to_quit_already__M" value="¡Ja!¿Decidió dejar de fumar ya?Tal vez preferirías el tiempo de regreso en el slammer." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_goalVoice_Focus__recruit__We_need_those_" value="Enfoque, recluta.Necesitamos esas radios: verde, rojo y amarillo.Mantén tus ojos abiertos.El área es traicionera, pero necesitamos esas comunicaciones operativas." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_goal_collect_green_radio" value=" " />
+  <Key key="_goal_collect_red_radio" value=" " />
+  <Key key="_goal_collect_yellow_radio" value=" " />
+  <Key key="_goal_talk_npc" value="Volver a Morick Voss" />
+  <Key key="_npc_Get_in__grab_the_radios__and_g" value="Entra, toma las radios y sal." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_When_you_find__em__bring__em_t" value="When you find 'em, bring 'em to my partner, Morick Voss, for your next assignment." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_We_ve_got_three_radios__green_" value="Tenemos tres radios: verde, rojo y amarillo.Estas cosas son nuestra línea de vida.Sin ellos, somos ciegos." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Our_previous_recruits_met_thei" value="Nuestros reclutas anteriores cumplieron con su fin.¿Tu trabajo?Recupere las radios que dejaron caer." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_All_right__greenhorn__listen_u" value="Muy bien, Greenhorn, escucha.La infestación del valle de los pecados no es caminar en el parque." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Keep_it_up__Lyra_already_talke" value="Avanza.Lyra ya me habló sobre tu próxima tarea." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_varDescription_Collect_Green_Radio" value="Recoger radio verde" />
+  <Key key="_varDescription_Collect_Red_Radio" value="Recolectar radio roja" />
+  <Key key="_varDescription_Collect_Yellow_Radio" value="Recolectar radio amarilla" />
+  <Key key="_QuestActionAddToJournal_Lyra_Thornfeld_Westwinds_Woods" value="Lyra Thornfield&#10;Westwinds Woods, Infestación del Valle de los Sins&#10;Ayude a Lyra Thornfield recuperar las 3 radios de la infestación del valle de los pecados y llevarlas a Morick Voss." />
+  <Key key="_npc_Turnin__back__eh__Just_remembe" value="Devolver, ¿eh?Solo recuerde, todavía tiene deudas que pagar, en más de un sentido." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_Alright__you_ve_got_guts__Just" value="Muy bien, tienes agallas.Solo trata de no perderlos por ahí." voiceSettingsId="wHlRG5TvFDO7Lsxve3nw" />
+  <Key key="_npc_You_actually_did_it__huh__Let_" value="De hecho, lo hiciste, ¿eh?Veamos lo que tienes." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+  <Key key="_npc_Looks_like_you_ve_got_the_maki" value="Parece que tienes la creación de un portador de luz adecuado.No es que sepa lo que eso significa ..." voiceSettingsId="bwvY8hZiA5zi7l4sW6mF" />
+</Node>

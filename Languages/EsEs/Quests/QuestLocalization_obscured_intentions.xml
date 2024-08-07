@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_obscured_intentions" type="external">
+  <Key key="_npc_No_worries__friend__I_ve_lost_" value="No te preocupes, amigo.He perdido más que solo obras en mi tiempo." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Heh__good_call__I_can_barely_r" value="Je, buena llamada ... Apenas puedo recordar dónde estoy, y mucho menos la escritura." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Yeah__yeah__I_get_it__I_m_not_" value="Sí, sí, lo entiendo.No soy exactamente un modelo de confiabilidad en este momento." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_goalVoice_Hey__life_s_a_trip__right__And" value="Oye, la vida es un viaje, ¿verdad?Y también lo está encontrando ese hecho.&#10;- Probablemente cerca de la horca ... ¿o tal vez me imaginé eso?De todos modos, ¡disfruta de las vibraciones!" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_You_go_get_it_while_I_search_t" value="Vas a buscarlo mientras busco los temores, ¿de acuerdo?Y llévelo a Lingua." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Honestly__my_brain_s_more_scra" value="Honestamente, mi cerebro está más revuelto que una pista de ondas de sintetizador rota." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_goal_talk_npc" value="Regresar a Lingua" />
+  <Key key="_goal_collect_item" value="Recoge la escritura de Reverie's Hollow" />
+  <Key key="_npc_Anyway__the_deed_s_probably_ne" value="De todos modos, la acción probablemente está cerca de la plataforma de horca y tortura.Tal vez lo escondí en mi bong." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_My__uh__my_memory_s_a_bit_hazy" value="Mi, eh, mi memoria es un poco nebulosa en este momento, ¿sabes?Debe haber sido ese último viaje a Dreamland ... o el bong." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_But_now_I_have_to_go_get_that_" value="Pero ahora tengo que ir a buscar esa evidencia de los temores que mataste." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_Alright__listen_up__I_was_supp" value="Muy bien, escucha.Se suponía que debía proteger este acto súper importante." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_And_if_you_want_a_device_for_y" value="Y si desea un dispositivo para su portal, nos ayudará ..." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_What__don_t_look_at_me_like_th" value="¡Qué, no me mires así!No sabes cómo es aquí." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_QuestActionAddToJournal_Penny__Stardust__Furbank__Reve" value="Penny &quot;Stardust&quot; Furbank&#10;Reverie Hollow, área de comedor al aire libre.&#10;&#10;Ayude a Penny a descubrir la interferencia de Quaddari dentro del culto al Pastor Fazool al recuperar un hecho crucial de su bong cerca de la horca." />
+  <Key key="_npc_Don_t_blame_you__really_I_m_a_" value="Don't blame you, really I'm a bit of a mess right now." voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+  <Key key="_npc_I_guess_that_s_pretty_convenie" value="Supongo que es bastante conveniente, dado que estoy ayudando a Lana." voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Penny_had_you_bring_me_the_dee" value="Penny ¿Me habías traído el hecho?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Uh__you_need_something_" value="Uh, ¿necesitas algo?" voiceSettingsId="cHwNInfMwKsKaQn53Jnl" />
+  <Key key="_npc_Alright__alright__So__I_might_" value="Bien bien.Entonces, podría haberme equivocado.De nuevo.La escritura probablemente está cerca de la horca.¡Fuera, vete!" voiceSettingsId="JeYkX34JMzQJVAuUntRR" />
+</Node>

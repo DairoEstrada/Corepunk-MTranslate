@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_hub2_roger_friend_02" type="external">
+  <Key key="_npc_You_had_the_courage_to_approac" value="Tenías el coraje de abordar, aunque apenas recuerdo que bebamos juntos." voice="Male" />
+</Node>

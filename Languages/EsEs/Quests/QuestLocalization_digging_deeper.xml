@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_digging_deeper" type="external">
+  <Key key="_npc_Talk_to_me__now__Did_ya_find_s" value="Háblame ahora.¿Encontraste algo de lo ordinario?" voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Aye__you_heard_tales_of_the_re" value="Sí, ¿escuchaste historias de la reliquia aquí también?Pensé que era todo el bravucón de Alex." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_npc_Whatever_dark_magic_lurks_down" value="Cualquiera que sea la magia oscura que acecha aquí abajo, los dos podemos encontrarla juntos." voiceSettingsId="hx9a5Iou5cWbCP7vbWZb" />
+  <Key key="_goal_collect_old_quarry" value="Recoge artefacto de Old Quarry" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_This_from_Mary_Jane__Thanks_ki" value="Esto de Mary Jane?Gracias chico, lo necesito para grabar mi podcast." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_re_lookin__for_some_artifa" value="¿Estás buscando algo de artefacto?¡Oh, sé sobre artefactos!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_The_artifact_below_this_quarry" value="El artefacto debajo de esta cantera no es solo su hallazgo promedio;Estamos hablando de control mental, ¡tal vez incluso cosas interdimensionales!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goalVoice_Hey__remember__the_truth_is_do" value="¡Oye, recuerda, la verdad está en la parte inferior de esa maldita cantera!Mantenga los ojos bien abiertos para cualquier cosa que los principales medios no quieran que encuentre." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Ah__come_on__what_are_ya__scar" value="Ah, come on, what are ya, scared the Illuminati are gonna get ya?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_re_bailing_on_me__The_glob" value="¿Me estás rescatando?La agenda globalista ganó esta ronda." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Fine__guess_the_reptilian_over" value="Bien, supongo que los señores reptilianos obtuvieron un nuevo recluta." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_But_I_m_slammed_with_my_latest" value="Pero estoy golpeado con mi último episodio de podcast en los magos oscuros que se infiltran en el gobierno de Elanien, por lo que necesito botas en el terreno para este." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_gotta_get_down_to_the_bott" value="Tienes que llegar al fondo de la cantera y hablar con Dorik.Ha visto cosas, hombre." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goal_talk_dorik" value="Habla con Dorik Oakenshield" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Alright__we_need_someone_with_" value="Muy bien, necesitamos a alguien con agallas para desenterrar esta mierda.¡Tú eres eso!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_QuestActionAddToJournal_Alexander_Stones_Westwind_Wood" value="Alexander Stones&#10;Westwind Woods, Old Quarry con vista a la plataforma.&#10;&#10;Investigue el rumoreado artefacto que impulsa a los mineros a la locura en la cantera." voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Well__good_luck_out_there_with" value="Bueno, ¡buena suerte sin ninguna protección contra el sombrero de papel de aluminio!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

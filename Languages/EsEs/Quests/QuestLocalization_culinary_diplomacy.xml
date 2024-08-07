@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_culinary_diplomacy" type="external">
+  <Key key="_npc_No_problem__But_don_t_cry_to_m" value="¡Ningún problema!Pero no me llores cuando esos huevos se convierten en un biohazard." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Well__not_my_problem__I_don_t_" value="Bueno, no mi problema.No tengo hijos que Triton pueda comer." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_see__a_special_herb_stored" value="Verá, una hierba especial almacenada en frascos morados cerca de la casa cubierta es justo lo que necesitamos.Dirígete al noreste hacia los pastizales con tragalías." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Not_sure_what_exactly_it_is__a" value="No estoy seguro de qué es exactamente, y no me importa una mierda.No soy el que lo come." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Go_steal_some_and_give_it_to_T" value="Ve a robar un poco y dárselo a Triton.Cansado de escuchar su culo escamosa quejarse." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_You_help_with_big_lawyer_plan_" value="¡Ayudas con el plan de abogados grandes!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Ah__the_imps__eggs_are_an_acqu" value="Ah, los huevos de los Imps son un sabor adquirido, por decir lo menos.Pero hay una manera de hacerlos sabrosos, y ahí es donde entras." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_goal_talk_npc" value="Regreso a Triton" />
+  <Key key="_goalVoice_Don_t_forget__the_special_herb" value="No olvides que la hierba especial está en frascos morados cerca de la casa cubierta.Esos huevos no permanecerán frescos para siempre, ¡así que CHOP-CHOP!¡Dirígete al noreste a las afueras de la ciudad en los pastizales de tragaluces rápidamente!Si te pierdes, estás solo." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Triton_still_pay_you_for_effor" value="Triton todavía te paga por el esfuerzo, pero si quieres artefactos, ¡debes traer Triton Real Baby!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_NO__YUCKY_YUCK__Even_grosser_t" value="¡NO!Yucky Yuck.¡Incluso más grosero que antes!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Special_herb__This_better_tast" value="¿Hierba especial?Este mejor sabor a bebé normal ahora ..." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_varDescription_Collect_Special_Herb" value="Recoge hierba especial" />
+  <Key key="_QuestActionAddToJournal_Thorin_Toastbeard_Windstone_Vi" value="Toastbeard&#10;Villa de viento, taberna.&#10;&#10;Ayude a Thorin a tostarse al obtener una hierba especial para Triton para hacer que los huevos de Imp sean más comestibles." />
+  <Key key="_npc_Seriously__Well__I_suppose_you" value="¿En serio?Bueno, supongo que disfrutarás el olor de huevos podridos entonces." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Yes__You_get_eggs_for_Triton_" value="¡Sí!¿Obtienes huevos para Triton?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_I_should_probably_start_washin" value="Probablemente debería comenzar a lavar el mío antes de cocinar ..." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+  <Key key="_npc_Nice_to_see_someone_else_willi" value="Es bueno ver a alguien más dispuesto a ensuciarse las manos." voiceSettingsId="FuTv1CmgwD6wa4NzkwI7" />
+</Node>

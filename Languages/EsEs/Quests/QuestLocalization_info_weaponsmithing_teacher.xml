@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_weaponsmithing_teacher" type="external">
+  <Key key="_npc_No_worries__though__Let_me_kno" value="Sin embargo, no se preocupe.Déjame saber si cambias de parecer." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Well__ain_t_that_a_kick_in_the" value="Bueno, no es una patada en los dientes." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Guess_you_re_not_up_for_some_e" value="Supongo que no estás preparado para una diversión explosiva.Lástima." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Once_you_ve_got_those__you_can" value="Una vez que los tenga, puede usar esta receta para elaborar el lanzador.¡Tráelo de vuelta aquí cuando haya terminado y nos diviertamos!" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_That_s_why_I_need_you_to_craft" value="Es por eso que necesito que elabore un lanzador de asalto para mí." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_I_ve_already_whipped_up_the_at" value="Ya he levantado los archivos adjuntos, pero necesito un lanzador para probarlos." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_The_client_wants_some_nifty_en" value="El cliente quiere algunas mejoras ingeniosas: una vista de punto rojo, alcance de imágenes térmicas y un mango resistente a retroceso." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_So_here_s_the_deal__I_ve_got_a" value="Así que aquí está el trato, tengo un pedido para un lanzador mejorado." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_You_wanna_learn__We_ll_do_it_o" value="¿Quieres aprender?Lo haremos en el trabajo." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Got_my_hands_full_with_these_g" value="Tengo mis manos llenas con estas armas.Pero gracias por ofrecer." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_All_set_for_now__shooter__Chec" value="Todo listo por ahora, tirador.Vuelva más tarde." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Everything_s_tickety_boo__but_" value="Todo es Tickety-Boo, pero te daré un grito si necesito algo." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_All_quiet_on_the_western_front" value="Todo calmado en el frente oeste.Vuelve más tarde, ¿sí?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Got_a_task_that_ll_test_your_m" value="Tengo una tarea que probará tu temple.Y tu metal." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_More_like_need_a_trigger_finge" value="Más como necesito un dedo gatillo." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Hell__I_ve_got_a_list_as_long_" value="Demonios, tengo una lista siempre que un rifle de francotirador." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_By_the_way__wanna_buy_a_gun__Y" value="Por cierto, ¿quieres comprar una pistola?Parece que no están empacando." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_But_hey__more_customers_for_me" value="Pero bueno, más clientes para mí, ¿verdad?Sigan viniendo, digo." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_We_ve_got_everything_from_lowl" value="Tenemos de todo, desde campesinos humildes hasta extranjeros de alta tecnología deambulando por buscar artefactos." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Goldenfield_was_a_sleepy_town_" value="Goldenfield era una ciudad somnolienta antes de que se abriera ese portal.Ahora, es una fiebre del oro de artefactos." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Plus__the_Elan_government_s_al" value="Además, el gobierno de Elan está todo por armar a los recién llegados.Sobreviven aquí o se inscriben en el ejército." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_That_nice_lady_across_town__Ma" value="Esa linda dama de la ciudad, Martha, me ayudó a encontrarme cuando me presenté." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Life_s_been_a_blast_since_I_en" value="La vida ha sido una maravilla desde que terminé aquí.¿Consíguelo?Explica, porque, bueno ... no importa." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_As_you_get_more_practice__you_" value="A medida que obtengas más prácticas, entenderás más." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_The_better_the_quality_of_weap" value="Cuanto mejor sea la calidad del arma, más chips podrás instalar para mejorarlo." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_However__advanced_chips_deplet" value="Sin embargo, los chips avanzados agotan su carga cuando se activan y necesitan recargar después." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Basic_chips_add_small_effects_" value="Los chips básicos agregan pequeños efectos, mientras que los chips avanzados ofrecen beneficios más sustanciales." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_There_are_two_types_of_chips__" value="Hay dos tipos de chips: básicos y avanzados." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Chips_add_various_effects_to_y" value="Los chips agregan varios efectos a tus armas, haciéndolas más versátiles." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_If_luck_s_on_your_side__you_mi" value="Si la suerte está de tu lado, podrías elaborar un arma con DPS de primer nivel y velocidad de ataque." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Every_weapon_has_unique_attrib" value="Cada arma tiene atributos únicos porque una receta no es un plan estricto." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_You_can_procure_all_these_from" value="Puede obtener todo esto de recopilar profesiones o mediante reciclaje de recursos." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_You_might_also_need_some_other" value="También es posible que necesite otros recursos, tanto comunes como raros." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Weapons_are_made_from_recycled" value="Las armas están hechas de materiales reciclados como lingotes de hierro, madera o cuero tratadas." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Weaponsmiths_craft_all_kinds_o" value="Weaponsmiths craft all kinds of weapons and chips for them." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_If_you_re_sticking_around__you" value="Si te estás quedando, debes aprender una o dos cosas sobre la elaboración de armas." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Ain_t_no_creature_too_big_or_t" value="No es una criatura demasiado grande o demasiado pequeña para mi potencia de fuego." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Used_to_be_an_engineer_back_on" value="Solía ​​ser ingeniero en mi mundo, ahora elabro armas para los novatos aquí." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_They_call_me_Ratchet__I_m_your" value="Me llaman Ratchet.Soy tu amigable traficante de armas." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Apart_from_the_occasional_mons" value="Además del ataque de monstruos ocasional, diría que las cosas son buenas." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_You_ll_need_Iron_Ingot__Amber_" value="Necesitarás lingote de hierro, ámbar, cuero y 2 madera de joyería.Son un poco poco frecuentes, pero bueno, eso es parte de la diversión, ¿verdad?" voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_You_know_where_to_find_me_" value="Sabes donde encontrarme." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+  <Key key="_npc_Spend_your_money_with_me__forg" value="Gasta tu dinero conmigo, olvídate del Capitán Boomstick." voiceSettingsId="gclbbDdXdFiIcTF12JYE" />
+</Node>

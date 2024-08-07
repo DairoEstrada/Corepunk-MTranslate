@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_predator_in_grass" type="external">
+  <Key key="_goal_go_kill" value="Recoge sangre de los rastreadores" />
+  <Key key="_varDescription_WFQH" value="Sangre de rastreadores" />
+  <Key key="_QuestActionAddToJournal_TOwm" value="El agricultor llamado Ric busca ayuda para matar a los viles depredadores que se establecieron cerca de su rancho.Los llama rastreadores.Debería tener cuidado, ya que estas criaturas viven en hierba alta y pueden ser difíciles de detectar." />
+  <Key key="_npc__iz_vysokoy_travy_za_moim_domo" value="Ellos rastreadores, amigo.He estado Killin Mah Ganado durante algunas semanas ya." voice="Male" />
+  <Key key="_QuestActionAddToJournal_f5NZ" value="Hecho.Ahora el hombre puede dormir bien.Los rastreadores ya no lo molestarán." />
+  <Key key="_QuestActionAddToJournal_JYbB" value="Hecho.Ahora el hombre puede dormir bien.Los rastreadores ya no lo molestarán." />
+  <Key key="_goalVoice_DTR6" value="Y oye, esos bastardos cuentan a amigos de enemigos por el olor.Sería feliz si pones algo de su sangre en mis vacas, ¿de acuerdo?" voice="Male" />
+  <Key key="_goal_go_back" value="Speak to the farmer" />
+  <Key key="_QuestActionAddToJournal_XKQh" value="Hecho.Ahora el hombre puede dormir bien.Los rastreadores ya no lo molestarán." />
+  <Key key="_npc__" value="Eres un santo, amigo.Aquí, estaba guardando esto para contratar algunos mercados.Te lo mereces totalmente." voice="Male" />
+  <Key key="_npc_And_the_local_boys_are_too_sca" value="Y los muchachos locales están demasiado asustados de ellos rastreadores." voice="Male" />
+  <Key key="_npc_I_sure_as_hell_do__Think_you_c" value="Estoy seguro de que lo hago.¿Crees que puedes manejar a estas criaturas?" voice="Male" />
+  <Key key="_npc_Appreciate_you__friend__Hope__" value="Te aprecio, amigo.Espero, ya sabes lo que haces.Voy a estar aquí, esperando." voice="Male" />
+  <Key key="_npc_I_ll_drink_to_your_health__" value="Beberé a tu salud." voice="Male" />
+  <Key key="_goal_smallfire_nest" value="(Opcional) Quemar nidos más pequeños" />
+  <Key key="_varDescription_Q6rO" value="Burned" />
+  <Key key="_QuestActionAddToJournal_Ejsk" value="He encontrado algunos nidos pequeños en la hierba alta.Probablemente debería quemarlos también." />
+  <Key key="_assistant_phrase_G4Q9" value="¡Así que hay más nidos más pequeños!No te pides que los quemes también, pero agradecería que Foh real." voice="Male" />
+  <Key key="_assistant_phrase_Lps9" value="¡Dayum, amigo!¡Incluso los tienes pequeños nidos!Esa basura merece una recompensa mayor.Pensaré en algo." voice="Male" />
+  <Key key="_varDescription_KkUd" value="Burned" />
+  <Key key="_QuestActionAddToJournal_Pkhb" value="He encontrado algunos nidos pequeños en la hierba alta.Probablemente debería quemarlos también." />
+  <Key key="_assistant_phrase_IvUc" value="¡Así que hay más nidos más pequeños!No te pides que los quemes también, pero agradecería que Foh real." voice="Male" />
+  <Key key="_assistant_phrase_HN0V" value="¡Dayum, amigo!¡Incluso los tienes pequeños nidos!Esa basura merece una recompensa mayor.Pensaré en algo." voice="Male" />
+  <Key key="_varDescription_V4bA" value="Burned" />
+  <Key key="_QuestActionAddToJournal_DGIy" value="He encontrado algunos nidos pequeños en la hierba alta.Probablemente debería quemarlos también." />
+  <Key key="_assistant_phrase_YNF1" value="¡Así que hay más nidos más pequeños!No te pides que los quemes también, pero agradecería que Foh real." voice="Male" />
+  <Key key="_assistant_phrase_aLFn" value="¡Dayum, amigo!¡Incluso los tienes pequeños nidos!Esa basura merece una recompensa mayor.Pensaré en algo." voice="Male" />
+  <Key key="_varDescription_bLp6" value="Burned" />
+  <Key key="_QuestActionAddToJournal_8ZpQ" value="He encontrado algunos nidos pequeños en la hierba alta.Probablemente debería quemarlos también." />
+  <Key key="_assistant_phrase_VfT1" value="¡Así que hay más nidos, más pequeños!No te pides que los quemes también, pero agradecería que Foh real." voice="Male" />
+  <Key key="_assistant_phrase_KcAH" value="¡Dayum, amigo!¡Incluso los tienes pequeños nidos!Esa basura merece una recompensa mayor.Pensaré en algo." voice="Male" />
+  <Key key="_npc_Kak_i_obeshchal_dop_nagrada" value="Conozco a un buen amigo cuando veo uno.No solo las tienes bestias y el gran nido, también quemaste las pequeñas." voice="Male" />
+  <Key key="_goalVoice_S0AF" value="El agricultor llamado Ric busca ayuda para matar a los viles depredadores que se establecieron cerca de su rancho.Los llama rastreadores.Debería tener cuidado, ya que estas criaturas viven en hierba alta y pueden ser difíciles de detectar." voice="Male" />
+  <Key key="_assistant_phrase_g5fM" value="Y oye, esos bastardos cuentan a amigos de enemigos por el olor.Sería feliz si pones algo de su sangre en mis vacas, ¿de acuerdo?" voice="Male" />
+  <Key key="_npc_I_ll_drink_to_your_health_" value="Beberé a tu salud." voice="Male" />
+  <Key key="_goal_use_cow" value="Usa la sangre para pintar vacas" />
+  <Key key="_varDescription_Ug79" value="Vacas" />
+  <Key key="_QuestActionAddToJournal_UiL0" value="Tengo que usar la sangre de los rastreadores y pintar tres vacas." />
+  <Key key="_npc__I_went_to_Burgomaster__but_he" value="Fui a Burgomaster, pero él dice que el rancho de Mah estará fuera de las fronteras de la ciudad, por lo que no puede hacer nada al respecto." voice="Male" />
+  <Key key="_npc_I_didn_t_know_what_to_thank_yo" value="No sabía de qué agradecerte, así que me metí en mi bodega y encontré esto.Aquí, es tuyo, amigo.Serás bien." voice="Male" />
+</Node>

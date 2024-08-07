@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_darkwood_dilemma" type="external">
+  <Key key="_npc_Declining__Well__good_luck_whe" value="¿Declinante?Bueno, buena suerte cuando el Quaddari decide hacer un espectáculo de terror con nuestro fuerte." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_goal_find_zone" value="Encuentra el cuerpo del capitán" />
+  <Key key="_goal_talk_npc" value="Habla con Trevor Barlow" />
+  <Key key="_npc_Think_about_it__the_Captain_s_" value="Piénselo: la vida del capitán, y tal vez la nuestra, depende de esto.¿Seguro de abandonar?" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_You_re_passing_up_on_uncoverin" value="¿Estás dejando de descubrir un esquema de Quaddari?Movimiento audaz, pero tonto." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_goalVoice_Hey__don_t_drop_the_ball_now__" value="Oye, no dejes caer la pelota ahora.La vida del capitán y la nuestra dependen de que actúes juntos.Encuentra su cuerpo e repórtate a Trevor.Vamos, socio.Si el Quaddari está detrás de esto, estamos sentados patos.¡Apresurarse!¡Presente profundamente en esos bosques del sur y trae a nuestro hijo de vuelta!" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Let_s_see_what_secrets_are_hid" value="Veamos qué secretos se esconden en esos espeluznantes bosques.Informe todo lo que encuentre a Trevor." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Plus__maybe_we_ll_finally_get_" value="Además, tal vez finalmente obtengamos algunas respuestas." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_We_need_the_Captain_back__or_a" value="Necesitamos al capitán de regreso, o al menos lo que queda de él.De lo contrario, la ganancia de Quaddari." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Sounds_like_a_Quaddari_conspir" value="Suena como una conspiración Quaddari si me preguntas, y sabes cómo los amo.¡Alexander Stones es mi héroe!" voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_That_damned_Altar_is_in_the_de" value="Ese maldito altar está en el sur de Westwind Woods.Aún más profundo al suroeste de la cantera." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_Alright__listen_up__Our_Fort_C" value="Muy bien, ¡escucha!Nuestro Fort Captain desaparece, y se rumorea que se dirigía a ese altar espeluznante para los dioses del bosque." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_npc_That_artifact_caused_this__Whe" value="Ese artefacto causó esto.Donde sea que esté, necesitamos contenerlo, ahora." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_I_suppose_I_ll_have_to_tell_hi" value="Supongo que tendré que decirle ... después de resolver este ... incidente." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Skipping_this_hunt__Hope_you_r" value="¿Saltar esta caza?Espero que estés listo para cuando el Quaddari nos haga sonar a todos." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+  <Key key="_QuestActionAddToJournal_Tharkon_Windreach_Woods__Fort_" value="Tharkon&#10;Windreach Woods, Fort.&#10;&#10;Ayude a Tharkon a localizar al capitán de Fort Fort en el enigmático Westwind Woods, en algún lugar cerca del altar para los dioses del bosque." />
+  <Key key="_npc_Did_Tharkon_help_you_find_the_" value="¿Tharkon te ayudó a encontrar al capitán?" voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_DAMN_IT__Dead__Seriously_" value="MALDITA SEA.¿Muerto?¿En serio?" voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_I_don_t_give_a_shit_about_the_" value="No me importa una mierda el capitán, pero eso significa que ahora está a cargo." voiceSettingsId="OA5usTKQSCehrWdh6nxG" />
+  <Key key="_npc_Ha__a_real_life_conspiracy__Ca" value="¡Ja, una conspiración de la vida real!No puedo esperar a ver la 'gran revelación' del capitán en el altar." voiceSettingsId="77CchDJ3Ppp9zlV4At2B" />
+</Node>

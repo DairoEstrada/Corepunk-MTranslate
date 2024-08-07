@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_dish_vendor_goldenfield" type="external">
+  <Key key="_npc_Hey__what_s_good_" value="Oye, ¿qué es bueno?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Welcome_to_the_vibe_check_cent" value="Bienvenido al Vibe Check Central, también conocido como Goldenfield." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_What_s_the_tea__traveler_" value="¿Qué es el té, viajero?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_You_seem_beat__Time_for_a_chil" value="Pareces ritmo.Es hora de una pastilla para relajarse." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_You_new_around_here_" value="¿Eres nuevo por aquí?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Just_cooked_up_a_new_roast_" value="Acabo de preparar un nuevo asado." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+</Node>

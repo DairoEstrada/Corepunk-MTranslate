@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_collect_bottles" type="external">
+  <Key key="_npc_I_knew_I_could_count_on_you__B" value="¡Sabía que podía contar contigo!Ten cuidado por ahí." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Grab_those_blue_bottles_and_co" value="Agarra esas botellas azules y vuelve a salvo." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Did_you_manage_to_get_those_bl" value="¿Lograste obtener esas botellas azules?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Excellent_work__These_bottles_" value="¡Excelente trabajo!Estas botellas son justo lo que necesitábamos." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Here_s_your_reward__as_promise" value="Aquí está tu recompensa, como se prometió." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_ll_keep_half_the_pieces__and" value="Mantendré la mitad de las piezas y enviaré el resto a trinquete." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Try_not_to_expose_yourself_to_" value="Trate de no exponerse a más radiación esta semana, ¿sí?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Can_t_be_good_for_your_mental_" value="Can't be good for your mental health. " voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_collect_items" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_NnXk" value="Botellas azules recolectadas" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_8V5t" value="Griz Turner&#10;Goldenfield, cerca de la tienda de artefactos&#10;&#10;Ayuda a Griz Ironfoot recuperar fragmentos de artefactos cruciales del área de desechos tóxicos en el bosque de dusktide." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Find_five_Little_Blue_Bottles_" value="Encuentre cinco pequeñas botellas azules en el área de desechos tóxicos del bosque de Dusktide.Tenga cuidado con el líquido verde y aceitoso.Es amigable." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

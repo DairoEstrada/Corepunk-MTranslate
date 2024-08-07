@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_cyra_byte_kessler" type="external">
+  <Key key="_npc_Hey_there_" value="¡Hola!" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Welcome_in_" value="Bienvenido." voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_How_s_it_going_" value="¿Cómo estás?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Need_something_" value="¿Necesitar algo?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_Looking_for_something_" value="¿Buscando algo?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+  <Key key="_npc_What_can_I_get_you_" value="¿Qué puedo conseguirte?" voiceSettingsId="eVZktGA8OttAgdqgaWVo" />
+</Node>

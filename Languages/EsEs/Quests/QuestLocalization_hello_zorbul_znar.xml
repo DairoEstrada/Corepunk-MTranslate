@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_zorbul_znar" type="external">
+  <Key key="_npc_Ooh__a_fan_" value="¡Ooh, un ventilador!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Beautiful_day_" value="¡Hermoso dia!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Greetz__you_" value="¡Saludz, tú!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Me_your_favorite_" value="Me your favorite?" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Looka__me_" value="¡Mira, yo!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Me_best_" value="¡Me mejor!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Ugly_face__hehe_" value="Fea cara, jeje!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Me_do_greet_you_" value="¡Yo te saluda!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_You_see_bootiful_face_" value="¿Ves cara bootiful?" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_No_interrupt_doctor_" value="¡No hay médico de interrupción!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Yousa_want_autograph_" value="Yosa quieres autógrafo?" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Me_star_here_" value="Yo estrella aquí!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+  <Key key="_npc_Wowza__Ugly_face_" value="¡Vaya!¡Cara fea!" voiceSettingsId="xWPzSSiHl1FoZIiDvNXn" />
+</Node>

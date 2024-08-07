@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ConstIntsCalculated" description="">
+  <Node name="IN">
+    <Key key="Name" value="Inteligencia" />
+    <Key key="Description" value="Afecta el aumento porcentual del Poder de Hechizo y el Multiplicador de Crítico Mágico, aumenta con el nivel del Héroe." />
+  </Node>
+  <Node name="SPI">
+    <Key key="Name" value="Espíritu" />
+    <Key key="Description" value="Afecta la cantidad de Maná, la Regeneración de Maná y la Probabilidad de Crítico Mágico, aumenta con el nivel del Héroe." />
+  </Node>
+  <Node name="ST">
+    <Key key="Name" value="Fuerza" />
+    <Key key="Description" value="Afecta el aumento porcentual del Poder de Ataque y el Multiplicador de Crítico Físico, aumenta con el nivel del Héroe." />
+  </Node>
+  <Node name="DX">
+    <Key key="Name" value="Destreza" />
+    <Key key="Description" value="Afecta la Velocidad de Ataque y la Probabilidad de Crítico Físico, aumenta con el nivel del Héroe." />
+  </Node>
+  <Node name="VT">
+    <Key key="Name" value="Vitalidad" />
+    <Key key="Description" value="Afecta la Tenacidad, la cantidad de Salud y la Regeneración de Salud, aumenta con el nivel del Héroe." />
+  </Node>
+  <Node name="GC" />
+  <Node name="EC" />
+</Category>

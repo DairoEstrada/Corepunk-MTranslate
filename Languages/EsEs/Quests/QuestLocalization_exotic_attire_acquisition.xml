@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_exotic_attire_acquisition" type="external">
+  <Key key="_npc_Did_you____get_the_outfit__No_" value="¿Obtuviste el atuendo?Sin prisa ni nada, ¡solo revisando!" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Wow__you_re_actually_doing_thi" value="Vaya, ¿estás haciendo esto?Bien, respiraciones profundas, Yassma.¡Tenemos esto!" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_goal_collect_hat" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Hat" value="Sombrero de recolección" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_coat" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Coat" value="Recolección" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_pants" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Saw" value="Recolectar pantalones" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_shirt" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Collect_Shirt" value="Camisa de colección" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_Yassma_Riverrise__City_Center_" value="Yassma&#10;Riverrise, centro de la ciudad.&#10;&#10;Ayuda a Yassma a adquirir un atuendo más atractivo para que pueda unirse a los Velvet Vipers." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_So__um__remember_the_hat__coat" value="Entonces, ¿recuerdas el sombrero, el abrigo, los pantalones y la camiseta?Sí, todavía los necesito ..." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Oh_wow__this_is_really_happeni" value="¡Oh, guau, esto realmente está sucediendo!¿Gracias?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_So__uh__these_aren_t_stolen_st" value="Entonces, eh, estos no son obstinados, ¿verdad?Solo ... ¿Prestado?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Oh_boy__I_hope_this_works__Ple" value="Oh chico, espero que esto funcione.Por favor haz que esto funcione." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_totally_owe_you_a_million_aw" value="Te debo totalmente un millón de abrazos incómodos.Aunque tienes que pagar por esos." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_need_a_hat__a_coat__pants__a" value="Necesito un sombrero, un abrigo, pantalones y, uh, una camiseta.Si pudieras 'pedir prestado' para mí, realmente ayudaría.Quiero decir, ¿quién nota una camiseta faltante, ¿verdad?" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Oh__did_I_just_make_things_awk" value="Oh, ¿acabo de hacer las cosas incómodas?Lo siento, olvida que pregunté." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Right__stealing__Yeah__that_wa" value="Correcto, robando.Sí, esa fue una mala idea.Culpa mía." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Oh_geez__I_probably_sounded_li" value="Oh, Dios, probablemente sonaba como un bicho raro.¡No importa!" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Yeah__it_s_a_bit____unconventi" value="Sí, es un poco ... poco convencional, pero ... ¡tiempos desesperados!" voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_heard_there_are_some_clothes" value="Escuché que hay algo de ropa que podría funcionar detrás de la barra en las tiendas." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_I_want_to_join_the_Velvet_Vipe" value="Quiero unirme a los Velvet Vipers, pero dijeron que mi atuendo grita 'Turista de Apocalipsis' en lugar de 'sirena chisporroteante'." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+  <Key key="_npc_Hey__so__um__I_ve_got_a____uni" value="Oye, entonces, um, tengo una ... solicitud única." voiceSettingsId="KdIVNMCXYMdyvOuVnXqR" />
+</Node>

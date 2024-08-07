@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_rusty_bowen" type="external">
+  <Key key="_npc_Psst__hey_" value="Psst, hey." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Need_anything_" value="¿Necesito cualquier cosa?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Yo__over_here_" value="Yo, por aquí." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Lookin__to_score_" value="¿Te ves anotar?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Hey__come_closer_" value="Oye, acétrate." voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_You_cool_" value="¿Eres genial?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_Interested_" value="Interested?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+  <Key key="_npc_You_aren_t_from_a_portal__are_" value="No eres de un portal, ¿verdad?" voiceSettingsId="nPJ9stljzbsxQ97vXMi0" />
+</Node>

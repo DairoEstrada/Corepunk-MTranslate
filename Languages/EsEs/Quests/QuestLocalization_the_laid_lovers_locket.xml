@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_laid_lovers_locket" type="external">
+  <Key key="_npc_This_is_gonna_be_hotter_than_w" value="¡Esto va a ser más caliente de lo que pensamos!" voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_You_re_on_board__Great__let_s_" value="Estás a bordo?Genial, hagamos que suceda algo de magia." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_No_way_dude__Just_in_time_" value="¡No hay manera amigo! ¡Justo a tiempo!" voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_Hot_damn__This_necklace_will_m" value="¡Maldito calor!Este collar hará su salto." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_This_is_gonna_be_a_game_change" value="Esto va a cambiar el juego.Gracias una tonelada, amigo." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_Here_s_your_reward__And_if_Nia" value="Aquí está tu recompensa.Y si Nia se enamora de ello, puede esperar un gran agradecimiento." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_goal_collect_resources_ruby" value=" " />
+  <Key key="_goal_collect_resources_jewelry" value=" " />
+  <Key key="_goal_collect_resources_thread" value=" " />
+  <Key key="_varDescription_Collect_Strong_Thread" value="Recoge un hilo fuerte" />
+  <Key key="_varDescription_Collect_Ruby" value="Collect a Ruby" />
+  <Key key="_varDescription_Collect_Jewelry_Wood" value="Recoge una madera de joyería" />
+  <Key key="_npc_Alright__listen_up__I_ve_got_a" value="Muy bien, escucha.Tengo un poco de .. Proyecto de corazón si quieres.Es para NIA." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_Anyway__here_s_the_plan__I_wan" value="De todos modos, aquí está el plan.Quiero hacerle un collar tan glamoroso que incluso las estrellas estarían celosas.Pero no puedo hacerlo solo." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_I_ll_need_you_to_gather_a_radi" value="Necesitaré que recoques un rubí radiante, un poco de madera de joyería e hilo fuerte.Confía en mí, valdrá la pena." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_I_get_laid__you_get_paid__Soun" value="Me pongo, te pagan.¿Suena a plan?" voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_QuestActionAddToJournal_Maxwell_Sterling_Dusktide_Fore" value="Maxwell Sterling&#10;Bosque Dusktide, cerca de la tienda.&#10;&#10;Ayuda a Maxwell a crear un collar para seducir a Nia Sundance.Recoge rubí, madera de joyas e hilo fuerte." />
+  <Key key="_goalVoice_Don_t_forget__I_need_a_Ruby__J" value="No olvides, necesito un rubí, madera de joyas e hilo fuerte.¡Lo tienes!Puede tomarle algunas venas encontrar un rubí, ¡pero no se rinda!Piensa en mis ... necesidades.Seguro que sabes cómo manejar la valiosa madera y las piedras preciosas." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_varDescription_Collect_a_Ruby" value="Collect a Ruby" />
+  <Key key="_varDescription_Collect_a_Jewelry_Wood" value="Recoge una madera de joyería" />
+  <Key key="_varDescription_Collect_a_Strong_Thread" value="Recoge un hilo fuerte" />
+  <Key key="_npc_Not_your_type__Fine__I_ll_find" value="¿No es tu tipo?Bien, encontraré una solución más sexy." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_No_worries__I_ll_figure_someth" value="No se preocupe, me resultaré algo más." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+  <Key key="_npc_Maybe_next_time__Love_s_a_tric" value="Tal vez la próxima vez.El amor es un juego complicado de todos modos." voiceSettingsId="7U8tWF4SMFLBo00MKlAl" />
+</Node>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_specialization_mastery_destroyer" type="external">
+  <Key key="_npc_I_am_Wulbyan_Bloodroar__a_dest" value="Soy Wulbyan Bloodroar, un destructor tan feroz, sombras encogidas a mi paso." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Battle_hungry__you_say__I_pref" value="¿Hambriento de batalla, dices?Prefiero &quot;entusiasta profesionalmente sobre el combate&quot;." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Legends_speak_of_my_strength__" value="Las leyendas hablan de mi fuerza, pero olvidaron mencionar mi exquisita espada pulida." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_My_war_cry_echoes_through_the_" value="Mi guerra de guerra resuena en la tierra haciendo que mis enemigos se estremecieran." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_I_ve_faced_countless_foes_and_" value="Me he enfrentado a innumerables enemigos y los he dejado a todos preguntándome por qué alguna vez lo intentaron." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Brave_enough_to_face_me_in_a_d" value="¿Lo suficientemente valiente como para enfrentarme en un duelo?Intentaré no arruinar ese casco brillante que tienes." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Haven_t_lost_a_duel_yet__guess" value="No ha perdido un duelo todavía, supongo que eso significa que estoy bien." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Hungry_for_combat__as_usual__I" value="Hambriento por el combate, como de costumbre.Es la única dieta que he conocido." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_I_ve_bathed_in_the_blood_of_co" value="Me he bañado en la sangre de innumerables enemigos y, sin embargo, estoy seco en este momento." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_You_could_say_I_m_unchained__r" value="Se podría decir que estoy desencadenante, listo para tallar mi próxima leyenda." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Chasing_after_shinies_and_poli" value="Persiguiendo a los espinillas y puliendo mi espada ... espera, eso salió mal." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Do_you_have_any_more_polish__M" value="¿Tienes más esmalte?Mis hombreras están burladas." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Ah__you_ve_stumbled_upon_Faide" value="Ah, te has topado con el campamento de Faidens, donde el suelo temblaba con los pasos de verdaderos guerreros." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_When_the_sun_rises_over_those_" value="Cuando el sol sale sobre esos árboles, mi armadura brilla lo suficientemente brillante como para cegar el campamento.Es glorioso." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Here__you_either_train_and_bec" value="Aquí, o te conviertes en uno con tu cuchilla, o te pones a trabajar puliendo mis gruesas." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_If_you_re_battle_hungry__prepa" value="Si tienes hambre de batalla, prepárate para llenarse de confianza en sí mismo." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Your_prowess_could_indeed_be_o" value="Su destreza podría ser de servicio." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_A_warrior_of_your_caliber_is_j" value="Un guerrero de tu calibre es justo lo que necesito." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_I_won_t_lie__another_blade_wou" value="No mentiré, otra cuchilla sería bastante útil." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_How_are_you_with_a_rag_and_som" value="¿Cómo estás con un trapo y un poco de esmalte?" voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Your_offer_is_valiant_but_unne" value="Su oferta es valiente pero innecesaria." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Not_this_time__my_friend__Ther" value="No esta vez, mi amigo.Hay un duelo que llama mi nombre." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_A_true_warrior_never_needs_hel" value="Un verdadero guerrero nunca necesita ayuda cuando el aroma de la batalla está en el aire." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Do_you_smell_that_blood_in_the" value="¿Hueles esa sangre en el aire?La batalla ya ha sido ganada." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+</Node>

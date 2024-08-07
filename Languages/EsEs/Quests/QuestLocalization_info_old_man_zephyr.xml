@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_old_man_zephyr" type="external">
+  <Key key="_npc_No_speak_language_" value="¡No hablar idioma!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Krizzle_b_n_draa_" value="Krizzle Bon Draa." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Plarwax_kyrom_vas_" value="PLARWAX KYROM VAS." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_What_" value="¿Qué?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Fyrr_listra_gwenn_" value="Fyrr Listra Gwenn." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Nibaro__Krizz_zub_bo_" value="¡Nibaro!Krizz Zub Bo." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Glintor_sym_bio__kravix_" value="GLINTOR SYM.BIO.Kravix." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Fuck_you_" value="Vete a la mierda." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Zarkna_bleeth_gra_" value="Zarkna Bleeth Gra." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Sphorn_tula_girdle_" value="Sphorn Tula Girdle." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Flissp_narvokt_barr_" value="Flissp Narvokt Barr." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Klatu_verada_rinjk_" value="Klatu Verada Rinjk." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Vizz_zartos_qwek_" value="Vizz Zartos Qwek." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Jibbik_radas_tum_" value="Jibbik Radas Tum." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Blorp_siftra_narkoon_" value="Blorp Siftra Narkoon." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Krizz_drenvak_squom_" value="Krizz Drenvak Squom." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Fuuuuuuuuuuuuuuuuuuuuuck_you_" value="FUUUUUUUUUUUUUUUUUUUUUCK you!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Fuck_you__no_speak_language_" value="Vete a la mierda, no hay lenguaje de hablar." voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_What__What__What_what_" value="¿Qué?¡Qué!¡Que que!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Plorn_zipt_" value="Plorn Zipt!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Vikar_splen_" value="Vikar Splen?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Tog_narz_" value="Tog Narz!" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Fribbles_wib_" value="¿Vadera de vidrios?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Splonk_zagr_" value="Splonk Zagr?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Klink_dap_" value="¿Klink DAP?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+  <Key key="_npc_Bang_dror_" value="Bang Dror?" voiceSettingsId="TyIDXjcBrCPsA5GcroI5" />
+</Node>

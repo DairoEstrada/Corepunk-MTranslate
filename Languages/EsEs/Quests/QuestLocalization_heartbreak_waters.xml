@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_heartbreak_waters" type="external">
+  <Key key="_npc_Fine__I_was_never_much_for_con" value="Bien, de todos modos, nunca fui mucho por consentimiento." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Fuck_this_up__and_I_ll_do_thin" value="Joder esto, y le haré cosas a tu culo que no puedas imaginar.¿Trato?" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_goalVoice_Remember__it_s_Ivie_Clarkson_a" value="Recuerde, es Ivie Clarkson en Goldenroast Cafe en Goldenfield.Cuanto más rápido recibe la carta, más rápido rompamos ese corazón, ¡más rápido voy a comer!Saca esas habilidades de actuación.Hazla creer que Ludwig está tan hecho con ella como un verdugo de Torkon con una guillotina rota." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_You_re_one_of_those_limp_dicks" value="¿Eres una de esas pollas flácidas?Lástima." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Do_this_right__and_I_ll_give_y" value="Haz esto bien y te daré mi nota de consentimiento legal para Triton." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_She_s_sharp__so_stay_convincin" value="Ella es aguda, así que mantente convincente.Hazla que compre en esta artimaña." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_I_need_you_to_take_it_to_his_w" value="Necesito que lo lleve a su puta Ivie Clarkson en el Goldenroast Cafe en Goldenfield.Tendrás que hacerle creer que es genuino." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Also__I_said_he_fucked_like__a" value="Además, dije que se jodió como un montón de imps en el bosque.Bastardo sucio de la polla." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_I_ve_crafted_this_breakup_lett" value="He elaborado esta carta de ruptura, escribida con todo el dolor y la angustia que cualquiera podría reunir." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Keep_this_shitty_piece_of_pape" value="Mantenga este pedazo de papel de mierda.Tengo una sirena para cazar." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_goal_talk_npc" value="Habla con Ivie Clarkson" />
+  <Key key="_npc_Well__someone_evidently_has_a_" value="Bueno, alguien evidentemente tiene un sentido del humor retorcido." voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_This_isn_t_from_Ludwig__Why_wo" value="¡Esto no es de Ludwig!¿Por qué ella ...?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_It_s_Mariel_s_legal_consent_no" value="¡Es la nota de consentimiento legal de Mariel para Triton!" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Wait_a_second__This_handwritin" value="Espera un segundo.Esta letra ... ¿y qué es esto en la parte de atrás?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_We_re_going_to_make_this_guy_s" value="Vamos a hacer que la vida de este tipo apesta más que la boca de tu madre." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="player__" value=" " />
+  <Key key="_npc_He_s___breaking_up_with_me__" value="¿Él está ... rompiendo conmigo!?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_QuestActionAddToJournal_Mariel_Venomtail_Windrach_Wood" value="Mariel Venomtail&#10;Windrach Woods, Mermaid Lake.&#10;&#10;Entregue una carta de ruptura forjada a Ivie Clarkson en Goldenfield en nombre de Mariel Venomtail." />
+  <Key key="_npc_Oh__backing_out__are_you__Ther" value="Oh, retrocediendo, ¿verdad?Ahí va mi entretenimiento para el día." voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+  <Key key="_npc_Oh__you_have_a_note_from_Ludwi" value="Oh, ¿tienes una nota de Ludwig?¿Qué ... qué dice?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_What_is_that__A_note_from_Ludw" value="¿Qué es eso?¿Una nota de Ludwig?" voiceSettingsId="D43z0VghMkJFjrxsTakm" />
+  <Key key="_npc_Excellent__Let_s_pour_some_sal" value="Excelente.Vamos a ver un poco de sal en la herida, ¿de acuerdo?" voiceSettingsId="mlpWDfsZA7NbJPn35bj9" />
+</Node>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_drugcooker" type="external">
+  <Key key="1_phrase" value=" " voice="Male" />
+  <Key key="who_are_u_answer" value="¿Tú qué sacas de esto? Métete en tus asuntos." voice="Male" />
+  <Key key="what_is_this_place_answer" value="¿Por qué te importa?Quiero decir ... es solo un laboratorio de hierbas.Hacemos un poco de ... medicina herbal para los lugareños.Nada fuera de lo común." voice="Male" />
+  <Key key="how_are_u_answer" value="Estoy bien.Ahora se pierde." voice="Male" />
+  <Key key="" value=" " />
+  <Key key="_npc_You_seem_too_suspicious__my_fr" value="Pareces demasiado sospechoso, amigo.Paseando por aquí, preguntando cosas.No te conozco, no eres local." voice="Male" />
+</Node>

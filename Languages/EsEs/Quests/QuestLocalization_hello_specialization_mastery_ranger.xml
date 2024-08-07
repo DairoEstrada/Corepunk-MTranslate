@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_specialization_mastery_ranger" type="external">
+  <Key key="_npc_Cat_got_your_tongue_" value="¿Cat tiene tu lengua?" voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Sneaking_up_on_me_" value="¿Te escabullirme?" voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Surprise__I_m_kidding__I_know_" value="¡Sorpresa!Estoy bromeando, sé que me ves." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Look_what_the_cat_dragged_in_" value="Mira lo que arrastró el gato." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Careful_around_the_quiver__the" value="Cuidado con el carcaj, hay muchas cosas allí." voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Paws_off_the_quiver_" value="¡Patillas fuera del carcaj!" voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+  <Key key="_npc_Well_aren_t_you_a_focal_point_" value="Bueno, ¿no eres un punto focal para los ojos cansados?" voiceSettingsId="AvwUMTQC2nngcB2HHWSG" />
+</Node>

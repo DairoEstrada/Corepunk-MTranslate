@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_windstone_mohawk" type="external">
+  <Key key="_npc_Hey_there__Sit_and_set_a_spell" value="Hola.Siéntate y pon un hechizo." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_You_look_nice__Have_some_wheat" value="Estas guapa.Tener un poco de trigo o lo que sea." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_Do_I_know_you__You_seem_famili" value="¿Te conozco?Pareces familiar." voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+  <Key key="_npc_You_found_me_just_before_I_was" value="Me encontraste justo antes de que fuera a la siesta.¿Quizás volver más tarde?" voiceSettingsId="56jOeF7udO0RRHIW1oMK" />
+</Node>

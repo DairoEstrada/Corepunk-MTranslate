@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_buck" type="external">
+  <Key key="_npc_Uh__hi_there___" value="Uh, hola ..." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Oh__hey___" value="Oh hola..." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Umm__hello___" value="Umm, hola ..." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Don_t_tell_my_parents_" value="No le digas a mis padres." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Uh____I_can_explain_" value="Uh ... puedo explicar." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_This_isn_t_what_it_looks_like_" value="Esto no es lo que parece." voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+  <Key key="_npc_Uh____got_any_carrots_" value="Uh ... ¿tienes zanahorias?" voiceSettingsId="qMMztxNyuKqHZc97Tvxt" />
+</Node>

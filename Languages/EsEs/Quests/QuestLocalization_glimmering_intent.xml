@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_glimmering_intent" type="external">
+  <Key key="_npc_Come_closer____don_t_be_shy__W" value="Acétrate más ... no seas tímido.Hemos visto cosas, cosas oscuras sobre Thistlebrook.¿Curioso?Podemos decirte cómo termina todo." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Hurry_now__you_wouldn_t_want_t" value="Date prisa ahora, no querrás mantener a Ofelia esperando.Las cosas malas suceden cuando la gente espera demasiado ... cosas oscuras." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_goal_collect_amber" value=" " />
+  <Key key="_goal_collect_item_cause_of_death" value="Recoger causa de muerte" />
+  <Key key="_goalVoice_Remember__the_Amber_gleams_whe" value="Recuerde, el ámbar brilla donde las sombras susurran secretos.Encuéntralo antes de que el destino juegue su mano cruel." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Ah__you_actually_returned__I_m" value="Ah, ¿realmente regresaste?Debo decir que no prevé eso." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Ophelia_will_smile__for_now___" value="Ofelia sonreirá, por ahora ... pero las sonrisas pueden esconder tantos secretos." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Thistlebrook_s_truth__It_s_dar" value="¿La verdad de Thistlebrook?Es más oscuro de lo que piensas.¿Estás seguro de que puedes manejarlo?" voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Here_s_your_reward__not_that_i" value="Aquí está su recompensa, no es que mantenga la oscuridad alejada por mucho tiempo." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Take_this_knowledge_and_beware" value="Tome este conocimiento y tenga cuidado.Las predicciones tienen una forma desagradable de convertirse en realidad." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Sweet_Ophelia__my_precious_sis" value="La dulce Ofelia, mi preciosa hermana, ama el ámbar brillante.Ella lo necesita para sus bonitas joyas.Lo busca para nosotros, ¿no?" voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_In_return__we_ll_share_Thistle" value="A cambio, compartiremos la trágica comedia de Thistlebrook.Un giro tan fatídico, te reirás o tal vez llorarás.Tick-Tock, el reloj está marcando ..." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_If_you_choose_to_walk_away__wh" value="Si elige alejarse, ¿quién sabe qué destino le espera?Ofelia podría llorar ríos esta noche." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Bad_things_have_a_way_of_comin" value="Las cosas malas tienen una forma de volver.Al igual que nosotros, siempre mirando." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Leave_now_if_you_wish__but_rem" value="Deje ahora si lo desea, pero recuerde, la oscuridad sigue a los que dudan." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Oh__the_shadows_love_a_missed_" value="Oh, las sombras aman una oportunidad perdida.Ophelia no será la única decepcionada." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_varDescription_Collect_Amber" value="Recolectar ámbar" />
+  <Key key="_QuestActionAddToJournal_Pax_Voss_Riverrise__Bench_behi" value="Pax voss&#10;Riverrise, banco detrás de la alquimia.&#10;&#10;Ayude a Pax Voss a obtener ámbar para las joyas de Ofelia y descubra la misteriosa desaparición de Thistlebrook." />
+</Node>

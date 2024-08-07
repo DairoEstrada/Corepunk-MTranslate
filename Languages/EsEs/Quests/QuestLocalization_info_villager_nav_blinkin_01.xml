@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_villager_nav_blinkin_01" type="external">
+  <Key key="_npc_Haven_t_seen_you_here_before__" value="No te he visto aquí antes.¿Otra salida?" voice="Male" />
+  <Key key="_npc_That_s_what_I_thought__Must_be" value="Es lo que pensaba.Debe ser difícil para su tipo." voice="Male" />
+  <Key key="_npc_Oh____Didn_t_know_our_village_" value="Oh ... no sabía que nuestro pueblo era una atracción turística." voice="Male" />
+  <Key key="_npc_Nah__I_m_good__That__color__re" value="No, estoy bien.Esa lata oxidada, ahí está la que necesita ayuda, por lo que veo.¿Verlo?En el camino, cerca del jardín." voice="Male" />
+</Node>

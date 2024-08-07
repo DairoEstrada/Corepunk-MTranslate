@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_family_recipe_ingredients" type="external">
+  <Key key="_npc_Fantastic__I_can_already_taste" value="¡Fantástico!Ya puedo probar las jugosas y deliciosas aves de corral.Menos diarrea." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Any_luck_finding_those_poultry" value="¿Alguna suerte encontrando esas piernas avícolas todavía?" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Can_t_wait_to_taste_that_roast" value="¡No puedo esperar a probar esa aves de corral asada nuevamente!" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Oh__you_re_the_best__Guess_not" value="¡Oh, eres el mejor!Supongo que no todos los que vienen de ese portal son problemas ..." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_goal_collect_ingredients_salt" value=" " />
+  <Key key="_QuestActionAddToJournal_gMf4" value="Berg Stonefoot&#10;Goldenfield, cerca del campamento del bosque&#10;&#10;Ayuda a Berg Stonefoot a revivir la famosa pierna de aves de corral asada de su abuela.Llevarle sal y 2 piernas avícolas." />
+  <Key key="_goalVoice_Get_Salt__and_Poultry_Legs__Tu" value="Obtenga sal y piernas de aves de corral.Turquía sabe mejor, pero en su mayoría están en el bosque.Sin embargo, es posible que pueda arrebatar un pollo o un ganso de los lugareños si no se dan cuenta." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Get_Salt__and_Poultry_Legs__Tu" value="Obtenga sal y piernas de aves de corral.Turquía sabe mejor, pero en su mayoría están en el bosque.Sin embargo, es posible que pueda arrebatar un pollo o un ganso de los lugareños." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_varDescription_WPMT" value="Sal" />
+  <Key key="_goal_collect_ingredients_leg" value=" " />
+  <Key key="_varDescription_g4PR" value="Pata de aves de corral" />
+  <Key key="_varDescription_UwK8" value="Sal" />
+  <Key key="_varDescription_dzZn" value="Pata de aves de corral" />
+  <Key key="_npc_Of_course__you_re_buying__Righ" value="Por supuesto, estás comprando.¿Bien?" voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Oh__did_you_forget_the_bucket_" value="Oh, ¿olvidaste el cubo?Supongo que tendré que ir a la unidad en su lugar ..." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+  <Key key="_npc_Remember__salt_and_poultry_leg" value="¡Recuerda, sales y piernas aves de corral!La abuela habría tenido la cabeza si olvidaba uno." voiceSettingsId="cjVigY5qzO86Huf0OWal" />
+</Node>

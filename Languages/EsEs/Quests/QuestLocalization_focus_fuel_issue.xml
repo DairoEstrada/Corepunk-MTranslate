@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_focus_fuel_issue" type="external">
+  <Key key="_npc_Don_t_forget__those_Transparen" value="No olvides que esas hojas transparentes no solo estarán por ahí.Tendrás que buscar los árboles raros en los que crecen." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Transparent_Leaves_are_the_key" value="Las hojas transparentes son la clave, el vaquero." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Keep_an_eye_out_for_those_shin" value="Esté atento a esas hojas brillantes." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_Don_t_let_those_leaves_leaf_yo" value="No dejes que esas hojas te hagan." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_You_re_the_best__Thanks_a_heap" value="¡Usted es el mejor!¡Gracias un montón!" voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_varDescription_WeTF" value="Recolectar hojas transparentes" />
+  <Key key="_QuestActionAddToJournal_DQMD" value="Nia Sundance&#10;Goldenfield, cerca de la casa de verano&#10;&#10;Ayude a NIA a mejorar su productividad mediante la recolección de hojas transparentes para su receta articular especial." />
+  <Key key="_goalVoice_ZzuS" value="No olvides que esas hojas transparentes no solo estarán por ahí.Tendrás que buscar los árboles raros en los que crecen." voice="Male" />
+  <Key key="_varDescription_Z2AK" value="Recolectar hojas transparentes" />
+  <Key key="_goal_collect_transparent_leaves" value=" " />
+  <Key key="_npc_You_re_my_hero__Let_s_code_and" value="¡Eres mi heroe!Vamos a codificar y rodar." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+  <Key key="_npc_And_hey___I_ll_roll_you_one_to" value="Y oye, yo también te enrollaré uno.Eres básicamente un experto." voiceSettingsId="DyCRVCnkTbgds4GgD0Jj" />
+</Node>

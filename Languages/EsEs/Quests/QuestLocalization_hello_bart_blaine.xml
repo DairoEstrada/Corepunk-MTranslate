@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_bart_blaine" type="external">
+  <Key key="_npc_Oh__hello_there_" value="¡Oh hola!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Ah__a_customer_" value="Ah, a customer!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Great_deals_here_" value="¡Grandes ofertas aquí!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Just_a_humble_vendor_" value="Solo un humilde vendedor." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Nothing_unusual_here_" value="¡Nada inusual aquí!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Step_right_up_" value="Un paso al frente." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Safe_bargains__I_promise_" value="Ofertas seguras, lo prometo." voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+  <Key key="_npc_Perfectly_normal_wares_" value="¡Guerras perfectamente normales!" voiceSettingsId="YVNYx3t4YOAkRXZEnp7G" />
+</Node>

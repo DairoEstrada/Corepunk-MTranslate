@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dwarf_red_sunglasses" type="external">
+  <Key key="_npc_Seriously__You_don_t_know_who_" value="¿En serio?¿No sabes quién soy?" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_I_m_Goat_the_Bounty_Hunter__Th" value="¡Soy Goat the Bounty Hunter!La leyenda, el maestro, el ícono!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_I_used_to_be_the_star_of_my_ow" value="¡Solía ​​ser la estrella de mi propio reality show, por llorar en voz alta!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Came_through_an_interdimension" value="Pasó a través de un portal interdimensional, persiguiendo recompensas y fama." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Now_I_m_the_top_dog_here_in_Kw" value="Ahora soy el mejor perro aquí en Kwalat, incluso si estos Yokels no aprecian mi genio." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Get_with_the_program__buddy__O" value="Obtenga el programa, amigo.O tal vez cazo tu trasero a continuación." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Just_snagged_a_million_dollar_" value="Solo enganchó una recompensa de un millón de dólares, no es gran cosa." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Been_busy_showing_these_wannab" value="Been busy showing these wannabes how a real bounty hunter operates." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_I_know__I_know__I_m_incredible" value="Lo sé, lo sé, soy increíble.Solo otro día en la vida de la cabra, la cazadora de recompensas." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_You_know_any_TV_producers__Bet" value="¿Conoces a algún productor de televisión?¡Apuesto a que les encantaría filmar esta mierda!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Ha__This_dump__You_re_kidding_" value="¡Ja!Este vertedero?Estás bromeando, ¿verdad?" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_This_is_just_some_backwater_hi" value="Esta es solo una ciudad de Backwater Hick." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Goldenfield_or_something__I_do" value="¿Goldenfield o algo así?Realmente no presto atención." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Place_couldn_t_hold_a_candle_t" value="El lugar no podía sostener una vela a mi ciudad natal, pero lo que sea." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_I_m_only_here__cause__well__th" value="Solo estoy aquí porque, bueno, tienen suerte de tenerme." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_But_hey__they_all_know_Goat__T" value="Pero bueno, todos conocen cabra.¡Eso es lo que realmente importa!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Oh_sure__if_you_think_you_can_" value="Oh sure, if you think you can handle it." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_I_guess_I_could_let_you_tag_al" value="Supongo que podría dejarte acompañar." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Yeah__yeah__you_want_a_piece_o" value="Sí, sí, ¿quieres un pedazo de mi gloria?" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Fine__you_can_help__but_rememb" value="Bien, puedes ayudar, pero recuerda quién es el jefe." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Suppose_even_a_legend_like_me_" value="Supongamos que incluso una leyenda como yo puede arrojarte un hueso." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_If_you_insist__but_don_t_steal" value="Si insiste, pero no me robes." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Sure__why_not_" value="¿Seguro Por qué no?" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_I_ve_got_all_the_skills__but_y" value="Tengo todas las habilidades, pero puedes ver y aprender." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Pff__as_if_I_need_your_help_" value="PFF, como si necesitara su ayuda." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Don_t_flatter_yourself__I_m_do" value="No te halagan, lo estoy haciendo bien." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Seriously__You_think_I_need_as" value="¿En serio?¿Crees que necesito ayuda?" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Get_lost__I_ve_got_contracts_t" value="PEDIR, tengo contratos para firmar." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Don_t_waste_my_time__I_m_busy_" value="No pierdas mi tiempo;Estoy ocupado siendo increíble." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Beat_it__I_ve_got_more_importa" value="Golpearlo, tengo cosas más importantes que hacer." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Unless_you_got_a_TV_deal__scra" value="A menos que obtengas un acuerdo de televisión, Scram." voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+  <Key key="_npc_Think_you_can_outshine_Goat__D" value="¿Crees que puedes eclipsar a la cabra?¡Soñar en!" voiceSettingsId="DFg6xyj4nJ7MaBKYonZa" />
+</Node>

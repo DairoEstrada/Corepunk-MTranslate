@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_retired_military" type="external">
+  <Key key="_npc_What_s_up_" value="¿Qué pasa?" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_Hey_there_" value="Hola." voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_Howdy__Ever_rumble_with_some_D" value="Hola.¿Alguna vez retumbado con algunos deaditas?" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+  <Key key="_npc_Need_something_" value="¿Necesitar algo?" voiceSettingsId="hv8fi28trN9C0xhh0yjp" />
+</Node>

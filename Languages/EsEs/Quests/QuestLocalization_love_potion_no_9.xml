@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_love_potion_no_9" type="external">
+  <Key key="_npc_Good__Now_move_it_" value="Bien.Ahora muévalo." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_goal_collect_fragrant_root" value=" " />
+  <Key key="_varDescription_Collect_Fragrant_Roots" value="Recolectar raíces fragantes" />
+  <Key key="_QuestActionAddToJournal_Spade_Riverrise__Minibar_in_th" value="Pala&#10;Riverrise, minibar en la parte superior.&#10;&#10;Ayude a Spade a reunir el ingrediente clave para crear una poción de amor para su atraco de alto riesgo." />
+  <Key key="_goalVoice_I_need_those_10_Fragrant_Roots" value="Necesito esas 10 raíces fragantes.Apresúrate.El alcalde, er, el hombre, estará aquí pronto." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_I_m_beginning_to_think_I_was_s" value="Estoy empezando a pensar que estaba de pie." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Finally__Give_them_here_" value="Finalmente.Dales aquí." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Here_s_your_cut__Now_I_m_off_t" value="Aquí está tu corte.Ahora me voy a encontrarlo y hacerle pagar." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Money__This_isn_t_about_money_" value="¿Dinero?No se trata de dinero.Se trata de venganza." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Fine__you_really_want_to_help_" value="Bien, ¿realmente quieres ayudar?Necesito una poción de amor para mi cita." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_I_m_missing_one_key_ingredient" value="Me falta un ingrediente clave: raíz fragante.Tráeme 10." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Do_this__and_I_ll_reward_you_h" value="Haz esto y te recompensaré generosamente.Ahora, no interrumpas mi enfoque." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Quit_bothering_me_" value="Deja de molestarme." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Either_help_or_get_lost_" value="O ayuda o se pierde." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_You_re_wasting_my_time_" value="Estás perdiendo el tiempo." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+</Node>

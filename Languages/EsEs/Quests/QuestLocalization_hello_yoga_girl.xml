@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_yoga_girl" type="external">
+  <Key key="_npc_Hi__Are_you_extra_enlightened_" value="¡Hola!¿Estás más iluminado o simplemente feliz de verme?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Namaste__Got_any_weed_" value="Namaste.¿Tienes hierba?" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_Namaste__That_means__Hi___in_S" value="¡Namaste!Eso significa &quot;¡Hola!&quot;en sánscrito!" voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+  <Key key="_npc_I_can_put_one_foot_behind_my_e" value="Puedo poner un pie detrás de mi oído.Por una pequeña tarifa." voiceSettingsId="FDwEP8RtlXc0lDvgf9R8" />
+</Node>

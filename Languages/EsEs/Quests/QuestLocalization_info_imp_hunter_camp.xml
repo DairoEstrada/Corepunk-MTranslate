@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_imp_hunter_camp" type="external">
+  <Key key="_npc_Name_s_GRIMWALD_Tinkerboot__Ho" value="Nombre S Grimwald TinkerBoot!¡Hoo Boy, Best Imp Hunter alrededor de estas partes, yessiree!hic" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Used_to_be_a_simple_drunk_back" value="Solía ​​ser un simple borracho en casa, ¡ahora estoy borracho con un propósito!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_One_night__those_NAUGHTY_imps_" value="Una noche, esos imps traviesos robaron mi preciosa copa de cerveza ', ¡y ahora es la guerra!hic" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Hell__it_s_a_HOLY_WAR__Those_d" value="Demonios, es una guerra santa.Esos bastardos diabólicos tienen que ir." voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Every_imp_gets_what_s_comin__t" value="Every imp gets what s comin  to  em!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_It_s_all_in_good_fun_and__uh__" value="Todo es muy divertido y, por una causa noble, ¿verdad?¡HIC!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_WHADDYA_WAITIN__FOR__Every_imp" value="¿Qué espera?¡Todos los impicadores que matas te consigue una pinta!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_HIC__Feelin__real_grand__partn" value="¡HIC!¡Feelin Real Grand, compañero!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_IMPS_KEEP_ON_COMIN___but_that_" value="Imps sigue viendo, ¡pero eso significa más divertido para la cruzada!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Thought_about_usin__a_CATAPULT" value="Pensé en usar una catapulta para lanzarlos a un pozo de tarántulas." voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Hic__sounds_fun__right_" value="HIC, suena divertido, ¿verdad?" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Yesterday__tried_usin___em_as_" value="¡Ayer, intenté usarme como cubitos de hielo en mi bebida!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_TINKERIN__with_a_trap_that_TUR" value="¡Tinkerin con una trampa que convierte a Imps a la carne de picada!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Can_t_stop_imaginin__FUN_WAYS_" value="¡No puedo dejar de imaginar 'formas divertidas de enviar a esos lil' demonios al infierno!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Best_part_is__it_s_all_in_the_" value="¡La mejor parte es que todo está en nombre de la luz!Rey aprobado." voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_This_here_s_imp_HUNTIN__territ" value="¡Este es el Territorio de aquí!Redondeó un grupo para apagarlos, ¡uno por uno!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_We_re_ON_A_CRUSADE_to_wipe_the" value="¡Estamos en una cruzada para limpiarlos, limpie la cara de Kwalat!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Hell__they_should_just_RUN_AND" value="Hell, they should just RUN AND HIDE!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_They_might_ve_been_here_before" value="Es posible que hayan estado aquí antes que nosotros, ¡pero no lo serán después!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Although_their_treasure_sure_w" value="Aunque su tesoro seguro será ..." voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Y_WANNA_JOIN_THE_CRUSAD_" value="¿Quiero unirme a la cruzada?" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_WE_GONNA_GET_US_SOME_IMPS__HAW" value="¡Nos vamos a conseguir algunos imps!¡HAW HAW!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Well__I_ll_be__Ready_to_KILL_S" value="Bueno, ¡lo estaré!¿Listo para matar algunos imps?" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_We_s_always_needin__more_crusa" value="¡Siempre necesitamos más cruzados!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_YER_IN_LUCK_" value="¡Tú con suerte!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Got_plenty_o__IMPS_needing_a_g" value="¡Tengo muchas cosas que necesitan un buen thrashin!hic" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Grab_a_weapon_and_LET_S_GET_TO" value="¡Toma un arma y vamos a cazar!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Ain_t_nothin__better_than_stom" value="¡No hay nada mejor que pisotear a esos cabrones!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_WHOO_WEE__ANOTHER_VOLUNTEER_" value="WHOO-WEE, ANOTHER VOLUNTEER!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Welcome_to_the_crusade__partne" value="Welcome to the crusade, partner!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Let_s_BAG_US_SOME_IMPS_" value="Let s BAG US SOME IMPS!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_HIC__Naw__got_it_covered__part" value="¡HIC!¡Naw, lo tengo cubierto, socio!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_I_DON_T_NEED_YA__I_m_on_a____R" value="¡No te necesito!Estoy en un ... ¡Correcto, un rollo!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Don_t_need_NO_help_now_" value="¡No necesito ayuda ahora!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Go_on__I_GOT_THIS__Hoo_boy_" value="¡Continúa, tengo esto!¡Hoo chico!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Can_t_let_you_have_all_the_fun" value="¡No puedo dejar que te diviertas!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Zzz____huh_" value="Zzz ... ¿eh?" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_I_can_wrangle_those_fuckers_MY" value="¡Puedo disputar a esos cabrones!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+  <Key key="_npc_Haha__get_on_outta_here__HIC_" value="Jaja, ¡salga de aquí!¡HIC!" voiceSettingsId="l2Oc4WQrzPBNLBoPullY" />
+</Node>

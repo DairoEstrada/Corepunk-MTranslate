@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_hub2_brenn" type="external">
+  <Key key="_npc_Welp___color__red___b_Second_H" value="Welp.Segundo centro es, amigo.Saliste del portal, viniste aquí.Tengo que ser bueno llegar primero.Yo mismo, nací aquí.Kwalatian de sangre pura, ya sabes.Pero no me importa que estés en los que se encuentran." voice="Male" />
+  <Key key="_npc_Yeah__man__shoot_" value="Sí, hombre, dispara." voice="Male" />
+  <Key key="_npc_Yeah__man__You_can_find_here_e" value="Si hombre.Puedes encontrar aquí todo, ya sabes.Quiero comenzar una cuenta bancaria, la tienes.Está en el distrito comercial.Quieres emborracharte - Boom, aquí tienes, un bar completo es para tu servicio." voice="Male" />
+  <Key key="_npc_Too_good_to_be_true__huh__I_kn" value="Demasiado bueno para ser verdad, ¿eh?Lo sé, lo sé, ustedes Outworlders nunca deben haber visto tales lujos.Sí, quiero decir, bien por ti, bien por ti." voice="Male" />
+  <Key key="_npc_Yeah__you_can_also_find_our_lo" value="Sí, también puedes encontrar nuestro documento local en el muelle.¿Consíguelo?Se llama juego de palabras.O algo.De todos modos, el chico puede rematearte muy rápido y barato.¿Qué otra cosa?Quiero decir, hay todo aquí, ya sabes." voice="Male" />
+  <Key key="_npc_Okay__take_care__my_savage_fri" value="Bien, cuídate, mi amigo sábado.Oh, por cierto, también puedes ..." voice="Male" />
+</Node>

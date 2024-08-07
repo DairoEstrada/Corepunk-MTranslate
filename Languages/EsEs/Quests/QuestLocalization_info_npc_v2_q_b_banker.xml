@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_npc_v2_q_b_banker" type="external">
+  <Key key="_npc_" value=" " voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_I_m_the_chairman_of_Bank_of_Le" value="Soy el presidente del Banco de Leithana en Grimstone." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_This_is_Bank_of_Leithana__We_o" value="Este es el banco de Leithana.Ofrecemos lo mejor en conveniencia bancaria, claridad y elección.¡Eres más rico de lo que piensas!" voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Same_old__same_old__and_of_cou" value="Lo mismo de siempre, el mismo viejo y, por supuesto, tan rico como siempre.Hah ja." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_It_s_a_great_honor_for_me_to_p" value="Es un gran honor para mí proteger la paz financiera de nuestros residentes e invitados.Mientras su dinero esté en nuestro banco, puede descansar fácilmente." voice="Male" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+</Node>

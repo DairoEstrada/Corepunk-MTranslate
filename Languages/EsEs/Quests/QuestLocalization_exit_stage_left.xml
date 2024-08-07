@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_exit_stage_left" type="external">
+  <Key key="_npc_You_don_t_know_how_much_this_m" value="No sabes cuánto significa esto para mí.Soko me tiene acorralado." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Please__I_m_begging_you__don_t" value="Por favor, te estoy rogando, no le digas a nadie que fingirá ser Cherry." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_If_you_can_t_help__at_least_ke" value="Si no puede evitar, al menos mantenga mi secreto a salvo.No necesito que Soko se entere." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Listen__if_you_won_t_get_the_p" value="Escucha, si no obtienes los documentos, prométame que no le digas a Soko quién soy realmente." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_can_t_face_her_myself__it_s_" value="No puedo enfrentarla yo mismo;Es demasiado estresante." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_Look__I_need_you_to_grab_my_qu" value="Mira, necesito que tomes mis papeles de dejar de esa mesa cerca del escenario y se los das a Zara Rae." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_ve_reached_my_breaking_point" value="He llegado a mi punto de ruptura.Soko Uno me pagó para fingir ser Cherry y convertirla en el liderazgo oficial, pero no puedo hacerlo.¡Todo esto es demasiado!" voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_I_don_t_even_know_what_happene" value="Ni siquiera sé qué le pasó a Cherry Mobius, pero Soko me consiguió de puntillas en una cuerda floja, y estoy a punto de caer.Necesito un plan de salida." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_goal_collect_item" value=" " />
+  <Key key="_varDescription_Collect_Zazz_s_Quitting_Papers" value="Recoge los papeles de abandono de Zazz" />
+  <Key key="_QuestActionAddToJournal_Zazz_Blorb_Riverrise__Scene___" value="Zazz Blorb&#10;Riverrise, escena.&#10;&#10;Ayude a Zazz Blorb a escapar de su papel impostor entregando sus documentos de dejar a Soko Uno." />
+  <Key key="_goalVoice_Hurry_up__The_papers_are_on_a_" value="¡Apresúrate!Los papeles están en una mesa cerca del escenario." voiceSettingsId="Q7kSABlikYdFDCV4mheN" />
+  <Key key="_npc_What_s_this__Papers_from_Zazz_" value="¿Qué es esto?¿Papeles de Zazz Blorb?" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_goal_talk_npc" value="Devuelve los papeles de dejar Zazz a Soko Uno" />
+  <Key key="_npc_What___Zazz_is_quitting__That_" value="¡¿Qué?!Zazz está renunciando?Ese gusano sin espinas!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_Do_you_even_know_what_this_mea" value="¿Sabes incluso lo que esto significa?Si una persona más se entera, lo juro, ¡lo terminaré!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+  <Key key="_npc_You_brought_this_to_me__so_now" value="Me trajiste esto, así que ahora estás dentro. ¡Me ayudarás a arreglar este desastre, o eres el próximo!" voiceSettingsId="xdooKMLoWryD5vYLfajb" />
+</Node>

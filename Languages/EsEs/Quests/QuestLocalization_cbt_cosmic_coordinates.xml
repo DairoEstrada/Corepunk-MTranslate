@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_cosmic_coordinates" type="external">
+  <Key key="_QuestActionAddToJournal_Vsuq" value="Dr. Orion Bloom&#13;&#10;Goldenfield, carpa cerca de la carretera.&#10;&#10;El Dr. Bloom se separó de su tripulación después de una colisión cósmica y necesita su ayuda para entregarles sus coordenadas." />
+  <Key key="_npc_Any_luck_finding_my_crew_" value="¿Alguna suerte encontrando a mi tripulación?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Remember__if_you_find_an_astro" value="¡Recuerde, si encuentra un astronauta, dales las coordenadas!" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_Thank_you__friend__for_this_gi" value="Gracias, amigo, por este regalo de esperanza.No puedo expresar lo agradecido que estoy." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_goalVoice_Remember__if_you_bump_into_an_" value="Recuerde, si te topas con un astronauta, dales estas coordenadas." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_goal_find_another_astronaut" value="Entregar las coordenadas del Dr. Bloom" />
+  <Key key="_npc_Great__You_re_a_real_lifesaver" value="¡Excelente!Eres un verdadero salvavidas.¿O ... un entregado de vida?" voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_You___you_found_Dr__Bloom__You" value="Usted ... ¿encontraste al Dr. Bloom?¡No tienes idea de cuánto significa eso para mí!" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Just_knowing_he_s_alive__it_s_" value="Solo sabiendo que está vivo, es como ... como encontrar esperanza en medio de este desastre cósmico." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_This_gives_me_the_strength_to_" value="Esto me da la fuerza para seguir buscando a los demás." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Remember__if_you_bump_into_an_" value="Recuerde, si te topas con un astronauta, dales mis coordenadas." voiceSettingsId="IKne3meq5aSn9XLyUdCD" />
+  <Key key="_npc_So__the_creatures_that_chased_" value="Entonces, ¿las criaturas que persiguieron a mi tripulación fueron &quot;imps&quot;?" voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Crazy__I_don_t_know_much_about" value="Loco.No sé mucho sobre su metabolismo, pero su posible exposición interdimensional podría hacerlos bastante peligrosos." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_I_can_make_something_to_counte" value="Puedo hacer algo para contrarrestarlo, pero necesitaré ayuda del resto de la tripulación." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_It_s_time_to_track_them_down__" value="Es hora de rastrearlos.Tengo la sensación de que podrían estar dispersos." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_The_challenge_here_is_not_know" value="El desafío aquí es no saber quién o qué encontraremos: cada pista y toda información ayuda." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+  <Key key="_npc_Now__let_s_see_how_I_can_help_" value="Ahora, veamos cómo puedo ayudarte ..." voiceSettingsId="KNfuFgC7bb3FYrDo04A3" />
+</Node>

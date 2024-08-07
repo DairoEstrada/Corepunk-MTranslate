@@ -1,0 +1,823 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ConstFloats" description="">
+  <Node name="Pcc">
+    <Key key="Name" value="Probabilidad de Crítico Físico" />
+  </Node>
+  <Node name="Pcp">
+    <Key key="Name" value="Multiplicador de Crítico Físico" />
+  </Node>
+  <Node name="Hr">
+    <Key key="Name" value="Celeridad de Habilidad" />
+  </Node>
+  <Node name="Mcc">
+    <Key key="Name" value="Probabilidad de Crítico Mágico" />
+    <Key key="Description" value="Aumenta la probabilidad de causar daño incrementado por habilidad mágica&#xD;&#xA;&lt;b&gt;Probabilidad de golpe crítico: {values}. &lt;/b&gt;." />
+  </Node>
+  <Node name="Mcp">
+    <Key key="Name" value="Multiplicador de Crítico Mágico" />
+  </Node>
+  <Node name="AcK+">
+    <Key key="Name" value="Reducción del Costo de Recursos" />
+    <Key key="Description" value="Reduce el costo de las habilidades" />
+    <Key key="Measure" value="Reducción actual del costo de recursos: &lt;w&gt;{{TVF.AcK+.val}}&lt;/w&gt;" />
+  </Node>
+  <Node name="AcpL">
+    <Key key="Name" value="Costo de Habilidad" />
+  </Node>
+  <Node name="Ar" />
+  <Node name="Agb">
+    <Key key="Name" value="Agresión" />
+  </Node>
+  <Node name="Ag+">
+    <Key key="Name" value="Agresión" />
+  </Node>
+  <Node name="AgK+">
+    <Key key="Name" value="Generación de Agresión" />
+  </Node>
+  <Node name="AGK+">
+    <Key key="Name" value="Agresión" />
+  </Node>
+  <Node name="Armb">
+    <Key key="Name" value="Armadura" />
+  </Node>
+  <Node name="Arm+">
+    <Key key="Name" value="Armadura" />
+  </Node>
+  <Node name="ArmK+">
+    <Key key="Name" value="Armadura" />
+  </Node>
+  <Node name="ArmL">
+    <Key key="Name" value="Armadura" />
+  </Node>
+  <Node name="Apb">
+    <Key key="Name" value="Daño de Arma" />
+  </Node>
+  <Node name="Ap+">
+    <Key key="Name" value="Poder de Ataque" />
+  </Node>
+  <Node name="ApK+">
+    <Key key="Name" value="Poder de Ataque" />
+  </Node>
+  <Node name="ApL">
+    <Key key="Name" value="Poder de Ataque" />
+  </Node>
+  <Node name="Asb">
+    <Key key="Name" value="Velocidad de Ataque" />
+  </Node>
+  <Node name="As+">
+    <Key key="Name" value="Velocidad de Ataque" />
+  </Node>
+  <Node name="AsK+">
+    <Key key="Name" value="Velocidad de Ataque" />
+  </Node>
+  <Node name="AsL">
+    <Key key="Name" value="Velocidad de Ataque" />
+  </Node>
+  <Node name="CS">
+    <Key key="Name" value="Lanzar" />
+  </Node>
+  <Node name="C">
+    <Key key="Name" value="Reducción de Enfriamiento" />
+  </Node>
+  <Node name="CK+">
+    <Key key="Name" value="Reducción de Enfriamiento" />
+    <Key key="Description" value="Reduce el retraso antes de usar habilidades." />
+    <Key key="Measure" value="Reducción actual del enfriamiento: &lt;cdri&gt; &lt;w&gt;{{TVF.CK+.val}}&lt;/w&gt; " />
+  </Node>
+  <Node name="CL">
+    <Key key="Name" value="Reducción de Enfriamiento" />
+  </Node>
+  <Node name="CK">
+    <Key key="Name" value="Coeficiente de Precio" />
+  </Node>
+  <Node name="D">
+    <Key key="Name" value="Retraso" />
+  </Node>
+  <Node name="DX+">
+    <Key key="Name" value="Agilidad" />
+  </Node>
+  <Node name="DXL">
+    <Key key="Name" value="Agilidad" />
+  </Node>
+  <Node name="Dgb">
+    <Key key="Name" value="Esquivar" />
+  </Node>
+  <Node name="Dg+">
+    <Key key="Name" value="Esquivar" />
+  </Node>
+  <Node name="DgK+">
+    <Key key="Name" value="Esquivar" />
+  </Node>
+  <Node name="DgL">
+    <Key key="Name" value="Esquivar" />
+  </Node>
+  <Node name="Dic" />
+  <Node name="Ep">
+    <Key key="Name" value="Energía" />
+    <Key key="Description" value="El recurso principal para usar habilidades." />
+  </Node>
+  <Node name="Epb">
+    <Key key="Name" value="Energía" />
+  </Node>
+  <Node name="Ep+">
+    <Key key="Name" value="Energía" />
+  </Node>
+  <Node name="EpK+">
+    <Key key="Name" value="Energía" />
+  </Node>
+  <Node name="Eprb">
+    <Key key="Name" value="Regeneración de Energía" />
+  </Node>
+  <Node name="Epr+">
+    <Key key="Name" value="Regeneración de Energía" />
+    <Key key="Description" value="Característica que es responsable de la recuperación gradual del maná del héroe." />
+  </Node>
+  <Node name="EprK+">
+    <Key key="Name" value="Regeneración de Energía" />
+    <Key key="Description" value="Característica que es responsable de la recuperación gradual del maná del héroe." />
+  </Node>
+  <Node name="Egb">
+    <Key key="Name" value="Ganancia de Exp" />
+  </Node>
+  <Node name="Eg+">
+    <Key key="Name" value="Ganancia de Exp" />
+  </Node>
+  <Node name="Fap+">
+    <Key key="Name" value="Penetración de Armadura Plana" />
+  </Node>
+  <Node name="Fgm+">
+    <Key key="Name" value="Generación de Furia" />
+  </Node>
+  <Node name="FdK+">
+    <Key key="Name" value="Decremento de Furia" />
+  </Node>
+  <Node name="Fdb">
+    <Key key="Name" value="Decremento de Furia" />
+  </Node>
+  <Node name="EgK+">
+    <Key key="Name" value="Ganancia de Exp" />
+  </Node>
+  <Node name="Er">
+    <Key key="Name" value="Rango de Exp" />
+  </Node>
+  <Node name="Fd+">
+    <Key key="Name" value="Decremento de Furia" />
+  </Node>
+  <Node name="Fgmb">
+    <Key key="Name" value="Generación de Furia" />
+  </Node>
+  <Node name="FgmK+">
+    <Key key="Name" value="Generación de Furia" />
+  </Node>
+  <Node name="Fapb">
+    <Key key="Name" value="Penetración de Armadura" />
+  </Node>
+  <Node name="FapK+">
+    <Key key="Name" value="Penetración de Armadura" />
+  </Node>
+  <Node name="Fpb">
+    <Key key="Name" value="Furia" />
+  </Node>
+  <Node name="FapL">
+    <Key key="Name" value="Penetración de Armadura" />
+  </Node>
+  <Node name="Frpb">
+    <Key key="Name" value="Penetración Mágica" />
+  </Node>
+  <Node name="Frp+">
+    <Key key="Name" value="Penetración Mágica Plana" />
+  </Node>
+  <Node name="FrpK+">
+    <Key key="Name" value="Penetración Mágica" />
+  </Node>
+  <Node name="FrpL">
+    <Key key="Name" value="Penetración Mágica" />
+  </Node>
+  <Node name="Fp">
+    <Key key="Name" value="Furia" />
+    <Key key="Description" value="El recurso principal para usar habilidades." />
+  </Node>
+  <Node name="Fp+">
+    <Key key="Name" value="Furia" />
+  </Node>
+  <Node name="FpK+">
+    <Key key="Name" value="Furia" />
+  </Node>
+  <Node name="Ggb">
+    <Key key="Name" value="Ganancia de Oro" />
+  </Node>
+  <Node name="Gg+">
+    <Key key="Name" value="Ganancia de Oro" />
+  </Node>
+  <Node name="GgK+">
+    <Key key="Name" value="Ganancia de Oro" />
+  </Node>
+  <Node name="Hrb">
+    <Key key="Name" value="Celeridad de Habilidad" />
+  </Node>
+  <Node name="Hr+">
+    <Key key="Name" value="Celeridad de Habilidad" />
+  </Node>
+  <Node name="HrK+">
+    <Key key="Name" value="Celeridad de Habilidad" />
+  </Node>
+  <Node name="HrL">
+    <Key key="Name" value="Celeridad de Habilidad" />
+  </Node>
+  <Node name="Hl">
+    <Key key="Name" value="Curación" />
+  </Node>
+  <Node name="Hkb">
+    <Key key="Name" value="Curación" />
+  </Node>
+  <Node name="Hcb">
+    <Key key="Name" value="Precisión" />
+  </Node>
+  <Node name="Hc+">
+    <Key key="Name" value="Precisión" />
+  </Node>
+  <Node name="Hp">
+    <Key key="Name" value="Salud Actual" />
+  </Node>
+  <Node name="Hpb">
+    <Key key="Name" value="Salud" />
+  </Node>
+  <Node name="Hp+">
+    <Key key="Name" value="Salud" />
+  </Node>
+  <Node name="HpK+">
+    <Key key="Name" value="Salud" />
+  </Node>
+  <Node name="HpL">
+    <Key key="Name" value="Salud Faltante" />
+  </Node>
+  <Node name="Hprb">
+    <Key key="Name" value="Regeneración de Salud" />
+  </Node>
+  <Node name="Hpr+">
+    <Key key="Name" value="Regeneración de Salud" />
+  </Node>
+  <Node name="HprK+">
+    <Key key="Name" value="Regeneración de Salud" />
+  </Node>
+  <Node name="HprL">
+    <Key key="Name" value="Regeneración de Salud" />
+  </Node>
+  <Node name="IhK+">
+    <Key key="Name" value="Curación Entrante" />
+    <Key key="Description" value="Aumenta toda la curación entrante." />
+  </Node>
+  <Node name="Imd+">
+    <Key key="Name" value="Reducción de Daño Mágico" />
+    <Key key="Description" value="Reduce todo el daño mágico entrante." />
+  </Node>
+  <Node name="Ipd+">
+    <Key key="Name" value="Reducción de Daño Físico" />
+    <Key key="Description" value="Reduce todo el daño físico entrante." />
+  </Node>
+  <Node name="IsK+">
+    <Key key="Name" value="Escudos Entrantes" />
+    <Key key="Description" value="Aumenta todos los escudos entrantes." />
+  </Node>
+  <Node name="IN+">
+    <Key key="Name" value="Inteligencia" />
+  </Node>
+  <Node name="INL">
+    <Key key="Name" value="Inteligencia" />
+  </Node>
+  <Node name="Ldor" />
+  <Node name="Amd+">
+    <Key key="Name" value="Incrementar Habilidades Mágicas" />
+  </Node>
+  <Node name="Mccb">
+    <Key key="Name" value="Probabilidad de Crítico Mágico" />
+  </Node>
+  <Node name="Mcc+">
+    <Key key="Name" value="Probabilidad de Crítico Mágico" />
+  </Node>
+  <Node name="MccK+">
+    <Key key="Name" value="Probabilidad de Crítico Mágico" />
+  </Node>
+  <Node name="MccL">
+    <Key key="Name" value="Probabilidad de Crítico Mágico" />
+  </Node>
+  <Node name="Mcpb">
+    <Key key="Name" value="Multiplicador de Crítico Mágico" />
+  </Node>
+  <Node name="Mcp+">
+    <Key key="Name" value="Poder de Crítico Mágico" />
+  </Node>
+  <Node name="McpK+">
+    <Key key="Name" value="Multiplicador de Crítico Mágico" />
+  </Node>
+  <Node name="McpL">
+    <Key key="Name" value="Multiplicador de Crítico Mágico" />
+  </Node>
+  <Node name="Md">
+    <Key key="Name" value="Daño Mágico" />
+  </Node>
+  <Node name="Mkb" />
+  <Node name="Pd">
+    <Key key="Name" value="Daño Físico" />
+  </Node>
+  <Node name="Mkl" />
+  <Node name="Omd+">
+    <Key key="Name" value="Daño Mágico Saliente" />
+    <Key key="Description" value="Aumenta todo el daño mágico saliente." />
+  </Node>
+  <Node name="MdpL" />
+  <Node name="Msb">
+    <Key key="Name" value="Velocidad de Movimiento" />
+  </Node>
+  <Node name="MsK+">
+    <Key key="Name" value="Velocidad de Movimiento" />
+  </Node>
+  <Node name="Mp">
+    <Key key="Name" value="Maná Actual" />
+    <Key key="Description" value="El recurso principal para usar habilidades." />
+  </Node>
+  <Node name="Mpb">
+    <Key key="Name" value="Maná" />
+  </Node>
+  <Node name="Mp+">
+    <Key key="Name" value="Maná" />
+  </Node>
+  <Node name="MpK+">
+    <Key key="Name" value="Maná" />
+  </Node>
+  <Node name="MpL">
+    <Key key="Name" value="Maná" />
+  </Node>
+  <Node name="Mprb">
+    <Key key="Name" value="Regeneración de Maná" />
+    <Key key="Description" value="Característica que es responsable de la recuperación gradual del maná del héroe.&#xD;&#xA;&lt;b&gt;Recuperación actual: {values} | &lt;/b&gt;" />
+  </Node>
+  <Node name="Mpr+">
+    <Key key="Name" value="Regeneración de Maná" />
+    <Key key="Description" value="Característica que es responsable de la recuperación gradual del maná del héroe.&#xD;&#xA;&lt;b&gt;Recuperación actual: {values} | &lt;/b&gt;" />
+  </Node>
+  <Node name="MprK+">
+    <Key key="Name" value="Regeneración de Maná" />
+    <Key key="Description" value="Característica que es responsable de la recuperación gradual del maná del héroe.&#xD;&#xA;&lt;b&gt;Recuperación actual: {values} | &lt;/b&gt;" />
+  </Node>
+  <Node name="MprL">
+    <Key key="Name" value="Regeneración de Maná" />
+    <Key key="Description" value="Característica que es responsable de la recuperación gradual del maná del héroe.&#xD;&#xA;&lt;b&gt;Recuperación actual: {values} | &lt;/b&gt;" />
+  </Node>
+  <Node name="Ohk+">
+    <Key key="Name" value="Curación Saliente" />
+    <Key key="Description" value="Aumenta toda la curación saliente." />
+  </Node>
+  <Node name="Osk+">
+    <Key key="Name" value="Escudos Salientes" />
+    <Key key="Description" value="Aumenta todos los escudos salientes." />
+  </Node>
+  <Node name="Papb">
+    <Key key="Name" value="Penetración de Armadura" />
+  </Node>
+  <Node name="Pap+">
+    <Key key="Name" value="Penetración de Armadura" />
+  </Node>
+  <Node name="PapK+">
+    <Key key="Name" value="Penetración de Armadura" />
+  </Node>
+  <Node name="PapL">
+    <Key key="Name" value="Penetración de Armadura" />
+  </Node>
+  <Node name="Prpb">
+    <Key key="Name" value="Penetración Mágica" />
+  </Node>
+  <Node name="Prp+">
+    <Key key="Name" value="Penetración Mágica" />
+  </Node>
+  <Node name="PrpK+">
+    <Key key="Name" value="Penetración Mágica" />
+  </Node>
+  <Node name="PrpL">
+    <Key key="Name" value="Penetración Mágica" />
+  </Node>
+  <Node name="Apd+">
+    <Key key="Name" value="Incrementar Habilidades Físicas" />
+  </Node>
+  <Node name="Pccb">
+    <Key key="Name" value="Probabilidad de Crítico Físico" />
+  </Node>
+  <Node name="Pcc+">
+    <Key key="Name" value="Probabilidad de Crítico Físico" />
+  </Node>
+  <Node name="PccK+">
+    <Key key="Name" value="Probabilidad de Crítico Físico" />
+  </Node>
+  <Node name="PccL">
+    <Key key="Name" value="Probabilidad de Crítico Físico" />
+  </Node>
+  <Node name="Pcpb">
+    <Key key="Name" value="Multiplicador de Crítico Físico" />
+  </Node>
+  <Node name="Pcp+">
+    <Key key="Name" value="Poder de Crítico Físico" />
+  </Node>
+  <Node name="PcpK+">
+    <Key key="Name" value="Multiplicador de Crítico Físico" />
+  </Node>
+  <Node name="PcpL">
+    <Key key="Name" value="Multiplicador de Crítico Físico" />
+  </Node>
+  <Node name="Prd">
+    <Key key="Name" value="Daño Puro" />
+  </Node>
+  <Node name="R">
+    <Key key="Name" value="Rango de Habilidad" />
+  </Node>
+  <Node name="Rsb">
+    <Key key="Name" value="Resistencia Mágica" />
+  </Node>
+  <Node name="Rs+">
+    <Key key="Name" value="Resistencia Mágica" />
+  </Node>
+  <Node name="RsK+">
+    <Key key="Name" value="Resistencia Mágica" />
+  </Node>
+  <Node name="RsL">
+    <Key key="Name" value="Resistencia Mágica" />
+  </Node>
+  <Node name="Sh">
+    <Key key="Name" value="Escudos" />
+  </Node>
+  <Node name="BS">
+    <Key key="Name" value="Velocidad de Movimiento" />
+    <Key key="Description" value="Aumenta la velocidad a la que corres. Solo una bonificación de un artefacto aumentará tu velocidad de movimiento.&#xD;&#xA;Velocidad de movimiento actual: {values} por segundo" />
+  </Node>
+  <Node name="Spb">
+    <Key key="Name" value="Poder de Hechizo" />
+  </Node>
+  <Node name="SVpb">
+    <Key key="Name" value="Vampirismo de Hechizo" />
+  </Node>
+  <Node name="Sp+">
+    <Key key="Name" value="Poder de Hechizo" />
+  </Node>
+  <Node name="SpK+">
+    <Key key="Name" value="Poder de Hechizo" />
+  </Node>
+  <Node name="SpL">
+    <Key key="Name" value="Poder de Hechizo" />
+  </Node>
+  <Node name="SVp+">
+    <Key key="Name" value="Vampirismo de Hechizo" />
+  </Node>
+  <Node name="SVpK+">
+    <Key key="Name" value="Vampirismo de Hechizo" />
+  </Node>
+  <Node name="SVpL">
+    <Key key="Name" value="Vampirismo de Hechizo" />
+  </Node>
+  <Node name="SP+">
+    <Key key="Name" value="Espíritu" />
+  </Node>
+  <Node name="SPL">
+    <Key key="Name" value="Espíritu" />
+  </Node>
+  <Node name="ST+">
+    <Key key="Name" value="Fuerza" />
+  </Node>
+  <Node name="STL">
+    <Key key="Name" value="Fuerza" />
+  </Node>
+  <Node name="St">
+    <Key key="Name" value="Tiempo de Aturdimiento" />
+  </Node>
+  <Node name="Tnb">
+    <Key key="Name" value="Tenacidad" />
+  </Node>
+  <Node name="Tn+">
+    <Key key="Name" value="Tenacidad" />
+  </Node>
+  <Node name="TnK+">
+    <Key key="Name" value="Tenacidad" />
+  </Node>
+  <Node name="TnL">
+    <Key key="Name" value="Tenacidad" />
+  </Node>
+  <Node name="T" />
+  <Node name="Vpb">
+    <Key key="Name" value="Robo de Vida" />
+  </Node>
+  <Node name="Vp+">
+    <Key key="Name" value="Robo de Vida" />
+  </Node>
+  <Node name="Vp">
+    <Key key="Name" value="Robo de Vida" />
+  </Node>
+  <Node name="VpK+">
+    <Key key="Name" value="Robo de Vida" />
+  </Node>
+  <Node name="VpL">
+    <Key key="Name" value="Robo de Vida" />
+  </Node>
+  <Node name="Vb">
+    <Key key="Name" value="Radio de Visión" />
+  </Node>
+  <Node name="V+">
+    <Key key="Name" value="Radio de Visión" />
+  </Node>
+  <Node name="VK+">
+    <Key key="Name" value="Radio de Visión" />
+  </Node>
+  <Node name="VT+">
+    <Key key="Name" value="Vitalidad" />
+  </Node>
+  <Node name="VTL">
+    <Key key="Name" value="Vitalidad" />
+  </Node>
+  <Node name="wq1v1" />
+  <Node name="Ag">
+    <Key key="Name" value="Generación de Agresión" />
+  </Node>
+  <Node name="SVp">
+    <Key key="Name" value="Vampirismo de Hechizo" />
+  </Node>
+  <Node name="ZD" />
+  <Node name="Gc" />
+  <Node name="Hc">
+    <Key key="Name" value="Precisión" />
+    <Key key="Description" value="Probabilidad de golpear al enemigo con un ataque automático." />
+  </Node>
+  <Node name="Opd+">
+    <Key key="Name" value="Daño Físico Saliente" />
+    <Key key="Description" value="Aumenta todo el daño físico saliente." />
+    <Key key="Measure" value="Daño Físico Saliente Actual: &lt;size=100%&gt;&lt;sprite=&quot;TooltipIcons&quot; name=&quot;tooltip-atlas-2_47&quot; color=#EA9617&gt;&lt;/size&gt; &lt;w&gt;{{TVF.Opd+.val}}&lt;/w&gt;" />
+  </Node>
+  <Node name="DacK" />
+  <Node name="MsK-">
+    <Key key="Name" value="Velocidad de Movimiento" />
+  </Node>
+  <Node name="MMn" />
+  <Node name="MMx" />
+  <Node name="MMs" />
+  <Node name="CHA_S1_W3" />
+  <Node name="CHA_S1_W1" />
+  <Node name="CHA_S1_W2" />
+  <Node name="AV">
+    <Key key="Name" value="Base" />
+  </Node>
+  <Node name="Bt" />
+  <Node name="RK+">
+    <Key key="Name" value="Rango de Habilidad" />
+  </Node>
+  <Node name="RpL">
+    <Key key="Name" value="Rango de Habilidad" />
+  </Node>
+  <Node name="ShpL" />
+  <Node name="SRF2">
+    <Key key="Name" value="cartucho en la cámara" />
+  </Node>
+  <Node name="AVk">
+    <Key key="Name" value="Bonificación" />
+  </Node>
+  <Node name="AVk2">
+    <Key key="Name" value="Bonificación 2" />
+  </Node>
+  <Node name="AVk3">
+    <Key key="Name" value="Bonificación 3" />
+  </Node>
+  <Node name="AV2">
+    <Key key="Name" value="Base 2" />
+  </Node>
+  <Node name="AV3">
+    <Key key="Name" value="Base 3" />
+  </Node>
+  <Node name="AVp">
+    <Key key="Name" value="Base" />
+  </Node>
+  <Node name="ADF" />
+  <Node name="ADF2" />
+  <Node name="AC3" />
+  <Node name="AC4" />
+  <Node name="ACP4" />
+  <Node name="RM">
+    <Key key="Name" value="Rango de Habilidad" />
+  </Node>
+  <Node name="PAT" />
+  <Node name="RRK">
+    <Key key="Name" value="Reducción del Costo de Maná" />
+  </Node>
+  <Node name="Arb+">
+    <Key key="Name" value="Bonificación de Rango de Ataque" />
+  </Node>
+  <Node name="DPS">
+    <Key key="Name" value="Daño por Segundo" />
+  </Node>
+  <Node name="BMAC">
+    <Key key="Name" value="Probabilidad de Bloqueo de Escudo" />
+  </Node>
+  <Node name="BMAP">
+    <Key key="Name" value="Poder de Bloqueo de Escudo" />
+  </Node>
+  <Node name="BAC">
+    <Key key="Name" value="Probabilidad de Bloqueo de Habilidad de Escudo" />
+  </Node>
+  <Node name="BAP">
+    <Key key="Name" value="Poder de Bloqueo de Habilidad de Escudo" />
+  </Node>
+  <Node name="OHE_SYS">
+    <Key key="Name" value="Efecto en Golpe:" />
+  </Node>
+  <Node name="ApbT" />
+  <Node name="DFB" />
+  <Node name="Ec+" />
+  <Node name="Gc+" />
+  <Node name="Ap+_loc">
+    <Key key="Name" value="bonificación de Poder de Ataque" />
+  </Node>
+  <Node name="Hp+_loc">
+    <Key key="Name" value="bonificación de Salud" />
+  </Node>
+  <Node name="Mp+_loc">
+    <Key key="Name" value="bonificación de Maná" />
+  </Node>
+  <Node name="Sp+_loc">
+    <Key key="Name" value="bonificación de Poder de Hechizo" />
+  </Node>
+  <Node name="HLP">
+    <Key key="Name" value="Poder de Curación y Escudo" />
+  </Node>
+  <Node name="SLP">
+    <Key key="Name" value="Poder de Escudo" />
+  </Node>
+  <Node name="FEI">
+    <Key key="Name" value="Eficiencia de Alimento" />
+  </Node>
+  <Node name="HprR">
+    <Key key="Name" value="Regeneración de Salud" />
+  </Node>
+  <Node name="TnR">
+    <Key key="Name" value="Tenacidad" />
+  </Node>
+  <Node name="Cdr" />
+  <Node name="CdrR">
+    <Key key="Name" value="Reducción de Enfriamiento" />
+  </Node>
+  <Node name="PccR">
+    <Key key="Name" value="Probabilidad de Crítico Físico" />
+  </Node>
+  <Node name="MccR">
+    <Key key="Name" value="Probabilidad de Crítico Mágico" />
+  </Node>
+  <Node name="PcpR">
+    <Key key="Name" value="Poder de Crítico Físico" />
+  </Node>
+  <Node name="McpR">
+    <Key key="Name" value="Poder de Crítico Mágico" />
+  </Node>
+  <Node name="MPM_LOC">
+    <Key key="Name" value="Maná Máximo" />
+  </Node>
+  <Node name="HPM_LOC">
+    <Key key="Name" value="Salud Máxima" />
+  </Node>
+  <Node name="HpM_Loc">
+    <Key key="Name" value="Salud Máxima" />
+  </Node>
+  <Node name="MpM_Loc">
+    <Key key="Name" value="Maná Máximo" />
+  </Node>
+  <Node name="MMsr">
+    <Key key="Name" value="Resistencia Mínima al Entorpecimiento" />
+  </Node>
+  <Node name="MXsr">
+    <Key key="Name" value="Resistencia Máxima al Entorpecimiento" />
+  </Node>
+  <Node name="Sr">
+    <Key key="Name" value="Resistencia al Entorpecimiento" />
+    <Key key="Description" value="Disminuye la efectividad de los efectos de entorpecimiento en el personaje." />
+    <Key key="Measure" value="Resistencia al Entorpecimiento Actual: &lt;sri&gt; &lt;w&gt;{{TVF.Sr.val}}&lt;/w&gt;" />
+  </Node>
+  <Node name="HSP">
+    <Key key="Name" value="Poder de Curación y Escudo" />
+  </Node>
+  <Node name="AtR">
+    <Key key="Name" value="Rango de Ataque" />
+  </Node>
+  <Node name="Atr">
+    <Key key="Name" value="Rango de Ataque" />
+    <Key key="Description" value="Rango de Ataque" />
+  </Node>
+  <Node name="InMA+">
+    <Key key="Name" value="Reducción de Daño de Ataque Principal" />
+  </Node>
+  <Node name="Acpc+">
+    <Key key="Name" value="Probabilidad de Proceso de Chip Avanzado" />
+  </Node>
+  <Node name="WUCCM+">
+    <Key key="Name" value="Cargas Máximas de Chip" />
+  </Node>
+  <Node name="CCDR+">
+    <Key key="Name" value="Enfriamiento de Chip" />
+  </Node>
+  <Node name="Pap" />
+  <Node name="ImdF">
+    <Key key="Name" value="Reducción de Daño Mágico" />
+    <Key key="Description" value="Reduce todo el daño mágico entrante." />
+  </Node>
+  <Node name="InMAF">
+    <Key key="Name" value="Reducción de Daño de Ataque Principal" />
+  </Node>
+  <Node name="Bleed+">
+    <Key key="Name" value="Incrementar Daño por Sangrado" />
+  </Node>
+  <Node name="W1Q_Mr">
+    <Key key="Name" value="Reducir Coste de Maná de Golpe de Escudo" />
+  </Node>
+  <Node name="W1Q_Ad">
+    <Key key="Name" value="Daño Adicional de Golpe de Escudo" />
+  </Node>
+  <Node name="W1Q_CDR">
+    <Key key="Name" value="Reducción de Enfriamiento de Golpe de Escudo" />
+  </Node>
+  <Node name="ACP1" />
+  <Node name="BLDC">
+    <Key key="Name" value="Sangrado" />
+  </Node>
+  <Node name="CRPTC">
+    <Key key="Name" value="Corrupción" />
+  </Node>
+  <Node name="PccP">
+    <Key key="Name" value="Puntos de Probabilidad de Crítico Físico" />
+  </Node>
+  <Node name="HprP">
+    <Key key="Name" value="Puntos de Regeneración de Salud" />
+  </Node>
+  <Node name="MprP">
+    <Key key="Name" value="Puntos de Regeneración de Maná" />
+  </Node>
+  <Node name="CrP">
+    <Key key="Name" value="Puntos de Corrupción" />
+  </Node>
+  <Node name="BlP">
+    <Key key="Name" value="Puntos de Sangrado" />
+  </Node>
+  <Node name="MccP">
+    <Key key="Name" value="Puntos de Probabilidad de Crítico Mágico" />
+  </Node>
+  <Node name="PapP">
+    <Key key="Name" value="Puntos de Penetración de Armadura" />
+  </Node>
+  <Node name="PrpP">
+    <Key key="Name" value="Puntos de Penetración Mágica" />
+  </Node>
+  <Node name="TnP">
+    <Key key="Name" value="Puntos de Tenacidad" />
+  </Node>
+  <Node name="PcpP">
+    <Key key="Name" value="Puntos de Poder de Crítico Físico" />
+  </Node>
+  <Node name="McpP">
+    <Key key="Name" value="Puntos de Poder de Crítico Mágico" />
+  </Node>
+  <Node name="HrP">
+    <Key key="Name" value="Puntos de Celeridad" />
+  </Node>
+  <Node name="AcP">
+    <Key key="Name" value="Puntos de Reducción del Costo de Recursos" />
+  </Node>
+  <Node name="SrP">
+    <Key key="Name" value="Puntos de Resistencia al Entorpecimiento" />
+  </Node>
+  <Node name="CP">
+    <Key key="Name" value="Puntos de Reducción de Enfriamiento" />
+  </Node>
+  <Node name="Ap_OH">
+    <Key key="Name" value="Daño de Arma" />
+  </Node>
+  <Node name="GCON">
+    <Key key="Name" value="Control" />
+  </Node>
+  <Node name="GSUS">
+    <Key key="Name" value="Sostenibilidad" />
+  </Node>
+  <Node name="GMD">
+    <Key key="Name" value="Daño Mágico" />
+  </Node>
+  <Node name="GPD">
+    <Key key="Name" value="Daño Físico" />
+  </Node>
+  <Node name="MHrb+">
+    <Key key="Name" value="Regeneración de Salud" />
+  </Node>
+  <Node name="MMrb+">
+    <Key key="Name" value="Regeneración de Maná" />
+  </Node>
+  <Node name="ShA">
+    <Key key="Name" value="Armadura" />
+  </Node>
+  <Node name="Marb" />
+  <Node name="Mar+" />
+  <Node name="MarK+" />
+  <Node name="MMrc">
+    <Key key="Name" value="Regeneración de Maná" />
+  </Node>
+  <Node name="MHrc">
+    <Key key="Name" value="Regeneración de Salud" />
+  </Node>
+</Category>

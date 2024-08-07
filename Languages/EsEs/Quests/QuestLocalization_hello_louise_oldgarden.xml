@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_louise_oldgarden" type="external">
+  <Key key="_npc_Oh__it_s_just_you_" value="Oh, solo eres tú." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Where_s_Fazool_" value="¿Dónde está Fazool?" voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Not_who_I_was_hoping_for___" value="No a quien esperaba ..." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Oh__not_my_dear_Fazool_" value="Oh, no mi querido Fazool." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Another_stranger__ugh_" value="Otro extraño, ugh." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Hmm__you_re_not_Fazool_" value="Hmm, no estás Fazool." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Oh__it_s_you__Sigh_" value="Oh, eres tú.Suspiro." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+  <Key key="_npc_Not_who_I_expected_" value="No a quien esperaba." voiceSettingsId="bw0Rd85mt7BXjZZyIm8d" />
+</Node>

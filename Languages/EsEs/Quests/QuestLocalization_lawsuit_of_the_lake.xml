@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_lawsuit_of_the_lake" type="external">
+  <Key key="_npc_You_miss_out_artifact__Big_los" value="Te pierdes artefacto.Gran pérdida para ti." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_I_start_legal_thing_against_Wi" value="Comienzo algo legal contra Windstone Village.No me dan mi comida favorita.Necesita ayuda de otros monstruos." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Get_complaint_notes_from_other" value="Obtenga notas de queja de otros monstruos.Haga que el pueblo venda bebés por huevos de pescado que anhelan." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Find_Seaonna__Mariel_Venomtail" value="Encuentra Seaonna, Mariel Venomtail, Ol 'Fins, Zorbul, Glimmiwop y Glubgrath.Convencerlos de firmar notas.Ayúdame a ganar la demanda." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_help_me__I_give_artifact_p" value="Me ayudas, le doy una pieza de artefacto.Muy importante, muy poderoso." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goalVoice_Don_t_forget_notes__Seaonna_an" value="¡No olvides las notas!Seaonna y Mariel Venomtail por Mermaid Lake.Las aletas en el lago Windstone, Zorbul y Glimmiwop en la granja lejana, Glubgrath cerca del lago Géminis.Obtenga notas para el gran drama legal de Triton, obtienes artefactos brillantes.¡Trato justo!¡Sin notas, sin artefacto!Triton no de niñera, encuentre los odios para bebés." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_goal_collect_seaonnas_note" value="Recoger la nota de Seaonna" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_venomtails_note" value="Recoger la nota de Venomtail" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_fins_note" value="Recoge la nota de Ol Fin" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_zorbuls_note" value="Recoger la nota de Zorbul" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_glubgraths_note" value="Recoge la nota de Glubgrath" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_collect_glimmiwops_note" value="Recoge la nota del Dr. Glimmiwop" voiceSettingsId="Barkley_Beats" />
+  <Key key="_goal_end_quest" value="Regreso a Triton" voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Triton_find_another__maybe_sma" value="Triton encuentra otro, tal vez más inteligente." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Need_real_babies__Authentic_ta" value="Necesito bebés reales.Sabor auténtico." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_No_quit_now__right_" value="No hay que dejar de fumar ahora, ¿verdad?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Me_give_artifact__me_promise__" value="¡Doy artefacto, prometo!TOOOO CERE." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Here_reward__ugly__Now_just_ne" value="Aquí recompensa, feo.Ahora solo necesito que hagas un último favor." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Haha__you_not_dead_yet__Compla" value="¡Jaja, aún no has muerto!Quejas buenas, pueblo condenado." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_QuestActionAddToJournal_Triton_Windreach_Woods__Lake_h" value="Tritón&#10;Windreach Woods, Lago House.&#10;&#10;Ayuda a Triton a recaudar notas de queja de monstruos del área local como Seaonna, Mariel Venomtail, Ol 'Fins, Zorbul, Dr. Glimmiwop y Glubgrath para su demanda colectiva." voiceSettingsId="Barkley_Beats" />
+  <Key key="_npc_Fine__stay_hungry_like_fish_ou" value="Bien, mantente hambriento como pescado de agua." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Ah__you_still_alive__You_bring" value="¡Ah, todavía estás vivo!¿Traes quejas o simplemente excusas?" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Good_choice__you__Notes_for_la" value="¡Buena elección, tú!Notas para demanda, artefacto para usted.Triton mantén la promesa." voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+</Node>

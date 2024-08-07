@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_gusto_grubhunter" type="external">
+  <Key key="_npc_Got_any_grub_" value="¿Tienes alguna comida?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_I_m_starving_" value="¡Estoy hambriento!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Feed_me__maybe_" value="Alimentarme, tal vez?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_What_s_cookin__" value="¿Qué está Cookin '?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Chow_time__pal_" value="Chow time, pal?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Got_munchies_" value="¿Tienes munchies?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Snacking_yet_" value="¿Señoras todavía?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Gonna_eat_" value="¿Voy a comer?" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+  <Key key="_npc_Hungry_here_" value="¡Hambriento aquí!" voiceSettingsId="aPWb6n8jokdYISPwMtkV" />
+</Node>

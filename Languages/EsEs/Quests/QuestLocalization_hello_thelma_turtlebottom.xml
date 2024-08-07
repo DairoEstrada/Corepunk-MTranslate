@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_thelma_turtlebottom" type="external">
+  <Key key="_npc_H_hi_there_" value="¡Hi allí!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Oh__Pastor_Fazu_uh__hello_" value="¡Oh, pastor Fazu-uh, hola!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Bless_Dagaro_oh__um__hi_" value="Bendice a Dagaro-Oh, um, ¡Hola!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Hi__um__how_are_you_" value="Hola, um, ¿cómo estás?" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Hi_there_" value="Hola." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Oh__um__h_hello_" value="Oh, um, H-Hello." voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Dagaron_be_wi_oh__hi_" value="Dagaron Be Wi-Oh, ¡hola!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+  <Key key="_npc_Blessings_uh__hi_" value="Bendiciones-uh, hola!" voiceSettingsId="09xzjnzyglRyTEBEkmiL" />
+</Node>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_logging_teacher" type="external">
+  <Key key="_npc_Stay_sharp__newbie_" value="¡Mantente afilado, novato!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Fancy_trying_out_the_lumber_li" value="¿Te apetece probar la vida de la madera?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_What_can_Zogar_do_for_ya_" value="¿Qué puede hacer ZOGAR por ti?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Greetings__greenhorn_" value="Saludos, Greenhorn!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Got_wood__No__seriously__Do_yo" value="¿Tienes madera?No en serio.¿Tú?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Howdy__sapling_" value="¡Hola, retoño!" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+  <Key key="_npc_Making_some_roots_" value="¿Haciendo algunas raíces?" voiceSettingsId="iaJGKcd6kvG1l6PloTCs" />
+</Node>

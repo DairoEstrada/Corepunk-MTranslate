@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ConstEffectNames" description="">
+  <Node name="b+" />
+  <Node name="b/" />
+  <Node name="b-" />
+  <Node name="BL_E">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="El héroe pierde 2 de salud por cada Sangrado una vez por segundo." />
+  </Node>
+  <Node name="STN_E">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="El personaje está bajo el efecto de Aturdimiento." />
+  </Node>
+  <Node name="PAR_E">
+    <Key key="Name" value="Incendio" />
+    <Key key="Description" value="El héroe pierde salud cada 1.2 segundos." />
+  </Node>
+  <Node name="b*" />
+  <Node name="bs" />
+  <Node name="DD_E">
+    <Key key="Name" value="Disección profunda" />
+    <Key key="Description" value="El héroe pierde salud cada 1 segundo." />
+  </Node>
+  <Node name="HWL_E">
+    <Key key="Name" value="Locura" />
+    <Key key="Description" value="El Poder de Ataque aumenta un 50%." />
+  </Node>
+  <Node name="WE_E">
+    <Key key="Name" value="Daño enfocado" />
+    <Key key="Description" value="Por cada acumulación, el personaje recibe un 5% más de Daño Físico." />
+  </Node>
+  <Node name="d" />
+  <Node name="EQ_E">
+    <Key key="Name" value="Terremoto" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="HMD_E">
+    <Key key="Name" value="Sacudida incapacitante" />
+    <Key key="Description" value="La velocidad de movimiento se reduce en un 50%." />
+  </Node>
+  <Node name="PO_E">
+    <Key key="Name" value="Envenenamiento" />
+    <Key key="Description" value="El personaje recibe daño periódico por veneno." />
+  </Node>
+  <Node name="DP_E">
+    <Key key="Name" value="Penalización por muerte" />
+    <Key key="Description" value="Salud: -75%&#xD;&#xA;Poder de Ataque: -75%&#xD;&#xA;Poder de Hechizo: -75%." />
+  </Node>
+  <Node name="INV_E">
+    <Key key="Name" value="Invulnerabilidad" />
+    <Key key="Description" value="No se pueden aplicar habilidades negativas al personaje, se ignoran los daños de la zona." />
+  </Node>
+  <Node name="BA_E">
+    <Key key="Name" value="Armadura" />
+    <Key key="Description" value="Aumenta la Armadura en 30." />
+  </Node>
+  <Node name="ID_E">
+    <Key key="Name" value="Protección mejorada" />
+    <Key key="Description" value="Reduce el daño recibido en un 20%." />
+  </Node>
+  <Node name="WW_E">
+    <Key key="Name" value="Aceleración" />
+    <Key key="Description" value="Aumenta la Velocidad de Movimiento en un 30%." />
+  </Node>
+  <Node name="RA_E">
+    <Key key="Name" value="Agilidad" />
+    <Key key="Description" value="Aumenta la Velocidad de Ataque en un 30%." />
+  </Node>
+  <Node name="st3">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="El personaje no puede moverse, atacar, usar habilidades ni objetos." />
+  </Node>
+  <Node name="WS_E">
+    <Key key="Name" value="Grilletes de agua" />
+    <Key key="Description" value="Reduce la Velocidad de Ataque en un 20%." />
+  </Node>
+  <Node name="TC_E">
+    <Key key="Name" value="Entorno tóxico" />
+    <Key key="Description" value="El personaje recibe daño periódico por contaminación ambiental severa." />
+  </Node>
+  <Node name="ASP_E">
+    <Key key="Name" value="Aceleración anormal" />
+    <Key key="Description" value="La velocidad de movimiento aumenta un 30%." />
+  </Node>
+  <Node name="ASL_E">
+    <Key key="Name" value="Reducción anormal" />
+    <Key key="Description" value="La velocidad de movimiento se reduce en un 15%." />
+  </Node>
+  <Node name="AMI_E">
+    <Key key="Name" value="Poder anormal" />
+    <Key key="Description" value="El poder de ataque aumenta un 30%." />
+  </Node>
+  <Node name="AHS_E">
+    <Key key="Name" value="Maestría anormal" />
+    <Key key="Description" value="Aumenta la Velocidad de Ataque en un 30%." />
+  </Node>
+  <Node name="AWS_E">
+    <Key key="Name" value="Fatiga anormal" />
+    <Key key="Description" value="Disminuye la Velocidad de Ataque en un 30%." />
+  </Node>
+  <Node name="ABR_E">
+    <Key key="Name" value="Locura anormal" />
+    <Key key="Description" value="Reduce la Armadura y la Resistencia en un 100%, pero aumenta el Poder de Ataque, el Poder de Hechizo y la Velocidad de Movimiento en un 10%." />
+  </Node>
+  <Node name="IGN_E">
+    <Key key="Name" value="Incendio" />
+    <Key key="Description" value="El personaje recibe daño periódico por Quemadura." />
+  </Node>
+  <Node name="AEM_E">
+    <Key key="Name" value="Inspiración anormal" />
+    <Key key="Description" value="Aumenta el Poder de Hechizo en un 30%." />
+  </Node>
+  <Node name="ARE_E">
+    <Key key="Name" value="Regeneración anormal" />
+    <Key key="Description" value="Aumenta la Regeneración de Salud en 3 puntos." />
+  </Node>
+  <Node name="USL_E">
+    <Key key="Name" value="Reducción de velocidad" />
+    <Key key="Description" value="El personaje se ralentiza un 30%." />
+  </Node>
+  <Node name="RT_E">
+    <Key key="Name" value="Cadena" />
+    <Key key="Description" value="El personaje no puede moverse." />
+  </Node>
+  <Node name="m3v2e">
+    <Key key="Name" value="Triunfo del hechicero" />
+    <Key key="Description" value="{{ModifierAddFloat.ValueName}} {{ModifierAddFloat.Value}}." />
+  </Node>
+  <Node name="w3v1e">
+    <Key key="Name" value="Frenesí" />
+    <Key key="Description" value="{{ModifierAddFloat.ValueName}} {{ModifierAddFloat.Value}}." />
+  </Node>
+  <Node name="w3v3e">
+    <Key key="Name" value="Ligamento mortal" />
+    <Key key="Description" value="{{ModifierAddFloat.ValueName}} {{ModifierAddFloat.Value}}." />
+  </Node>
+  <Node name="as3v1e">
+    <Key key="Name" value="Virtuoso" />
+    <Key key="Description" value="{{ModifierAddFloat.0.ValueName}} {{ModifierAddFloat.0.Value}}&#xD;&#xA;{{ModifierAddFloat.1.ValueName}} {{ModifierAddFloat.1.Value}}." />
+  </Node>
+  <Node name="as3v2e">
+    <Key key="Name" value="Punta de lanza" />
+    <Key key="Description" value="{{Modifiers.0.ValueName}}: +{{Modifiers.0.val}}&#xA;{{Modifiers.1.ValueName}}: +{{Modifiers.1.val}}" />
+  </Node>
+  <Node name="h4v3e">
+    <Key key="Name" value="Efectos secundarios" />
+    <Key key="Description" value="{{ModifierAddFloat.0.ValueName}} {{ModifierAddFloat.0.Value}}&#xD;&#xA;{{ModifierAddFloat.1.ValueName}} {{ModifierAddFloat.1.Value}}." />
+  </Node>
+  <Node name="h3v1e">
+    <Key key="Name" value="Experimentador" />
+    <Key key="Description" value="Restauración de salud: {{ModifierAddFloat.Value}} por segundo." />
+  </Node>
+  <Node name="t3v3e">
+    <Key key="Name" value="Desmoralización" />
+    <Key key="Description" value="{{ModifierAddFloat.0.ValueName}} {{ModifierAddFloat.0.Value}}&#xD;&#xA;{{ModifierAddFloat.1.ValueName}} {{ModifierAddFloat.1.Value}}." />
+  </Node>
+  <Node name="PIB_E">
+    <Key key="Name" value="Golpe perforante" />
+    <Key key="Description" value="Aumenta el daño físico recibido en un 100%." />
+  </Node>
+  <Node name="CFS_E">
+    <Key key="Name" value="Lanzamiento furioso" />
+    <Key key="Description" value="Aturdido." />
+  </Node>
+  <Node name="DIM_E">
+    <Key key="Name" value="Duración reducida de controles" />
+  </Node>
+  <Node name="CER_E">
+    <Key key="Name" value="Frenesí" />
+    <Key key="Description" value="La probabilidad de golpe crítico es del 100%." />
+  </Node>
+  <Node name="FG_E">
+    <Key key="Name" value="Rugido final" />
+    <Key key="Description" value="Aumenta el poder de ataque en un 200%." />
+  </Node>
+  <Node name="WG_E">
+    <Key key="Name" value="Rugido del lobo" />
+    <Key key="Description" value="Aumenta la Velocidad de Ataque en un 20%." />
+  </Node>
+  <Node name="UMS_E">
+    <Key key="Name" value="Velocidad de movimiento" />
+    <Key key="Description" value="Aumenta la Velocidad de Movimiento en un 30%." />
+  </Node>
+  <Node name="CGR_E">
+    <Key key="Name" value="Terreno maldito" />
+    <Key key="Description" value="El personaje se ralentiza un 50%." />
+  </Node>
+  <Node name="BLD_E">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="El héroe pierde 2 de salud por cada Sangrado una vez por segundo." />
+  </Node>
+  <Node name="LIG_E" />
+  <Node name="CFW_E">
+    <Key key="Name" value="Calor de la fogata" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta en {{ModifierAddFloat.0.val}}.&#xA;{{ModifierAddFloat.1.nm}} aumenta en {{ModifierAddFloat.1.val}}." />
+  </Node>
+  <Node name="C2M_E">
+    <Key key="Name" value="Objetivo real - Velocidad de movimiento" />
+  </Node>
+  <Node name="C2T_E">
+    <Key key="Name" value="Aguijón serrado" />
+    <Key key="Description" value="Sangrado. El personaje pierde salud cada segundo. " />
+  </Node>
+  <Node name="C2W_E">
+    <Key key="Name" value="Lluvia de flechas" />
+    <Key key="Description" value="El personaje se ralentiza un 20%." />
+  </Node>
+  <Node name="C2Q_E">
+    <Key key="Name" value="Red atrapante" />
+    <Key key="Description" value="El personaje está inmovilizado." />
+  </Node>
+  <Node name="C1R_E">
+    <Key key="Name" value="Impacto de carga" />
+    <Key key="Description" value="Estás aturdido y temporalmente prohibido de moverte." />
+  </Node>
+  <Node name="C1W_E3">
+    <Key key="Name" value="Torbellino de la muerte" />
+    <Key key="Description" value="Reducción del daño físico aumentada." />
+  </Node>
+  <Node name="C1W_E2">
+    <Key key="Name" value="Torbellino de la muerte" />
+    <Key key="Description" value="Velocidad de movimiento disminuida." />
+  </Node>
+  <Node name="C1W_E1">
+    <Key key="Name" value="Torbellino de la muerte - Armadura" />
+  </Node>
+  <Node name="C1E_E">
+    <Key key="Name" value="Rugido de batalla" />
+    <Key key="Description" value="La salud máxima ha aumentado." />
+  </Node>
+  <Node name="C1E_E1">
+    <Key key="Name" value="Rugido de batalla - Salud máxima" />
+  </Node>
+  <Node name="C1E_E2">
+    <Key key="Name" value="Rugido de batalla" />
+    <Key key="Description" value="Reducción del daño físico disminuida." />
+  </Node>
+  <Node name="M1R_E" />
+  <Node name="C1W_E">
+    <Key key="Name" value="Torbellino de la muerte" />
+    <Key key="Description" value="Tu Armadura disminuyó." />
+  </Node>
+  <Node name="C3Q_E" />
+  <Node name="CLB_E">
+    <Key key="Name" value="Efecto del aerosol: {{ModifierAddFloat.0.nm}} " />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CSB_E">
+    <Key key="Name" value="Efecto de la píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="C2R_E2">
+    <Key key="Name" value="Objetivo real - Velocidad de movimiento" />
+    <Key key="Description" value="La velocidad de movimiento aumenta un 40%." />
+  </Node>
+  <Node name="CS_TEN">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CS_RESPP">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CS_RES">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CS_MS">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CS_PCP">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CS_MCP">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CS_HR">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CS_AS">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}. " />
+  </Node>
+  <Node name="CS_ARMPP">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CS_ARM">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_VIS">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_RESPF">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_PCC">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_MPR">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_RES">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_MCC">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_HPR">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_VIT">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_INT">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_SPI">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_STR">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_DEX">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_CDR">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_ARMPF">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_ARM">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_SP">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CL_AP">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="URD_E">
+    <Key key="Name" value="Universal: Resistencia" />
+    <Key key="Description" value="La resistencia al daño físico y mágico aumenta." />
+  </Node>
+  <Node name="UPDT_E">
+    <Key key="Name" value="Universal: Veneno" />
+    <Key key="Description" value="Estás envenenado y perdiendo salud gradualmente." />
+  </Node>
+  <Node name="UHT_E">
+    <Key key="Name" value="Universal: Curación Natural" />
+    <Key key="Description" value="Tu vida se recupera gradualmente." />
+  </Node>
+  <Node name="ds" />
+  <Node name="O1Q_E">
+    <Key key="Name" value="Golpe de escudo - Marca" />
+    <Key key="Description" value="Estás marcado por el Golpe de escudo." />
+  </Node>
+  <Node name="O1Q_E2">
+    <Key key="Name" value="Golpe de escudo - Reducción de velocidad" />
+    <Key key="Description" value="La velocidad de movimiento se reduce." />
+  </Node>
+  <Node name="O1R_E">
+    <Key key="Name" value="Fanatismo" />
+    <Key key="Description" value="Elimina todos los controles. Aumenta la reducción de daño en un 70%, aumenta la Velocidad de Movimiento y la Tenacidad." />
+  </Node>
+  <Node name="O1R_E2">
+    <Key key="Name" value="Fanatismo avanzado" />
+    <Key key="Description" value="Elimina todos los controles. Aumenta la reducción de daño en un 70%, aumenta la Velocidad de Movimiento y la Tenacidad." />
+  </Node>
+  <Node name="COCD_E">
+    <Key key="Name" value="Consecuencias de la Teletransportación" />
+    <Key key="Description" value="Después de caer del portal, tu regeneración de salud se redujo significativamente. Encuentra una forma de recuperarte." />
+  </Node>
+  <Node name="CTC_E">
+    <Key key="Name" value="Recuperación" />
+    <Key key="Description" value="Tu salud comenzó a normalizarse." />
+  </Node>
+  <Node name="FEAR_E">
+    <Key key="Name" value="Miedo" />
+    <Key key="Description" value="El personaje está bajo el efecto de Miedo." />
+  </Node>
+  <Node name="SLN_E">
+    <Key key="Name" value="Silencio" />
+    <Key key="Description" value="El personaje está bajo el efecto de Silencio." />
+  </Node>
+  <Node name="SLP_E">
+    <Key key="Name" value="Sueño" />
+    <Key key="Description" value="El personaje está bajo el efecto de Sueño." />
+  </Node>
+  <Node name="CHA_E">
+    <Key key="Name" value="Encanto" />
+    <Key key="Description" value="El personaje está bajo el efecto de Encanto." />
+  </Node>
+  <Node name="ROOT_E">
+    <Key key="Name" value="Raíz" />
+    <Key key="Description" value="El personaje está bajo el efecto de Raíz." />
+  </Node>
+  <Node name="TAU_E">
+    <Key key="Name" value="Provocación" />
+    <Key key="Description" value="El personaje está bajo el efecto de Provocación." />
+  </Node>
+  <Node name="DIS_E">
+    <Key key="Name" value="Desarme" />
+    <Key key="Description" value="El personaje está bajo el efecto de Desarme." />
+  </Node>
+  <Node name="BLI_E">
+    <Key key="Name" value="Ceguera" />
+    <Key key="Description" value="El personaje está bajo el efecto de Ceguera." />
+  </Node>
+  <Node name="C2R_E">
+    <Key key="Name" value="Mirada funesta" />
+    <Key key="Description" value="La Armadura se reduce en un 20%." />
+  </Node>
+  <Node name="CS_SP">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}.&#xA;" />
+  </Node>
+  <Node name="CS_AP">
+    <Key key="Name" value="Píldora: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="SOBU_E">
+    <Key key="Name" value="Inspiración" />
+    <Key key="Description" value="Todo el daño recibido se reduce en un 50%.&#xD;&#xA;El Poder de Ataque aumenta un 50%." />
+  </Node>
+  <Node name="SOI_E">
+    <Key key="Name" value="Última esperanza" />
+    <Key key="Description" value="El Poder de Ataque aumenta en 20.&#xD;&#xA;La Velocidad de Ataque aumenta en un 30%.&#xD;&#xA;La Calificación de Prisa aumenta en un 50%." />
+  </Node>
+  <Node name="SHH_E">
+    <Key key="Name" value="Bendición del Bosque" />
+    <Key key="Description" value="{{ModifierAddFloat.1.nm}} aumenta en {{ModifierAddFloat.1.val}}.&#xA;{{ModifierAddFloat.0.nm}} aumenta en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="C3E_E" />
+  <Node name="BEPSD_E">
+    <Key key="Name" value="Debilidad del escarabajo" />
+    <Key key="Description" value="La resistencia disminuye en 10." />
+  </Node>
+  <Node name="BEPSDT_E">
+    <Key key="Name" value="Toxina del escarabajo" />
+    <Key key="Description" value="Estás envenenado y perdiendo salud." />
+  </Node>
+  <Node name="BLEED_E">
+    <Key key="Name" value="Sangrado" />
+    <Key key="Description" value="Estás perdiendo salud debido al sangrado." />
+  </Node>
+  <Node name="STUN_E">
+    <Key key="Name" value="Aturdimiento" />
+    <Key key="Description" value="Estás aturdido y no puedes moverte." />
+  </Node>
+  <Node name="CFW2_E">
+    <Key key="Name" value="Calor de la fogata" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumentó en {{ModifierAddFloat.0.val}}.&#xA;{{ModifierAddFloat.1.nm}} aumentó en {{ModifierAddFloat.1.val}}." />
+  </Node>
+  <Node name="CFW3_E">
+    <Key key="Name" value="Calor de la fogata" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumentó en {{ModifierAddFloat.0.val}}.&#xA;{{ModifierAddFloat.1.nm}} aumentó en {{ModifierAddFloat.1.val}}." />
+  </Node>
+  <Node name="CAM_E">
+    <Key key="Name" value="Calor de la fogata" />
+    <Key key="Description" value="La regeneración aumentó." />
+  </Node>
+  <Node name="CL_E">
+    <Key key="Name" value="Aerosol: {{ModifierAddFloat.0.nm}}" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="p3v1e">
+    <Key key="Name" value="Efecto p3v1" />
+    <Key key="Description" value="Descripción del efecto p3v1" />
+  </Node>
+  <Node name="ar5v1e">
+    <Key key="Name" value="Carta abatida" />
+    <Key key="Description" value="{{ModifierAddFloat.nm}} disminuye en {{ModifierAddFloat.val}}." />
+  </Node>
+  <Node name="w5v2ae">
+    <Key key="Name" value="Rabia de batalla" />
+    <Key key="Description" value="Cuando la rabia de batalla alcanza el nivel 3, la siguiente habilidad mejorará en un 10%" />
+  </Node>
+  <Node name="ar6v1">
+    <Key key="Name" value="As bajo la manga" />
+    <Key key="Description" value="El daño físico saliente aumenta en un 15%" />
+  </Node>
+  <Node name="w5v2be">
+    <Key key="Name" value="Rabia de batalla - Máximo" />
+    <Key key="Description" value="La próxima habilidad causará un 10% más de daño" />
+  </Node>
+  <Node name="ARHS_E">
+    <Key key="Name" value="Perforación de armadura" />
+    <Key key="Description" value="La armadura se reduce en un 50%." />
+  </Node>
+  <Node name="GNP_E">
+    <Key key="Name" value="Veneno mortal" />
+    <Key key="Description" value="Estás envenenado y perdiendo salud." />
+  </Node>
+  <Node name="ar5v2">
+    <Key key="Name" value="Interrupción en la pelea" />
+    <Key key="Description" value="La velocidad de movimiento aumenta en un 10%." />
+  </Node>
+  <Node name="ar5v2e">
+    <Key key="Name" value="Interrupción en la pelea" />
+    <Key key="Description" value="La velocidad de movimiento aumenta en un 10%." />
+  </Node>
+  <Node name="ar6v1e">
+    <Key key="Name" value="As bajo la manga" />
+    <Key key="Description" value="El daño físico saliente aumenta en un 15%" />
+  </Node>
+  <Node name="as5v3e">
+    <Key key="Name" value="Viento asesino" />
+    <Key key="Description" value="El último golpe al objetivo aplica el efecto que aumenta la Velocidad de Movimiento." />
+  </Node>
+  <Node name="GAD_E">
+    <Key key="Name" value="Romper armadura" />
+    <Key key="Description" value="Disminuye {{ModifierAddFloat.nm}} en {{ModifierAddFloat.val}} por golpe." />
+  </Node>
+  <Node name="CheH_E">
+    <Key key="Name" value="Regeneración adicional" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="CeH_E" />
+  <Node name="CH_E" />
+  <Node name="CHH_E" />
+  <Node name="CHEH_E">
+    <Key key="Name" value="Regeneración adicional" />
+    <Key key="Description" value="{{ModifierAddFloat.0.nm}} aumenta temporalmente en {{ModifierAddFloat.0.val}}." />
+  </Node>
+  <Node name="SCP_E" />
+  <Node name="SCD_E">
+    <Key key="Name" value="Fortificación de escorpión" />
+    <Key key="Description" value="La armadura y la resistencia aumentan. Inmune al control." />
+  </Node>
+  <Node name="SCA_E">
+    <Key key="Name" value="Hinchazón" />
+    <Key key="Description" value="La velocidad de movimiento y la velocidad de ataque disminuyen." />
+  </Node>
+  <Node name="ELR_E">
+    <Key key="Name" value="Ira del alce" />
+    <Key key="Description" value="El Poder de Ataque, la Tenacidad, la Reducción de Daño Físico y la Reducción de Daño Mágico aumentan en un 10% por acumulación de Ira del Alce." />
+  </Node>
+  <Node name="TAUNT_E">
+    <Key key="Name" value="Provocación" />
+    <Key key="Description" value="Estás provocado y no puedes controlar tu personaje." />
+  </Node>
+  <Node name="BOCS_E">
+    <Key key="Name" value="Golpe cortante" />
+    <Key key="Description" value="Estás perdiendo salud debido al sangrado." />
+  </Node>
+  <Node name="ALCS_E" />
+  <Node name="SLOW_E">
+    <Key key="Name" value="Lentitud" />
+    <Key key="Description" value="Tu velocidad de movimiento se reduce." />
+  </Node>
+  <Node name="FLE_E">
+    <Key key="Name" value="Ira de la flor" />
+    <Key key="Description" value="El Poder de Ataque aumenta en un 100%. La Velocidad de Ataque aumenta en un 50%." />
+  </Node>
+  <Node name="FLW_E">
+    <Key key="Name" value="Marchitamiento de la flor" />
+    <Key key="Description" value="La Regeneración de Salud disminuye en un 100%." />
+  </Node>
+  <Node name="GHD_E">
+    <Key key="Name" value="Decadencia" />
+    <Key key="Description" value="El Poder de Ataque disminuye en un 5% por acumulación." />
+  </Node>
+  <Node name="LER_E" />
+  <Node name="SILEN_E" />
+  <Node name="PTRF_E">
+    <Key key="Name" value="Petrificar" />
+    <Key key="Description" value="Estás aturdido y no puedes moverte. Pero eres invulnerable." />
+  </Node>
+  <Node name="DISARM_E" />
+  <Node name="CHARM_E" />
+  <Node name="WDLD_E">
+    <Key key="Name" value="Poder robado" />
+    <Key key="Description" value="Cada acumulación aumenta el Daño Físico en un 5%." />
+  </Node>
+  <Node name="WDMD_E">
+    <Key key="Name" value="Energía robada" />
+    <Key key="Description" value="Cada acumulación aumenta el Daño Mágico en un 5%." />
+  </Node>
+  <Node name="FUAA_E">
+    <Key key="Name" value="Debilidad mágica del hongo" />
+    <Key key="Description" value="Cada acumulación reduce la Resistencia al Daño Mágico en un 10%" />
+  </Node>
+  <Node name="FUAF_E">
+    <Key key="Name" value="Toxina del hongo" />
+    <Key key="Description" value="El personaje recibe daño periódico por veneno por acumulación. En la quinta, el personaje será aturdido." />
+  </Node>
+</Category>

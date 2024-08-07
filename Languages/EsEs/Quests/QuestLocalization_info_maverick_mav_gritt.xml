@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_maverick_mav_gritt" type="external">
+  <Key key="_npc_Got_my_damn_truck_stolen__that" value="Me robaron mi maldito camión, ese es lo que soy." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Call_the_fuckin__Police_bot_or" value="Llame al maldito bot de la policía o mueve el hijo de su hijo." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_What_kind_a__person_just_stand" value="¿Qué tipo de persona se encuentra allí haciendo preguntas mientras un crimen está en progreso?" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_That_dang_Rusty_McDrinkit_done" value="¡Ese Dang Rusty McDrinkit hecho tomó mi camioneta y todo mi bebida!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_got_the_Quaddari_Mafia_breat" value="¡Obtuve la mafia Quaddari al respirar por el cuello por este lío!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_If_I_don_t_get_that_truck_back" value="Si no recupero ese camión, ¡también podría cavar mi propia tumba!" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Whoever_made_that_fuckin__robo" value="Quien haya hecho ese jodido robot tendrá un infierno que pagar." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_This_here__Just_a_random_fucki" value="¿Esto aqui?Solo una calle aleatoria en Riverrise." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_You_think_I_look_like_a_guy_wh" value="¿Crees que me veo como un chico que da instrucciones?" voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_m_not_your_damn_tour_guide_" value="No soy tu maldito guía turístico." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Now_unless_you_re_here_to_help" value="Ahora, a menos que estés aquí para ayudar, sigue adelante." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Naw__reckon_you_wouldn_t_be_mu" value="No, cree que no serías de mucha ayuda." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Don_t_think_you_could_handle_i" value="No creas que puedas manejarlo, socio." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_got_this__no_offense_" value="Tengo esto, sin ofender." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Thanks__but_I_doubt_you_could_" value="Gracias, pero dudo que puedas seguir el ritmo." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_I_m_good__you_probably_ain_t_c" value="Estoy bien;Probablemente hayas cortado para este desastre." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_You_betcha_I_do__We_gotta_stop" value="¡Betcha, lo hago!Tenemos que detener ese bucket de óxido y el tipo que lo construyó." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Sure_as_shootin___Let_s_hunt_d" value="¡Seguro como Shootin!Cazemos esa lata y enseñemos una lección a su fabricante." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Damn_straight__I_need_help__Ti" value="¡Maldita sea, necesito ayuda!Es hora de ponerse incluso con quien esté detrás de ese robot." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_You_know_it__It_s_payback_time" value="¡Tú lo sabes!Es tiempo de recuperación para ese artilugio de secuencia no bueno." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+  <Key key="_npc_Darn_tootin___We_need_to_wrang" value="¡Maldita sea, Tootin '!Necesitamos disputar ese bot y su creador." voiceSettingsId="vuWLJYKCN3bZILPZj8ti" />
+</Node>

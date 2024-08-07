@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_pax_voss" type="external">
+  <Key key="_npc_You_re_going_to_trip_and_spill" value="Vas a tropezar y derramar tu bebida." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_If_you_avoid_that__you_ll_brea" value="Si evitas eso, romperás tu taza favorita." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Leave_now__and_you_ll_lose_you" value="Vete ahora y perderás tu bolso de monedas." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Stay__and_you_ll_miss_an_impor" value="Quédate y te perderás un mensaje importante." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Decisions__decision__So_many_d" value="Decisiones, decisión.Tantas maneras diferentes para que las cosas salgan mal." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_I_see_things____things_that_wi" value="Veo cosas ... cosas que sucederán." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_The_future_is_always_shifting_" value="El futuro siempre está cambiando, siempre cambiando." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_If_you_could_change_our_future" value="Si pudieras cambiar nuestro futuro ... tal vez las cosas funcionarán bien por una vez." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_This_place_is_strange____alway" value="Este lugar es extraño ... siempre cambiando." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Sometimes_it_s_safe__sometimes" value="Sometimes it's safe, sometimes... not so much." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_The_fields_whisper_secrets__th" value="Los campos susurran secretos, los cuartos esconden sueños." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_It_s_like_a_puzzle__shifting_a" value="Es como un rompecabezas, cambiando y girando, con muchos destinos entrelazados." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Sometimes__you_need_to_help_yo" value="A veces, debes ayudarte primero." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Not_now____maybe_you_should_fo" value="No ahora ... tal vez deberías concentrarte en tus propios problemas." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_We_can_t_always_rely_on_others" value="No siempre podemos confiar en los demás ... a veces, debemos enfrentar las cosas solos." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Help_yourself_first____then_ma" value="Ayúdate primero ... entonces tal vez podamos hablar." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Oh_yes____we_do_" value="Oh yes... we do." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Follow_me__I_ll_show_you_" value="Sígueme, te mostraré." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Yes__come_this_way_" value="Sí, ven de esta manera." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+  <Key key="_npc_Yes____destiny_awaits_" value="Sí ... El destino espera." voiceSettingsId="nrFFX9d3cjnsUIHUKZlk" />
+</Node>

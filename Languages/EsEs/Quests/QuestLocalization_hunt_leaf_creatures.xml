@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hunt_leaf_creatures" type="external">
+  <Key key="_npc_Good_choice__Let_s_get_hunting" value="¡Buena elección!Vamos a cazar." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Remember___10_Leaf_creatures__" value="Recuerde: 10 criaturas de hojas, directamente de los bosques de buceo." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_How_s_the_hunt_going_" value="¿Cómo va la caza?" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Ah__you_ve_done_it__Excellent_" value="¡Ah, lo has hecho!Excelente trabajo." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_So__truth_is__only_certain_arm" value="Entonces, la verdad es que solo ciertas armaduras pueden evitar que esos imps quemen sus cajones." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Ain_t_going_to_give_you_mine__" value="No te voy a dar el mío, pero necesitas un casco con un poco de calificación de fuego." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Saw_Oswald_putting_some_gear_l" value="Vi a Oswald poniendo algo de equipo así en la bóveda.De hecho, robé algo de eso." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_npc_Maybe_you_can_convince_him_to_" value="Tal vez puedas convencerlo de que te dé algo." voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+  <Key key="_goal_kill_mobs" value=" " voiceSettingsId="Barkley_Beats" />
+  <Key key="_varDescription_Kill_Leaf_Creatures" value="Matar criaturas de hoja" voiceSettingsId="Barkley_Beats" />
+  <Key key="_QuestActionAddToJournal_5eSc" value="Butch o'hara&#10;Goldenfield, cerca de Pig Farm&#10;&#10;Butch dice que busca criaturas de hoja en Windreach Woods." voiceSettingsId="Barkley_Beats" />
+  <Key key="_goalVoice_Remember__it_s_the_Leaf_creatu" value="Recuerde, son las criaturas de la hoja en Windreach Woods que buscamos.¡No se cazarán a sí mismos!" voiceSettingsId="R8Rs5Ygoy3cHjTw4B5WC" />
+</Node>

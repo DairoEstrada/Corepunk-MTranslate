@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_test_drive" type="external">
+  <Key key="_npc_One_last_thing__Would_you_be_s" value="Ahora debes pasar por nuestro entrenamiento de defensa militar estándar.Cada recién llegado tiene que pagar su deuda con su nueva patria.Entra en el exoesqueleto.Tendrás más instrucciones más adelante." voice="Male" />
+  <Key key="_goal_goto_place" value="Mata algunos jabalíes" />
+  <Key key="_goal_go_to_caela" value="Habla con el duende" />
+  <Key key="player_I_lost_my_robot" value="Perdí mi robot" />
+  <Key key="_npc_I_need_you_to_check_the_defenc" value="Entra en el exoesqueleto.Vaya al antiguo campo, al noreste desde aquí, y pruebe en los jabalíes.Vuelve a mí, cuando hayas terminado." voice="Male" />
+  <Key key="_npc_helow" value="Muy bien, soldado!Tu deber militar está completo.Ahora te promuevo en rango.Volver al civil.Esto significa que no tendrá ninguna pensión y otros beneficios militares, pero tendrá que defender nuestras tierras en un caso de invasión." voice="Male" />
+  <Key key="_varDescription_LtZA" value="Cerdos a la parrilla" />
+  <Key key="_QuestActionAddToJournal_ORDn" value="Estoy dentro. Se siente genial.Ahora todo lo que necesito es matar.Algunos jabalíes, preferiblemente.Se pueden encontrar en el campo al norte desde la casa del duende." />
+  <Key key="_npc_Great__Just_get_into_it_and_go" value="Sí, eso sería bueno.Necesita esta lata para proteger el portal, eh.Quiero decir, alguien tiene que probarlo, ¿verdad?" voice="Male" />
+  <Key key="_npc_Oh__don_t_worry__it_s_absolute" value="Oh, no te preocupes, ¡es absolutamente seguro!¡No he tenido ningún accidente desde la semana pasada!¡Todos los Outworlder deben pagar su deuda!¡Su deuda con su patria!No soy yo quien inventó las reglas." voice="Male" />
+  <Key key="_npc_" value="Realmente, solo confía en mí.Quiero decir, incluso si el robot te parece, siempre puedo arreglarte, como si solucioné mi robot.¡Nada de que preocuparse!" voice="Male" />
+  <Key key="_assistant_phrase_NDVq" value="¡Espera espera!Necesito tomar mis palomitas de maíz.Está bien, estoy listo.¡Comienza el espectáculo!" voice="Male" />
+  <Key key="_npc__" value="¿Ya has probado el robot?" voice="Male" />
+  <Key key="_npc_You_can_use_this_one__standing" value="Puedes usar este, de pie a mi lado." voice="Male" />
+  <Key key="_goal_goto_exo" value="Entra en el exoesqueleto y prueba" />
+  <Key key="_QuestActionAddToJournal_Vqrv" value="El ingeniero quiere que pruebe el exoesqueleto.Espero que sea seguro." />
+  <Key key="_goalVoice_9PrM" value="Alguien tiene que probar el robot.Simplemente entra en él y ve a probarlo en el campo, al norte desde mi casa." voice="Male" />
+  <Key key="_assistant_phrase_9fuK" value="¿Ver?Te ves genial en él, eh.Ve al campo, al norte desde aquí.Y asa algunos jabalíes allí con el lanzacohetes.Por lo general, los usamos como objetivos de práctica." voice="Male" />
+</Node>

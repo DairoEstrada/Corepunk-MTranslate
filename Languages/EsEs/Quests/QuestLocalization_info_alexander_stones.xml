@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_alexander_stones" type="external">
+  <Key key="_npc_I_go_by_Alex_Stones__a_truth_s" value="Voy por Alex Stones, un buscador de la verdad y minero de la locura." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_The_shadows_told_me_I_m_the_ch" value="¡Las sombras me dijeron que soy el elegido para presentar los secretos más oscuros de Kwalat!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_They_say_I_m_crazy__but_the_cr" value="Dicen que estoy loco, pero las criaturas de las que hablo son tan reales como esta roca." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_think_there_are_no_sky_ser" value="¿Crees que no hay serpientes o duendes de luna?¡Piensa otra vez!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Remember_the_tale_of_the_ancie" value="¿Recuerdas la historia del antiguo escarabajo de sangre?Oh, he visto su cáscara, marca mis palabras." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_The_truth_is_out_there__buried" value="La verdad está ahí afuera, enterrada debajo de la piedra, y soy el único que es lo suficientemente valiente o loco como para cavarlo." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Bah__frustrated__that_s_how__T" value="Bah, frustrado, así es como!Esos idiotas de piedra de viento me llamaron mentiroso nuevamente." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_They_say_my_tales_are_just_tha" value="Dicen que mis cuentos son solo esos cuentos.Buncha Asshats!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Can_t_stand_their_ignorance__T" value="¿No puede soportar su ignorancia?La verdad es justo debajo de sus pies, y simplemente se ríen." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_I_swear__if_they_call_me_crazy" value="Lo juro, si me llaman loco una vez más, desenterraré un gusano espacial sangriento y lo meteré en sus caras." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Damn_them__They_ll_see__one_da" value="¡Maldita sea!Verán, algún día.Verán lo que está al acecho aquí." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_This_ain_t_just_any_quarry__it" value="Esto no es una cantera, es el maldito corazón de los antiguos secretos de Kwalat." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_These_rocks__They_re_hiding_so" value="Estas rocas?Están escondiendo algo vivo, algo antiguo y hambriento." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_I_ve_seen_the_signs__the_symbo" value="He visto los signos, los símbolos.Este lugar está maldito, te digo!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_There_s_a_beast_slumbering_ben" value="Hay una bestia dormida debajo, un antiguo horror que solo espera despertarse." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Stay_too_long__and_you_ll_hear" value="Quédate demasiado tiempo y también lo escuchará los susurros, los gemidos de algo monstruoso." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Hell_yeah__This_place_is_brimm" value="¡Demonios si!Este lugar está lleno de secretos." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Damn_right_I_need_help__You_in" value="¡Maldita sea, necesito ayuda!¿Estás por descubrir la verdad?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Yep__Time_to_prove_these_fools" value="¡Sí!Es hora de demostrar que estos tontos están mal." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Absolutely__Let_s_blow_these_c" value="¡Absolutamente!¡Vamos a volar estos negadores de conspiración!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Let_s_to_dig_up_some_madness_" value="Vamos a desenterrar algo de locura." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_bet_your_ass__Join_me_in_e" value="¡Apuestas tu trasero!¡Únete a mí para exponer las mentiras!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Yes__Let_s_shove_the_truth_in_" value="¡Sí!Dejamos que s empuje la verdad en sus rostros." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Nah__they_re_watching_us__Can_" value="No, nos están mirando.¿No puede arriesgarse?" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_No__no__The_walls_have_ears__s" value="¡No no!Las paredes tienen orejas, shh!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Not_today__the_shadows_are_lis" value="¡No hoy, las sombras están escuchando!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Too_risky__They_re_onto_us__I_" value="Demasiado arriesgado.Ellos están sobre nosotros, puedo sentirlo." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_No__damn_it__They_ll_find_us_i" value="¡No, maldita sea!¡Nos encontrarán si hablamos demasiado!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>

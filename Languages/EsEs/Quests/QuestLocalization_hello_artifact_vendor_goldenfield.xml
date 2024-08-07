@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_artifact_vendor_goldenfield" type="external">
+  <Key key="_npc_You_trying_to_take_my_artifact" value="¿Estás tratando de tomar mis artefactos?Sobre mi cadáver, que no es una oferta, por cierto." voiceSettingsId="bVMeCyTHy58xNoL34h3p" />
+  <Key key="_npc_Lookin__for_a_deal_" value="¿Buscando un trato?" voiceSettingsId="bVMeCyTHy58xNoL34h3p" />
+  <Key key="_npc_Got_some_rare_finds_" value="¡Tengo algunos hallazgos raros!" voiceSettingsId="bVMeCyTHy58xNoL34h3p" />
+  <Key key="_npc_Hey_there__shopper__Ready_to_b" value="¡Hola, comprador!¿Listo para comprar basura a precios premium?" voiceSettingsId="bVMeCyTHy58xNoL34h3p" />
+  <Key key="_npc_Howdy__stranger__Come_to_haggl" value="¡Hola, extraño!¿Ven a regatear o simplemente pierde mi tiempo?" voiceSettingsId="bVMeCyTHy58xNoL34h3p" />
+  <Key key="_npc_You_won_t_strike_it_rich__outw" value="No lo hará rico, Outworlder" voiceSettingsId="bVMeCyTHy58xNoL34h3p" />
+</Node>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_alcohol_delivery" type="external">
+  <Key key="_npc_You_re_a_champ__mate__Can_t_wa" value="Eres un campeón, amigo.No puedo esperar a ese dulce néctar." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Still_no_whiskey__huh__That_s_" value="Todavía no hay whisky, ¿eh?Eso es un fastidio." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_I_can_almost_taste_that_whiske" value="Casi puedo saborear ese whisky, amigo." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_You_know_what_goes_great_with_" value="¿Sabes lo que va bien con este clima?Whisky." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_That_s_the_stuff__You_re_a_tru" value="¡Esa es la cosa!Eres un verdadero amigo, amigo." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_goal_collect_whiskey" value="Entregue el whisky Elanien a Paddy" />
+  <Key key="_QuestActionAddToJournal_BSXQ" value="Paddy O'Lantern&#10;Goldenfield, cerca de la cocina de bienestar&#10;&#10;Trae a Paddy una botella de whisky Elanien." />
+  <Key key="_goalVoice_Don_t_forget_the_whiskey__mate" value="No olvides el whisky, amigo.Podría estar en una caja, podría estar - HIC - en otra caja.¿Quién sabe?" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Don_t_forget_the_whiskey__mate" value="No olvides el whisky, amigo." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Maybe_outworlders_can_be_good_" value="Tal vez Outworlders también pueda ser buenos borrachos, ¡supongo que nunca lo esperé!" voiceSettingsId="egikc40iVoEyWefsWe9A" />
+  <Key key="_npc_Don_t_have_much__but_maybe_thi" value="No tengo mucho, pero tal vez esto lo cubra." voiceSettingsId="egikc40iVoEyWefsWe9A" />
+</Node>

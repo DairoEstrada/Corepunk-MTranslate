@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="CharacterCustomizations" description="">
+  <Node name="Presets">
+    <Key key="Presset1" value="Predefinido 1" />
+    <Key key="Presset2" value="Predefinido 2" />
+    <Key key="Presset3" value="Predefinido 3" />
+    <Key key="Presset4" value="Predefinido 4" />
+    <Key key="Presset5" value="Predefinido 5" />
+    <Key key="Presset6" value="Predefinido 6" />
+    <Key key="Presset7" value="Predefinido 7" />
+    <Key key="Presset8" value="Predefinido 8" />
+    <Key key="Presset9" value="Predefinido 9" />
+    <Key key="Presset10" value="Predefinido 10" />
+    <Key key="Presset11" value="Predefinido 11" />
+    <Key key="Presset12" value="Predefinido 12" />
+    <Key key="Presset13" value="Predefinido 13" />
+    <Key key="Presset14" value="Predefinido 14" />
+    <Key key="Presset15" value="Predefinido 15" />
+    <Key key="Presset16" value="Predefinido 16" />
+    <Key key="Presset17" value="Predefinido 17" />
+  </Node>
+  <Node name="Outfits">
+    <Key key="body_start_orange0" value="Traje naranja" />
+    <Key key="body_start_pink0" value="Traje rosa" />
+    <Key key="body_start_white0" value="Traje blanco" />
+    <Key key="body_start_green0" value="Traje verde" />
+    <Key key="body_start_blue0" value="Traje azul" />
+    <Key key="body_start_yellow0" value="Traje amarillo" />
+    <Key key="body_start_red0" value="Traje marrón" />
+    <Key key="body_start_purple0" value="Traje ocre" />
+    <Key key="" value="Base" />
+    <Key key="body_start0" value="Base" />
+    <Key key="Base" value="Base" />
+    <Key key="body_start_02_blue0" value="Traje azul" />
+    <Key key="body_start_02_yellow0" value="Traje amarillo" />
+    <Key key="body_start_02_purple0" value="Traje marrón" />
+    <Key key="dwa_f_MAIN_01_green" value="Traje verde №1" />
+    <Key key="dwa_f_MAIN_01_yellow" value="Traje amarillo №1" />
+    <Key key="dwa_f_MAIN_01_blue" value="Traje azul №1" />
+    <Key key="dwa_f_MAIN_02_green" value="Traje verde" />
+    <Key key="dwa_f_MAIN_02_orange" value="Traje naranja" />
+    <Key key="dwa_f_MAIN_02_red" value="Traje rojo" />
+    <Key key="dwa_m_MAIN_02_green" value="Traje verde" />
+    <Key key="dwa_m_MAIN_02_orange" value="Traje naranja" />
+    <Key key="dwa_m_MAIN_02_red" value="Traje rojo" />
+    <Key key="dwa_m_MAIN_01_green" value="Traje verde №1" />
+    <Key key="dwa_m_MAIN_01_yellow" value="Traje amarillo №1" />
+    <Key key="dwa_m_MAIN_01_blue" value="Traje azul №1" />
+    <Key key="pal_f_MAIN_01_blue" value="Traje azul" />
+    <Key key="pal_f_MAIN_01_gold" value="Traje dorado" />
+    <Key key="pal_f_MAIN_01_silver" value="Traje plateado" />
+    <Key key="orc_f_MAIN_01_brown" value="Traje marrón" />
+    <Key key="orc_f_MAIN_01_green" value="Traje verde" />
+    <Key key="orc_f_MAIN_01_purple" value="Traje púrpura" />
+    <Key key="orc_f_MAIN_02_blue" value="Traje púrpura" />
+    <Key key="orc_f_MAIN_02_red" value="Traje marrón" />
+    <Key key="orc_f_MAIN_02_yellow" value="Traje amarillo" />
+    <Key key="body_start_02_white0" value="Traje blanco" />
+    <Key key="bom_m_MAIN_01_blue" value="Traje azul №1" />
+    <Key key="bom_m_MAIN_01_green" value="Traje verde №1" />
+    <Key key="bom_m_MAIN_01_orange" value="Traje naranja" />
+    <Key key="bom_m_MAIN_02_blue" value="Traje azul" />
+    <Key key="bom_m_MAIN_02_green" value="Traje marrón №2" />
+    <Key key="bom_m_MAIN_02_orange" value="Traje naranja" />
+    <Key key="pal_m_MAIN_01_blue" value="Traje azul" />
+    <Key key="pal_m_MAIN_01_gold" value="Traje dorado" />
+    <Key key="pal_m_MAIN_01_silver" value="Traje plateado" />
+    <Key key="bom_m_MAIN_02_brown" value="Traje marrón" />
+    <Key key="mag_m_MAIN_01_green" value="Traje verde" />
+    <Key key="mag_m_MAIN_01_orange" value="Traje naranja" />
+    <Key key="mag_m_MAIN_01_purple" value="Traje púrpura" />
+    <Key key="bom_m_MAIN_01_turquoise" value="Traje turquesa" />
+    <Key key="bom_m_MAIN_01_brown" value="Traje marrón" />
+  </Node>
+  <Node name="Faces">
+    <Key key="head_euro_high0" value="Cabeza 3" />
+    <Key key="head_asian_high0" value="Cabeza 2" />
+    <Key key="head_afro_high0" value="Cabeza 1" />
+    <Key key="head_base0" value="Cabeza 1" />
+    <Key key="head_euro0" value="Cabeza 1" />
+    <Key key="head_asian0" value="Cabeza 2" />
+    <Key key="head_afro0" value="Cabeza 3" />
+    <Key key="head_04_male0" value="Cabeza 4" />
+    <Key key="head_04_high0" value="Cabeza 4" />
+    <Key key="head_scarred_high0" value="Cabeza 4" />
+    <Key key="head_01_high0" value="Cabeza 1" />
+    <Key key="head_02_high0" value="Cabeza 2" />
+    <Key key="head_03_high0" value="Cabeza 3" />
+    <Key key="head_01_male0" value="Cabeza 2" />
+    <Key key="head_02_male0" value="Cabeza 3" />
+    <Key key="head_05_high0" value="Cabeza 5" />
+    <Key key="head_00_high0" value="Cabeza 0" />
+    <Key key="head_06_high0" value="Cabeza 6" />
+  </Node>
+  <Node name="FacialFeatures">
+    <Key key="facial_empty0" value="Ninguno" />
+    <Key key="facial_01_black0" value="Facial" />
+    <Key key="facial_01_gold0" value="Facial" />
+    <Key key="facial_01_silver0" value="Facial" />
+    <Key key="facial_02_black0" value="Facial" />
+    <Key key="facial_02_gold0" value="Facial" />
+    <Key key="facial_02_silver0" value="Facial" />
+    <Key key="facial_03_black0" value="Facial" />
+    <Key key="facial_03_gold0" value="Facial" />
+    <Key key="facial_03_silver0" value="Facial" />
+    <Key key="facial_04_black0" value="Facial" />
+    <Key key="facial_04_gold0" value="Facial" />
+    <Key key="facial_04_silver0" value="Facial" />
+    <Key key="facial_05_black0" value="Facial" />
+    <Key key="facial_05_gold0" value="Facial" />
+    <Key key="facial_05_silver0" value="Facial" />
+    <Key key="facial_01_base0" value="Facial" />
+    <Key key="facial_02_base0" value="Facial" />
+    <Key key="facial_06_black0" value="Facial" />
+    <Key key="facial_07_black0" value="Facial" />
+    <Key key="facial_08_black0" value="Facial" />
+    <Key key="facial_09_black0" value="Facial" />
+    <Key key="facial_10_empty0" value="Facial" />
+    <Key key="facial_03_base0" value="Facial" />
+    <Key key="facial_04_base0" value="Facial" />
+    <Key key="facial_05_base0" value="Facial" />
+    <Key key="facial_06_base0" value="Facial" />
+    <Key key="facial_07_base0" value="Facial" />
+    <Key key="facial_08_base0" value="Facial" />
+    <Key key="facial_06_gold0" value="Facial" />
+    <Key key="facial_06_silver0" value="Facial" />
+    <Key key="facial_07_gold0" value="Facial" />
+    <Key key="facial_08_gold0" value="Facial" />
+    <Key key="facial_09_gold0" value="Facial" />
+    <Key key="facial_10_gold0" value="Facial" />
+    <Key key="facial_10_black0" value="Facial" />
+    <Key key="facial_07_silver0" value="Facial" />
+    <Key key="facial_08_silver0" value="Facial" />
+    <Key key="facial_09silver0" value="Facial" />
+    <Key key="facial_10_silver0" value="Facial" />
+    <Key key="facial_01_male0" value="Facial 1" />
+    <Key key="facial_02_male0" value="Facial 2" />
+    <Key key="facial_03_male0" value="Facial 3" />
+    <Key key="facial_04_male0" value="Facial 4" />
+    <Key key="facial_05_male0" value="Facial 5" />
+    <Key key="facial_06_male0" value="Facial 6" />
+    <Key key="facial_01_female0" value="Facial 1" />
+    <Key key="facial_02_female0" value="Facial 2" />
+    <Key key="facial_03_female0" value="Facial 3" />
+    <Key key="facial_04_female0" value="Facial 4" />
+    <Key key="facial_05_female0" value="Facial 5" />
+    <Key key="facial_06_female0" value="Facial 6" />
+    <Key key="facial_07_female0" value="Facial 7" />
+    <Key key="facial_08_female0" value="Facial 8" />
+    <Key key="facial_09_female0" value="Facial 9" />
+    <Key key="facial_07_male0" value="Facial 7" />
+    <Key key="facial_08_male0" value="Facial 8" />
+    <Key key="facial_10_female0" value="Facial 10" />
+    <Key key="facial_11_female0" value="Facial 11" />
+    <Key key="facial_12_female0" value="Facial 12" />
+    <Key key="facial_13_female0" value="Facial 13" />
+    <Key key="facial_14_female0" value="Facial 14" />
+    <Key key="facial_15_female0" value="Facial 15" />
+    <Key key="facial_16_female0" value="Facial 16" />
+    <Key key="facial_17_female0" value="Facial 17" />
+    <Key key="facial_18_female0" value="Facial 18" />
+    <Key key="facial_19_female0" value="Facial 19" />
+    <Key key="facial_20_female0" value="Facial 20" />
+    <Key key="facial_21_female0" value="Facial 21" />
+    <Key key="facial_09_male0" value="Facial 9" />
+    <Key key="facial_10_male0" value="Facial 10" />
+    <Key key="facial_11_male0" value="Facial 11" />
+    <Key key="facial_12_male0" value="Facial 12" />
+    <Key key="facial_13_male0" value="Facial 13" />
+    <Key key="facial_14_male0" value="Facial 14" />
+    <Key key="facial_15_male0" value="Facial 15" />
+    <Key key="facial_16_male0" value="Facial 16" />
+  </Node>
+  <Node name="Hairs">
+    <Key key="hair_mask_empty0" value="Calvo" />
+    <Key key="hair_01_female0" value="Cola de burbuja" />
+    <Key key="hair_02_female0" value="Mohicano" />
+    <Key key="hair_03_female0" value="Medio moño" />
+    <Key key="hair_04_female0" value="Coletas de burbuja" />
+    <Key key="hair_01_male0" value="Pelo corto con nudo superior" />
+    <Key key="hair_02_male0" value="Moño de halcón" />
+    <Key key="hair_03_male0" value="Cola de caballo con corte inferior" />
+    <Key key="hair_04_male0" value="Cola de caballo con tupé" />
+    <Key key="hair_05_female0" value="Cola de caballo con corte inferior" />
+    <Key key="hair_06_female0" value="Faux hawk" />
+    <Key key="hair_07_female0" value="Pixie asimétrico" />
+    <Key key="hair_08_female0" value="Moño de halcón" />
+    <Key key="hair_09_female0" value="Pixie largo" />
+    <Key key="hair_10_female0" value="Faux hawk largo" />
+    <Key key="hair_11_female0" value="Pelo 11" />
+    <Key key="hair_12_female0" value="Pelo 12" />
+    <Key key="hair_13_female0" value="Pelo 13" />
+    <Key key="hair_14_female0" value="Pelo 14" />
+    <Key key="hair_18_female0" value="Pelo 18" />
+    <Key key="hair_19_female0" value="Pelo 19" />
+    <Key key="hair_16_female0" value="Pelo 16" />
+    <Key key="hair_05_male0" value="Pelo largo con nudo superior" />
+    <Key key="hair_06_male0" value="Faux hawk" />
+    <Key key="hair_07_male0" value="Faux hawk barrido de lado" />
+    <Key key="hair_08_male0" value="Mohicano con coleta" />
+    <Key key="hair_09_male0" value="Coleta con trenzas cortas" />
+    <Key key="hair_10_male0" value="Coleta con trenzas largas" />
+    <Key key="hair_11_male0" value="Pelo 11" />
+    <Key key="hair_empty0" value="Calvo" />
+    <Key key="hair_12_male0" value="Pelo 12" />
+    <Key key="hair_13_male0" value="Pelo 13" />
+    <Key key="hair_14_male0" value="Pelo 14" />
+    <Key key="hair_15_male0" value="Pelo 15" />
+    <Key key="hair_15_female0" value="Pelo 15" />
+    <Key key="hair_17_female0" value="Pelo 17" />
+    <Key key="hair_20_female0" value="Pelo 20" />
+    <Key key="hair_21_female0" value="Pelo 21" />
+    <Key key="hair_22_female0" value="Pelo 22" />
+    <Key key="hair_23_female0" value="Pelo 23" />
+    <Key key="hair_24_female0" value="Pelo 24" />
+    <Key key="hair_25_female0" value="Pelo 25" />
+    <Key key="hair_26_female0" value="Pelo 26" />
+    <Key key="hair_27_female0" value="Pelo 27" />
+    <Key key="hair_28_female0" value="Pelo 28" />
+    <Key key="hair_29_female0" value="Pelo 29" />
+    <Key key="hair_31_female0" value="Pelo 31" />
+    <Key key="hair_32_female0" value="Pelo 32" />
+    <Key key="hair_33_female0" value="Pelo 33" />
+    <Key key="hair_34_female0" value="Pelo 34" />
+    <Key key="hair_30_female0" value="Pelo 30" />
+    <Key key="hair_16_male0" value="Pelo 16" />
+    <Key key="hair_17_male0" value="Pelo 17" />
+    <Key key="hair_18_male0" value="Pelo 18" />
+    <Key key="hair_19_male0" value="Pelo 19" />
+    <Key key="hair_20_male0" value="Pelo 20" />
+    <Key key="hair_21_male0" value="Pelo 21" />
+    <Key key="air_01_femaleK0" value="Pixie largo" />
+    <Key key="hair_02_femaleK0" value="Pixie barrido de lado" />
+    <Key key="hair_03_femaleK0" value="Moño de lado" />
+    <Key key="hair_04_femaleK0" value="Coleta" />
+    <Key key="hair_05_femaleK0" value="Coleta trenzada" />
+    <Key key="hair_06_femaleK0" value="Bob despeinado" />
+    <Key key="hair_07_femaleK0" value="Coletas" />
+    <Key key="hair_08_femaleK0" value="Doble moño" />
+    <Key key="hair_09_femaleK0" value="Coletas trenzadas" />
+    <Key key="hair_10_femaleK0" value="Mini coletas" />
+    <Key key="hair_01_femaleK0" value="Pixie largo" />
+  </Node>
+</Category>

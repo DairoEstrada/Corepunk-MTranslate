@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_v2_brenn" type="external">
+  <Key key="_npc_Well__welcome_here__you_lucky_" value="Bueno, bienvenido aquí, tienes suerte.Lo hiciste, eh.Fresco fresco fresco." voice="Male" />
+</Node>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_portal_restorations" type="external">
+  <Key key="_npc_You_need_a_break_from_all_this" value="¿Necesitas un descanso de toda esta jugosa emoción?Comprensible, ¡pero estaré aquí cuando estés listo!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_No_worries__brave_friend__I_ll" value="¡No te preocupes, amigo valiente!¡Mantendré la cuenta de toda la sangre que no estamos cosechando hoy!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh_dear__no_heroic_bloodlettin" value="Dios mío, ¿no hay sangre heroica hoy?¡Tal vez la próxima vez!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_I_suppose_the_spiders_can_enjo" value="Supongo que las arañas pueden disfrutar mantener su sangre un poco más.¡Afortunadamente!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_talk_npc" value="Volver a Driscoll-99" />
+  <Key key="_goalVoice_Just_a_reminder__friend___I_ne" value="Solo un recordatorio, amigo: ¡necesito esas 10 arañas muertas para mantener vividos mis sueños!Mata, mata matar, así que mis sueños viven, ¡viven en vivo!O simplemente haga un hilo fuerte usted mismo.¡Tu elección!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Off_you_go__brave_soul__and_ha" value="¡Fuera, alma valiente, y coseche sus horribles regalos!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_The_idea_of_that_rich__crimson" value="¡La idea de esa rica sangre de araña carmesí que fluye hace que mis circuitos se hagan la emoción!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__the_thrill_of_squishing_a_" value="¡Oh, la emoción de aplastar una araña!¡Es como un paseo por el parque, si el parque estaba lleno de arácnidos mortales!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_And_for_the_cause_of_bringing_" value="Y por la causa de traerme 5 hilos fuertes.Absolutamente conmovedor!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_npc_Haha__maybe_I_ll_just_take_a_v" value="Jaja, tal vez solo tome un vial de tu sangre por la causa ... ¡broma, por supuesto!A menos que...?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_QuestActionAddToJournal_Driscoll_99_Westwind_Woods__Ol" value="Driscoll-99&#10;Westwind Woods, antiguo portal.&#10;&#10;Ayude a Driscoll-99 a completar el ritual para reiniciar el antiguo portal recolectando 5 hilos fuertes de arañas muertas." />
+  <Key key="_varDescription_Collect_Spider_Strong_Thread" value="Recoge el hilo fuerte de la araña" />
+  <Key key="_npc_Picture_this__you__heroically_" value="Imagine esto: ¡Usted, derrotando heroicamente a las arañas y drenando su sangre, todo por la gran causa de la restauración del portal!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Now_we_just_need_to_bathe_ours" value="Ahora solo necesitamos bañarnos en un sacrificio final, ¡y nuestros esfuerzos serán recompensados!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Splendid__With_all_that_spider" value="¡Espléndido!Con toda esa sangre de araña derramada, ¡casi podemos escuchar el portal tarareando!Tome esto para sus esfuerzos." voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Huzzah__Another_step_closer_to" value="¡Huzzah!¡Otro paso más cerca de nuestro sueño empapado de sangre!" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+  <Key key="_npc_Oh__you_re_back__Did_you_paint" value="¡Oh, estás de vuelta!¿Pintaste el bosque rojo para mí?" voiceSettingsId="Vd0SfchtOYM0adwqAKuJ" />
+</Node>

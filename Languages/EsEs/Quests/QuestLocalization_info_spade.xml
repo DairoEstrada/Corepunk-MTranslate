@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_spade" type="external">
+  <Key key="_npc_Let_s_keep_this_short__alright" value="Mantengamos esto corto, ¿de acuerdo?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Name_s_Spade__And_you_" value="Spade de nombre.¿Y tú?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_You_re_someone_who_needs_to_fi" value="Eres alguien que necesita encontrar una chica diferente.Ya estoy esperando un cliente." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_And_if_you_screw_this_up__you_" value="Y si arruinas esto, tendrás que responder a Velvet Viper." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Honestly__you_re_interrupting_" value="Honestamente, estás interrumpiendo mi juego." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_You_think_our_jobs_are_easy___" value="¿Crees que nuestros trabajos son fáciles?Porque los imbéciles que babearon sobre ti todo el día envejece." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Then_again__we_won_t_be_doing_" value="Por otra parte, no lo haremos mucho más ..." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_How_the_hell_should_I_know_" value="¿Cómo diablos debería saber?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_The_client_chose_this_place_" value="The client chose this place." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Some_kinda_spot_the_mayor_like" value="Algo que le guste al alcalde o algo ..." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Not_now__buzz_off_" value="Ahora no, bulz." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Nope__scram_" value="¡No, Scram!" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Don_t_need_you_" value="No te necesito." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Wait__is_that_my_client_" value="Espera, ¿ese es mi cliente?" voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Yeah__if_it_means_you_ll_scram" value="Sí, si eso significa que te revisas." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Sure__just_to_get_you_out_of_m" value="Claro, solo para sacarte de mi cabello." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Yes__but_make_it_quick_and_lea" value="Sí, pero hazlo rápido y vete." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+  <Key key="_npc_Fine__but_then_vanish_" value="Bien, pero luego desaparece." voiceSettingsId="zf3i8JEGjmVwzUAvrWjz" />
+</Node>

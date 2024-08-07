@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_mary_jane_greenpuff" type="external">
+  <Key key="_npc_I_m_Mary_Jane_Greenpuff__man_" value="I M Mary Jane Greenpuff, hombre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Some_evil_spirit__basically_tu" value="Un espíritu maligno, básicamente, convirtió todo mi mundo en un maldito páramo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Picture_this__bro__trees_screa" value="Imagine esto, hermano: árboles gritando, flores que mueren total apocalipsis de planta." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Barely_made_it_out__Slipped_th" value="Apenas lo salió.Deslizó a través de un portal, terminó aquí en Ol 'Kwalat." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Now_I_m_here__trying_to_stop_a" value="Ahora estoy aquí, tratando de detener a cualquiera que quiera meterse con mis amigos frondosos." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_We_re_talkin__full_on_eco_warr" value="Estamos hablando de modo ecológico completo.Tengo mis puños, tengo mis hierbas." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Might_be_high_as_a_kite__but_I" value="Puede ser alto como una cometa, pero te arruinaré." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_It_s_all_about_balance___get_h" value="Se trata de que el equilibrio se aleje, se enfríe y golpea algunos cráneos si es necesario, ¿sabes?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Oh__dude__it_s_been_a_trip_" value="Oh, amigo, ha sido un viaje." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Got_into_a_tussle_with_some_co" value="Me metió en una pelea con una escoria corporativa tratando de arrasar mi bosque." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Gave_them_a_nice__nature_lesso" value="Les dio una bonita &quot;lección de naturaleza&quot; con mis cascos." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_To_top_it_off__found_this_gnar" value="Para colmo, encontró esta hierba retorcida y retorcida." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Think_I_m_gonna_call_it__Tree_" value="Creo que lo voy a llamar &quot;Tree Hugger deleite." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Smoked_a_bit__and_I_swear__I_s" value="Fumé un poco y lo juro, comencé a escuchar los árboles cantar." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_One_plant_said___Hey__Mary_Jan" value="Una planta dijo: &quot;Hola, Mary Jane, ¡gracias por salvarnos!" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Or_maybe_that_was_the_herb_tal" value="¿O tal vez esa era la hierba hablando?Quién sabe, hombre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Oh_man__welcome_to_Windreach_W" value="Oh hombre, bienvenido a Windreach Woods, el corazón verde de Kwalat." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_This_is_my_sanctuary__my_littl" value="Este es mi santuario, mi pequeña porción del cielo, amigo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_But_let_me_tell_ya__it_s_not_a" value="Pero déjame decirte, no todo es champiñones arcoiris y polvo de hadas aquí." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_We_ve_got_loggers__poachers__a" value="Tenemos registradores, cazadores furtivos y ciclistas corporativos que intentan convertir este lugar en clips de papel." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_The_forest__It_s_like__alive__" value="¿El bosque?Es como, vivo, hombre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Seriously__it_talks_to_you___e" value="En serio, te habla especialmente después de un buen humo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_So_watch_yourself__One_wrong_s" value="Así que cuídate a ti mismo.Un paso equivocado, y podrías terminar con alimentos vegetales." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_And_remember__dude__nature_s_g" value="Y recuerda, amigo, la naturaleza tiene un sentido del humor oscuro." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Trees_here__They_ve_seen_some_" value="Árboles aquí?Han visto algo de mierda." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Totally_need_some_fresh_herbs_" value="Necesito totalmente algunas hierbas frescas, hombre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Hell_yeah__let_s_find_some_gre" value="Demonios, sí, encontremos algunos greens." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Can_always_use_help_" value="Siempre puede usar ayuda." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Absolutely__dude__Got_a_plant_" value="Absolutamente, amigo.Tengo una búsqueda de plantas en la agenda." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Yeah__man__More_hands__more_he" value="¡Si hombre!Más manos, más hierbas." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_For_sure__Trees_need_allies__d" value="¡Con seguridad!Los árboles necesitan aliados, amigo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Let_s_fend_off_some_capitalist" value="Vamos a defender algunos ciclistas capitalistas." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_We_gotta_stop_these_tree_kille" value="Tenemos que detener a estos asesinos de árboles." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_m_hella_high__a_fresh_perspe" value="Estoy HELLA HIGH, una nueva perspectiva sería as." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Nah__man__I_m_too__zen__right_" value="No, hombre, soy demasiado &quot;zen&quot; en este momento." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Sorry_dude__too_stoned_to_thin" value="Lo siento amigo, demasiado drogado para pensar con claridad." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_You_go_on__I_ll_vibe_with_the_" value="Continúas, vibraré con los árboles." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_m_busy_chillin___man_" value="Estoy ocupado relajándome, hombre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Nature_s_got_this__dude_" value="La naturaleza tiene esto, amigo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Whoa__what_were_we_talking_abo" value="Whoa, ¿de qué estábamos hablando?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_m_on_a__peaceful_protest__br" value="Estoy en una ruptura de &quot;protesta pacífica&quot;." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_m_too_zoned_out__man_" value="Yo también estoy zonalizado, hombre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Heh__no_worries_" value="Je, no te preocupes." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

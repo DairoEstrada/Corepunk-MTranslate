@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_funds_of_faith" type="external">
+  <Key key="_npc_Alright__you_listen_here__If_y" value="Muy bien, ¡escuchas aquí!Si quieres demostrarte en la iglesia, toserás 500 de oro.¡Sí, me escuchaste bien!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Damn_it_to_hell__How_do_you_ex" value="¡Maldita sea al infierno!¿Cómo espera llegar a cualquier parte sin mostrar algo de dedicación?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_For_fuck_s_sake__if_you_re_not" value="Por el bien de la mierda, si no estás listo para separarte con un lingote meteórico, ¡no pierdas mi tiempo!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_goalVoice_Well__goddamnit__Are_you_fetch" value="Bueno, maldita sea!¿Estás buscando ese lingote meteórico o qué?No te atrevas a perder mi tiempo, cariño." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Ingot_ain_t_just_shiny_stuff_h" value="El lingote no es solo cosas brillantes aquí;Es un maldito símbolo de tu compromiso.Entonces, si te tomas en serio nuestra misión sagrada, ¡será mejor que invertirás!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_These_funds_are_crucial__They_" value="Estos fondos son cruciales.Nos asegurarán el paso a través de los malditos portales." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_You_don_t_have_that_kind_of_mo" value="¿No tienes ese tipo de dinero?¡Bien!Consígueme 5 lingote meteórico en su lugar." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_goal_talk_npc" value="Trae a Grizelda" />
+  <Key key="_goal_collect_items" value=" " />
+  <Key key="_varDescription_BhpZ" value="Recolectar lingote meteórico" />
+  <Key key="_npc_Well__I_ll_be_damned__Go_get_m" value="Bueno, estaré condenado!¡Ve a buscarme ese lingote meteórico!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_It_ll_help_you_ascend_dimensio" value="Te ayudará a ascender dimensiones o alguna mierda mística como esa.¡No comas hasta que estés lejos de aquí!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_You_are_ready_for____ASCENSION" value="Estás listo para ... Ascensión!Ahora puedes conocer nuestro secreto." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Take_this_rare_mushroom_and_go" value="Tome este hongo raro y vaya a comerlo en el bosque." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_QuestActionAddToJournal_Grizelda__Windreach_Woods__Woo" value="Grizelda&#10;Windreach Woods, casa de hongos de madera.&#10;&#10;Demuestre su devoción al culto a hongos de Grizelda ofreciendo una gran donación, en el lingote meteórico." />
+  <Key key="_npc_Jesus_H__Cheezus__are_you_even" value="Jesús H. Cheezus, ¿estás intentando?¡Vuelve cuando tengas en serio!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_varDescription_Collect_Meteoric_Ingot" value="Recolectar lingote meteórico" />
+  <Key key="_npc_You_re_moving_up__sugar__Welco" value="¡Te estás moviendo, azúcar!Bienvenido al Nivel 3 de la Iglesia, llamado el 'Musta devota'." voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Well__hot_damn__You_actually_d" value="Bueno, maldita sea!¡Realmente lo hiciste!" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+  <Key key="_npc_Alright__spit_it_out__You_got_" value="Muy bien, ¡escupirlo!¿Tienes mi lingote o qué?" voiceSettingsId="H1q8K7T0F7CGGp4uGLRj" />
+</Node>

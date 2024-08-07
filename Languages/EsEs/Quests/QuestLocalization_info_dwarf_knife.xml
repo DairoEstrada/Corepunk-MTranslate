@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_dwarf_knife" type="external">
+  <Key key="_npc_You_ve_got_some_nerve__asking_" value="¡Tienes algo de nervio, preguntándome eso mientras husitas alrededor de mi viñedo!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_You_trying_to_throw_me_off_the" value="¿Estás tratando de tirarme del camino?¿Eres tú quien tomó mis uvas?" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_I_ve_got_a_knife__and_I_m_not_" value="Tengo un cuchillo y no tengo miedo de usarlo.¿Quién diablos te envió?" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_You_working_for_my_rivals__Spe" value="¿Estás trabajando para mis rivales?¡Habla antes de hacerte arrepentirte!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_How_am_I__You_bloody_thief__yo" value="¿Como estoy?¡Bloosado ladrón, sabes cómo!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Think_you_can_just_waltz_in_he" value="¿Crees que puedes simplemente vals aquí y deslizar mis uvas?" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_I_ve_got_my_eye_on_you__and_my" value="Tengo mi ojo en ti y mi cuchillo listo.¡Hablar!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_The_only_reason_you_aren_t_dea" value="¡La única razón por la que no estás muerto es porque necesito saber dónde está mi cosecha!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_You_know_bloody_well_where_you" value="¡Sabes bien sangriento donde estás, mierda de mierda!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_These_vines_ain_t_like_your_ev" value="Estas vides no son como sus cultivos cotidianos;¡Son de otro maldito mundo!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Imported_through_portals__each" value="Importado a través de los portales, cada vid contiene siglos de maldito cultivo." voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_You_think_you_can_just_sneak_i" value="¿Crees que puedes meterte y enganchar mi trabajo?Piense de nuevo, parásito." voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_I_ll_make_sure_every_last_thie" value="Me aseguraré de que hasta el último ladrón sepa que esto es un terreno sagrado." voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Trying_to_clear_your_name__huh" value="Tratando de limpiar tu nombre, ¿eh?Muy bien, ¡demuestre!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Fine__you_want_to_help_" value="Bien, ¿quieres ayudar?" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Think_you_re_innocent__Find_my" value="¿Crees que eres inocente?¡Encuentra mis uvas y muéstrame que no estás mintiendo!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Sure__you_wanna_help__Better_n" value="Claro, ¿quieres ayudar?Mejor no ser otro truco." voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Alright__I_ll_play_along_" value="Muy bien, jugaré." voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Ha__Only_help_I_need_is_to_see" value="¡Ja!¡Solo la ayuda que necesito es verte tras las rejas!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_Buzz_off__you_slimy_thief_" value="Buzz off, you slimy thief!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_You_can_start_by_turning_yours" value="¡Puedes comenzar entregándote, tu vida baja!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_The_best_help_you_d_give_me_is" value="The best help you'd give me is confessing to the guards!" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+  <Key key="_npc_You_think_I_need_help_from_a_t" value="You think I need help from a thief?" voiceSettingsId="IKzXLL6xxwyCcJrFjryy" />
+</Node>

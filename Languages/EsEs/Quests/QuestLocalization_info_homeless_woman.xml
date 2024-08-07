@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_info_homeless_woman" type="external">
+  <Key key="_npc_I_m_Sofia_Dynatech__I_run_this" value="Soy Sofía Dynatech.Dirijo este lugar." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_used_to_be_a_reform_shool_lu" value="Solía ​​ser un monitor de almuerzo de la escuela de reforma en el Viejo Mundo, un trabajo que chupaba bolas de gallo." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_got_sent_to_this_place_by_so" value="Me enviaron a este lugar un poco de agujero en la realidad." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_It_ain_t_so_bad_here__I_got_so" value="No es tan malo aquí.Tengo algunos nudillos para mantenerme a salvo y cálido por la noche." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_And_I_got_a_stash_of_old_tech_" value="Y obtuve un alijo de tecnología antigua y otras cosas en esta estación.Manos apagados a menos que tenga efectivo o algo para comerciar." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_So_that_s_me__Any_more_dumb_qu" value="Así que eso soy yo.¿Más preguntas tontas?" voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Pretty_good__not_that_it_s_any" value="Bastante bien, no es que sea de tu negocio." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_make_a_good_living_selling_o" value="Me gano la vida vendiendo tecnología antigua y otra mierda que encontramos en la estación." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_found_me_some_entertainment_" value="Me encontré algunos productos farmacéuticos de grado de entretenimiento que disfrutamos de una noche." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_ain_t_fucking_telling_you_wh" value="No te estoy diciendo dónde, así que no preguntes." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_ll_probably_die_here__but_at" value="Probablemente moriré aquí, pero al menos nunca tendré que ver otra bandeja de chow de ratas heladas mientras viva." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_It_s_an_abandoned_railroad_sta" value="¡Es una estación de ferrocarril abandonada, obviamente!" voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_dunno_what_happened_to_it__b" value="No sé lo que le sucedió, pero cuando se fueron, dejaron un montón de mierda útil." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_We_found_it__It_s_ours_now__So" value="Lo encontramos.Es nuestro ahora.Entonces, si quieres algo, tienes que pagarlo." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Anyway__I_live_here_with_my_bo" value="De todos modos, vivo aquí con mis hijos, Gristle, Rad, y esa eustice de nueces.No tienen mucho que ver y huelen peor, pero son leales." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_When_something_big_tries_to_bu" value="Cuando algo Big intenta entrar, Rad canta la ópera enana en EM y generalmente huyen o explotan." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Yeah__maybe_" value="Sí, quizás." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_got_a_small_job_that_needs_d" value="Tengo un pequeño trabajo que necesita hacer." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Might_be__might_be__Let_s_talk" value="Podría ser, podría ser.Hablemos." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_You_look_like_you_got_half_a_b" value="Parece que tienes medio cerebro.Seguro." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Nuthin__right_now__Keep_movin_" value="Nuthin 'ahora mismo.Sigue moviéndose." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_Nope__I_m_good_" value="No.Estoy bien." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_I_m_flush_right_now__Come_back" value="Estoy enjuagando ahora mismo.Vuelve mas tarde." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+  <Key key="_npc_No_jobs_right_now__And_I_don_t" value="No hay trabajos en este momento.Y no hago folletos." voiceSettingsId="7MOogGnsayTylhrJde0J" />
+</Node>

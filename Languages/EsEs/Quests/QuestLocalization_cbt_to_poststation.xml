@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_cbt_to_poststation" type="external">
+  <Key key="_npc_Won_t_be_a_problem_to_find_it_" value="No será un problema para encontrarlo.Simplemente apégate a la carretera." voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+  <Key key="_goal_goto_second_village" value="Ir al rivrise.Estoy al este desde Goldenfield.Simplemente apégate a la carretera." />
+  <Key key="_npc_I_see__Another_outworlder_" value="Veo.Otro Outworlder." voice="Male" voiceSettingsId="PP4AfWODzHg1VQmU0daj" />
+  <Key key="_goal_talk_to_officer" value="Speak to the post officer" />
+  <Key key="_goal_goto_poststation" value="Encuentra la estación de post y regístrese allí" />
+  <Key key="_QuestActionAddToJournal_Y0MK" value="Zugg Clankwhistle&#10;Goldenfield, cerca de la oficina&#10;&#10;Haga una visita a la administración de Riverrise" />
+  <Key key="_QuestActionAddToJournal_GPzW" value="Haga una visita a la administración de Riverrise" />
+  <Key key="_goalVoice_I1iG" value="Si está buscando ganarse la vida, la estación local de maná es una buena apuesta.Pero no te llevarán sin licencia.Puedes terminar con la administración en Rivrise, ¿lo tienes?" voice="Male" voiceSettingsId="VR6AewLTigWG4xSOukaG" />
+</Node>

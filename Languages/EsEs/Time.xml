@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Time" description="">
+  <Node name="Remaining">
+    <Key key="Key" value="Remaining:" />
+  </Node>
+  <Node name="days">
+    <Key key="Key" value="day(s)" />
+  </Node>
+  <Node name="hours">
+    <Key key="Key" value="hour(s)" />
+  </Node>
+  <Node name="minutes">
+    <Key key="Key" value="minute(s)" />
+  </Node>
+  <Node name="seconds">
+    <Key key="Key" value="second(s)" />
+  </Node>
+</Category>

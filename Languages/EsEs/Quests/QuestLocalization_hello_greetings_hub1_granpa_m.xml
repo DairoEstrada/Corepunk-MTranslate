@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_greetings_hub1_granpa_m" type="external">
+  <Key key="_npc_D_ya_hear_that_BOOM_in_the_for" value="¿Escuchas ese boom en el bosque hace algún tiempo?Deben ser esos terroristas de Quaddari." voice="Male" />
+</Node>

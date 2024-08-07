@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ItemPrefix" description="">
+  <Node name="ArtifactLess33Tech" />
+  <Node name="Artifact3366Tech">
+    <Key key="Name" value="Mejorado" />
+  </Node>
+  <Node name="ArtifactMore66Tech">
+    <Key key="Name" value="Reforzado" />
+  </Node>
+  <Node name="ArtifactLess33Magic" />
+  <Node name="Artifact3366Magic">
+    <Key key="Name" value="Fuerte" />
+  </Node>
+  <Node name="ArtifactMore66Magic">
+    <Key key="Name" value="Poderoso" />
+  </Node>
+</Category>

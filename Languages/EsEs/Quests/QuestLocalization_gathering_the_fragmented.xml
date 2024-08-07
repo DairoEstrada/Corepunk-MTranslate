@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_gathering_the_fragmented" type="external">
+  <Key key="_npc_No_way_man__you_actually_found" value="De ninguna manera hombre, ¿realmente encontraste los 4 de ellos?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_talk_clanker" value="Habla con Clanker" />
+  <Key key="_goal_talk_alexander" value="Habla con Alexander Stones" />
+  <Key key="_goal_talk_driscoll" value="Habla con Driscoll-99" />
+  <Key key="_goal_talk_triton" value="Habla con Triton" />
+  <Key key="_npc_You_musta__had_some_crazy_adve" value="Musta 'tenías algunas aventuras locas por ahí." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goal_talk_npc" value="Regresar a Mary Jane" />
+  <Key key="_npc_I_ve_got_a_whole__nother_story" value="Tengo una historia completa para contarte ..." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Well__whatever__Speaking_of_5_" value="Bueno lo que sea.Hablando de 5 ... resulta que hay una quinta pieza de esta cosa." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Bummer__But_hey__the_journey_s" value="Gorrón.Pero bueno, el viaje siempre está aquí si cambias de opinión." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Either_that__or_my_sense_of_ti" value="O eso, o mi sentido del tiempo está apagado.¿Han pasado 5 días o 5 minutos?" voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_guess_if_getting_out_of_Kwal" value="Supongo que si salir de Kwalat fuera fácil, todos lo harían totalmente." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_This_dusty_old_note_says_he_hi" value="Esta vieja nota polvorienta dice que escondió piezas de artefactos en el Lakehouse al noroeste, la antigua cantera sur en Westwind Woods, el antiguo portal directamente al sur de nosotros en Westwind Woods y los aviones que caen al sur del lago Mermaid.Opciones extrañas." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Luckily__I_have_some__totally_" value="Afortunadamente, tengo algunas entregas de hierbas &quot;totalmente legales&quot; para hacer en esos mismos lugares a algunos de mis buenos amigos: Triton, Alexander Stones, Driscoll-99 y Clanker." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Ask_those_guys_what_s_up___I_b" value="Pregúntele a esos chicos qué pasa. Apuesto a que pueden ayudarlo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_goalVoice_Don_t_forget_to_pick_up_the_ar" value="No olvides recoger las piezas de artefactos y entregar las hierbas.Las piezas de artefactos se encuentran en Lakehouse, la antigua cantera, el antiguo portal y los aviones que caen.Y recuerde, las entregas herbales son para Triton, Alexander Stones, Driscoll-99 y Clanker.En serio, no me hagas hacer mi trabajo yo mismo.Acabo de tomar algunos suplementos herbales y apenas puedo caminar." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_I_can_t_be_worrying_about_that" value="No puedo preocuparme por esa mierda.La vida continúa, hombre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_Well__alright_man__to_each_the" value="Bueno, bien hombre, para cada uno su propio camino.Tranquilízate." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_npc_This_will_not_stand__ya_know__" value="Esto no se mantendrá, ya sabes, este rechazo no se mantendrá, hombre." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+  <Key key="_QuestActionAddToJournal_Mary_Jane_Greenpuff_Windreach_" value="Mary Jane Greenpuff&#10;Windreach Woods, casa de carretera.&#10;&#10;Ayude a Mary Jane Greenpuff a restaurar un artefacto antiguo coleccionando sus 4 piezas dispersas en Kwalat." />
+  <Key key="_npc_Groovy__See_you_when_I_see_you" value="Groovy.Nos vemos cuando te vea, lo que probablemente no será por un tiempo." voiceSettingsId="XkERjADMRnwcyxkrrRnR" />
+</Node>

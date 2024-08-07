@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_the_final_verdict" type="external">
+  <Key key="_npc_Well__I_guess_someone_else_wil" value="Bueno, supongo que alguien más tendrá que hacer lo correcto para Elan y su gente." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_goal_talk_npc" value="Trae la citación de Brawny a Triton" />
+  <Key key="_npc_Backing_out_now__Might_as_well" value="Retrocediendo ahora?¡Bien podría estar defendiendo a Triton!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Skipping_out__huh__Guess_you_h" value="Saltando, ¿eh?Supongo que tienes más en común con Triton de lo que pensaba.¡Baby Eater!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_goalVoice_C_mon__haven_t_you_nailed_Trit" value="Vamos, ¿ya no has clavado a Triton con esa citación?Esa cara de pescado todavía está descansando junto a Lake House en Windreach Woods.¡Darse prisa!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Anyway__take_this_summons_over" value="De todos modos, tome esta citación a Triton.Tienes suerte de verlo retorcerse.¡Ojalá pudiera estar allí para ver la mirada en su cara tonta!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_You_know__I_ve_always_hated_hi" value="Sabes, siempre lo odié, ¡desearía poder tener un pescado freír y cocinar esa jodida grasosa!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_I_ll_bet_Triton_s_gonna_freak_" value="Apuesto a que Triton va a asustar por esto.Probablemente se ahoga en una gárgaras o algo así." voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Well__wouldn_t_you_know_it__we" value="Bueno, ¿no lo sabrías?" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_Here__take_thing_you_need__Tri" value="Aquí, toma lo que necesitas.Tritón feliz, feliz.¡Todos comemos alegría hoy!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Hahaha__Triton_win__Close_to_e" value="¡Jajaja!Triton Win!¡Cerca de comer victoria!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_QuestActionAddToJournal_Baxton__Skip__Malroth_Windston" value="Baxton &quot;Skip&quot; Malroth&#10;Windstone Village, lugar del guardia: oeste.&#10;&#10;Entregue la convocatoria legal final a Triton." />
+  <Key key="_npc_So__justice_isn_t_your_thing__" value="Entonces, la justicia no es lo tuyo, ¿eh?¡Eres tan culpable como Triton!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+  <Key key="_npc_They_take_Triton_to_court__Tri" value="¡Llegan a Triton a la corte, Triton los destruye!Triton contrate al mejor abogado en Elan!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Ohh__paper_like_bread_to_Trito" value="¡Ohh, papel como el pan al hambre de Triton!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_You_bring_paper__Triton_must_s" value="¿Traes papel?Tritón debe ver!" voiceSettingsId="qxykB5cSBd2kdMtmWngV" />
+  <Key key="_npc_Perfect__Let_s_see_that_fish_f" value="¡Perfecto!¡Veamos que la cara de pescado intenta salir de este!" voiceSettingsId="pC81Fiika5ndCg1dC8PW" />
+</Node>

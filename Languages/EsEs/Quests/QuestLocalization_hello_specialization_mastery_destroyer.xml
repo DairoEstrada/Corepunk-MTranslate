@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_hello_specialization_mastery_destroyer" type="external">
+  <Key key="_npc_Your_next_challenge_awaits__Le" value="Tu próximo desafío espera.¡Déjame escuchar tu guerra llorar!" voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_If_I_can_t_see_my_face_in_my_a" value="Si no puedo ver mi cara en mi armadura, no está lo suficientemente limpio." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Lesson_one__you_must_spin____t" value="Lección Uno: Debes girar ... para ganar." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_In_the_epicenter_of_battle__yo" value="En el epicentro de la batalla, enfrentarás tu destino." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_I_must_say__you_have_quite_a_s" value="Debo decir que tienes bastante brillo, ¿no?" voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Each_day__we_accumulate_more_p" value="Each day, we accumulate more power, young champion." voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+  <Key key="_npc_Stand_tall__command_your_enemy" value="¡Ponte de pie, llame la atención de tu enemigo!" voiceSettingsId="4cIqyjTmc7mlZZg8RoCp" />
+</Node>

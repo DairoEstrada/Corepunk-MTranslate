@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Node name="QuestLocalization_echoes_of_paranoia" type="external">
+  <Key key="_npc_Guess_you_re_just_another_pupp" value="¡Supongo que eres solo otro títere del sistema!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Another_sheep_ignoring_the_tru" value="Otra oveja ignorando la verdad.¡Ya estás muerto por dentro!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_goalVoice_Remember__Varkus_is_hiding_som" value="Recuerde, Varkus está ocultando algo grande, realmente grande.¡No dejes que se escape!Susurros alienígenas, artefactos mortales y una esposa muerta.¡Esto es más grande que los dos, chico!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Maybe_I_should_sell_you_some_o" value="Tal vez debería venderte algunos de mis suplementos antes de que te vayas ..." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_Just_be_ready_for_a_fight__ok_" value="Solo prepárate para una pelea, ¿de acuerdo?Parecía ... un poco hostil." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_The_truth_isn_t_careful__You_g" value="La verdad no es cuidadosa: vas a Varkus y le dices que sabemos sobre todo: la pieza de artefactos, la invasión alienígena y su esposa muerta." voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_re_ready_to_dive_into_the_" value="Estás listo para sumergirse en el laberinto de mentiras.¡Varkus no sabrá qué lo golpeó!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+  <Key key="_npc_You_keep_my_secret__and_you_ca" value="Mantienes mi secreto y puedes mantenerlo, ya no me importa una mierda." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Just_get_the_fuck_outta_here__" value="Simplemente sal de la mierda aquí, ¿de acuerdo?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_goal_talk_npc" value="Habla con Varkus Drov" />
+  <Key key="_npc_Alright__you_got_me__The_bitch" value="Muy bien, me tienes.La perra iba a derramar mis secretos, y ella tenía que irse." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_I_don_t_know_shit_about_any_al" value="No sé mierda sobre ningún extranjero, pero encontré tu maldito artefacto después de que te fuiste." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Oh_wait__you_have_proof_" value="Oh, espera, ¿tienes pruebas?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Fuuuuuuuuck___" value="Fuuuuuuuuck ..." voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Don_t_you_sound_RIDICULOUS_" value="¿No suenas ridículo?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_What_the_hell_are_you_doing_he" value="¿Que demonios estas haciendo aquí?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_npc_Aliens_____Artifacts_____Murde" value="Extraterrestres ...?Artefactos ...?Asesinato...?" voiceSettingsId="9DtvxTt4Q0kB3TTLFy1K" />
+  <Key key="_QuestActionAddToJournal_Alexander_Stones__Westwind_Woo" value="Alexander Stones&#10;Westwind Woods, Old Quarry con vista a la plataforma.&#10;&#10;Ayude a Alexander Stones a descubrir la verdad sobre la esposa muerta de Varkus Drov y un artefacto crítico al confrontar a Varkus Drov." />
+  <Key key="_npc_Fine__stay_in_the_dark__But_do" value="Bien, quédate en la oscuridad.¡Pero no vengas a llorar cuando los extraterrestres te atrapen!" voiceSettingsId="Tw2LVqLUUWkxqrCfFOpw" />
+</Node>
